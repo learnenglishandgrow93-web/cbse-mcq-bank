@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "According to the textbook, what is the generally accepted limit for how many times a standard sheet of paper can be folded?",
+    "options": [
+      "5 times",
+      "7 times",
+      "10 times",
+      "12 times"
+    ],
+    "answer": "7 times",
+    "explanation": "On page 19, the character Estu mentions a common hearing that a sheet of paper cannot be folded more than 7 times. This serves as the starting point for the chapter's exploration of exponential growth through paper thickness."
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "If a paper with an initial thickness of 0.001 cm is folded 10 times, what is its approximate thickness?",
+    "options": [
+      "0.010 cm",
+      "0.102 cm",
+      "1.024 cm",
+      "10.24 cm"
+    ],
+    "answer": "1.024 cm",
+    "explanation": "As shown in the table on page 20, the thickness doubles with every fold. After 10 folds, the calculation is 0.001 cm multiplied by 2 raised to the power of 10 (1024), resulting in exactly 1.024 cm."
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "After how many folds does the thickness of a 0.001 cm sheet of paper approximately reach the height of the Burj Khalifa (830 m)?",
+    "options": [
+      "20 folds",
+      "23 folds",
+      "26 folds",
+      "30 folds"
+    ],
+    "answer": "26 folds",
+    "explanation": "Page 20 states that after 26 folds, the thickness is approximately 670 m. While the Burj Khalifa is 830 m, 26 folds is the closest milestone provided in the text before exceeding the height of the building."
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Which of the following describes the growth of paper thickness when folded repeatedly?",
+    "options": [
+      "Linear growth",
+      "Additive growth",
+      "Exponential growth",
+      "Subtractive growth"
+    ],
+    "answer": "Exponential growth",
+    "explanation": "Page 21 explains that when thickness doubles after every fold, it is a power of multiplicative growth. This specific type of rapid increase is formally called exponential growth."
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "In the exponential expression 5 to the power 4, what is the number 5 called?",
+    "options": [
+      "Exponent",
+      "Power",
+      "Base",
+      "Factor"
+    ],
+    "answer": "Base",
+    "explanation": "On page 22, the text defines the parts of an exponential expression. In the example 5^4, 5 is explicitly identified as the base, while 4 is the exponent or power."
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the numerical value of (-1) raised to the power of 56?",
+    "options": [
+      "-56",
+      "56",
+      "-1",
+      "1"
+    ],
+    "answer": "1",
+    "explanation": "Based on the rules discussed on page 22 regarding negative bases, (-1) raised to an even power is always positive. Since 56 is an even number, the result is positive 1."
+  },
+  {
+    "id": 7,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Express 32400 as a product of its prime factors in exponential form.",
+    "options": [
+      "2^4 × 5^2 × 3^4",
+      "2^3 × 5^3 × 3^2",
+      "2^2 × 5^4 × 3^4",
+      "2^4 × 5^4 × 3^2"
+    ],
+    "answer": "2^4 × 5^2 × 3^4",
+    "explanation": "The prime factorization tree provided on page 22 demonstrates that 32400 equals 2 × 2 × 2 × 2 × 5 × 5 × 3 × 3 × 3 × 3. Grouping these results in the exponential form 2^4 × 5^2 × 3^4."
+  },
+  {
+    "id": 8,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "How is the expression n raised to the power 2 commonly read?",
+    "options": [
+      "n doubled",
+      "n squared",
+      "n twice",
+      "n second"
+    ],
+    "answer": "n squared",
+    "explanation": "Page 21 notes that square numbers can be expressed as n^2. It specifies that this is read as 'n squared' or 'n raised to the power 2'."
+  },
+  {
+    "id": 9,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "In the riddle 'The Stones that Shine', if there are 3 daughters and every step involves a multiple of 3, what is the total number of diamonds?",
+    "options": [
+      "3^5",
+      "3^6",
+      "3^7",
+      "3^8"
+    ],
+    "answer": "3^7",
+    "explanation": "Page 23 details the riddle where daughters, baskets, keys, rooms, tables, necklaces, and diamonds each follow a factor of 3. By multiplying 3 by itself 7 times, we find the total number of diamonds is 3^7."
+  },
+  {
+    "id": 10,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Which general rule represents the product of two powers with the same base?",
+    "options": [
+      "n^a × n^b = n^(a-b)",
+      "n^a × n^b = n^(a+b)",
+      "n^a × n^b = n^(a×b)",
+      "n^a × n^b = (2n)^(a+b)"
+    ],
+    "answer": "n^a × n^b = n^(a+b)",
+    "explanation": "On page 24, the text generalises the multiplication of powers. It states that for any counting numbers a and b, the product of n^a and n^b is n raised to the sum of the exponents (a+b)."
+  },
+  {
+    "id": 11,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the result of any non-zero number raised to the power of 0?",
+    "options": [
+      "0",
+      "The number itself",
+      "1",
+      "Infinity"
+    ],
+    "answer": "1",
+    "explanation": "Page 28 defines the case for the zero exponent. It proves that for any non-zero value x, x raised to the power 0 (x^0) equals 1."
+  },
+  {
+    "id": 12,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "If a pond of lotuses doubles every day and is full on the 30th day, on which day was it half full?",
+    "options": [
+      "15th day",
+      "20th day",
+      "25th day",
+      "29th day"
+    ],
+    "answer": "29th day",
+    "explanation": "The 'Magical Pond' puzzle on page 25 explains that since the number of lotuses doubles every day, the amount on any given day is twice the amount of the previous day. Therefore, it was half full exactly one day before it was full."
+  },
+  {
+    "id": 13,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "How many combinations are possible for a 5-digit lock where each digit can be 0-9?",
+    "options": [
+      "10^4",
+      "10^5",
+      "5^10",
+      "50,000"
+    ],
+    "answer": "10^5",
+    "explanation": "Page 27 calculates the total passwords for a 5-digit lock. Since each of the 5 slots has 10 choices (0-9), the total combinations are 10 × 10 × 10 × 10 × 10, which is expressed as 10^5 or 1,00,000."
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the standard form (scientific notation) for the number 5900?",
+    "options": [
+      "59 × 10^2",
+      "0.59 × 10^4",
+      "5.9 × 10^3",
+      "5.9 × 10^4"
+    ],
+    "answer": "5.9 × 10^3",
+    "explanation": "Page 31 explains scientific notation as the product of a number between 1 and 10 and a power of 10. For 5900, this requires moving the decimal three places, resulting in 5.9 × 10^3."
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "Which term is used in the International system to represent 10 raised to the power 9?",
+    "options": [
+      "Million",
+      "Billion",
+      "Trillion",
+      "Quadrillion"
+    ],
+    "answer": "Billion",
+    "explanation": "In the comparison table on page 43, the International system naming is provided. It shows that 1,000,000,000 (10^9) is referred to as a Billion."
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "What is the equivalent of 'one lakh' in exponential notation using powers of 10?",
+    "options": [
+      "10^3",
+      "10^4",
+      "10^5",
+      "10^6"
+    ],
+    "answer": "10^5",
+    "explanation": "Page 43 explains the modern naming system in India. It equates a hundred thousand to a 'lakh' and shows the calculation 10^2 × 10^3 = 10^5."
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "According to the 'Power Lines' for base 4, what is the value of 4 raised to the power -2?",
+    "options": [
+      "-16",
+      "1/8",
+      "1/16",
+      "1/4"
+    ],
+    "answer": "1/16",
+    "explanation": "The diagram on page 29 shows powers of 4 arranged along a line. It explicitly shows that 4 raised to the power -2 (4^-2) corresponds to the value 1/16."
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "Which of these is the correct rule for dividing powers with the same base?",
+    "options": [
+      "n^a ÷ n^b = n^(a+b)",
+      "n^a ÷ n^b = n^(a-b)",
+      "n^a ÷ n^b = n^(a/b)",
+      "n^a ÷ n^b = n^(b-a)"
+    ],
+    "answer": "n^a ÷ n^b = n^(a-b)",
+    "explanation": "On page 27, under the section 'The Other Side of Powers', the text generalises the division of exponents. It states that n^a ÷ n^b = n^(a-b) for non-zero n and counting numbers where a > b."
+  },
+  {
+    "id": 19,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the estimated global population of ants mentioned in the book?",
+    "options": [
+      "2 × 10^12",
+      "2 × 10^15",
+      "2 × 10^16",
+      "2 × 10^21"
+    ],
+    "answer": "2 × 10^16",
+    "explanation": "Page 38 provides estimates for various populations to help visualize large numbers. It lists the estimated global population of ants as 20 padma or 20 quadrillion, which is 2 × 10^16."
+  },
+  {
+    "id": 20,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "In ancient Jaina and Buddhist texts, what power of ten was referred to as 'ayuta'?",
+    "options": [
+      "10^7",
+      "10^9",
+      "10^11",
+      "10^13"
+    ],
+    "answer": "10^9",
+    "explanation": "Page 42, in the section 'A Pinch of History', references the Lalitavistara. It mentions a dialogue where 'hundred kotis' are called an 'ayuta', representing 10^9."
+  },
+  {
+    "id": 21,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "If you double the thickness of a 0.001 cm paper 46 times, it becomes thick enough to reach which destination?",
+    "options": [
+      "Mount Everest",
+      "Outer Space",
+      "The Moon",
+      "Mars"
+    ],
+    "answer": "The Moon",
+    "explanation": "The introductory cartoon on page 19 features an owl explaining that folding a paper 46 times makes it thick enough to reach the Moon. Page 21 confirms this value is more than 7,00,000 km."
+  },
+  {
+    "id": 22,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What does the symbol '≈' represent in the mathematical tables of this chapter?",
+    "options": [
+      "Greater than",
+      "Approximately equal to",
+      "Exactly equal to",
+      "Not equal to"
+    ],
+    "answer": "Approximately equal to",
+    "explanation": "On page 20, the text clarifies that the sign '≈' is used to indicate 'approximately equal to', particularly when dealing with rounded decimals in growth tables."
+  },
+  {
+    "id": 23,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "How many steps would a ladder with 20 cm gaps need to reach the Moon (3,84,400 km) if the growth is linear?",
+    "options": [
+      "1.922 million",
+      "19.22 crore",
+      "192.2 crore",
+      "1922 crore"
+    ],
+    "answer": "192.2 crore",
+    "explanation": "Page 36 compares linear and exponential growth. To cover 3,84,400 km with 20 cm steps, it calculates the result as 1,92,20,00,000 steps, which is 192 crore and 20 lakh steps."
+  },
+  {
+    "id": 24,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the relationship between n^-a and n^a according to the general forms identified?",
+    "options": [
+      "n^-a = -n^a",
+      "n^-a = 1 / n^a",
+      "n^-a = n^(1/a)",
+      "n^-a = a^n"
+    ],
+    "answer": "1 / n^a",
+    "explanation": "On page 29, the book identifies general forms for exponents. It states that n raised to a negative power 'a' is equivalent to the reciprocal 1 / n^a, provided n is not zero."
+  },
+  {
+    "id": 25,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "In scientific notation, what must be true about the coefficient 'x' in the form x × 10^y?",
+    "options": [
+      "x must be less than 1",
+      "x must be exactly 10",
+      "x must be between 1 and 10 (including 1)",
+      "x must be a whole number"
+    ],
+    "answer": "x must be between 1 and 10 (including 1)",
+    "explanation": "Page 31 defines standard form or scientific notation, stating that we write numbers as x × 10^y where x is greater than or equal to 1 and less than 10."
+  },
+  {
+    "id": 26,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the value of 10 to the power 100 commonly called?",
+    "options": [
+      "Centillion",
+      "Googol",
+      "Googolplex",
+      "Trillion"
+    ],
+    "answer": "Googol",
+    "explanation": "On page 43, the text introduces extremely large numbers and notes that the number 10 raised to the power of 100 is also called a googol."
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "If Roxie has 7 dresses, 2 hats, and 3 pairs of shoes, how many different outfits can she create?",
+    "options": [
+      "12 outfits",
+      "14 outfits",
+      "21 outfits",
+      "42 outfits"
+    ],
+    "answer": "42 outfits",
+    "explanation": "Page 26 explores combinations. By following the logic of the example provided (4 dresses × 3 caps = 12), Roxie's combinations are calculated as 7 × 2 × 3, which equals 42."
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Express the number 14,33,50,00,00,000 m (distance to Saturn) in standard scientific notation.",
+    "options": [
+      "14.335 × 10^11 m",
+      "1.4335 × 10^12 m",
+      "0.14335 × 10^13 m",
+      "1.4335 × 10^13 m"
+    ],
+    "answer": "1.4335 × 10^12 m",
+    "explanation": "Page 32 lists astronomical distances. To write 14,33,50,00,00,000 in standard form, the decimal is placed after the first non-zero digit, moving 12 places, making it 1.4335 × 10^12."
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What was the estimated human population as of the year 2025 mentioned in the book?",
+    "options": [
+      "1.3 billion",
+      "5.8 crore",
+      "8.2 billion",
+      "33 billion"
+    ],
+    "answer": "8.2 billion",
+    "explanation": "On page 37, the text provides various population statistics. It explicitly states that the global human population as of 2025 is 8.2 arab or 8.2 billion."
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "According to modern physics and the text, approximately how many seconds ago did the universe form?",
+    "options": [
+      "10^9 seconds",
+      "10^12 seconds",
+      "10^15 seconds",
+      "10^17 to 10^18 seconds"
+    ],
+    "answer": "10^17 to 10^18 seconds",
+    "explanation": "Page 42 provides a timeline in seconds. It notes that 10^17 seconds is about 3.17 billion years, and that 10^18 seconds ago the universe did not exist, placing the formation in that magnitude."
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "In the American/International system, what is the name for 10 raised to the power 12?",
+    "options": [
+      "Billion",
+      "Trillion",
+      "Quadrillion",
+      "Quintillion"
+    ],
+    "answer": "Trillion",
+    "explanation": "On page 43, the book lists powers of ten and their names. It shows that in the International system, 10^3 × 10^9 = 10^12, which is called a trillion."
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the value of 3 raised to the power 4?",
+    "options": [
+      "12",
+      "27",
+      "64",
+      "81"
+    ],
+    "answer": "81",
+    "explanation": "Page 23 demonstrates repeated multiplication for base 3. It shows that 3 × 3 = 9, 9 × 3 = 27, and 27 × 3 = 81, which is the value of 3 to the power 4 (3^4)."
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "How many seconds does it take for light to reach the Earth from the Sun?",
+    "options": [
+      "10 seconds",
+      "100 seconds",
+      "≈ 5 × 10^2 seconds",
+      "10^4 seconds"
+    ],
+    "answer": "≈ 5 × 10^2 seconds",
+    "explanation": "On page 39, the 'Time in seconds' table compares mathematical powers to real-world events. It lists the time for light to reach Earth as about 8 minutes, which is approximately 5 × 10^2 seconds."
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "If n^a ÷ m^a is equal to (n/m)^a, what is the simplified form of 10^4 ÷ 5^4?",
+    "options": [
+      "2",
+      "2^4",
+      "5^4",
+      "10"
+    ],
+    "answer": "2^4",
+    "explanation": "Using the general form shown on page 25, 10^4 / 5^4 can be written as (10/5)^4. Since 10/5 = 2, the simplified exponential form is 2^4, which equals 16."
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the name given to the practice of offering goods equal to a person's weight in Southern India?",
+    "options": [
+      "Annadana",
+      "Padayatra",
+      "Tulabhara",
+      "Bhakti"
+    ],
+    "answer": "Tulabhara",
+    "explanation": "Page 33 describes 'Tulabhara' or 'Tulabharam' as a symbol of bhakti and gratitude where goods like jaggery or wheat are offered equal to the weight of a person."
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "Which power of 10 is used to represent the value of one 'Crore' in the Indian system?",
+    "options": [
+      "10^5",
+      "10^6",
+      "10^7",
+      "10^8"
+    ],
+    "answer": "10^7",
+    "explanation": "Page 43 explains the modern Indian naming convention. It shows that a hundred lakhs constitutes a crore, which is 10^2 × 10^5 = 10^7."
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "The book mentions a 100 trillion Zimbabwe dollar note printed in 2009. What was its approximate value in USD at that time?",
+    "options": [
+      "$1",
+      "$10",
+      "$30",
+      "$100"
+    ],
+    "answer": "$30",
+    "explanation": "On page 43, the text discusses high denomination currency. It states that the 100 trillion (10^14) Zimbabwean dollar note was worth about $30 at the time of printing."
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the simplified exponential notation for the expression (4^3)^2?",
+    "options": [
+      "4^5",
+      "4^6",
+      "4^9",
+      "16^6"
+    ],
+    "answer": "4^6",
+    "explanation": "Page 24 explains the 'power of a power' rule. The expression (n^a)^b = n^(a×b). Therefore, (4^3)^2 = 4^(3×2), which is 4^6 or 4096."
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "According to the text, what is the estimated thickness of a single sheet of paper?",
+    "options": [
+      "0.1 cm",
+      "0.01 cm",
+      "0.001 cm",
+      "0.0001 cm"
+    ],
+    "answer": "0.001 cm",
+    "explanation": "The mathematical problems in the first section (starting page 19) are based on the assumption that the initial thickness of a single sheet of paper is 0.001 cm."
+  },
+  {
+    "id": 40,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "In the expanded form of decimal numbers using powers of 10, how is the digit in the 'tenths' place represented?",
+    "options": [
+      "Digit × 10^1",
+      "Digit × 10^0",
+      "Digit × 10^-1",
+      "Digit × 10^-2"
+    ],
+    "answer": "Digit × 10^-1",
+    "explanation": "On page 30, the book explains writing decimals using powers of 10. For the number 561.903, the 9 in the tenths place is written as 9 × 10^-1."
+  },
+  {
+    "id": 41,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "If you are 1,000,000 (10^6) seconds old, approximately how many days have you lived?",
+    "options": [
+      "1.16 days",
+      "11.57 days",
+      "31.7 days",
+      "365 days"
+    ],
+    "answer": "11.57 days",
+    "explanation": "On page 40, the text provides a conversion for time. It notes that 10^6 seconds is approximately 11.57 days, which is less than a fortnight."
+  },
+  {
+    "id": 42,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Which ancient treatise provides number-names for odd powers of ten up to 10^53?",
+    "options": [
+      "Ganita-sara-sangraha",
+      "Amalasiddhi",
+      "Lalitavistara",
+      "Kaccayana"
+    ],
+    "answer": "Lalitavistara",
+    "explanation": "The historical section on page 42 identifies the Lalitavistara as a Buddhist treatise from the first century BCE that lists names for odd powers of ten up to 10^53."
+  },
+  {
+    "id": 43,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the base in the expression p^4 × p^6 = p^10?",
+    "options": [
+      "4",
+      "6",
+      "10",
+      "p"
+    ],
+    "answer": "p",
+    "explanation": "As defined in the general notation on page 24, when we have expressions like p^4, the letter or number being multiplied (p) is the base."
+  },
+  {
+    "id": 44,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Calculate the thickness of the paper after 20 folds if each fold doubles the previous thickness starting from 0.001 cm.",
+    "options": [
+      "10.24 cm",
+      "104.8 cm",
+      "1048 cm",
+      "10485 cm"
+    ],
+    "answer": "1048 cm",
+    "explanation": "Page 20 provides the table for folds. For 20 folds, it shows the thickness as approximately 10.4 m. Converting this back to centimeters (10.4 × 100), we get 1040-1048 cm."
+  },
+  {
+    "id": 45,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "According to the 'Getting a Sense for Large Numbers' section, what is the value of an 'arab'?",
+    "options": [
+      "10^5",
+      "10^7",
+      "10^9",
+      "10^12"
+    ],
+    "answer": "10^9",
+    "explanation": "On page 36, the book describes large number units used in India. It defines an 'arab' as 10^9, which corresponds to a billion (1,00,00,00,000)."
+  },
+  {
+    "id": 46,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What happens to the total value of 2^n as n increases by 1?",
+    "options": [
+      "It stays the same",
+      "It increases by 2",
+      "It doubles",
+      "It squares itself"
+    ],
+    "answer": "It doubles",
+    "explanation": "The entire first section of the chapter (Pages 19-21) emphasizes that for base 2, every increment in the exponent represents a doubling of the total value."
+  },
+  {
+    "id": 47,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Which of these populations is estimated to be approximately 33 billion (3.3 × 10^10)?",
+    "options": [
+      "Human population",
+      "Ant population",
+      "Chicken population",
+      "Beetle population"
+    ],
+    "answer": "Chicken population",
+    "explanation": "In the list of large numbers on page 38, the text estimates the global chicken population living at any time to be approximately 33 billion or 3.3 × 10^10."
+  },
+  {
+    "id": 48,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the duration of one full revolution of Neptune around the Sun in seconds?",
+    "options": [
+      "10^7 seconds",
+      "10^8 seconds",
+      "≈ 5.2 × 10^9 seconds",
+      "10^12 seconds"
+    ],
+    "answer": "≈ 5.2 × 10^9 seconds",
+    "explanation": "The time table on page 40 includes planetary orbits. It states that one full revolution of Neptune around the Sun is approximately 5.2 × 10^9 seconds."
+  },
+  {
+    "id": 49,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "In the expression (na)^b, if a=2 and b=3, what is the final exponent for base n?",
+    "options": [
+      "5",
+      "6",
+      "8",
+      "9"
+    ],
+    "answer": "6",
+    "explanation": "Based on the general law of exponents found on page 24, (n^a)^b = n^(a×b). Thus, (n^2)^3 = n^(2×3) = n^6."
+  },
+  {
+    "id": 50,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "How many choices are there for each digit in a standard Indian Pincode?",
+    "options": [
+      "6",
+      "10",
+      "26",
+      "36"
+    ],
+    "answer": "10",
+    "explanation": "Page 27 discusses combinations in different contexts including Pincodes. Each digit in a Pincode (0-9) has 10 possible choices."
+  }
+]
