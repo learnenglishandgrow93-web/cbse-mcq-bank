@@ -4,487 +4,82 @@
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
     "difficulty": "easy",
-    "question": "What is the name of the book published by Robert Hooke in 1665?",
+    "question": "Why is the piece of glass used to make small things look bigger called a 'lens'?",
     "options": [
-      "Micrographia",
-      "Cell Biology",
-      "The Tiny World",
-      "Microbiology Basics"
+      "Because it is transparent",
+      "Because it is shaped like a lentil seed",
+      "Because it is thick at the edges",
+      "Because it is made of plastic"
     ],
-    "answer": "Micrographia",
-    "explanation": "In 1665, the scientist Robert Hooke published his famous book 'Micrographia' where he shared detailed drawings of microscopic things. This is mentioned on Page 10 (OCR Page 3) of the textbook."
+    "answer": "Because it is shaped like a lentil seed",
+    "explanation": "Early people discovered that a curved piece of glass shaped like a lentil seed (thick in the middle and thin at the edge) could magnify objects. This is mentioned on Page 9."
   },
   {
     "id": 2,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
     "difficulty": "easy",
-    "question": "Which scientist is known as the 'Father of Microbiology'?",
+    "question": "In Activity 2.1, what happens to the letters on a book when viewed through a water-filled round-bottom flask?",
     "options": [
-      "Robert Hooke",
-      "Antonie van Leeuwenhoek",
-      "Louis Pasteur",
-      "Ananda Mohan Chakrabarty"
+      "They appear smaller",
+      "They appear larger",
+      "They appear blurred",
+      "They change color"
     ],
-    "answer": "Antonie van Leeuwenhoek",
-    "explanation": "Antonie van Leeuwenhoek was the first person to clearly see and describe tiny living things like bacteria. Because of this, he is called the Father of Microbiology. This is stated on Page 10 (OCR Page 3)."
+    "answer": "They appear larger",
+    "explanation": "A round-bottom flask filled with water acts like a magnifying glass due to its curved surface, causing the letters to appear larger. This is described on Page 9."
   },
   {
     "id": 3,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
     "difficulty": "easy",
-    "question": "What did Robert Hooke observe in a thin slice of cork?",
+    "question": "Which scientist published the book 'Micrographia' in 1665?",
     "options": [
-      "Tiny moving animals",
-      "Small, empty spaces called cells",
-      "Green chloroplasts",
-      "Bacteria and blood cells"
+      "Antonie van Leeuwenhoek",
+      "Ananda Mohan Chakrabarty",
+      "Robert Hooke",
+      "Lactobacillus"
     ],
-    "answer": "Small, empty spaces called cells",
-    "explanation": "Hooke looked at a thin slice of cork and saw compartments that reminded him of a honeycomb, which he called 'cells'. This is explained on Page 10 (OCR Page 3)."
+    "answer": "Robert Hooke",
+    "explanation": "Robert Hooke was a scientist who published 'Micrographia' in 1665, containing drawings of objects he saw through his microscope. This is mentioned on Page 10."
   },
   {
     "id": 4,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "In Activity 2.1, why do letters appear larger when seen through a water-filled round-bottom flask?",
+    "difficulty": "easy",
+    "question": "What did Robert Hooke observe when he looked at a thin slice of cork?",
     "options": [
-      "The water changes the color of the ink",
-      "The flask filled with water acts like a magnifying glass",
-      "The glass of the flask is polished specially",
-      "Water reflects light from the book"
+      "Solid matter",
+      "Moving bacteria",
+      "Many small, empty spaces",
+      "Blood cells"
     ],
-    "answer": "The flask filled with water acts like a magnifying glass",
-    "explanation": "A curved object like a water-filled flask can act as a lens to magnify images. This observation is part of Activity 2.1 described on Page 9 (OCR Page 2)."
+    "answer": "Many small, empty spaces",
+    "explanation": "Hooke observed that cork was made of many small, empty compartments that reminded him of a honeycomb. This is mentioned on Page 10."
   },
   {
     "id": 5,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "What is the purpose of adding safranin while studying onion peel cells?",
+    "difficulty": "easy",
+    "question": "Who is known as the 'Father of Microbiology'?",
     "options": [
-      "To keep the cells alive",
-      "To give a pinkish colour to cells for better visibility",
-      "To prevent the cells from drying",
-      "To wash away dirt from the peel"
+      "Robert Hooke",
+      "Ananda Mohan Chakrabarty",
+      "Antonie van Leeuwenhoek",
+      "Snehal"
     ],
-    "answer": "To give a pinkish colour to cells for better visibility",
-    "explanation": "Safranin is a red-coloured stain used in Activity 2.2 to give a pinkish color to cells, helping observers see them clearly. This is found on Page 11 (OCR Page 4)."
+    "answer": "Antonie van Leeuwenhoek",
+    "explanation": "Antonie van Leeuwenhoek was the first person to clearly see and describe tiny living things like bacteria and blood cells, earning him this title. This is mentioned on Page 10."
   },
   {
     "id": 6,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "Why is glycerin used when preparing a slide of onion peel cells?",
-    "options": [
-      "To stain the nucleus",
-      "To prevent drying of the cells and improve clarity",
-      "To kill the bacteria on the slide",
-      "To act as an adhesive for the coverslip"
-    ],
-    "answer": "To prevent drying of the cells and improve clarity",
-    "explanation": "Glycerin prevents the cells from drying out and improves visual clarity during microscopic observation. This is mentioned in Activity 2.2 on Page 11 (OCR Page 4)."
-  },
-  {
-    "id": 7,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
     "difficulty": "easy",
-    "question": "What are the three main parts of a cell identified in the text?",
-    "options": [
-      "Cell wall, nucleus, and mitochondria",
-      "Cell membrane, cytoplasm, and nucleus",
-      "Vacuole, chloroplast, and cell wall",
-      "Nerve, muscle, and blood"
-    ],
-    "answer": "Cell membrane, cytoplasm, and nucleus",
-    "explanation": "The text identifies the cell membrane, cytoplasm, and nucleus as the three basic parts of a cell. This information is on Page 12 (OCR Page 5)."
-  },
-  {
-    "id": 8,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "hard",
-    "question": "Which of the following describes the function of the cell membrane?",
-    "options": [
-      "It makes the cell green and performs photosynthesis",
-      "It is porous and allows entry/exit of specific materials",
-      "It is only found in plant cells for rigidity",
-      "It regulates the growth of the nucleus"
-    ],
-    "answer": "It is porous and allows entry/exit of specific materials",
-    "explanation": "The cell membrane is porous and allows essential materials to enter and waste materials to exit. This is detailed on Page 12 (OCR Page 5)."
-  },
-  {
-    "id": 9,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "easy",
-    "question": "Which part of the cell regulates all activities and growth?",
-    "options": [
-      "Cytoplasm",
-      "Cell wall",
-      "Nucleus",
-      "Vacuole"
-    ],
-    "answer": "Nucleus",
-    "explanation": "The nucleus acts as the control center, regulating all activities within the cell as well as its growth. This is found on Page 13 (OCR Page 6)."
-  },
-  {
-    "id": 10,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "What is the function of chloroplasts in plant cells?",
-    "options": [
-      "They store waste products",
-      "They help in photosynthesis to make food",
-      "They provide rigidity to the stem",
-      "They regulate cell division"
-    ],
-    "answer": "They help in photosynthesis to make food",
-    "explanation": "Chloroplasts contain chlorophyll, which makes plants green and helps them perform photosynthesis. This is mentioned in 'A step further' on Page 13 (OCR Page 6)."
-  },
-  {
-    "id": 11,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "hard",
-    "question": "How do vacuoles differ between plant and animal cells?",
-    "options": [
-      "Animal cells have one large vacuole, plant cells have many small ones",
-      "Plant cells have large vacuoles, animal cells have small or no vacuoles",
-      "Vacuoles in plant cells are for movement, in animals for storage",
-      "Plant cells use vacuoles for respiration, animals for digestion"
-    ],
-    "answer": "Plant cells have large vacuoles, animal cells have small or no vacuoles",
-    "explanation": "Plant cells have a large empty-looking space called a vacuole for storage and support, while animal cells usually have small ones or none at all. This is on Page 13 (OCR Page 6)."
-  },
-  {
-    "id": 12,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "What is the specific shape of a human muscle cell as described in the text?",
-    "options": [
-      "Long and branched",
-      "Spindle-shaped",
-      "Rectangular",
-      "Spherical"
-    ],
-    "answer": "Spindle-shaped",
-    "explanation": "The textbook describes and illustrates a muscle cell as being shaped like a spindle. This is located on Page 13 (OCR Page 6)."
-  },
-  {
-    "id": 13,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "What feature of nerve cells (neurons) helps them pass on messages quickly?",
-    "options": [
-      "Their spindle shape",
-      "Their green pigment",
-      "Their elongated shape and branched structure",
-      "The presence of a thick cell wall"
-    ],
-    "answer": "Their elongated shape and branched structure",
-    "explanation": "Nerve cells are elongated and branched to help them reach different parts of the body and transmit messages quickly. This is on Page 14 (OCR Page 7)."
-  },
-  {
-    "id": 14,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "easy",
-    "question": "What is the correct sequence of levels of organisation in a living organism?",
-    "options": [
-      "Cell \u2192 Organ \u2192 Tissue \u2192 Organ system \u2192 Organism",
-      "Organism \u2192 Organ system \u2192 Organ \u2192 Tissue \u2192 Cell",
-      "Cell \u2192 Tissue \u2192 Organ \u2192 Organ system \u2192 Organism",
-      "Tissue \u2192 Cell \u2192 Organ \u2192 Organism \u2192 Organ system"
-    ],
-    "answer": "Cell \u2192 Tissue \u2192 Organ \u2192 Organ system \u2192 Organism",
-    "explanation": "The textbook identifies this specific hierarchy of life, starting from the basic unit (cell) to the complete organism. This is on Page 14 (OCR Page 7)."
-  },
-  {
-    "id": 15,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "hard",
-    "question": "What is the size range of the yolk of an ostrich egg, which is considered a single cell?",
-    "options": [
-      "10 mm to 50 mm",
-      "130 mm to 170 mm",
-      "1 meter to 2 meters",
-      "1 mm to 5 mm"
-    ],
-    "answer": "130 mm to 170 mm",
-    "explanation": "The yolk of an ostrich egg is the largest known single cell, measuring between 130 mm and 170 mm in diameter. This fact is on Page 15 (OCR Page 8)."
-  },
-  {
-    "id": 16,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "easy",
-    "question": "What does the term 'unicellular' mean?",
-    "options": [
-      "An organism made of many cells",
-      "An organism made of a single cell",
-      "An organism with no cells",
-      "An organism with only plant cells"
-    ],
-    "answer": "An organism made of a single cell",
-    "explanation": "Unicellular organisms, like bacteria and Amoeba, are made of just one cell. This is defined on Page 15 (OCR Page 8)."
-  },
-  {
-    "id": 17,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "Which microorganism is described as having an 'irregular shape' and being a single cell?",
-    "options": [
-      "Paramecium",
-      "Algae",
-      "Amoeba",
-      "Bread mould"
-    ],
-    "answer": "Amoeba",
-    "explanation": "According to Table 2.1, Amoeba is a single-celled protozoan with an irregular shape. This is on Page 16 (OCR Page 9)."
-  },
-  {
-    "id": 18,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "How is the structure of a bread mould (fungi) described in the textbook?",
-    "options": [
-      "Single green cell",
-      "Branched filament with a sac-like structure",
-      "Spiral-shaped with hair-like projections",
-      "Symmetry with brush-like structures"
-    ],
-    "answer": "Branched filament with a sac-like structure",
-    "explanation": "Table 2.2 describes bread mould as a branched filament without chlorophyll having a sac-like structure. This is on Page 17 (OCR Page 10)."
-  },
-  {
-    "id": 19,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "hard",
-    "question": "What is unique about viruses compared to other microorganisms mentioned in the text?",
-    "options": [
-      "They are multicellular",
-      "They are acellular and multiply only inside a living cell",
-      "They are used to make bread and curd",
-      "They are visible to the naked eye"
-    ],
-    "answer": "They are acellular and multiply only inside a living cell",
-    "explanation": "Viruses are described as acellular entities that can only multiply when they enter a living host cell. This is found in 'Ever heard of...' on Page 17 (OCR Page 10)."
-  },
-  {
-    "id": 20,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "Why do high concentrations of salt or sugar in pickles and murabbas prevent microbe growth?",
-    "options": [
-      "They act as food for the microbes",
-      "They act as preservatives that inhibit growth",
-      "They provide the warm temperature microbes need",
-      "They add oxygen to the container"
-    ],
-    "answer": "They act as preservatives that inhibit growth",
-    "explanation": "High concentrations of salt or sugar act as preservatives that do not allow microorganisms to grow on food items. This is on Page 18 (OCR Page 11)."
-  },
-  {
-    "id": 21,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "What is the role of bacteria and fungi in the process of decomposition?",
-    "options": [
-      "They build complex structures from soil",
-      "They break down complex waste into simpler, nutrient-rich manure",
-      "They prevent plants from growing",
-      "They release oxygen into the soil"
-    ],
-    "answer": "They break down complex waste into simpler, nutrient-rich manure",
-    "explanation": "Microorganisms break down complex substances in fallen leaves and dead animals into simpler nutrients to form manure. This is explained on Page 19 (OCR Page 12)."
-  },
-  {
-    "id": 22,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "hard",
-    "question": "What does the word 'Krimi' mean in ancient Indian Vedic texts?",
-    "options": [
-      "Small animals",
-      "Different tiny entities, both visible and invisible",
-      "Plants that grow in water",
-      "A type of food preservation"
-    ],
-    "answer": "Different tiny entities, both visible and invisible",
-    "explanation": "In 'Our scientific heritage', the text notes that the word 'Krimi' refers to tiny entities, including 'Drishya' (visible) and 'Adrishya' (invisible). This is on Page 19 (OCR Page 12)."
-  },
-  {
-    "id": 23,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "What are the primary gases found in biogas?",
-    "options": [
-      "Oxygen and Nitrogen",
-      "Carbon dioxide and Methane",
-      "Hydrogen and Helium",
-      "Carbon monoxide and Argon"
-    ],
-    "answer": "Carbon dioxide and Methane",
-    "explanation": "Biogas is primarily composed of carbon dioxide and a high proportion of methane gas. This is mentioned on Page 20 (OCR Page 13)."
-  },
-  {
-    "id": 24,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "hard",
-    "question": "What contribution did scientist Ananda Mohan Chakrabarty make using bacteria?",
-    "options": [
-      "He discovered the first cell in 1665",
-      "He developed a bacterium that could break down oil spills",
-      "He invented the foldable paper microscope",
-      "He was the first to farm Spirulina"
-    ],
-    "answer": "He developed a bacterium that could break down oil spills",
-    "explanation": "In 1971, Chakrabarty developed a special bacterium to solve environmental problems like oil spills, receiving a patent in 1980. This is on Page 20 (OCR Page 13)."
-  },
-  {
-    "id": 25,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "In Activity 2.8, why does dough with yeast become fluffy?",
-    "options": [
-      "Yeast produces water which softens the dough",
-      "Yeast releases carbon dioxide bubbles during respiration",
-      "The warm water causes the flour to expand",
-      "Sugar reacts with oxygen to create air pockets"
-    ],
-    "answer": "Yeast releases carbon dioxide bubbles during respiration",
-    "explanation": "During respiration, yeast releases carbon dioxide, which forms bubbles that make the dough rise and become fluffy. This is explained on Page 21 (OCR Page 14)."
-  },
-  {
-    "id": 26,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "easy",
-    "question": "Which bacterium is responsible for turning milk into curd?",
-    "options": [
-      "Rhizobium",
-      "Lactobacillus",
-      "Spirulina",
-      "Amoeba"
-    ],
-    "answer": "Lactobacillus",
-    "explanation": "Lactobacillus bacteria feed on the sugar in milk (lactose) and ferment it to form curd. This is mentioned on Page 22 (OCR Page 15)."
-  },
-  {
-    "id": 27,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "What is the function of Rhizobium bacteria in leguminous plants?",
-    "options": [
-      "They help the plant perform photosynthesis",
-      "They trap nitrogen from the air and make it useful for plants",
-      "They store water in the roots during droughts",
-      "They turn the leaves green"
-    ],
-    "answer": "They trap nitrogen from the air and make it useful for plants",
-    "explanation": "Rhizobium live in root nodules and fix nitrogen from the air, which helps plants grow without chemical fertilisers. This is on Page 22 (OCR Page 15)."
-  },
-  {
-    "id": 28,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "hard",
-    "question": "Why is Spirulina considered a 'superfood'?",
-    "options": [
-      "It is a single cell that can move in water",
-      "It is rich in protein (>60%) and Vitamin B12",
-      "It can grow in extreme freezing temperatures",
-      "It is used to produce methane for fuel"
-    ],
-    "answer": "It is rich in protein (>60%) and Vitamin B12",
-    "explanation": "Spirulina is a microalga called a superfood because it contains high levels of protein and essential Vitamin B12. This is in 'Ever heard of...' on Page 23 (OCR Page 16)."
-  },
-  {
-    "id": 29,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "What structure is found in a bacterial cell instead of a well-defined nucleus?",
-    "options": [
-      "Nucleolus",
-      "Nucleoid",
-      "Nuclear membrane",
-      "Chloroplast"
-    ],
-    "answer": "Nucleoid",
-    "explanation": "Bacteria do not have a well-defined nucleus or nuclear membrane; instead, they have a region called a nucleoid. This is on Page 24 (OCR Page 17)."
-  },
-  {
-    "id": 30,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "hard",
-    "question": "How many times can an electron microscope magnify a cell?",
-    "options": [
-      "200 to 300 times",
-      "1,000 times",
-      "10,00,000 times",
-      "400 times"
-    ],
-    "answer": "10,00,000 times",
-    "explanation": "An electron microscope provides high magnification, magnifying a cell about 10,00,000 (ten lakh) times. This is stated on Page 24 (OCR Page 17)."
-  },
-  {
-    "id": 31,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "easy",
-    "question": "Are fungi unicellular or multicellular organisms?",
-    "options": [
-      "Always unicellular",
-      "Always multicellular",
-      "Can be either unicellular (yeast) or multicellular (mould)",
-      "Neither, they are acellular"
-    ],
-    "answer": "Can be either unicellular (yeast) or multicellular (mould)",
-    "explanation": "The textbook clarifies that some fungi like yeast are unicellular, while others like mould are multicellular. This is on Page 23 (OCR Page 16)."
-  },
-  {
-    "id": 32,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "Which of these is NOT a function of the cell wall in plant cells?",
-    "options": [
-      "Providing rigidity",
-      "Providing strength",
-      "Carrying messages quickly",
-      "Maintaining a firm structure"
-    ],
-    "answer": "Carrying messages quickly",
-    "explanation": "Carrying messages is the function of nerve cells. The cell wall's role is to provide rigidity, strength, and firm structure. This is on Page 13 (OCR Page 6)."
-  },
-  {
-    "id": 33,
-    "subject": "Science",
-    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "easy",
-    "question": "What is the basic unit of life?",
+    "question": "What is the basic unit of life according to the text?",
     "options": [
       "Tissue",
       "Organ",
@@ -492,261 +87,2166 @@
       "Organism"
     ],
     "answer": "Cell",
-    "explanation": "The text identifies the cell as the basic building block and unit of life for all living beings. This is on Page 10 (OCR Page 3) and Page 24 (OCR Page 17)."
+    "explanation": "The word 'cell' was first used by Robert Hooke to describe the small compartments in cork, and it is the basic unit of all living things. This is mentioned on Page 10."
+  },
+  {
+    "id": 7,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which stain is used to color onion peel cells in Activity 2.2?",
+    "options": [
+      "Methylene blue",
+      "Iodine",
+      "Safranin",
+      "Glycerin"
+    ],
+    "answer": "Safranin",
+    "explanation": "Safranin is a red-colored stain used in the onion peel experiment to give color to the cells and help see them clearly. This is mentioned on Page 11."
+  },
+  {
+    "id": 8,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What is the purpose of adding glycerin to a microscope slide preparation?",
+    "options": [
+      "To stain the cells",
+      "To prevent the cells from drying",
+      "To kill the bacteria",
+      "To make the cells move faster"
+    ],
+    "answer": "To prevent the cells from drying",
+    "explanation": "In Activities 2.2 and 2.3, glycerin is added to the slide to prevent drying and improve clarity for better visualization of cells. This is mentioned on Pages 11 and 12."
+  },
+  {
+    "id": 9,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What are the three basic parts of a typical cell?",
+    "options": [
+      "Cell wall, chloroplast, vacuole",
+      "Cell membrane, cytoplasm, nucleus",
+      "Tissue, organ, organism",
+      "Mitochondria, plastid, cell wall"
+    ],
+    "answer": "Cell membrane, cytoplasm, nucleus",
+    "explanation": "Most cells have three main parts: an outer cell membrane, a middle nucleus, and cytoplasm filling the space between them. This is mentioned on Page 12."
+  },
+  {
+    "id": 10,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which cell part provides rigidity and strength to plants?",
+    "options": [
+      "Cell membrane",
+      "Nucleus",
+      "Cytoplasm",
+      "Cell wall"
+    ],
+    "answer": "Cell wall",
+    "explanation": "The cell wall is an extra outer layer found in plant cells that provides them with rigidity and strength. This is mentioned on Page 13."
+  },
+  {
+    "id": 11,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "How did Robert Hooke's microscope compare to the naked eye in terms of magnification?",
+    "options": [
+      "It made things look 10 times bigger",
+      "It made things look 200 to 300 times bigger",
+      "It made things look 10,00,000 times bigger",
+      "It made things look 1,000 times bigger"
+    ],
+    "answer": "It made things look 200 to 300 times bigger",
+    "explanation": "Robert Hooke's microscope in the 1660s magnified objects 200 to 300 times more than what could be seen with the unaided eye. This is mentioned on Page 10."
+  },
+  {
+    "id": 12,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What is the specific function of chloroplasts in plant cells?",
+    "options": [
+      "To store waste",
+      "To protect the nucleus",
+      "To help in photosynthesis",
+      "To regulate cell growth"
+    ],
+    "answer": "To help in photosynthesis",
+    "explanation": "Chloroplasts contain chlorophyll, which gives plants their green color and is essential for the process of photosynthesis. This is mentioned on Page 13."
+  },
+  {
+    "id": 13,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "Which structure in a plant cell helps store important substances and maintain cell shape?",
+    "options": [
+      "Mitochondria",
+      "Large vacuole",
+      "Nucleoid",
+      "Safranin"
+    ],
+    "answer": "Large vacuole",
+    "explanation": "Plant cells have a large, empty-looking space called a vacuole that stores substances, gets rid of waste, and maintains cell shape. This is mentioned on Page 13."
+  },
+  {
+    "id": 14,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "How do nerve cells (neurons) differ in structure to help them carry messages quickly?",
+    "options": [
+      "They are spindle-shaped",
+      "They are round and thick",
+      "They are elongated and branched",
+      "They are rectangular and flat"
+    ],
+    "answer": "They are elongated and branched",
+    "explanation": "The elongated shape and branched structure of neurons allow them to reach different parts of the body and pass on messages quickly. This is mentioned on Page 14."
+  },
+  {
+    "id": 15,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "Which of the following represents the correct levels of organization in a living organism?",
+    "options": [
+      "Tissue -> Cell -> Organ -> Organism",
+      "Cell -> Tissue -> Organ -> Organ system -> Organism",
+      "Organism -> Organ system -> Organ -> Tissue -> Cell",
+      "Cell -> Organ -> Tissue -> Organism"
+    ],
+    "answer": "Cell -> Tissue -> Organ -> Organ system -> Organism",
+    "explanation": "Living organisms are organized from basic cells into tissues, which form organs, then organ systems, and finally the complete organism. This is mentioned on Page 14."
+  },
+  {
+    "id": 16,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What makes bacteria fundamentally different from the cells of plants, animals, and fungi according to the text?",
+    "options": [
+      "They do not have a cell membrane",
+      "They lack a well-defined nucleus and nuclear membrane",
+      "They are always multicellular",
+      "They do not contain any genetic material"
+    ],
+    "answer": "They lack a well-defined nucleus and nuclear membrane",
+    "explanation": "Bacteria do not have a well-defined nucleus; instead, they have a nucleoid region, which distinguishes them from other life forms. This is mentioned on Pages 17 and 23."
+  },
+  {
+    "id": 17,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "Why can viruses be described as 'different' from other microorganisms?",
+    "options": [
+      "They are much larger than bacteria",
+      "They are acellular and reproduce only inside a host organism",
+      "They can make their own food via photosynthesis",
+      "They are used to make bread and curd"
+    ],
+    "answer": "They are acellular and reproduce only inside a host organism",
+    "explanation": "Viruses are acellular (not made of cells) and must enter a living host cell to multiply, unlike other microbes. This is mentioned on Page 17."
+  },
+  {
+    "id": 18,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What was the specific environmental contribution of scientist Ananda Mohan Chakrabarty in 1971?",
+    "options": [
+      "He discovered the first virus",
+      "He invented the low-cost paper microscope",
+      "He developed a bacterium that could break down oil spills",
+      "He identified the largest cell in the world"
+    ],
+    "answer": "He developed a bacterium that could break down oil spills",
+    "explanation": "In 1971, Chakrabarty developed a special bacterium to clean oil spills, for which he received a patent in 1980. This is mentioned on Page 13 (in the 'Be a scientist' section on Page 20 in full content)."
+  },
+  {
+    "id": 19,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What is the primary composition of biogas produced by microorganisms?",
+    "options": [
+      "Oxygen and Nitrogen",
+      "Carbon dioxide and Methane",
+      "Hydrogen and Helium",
+      "Lactic acid and Alcohol"
+    ],
+    "answer": "Carbon dioxide and Methane",
+    "explanation": "Biogas is released during the decomposition of waste by bacteria and is primarily composed of carbon dioxide and a high proportion of methane. This is mentioned on Page 13 (or Page 20)."
+  },
+  {
+    "id": 20,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "In the context of Indian heritage, what does the Vedic word 'Krimi' refer to?",
+    "options": [
+      "A type of agricultural tool",
+      "A method of water filtration",
+      "Tiny entities, including visible and invisible ones",
+      "A specific type of soil used for farming"
+    ],
+    "answer": "Tiny entities, including visible and invisible ones",
+    "explanation": "Ancient Indian texts like the Vedas use 'Krimi' to mean tiny entities, including 'Drishya' (visible) and 'Adrishya' (invisible). This is mentioned on Page 12 (or Page 19)."
+  },
+  {
+    "id": 21,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which of these is a unicellular organism mentioned in the text?",
+    "options": [
+      "Onion",
+      "Amoeba",
+      "Mould",
+      "Human"
+    ],
+    "answer": "Amoeba",
+    "explanation": "Amoeba is specifically mentioned as a microorganism made of just one cell, which makes it unicellular. This is mentioned on Page 15."
+  },
+  {
+    "id": 22,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What is the largest known single cell in the living world?",
+    "options": [
+      "Human nerve cell",
+      "Bacterial cell",
+      "Yolk of an ostrich egg",
+      "Onion peel cell"
+    ],
+    "answer": "Yolk of an ostrich egg",
+    "explanation": "The yolk of an ostrich egg is a single cell measuring about 130 mm to 170 mm in diameter, making it the largest known cell. This is mentioned on Page 15."
+  },
+  {
+    "id": 23,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which organism causes dough to rise and become fluffy during bread making?",
+    "options": [
+      "Lactobacillus",
+      "Amoeba",
+      "Yeast",
+      "Rhizobium"
+    ],
+    "answer": "Yeast",
+    "explanation": "Yeast respires and releases carbon dioxide gas, which forms bubbles that make dough soft and fluffy. This is mentioned on Pages 20 and 21."
+  },
+  {
+    "id": 24,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What is the role of Lactobacillus bacteria in the kitchen?",
+    "options": [
+      "Making bread fluffy",
+      "Turning milk into curd",
+      "Decomposing fruit peels",
+      "Cleaning oil spills"
+    ],
+    "answer": "Turning milk into curd",
+    "explanation": "Lactobacillus bacteria feed on the sugar in milk and ferment it to form lactic acid, which turns milk into curd. This is mentioned on Pages 21 and 22."
+  },
+  {
+    "id": 25,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Where are Rhizobium bacteria found?",
+    "options": [
+      "In the human mouth",
+      "In the air",
+      "In root nodules of leguminous plants",
+      "In stagnant pond water"
+    ],
+    "answer": "In root nodules of leguminous plants",
+    "explanation": "Rhizobium bacteria live in the root nodules of plants like beans and peas, where they trap nitrogen from the air. This is mentioned on Page 22."
+  },
+  {
+    "id": 26,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What is the appearance of bread mould (fungi) when observed under a microscope?",
+    "options": [
+      "Single cell, irregular shape",
+      "Branched filament with sac-like structures",
+      "Green spherical shapes",
+      "Comma-shaped with hair-like projections"
+    ],
+    "answer": "Branched filament with sac-like structures",
+    "explanation": "According to Table 2.2, bread mould is a fungus that appears as branched filaments without chlorophyll, having sac-like structures. This is mentioned on Page 17."
+  },
+  {
+    "id": 27,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "Why is Spirulina considered a 'superfood'?",
+    "options": [
+      "Because it can survive in space",
+      "Because it is rich in protein and Vitamin B12",
+      "Because it is the largest microbe",
+      "Because it can eat oil spills"
+    ],
+    "answer": "Because it is rich in protein and Vitamin B12",
+    "explanation": "Spirulina is a microalga rich in protein (over 60% of weight) and Vitamin B12, making it highly nutritious. This is mentioned on Page 23."
+  },
+  {
+    "id": 28,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "In Activity 2.7, what happens to fruit and vegetable peels after 2-3 weeks in soil?",
+    "options": [
+      "They disappear completely",
+      "They turn into manure",
+      "They turn into stone",
+      "They remain exactly the same"
+    ],
+    "answer": "They turn into manure",
+    "explanation": "Microorganisms in the soil decompose plant waste, breaking it down into nutrient-rich manure over a few weeks. This is mentioned on Pages 18 and 19."
+  },
+  {
+    "id": 29,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What is the function of the nucleoid in a bacterial cell?",
+    "options": [
+      "It acts as a site for photosynthesis",
+      "It stores water for the cell",
+      "It contains the genetic material in place of a defined nucleus",
+      "It is used for movement"
+    ],
+    "answer": "It contains the genetic material in place of a defined nucleus",
+    "explanation": "Bacteria lack a nuclear membrane; their genetic material is found in a region called the nucleoid. This is mentioned on Pages 23 and 24."
+  },
+  {
+    "id": 30,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "Why does milk turn sour during curd formation?",
+    "options": [
+      "Because bacteria produce alcohol",
+      "Because bacteria produce lactic acid",
+      "Because the milk is boiled too long",
+      "Because sugar is added to it"
+    ],
+    "answer": "Because bacteria produce lactic acid",
+    "explanation": "Lactobacillus bacteria ferment the lactose sugar in milk into lactic acid, which gives curd its characteristic sour taste. This is mentioned on Page 22."
+  },
+  {
+    "id": 31,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "Which tool would a scientist use to see subcellular components at 1,000,000 times magnification?",
+    "options": [
+      "Simple magnifying glass",
+      "Compound microscope",
+      "Electron microscope",
+      "Foldable paper microscope"
+    ],
+    "answer": "Electron microscope",
+    "explanation": "An electron microscope provides extremely high magnification (about 10,00,000 times), allowing for the observation of tiny internal cell structures. This is mentioned on Page 24."
+  },
+  {
+    "id": 32,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "How do fungi differ from green plants in their nutrition, as described in the text?",
+    "options": [
+      "Fungi do not have cell walls",
+      "Fungi lack chloroplasts and cannot perform photosynthesis",
+      "Fungi only live in aquatic environments",
+      "Fungi are always unicellular"
+    ],
+    "answer": "Fungi lack chloroplasts and cannot perform photosynthesis",
+    "explanation": "Although fungi have cell walls like plants, they lack chloroplasts and cannot make their own food, distinguishing them from plants. This is mentioned on Page 24."
+  },
+  {
+    "id": 33,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "According to the 'Snapshots' section, where can microorganisms live?",
+    "options": [
+      "Only in water",
+      "Only in the soil",
+      "In all kinds of environments, including inside other organisms",
+      "Only in moderate temperatures"
+    ],
+    "answer": "In all kinds of environments, including inside other organisms",
+    "explanation": "Microbes are highly adaptable and can be found in water, soil, air, extreme climates, and even inside the bodies of plants and animals. This is mentioned on Page 24."
   },
   {
     "id": 34,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "What does 'methylene blue' help to increase when viewing cheek cells?",
+    "difficulty": "hard",
+    "question": "In the bread-making experiment (Activity 2.8), what was the specific purpose of adding sugar to the dough?",
     "options": [
-      "The size of the cells",
-      "The temperature of the slide",
-      "The contrast and visibility of the material",
-      "The speed of the microscope lens"
+      "To make the bread taste sweet",
+      "To serve as food for the yeast",
+      "To kill any harmful bacteria",
+      "To help the flour stick together"
     ],
-    "answer": "The contrast and visibility of the material",
-    "explanation": "Methylene blue is a stain used in Activity 2.3 to improve visibility by increasing contrast under the microscope. This is on Page 12 (OCR Page 5)."
+    "answer": "To serve as food for the yeast",
+    "explanation": "Yeast is a living fungus that needs food to grow and respire. Sugar acts as the food source that yeast breaks down to release carbon dioxide. This is mentioned on Pages 20 and 21."
   },
   {
     "id": 35,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
     "difficulty": "hard",
-    "question": "In the experiment with balloons (Fig. 2.14), what causes the balloon on test tube B to inflate?",
+    "question": "What is the benefit of microalgae for the planet's atmosphere?",
     "options": [
-      "Evaporation of water",
-      "Expansion of air due to heat",
-      "Carbon dioxide gas produced by yeast",
-      "A chemical reaction between sugar and air"
+      "They absorb all the nitrogen from the air",
+      "They produce more than half of the Earth's oxygen supply",
+      "They prevent clouds from forming",
+      "They cool the ocean temperatures"
     ],
-    "answer": "Carbon dioxide gas produced by yeast",
-    "explanation": "Yeast respires and produces carbon dioxide gas, which fills and inflates the balloon. This is part of the 'Keep the curiosity alive' section on Page 25 (OCR Page 18)."
+    "answer": "They produce more than half of the Earth's oxygen supply",
+    "explanation": "Microalgae are microscopic plant-like organisms that release oxygen during photosynthesis, contributing more than half of the global oxygen supply. This is mentioned on Page 22."
   },
   {
     "id": 36,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "What happens when the gas from the yeast balloon is bubbled through lime water?",
+    "difficulty": "easy",
+    "question": "Which of these is NOT one of the main parts of a cell listed on page 12?",
     "options": [
-      "The lime water turns blue",
-      "The lime water turns milky",
-      "The lime water evaporates",
-      "Nothing happens"
+      "Cell membrane",
+      "Cytoplasm",
+      "Nucleus",
+      "Muscle"
     ],
-    "answer": "The lime water turns milky",
-    "explanation": "The gas produced by yeast is carbon dioxide, which is known to turn lime water milky. This is inferred from Activity 9 and Fig 2.15 on Page 26 (OCR Page 19)."
+    "answer": "Muscle",
+    "explanation": "The textbook lists the cell membrane, cytoplasm, and nucleus as the three basic parts of a cell. Muscle is a type of tissue. This is mentioned on Page 12."
   },
   {
     "id": 37,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
     "difficulty": "easy",
-    "question": "Where can microorganisms be found?",
+    "question": "What is the shape of a human muscle cell as shown in Fig 2.6a?",
     "options": [
-      "Only in water",
-      "Only in the air",
-      "Only in the soil",
-      "Everywhere (water, soil, air, and inside bodies)"
+      "Round",
+      "Branched",
+      "Spindle-shaped",
+      "Rectangular"
     ],
-    "answer": "Everywhere (water, soil, air, and inside bodies)",
-    "explanation": "Microorganisms are highly diverse and can be found in almost every environment on Earth, including inside our bodies. This is stated on Page 18 (OCR Page 11)."
+    "answer": "Spindle-shaped",
+    "explanation": "Human muscle cells are described and illustrated as being spindle-shaped, which helps them contract and relax. This is mentioned on Page 13."
   },
   {
     "id": 38,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "What is 'soil suspension' used for in the context of Activity 2.5?",
+    "difficulty": "easy",
+    "question": "What does the term 'multicellular' mean?",
     "options": [
-      "To plant seeds",
-      "To observe tiny moving organisms under a microscope",
-      "To filter pure water",
-      "To study the chemical composition of dirt"
+      "Made of no cells",
+      "Made of only one cell",
+      "Made of many cells",
+      "Made of dead cells"
     ],
-    "answer": "To observe tiny moving organisms under a microscope",
-    "explanation": "Activity 2.5 involves making a soil suspension to discover that soil contains tiny creatures not visible to the naked eye. This is on Page 15-16 (OCR Page 8-9)."
+    "answer": "Made of many cells",
+    "explanation": "Living beings made up of many cells, like humans, animals, and most plants, are called multicellular organisms. This is mentioned on Page 14."
   },
   {
     "id": 39,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
     "difficulty": "easy",
-    "question": "Which microorganism produces oxygen and serves as a food source for aquatic animals?",
+    "question": "Which of these is a protozoan mentioned in Table 2.1?",
     "options": [
-      "Fungi",
-      "Microalgae",
-      "Protozoa",
-      "Bacteria"
+      "Bread mould",
+      "Paramecium",
+      "Spirulina",
+      "Onion peel"
     ],
-    "answer": "Microalgae",
-    "explanation": "Microalgae are microscopic plant-like organisms that perform photosynthesis, releasing oxygen and feeding aquatic life. This is on Page 22 (OCR Page 15)."
+    "answer": "Paramecium",
+    "explanation": "Table 2.1 identifies Paramecium as a protozoan commonly found in pond water, moving with the help of specialized structures. This is mentioned on Page 16."
   },
   {
     "id": 40,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "hard",
-    "question": "According to the text, why do farmers grow legumes in rotation with other crops?",
+    "difficulty": "easy",
+    "question": "According to the text, why do we add salt or sugar to pickles?",
     "options": [
-      "To make the field look more colorful",
-      "To naturally increase nitrogen in the soil using Rhizobium",
-      "Because legumes require very little water",
-      "To prevent soil erosion"
+      "To make them taste better only",
+      "To change their color",
+      "To act as preservatives that prevent microbe growth",
+      "To help the vegetables grow"
     ],
-    "answer": "To naturally increase nitrogen in the soil using Rhizobium",
-    "explanation": "Rhizobium in the root nodules of legumes fixes atmospheric nitrogen, keeping the soil healthy for the next crop without needing chemical fertilisers. This is on Page 22 (OCR Page 15)."
+    "answer": "To act as preservatives that prevent microbe growth",
+    "explanation": "High concentrations of salt or sugar in pickles and murabbas prevent microorganisms from growing on them, acting as preservatives. This is mentioned on Page 18."
   },
   {
     "id": 41,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
     "difficulty": "medium",
-    "question": "What is the role of 'blotting paper' in microscope slide preparation?",
+    "question": "What is the function of the cell membrane?",
     "options": [
-      "To clean the lens",
-      "To wipe off extra glycerin or liquid from the edges",
-      "To hold the specimen in place",
-      "To stain the cells"
+      "To make food for the cell",
+      "To allow only exit of waste",
+      "To separate the cell from its surroundings and allow essential materials to enter/exit",
+      "To store all the genetic information"
     ],
-    "answer": "To wipe off extra glycerin or liquid from the edges",
-    "explanation": "Blotting paper is used to gently remove excess glycerin or stain from around the coverslip. This is mentioned in Activity 2.2 and 2.3 on Pages 11 and 12 (OCR Pages 4 and 5)."
+    "answer": "To separate the cell from its surroundings and allow essential materials to enter/exit",
+    "explanation": "The cell membrane encloses the cell, separates it from others, and is porous to allow entry of nutrients and exit of waste. This is mentioned on Page 12."
   },
   {
     "id": 42,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "easy",
-    "question": "What tool made it possible for humans to see 'the invisible world'?",
+    "difficulty": "medium",
+    "question": "Why are cheek cells called polygon-shaped in the text?",
     "options": [
-      "Reading glasses",
-      "Microscope",
-      "Telescope",
-      "Periscope"
+      "Because they have irregular, many-sided edges",
+      "Because they are perfectly round",
+      "Because they look like a long tube",
+      "Because they have branches like a tree"
     ],
-    "answer": "Microscope",
-    "explanation": "The invention and improvement of the microscope allowed humans to see tiny living creatures invisible to the naked eye. This is on Page 9 (OCR Page 2)."
+    "answer": "Because they have irregular, many-sided edges",
+    "explanation": "Activity 2.3 notes that human cheek cells observed under a microscope show a polygon-shaped structure. This is mentioned on Page 12."
   },
   {
     "id": 43,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
     "difficulty": "medium",
-    "question": "Which of the following is an example of a multicellular microorganism?",
+    "question": "What is the main role of the nucleus in a cell?",
     "options": [
-      "Amoeba",
-      "Bacteria",
-      "Mould",
-      "Paramecium"
+      "To provide strength and rigidity",
+      "To perform photosynthesis",
+      "To regulate all activities and growth of the cell",
+      "To store water and minerals"
     ],
-    "answer": "Mould",
-    "explanation": "The text notes that while yeast is a unicellular fungus, mould is a multicellular fungus. This is on Page 23 (OCR Page 16)."
+    "answer": "To regulate all activities and growth of the cell",
+    "explanation": "The nucleus is the control center of the cell, regulating all cellular activities and governing growth. This is mentioned on Page 13."
   },
   {
     "id": 44,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "hard",
-    "question": "What is the reason milk in Bowl B (kept in a refrigerator) did not turn into curd?",
+    "difficulty": "medium",
+    "question": "How do animal cells differ from plant cells regarding vacuoles?",
     "options": [
-      "The milk was already spoiled",
-      "The refrigerator killed the Lactobacillus",
-      "Lactobacillus bacteria grow best in warm conditions",
-      "Cold milk does not contain lactose"
+      "Animal cells have no vacuoles at all",
+      "Animal cells have very large vacuoles",
+      "Animal cells have small vacuoles, or they may be absent",
+      "Animal cells have more vacuoles than plant cells"
     ],
-    "answer": "Lactobacillus bacteria grow best in warm conditions",
-    "explanation": "Lactobacillus bacteria require warmth to multiply and ferment milk effectively; hence curd does not form well in cold temperatures. This is on Page 22 (OCR Page 15)."
+    "answer": "Animal cells have small vacuoles, or they may be absent",
+    "explanation": "In animal cells, vacuoles are usually not present, and if they are, they are typically very small compared to those in plant cells. This is mentioned on Page 13."
   },
   {
     "id": 45,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
     "difficulty": "medium",
-    "question": "What are 'plastids' in plant cells?",
+    "question": "What happens during the process of 'decomposition'?",
     "options": [
-      "Small bags of liquid",
-      "Tiny rod-shaped structures",
-      "Branches of the nerve cell",
-      "Gases found in biogas"
+      "Living things grow bigger",
+      "Microbes break down complex substances from dead waste into simpler nutrients",
+      "Bacteria produce biogas from pure oxygen",
+      "Cells divide to form a new organism"
     ],
-    "answer": "Tiny rod-shaped structures",
-    "explanation": "Plastids are rod-shaped structures found in plant cells; chloroplasts are a type of plastid containing chlorophyll. This is on Page 13 (OCR Page 6)."
+    "answer": "Microbes break down complex substances from dead waste into simpler nutrients",
+    "explanation": "Decomposition is the process where microorganisms like bacteria and fungi recycle waste by breaking down complex organic matter. This is mentioned on Page 19."
   },
   {
     "id": 46,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "easy",
-    "question": "Which gas produced by microbes is used as a fuel for cooking and electricity?",
+    "difficulty": "hard",
+    "question": "In the experiment comparing dough in Bowl A (with yeast) and Bowl B (without yeast), what was the observation after 4-5 hours?",
     "options": [
-      "Nitrogen",
-      "Methane",
-      "Carbon dioxide",
-      "Oxygen"
+      "Bowl B rose higher than Bowl A",
+      "Bowl A rose, became fluffy, and had a different smell",
+      "Both bowls remained exactly the same",
+      "Bowl A turned into liquid"
     ],
-    "answer": "Methane",
-    "explanation": "Methane, a component of biogas produced by bacterial decomposition, is used as a fuel source. This is on Page 20 (OCR Page 13)."
+    "answer": "Bowl A rose, became fluffy, and had a different smell",
+    "explanation": "The addition of yeast in Bowl A led to respiration, producing CO2 that made the dough rise and become fluffy. This is mentioned on Pages 20 and 21."
   },
   {
     "id": 47,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "How do multicellular organisms differ from unicellular ones in terms of cell function?",
+    "difficulty": "hard",
+    "question": "How does Lactobacillus convert milk into curd?",
     "options": [
-      "In multicellular organisms, cells do not cooperate",
-      "In multicellular organisms, cells carry out specialized functions",
-      "Unicellular organisms have more complex organ systems",
-      "Multicellular organisms only have one type of cell"
+      "By adding oxygen to the milk",
+      "By feeding on lactose sugar and fermenting it into lactic acid",
+      "By producing carbon dioxide gas bubbles",
+      "By increasing the temperature of the milk"
     ],
-    "answer": "In multicellular organisms, cells carry out specialized functions",
-    "explanation": "In multicellular beings, cells are specialized for specific tasks and cooperate to increase survival chances. This is explained on Page 23 (OCR Page 16)."
+    "answer": "By feeding on lactose sugar and fermenting it into lactic acid",
+    "explanation": "The bacteria feed on milk sugar (lactose) and produce lactic acid, which causes the milk to curdle and turn into sour curd. This is mentioned on Page 22."
   },
   {
     "id": 48,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
     "difficulty": "hard",
-    "question": "What is 'Patent' as defined in the context of Ananda Mohan Chakrabarty's work?",
+    "question": "What is the primary difference between unicellular and multicellular organisms in how they function?",
     "options": [
-      "A type of laboratory equipment",
-      "A legal document that says no one else can copy an invention",
-      "A method of staining bacteria",
-      "A new species of microorganism"
+      "Unicellular organisms don't have a nucleus",
+      "Multicellular organisms have specialized cells that cooperate with each other",
+      "Unicellular organisms cannot reproduce",
+      "Multicellular organisms are all microscopic"
     ],
-    "answer": "A legal document that says no one else can copy an invention",
-    "explanation": "A patent is a copyright given so that no one else can copy, use, or sell an invention without permission. This is on Page 20 (OCR Page 13)."
+    "answer": "Multicellular organisms have specialized cells that cooperate with each other",
+    "explanation": "In multicellular organisms, different cells perform specific functions and work together, whereas a single cell performs all functions in unicellular ones. This is mentioned on Page 23."
   },
   {
     "id": 49,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-    "difficulty": "medium",
-    "question": "Why is the body of a multicellular organism compared to a brick wall in the text?",
+    "difficulty": "hard",
+    "question": "Which of these is a correct step in growing Spirulina at home?",
     "options": [
-      "Because both are very heavy",
-      "Because cells, like bricks, are the basic building blocks",
-      "Because cells are red like bricks",
-      "Because both are made by humans"
+      "Keep the tank in direct, hot sunlight all day",
+      "Filter the crop through a fine cloth after 3-6 weeks",
+      "Use cold milk instead of pond water",
+      "Stir the mixture once every year"
     ],
-    "answer": "Because cells, like bricks, are the basic building blocks",
-    "explanation": "The textbook uses the analogy of bricks in a wall to help students understand how cells are the fundamental building blocks of life. This is on Page 11 and 14 (OCR Page 4 and 7)."
+    "answer": "Filter the crop through a fine cloth after 3-6 weeks",
+    "explanation": "According to the Spirulina farming steps, the microalga can be harvested after 3-6 weeks by filtering it through a fine cloth. This is mentioned on Page 23."
   },
   {
     "id": 50,
     "subject": "Science",
     "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "Why do farmers grow leguminous crops like beans in rotation with other crops?",
+    "options": [
+      "To kill all the bacteria in the soil",
+      "To naturally increase nitrogen levels in the soil using Rhizobium",
+      "Because beans grow faster than any other crop",
+      "To prevent too much water from entering the soil"
+    ],
+    "answer": "To naturally increase nitrogen levels in the soil using Rhizobium",
+    "explanation": "Rhizobium in the root nodules of legumes fixes atmospheric nitrogen, enriching the soil and reducing the need for chemical fertilizers. This is mentioned on Page 22."
+  },
+  {
+    "id": 51,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
     "difficulty": "easy",
-    "question": "Which microorganism helps in the fermentation of batter for making idli and dosa?",
+    "question": "What is the function of the eyepiece in Robert Hooke's microscope drawing (Fig 2.2b)?",
+    "options": [
+      "To hold the specimen",
+      "To provide light",
+      "To look through and see the magnified image",
+      "To stain the cells"
+    ],
+    "answer": "To look through and see the magnified image",
+    "explanation": "A microscope is a tool used for magnifying tiny things, and the user looks through it to see what the naked eye cannot. This is mentioned on Page 10."
+  },
+  {
+    "id": 52,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "In Table 2.1, what color is Algae described as?",
+    "options": [
+      "Red",
+      "Blue",
+      "Green",
+      "Colorless"
+    ],
+    "answer": "Green",
+    "explanation": "Algae are described as appearing green because of the presence of a green pigment (chlorophyll). This is mentioned on Page 16."
+  },
+  {
+    "id": 53,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What is the medium used to suspend soil in Activity 2.5?",
+    "options": [
+      "Milk",
+      "Alcohol",
+      "Water",
+      "Oil"
+    ],
+    "answer": "Water",
+    "explanation": "Activity 2.5 involves pouring water into a beaker of moist soil to create a 'soil suspension' for microscopic observation. This is mentioned on Pages 15 and 16."
+  },
+  {
+    "id": 54,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which microorganism is acellular?",
     "options": [
       "Amoeba",
+      "Bacteria",
+      "Virus",
+      "Yeast"
+    ],
+    "answer": "Virus",
+    "explanation": "The textbook explicitly states that viruses are microscopic and acellular, meaning they do not have a cell structure. This is mentioned on Page 17."
+  },
+  {
+    "id": 55,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Where do some bacteria that help in digestion live in humans?",
+    "options": [
+      "In the eyes",
+      "In the gut/intestine",
+      "On the skin",
+      "In the hair"
+    ],
+    "answer": "In the gut/intestine",
+    "explanation": "The text mentions that our intestine has many bacteria that help in the digestion of food. This is mentioned on Page 18."
+  },
+  {
+    "id": 56,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "How are cells in a plant leaf arranged, as seen in the onion peel experiment?",
+    "options": [
+      "Scattered randomly",
+      "In a single large circle",
+      "Closely arranged without any space between them",
+      "Always moving in a line"
+    ],
+    "answer": "Closely arranged without any space between them",
+    "explanation": "Observation of onion peel under a microscope shows nearly rectangular cells arranged compactly with no spaces between them. This is mentioned on Page 11."
+  },
+  {
+    "id": 57,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What is the role of mitochondria in a cell as shown in the diagram on page 13?",
+    "options": [
+      "To store waste water",
+      "To act as the cell wall",
+      "To be one of the complex structures within the cell",
+      "To produce green pigment"
+    ],
+    "answer": "To be one of the complex structures within the cell",
+    "explanation": "Mitochondria are depicted in the schematic drawings of both plant and animal cells as one of the specialized parts of the cell. This is mentioned on Page 13."
+  },
+  {
+    "id": 58,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What is the specialized function of the stomach's inner lining cells?",
+    "options": [
+      "To carry messages to the brain",
+      "To produce digestive juices and acid",
+      "To absorb sunlight",
+      "To pump blood"
+    ],
+    "answer": "To produce digestive juices and acid",
+    "explanation": "Cells in the inner lining of the stomach produce acid and digestive juices to break down food. This is mentioned on Page 14."
+  },
+  {
+    "id": 59,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "How does the size of a typical microorganism relate to a human hair?",
+    "options": [
+      "It is much thicker",
+      "It is too small to be seen with the naked eye",
+      "It is exactly the same size",
+      "It is visible only in direct sunlight"
+    ],
+    "answer": "It is too small to be seen with the naked eye",
+    "explanation": "Microorganisms are defined as living beings so small that they cannot be seen with the unaided naked eye. This is mentioned on Page 15."
+  },
+  {
+    "id": 60,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What gas is released as a byproduct when yeast ferments sugar?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "answer": "Carbon dioxide",
+    "explanation": "During the fermentation process, yeast respires and releases carbon dioxide gas, which causes dough to rise. This is mentioned on Page 21."
+  },
+  {
+    "id": 61,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "In Table 2.2, which microorganism is described as 'Branched filament without chlorophyll having brush-like structure'?",
+    "options": [
+      "Bread mould",
+      "Penicillium (Mould)",
+      "Bacteria",
+      "Algae"
+    ],
+    "answer": "Penicillium (Mould)",
+    "explanation": "Table 2.2 specifically describes one type of fungi (mould) as having a brush-like structure on its branched filaments. This is mentioned on Page 17."
+  },
+  {
+    "id": 62,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What is the effect of lukewarm milk versus cold milk on curd formation?",
+    "options": [
+      "Cold milk turns to curd faster",
+      "Lukewarm milk turns to curd after a few hours",
+      "Neither milk will turn to curd",
+      "Only cold milk will become sour"
+    ],
+    "answer": "Lukewarm milk turns to curd after a few hours",
+    "explanation": "Lactobacillus bacteria grow well in warm conditions, which is why lukewarm milk in Bowl A turned to curd while cold milk in Bowl B did not. This is mentioned on Pages 21 and 22."
+  },
+  {
+    "id": 63,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "How are bacteria classified based on their shape in the text?",
+    "options": [
+      "Square, triangle, or star",
+      "Spherical, comma, spiral or rod-shaped",
+      "Only long and thin",
+      "Perfectly flat discs"
+    ],
+    "answer": "Spherical, comma, spiral or rod-shaped",
+    "explanation": "The text notes that bacteria show diversity in shape, including spherical, comma-shaped, spiral, or rod-shaped forms. This is mentioned on Page 17."
+  },
+  {
+    "id": 64,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What distinguishes the cell of a microalga like Chlorella from a bacterium?",
+    "options": [
+      "Chlorella has a nucleoid",
+      "Chlorella is acellular",
+      "Chlorella has a well-defined nucleus and chloroplasts",
+      "Chlorella does not have a cell membrane"
+    ],
+    "answer": "Chlorella has a well-defined nucleus and chloroplasts",
+    "explanation": "Microalgae are plant-like and have a nucleus and chloroplasts for photosynthesis, whereas bacteria lack a defined nucleus and have a nucleoid. This is mentioned on Pages 22 and 24."
+  },
+  {
+    "id": 65,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "Why is the process of making manure considered 'recycling'?",
+    "options": [
+      "Because manure is made of plastic",
+      "Because nutrients from dead waste are returned to the soil for plants to use again",
+      "Because the same fruit peels reappear every year",
+      "Because it requires electricity"
+    ],
+    "answer": "Because nutrients from dead waste are returned to the soil for plants to use again",
+    "explanation": "Microorganisms breakdown dead waste into simpler substances rich in nutrients, which go back to the soil, recycling nature's resources. This is mentioned on Page 19."
+  },
+  {
+    "id": 66,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "According to the diagram on page 14, what forms a 'tissue'?",
+    "options": [
+      "A group of different organs",
+      "A group of similar cells",
+      "A group of organisms",
+      "A group of non-living bricks"
+    ],
+    "answer": "A group of similar cells",
+    "explanation": "The levels of organization show that a group of similar cells comes together to form a tissue. This is mentioned on Page 14."
+  },
+  {
+    "id": 67,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What tool helps humans see things that their naked eyes cannot?",
+    "options": [
+      "Telescope",
+      "Microscope",
+      "Stethoscope",
+      "Periscope"
+    ],
+    "answer": "Microscope",
+    "explanation": "The invention and improvement of the microscope allowed humans to see tiny living creatures and cells for the first time. This is mentioned on Page 9."
+  },
+  {
+    "id": 68,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What provides the energy for microalgae to make their own food?",
+    "options": [
+      "Sugar",
+      "Electricity",
+      "Sunlight",
+      "Soil nutrients"
+    ],
+    "answer": "Sunlight",
+    "explanation": "Microalgae are plant-like organisms that use sunlight to perform photosynthesis and create food. This is mentioned on Page 22."
+  },
+  {
+    "id": 69,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which of these is a fungus used in making idli and dosa?",
+    "options": [
       "Lactobacillus",
+      "Yeast",
       "Rhizobium",
-      "Mould"
+      "Amoeba"
+    ],
+    "answer": "Yeast",
+    "explanation": "Yeast is a fungus used in the fermentation of batter for foods like idli, dosa, and bread. This is mentioned on Page 21."
+  },
+  {
+    "id": 70,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What is the color of the stain Safranin used in experiments?",
+    "options": [
+      "Blue",
+      "Yellow",
+      "Red",
+      "Green"
+    ],
+    "answer": "Red",
+    "explanation": "Safranin is specifically described as a red-colored stain in the textbook's activity procedures. This is mentioned on Page 11."
+  },
+  {
+    "id": 71,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What does the cytoplasm of a cell contain besides the nucleus?",
+    "options": [
+      "Only water",
+      "Carbohydrates, proteins, fats, and mineral salts",
+      "Nothing, it is empty",
+      "Just the cell wall"
+    ],
+    "answer": "Carbohydrates, proteins, fats, and mineral salts",
+    "explanation": "Cytoplasm contains various components and compounds like proteins, fats, and salts where most life processes occur. This is mentioned on Page 12."
+  },
+  {
+    "id": 72,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "In Activity 2.2, why is a thin brush used to transfer the onion peel?",
+    "options": [
+      "To paint the peel",
+      "To ensure it does not break or fold",
+      "To add more stain",
+      "To keep the slide clean"
+    ],
+    "answer": "To ensure it does not break or fold",
+    "explanation": "A thin brush is recommended to carefully move the delicate onion peel to prevent damage and keep it flat for observation. This is mentioned on Page 11."
+  },
+  {
+    "id": 73,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "How do muscle cells in the food pipe help move food down to the stomach?",
+    "options": [
+      "By producing acid",
+      "By contracting and relaxing in a wave-like manner",
+      "By absorbing water from the food",
+      "By dissolving the food"
+    ],
+    "answer": "By contracting and relaxing in a wave-like manner",
+    "explanation": "Muscle cells in the esophagus use rhythmic contraction and relaxation to push food through the digestive tract. This is mentioned on Page 14."
+  },
+  {
+    "id": 74,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What is the main difference between bread mould and Penicillium as described in Table 2.2?",
+    "options": [
+      "One is a bacterium and one is a fungus",
+      "One has a sac-like structure and the other has a brush-like structure",
+      "One is green and the other is blue",
+      "One is unicellular and the other is multicellular"
+    ],
+    "answer": "One has a sac-like structure and the other has a brush-like structure",
+    "explanation": "According to the remarks in Table 2.2, bread mould has a sac-like structure, while Penicillium (mould) has a brush-like structure. This is mentioned on Page 17."
+  },
+  {
+    "id": 75,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What are the optimal conditions required for manure formation?",
+    "options": [
+      "Freezing temperatures and dry soil",
+      "Optimal temperature and appropriate moisture level",
+      "Darkness and absence of air",
+      "High salinity and direct sunlight"
+    ],
+    "answer": "Optimal temperature and appropriate moisture level",
+    "explanation": "The decomposition process that creates manure occurs best when temperature and moisture levels are ideal for microbes. This is mentioned on Page 19."
+  },
+  {
+    "id": 76,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "How does the text explain the presence of alcohol in rising bread dough?",
+    "options": [
+      "It is added as an ingredient",
+      "It is produced by yeast as a byproduct during fermentation",
+      "It comes from the sugar reacting with air",
+      "It is used to kill germs in the flour"
+    ],
+    "answer": "It is produced by yeast as a byproduct during fermentation",
+    "explanation": "Yeast produces a small amount of alcohol during fermentation, which gives rising dough its distinct smell. This is mentioned on Page 21."
+  },
+  {
+    "id": 77,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What is the scientific significance of the 'egg' in multicellular organisms?",
+    "options": [
+      "It is only found in birds",
+      "It is the single cell from which complex living organisms begin life",
+      "It is the largest multicellular structure",
+      "It does not contain a nucleus"
+    ],
+    "answer": "It is the single cell from which complex living organisms begin life",
+    "explanation": "The text states that life begins as a single 'egg' cell, which divides repeatedly to form a multicellular being. This is mentioned on Page 14."
+  },
+  {
+    "id": 78,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "Which microorganism lives inside the gut and is also found in every kind of environment?",
+    "options": [
+      "Amoeba",
+      "Bacteria",
+      "Yeast",
+      "Spirulina"
+    ],
+    "answer": "Bacteria",
+    "explanation": "Bacteria are widespread in the environment and many species also inhabit the human digestive system. This is mentioned on Pages 18 and 26 (Question 5i)."
+  },
+  {
+    "id": 79,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What is the unique feature of Spirulina that makes it a 'microalga'?",
+    "options": [
+      "It is a multicellular fungus",
+      "It is a microscopic plant-like organism",
+      "It lives only in human blood",
+      "It lacks a cell membrane"
+    ],
+    "answer": "It is a microscopic plant-like organism",
+    "explanation": "Spirulina is categorized as a microalga because it is microscopic and performs photosynthesis like a plant. This is mentioned on Page 23."
+  },
+  {
+    "id": 80,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "In Table 2.1, how does the Paramecium move?",
+    "options": [
+      "It has no movement",
+      "It moves with the help of specialized structures",
+      "It changes its irregular shape",
+      "It flows with the water only"
+    ],
+    "answer": "It moves with the help of specialized structures",
+    "explanation": "The recorded data in Table 2.1 states that Paramecium moves from place to place using specialized structures. This is mentioned on Page 16."
+  },
+  {
+    "id": 81,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "According to the text, what is another name for a nerve cell?",
+    "options": [
+      "Plastid",
+      "Neuron",
+      "Vacuole",
+      "Mitochondria"
+    ],
+    "answer": "Neuron",
+    "explanation": "Nerve cells are also known as neurons, and they carry messages throughout the body. This is mentioned on Page 14."
+  },
+  {
+    "id": 82,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What happens when you look at an ant through a magnifying glass?",
+    "options": [
+      "It looks smaller",
+      "It looks the same",
+      "You can see the details of its body more clearly",
+      "It disappears"
+    ],
+    "answer": "You can see the details of its body more clearly",
+    "explanation": "Magnifying glasses help us see small organisms and their physical details more clearly than the naked eye. This is mentioned on Page 9."
+  },
+  {
+    "id": 83,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which of these is a beneficial role of microorganisms mentioned in the text?",
+    "options": [
+      "Causing fruit to rot",
+      "Decomposing waste into manure",
+      "Making water dirty",
+      "Causing diseases"
+    ],
+    "answer": "Decomposing waste into manure",
+    "explanation": "The text highlights that microorganisms like bacteria and fungi play a vital role in cleaning the environment by creating manure. This is mentioned on Page 19."
+  },
+  {
+    "id": 84,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What pigment makes algae look green?",
+    "options": [
+      "Hemoglobin",
+      "Safranin",
+      "Chlorophyll",
+      "Methylene blue"
+    ],
+    "answer": "Chlorophyll",
+    "explanation": "Algae contain chlorophyll, the same green pigment found in plants, which they use for photosynthesis. This is mentioned on Pages 13 and 16."
+  },
+  {
+    "id": 85,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What does a 'patent' give a person, as explained in the context of Ananda Mohan Chakrabarty?",
+    "options": [
+      "The right to clean oil spills",
+      "Permission to use any invention",
+      "Legal protection so no one else can copy or sell their invention",
+      "A degree in science"
+    ],
+    "answer": "Legal protection so no one else can copy or sell their invention",
+    "explanation": "A patent is a legal right that prevents others from copying, using, or selling an inventor's discovery without permission. This is mentioned on Page 20."
+  },
+  {
+    "id": 86,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "Why is the cell wall absent in animal cells?",
+    "options": [
+      "Because animals are not strong",
+      "Because animal cells need to be flexible and are not as rigid as plants",
+      "Because animals do not have a nucleus",
+      "Because animals live in water"
+    ],
+    "answer": "Because animal cells need to be flexible and are not as rigid as plants",
+    "explanation": "Plant cells require the rigidity of a cell wall for support, whereas animal cells do not have this structure. This is mentioned on Pages 13 and 14."
+  },
+  {
+    "id": 87,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What is the function of the 'cover slip' in microscope slide preparation?",
+    "options": [
+      "To stain the sample",
+      "To keep the sample in place and protect the lens",
+      "To magnify the image",
+      "To dry the glycerin"
+    ],
+    "answer": "To keep the sample in place and protect the lens",
+    "explanation": "A coverslip is placed over the specimen to flatten it and keep it from moving or drying out during observation. This is mentioned on Pages 11 and 12."
+  },
+  {
+    "id": 88,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "Which microorganisms are identified as primary 'decomposers' in soil?",
+    "options": [
+      "Viruses and Algae",
+      "Fungi and Bacteria",
+      "Protozoa and Yeast",
+      "Amoeba and Paramecium"
+    ],
+    "answer": "Fungi and Bacteria",
+    "explanation": "Fungi and bacteria in the soil act on plant and animal waste to break them down into simpler manure. This is mentioned on Page 19."
+  },
+  {
+    "id": 89,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "Why did Robert Hooke use the term 'cell'?",
+    "options": [
+      "Because they looked like prison cells",
+      "Because 'cell' means a small room or compartment",
+      "Because he wanted a short name",
+      "Because the word was already used in biology"
+    ],
+    "answer": "Because 'cell' means a small room or compartment",
+    "explanation": "Hooke called the compartments he saw in cork 'cells' because they looked like the small rooms of a honeycomb. This is mentioned on Page 10."
+  },
+  {
+    "id": 90,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What is 'soil suspension' as defined in Activity 2.5?",
+    "options": [
+      "Dry soil in a beaker",
+      "Liquid containing fine particles of soil in water",
+      "Soil mixed with sugar",
+      "Soil that has been boiled"
+    ],
+    "answer": "Liquid containing fine particles of soil in water",
+    "explanation": "When water is stirred with moist soil and left to settle, the resulting liquid with fine particles is called a soil suspension. This is mentioned on Page 16."
+  },
+  {
+    "id": 91,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "In the 'Keep the curiosity alive' section, which cell parts are 'Common to all three cells' (Plant, Animal, Bacterial)?",
+    "options": [
+      "Nucleus and Cell wall",
+      "Cytoplasm and Cell membrane",
+      "Chloroplast and Vacuole",
+      "Nucleoid and Mitochondria"
+    ],
+    "answer": "Cytoplasm and Cell membrane",
+    "explanation": "Both plant, animal, and bacterial cells share basic structures like the cell membrane and cytoplasm, though bacteria lack a true nucleus. This is mentioned on Pages 12, 17, and 25."
+  },
+  {
+    "id": 92,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "Why do bacteria thrive in 'lukewarm' milk better than refrigerated milk?",
+    "options": [
+      "Cold temperatures kill all bacteria",
+      "Warmth provides the optimal temperature for bacterial growth and fermentation",
+      "Sugar only dissolves in lukewarm milk",
+      "Bacteria only have enough energy to move in warm milk"
+    ],
+    "answer": "Warmth provides the optimal temperature for bacterial growth and fermentation",
+    "explanation": "Activity 2.9 shows that temperature affects curdling; the warmth of lukewarm milk allows Lactobacillus to multiply and produce lactic acid. This is mentioned on Pages 21 and 22."
+  },
+  {
+    "id": 93,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What specific nutrient does Spirulina provide that is essential for the human body?",
+    "options": [
+      "Vitamin C",
+      "Vitamin B12",
+      "Calcium",
+      "Glucose"
+    ],
+    "answer": "Vitamin B12",
+    "explanation": "Spirulina is highlighted as a good source of Vitamin B12, which is essential for our body's health. This is mentioned on Page 23."
+  },
+  {
+    "id": 94,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What is the significance of 'methane' in the context of microorganisms?",
+    "options": [
+      "It is used by plants for photosynthesis",
+      "It is a high proportion component of biogas produced by bacteria",
+      "It is used to stain cells for microscopy",
+      "It prevents food from rotting"
+    ],
+    "answer": "It is a high proportion component of biogas produced by bacteria",
+    "explanation": "Bacteria decomposing waste in an oxygen-free environment release biogas, which contains a high amount of methane used as fuel. This is mentioned on Page 20."
+  },
+  {
+    "id": 95,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "In Table 2.2, which organism is described as having 'one long hair-like structure and many small hair-like projections'?",
+    "options": [
+      "Algae",
+      "Mould",
+      "Bacteria",
+      "Bread mould"
+    ],
+    "answer": "Bacteria",
+    "explanation": "Table 2.2 specifies that some bacteria have a long flagellum (hair-like structure) and many smaller projections (pili) around the cell. This is mentioned on Page 17."
+  },
+  {
+    "id": 96,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What color are chloroplasts usually?",
+    "options": [
+      "Red",
+      "Green",
+      "Blue",
+      "White"
+    ],
+    "answer": "Green",
+    "explanation": "Chloroplasts contain the green pigment chlorophyll, which gives plants their green color. This is mentioned on Page 13."
+  },
+  {
+    "id": 97,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which of these is a multicellular fungus mentioned in the text?",
+    "options": [
+      "Yeast",
+      "Mould",
+      "Amoeba",
+      "Rhizobium"
+    ],
+    "answer": "Mould",
+    "explanation": "The text differentiates between yeast (a unicellular fungus) and mould (a multicellular fungus). This is mentioned on Page 23."
+  },
+  {
+    "id": 98,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What is the role of a 'blotting paper' in microscope slide preparation?",
+    "options": [
+      "To add more water",
+      "To wipe off excess glycerin around the coverslip",
+      "To color the cells",
+      "To hold the slide under the lens"
+    ],
+    "answer": "To wipe off excess glycerin around the coverslip",
+    "explanation": "Activities 2.2 and 2.3 instruct students to use blotting paper to gently remove any extra liquid from the edges of the coverslip. This is mentioned on Pages 11 and 12."
+  },
+  {
+    "id": 99,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which part of the cell is 'porous' and allows materials to enter and exit?",
+    "options": [
+      "Nucleus",
+      "Cell wall",
+      "Cell membrane",
+      "Cytoplasm"
+    ],
+    "answer": "Cell membrane",
+    "explanation": "The cell membrane is described as porous, allowing it to control the movement of substances in and out of the cell. This is mentioned on Page 12."
+  },
+  {
+    "id": 100,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "According to the textbook, where can you find 'Spirulina' in nature?",
+    "options": [
+      "In the desert",
+      "In a pond",
+      "Inside the human stomach",
+      "On bread"
+    ],
+    "answer": "In a pond",
+    "explanation": "The instructions for growing Spirulina mention collecting living Spirulina from a pond and adding pond water to the tank. This is mentioned on Page 23."
+  },
+  {
+    "id": 101,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What similarity exists between the structures of a cell and a brick wall as shown in Fig 2.3?",
+    "options": [
+      "Both are living",
+      "Both are made of repeated basic building blocks",
+      "Both are made of water",
+      "Both can move on their own"
+    ],
+    "answer": "Both are made of repeated basic building blocks",
+    "explanation": "The textbook compares cells to bricks in a wall to show that cells are the basic structural units of all living organisms. This is mentioned on Pages 11 and 14."
+  },
+  {
+    "id": 102,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "Why did Robert Hooke see 'empty spaces' in the cork slice instead of living material?",
+    "options": [
+      "His microscope was not powerful enough",
+      "The cork cells were dead",
+      "He forgot to stain them",
+      "The spaces were actually filled with water"
+    ],
+    "answer": "The cork cells were dead",
+    "explanation": "Cork is a material from the bark of a tree, and the 'cells' Hooke observed were the remaining walls of dead plant cells. This is implied by the description of 'empty spaces' on Page 10."
+  },
+  {
+    "id": 103,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What distinguishes the shape of an Amoeba from a Paramecium?",
+    "options": [
+      "Amoeba is round, Paramecium is square",
+      "Amoeba has an irregular shape, Paramecium has a more defined shape",
+      "Amoeba is much larger than Paramecium",
+      "Amoeba is green, Paramecium is red"
+    ],
+    "answer": "Amoeba has an irregular shape, Paramecium has a more defined shape",
+    "explanation": "Table 2.1 describes Amoeba as having an irregular shape, while Paramecium has a specific structure and moves using specialized features. This is mentioned on Page 16."
+  },
+  {
+    "id": 104,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "Which microorganism produces 'lactic acid'?",
+    "options": [
+      "Yeast",
+      "Lactobacillus",
+      "Amoeba",
+      "Bread mould"
     ],
     "answer": "Lactobacillus",
-    "explanation": "In addition to yeast, bacteria like Lactobacillus help in the fermentation of batters for South Indian dishes. This is mentioned on Page 21 (OCR Page 14)."
+    "explanation": "Lactobacillus bacteria ferment milk sugar into lactic acid, which is responsible for turning milk into curd. This is mentioned on Page 22."
+  },
+  {
+    "id": 105,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "How do microorganisms help clean up oil spills?",
+    "options": [
+      "By soaking up the oil like a sponge",
+      "By breaking down the oil chemically",
+      "By pushing the oil to the shore",
+      "By sinking the oil to the bottom"
+    ],
+    "answer": "By breaking down the oil chemically",
+    "explanation": "As shown by Ananda Mohan Chakrabarty's work, certain bacteria can be developed to break down oil spills in the environment. This is mentioned on Page 20."
+  },
+  {
+    "id": 106,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What is the function of the 'white liquid' in an ostrich egg mentioned on page 15?",
+    "options": [
+      "It is the nucleus of the cell",
+      "It nourishes the cell during its development",
+      "It is used to make the shell hard",
+      "It is the genetic material"
+    ],
+    "answer": "It nourishes the cell during its development",
+    "explanation": "The yolk is the cell itself, and it is surrounded by a white liquid that provides nutrients as the embryo develops inside the egg. This is mentioned on Page 15."
+  },
+  {
+    "id": 107,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "How many times a week should growing Spirulina be stirred?",
+    "options": [
+      "Every day",
+      "Twice a week",
+      "Once a month",
+      "It should never be stirred"
+    ],
+    "answer": "Twice a week",
+    "explanation": "In the Spirulina farming instructions, Step 5 specifies that the growing crop should be stirred twice a week. This is mentioned on Page 23."
+  },
+  {
+    "id": 108,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "Which of these contains 'fine particles of soil' and is examined in Activity 2.5?",
+    "options": [
+      "Soil paste",
+      "Soil suspension",
+      "Soil stain",
+      "Soil residue"
+    ],
+    "answer": "Soil suspension",
+    "explanation": "Activity 2.5 describes creating a soil suspension by stirring soil in water, which allows for the observation of tiny organisms within it. This is mentioned on Page 16."
+  },
+  {
+    "id": 109,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "According to 'Our scientific heritage', which ancient Indian text refers to 'Krimi'?",
+    "options": [
+      "Ramayana",
+      "Mahabharata",
+      "Atharvaveda",
+      "Bhagavad Gita"
+    ],
+    "answer": "Atharvaveda",
+    "explanation": "The textbook mentions that the Atharvaveda, along with other Vedic texts, refers to 'Krimi' (tiny entities). This is mentioned on Page 19."
+  },
+  {
+    "id": 110,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What is the result of yeast fermentation besides carbon dioxide?",
+    "options": [
+      "Oxygen",
+      "Lactic acid",
+      "Alcohol",
+      "Salt"
+    ],
+    "answer": "Alcohol",
+    "explanation": "Yeast breaks down food to release energy, producing both carbon dioxide and a small amount of alcohol during the process. This is mentioned on Pages 21 and 22."
+  },
+  {
+    "id": 111,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What does 'unicellular' mean?",
+    "options": [
+      "Living in a colony",
+      "Made of only one cell",
+      "Having no nucleus",
+      "Unable to move"
+    ],
+    "answer": "Made of only one cell",
+    "explanation": "Organisms like bacteria and Amoeba are called unicellular because their entire body is composed of a single cell. This is mentioned on Pages 15 and 23."
+  },
+  {
+    "id": 112,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which cell part is common to both onion peel and human cheek cells?",
+    "options": [
+      "Cell wall",
+      "Chloroplast",
+      "Nucleus",
+      "Large central vacuole"
+    ],
+    "answer": "Nucleus",
+    "explanation": "While onion cells have cell walls and cheek cells do not, both are eukaryotic cells that contain a nucleus. This is mentioned on Pages 11 and 12."
+  },
+  {
+    "id": 113,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What is the main function of the cell wall in plants?",
+    "options": [
+      "To perform photosynthesis",
+      "To provide strength and rigidity",
+      "To store energy",
+      "To digest food"
+    ],
+    "answer": "To provide strength and rigidity",
+    "explanation": "The cell wall is a tough outer layer that supports the plant and gives it a firm structure. This is mentioned on Page 13."
+  },
+  {
+    "id": 114,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which of these is NOT a category of microorganisms mentioned in the book?",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Insects",
+      "Protozoa"
+    ],
+    "answer": "Insects",
+    "explanation": "The textbook categorizes microbes as bacteria, fungi, protozoa, and algae. Insects are multicellular animals visible to the naked eye. This is mentioned on Page 15."
+  },
+  {
+    "id": 115,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What helps plant cells store waste and maintain shape?",
+    "options": [
+      "Mitochondria",
+      "Large vacuole",
+      "Nucleus",
+      "Cytoplasm"
+    ],
+    "answer": "Large vacuole",
+    "explanation": "The large vacuole in plant cells acts as a storage and waste disposal center while also supporting the cell's structure. This is mentioned on Page 13."
+  },
+  {
+    "id": 116,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "In Table 2.2, which organism contains the green pigment chlorophyll?",
+    "options": [
+      "Bread mould",
+      "Penicillium",
+      "Algae",
+      "Bacteria"
+    ],
+    "answer": "Algae",
+    "explanation": "Algae are identified as containing chlorophyll, which allows them to perform photosynthesis and appear green. This is mentioned on Page 17."
+  },
+  {
+    "id": 117,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "Why is the invention of the microscope considered a turning point in science?",
+    "options": [
+      "It allowed people to see the stars",
+      "It opened a hidden world of tiny living creatures and cells",
+      "It was the first tool made of glass",
+      "It allowed humans to travel faster"
+    ],
+    "answer": "It opened a hidden world of tiny living creatures and cells",
+    "explanation": "Before the microscope, the world of microorganisms and the cellular structure of life were unknown to humans. This is mentioned on Page 9."
+  },
+  {
+    "id": 118,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What is the effect of glycerin on a microscope slide?",
+    "options": [
+      "It turns the cells blue",
+      "It prevents the drying of cells and improves visual clarity",
+      "It kills the organisms immediately",
+      "It helps the coverslip stick forever"
+    ],
+    "answer": "It prevents the drying of cells and improves visual clarity",
+    "explanation": "Glycerin is a liquid used in slide preparation to keep the specimen moist and clear for better viewing under the lens. This is mentioned on Page 11."
+  },
+  {
+    "id": 119,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "Which part of the digestive system uses spindle-shaped muscle cells?",
+    "options": [
+      "Teeth",
+      "Food pipe (esophagus)",
+      "Salivary glands",
+      "Tongue"
+    ],
+    "answer": "Food pipe (esophagus)",
+    "explanation": "The food pipe contains muscle cells that are thin and spindle-shaped, allowing them to push food down to the stomach. This is mentioned on Page 14."
+  },
+  {
+    "id": 120,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What is the relationship between cell shape and its function?",
+    "options": [
+      "There is no relationship",
+      "The shape helps the cell perform its specific job in the body",
+      "All cells eventually become round",
+      "The shape is determined only by the cell wall"
+    ],
+    "answer": "The shape helps the cell perform its specific job in the body",
+    "explanation": "The unique shape and structure of cells, like the branched neuron or spindle-shaped muscle cell, are adapted for their specific functions. This is mentioned on Page 14."
+  },
+  {
+    "id": 121,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "How do viruses replicate?",
+    "options": [
+      "By eating bacteria",
+      "By absorbing sunlight",
+      "By entering and multiplying inside a living host cell",
+      "By dividing like normal cells in the soil"
+    ],
+    "answer": "By entering and multiplying inside a living host cell",
+    "explanation": "Viruses are acellular and cannot reproduce on their own; they must hijack the machinery of a living host cell to multiply. This is mentioned on Page 17."
+  },
+  {
+    "id": 122,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What is the specific role of 'lactose' in the process of making curd?",
+    "options": [
+      "It is a preservative added to milk",
+      "It is the milk sugar that Lactobacillus bacteria feed on",
+      "It makes the curd look white",
+      "It prevents the curd from becoming too sour"
+    ],
+    "answer": "It is the milk sugar that Lactobacillus bacteria feed on",
+    "explanation": "The curdling process involves bacteria consuming lactose and converting it into lactic acid. This is mentioned on Page 22."
+  },
+  {
+    "id": 123,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "In the 'A step further' section, what is the role of 'biogas'?",
+    "options": [
+      "It is used as a medicine",
+      "It is a fuel source for cooking and electricity",
+      "It is used to stain slides",
+      "It helps plants grow faster"
+    ],
+    "answer": "It is a fuel source for cooking and electricity",
+    "explanation": "Biogas, produced by the decomposition of waste by bacteria, serves as a renewable energy source for various uses. This is mentioned on Page 20."
+  },
+  {
+    "id": 124,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "Why are some algae like Chlorella used as health supplements for humans?",
+    "options": [
+      "They help humans breathe underwater",
+      "They are rich in nutrients and proteins",
+      "They can turn sunlight into medicine",
+      "They are the largest source of Vitamin C"
+    ],
+    "answer": "They are rich in nutrients and proteins",
+    "explanation": "Microalgae like Spirulina and Chlorella are nutrient-dense, making them valuable as dietary supplements. This is mentioned on Pages 22 and 23."
+  },
+  {
+    "id": 125,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What is the main finding from Activity 2.7 regarding microorganisms and the environment?",
+    "options": [
+      "Microbes make soil dirty",
+      "Microbes are the 'key players' in cleaning the environment through decomposition",
+      "Microbes eat all the plants in the garden",
+      "Microbes prevent manure from forming"
+    ],
+    "answer": "Microbes are the 'key players' in cleaning the environment through decomposition",
+    "explanation": "The activity demonstrates how microbes break down waste, essentially cleaning the environment and returning nutrients to the soil. This is mentioned on Pages 18 and 19."
+  },
+  {
+    "id": 126,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which of these is the correct sequence of organization?",
+    "options": [
+      "Tissue -> Cell -> Organ",
+      "Cell -> Tissue -> Organ",
+      "Organ -> Cell -> Tissue",
+      "Tissue -> Organ -> Cell"
+    ],
+    "answer": "Cell -> Tissue -> Organ",
+    "explanation": "Cells group together to form tissues, and tissues group together to form organs. This is mentioned on Page 14."
+  },
+  {
+    "id": 127,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What does a 'foldable paper microscope' provide?",
+    "options": [
+      "Perfect detail like a lab microscope",
+      "A low-cost way for many people to access the microscopic world",
+      "A way to see viruses clearly",
+      "Electricity for the lab"
+    ],
+    "answer": "A low-cost way for many people to access the microscopic world",
+    "explanation": "Scientists created paper microscopes to make scientific exploration more accessible to everyone. This is mentioned on Page 15."
+  },
+  {
+    "id": 128,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What is the yellow part of an egg called?",
+    "options": [
+      "Shell",
+      "Yolk",
+      "Nucleoid",
+      "Albumin"
+    ],
+    "answer": "Yolk",
+    "explanation": "The yolk is the yellow part of an egg, which in an ostrich egg represents a single large cell. This is mentioned on Page 15."
+  },
+  {
+    "id": 129,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which microorganism looks green due to the presence of chlorophyll?",
+    "options": [
+      "Fungi",
+      "Algae",
+      "Protozoa",
+      "Viruses"
+    ],
+    "answer": "Algae",
+    "explanation": "Algae are plant-like microbes that contain chlorophyll for making their own food. This is mentioned on Page 16."
+  },
+  {
+    "id": 130,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What is the process of turning waste into manure called?",
+    "options": [
+      "Photosynthesis",
+      "Decomposition",
+      "Respiration",
+      "Fermentation"
+    ],
+    "answer": "Decomposition",
+    "explanation": "Decomposition is the natural process where microbes break down complex organic matter into simpler nutrients. This is mentioned on Page 19."
+  },
+  {
+    "id": 131,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What causes the 'cotton-like' growth on rotting fruit?",
+    "options": [
+      "Dust",
+      "Microbes (Infection)",
+      "Sugar crystals",
+      "Plant roots"
+    ],
+    "answer": "Microbes (Infection)",
+    "explanation": "When food is left out, it can be infected by microbes like fungi, which create visible powdery or cotton-like growth. This is mentioned on Page 18."
+  },
+  {
+    "id": 132,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What distinguishes the 'nucleoid' of a bacterium from the 'nucleus' of a plant cell?",
+    "options": [
+      "The nucleoid is much larger",
+      "The nucleoid lacks a nuclear membrane",
+      "The nucleoid is green",
+      "The nucleoid is used for movement"
+    ],
+    "answer": "The nucleoid lacks a nuclear membrane",
+    "explanation": "Unlike the well-defined nucleus in plant and animal cells, the nucleoid in bacteria is not enclosed by a membrane. This is mentioned on Pages 23 and 24."
+  },
+  {
+    "id": 133,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "How do 'root nodules' benefit leguminous plants?",
+    "options": [
+      "They store extra water",
+      "They contain bacteria that fix nitrogen from the air",
+      "They protect the plant from insects",
+      "They help the plant grow deeper roots"
+    ],
+    "answer": "They contain bacteria that fix nitrogen from the air",
+    "explanation": "Rhizobium bacteria in these nodules provide the plant with essential nitrogen, acting as a natural fertilizer. This is mentioned on Page 22."
+  },
+  {
+    "id": 134,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What is the primary role of yeast in the production of 'bhaturas'?",
+    "options": [
+      "It adds a salty taste",
+      "It helps in the fermentation of the dough to make it soft",
+      "It changes the color of the dough to yellow",
+      "It prevents the dough from rising"
+    ],
+    "answer": "It helps in the fermentation of the dough to make it soft",
+    "explanation": "Yeast fermentation produces gas that makes the dough for breads and bhaturas light and soft. This is mentioned on Pages 21 and 25."
+  },
+  {
+    "id": 135,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "According to Fig 2.12, which plant has root nodules containing Rhizobium?",
+    "options": [
+      "Wheat",
+      "Onion",
+      "Cowpea plant",
+      "Cactus"
+    ],
+    "answer": "Cowpea plant",
+    "explanation": "The illustration specifically shows a Cowpea plant with swollen regions (root nodules) where Rhizobium bacteria live. This is mentioned on Page 22."
+  },
+  {
+    "id": 136,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "Which of these is an example of an 'organ system' mentioned on page 14?",
+    "options": [
+      "Stomach",
+      "Digestive system",
+      "Muscle cell",
+      "Egg"
+    ],
+    "answer": "Digestive system",
+    "explanation": "An organ system, such as the digestive system, is composed of several organs working together for a major function. This is mentioned on Page 14."
+  },
+  {
+    "id": 137,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What is the significance of the 1850s in the history of Indian science mentioned on page 27?",
+    "options": [
+      "The first microscope was invented in India",
+      "One of the oldest biogas plants was set up in India",
+      "Spirulina was first discovered in India",
+      "Robert Hooke visited India"
+    ],
+    "answer": "One of the oldest biogas plants was set up in India",
+    "explanation": "The 'Discover, design, and debate' section notes that India's history with biogas began as early as the late 1850s. This is mentioned on Page 27."
+  },
+  {
+    "id": 138,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "Which group of organisms produces more than half of the Earth's oxygen?",
+    "options": [
+      "Fungi",
+      "Microalgae",
+      "Bacteria",
+      "Humans"
+    ],
+    "answer": "Microalgae",
+    "explanation": "As microscopic plant-like organisms in water and air, microalgae are key contributors to the global oxygen cycle. This is mentioned on Page 22."
+  },
+  {
+    "id": 139,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What did Antonie van Leeuwenhoek use to build his microscopes?",
+    "options": [
+      "Better lenses that he made himself",
+      "Magnifying glasses he bought",
+      "Water-filled flasks",
+      "Mirrors from the Royal Society"
+    ],
+    "answer": "Better lenses that he made himself",
+    "explanation": "Leeuwenhoek significantly improved lens-making, which allowed him to build microscopes powerful enough to see bacteria for the first time. This is mentioned on Page 10."
+  },
+  {
+    "id": 140,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "hard",
+    "question": "What happens to 'lime water' if it is exposed to the gas produced by yeast during fermentation?",
+    "options": [
+      "It turns blue",
+      "It becomes acidic",
+      "It turns milky (as implied by experimental testing)",
+      "It freezes"
+    ],
+    "answer": "It turns milky (as implied by experimental testing)",
+    "explanation": "Activity 2 in 'Keep the curiosity alive' uses lime water to test the gas (CO2) produced by yeast. CO2 typically turns lime water milky. This is mentioned on Page 25."
+  },
+  {
+    "id": 141,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Is an ostrich egg yolk a single cell?",
+    "options": [
+      "Yes",
+      "No, it is a tissue",
+      "No, it is an organ system",
+      "Yes, but only before it is laid"
+    ],
+    "answer": "Yes",
+    "explanation": "The yolk of an ostrich egg is documented in the text as the largest known single cell in the world. This is mentioned on Page 15."
+  },
+  {
+    "id": 142,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What do we call living things that are too small to be seen without a microscope?",
+    "options": [
+      "Organisms",
+      "Microorganisms",
+      "Macro-organisms",
+      "Tissues"
+    ],
+    "answer": "Microorganisms",
+    "explanation": "Microorganisms, or microbes, are the tiny living beings that exist beyond our naked eye's visibility. This is mentioned on Pages 15 and 16."
+  },
+  {
+    "id": 143,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Which scientist is associated with the 'Royal Society' on page 10?",
+    "options": [
+      "Leeuwenhoek",
+      "Robert Hooke",
+      "Chakrabarty",
+      "Atharvaveda"
+    ],
+    "answer": "Robert Hooke",
+    "explanation": "Robert Hooke is described as a Fellow of the Royal Society in the title page of his book Micrographia. This is mentioned on Page 10."
+  },
+  {
+    "id": 144,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "Can microorganisms live in extreme hot water springs?",
+    "options": [
+      "Yes",
+      "No, only in cold zones",
+      "No, they would die immediately",
+      "Yes, but only if they are plants"
+    ],
+    "answer": "Yes",
+    "explanation": "Microorganisms are found in a wide variety of environments, including extreme conditions like hot water springs and snow. This is mentioned on Page 18."
+  },
+  {
+    "id": 145,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "easy",
+    "question": "What are the building blocks of all living beings?",
+    "options": [
+      "Atoms",
+      "Cells",
+      "Bones",
+      "Water"
+    ],
+    "answer": "Cells",
+    "explanation": "Just as bricks are the building blocks of a wall, cells are the fundamental building blocks of all living things. This is mentioned on Page 14."
+  },
+  {
+    "id": 146,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What is the characteristic feature of a 'bread mould' fungus?",
+    "options": [
+      "It makes its own food",
+      "It has a sac-like structure",
+      "It has a brush-like structure",
+      "It is always green"
+    ],
+    "answer": "It has a sac-like structure",
+    "explanation": "Table 2.2 describes bread mould as a branched filament without chlorophyll that possesses sac-like structures. This is mentioned on Page 17."
+  },
+  {
+    "id": 147,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What would happen to the environment if microorganisms did not exist?",
+    "options": [
+      "It would be much cleaner",
+      "Waste would not decompose, and nutrients wouldn't recycle",
+      "Plants would grow much faster",
+      "There would be more oxygen"
+    ],
+    "answer": "Waste would not decompose, and nutrients wouldn't recycle",
+    "explanation": "Without microorganisms, dead plants and animals would not rot, and the essential nutrients trapped in them would never return to the soil. This is mentioned on Page 19."
+  },
+  {
+    "id": 148,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "Which part of the cell controls all its activities?",
+    "options": [
+      "Cell wall",
+      "Nucleus",
+      "Chloroplast",
+      "Cytoplasm"
+    ],
+    "answer": "Nucleus",
+    "explanation": "The nucleus acts as the 'brain' or regulatory center for the entire cell, managing growth and function. This is mentioned on Page 13."
+  },
+  {
+    "id": 149,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "What distinguishes the 'Adrishya' entities in Vedic texts?",
+    "options": [
+      "They are large animals",
+      "They are invisible tiny entities",
+      "They are only harmful",
+      "They only live in water"
+    ],
+    "answer": "They are invisible tiny entities",
+    "explanation": "Vedic texts refer to tiny entities as 'Krimi', dividing them into visible ('Drishya') and invisible ('Adrishya'). This is mentioned on Page 19."
+  },
+  {
+    "id": 150,
+    "subject": "Science",
+    "chapter": "The Invisible Living World: Beyond Our Naked Eye",
+    "difficulty": "medium",
+    "question": "How are bacteria different from yeast cells?",
+    "options": [
+      "Yeast cells are acellular",
+      "Bacteria lack a well-defined nucleus",
+      "Yeast cells do not have a cell membrane",
+      "Bacteria are always larger"
+    ],
+    "answer": "Bacteria lack a well-defined nucleus",
+    "explanation": "While yeast (a fungus) is eukaryotic with a defined nucleus, bacteria are prokaryotic and contain their DNA in a nucleoid. This is mentioned on Pages 23 and 24."
   }
 ]
