@@ -899,5 +899,1505 @@
 ],
 "answer": "30",
 "explanation": "27000 = 27 x 1000. Cube root of 27 is 3, cube root of 1000 is 10. 3 x 10 = 30. Page No. 21"
-}
+},
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What is the simplified notation for the product of a number 'n' multiplied by itself?",
+    "options": [
+      "2n",
+      "n²",
+      "n + n",
+      "n/2"
+    ],
+    "answer": "n²",
+    "explanation": "In mathematics, the product of a number multiplied by itself is written as the number with an exponent of 2, read as 'n squared'. This represents the area of a square with side length n. Page No. 3"
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "According to the table on page 3, what is the area of a square with a sidelength of 10 units?",
+    "options": [
+      "20 sq. units",
+      "50 sq. units",
+      "100 sq. units",
+      "1000 sq. units"
+    ],
+    "answer": "100 sq. units",
+    "explanation": "The area of a square is calculated by multiplying the sidelength by itself. For a side of 10, the calculation is 10 × 10 = 100 sq. units. Page No. 3"
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "Which of these numbers is specifically mentioned as a perfect square on page 4?",
+    "options": [
+      "15",
+      "16",
+      "20",
+      "26"
+    ],
+    "answer": "16",
+    "explanation": "The text explicitly lists 1, 4, 9, 16, 25 as examples of perfect squares, which are the squares of natural numbers. Page No. 4"
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "The square of which of these single-digit numbers ends in 9?",
+    "options": [
+      "3 only",
+      "7 only",
+      "Both 3 and 7",
+      "9 only"
+    ],
+    "answer": "Both 3 and 7",
+    "explanation": "Looking at the units place patterns, 3² = 9 and 7² = 49. Therefore, numbers ending in 3 or 7 have squares that end in the digit 9. Page No. 4"
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What does the symbol '√' represent in the context of the summary?",
+    "options": [
+      "Square root",
+      "Perfect cube",
+      "Prime factor",
+      "Area of a circle"
+    ],
+    "answer": "Square root",
+    "explanation": "The summary states that the positive square root of a number is denoted by the symbol √. For example, √9 = 3. Page No. 17"
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What is the cube root of 27 based on the summary?",
+    "options": [
+      "3",
+      "9",
+      "81",
+      "7"
+    ],
+    "answer": "3",
+    "explanation": "The text provides an example for cube roots, stating that ³√27 = 3 because 3 × 3 × 3 = 27. Page No. 17"
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "How many times must a number be multiplied by itself to be called a 'cube'?",
+    "options": [
+      "Once",
+      "Twice",
+      "Three times",
+      "Four times"
+    ],
+    "answer": "Three times",
+    "explanation": "The text defines a cube as a number obtained by multiplying a number by itself three times. Page No. 12"
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "In the prime factorization of a perfect cube, how many times does each prime factor appear?",
+    "options": [
+      "Once",
+      "Twice",
+      "Three times",
+      "Depends on the number"
+    ],
+    "answer": "Three times",
+    "explanation": "The text observes that each prime factor of a number appears exactly three times in the prime factorization of its cube. Page No. 15"
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What digit is at the units place of 10³?",
+    "options": [
+      "1",
+      "3",
+      "0",
+      "9"
+    ],
+    "answer": "0",
+    "explanation": "10 cubed is 10 × 10 × 10 = 1000. Therefore, the digit in the units place is 0. Page No. 12"
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "According to the historical note, which civilization compiled lists of squares and cubes as far back as 1700 BCE?",
+    "options": [
+      "Indians",
+      "Greeks",
+      "Babylonians",
+      "Egyptians"
+    ],
+    "answer": "Babylonians",
+    "explanation": "Section 1.3 states that the first known list of perfect squares and cubes was compiled by the Babylonians on clay tablets. Page No. 15"
+  },
+  {
+    "id": 71,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "Which Sanskrit word refers to the 'third power' or a solid cube?",
+    "options": [
+      "Varga",
+      "Ghana",
+      "Mula",
+      "Pada"
+    ],
+    "answer": "Ghana",
+    "explanation": "In ancient Sanskrit works, the term 'ghana' was used to represent both the solid cube and the product of a number with itself three times. Page No. 16"
+  },
+  {
+    "id": 72,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "If a perfect square ends with the digit 4, the units digit of its square root could be:",
+    "options": [
+      "2 or 8",
+      "4 or 6",
+      "3 or 7",
+      "1 or 9"
+    ],
+    "answer": "2 or 8",
+    "explanation": "Numbers ending in 2 squared result in 4, and numbers ending in 8 squared (64) also end in 4. Therefore, the root must end in 2 or 8. Page No. 4"
+  },
+  {
+    "id": 73,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "Using the patterns of zeros, if a number is 200, how many zeros will its square have?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Six"
+    ],
+    "answer": "Four",
+    "explanation": "The text shows that if a number has two zeros (like 200), its square will have double that amount, which is four zeros (40000). Page No. 5"
+  },
+  {
+    "id": 74,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "If you add the first six consecutive odd numbers (1+3+5+7+9+11), what perfect square do you get?",
+    "options": [
+      "25",
+      "36",
+      "49",
+      "64"
+    ],
+    "answer": "36",
+    "explanation": "The sum of the first 'n' odd numbers is n². For the first six odd numbers, the sum is 6², which is 36. Page No. 5"
+  },
+  {
+    "id": 75,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the relationship between triangular numbers and square numbers as shown on page 7?",
+    "options": [
+      "Subtracting them gives a square",
+      "The sum of two consecutive triangular numbers is a square",
+      "A triangular number is always half of a square",
+      "They have no relationship"
+    ],
+    "answer": "The sum of two consecutive triangular numbers is a square",
+    "explanation": "The visual pattern shows that adding consecutive triangular numbers like 1+3=4 (2²), 3+6=9 (3²), and 6+10=16 (4²) results in perfect squares. Page No. 7"
+  },
+  {
+    "id": 76,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "Based on the property of consecutive squares, how many non-square numbers lie between 9² and 10²?",
+    "options": [
+      "18",
+      "19",
+      "20",
+      "81"
+    ],
+    "answer": "18",
+    "explanation": "The number of non-square numbers between n² and (n+1)² is 2n. Here, n=9, so 2 × 9 = 18. Page No. 7 & 10 (Ans key)"
+  },
+  {
+    "id": 77,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "Why is the square root of 64 denoted as ±8 in the textbook?",
+    "options": [
+      "Because 8 + 8 = 16 and 8 - 8 = 0",
+      "Because both 8² and (-8)² equal 64",
+      "Because 64 is an even number",
+      "It is a mistake in the text"
+    ],
+    "answer": "Because both 8² and (-8)² equal 64",
+    "explanation": "Every perfect square has two integer square roots: one positive and one negative, because the product of two negatives is positive. Page No. 8"
+  },
+  {
+    "id": 78,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "Which of these is the correct prime factorization of 1156?",
+    "options": [
+      "2 × 2 × 17 × 17",
+      "2 × 2 × 2 × 17",
+      "2 × 17 × 17 × 17",
+      "2 × 2 × 2 × 2 × 7"
+    ],
+    "answer": "2 × 2 × 17 × 17",
+    "explanation": "To check if 1156 is a square, we group prime factors: (2 × 17) × (2 × 17) = 34². Thus, the factors are two 2s and two 17s. Page No. 9"
+  },
+  {
+    "id": 79,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "To estimate the square root of 1156, which two 'friendly' squares would you use for the interval?",
+    "options": [
+      "100 and 400",
+      "900 and 1600",
+      "1600 and 2500",
+      "2500 and 3600"
+    ],
+    "answer": "900 and 1600",
+    "explanation": "Since 30² = 900 and 40² = 1600, and 1156 lies between them, its root must be between 30 and 40. Page No. 9"
+  },
+  {
+    "id": 80,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "If 125² = 15625, what is the value of 126² according to the pattern on page 10?",
+    "options": [
+      "15625 + 126",
+      "15625 + 251",
+      "15625 + 253",
+      "15625 + 125"
+    ],
+    "answer": "15625 + 251",
+    "explanation": "To find the next square, you add the next odd number (2n-1). For n=126, 2(126)-1 = 251. 15625 + 251 = 15876. Page No. 10 & 20"
+  },
+  {
+    "id": 81,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the units digit of the cube of any number ending in 2?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "6"
+    ],
+    "answer": "8",
+    "explanation": "The cube of 2 is 8 (2×2×2). Therefore, any number ending in 2 will have a cube that ends in 8. Page No. 12"
+  },
+  {
+    "id": 82,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the units digit of the cube of any number ending in 8?",
+    "options": [
+      "8",
+      "2",
+      "4",
+      "6"
+    ],
+    "answer": "2",
+    "explanation": "The cube of 8 is 512 (8×8×8). Therefore, any number ending in 8 will have a cube that ends in 2. Page No. 12"
+  },
+  {
+    "id": 83,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "How many digits can the cube of a 2-digit number have?",
+    "options": [
+      "Only 3 or 4",
+      "Between 4 and 6",
+      "Exactly 5",
+      "Always 7"
+    ],
+    "answer": "Between 4 and 6",
+    "explanation": "The smallest 2-digit number is 10 (cube=1000, 4 digits). The largest is 99 (cube=970299, 6 digits). Page No. 16"
+  },
+  {
+    "id": 84,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "If you are given that 1323 needs to become a perfect cube, what is the smallest number it should be multiplied by?",
+    "options": [
+      "3",
+      "7",
+      "2",
+      "9"
+    ],
+    "answer": "7",
+    "explanation": "The prime factorization of 1323 is 3 × 3 × 3 × 7 × 7. To make it a cube, the 7s need a third partner, so we multiply by 7. Page No. 21"
+  },
+  {
+    "id": 85,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the cube root of 10648 according to the figure it out section?",
+    "options": [
+      "18",
+      "22",
+      "28",
+      "32"
+    ],
+    "answer": "22",
+    "explanation": "Using estimation or factorization: 20³=8000 and 30³=27000. Since 10648 ends in 8, the root must end in 2. Thus, 22 is the answer. Page No. 21"
+  },
+  {
+    "id": 86,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "Which of these digits are the only possible last digits for both a number and its perfect square?",
+    "options": [
+      "1, 5, 6",
+      "2, 3, 7",
+      "4, 8, 9",
+      "0, 1, 4"
+    ],
+    "answer": "1, 5, 6",
+    "explanation": "1²=1, 5²=25, 6²=36. In these cases, the units digit of the number and its square are identical. Page No. 4"
+  },
+  {
+    "id": 87,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the cube root of 512?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": "8",
+    "explanation": "The cube root of 512 is 8 because 8 × 8 × 8 = 512. Page No. 12"
+  },
+  {
+    "id": 88,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "In the pattern 1² + 2² + 2² = 3², what are the missing numbers for 9² + 10² + (?)² = (?)²?",
+    "options": [
+      "11, 12",
+      "19, 20",
+      "90, 91",
+      "80, 81"
+    ],
+    "answer": "90, 91",
+    "explanation": "The pattern is a² + b² + (ab)² = (ab+1)². For 9 and 10, the missing numbers are 9×10=90 and 90+1=91. Page No. 21"
+  },
+  {
+    "id": 89,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "Which of the following is NOT a property of perfect cubes mentioned in the text?",
+    "options": [
+      "They can end in any digit 0-9",
+      "They always have an odd number of factors",
+      "They can be negative",
+      "They can be expressed as a sum of consecutive odd numbers"
+    ],
+    "answer": "They always have an odd number of factors",
+    "explanation": "The text states square numbers have an odd number of factors. Cube numbers (like 8, which has factors 1, 2, 4, 8) can have an even number of factors. Page No. 16"
+  },
+  {
+    "id": 90,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the 36th odd number used to calculate 36²?",
+    "options": [
+      "36",
+      "71",
+      "73",
+      "69"
+    ],
+    "answer": "71",
+    "explanation": "The formula for the nth odd number is 2n - 1. For n=36, it is 2(36) - 1 = 71. Page No. 6"
+  },
+  {
+    "id": 91,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "In the locker puzzle, why do square number lockers (1, 4, 9...) remain open while others close?",
+    "options": [
+      "Because they are the only numbers with an odd number of factors",
+      "Because they are only toggled by odd-numbered persons",
+      "Because the minister skipped even lockers",
+      "Because Khoisnam opened them at the end"
+    ],
+    "answer": "Because they are the only numbers with an odd number of factors",
+    "explanation": "A locker toggled an odd number of times stays open. Since only squares have an odd count of factors (due to the 'partner factor' being the same number), only square lockers remain open. Page No. 2"
+  },
+  {
+    "id": 92,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "How many consecutive odd numbers, starting from 1, must be added to get the square of 25?",
+    "options": [
+      "12",
+      "25",
+      "50",
+      "625"
+    ],
+    "answer": "25",
+    "explanation": "The property states that n² is the sum of the first 'n' consecutive odd numbers. Thus, 25² is the sum of the first 25 odd numbers. Page No. 6"
+  },
+  {
+    "id": 93,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "If p and q are consecutive perfect squares (p < q), the count of non-square numbers between them is exactly:",
+    "options": [
+      "√p + √q",
+      "2√p",
+      "q - p",
+      "2√q"
+    ],
+    "answer": "2√p",
+    "explanation": "Between n² and (n+1)², there are 2n numbers. Here, √p is n. So there are 2√p non-square numbers. Page No. 7 & 10"
+  },
+  {
+    "id": 94,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "To find the square root of 729 using successive subtraction, how many odd numbers would you need to subtract to reach zero?",
+    "options": [
+      "23",
+      "25",
+      "27",
+      "29"
+    ],
+    "answer": "27",
+    "explanation": "The number of steps in successive subtraction equals the square root. Since 27 × 27 = 729, it would take 27 steps. Page No. 8"
+  },
+  {
+    "id": 95,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "Why is it impossible for a perfect square to end in 2, 3, 7, or 8?",
+    "options": [
+      "Because no single-digit square ends in these numbers",
+      "Because they are all prime numbers",
+      "Because they are all odd digits",
+      "The text does not explain why"
+    ],
+    "answer": "Because no single-digit square ends in these numbers",
+    "explanation": "The units digit of a square is determined by the square of the units digit of the original number. Squaring 0-9 only produces 0, 1, 4, 5, 6, 9. Page No. 4"
+  },
+  {
+    "id": 96,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "If you are finding the cube root of a number by prime factorization and find the factors are 2³ × 2³ × 3³, what is the cube root?",
+    "options": [
+      "7",
+      "12",
+      "18",
+      "432"
+    ],
+    "answer": "12",
+    "explanation": "The cube root is found by taking one factor from each triplet. ³√(2³ × 2³ × 3³) = 2 × 2 × 3 = 12. Page No. 14"
+  },
+  {
+    "id": 97,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "In the 'Successive Differences' for perfect cubes, at which level do all the differences finally become the same?",
+    "options": [
+      "Level 1",
+      "Level 2",
+      "Level 3",
+      "Level 4"
+    ],
+    "answer": "Level 3",
+    "explanation": "By observing the cube sequence: 1, 8, 27, 64... Level 1 diffs: 7, 19, 37. Level 2 diffs: 12, 18. Level 3 diffs: 6, 6. Thus, level 3 is where they become constant. Page No. 15"
+  },
+  {
+    "id": 98,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "According to the patterns shown, what is the sum of the consecutive odd numbers from 91 to 109?",
+    "options": [
+      "100",
+      "1000",
+      "1100",
+      "216"
+    ],
+    "answer": "1000",
+    "explanation": "The pattern shows groups of 'n' consecutive odd numbers summing to n³. The sequence 91...109 contains 10 numbers (91, 93, 95, 97, 99, 101, 103, 105, 107, 109). Thus, the sum is 10³ = 1000. Page No. 14 & 21"
+  },
+  {
+    "id": 99,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "How did Brahmagupta define the 'root' of a square (krti)?",
+    "options": [
+      "As the sum of its sides",
+      "As 'that of which it is a square'",
+      "As the division of the area by four",
+      "As the diagonal of the figure"
+    ],
+    "answer": "As 'that of which it is a square'",
+    "explanation": "Brahmagupta (628 CE) explained, 'The pada (root) of a krti (square) is that of which it is a square.' Page No. 16"
+  },
+  {
+    "id": 100,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "Which of these expressions from page 17 is the greatest?",
+    "options": [
+      "67³ - 66³",
+      "43³ - 42³",
+      "67² - 66²",
+      "43² - 42²"
+    ],
+    "answer": "67³ - 66³",
+    "explanation": "The difference between cubes of larger consecutive numbers grows much faster than squares. 67³-66³ results in the largest value among the choices. Page No. 22"
+  },
+  {
+    "id": 101,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What is the square of 11?",
+    "options": [
+      "111",
+      "121",
+      "144",
+      "110"
+    ],
+    "answer": "121",
+    "explanation": "As per the table on page 4, 11 squared (11 × 11) equals 121. Page No. 4"
+  },
+  {
+    "id": 102,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What is the cube of 1?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "answer": "1",
+    "explanation": "A cube is a number multiplied by itself three times. 1 × 1 × 1 = 1. Page No. 12"
+  },
+  {
+    "id": 103,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What is the square root of 100?",
+    "options": [
+      "1",
+      "10",
+      "20",
+      "50"
+    ],
+    "answer": "10",
+    "explanation": "The text uses 100 = 10² as an example. Therefore, the square root of 100 is 10. Page No. 8"
+  },
+  {
+    "id": 104,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "Which of these is a perfect cube?",
+    "options": [
+      "4",
+      "8",
+      "9",
+      "16"
+    ],
+    "answer": "8",
+    "explanation": "The text lists 1, 8, 27... as perfect cubes. 8 is the cube of 2 (2 × 2 × 2). Page No. 12"
+  },
+  {
+    "id": 105,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "If a square has a sidelength of 1 unit, what is its area?",
+    "options": [
+      "1 sq. unit",
+      "2 sq. units",
+      "4 sq. units",
+      "0.5 sq. units"
+    ],
+    "answer": "1 sq. unit",
+    "explanation": "The area is side × side. 1 × 1 = 1. Page No. 3"
+  },
+  {
+    "id": 106,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What digit is at the units place of 5 squared?",
+    "options": [
+      "0",
+      "2",
+      "5",
+      "1"
+    ],
+    "answer": "5",
+    "explanation": "5 × 5 = 25. The digit in the units place is 5. Page No. 4"
+  },
+  {
+    "id": 107,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What notation is used for 'cube root' in the summary?",
+    "options": [
+      "√",
+      "³√",
+      "²√",
+      "c√"
+    ],
+    "answer": "³√",
+    "explanation": "The summary states that the symbol ³√ denotes cube root. Page No. 17"
+  },
+  {
+    "id": 108,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "Which Sanskrit term means 'square root'?",
+    "options": [
+      "Varga-mula",
+      "Ghana-mula",
+      "Varga-varga",
+      "Pada-pada"
+    ],
+    "answer": "Varga-mula",
+    "explanation": "The text explains that 'varga-mula' was used for square-root and 'ghana-mula' was used for cube-root. Page No. 16"
+  },
+  {
+    "id": 109,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What is the square of 2?",
+    "options": [
+      "2",
+      "4",
+      "8",
+      "1"
+    ],
+    "answer": "4",
+    "explanation": "The table on page 4 shows that 2 squared (2 × 2) is 4. Page No. 4"
+  },
+  {
+    "id": 110,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What is the cube of 2?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "8",
+    "explanation": "The text shows 2 × 2 × 2 = 8, so the cube of 2 is 8. Page No. 12"
+  },
+  {
+    "id": 111,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "If a number ends in 0, what is the minimum number of zeros its cube can end in?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Six"
+    ],
+    "answer": "Three",
+    "explanation": "If a number has one zero, its cube (10 × 10 × 10) will have three zeros. The zero count triples. Page No. 13"
+  },
+  {
+    "id": 112,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "Which of these numbers is NOT a perfect square?",
+    "options": [
+      "625",
+      "576",
+      "327",
+      "121"
+    ],
+    "answer": "327",
+    "explanation": "327 ends in 7. The text clearly states that numbers ending in 2, 3, 7, or 8 cannot be perfect squares. Page No. 8"
+  },
+  {
+    "id": 113,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the square root of 324?",
+    "options": [
+      "16",
+      "18",
+      "22",
+      "24"
+    ],
+    "answer": "18",
+    "explanation": "Through prime factorization, 324 is shown to be (2 × 3 × 3)², which is 18². Page No. 9"
+  },
+  {
+    "id": 114,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "How many non-square numbers lie between 16 and 25?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "7"
+    ],
+    "answer": "8",
+    "explanation": "16 and 25 are 4² and 5². Between n² and (n+1)², there are 2n numbers. 2 × 4 = 8. Page No. 7"
+  },
+  {
+    "id": 115,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "Which of these is the sum of the first three cubes (1³ + 2³ + 3³)?",
+    "options": [
+      "36",
+      "27",
+      "9",
+      "64"
+    ],
+    "answer": "36",
+    "explanation": "1 + 8 + 27 = 36. Interestingly, this is also a perfect square (6²). Page No. 12"
+  },
+  {
+    "id": 116,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the value of 21²?",
+    "options": [
+      "400",
+      "441",
+      "484",
+      "210"
+    ],
+    "answer": "441",
+    "explanation": "According to the table on page 4, 21 squared is 441. Page No. 4"
+  },
+  {
+    "id": 117,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the units digit of 46 squared?",
+    "options": [
+      "4",
+      "6",
+      "2",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Any number ending in 6 has a square that ends in 6 (6 × 6 = 36). Page No. 5"
+  },
+  {
+    "id": 118,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "If a number's square ends in 5, what must the original number's units digit be?",
+    "options": [
+      "0",
+      "5",
+      "25",
+      "It could be any odd number"
+    ],
+    "answer": "5",
+    "explanation": "The only digit whose square ends in 5 is 5 itself. Page No. 4"
+  },
+  {
+    "id": 119,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the cube of 10?",
+    "options": [
+      "100",
+      "1000",
+      "10000",
+      "30"
+    ],
+    "answer": "1000",
+    "explanation": "10 × 10 × 10 = 1000. Page No. 12"
+  },
+  {
+    "id": 120,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the cube root of 216?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "The table on page 15 shows that 6³ = 216. Therefore, the cube root is 6. Page No. 15"
+  },
+  {
+    "id": 121,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "If a number is odd, its square is always:",
+    "options": [
+      "Even",
+      "Odd",
+      "Prime",
+      "Zero"
+    ],
+    "answer": "Odd",
+    "explanation": "The text notes in the Math Talk section that the square of an odd number is always odd. Page No. 19"
+  },
+  {
+    "id": 122,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "Which of these squares ends with 1 at the units place?",
+    "options": [
+      "19²",
+      "21²",
+      "29²",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "explanation": "Numbers ending in 1 or 9 have squares that end in 1 (1²=1, 9²=81). Page No. 4"
+  },
+  {
+    "id": 123,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the square root of 441?",
+    "options": [
+      "11",
+      "21",
+      "31",
+      "29"
+    ],
+    "answer": "21",
+    "explanation": "From the table on page 4, 21² = 441. Thus, the root is 21. Page No. 4"
+  },
+  {
+    "id": 124,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "If a number has three zeros at the end, how many zeros will its square have?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "0"
+    ],
+    "answer": "6",
+    "explanation": "The number of zeros doubles in a square. 3 × 2 = 6 zeros. Page No. 5"
+  },
+  {
+    "id": 125,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "How many digits are in the square of 10?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "3",
+    "explanation": "10² = 100, which is a three-digit number. Page No. 4"
+  },
+  {
+    "id": 126,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "Which of these numbers is between 15² and 16²?",
+    "options": [
+      "220",
+      "240",
+      "260",
+      "280"
+    ],
+    "answer": "240",
+    "explanation": "15² = 225 and 16² = 256. Only 240 lies in this interval. Page No. 10"
+  },
+  {
+    "id": 127,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the square root of 25?",
+    "options": [
+      "5",
+      "10",
+      "50",
+      "2.5"
+    ],
+    "answer": "5",
+    "explanation": "5 × 5 = 25. Therefore, the root is 5. Page No. 4"
+  },
+  {
+    "id": 128,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "If a number ends in 4, what will its cube end in?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "2"
+    ],
+    "answer": "4",
+    "explanation": "4³ = 64. Thus, numbers ending in 4 have cubes ending in 4. Page No. 12"
+  },
+  {
+    "id": 129,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the prime factorization of 64?",
+    "options": [
+      "2 × 2 × 2 × 2 × 2 × 2",
+      "2 × 2 × 2 × 3 × 3",
+      "4 × 4 × 4",
+      "8 × 8"
+    ],
+    "answer": "2 × 2 × 2 × 2 × 2 × 2",
+    "explanation": "64 = 2⁶. This allows it to be grouped as both a perfect square (8²) and a perfect cube (4³). Page No. 15"
+  },
+  {
+    "id": 130,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "medium",
+    "question": "What is the area of a square with side 0.5 units?",
+    "options": [
+      "0.25",
+      "0.5",
+      "1.0",
+      "0.1"
+    ],
+    "answer": "0.25",
+    "explanation": "Area = 0.5 × 0.5 = 0.25. Page No. 3"
+  },
+  {
+    "id": 131,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "In the locker puzzle, why is locker #6 closed at the end?",
+    "options": [
+      "It has 4 factors: 1, 2, 3, 6",
+      "It has 2 factors: 1, 6",
+      "It is an even number",
+      "The minister toggled it twice"
+    ],
+    "answer": "It has 4 factors: 1, 2, 3, 6",
+    "explanation": "A locker's state depends on the number of factors. 6 has four factors, so it is toggled 4 times (even), meaning it ends up closed. Page No. 2"
+  },
+  {
+    "id": 132,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "Using the 'Successive Subtraction' method, which step reveals the square root of 25?",
+    "options": [
+      "The 5th step",
+      "The 4th step",
+      "The 6th step",
+      "The 25th step"
+    ],
+    "answer": "The 5th step",
+    "explanation": "25-1=24; 24-3=21; 21-5=16; 16-7=9; 9-9=0. Since it takes 5 subtractions to reach zero, the root is 5. Page No. 6"
+  },
+  {
+    "id": 133,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "Which of these numbers between 1 and 100 has the most factors, based on the locker puzzle logic?",
+    "options": [
+      "100",
+      "64",
+      "97",
+      "1"
+    ],
+    "answer": "100",
+    "explanation": "Locker #100 is a square, so it has an odd number of factors. Among the choices, 100 has the highest value and most factor pairs (1,2,4,5,10,20,25,50,100). Page No. 19"
+  },
+  {
+    "id": 134,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "What is the cube root of 729?",
+    "options": [
+      "7",
+      "8",
+      "9",
+      "11"
+    ],
+    "answer": "9",
+    "explanation": "9 × 9 × 9 = 81 × 9 = 729. Therefore, ³√729 = 9. Page No. 15"
+  },
+  {
+    "id": 135,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "Find the smallest number by which 9408 must be multiplied so that the product is a perfect square.",
+    "options": [
+      "2",
+      "3",
+      "7",
+      "11"
+    ],
+    "answer": "3",
+    "explanation": "Prime factorization of 9408 is 2⁶ × 7² × 3. The factor 3 is unpaired, so multiplying by 3 makes it a perfect square. Page No. 20"
+  },
+  {
+    "id": 136,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "Which of these is the correct sum for 13832 as a taxicab number?",
+    "options": [
+      "2³ + 24³",
+      "18³ + 20³",
+      "Both A and B",
+      "Neither A nor B"
+    ],
+    "answer": "Both A and B",
+    "explanation": "Taxicab numbers can be written as the sum of two cubes in two ways. 13832 = 2³ + 24³ = 8 + 13824 and 18³ + 20³ = 5832 + 8000. Page No. 13"
+  },
+  {
+    "id": 137,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "How many non-square numbers are there between 99² and 100²?",
+    "options": [
+      "198",
+      "199",
+      "200",
+      "99"
+    ],
+    "answer": "198",
+    "explanation": "Using the formula 2n for numbers between n² and (n+1)², we calculate 2 × 99 = 198. Page No. 10 & 20"
+  },
+  {
+    "id": 138,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "If a square area is 125 sq cm, what is the side length of the largest square with an integer side that can be cut from it?",
+    "options": [
+      "11 cm",
+      "12 cm",
+      "10 cm",
+      "11.18 cm"
+    ],
+    "answer": "11 cm",
+    "explanation": "The largest integer n such that n² ≤ 125 is 11, because 11²=121 and 12²=144. Page No. 10"
+  },
+  {
+    "id": 139,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "According to the patterns, which level of differences for squares is constant?",
+    "options": [
+      "Level 1",
+      "Level 2",
+      "Level 3",
+      "Level 0"
+    ],
+    "answer": "Level 2",
+    "explanation": "The diagram on page 15 shows Level 1 differences (3,5,7...) and Level 2 differences (all 2s). Page No. 15"
+  },
+  {
+    "id": 140,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "What is the fourth power of a number called in ancient Sanskrit works?",
+    "options": [
+      "Varga-varga",
+      "Ghana-ghana",
+      "Varga-ghana",
+      "Mula-mula"
+    ],
+    "answer": "Varga-varga",
+    "explanation": "The text states that in ancient India, the fourth power was called 'varga-varga'. Page No. 16"
+  },
+  {
+    "id": 141,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "Which of these is the cube root of 32768, estimated from its units digit?",
+    "options": [
+      "28",
+      "32",
+      "38",
+      "42"
+    ],
+    "answer": "32",
+    "explanation": "30³ = 27000 and 40³ = 64000. 32768 ends in 8, and the only digit whose cube ends in 8 is 2. So the root is 32. Page No. 16 & 22"
+  },
+  {
+    "id": 142,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "In the pattern 4² + 5² + 20² = (?)², what is the result?",
+    "options": [
+      "21²",
+      "25²",
+      "29²",
+      "41²"
+    ],
+    "answer": "21²",
+    "explanation": "The pattern is a² + b² + (ab)² = (ab+1)². For a=4, b=5, we get 4² + 5² + 20² = 21². Page No. 21"
+  },
+  {
+    "id": 143,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "If a number's prime factors are 2, 2, 2, 3, 3, 3, 5, 5, 5, what is its cube root?",
+    "options": [
+      "30",
+      "15",
+      "60",
+      "27000"
+    ],
+    "answer": "30",
+    "explanation": "The cube root is found by taking one factor from each triplet: 2 × 3 × 5 = 30. Page No. 14"
+  },
+  {
+    "id": 144,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "In the square pair puzzle for 1-17, what is the neighboring number for 17?",
+    "options": [
+      "8",
+      "19",
+      "1",
+      "16"
+    ],
+    "answer": "8",
+    "explanation": "To form a square, 17 must be added to a number. 17+8=25, which is a perfect square. Page No. 18"
+  },
+  {
+    "id": 145,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "If n=10, what is the sum of the first n odd numbers?",
+    "options": [
+      "100",
+      "10",
+      "19",
+      "21"
+    ],
+    "answer": "100",
+    "explanation": "The property states that the sum of the first 'n' odd numbers is n². For n=10, 10² = 100. Page No. 6"
+  },
+  {
+    "id": 146,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "How many squares are there between 901 and 1000?",
+    "options": [
+      "One (961)",
+      "Two (961, 1000)",
+      "Zero",
+      "Five"
+    ],
+    "answer": "One (961)",
+    "explanation": "31² = 961. 32² = 1024. Therefore, only 961 lies in the 901-1000 range. Page No. 7"
+  },
+  {
+    "id": 147,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "To find the cube root of 3375, what are the grouped triplets in prime factorization?",
+    "options": [
+      "(3×3×3) and (5×5×5)",
+      "(3×5) and (3×5)",
+      "(3×3) and (5×5)",
+      "(15×15×15)"
+    ],
+    "answer": "(3×3×3) and (5×5×5)",
+    "explanation": "3375 = 3 × 3 × 3 × 5 × 5 × 5. These are the two sets of triplets required for a perfect cube. Page No. 14"
+  },
+  {
+    "id": 148,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "What is the side of a square whose area is 441 m²?",
+    "options": [
+      "21 m",
+      "29 m",
+      "11 m",
+      "41 m"
+    ],
+    "answer": "21 m",
+    "explanation": "Since 20²=400 and 21²=441, the side length is 21 m. Page No. 10"
+  },
+  {
+    "id": 149,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "What is the cube root of 512 using the units digit method?",
+    "options": [
+      "8",
+      "12",
+      "2",
+      "18"
+    ],
+    "answer": "8",
+    "explanation": "A number ending in 2 in its cube must have 8 as the units digit of its root (8³=512). Page No. 12"
+  },
+  {
+    "id": 150,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "hard",
+    "question": "Which of these is the smallest number expressible as the sum of two cubes in TWO ways?",
+    "options": [
+      "1729",
+      "4104",
+      "13832",
+      "1"
+    ],
+    "answer": "1729",
+    "explanation": "Ramanujan identified 1729 as the absolute smallest number with this unique 'taxicab' property. Page No. 13"
+  },
+  {
+    "id": 151,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "The number 1 has how many factors?",
+    "options": [
+      "One",
+      "Two",
+      "Zero",
+      "Infinite"
+    ],
+    "answer": "One",
+    "explanation": "As shown in the table on page 2, the only factor of 1 is 1. Page No. 2"
+  },
+  {
+    "id": 152,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What is the square of 1?",
+    "options": [
+      "1",
+      "2",
+      "0",
+      "0.5"
+    ],
+    "answer": "1",
+    "explanation": "1 squared is 1 × 1 = 1. Page No. 4"
+  },
+  {
+    "id": 153,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "How many persons were in the locker puzzle total?",
+    "options": [
+      "100",
+      "99",
+      "1",
+      "Khoisnam only"
+    ],
+    "answer": "100",
+    "explanation": "Khoisnam and his 99 relatives were invited, making a total of 100 people. Page No. 1"
+  },
+  {
+    "id": 154,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What happens if a locker is toggled an even number of times?",
+    "options": [
+      "It remains closed",
+      "It remains open",
+      "It disappears",
+      "It stays the same as before"
+    ],
+    "answer": "It remains closed",
+    "explanation": "The text states that if the number of factors (toggles) is even, the locker will eventually be closed. Page No. 2"
+  },
+  {
+    "id": 155,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "Which digit is at the units place of 10 squared?",
+    "options": [
+      "0",
+      "1",
+      "10",
+      "2"
+    ],
+    "answer": "0",
+    "explanation": "10 × 10 = 100. The units digit is 0. Page No. 4"
+  },
+  {
+    "id": 156,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "If you multiply 3 by itself twice, you get its:",
+    "options": [
+      "Square",
+      "Cube",
+      "Root",
+      "Sum"
+    ],
+    "answer": "Square",
+    "explanation": "Multiplying a number by itself once (total 2 factors) gives its square. Page No. 3"
+  },
+  {
+    "id": 157,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What is the sidelength of a square with area 1 sq. unit?",
+    "options": [
+      "1",
+      "2",
+      "0.5",
+      "0"
+    ],
+    "answer": "1",
+    "explanation": "√1 = 1. Therefore the sidelength is 1. Page No. 3"
+  },
+  {
+    "id": 158,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "In 5² = 25, what is the exponent?",
+    "options": [
+      "2",
+      "5",
+      "25",
+      "None"
+    ],
+    "answer": "2",
+    "explanation": "The small number 2 written above the base 5 is called the exponent. Page No. 3"
+  },
+  {
+    "id": 159,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "How many zeros are at the end of 100?",
+    "options": [
+      "Two",
+      "One",
+      "Three",
+      "Zero"
+    ],
+    "answer": "Two",
+    "explanation": "10 squared is 100, which has two zeros. Page No. 5"
+  },
+  {
+    "id": 160,
+    "subject": "Mathematics",
+    "chapter": "A Square and A Cube",
+    "difficulty": "easy",
+    "question": "What is the square of 3?",
+    "options": [
+      "9",
+      "6",
+      "3",
+      "27"
+    ],
+    "answer": "9",
+    "explanation": "3 × 3 = 9. Page No. 4"
+  }
 ]
