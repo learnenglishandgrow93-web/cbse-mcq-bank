@@ -1,301 +1,2928 @@
-[ { "id": 1, "subject": "Science", "chapter": "The Invisible Living World:
-Beyond Our Naked Eye", "difficulty": "easy", "question": "What is the name of
-the curved piece of glass that people long ago discovered could make small
-things look bigger?", "options": [ "Prism", "Lens", "Mirror", "Plate" ],
-"answer": "Lens", "explanation": "The textbook explains that people discovered a
-curved piece of glass, shaped like a lentil seed, could magnify objects and they
-called it a lens." }, { "id": 2, "subject": "Science", "chapter": "The Invisible
-Living World: Beyond Our Naked Eye", "difficulty": "easy", "question": "In which
-year did Robert Hooke publish his book 'Micrographia'?", "options": [ "1660",
-"1665", "1670", "1680" ], "answer": "1665", "explanation": "The text states that
-in 1665, a scientist named Robert Hooke published a book called Micrographia."
-}, { "id": 3, "subject": "Science", "chapter": "The Invisible Living World:
-Beyond Our Naked Eye", "difficulty": "medium", "question": "Robert Hooke's
-microscope made things look how many times bigger than the unaided eye?",
-"options": [ "10 to 50 times", "100 to 150 times", "200 to 300 times", "500
-to 1000 times" ], "answer": "200 to 300 times", "explanation": "According to the
-PDF, Hooke's microscope made things look 200 to 300 times bigger than what one
-could see with the unaided eye." }, { "id": 4, "subject": "Science", "chapter":
-"The Invisible Living World: Beyond Our Naked Eye", "difficulty": "medium",
-"question": "What material was Robert Hooke observing when he first used the
-word 'cell'?", "options": [ "Onion peel", "A thin slice of cork", "Human cheek
-cells", "Pond water" ], "answer": "A thin slice of cork", "explanation": "The
-text explains that Hooke looked at a thin slice of cork and saw small, empty
-spaces which he called cells." }, { "id": 5, "subject": "Science", "chapter":
-"The Invisible Living World: Beyond Our Naked Eye", "difficulty": "easy",
-"question": "Who is known as the 'Father of Microbiology'?", "options": [
-"Robert Hooke", "Antonie van Leeuwenhoek", "Ananda Mohan Chakrabarty",
-"Lactobacillus" ], "answer": "Antonie van Leeuwenhoek", "explanation": "Antonie
-van Leeuwenhoek is known as the Father of Microbiology because he was the first
-person to clearly see and describe tiny living things like bacteria." }, {
-"id": 6, "subject": "Science", "chapter": "The Invisible Living World: Beyond
-Our Naked Eye", "difficulty": "easy", "question": "What is the basic unit of
-life?", "options": [ "Tissue", "Organ", "Cell", "Organism" ], "answer": "Cell",
-"explanation": "The text states that all living beings are made up of cells,
-which are the basic unit of life." }, { "id": 7, "subject": "Science",
-"chapter": "The Invisible Living World: Beyond Our Naked Eye", "difficulty":
-"medium", "question": "In Activity 2.2, which stain is used to give a pinkish
-colour to onion peel cells?", "options": [ "Methylene blue", "Iodine",
-"Safranin", "Glycerin" ], "answer": "Safranin", "explanation": "The instruction
-for Activity 2.2 says to place the peel in a petri dish containing a few drops
-of safranin (red-coloured stain) to give a pinkish colour to the cells." }, {
-"id": 8, "subject": "Science", "chapter": "The Invisible Living World: Beyond
-Our Naked Eye", "difficulty": "medium", "question": "What is the role of
-glycerin when mounting a slide of cells?", "options": [ "To stain the nucleus",
-"To prevent drying of the cells", "To kill the microorganisms", "To provide
-nutrients to the cells" ], "answer": "To prevent drying of the cells",
-"explanation": "Activity 2.2 states that glycerin will prevent drying of the
-cells and improve clarity for better visualisation." }, { "id": 9, "subject":
-"Science", "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-"difficulty": "medium", "question": "Which of the following are the three basic
-parts of a typical cell?", "options": [ "Cell wall, Cell membrane, Nucleus",
-"Cell membrane, Cytoplasm, Nucleus", "Cell wall, Cytoplasm, Vacuole",
-"Chloroplast, Mitochondria, Nucleus" ], "answer": "Cell membrane, Cytoplasm,
-Nucleus", "explanation": "The text confirms that the cell membrane, cytoplasm,
-and nucleus are the basic parts of a cell." }, { "id": 10, "subject": "Science",
-"chapter": "The Invisible Living World: Beyond Our Naked Eye", "difficulty":
-"easy", "question": "Which structure acts as an extra outer layer in plant cells
-but is absent in human cheek cells?", "options": [ "Cell membrane", "Nucleus",
-"Cytoplasm", "Cell wall" ], "answer": "Cell wall", "explanation": "The text
-explains that some cells, like onion peel cells, have an extra outer layer
-called the cell wall, which provides rigidity and strength to plants." }, {
-"id": 11, "subject": "Science", "chapter": "The Invisible Living World: Beyond
-Our Naked Eye", "difficulty": "medium", "question": "What is the function of the
-cell membrane?", "options": [ "It regulates growth only", "It makes food for the
-cell", "It allows entry and exit of materials and separates cells", "It provides
-rigidity and strength" ], "answer": "It allows entry and exit of materials and
-separates cells", "explanation": "The text states the cell membrane separates
-one cell from another and is porous, allowing the entry of essential materials
-and the exit of waste." }, { "id": 12, "subject": "Science", "chapter": "The
-Invisible Living World: Beyond Our Naked Eye", "difficulty": "medium",
-"question": "Where do most of the life processes take place within a cell?",
-"options": [ "Nucleus", "Cell wall", "Cytoplasm", "Vacuole" ], "answer":
-"Cytoplasm", "explanation": "According to the text, most of the life processes
-take place within the cytoplasm." }, { "id": 13, "subject": "Science",
-"chapter": "The Invisible Living World: Beyond Our Naked Eye", "difficulty":
-"medium", "question": "Which organelle regulates all activities and growth
-within the cell?", "options": [ "Vacuole", "Nucleus", "Cytoplasm", "Cell wall"
-], "answer": "Nucleus", "explanation": "The text states: 'The nucleus regulates
-all activities that occur within the cell. It also regulates growth.'" }, {
-"id": 14, "subject": "Science", "chapter": "The Invisible Living World: Beyond
-Our Naked Eye", "difficulty": "medium", "question": "Which specific plastid
-contains chlorophyll used for photosynthesis?", "options": [ "Leucoplast",
-"Chromoplast", "Chloroplast", "Mitochondria" ], "answer": "Chloroplast",
-"explanation": "The text states that some plastids, like chloroplasts, contain
-chlorophyll, which makes them green and helps in photosynthesis." }, { "id": 15,
-"subject": "Science", "chapter": "The Invisible Living World: Beyond Our Naked
-Eye", "difficulty": "hard", "question": "What is the difference between vacuoles
-in plant and animal cells?", "options": [ "Plant cells have small vacuoles;
-animal cells have large ones", "Plant cells have large vacuoles; animal cells
-usually have small or no vacuoles", "Both have large vacuoles", "Animal cells
-have vacuoles for photosynthesis" ], "answer": "Plant cells have large vacuoles;
-animal cells usually have small or no vacuoles", "explanation": "Page 13 notes
-that plant cells have a large, empty-looking space called a vacuole, whereas in
-animal cells, vacuoles are usually not present or are small." }, { "id": 16,
-"subject": "Science", "chapter": "The Invisible Living World: Beyond Our Naked
-Eye", "difficulty": "medium", "question": "What is the shape of a muscle cell as
-shown in the textbook?", "options": [ "Round", "Spindle-shaped", "Branched",
-"Tube-like" ], "answer": "Spindle-shaped", "explanation": "The text in
-section 2.1.1 describes a muscle cell as being 'shaped like a spindle'." }, {
-"id": 17, "subject": "Science", "chapter": "The Invisible Living World: Beyond
-Our Naked Eye", "difficulty": "medium", "question": "What is another name for
-nerve cells?", "options": [ "Legumes", "Neurons", "Microbes", "Plastids" ],
-"answer": "Neurons", "explanation": "The textbook specifies: 'Nerve cells also
-known as neurons carry messages in our body.'" }, { "id": 18, "subject":
-"Science", "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-"difficulty": "medium", "question": "Which of the following represents the
-correct levels of organisation in a living organism?", "options": [ "Cell ->
-Organ -> Tissue -> Organ system -> Organism", "Cell -> Tissue -> Organ -> Organ
-system -> Organism", "Organism -> Organ system -> Organ -> Tissue -> Cell",
-"Tissue -> Cell -> Organ -> Organ system -> Organism" ], "answer": "Cell ->
-Tissue -> Organ -> Organ system -> Organism", "explanation": "The textbook
-clearly defines the levels of organisation as: Cell -> Tissue -> Organ -> Organ
-system -> Organism." }, { "id": 19, "subject": "Science", "chapter": "The
-Invisible Living World: Beyond Our Naked Eye", "difficulty": "hard", "question":
-"What is the size of the yolk of an ostrich egg, which is the largest known
-single cell?", "options": [ "10 mm to 50 mm", "80 mm to 100 mm", "130 mm to 170
-mm", "200 mm to 300 mm" ], "answer": "130 mm to 170 mm", "explanation": "The
-'Ever heard of...' section on page 15 states that the yolk of an ostrich egg
-measures about 130 mm to 170 mm in diameter." }, { "id": 20, "subject":
-"Science", "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-"difficulty": "easy", "question": "Organisms made of only one cell are called:",
-"options": [ "Multicellular organisms", "Unicellular organisms",
-"Macro-organisms", "Acellular organisms" ], "answer": "Unicellular organisms",
-"explanation": "The text defines unicellular organisms as those made of just one
-cell." }, { "id": 21, "subject": "Science", "chapter": "The Invisible Living
-World: Beyond Our Naked Eye", "difficulty": "medium", "question": "Which of
-these is a unicellular protozoan with an irregular shape as seen in Table 2.1?",
-"options": [ "Paramecium", "Algae", "Amoeba", "Yeast" ], "answer": "Amoeba",
-"explanation": "Table 2.1 describes Amoeba (Protozoa) as a 'Single cell, moving,
-irregular shape'." }, { "id": 22, "subject": "Science", "chapter": "The
-Invisible Living World: Beyond Our Naked Eye", "difficulty": "medium",
-"question": "Which microorganism is a branched filament without chlorophyll
-having a brush-like structure?", "options": [ "Bread mould", "Mould (Fungi)",
-"Algae", "Bacteria" ], "answer": "Mould (Fungi)", "explanation": "Table 2.2
-describes Mould (Fungi) in item 2 as a 'Branched filament without chlorophyll
-having brush-like structure'." }, { "id": 23, "subject": "Science", "chapter":
-"The Invisible Living World: Beyond Our Naked Eye", "difficulty": "hard",
-"question": "Which of the following statements about viruses is correct
-according to the textbook?", "options": [ "They are large multicellular
-organisms", "They are microscopic and acellular", "They reproduce on their own
-in the soil", "They are visible to the naked eye" ], "answer": "They are
-microscopic and acellular", "explanation": "The 'Ever heard of...' section on
-page 17 states that 'Viruses are microscopic and acellular' and reproduce only
-inside host organisms." }, { "id": 24, "subject": "Science", "chapter": "The
-Invisible Living World: Beyond Our Naked Eye", "difficulty": "easy", "question":
-"What is the process of breaking down complex substances of fallen leaves into
-simpler, nutrient-rich substances called?", "options": [ "Fermentation",
-"Decomposition", "Photosynthesis", "Nitrogen fixation" ], "answer":
-"Decomposition", "explanation": "The text defines decomposition as the process
-where microorganisms break down complex substances into simpler ones rich in
-nutrients." }, { "id": 25, "subject": "Science", "chapter": "The Invisible
-Living World: Beyond Our Naked Eye", "difficulty": "hard", "question": "Which
-gas is the primary fuel source in biogas, along with carbon dioxide?",
-"options": [ "Oxygen", "Nitrogen", "Methane", "Hydrogen" ], "answer": "Methane",
-"explanation": "The 'A step further' section on page 20 mentions that biogas is
-primarily composed of carbon dioxide and a high proportion of methane." }, {
-"id": 26, "subject": "Science", "chapter": "The Invisible Living World: Beyond
-Our Naked Eye", "difficulty": "medium", "question": "Ananda Mohan Chakrabarty is
-remembered for developing a bacterium that could break down:", "options": [
-"Plastic waste", "Oil spills", "Radioactive waste", "Sugar solutions" ],
-"answer": "Oil spills", "explanation": "The 'Be a scientist' section notes that
-Ananda Mohan Chakrabarty developed a special bacterium that could break down oil
-spills." }, { "id": 27, "subject": "Science", "chapter": "The Invisible Living
-World: Beyond Our Naked Eye", "difficulty": "easy", "question": "Which
-microorganism is responsible for making bread and cakes soft and fluffy?",
-"options": [ "Lactobacillus", "Yeast", "Amoeba", "Rhizobium" ], "answer":
-"Yeast", "explanation": "The textbook explains that yeast respires and releases
-carbon dioxide, which forms bubbles that make dough soft and fluffy." }, {
-"id": 28, "subject": "Science", "chapter": "The Invisible Living World: Beyond
-Our Naked Eye", "difficulty": "medium", "question": "What gas is released by
-yeast that causes dough to rise?", "options": [ "Oxygen", "Nitrogen", "Carbon
-dioxide", "Methane" ], "answer": "Carbon dioxide", "explanation": "Activity 2.8
-and the following text state that during respiration, yeast releases carbon
-dioxide, making the dough rise." }, { "id": 29, "subject": "Science", "chapter":
-"The Invisible Living World: Beyond Our Naked Eye", "difficulty": "medium",
-"question": "Which bacterium is involved in the formation of curd from milk?",
-"options": [ "Rhizobium", "Lactobacillus", "Spirulina", "Yeast" ], "answer":
-"Lactobacillus", "explanation": "The text states: 'The curd contains several
-types of bacteria. One of them is Lactobacillus. This bacterium feeds on the
-sugar in the milk (lactose)... to form curd.'" }, { "id": 30, "subject":
-"Science", "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-"difficulty": "medium", "question": "Lactobacillus bacteria convert milk sugar
-into which acid?", "options": [ "Acetic acid", "Citric acid", "Lactic acid",
-"Hydrochloric acid" ], "answer": "Lactic acid", "explanation": "The text
-explains that these bacteria produce lactic acid, which makes curd sour." }, {
-"id": 31, "subject": "Science", "chapter": "The Invisible Living World: Beyond
-Our Naked Eye", "difficulty": "hard", "question": "Where is Rhizobium bacteria
-found in plants like peas and beans?", "options": [ "In the leaves", "In the
-flowers", "In the root nodules", "In the stem" ], "answer": "In the root
-nodules", "explanation": "The text specifies that roots of certain legumes like
-beans and peas have root nodules that contain Rhizobium bacteria." }, {
-"id": 32, "subject": "Science", "chapter": "The Invisible Living World: Beyond
-Our Naked Eye", "difficulty": "medium", "question": "What is the primary
-function of Rhizobium bacteria for the plant?", "options": [ "To perform
-photosynthesis", "To trap nitrogen from the air", "To protect the plant from
-pests", "To produce oxygen" ], "answer": "To trap nitrogen from the air",
-"explanation": "The text states that Rhizobium bacteria trap nitrogen from the
-air and make it useful for the plants." }, { "id": 33, "subject": "Science",
-"chapter": "The Invisible Living World: Beyond Our Naked Eye", "difficulty":
-"hard", "question": "How much of the Earth's oxygen supply is produced by
-microalgae?", "options": [ "Less than 10 per cent", "About 25 per cent", "More
-than half", "All of it" ], "answer": "More than half", "explanation": "According
-to section 2.4.3, microalgae release oxygen and 'produce more than half of the
-Earth’s oxygen supply'." }, { "id": 34, "subject": "Science", "chapter": "The
-Invisible Living World: Beyond Our Naked Eye", "difficulty": "medium",
-"question": "Which microalga is known as a superfood and a good source of
-Vitamin B12?", "options": [ "Amoeba", "Lactobacillus", "Spirulina", "Chlorella"
-], "answer": "Spirulina", "explanation": "The 'Ever heard of...' section on
-page 23 identifies Spirulina as a superfood and a good source of vitamin B12."
-}, { "id": 35, "subject": "Science", "chapter": "The Invisible Living World:
-Beyond Our Naked Eye", "difficulty": "hard", "question": "Spirulina is rich in
-protein, making up what percentage of its body weight?", "options": [ "20 per
-cent", "40 per cent", "More than 60 per cent", "90 per cent" ], "answer": "More
-than 60 per cent", "explanation": "The text states: 'It [Spirulina] is rich in
-protein—more than 60 per cent of its body weight'." }, { "id": 36, "subject":
-"Science", "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-"difficulty": "hard", "question": "In a bacterial cell, where is the genetic
-material located since it lacks a well-defined nucleus?", "options": [
-"Cytoplasm", "Nucleoid", "Cell wall", "Vacuole" ], "answer": "Nucleoid",
-"explanation": "The textbook notes: 'Bacteria do not have a well-defined
-nucleus... Instead they have a nucleoid.' (Page 24)" }, { "id": 37, "subject":
-"Science", "chapter": "The Invisible Living World: Beyond Our Naked Eye",
-"difficulty": "medium", "question": "Which of the following microorganisms can
-be multicellular?", "options": [ "Bacteria", "Protozoa", "Fungi", "Viruses" ],
-"answer": "Fungi", "explanation": "The 'Snapshots' section notes that fungi can
-be unicellular or multicellular, while bacteria and protozoans are unicellular."
-}, { "id": 38, "subject": "Science", "chapter": "The Invisible Living World:
-Beyond Our Naked Eye", "difficulty": "hard", "question": "An electron microscope
-can magnify a cell about how many times?", "options": [ "1,000 times", "10,000
-times", "1,00,000 times", "10,00,000 times" ], "answer": "10,00,000 times",
-"explanation": "Page 24 states that an electron microscope magnifies the cell
-about 10,00,000 times." }, { "id": 39, "subject": "Science", "chapter": "The
-Invisible Living World: Beyond Our Naked Eye", "difficulty": "easy", "question":
-"Ancient Indian texts (Vedas) use which word to refer to tiny entities including
-visible and invisible ones?", "options": [ "Krimi", "Jiva", "Anu", "Sura" ],
-"answer": "Krimi", "explanation": "The 'Our scientific heritage' section on
-page 19 notes the word 'Krimi' is used in the Vedas to refer to tiny entities."
-}, { "id": 40, "subject": "Science", "chapter": "The Invisible Living World:
-Beyond Our Naked Eye", "difficulty": "medium", "question": "According to the
-Vedas, the word 'Adrishya' means:", "options": [ "Visible", "Invisible",
-"Beneficial", "Harmful" ], "answer": "Invisible", "explanation": "The text
-states: '...tiny entities including “Drishya” (visible) and “Adrishya”
-(invisible).'" }, { "id": 41, "subject": "Science", "chapter": "The Invisible
-Living World: Beyond Our Naked Eye", "difficulty": "medium", "question": "Which
-part of the digestive system uses muscle cells to push food down in a wave-like
-manner?", "options": [ "Stomach", "Food pipe", "Large intestine", "Mouth" ],
-"answer": "Food pipe", "explanation": "The text explains: 'A group of muscle
-cells are present in the food pipe... pushing the food down to the stomach.'" },
-{ "id": 42, "subject": "Science", "chapter": "The Invisible Living World: Beyond
-Our Naked Eye", "difficulty": "medium", "question": "In Table 2.2, which
-organism is described as spherical and containing chlorophyll?", "options": [
-"Bacteria", "Algae", "Fungi", "Protozoa" ], "answer": "Algae", "explanation":
-"Table 2.2 describes Algae as 'Spherical, presence of chlorophyll—a green
-pigment'." }, { "id": 43, "subject": "Science", "chapter": "The Invisible Living
-World: Beyond Our Naked Eye", "difficulty": "easy", "question": "The cell
-membrane is also known as a:", "options": [ "Rigid wall", "Porous boundary",
-"Chloroplast", "Plastid" ], "answer": "Porous boundary", "explanation": "The
-text mentions the cell membrane is 'porous and allows the entry of materials...
-and exit of waste'." }, { "id": 44, "subject": "Science", "chapter": "The
-Invisible Living World: Beyond Our Naked Eye", "difficulty": "hard", "question":
-"Which of these is NOT a location where microorganisms are found, according to
-the text?", "options": [ "Extreme hot water springs", "Inside our bodies", "Snow
-cold zones", "They are found in all of the above" ], "answer": "They are found
-in all of the above", "explanation": "Page 18 specifies that microorganisms can
-be found in water, soil, air, extreme climatic conditions like hot springs, snow
-cold zones, and inside our bodies." }, { "id": 45, "subject": "Science",
-"chapter": "The Invisible Living World: Beyond Our Naked Eye", "difficulty":
-"easy", "question": "What does the word 'micro' mean in microorganisms?",
-"options": [ "Invisible", "Very small", "Living", "Harmful" ], "answer": "Very
-small", "explanation": "Page 16 defines 'micro' as 'very small'." }, { "id": 46,
-"subject": "Science", "chapter": "The Invisible Living World: Beyond Our Naked
-Eye", "difficulty": "medium", "question": "In Activity 2.3, which stain is used
-to observe human cheek cells?", "options": [ "Safranin", "Methylene blue",
-"Iodine", "Glycerin" ], "answer": "Methylene blue", "explanation": "Activity 2.3
-instructs: 'Add a drop of methylene blue (a blue-coloured stain) over the
-material on slide.'" }, { "id": 47, "subject": "Science", "chapter": "The
-Invisible Living World: Beyond Our Naked Eye", "difficulty": "easy", "question":
-"Why are animals and plants called multicellular organisms?", "options": [
-"Because they are visible to the naked eye", "Because their bodies are made up
-of many cells", "Because they can move", "Because they contain chlorophyll" ],
-"answer": "Because their bodies are made up of many cells", "explanation": "The
-text defines multicellular organisms as those being 'made up of many cells'." },
-{ "id": 48, "subject": "Science", "chapter": "The Invisible Living World: Beyond
-Our Naked Eye", "difficulty": "medium", "question": "What is the primary
-function of the cell wall in plants?", "options": [ "Photosynthesis", "To
-provide rigidity and strength", "To store waste", "To carry messages" ],
-"answer": "To provide rigidity and strength", "explanation": "The text states:
-'The cell wall in the plant cell provides rigidity and strength to plants.'" },
-{ "id": 49, "subject": "Science", "chapter": "The Invisible Living World: Beyond
-Our Naked Eye", "difficulty": "medium", "question": "Which of these is a
-function of the plant vacuole?", "options": [ "Movement", "Helps maintain the
-shape of the cell", "Captures nitrogen", "Forms a protective lining" ],
-"answer": "Helps maintain the shape of the cell", "explanation": "According to
-the PDF, vacuoles help 'maintain the shape of the cell... [and give] strength
-and support to the plant'." }, { "id": 50, "subject": "Science", "chapter": "The
-Invisible Living World: Beyond Our Naked Eye", "difficulty": "medium",
-"question": "Which microorganism produces alcohol as a byproduct during
-fermentation?", "options": [ "Lactobacillus", "Rhizobium", "Yeast", "Amoeba" ],
-"answer": "Yeast", "explanation": "The text states: 'Yeast also produces a small
-amount of alcohol during this process, which gives the dough a slightly
-different smell.'" } ]
+[
+  {
+    "question": "What is the primary purpose of the questions found on the first page of each chapter in the 'Curiosity' textbook?",
+    "options": [
+      "To prepare students for upcoming exams",
+      "To serve as unique invitations to spark curiosity",
+      "To provide answers to common scientific problems",
+      "To list all the definitions found in the chapter"
+    ],
+    "answer": "To serve as unique invitations to spark curiosity",
+    "explanation": "According to the text, the questions on the first page are not meant for any exam. Instead, they are described as unique invitations intended to spark the student's curiosity to explore the world of science. (Page 1)"
+  },
+  {
+    "question": "Which specific question is mentioned as a 'Probe and ponder' invitation on page 1?",
+    "options": [
+      "How does a lightbulb glow?",
+      "Why is one side of a puri thinner than the other?",
+      "What is the exact distance to the sun?",
+      "How many species of insects exist?"
+    ],
+    "answer": "Why is one side of a puri thinner than the other?",
+    "explanation": "The text lists 'Why is one side of a puri thinner than the other?' as an example of a question designed to spark curiosity. It is part of the 'Probe and ponder' section aimed at engaging young scientists. (Page 1)"
+  },
+  {
+    "question": "What comparison does the textbook make regarding grains of sand on the first page?",
+    "options": [
+      "Comparing sand grains to the number of cells in the body",
+      "Comparing sand grains to the number of stars in our galaxy",
+      "Comparing sand grains to the number of insects on Earth",
+      "Comparing sand grains to the weight of the Earth"
+    ],
+    "answer": "Comparing sand grains to the number of stars in our galaxy",
+    "explanation": "The book asks students to ponder whether there are more grains of sand on all the beaches and deserts of the world, or more stars in our galaxy. This is used as an example of a question that invites deep exploration. (Page 1)"
+  },
+  {
+    "question": "According to the text, what have students observed regarding the variety of life since Grade 6?",
+    "options": [
+      "The incredible diversity of plants and animals",
+      "The chemical composition of soil",
+      "The speed of light in different mediums",
+      "The construction of bridges and roads"
+    ],
+    "answer": "The incredible diversity of plants and animals",
+    "explanation": "The text notes that right from Grade 6, students have observed the incredible diversity of plants and animals. This includes various shapes of leaves and many kinds of insects, leading to questions about why nature created such variety. (Page 1)"
+  },
+  {
+    "question": "In Grade 6, how did the journey into science begin according to the text?",
+    "options": [
+      "With complex mathematical formulas",
+      "With wonder and simple 'Why?' and 'How?' questions",
+      "With advanced laboratory experiments",
+      "With memorizing periodic tables"
+    ],
+    "answer": "With wonder and simple 'Why?' and 'How?' questions",
+    "explanation": "Page 2 explains that in Grade 6, students discovered how science begins with wonder. This wonder is expressed through simple 'Why?' and 'How?' questions about the world around us. (Page 2)"
+  },
+  {
+    "question": "What did students learn about science in Grade 7 according to the 'Curiosity' textbook?",
+    "options": [
+      "Science is static and unchanging",
+      "Science is always evolving and each answer opens new questions",
+      "Science is mostly about history",
+      "Science is limited to biology only"
+    ],
+    "answer": "Science is always evolving and each answer opens new questions",
+    "explanation": "The text states that in Grade 7, students learned that science is always evolving. It emphasizes that every answer leads to new questions and that scientific ideas can slowly change as exploration deepens. (Page 2)"
+  },
+  {
+    "question": "What is the specific focus of science in Grade 8 according to the textbook?",
+    "options": [
+      "The Investigative World of Science",
+      "The History of Scientific Discovery",
+      "Basic Botanical Studies",
+      "Theoretical Mathematical Models"
+    ],
+    "answer": "The Investigative World of Science",
+    "explanation": "The text mentions that in Grade 8, students take the next step by entering the 'Investigative World of Science'. This is where wonder and evolution come together to form the heart of how science works. (Page 2)"
+  },
+  {
+    "question": "What is the goal of science investigation in Grade 8, beyond just learning facts?",
+    "options": [
+      "Learning how to find new facts",
+      "Memorizing the textbook chapters",
+      "Writing long reports",
+      "Passing standardized tests"
+    ],
+    "answer": "Learning how to find new facts",
+    "explanation": "The book explicitly states that it does not want students to just learn new facts. Instead, the focus is on learning how to find new facts through systematic investigation and focused questions. (Page 2)"
+  },
+  {
+    "question": "What does investigation in science require beyond just looking at something?",
+    "options": [
+      "Asking only simple questions",
+      "Asking more focused questions and designing experiments",
+      "Ignoring observations to focus on theories",
+      "Working only in professional laboratories"
+    ],
+    "answer": "Asking more focused questions and designing experiments",
+    "explanation": "Investigation in science involves more than asking simple questions. It requires asking focused questions and designing ways, such as simple experiments, to answer them and improve understanding through observations. (Page 2)"
+  },
+  {
+    "question": "According to page 2, what real-world puzzle is mentioned as an example for young investigators?",
+    "options": [
+      "How to build a skyscraper",
+      "Why does dough rise?",
+      "Why is the sky blue?",
+      "How do birds fly?"
+    ],
+    "answer": "Why does dough rise?",
+    "explanation": "The text lists 'Why does dough rise?' as an example of a real-world puzzle from everyday life that students can explore. This helps students transition from being just learners to becoming investigators. (Page 2)"
+  },
+  {
+    "question": "What image is found at the bottom of the left-hand pages in the textbook?",
+    "options": [
+      "A soaring kite",
+      "The image of a root",
+      "A magnifying glass",
+      "A thermometer"
+    ],
+    "answer": "The image of a root",
+    "explanation": "On the left-hand pages at the bottom, there is an image of a root. This symbol is used throughout the book as part of its unique page design to convey a specific scientific meaning. (Page 2)"
+  },
+  {
+    "question": "What does the image of the root symbolize in the textbook design?",
+    "options": [
+      "The growth of plants in the soil",
+      "A deep, solid foundation of knowledge",
+      "The complexity of organic chemistry",
+      "The need for more agriculture"
+    ],
+    "answer": "A deep, solid foundation of knowledge",
+    "explanation": "The root symbolizes a deep, solid foundation of knowledge. It represents staying connected to the environment, traditions, and cultural and natural heritage while investigating science. (Page 2)"
+  },
+  {
+    "question": "Where is the kite symbol located in the textbook design?",
+    "options": [
+      "At the bottom of every page",
+      "In the top corner of the right-hand pages",
+      "Next to the chapter titles",
+      "In the middle of the glossary"
+    ],
+    "answer": "In the top corner of the right-hand pages",
+    "explanation": "The text describes that on the right-hand pages, in the top corner, there is an image of a kite soaring in the sky. This serves as a specific visual cue for the students. (Page 2)"
+  },
+  {
+    "question": "What does the soaring kite symbolize in the context of the book?",
+    "options": [
+      "The physical laws of aerodynamics",
+      "That curiosity must take flight to explore the unknown",
+      "The unpredictability of weather",
+      "A recreational activity for scientists"
+    ],
+    "answer": "That curiosity must take flight to explore the unknown",
+    "explanation": "The kite reminds students that curiosity must take flight to explore the unknown. It encourages students to let their ideas soar toward new horizons while remaining grounded in observation. (Page 2)"
+  },
+  {
+    "question": "What balance is required for scientific investigation to work best?",
+    "options": [
+      "Balancing physical strength and mental health",
+      "Balancing careful observation with the freedom of creative thinking",
+      "Balancing textbook reading and homework",
+      "Balancing school time and play time"
+    ],
+    "answer": "Balancing careful observation with the freedom of creative thinking",
+    "explanation": "The book states that investigation in science works best when there is a balance between the solid ground of careful observation and the freedom of creative thinking. This is represented by the root and kite symbols. (Page 2)"
+  },
+  {
+    "question": "What can be found in the lines at the bottom of the pages, according to page 2?",
+    "options": [
+      "Hidden scientific thoughts",
+      "Secret mathematical codes",
+      "The names of the authors",
+      "Page references to other books"
+    ],
+    "answer": "Hidden scientific thoughts",
+    "explanation": "The text mentions that there are patterns in the lines at the bottom of the pages. These patterns contain hidden scientific thoughts, intended to make the page design more interesting. (Page 2)"
+  },
+  {
+    "question": "How will the investigative adventure in Grade 8 begin, according to page 3?",
+    "options": [
+      "By studying the solar system",
+      "By examining something as small as a single drop of water",
+      "By dissecting large mammals",
+      "By building electric circuits"
+    ],
+    "answer": "By examining something as small as a single drop of water",
+    "explanation": "The textbook explains that the investigative journey starts by examining a single drop of water. This leads to the discovery of a hidden world of tiny organisms that are unseen but linked to humans. (Page 3)"
+  },
+  {
+    "question": "What role do 'invisible helpers' play among microbes, according to the text?",
+    "options": [
+      "They cause infections and diseases",
+      "They help us digest food or produce medicines",
+      "They generate electricity for the body",
+      "They help us see in the dark"
+    ],
+    "answer": "They help us digest food or produce medicines",
+    "explanation": "Some tiny organisms are described as invisible helpers. The text specifies that these beneficial microbes help humans digest food and are used in the production of medicines. (Page 3)"
+  },
+  {
+    "question": "Which of the following is NOT mentioned as a way to stay healthy and fight infections?",
+    "options": [
+      "Nutritious food",
+      "Vaccines",
+      "Drinking soda",
+      "Exercise"
+    ],
+    "answer": "Drinking soda",
+    "explanation": "The text lists nutritious food, exercise, medicines, and vaccines as key factors that help the body stay healthy and fight infections. Drinking soda is not mentioned as a health requirement. (Page 3)"
+  },
+  {
+    "question": "What effect of electric current is used to keep us warm?",
+    "options": [
+      "The magnetic effect",
+      "The cooling effect",
+      "The heating effect",
+      "The chemical effect"
+    ],
+    "answer": "The heating effect",
+    "explanation": "Page 3 notes that we depend on the heating effect of electric current to keep us warm. This is one of the many ways electric current is used to make life easier. (Page 3)"
+  },
+  {
+    "question": "What is the primary use of the magnetic effect of electric current mentioned in the text?",
+    "options": [
+      "To light up bulbs",
+      "To help motors run and machines function",
+      "To heat water for tea",
+      "To attract lightning during storms"
+    ],
+    "answer": "To help motors run and machines function",
+    "explanation": "The text states that the magnetic effect of electric current helps motors run and allows various machines to function properly. This is contrasted with the heating effect used for warmth. (Page 3)"
+  },
+  {
+    "question": "What do the phenomena of electricity depend on, according to page 3?",
+    "options": [
+      "Atmospheric pressure only",
+      "Fundamental forces",
+      "The phases of the moon",
+      "The type of fuel used"
+    ],
+    "answer": "Fundamental forces",
+    "explanation": "The book explains that electrical phenomena depend on fundamental forces. After studying electricity, the curriculum moves on to study these forces themselves, starting with objects in motion. (Page 3)"
+  },
+  {
+    "question": "According to the textbook, understanding forces helps explain which of the following?",
+    "options": [
+      "How to grow a puri",
+      "Why a ball thrown up falls back to the ground",
+      "The chemical bond in compounds",
+      "How to bake a cake"
+    ],
+    "answer": "Why a ball thrown up falls back to the ground",
+    "explanation": "Forces explain physical behaviors such as why a ball falls back to Earth after being thrown. They also explain why a car stops when brakes are applied. (Page 3)"
+  },
+  {
+    "question": "How is 'pressure' defined in the context of the textbook?",
+    "options": [
+      "The speed at which air moves",
+      "How force is distributed over an object",
+      "The weight of an object in liquid",
+      "The heat generated by a motor"
+    ],
+    "answer": "How force is distributed over an object",
+    "explanation": "Page 3 defines pressure as the concept of how force is distributed over an object. This concept is crucial for understanding how air moves and causes weather events. (Page 3)"
+  },
+  {
+    "question": "What can a small difference in air pressure result in?",
+    "options": [
+      "A cyclone",
+      "A gentle breeze",
+      "A thunderstorm",
+      "A volcanic eruption"
+    ],
+    "answer": "A gentle breeze",
+    "explanation": "The text explains that air movement is decided by pressure differences. A small difference in pressure results in a gentle breeze, whereas stronger differences lead to more intense weather. (Page 3)"
+  },
+  {
+    "question": "What can a stronger pressure difference lead to, according to page 3?",
+    "options": [
+      "Gentle rain",
+      "Strong winds and sometimes cyclones",
+      "The evaporation of lakes",
+      "The creation of stars"
+    ],
+    "answer": "Strong winds and sometimes cyclones",
+    "explanation": "Stronger pressure differences are responsible for producing strong winds. In some cases, these significant differences can lead to the formation of cyclones. (Page 3)"
+  },
+  {
+    "question": "Why is it important to 'zoom into' materials to understand air pressure or boiling water?",
+    "options": [
+      "To see the colors of the molecules",
+      "To see what kind of particles they are made up of and how they move",
+      "To measure the exact weight of the container",
+      "To find hidden microbes in the air"
+    ],
+    "answer": "To see what kind of particles they are made up of and how they move",
+    "explanation": "To truly understand how air exerts pressure or why water boils, scientists must look at the microscopic level. This involves seeing the particles that make up materials and observing their movement. (Page 4)"
+  },
+  {
+    "question": "What is the characteristic movement of particles in a solid material?",
+    "options": [
+      "They can move around freely",
+      "They cannot move much",
+      "They move at the speed of light",
+      "They only move when heated"
+    ],
+    "answer": "They cannot move much",
+    "explanation": "The textbook clarifies that in solid materials, the constituent particles are restricted and cannot move much. This contrasts with gases where particles move freely. (Page 4)"
+  },
+  {
+    "question": "How do particles move in gases compared to solids?",
+    "options": [
+      "They move more slowly",
+      "They cannot move at all",
+      "They can move around freely",
+      "They move in perfect circles"
+    ],
+    "answer": "They can move around freely",
+    "explanation": "In gases, particles have the freedom to move around freely. This difference in particle movement distinguishes gases from solids where motion is very limited. (Page 4)"
+  },
+  {
+    "question": "What are 'pure substances' called in the classification of materials?",
+    "options": [
+      "Mixtures",
+      "Elements",
+      "Compounds",
+      "Solutions"
+    ],
+    "answer": "Elements",
+    "explanation": "The text classifies materials around us into different categories. Elements are specifically defined as pure substances, separate from compounds or mixtures. (Page 4)"
+  },
+  {
+    "question": "How are 'compounds' defined in the textbook?",
+    "options": [
+      "Combinations that can be separated physically",
+      "Two or more elements bonded together",
+      "Materials where particles cannot move",
+      "Light rays reflected off a mirror"
+    ],
+    "answer": "Two or more elements bonded together",
+    "explanation": "According to page 4, compounds are defined as substances consisting of two or more elements that are chemically bonded together. (Page 4)"
+  },
+  {
+    "question": "What is a key characteristic of 'mixtures' mentioned in the text?",
+    "options": [
+      "They are pure substances",
+      "They cannot be seen with a microscope",
+      "They are combinations that can be separated physically",
+      "They are only found in liquids"
+    ],
+    "answer": "They are combinations that can be separated physically",
+    "explanation": "Mixtures are defined as combinations of substances that can be separated through physical means. This differentiates them from chemically bonded compounds. (Page 4)"
+  },
+  {
+    "question": "What example is used to explain how solutions work?",
+    "options": [
+      "Salt in the ocean",
+      "Sugar dissolving in tea",
+      "Oil mixing with water",
+      "Oxygen in the atmosphere"
+    ],
+    "answer": "Sugar dissolving in tea",
+    "explanation": "The book uses the example of sugar dissolving in tea to illustrate the concept of solutions. It explains that understanding how particles mix helps us understand why tea becomes sweet. (Page 4)"
+  },
+  {
+    "question": "What happens to light rays when they pass through lenses?",
+    "options": [
+      "They stop completely",
+      "They reflect off the surface",
+      "They bend",
+      "They change color"
+    ],
+    "answer": "They bend",
+    "explanation": "The textbook notes that light rays bend when they pass through lenses. This bending of light is a fundamental principle that helps us understand how many objects and corrective glasses work. (Page 4)"
+  },
+  {
+    "question": "What everyday object is mentioned to explain the bending of light and image formation?",
+    "options": [
+      "A wooden table",
+      "A shiny metal spoon",
+      "A cotton towel",
+      "A plastic cup"
+    ],
+    "answer": "A shiny metal spoon",
+    "explanation": "The bending of light explains the formation of images in objects like a shiny metal spoon. It is used as an everyday example of light interaction with curved surfaces. (Page 4)"
+  },
+  {
+    "question": "Which of the following surfaces can reflect light, according to page 4?",
+    "options": [
+      "Only polished mirrors",
+      "Polished mirrors, rough surfaces, and the Moon",
+      "Only transparent glass",
+      "Only the surface of the Sun"
+    ],
+    "answer": "Polished mirrors, rough surfaces, and the Moon",
+    "explanation": "The text clarifies that light is reflected by polished mirrors, rough surfaces, and even the Moon. Reflection is not limited only to highly polished surfaces. (Page 4)"
+  },
+  {
+    "question": "What causes the different phases of the Moon as seen from Earth?",
+    "options": [
+      "The Moon's internal light changing",
+      "The relative positions of the Earth, Moon, and Sun",
+      "Clouds blocking the Moon's surface",
+      "The distance of the Moon from the stars"
+    ],
+    "answer": "The relative positions of the Earth, Moon, and Sun",
+    "explanation": "The phases of the Moon occur because a slightly different part of the Moon is illuminated each night. This illumination depends on the relative positions of the Earth, Moon, and Sun. (Page 4)"
+  },
+  {
+    "question": "How did humans come up with the first calendars?",
+    "options": [
+      "By studying the growth of trees",
+      "By watching the periodic cycles of the Moon's phases",
+      "By measuring the depth of the ocean",
+      "By observing the migration of birds"
+    ],
+    "answer": "By watching the periodic cycles of the Moon's phases",
+    "explanation": "Watching the periodic cycles of the Moon's phases allowed humans to develop the first calendars. These were based on combined observations of sunrises, sunsets, and lunar cycles. (Page 4)"
+  },
+  {
+    "question": "According to the textbook, what is linked to our routines on Earth?",
+    "options": [
+      "The speed of sound",
+      "The motions of objects far beyond our planet",
+      "The chemical composition of the Moon",
+      "The number of insects in the world"
+    ],
+    "answer": "The motions of objects far beyond our planet",
+    "explanation": "The book points out that our daily calendars and routines are fascinatingly linked to the motions of celestial objects far beyond our planet, such as the Sun and the Moon. (Page 4)"
+  },
+  {
+    "question": "What forms the ecosystems that support life on our planet?",
+    "options": [
+      "Relationships between living organisms and their environments",
+      "The collection of all man-made machines",
+      "The different types of soil found in deserts",
+      "The history of ancient civilizations"
+    ],
+    "answer": "Relationships between living organisms and their environments",
+    "explanation": "Ecosystems are formed by the marvellous and complex patterns of relationships between living organisms—from tiny insects to large whales—and their environments. (Page 5)"
+  },
+  {
+    "question": "What is unique about Earth's distance from the Sun mentioned on page 5?",
+    "options": [
+      "It is the closest planet to the Sun",
+      "It is at a perfect distance where water remains liquid",
+      "It is too far away to receive sunlight",
+      "The distance changes every day significantly"
+    ],
+    "answer": "It is at a perfect distance where water remains liquid",
+    "explanation": "The text states that Earth lies at a 'perfect distance' from the Sun. This specific distance is crucial because it allows water to remain in liquid form, which is essential for life. (Page 5)"
+  },
+  {
+    "question": "What is one major function of Earth's atmosphere according to the text?",
+    "options": [
+      "It reflects all sunlight away from the planet",
+      "It provides oxygen and shields us from ultraviolet rays",
+      "It creates gravity for the planet",
+      "It keeps the planet's temperature at freezing point"
+    ],
+    "answer": "It provides oxygen and shields us from ultraviolet rays",
+    "explanation": "Earth's atmosphere provides the oxygen we breathe and serves as a shield against harmful ultraviolet (UV) rays. This is one of the features that make Earth 'just right' for life. (Page 5)"
+  },
+  {
+    "question": "What can cause changes in the temperature of the Earth and disrupt climate patterns?",
+    "options": [
+      "The movement of the Moon",
+      "Human activities on the planet",
+      "The growth of grass in meadows",
+      "The migration of whales"
+    ],
+    "answer": "Human activities on the planet",
+    "explanation": "Human activities on Earth can cause small changes in the planet's temperature. These changes can disrupt climate patterns and lead to dangerous consequences. (Page 5)"
+  },
+  {
+    "question": "Who does the text identify as being at the heart of both climate problems and solutions?",
+    "options": [
+      "Microbes",
+      "Scientists only",
+      "Us (humans)",
+      "Plants"
+    ],
+    "answer": "Us (humans)",
+    "explanation": "The textbook emphasizes that humans are the ones influencing Earth's climate. Therefore, humans are also the ones who must use science to understand and guide actions for solutions. (Page 5)"
+  },
+  {
+    "question": "Which of the following are mentioned as key principles for the scientific journey in Grade 8?",
+    "options": [
+      "Reading, writing, and arithmetic",
+      "Observing, measuring, and experimenting",
+      "Painting, singing, and dancing",
+      "Cooking, cleaning, and gardening"
+    ],
+    "answer": "Observing, measuring, and experimenting",
+    "explanation": "The text identifies observing, measuring, and experimenting as the same scientific principles that will guide the student's journey and help protect the environment. (Page 5)"
+  },
+  {
+    "question": "What message does the book give regarding future scientific challenges?",
+    "options": [
+      "They will be very easy to solve",
+      "They won't always be easy, but students should use Curiosity as a guide",
+      "They should be ignored by students",
+      "They are already solved by older scientists"
+    ],
+    "answer": "They won't always be easy, but students should use Curiosity as a guide",
+    "explanation": "The book acknowledges that the challenges ahead won't always be easy. It encourages young scientists to try and solve these difficult problems using 'Curiosity' as their guide. (Page 5)"
+  },
+  {
+    "question": "In the 'puri' investigation, what does the text say about needing a fancy laboratory?",
+    "options": [
+      "It is absolutely necessary for all experiments",
+      "You don't need a fancy laboratory to do simple experiments",
+      "Experiments can only be done in school labs",
+      "Kitchens are too dangerous for science"
+    ],
+    "answer": "You don't need a fancy laboratory to do simple experiments",
+    "explanation": "The text states that science is everywhere and you do not need a fancy laboratory. Even a kitchen at home is described as a wonderful place to observe and ask questions. (Page 6)"
+  },
+  {
+    "question": "What is the starting point for investigating a simple everyday phenomenon?",
+    "options": [
+      "Reading a manual",
+      "Curiosity, careful observation, and asking 'what happens if...?'",
+      "Buying expensive equipment",
+      "Searching for answers on the internet"
+    ],
+    "answer": "Curiosity, careful observation, and asking 'what happens if...?'",
+    "explanation": "To investigate like a scientist, one needs to start with curiosity and careful observation. Asking 'what happens if...?' is the key to exploring everyday phenomena like a puffing puri. (Page 6)"
+  },
+  {
+    "question": "What are the two main things to find out when designing a simple experiment?",
+    "options": [
+      "The cost and the time",
+      "What we can change or control, and what we can observe",
+      "Who will help us and where we will work",
+      "What the book says and what the teacher says"
+    ],
+    "answer": "What we can change or control, and what we can observe",
+    "explanation": "In experimental design, it is crucial to identify variables that can be changed or controlled and determine what can be observed or measured to see the effects of those changes. (Page 6)"
+  },
+  {
+    "question": "Which of these is a variable you can 'control' in the puri experiment?",
+    "options": [
+      "The weather outside",
+      "The type of flour (atta, maida, etc.)",
+      "The time the sun rises",
+      "The number of stars in the sky"
+    ],
+    "answer": "The type of flour (atta, maida, etc.)",
+    "explanation": "The text lists things like the thickness of the dough and the type of flour (atta, maida) as factors that we can control during the experiment. (Page 6)"
+  },
+  {
+    "question": "Which of these is an 'observable' or 'measurable' result in the puri experiment?",
+    "options": [
+      "The thickness of the rolled dough before frying",
+      "The temperature of the oil",
+      "The time it takes to puff up (seconds)",
+      "The way the dough is dropped into the oil"
+    ],
+    "answer": "The time it takes to puff up (seconds)",
+    "explanation": "The text distinguishes between things we control and things we measure. Measuring the time it takes for the puri to puff up in seconds is a measurable observation. (Page 6)"
+  },
+  {
+    "question": "What is a recommended practice when doing experiments with multiple variables?",
+    "options": [
+      "Change all conditions at once",
+      "Change only one thing at a time while keeping others the same",
+      "Never change anything",
+      "Change things randomly to see what happens"
+    ],
+    "answer": "Change only one thing at a time while keeping others the same",
+    "explanation": "The textbook advises that when doing experiments, it is better to change only one thing at a time. This allows the scientist to see the specific effect of that single change. (Page 6)"
+  },
+  {
+    "question": "What should a scientist do to keep track of an experiment?",
+    "options": [
+      "Try to remember everything by heart",
+      "Keep notes of everything seen and sensed",
+      "Only record the successful attempts",
+      "Draw pictures but avoid writing notes"
+    ],
+    "answer": "Keep notes of everything seen and sensed",
+    "explanation": "The book suggests keeping notes of everything you see and sense during an experiment, such as whether the oil splattered, smelled, or smoked. (Page 7)"
+  },
+  {
+    "question": "What does the text say about scientists' current understanding of a puffing puri?",
+    "options": [
+      "It is completely understood by all scientists",
+      "It is not really completely understood by scientists today",
+      "It was understood hundreds of years ago",
+      "It is too simple for scientists to study"
+    ],
+    "answer": "It is not really completely understood by scientists today",
+    "explanation": "The text reveals that even simple everyday observations, like why a puri puffs, are not yet completely understood by modern scientists, highlighting that investigation is ongoing. (Page 7)"
+  },
+  {
+    "question": "What term is used in the text for the shrinking bright part of the Moon?",
+    "options": [
+      "Amavasya",
+      "Purnima",
+      "Lunar cycle",
+      "Eclipse"
+    ],
+    "answer": "Purnima",
+    "explanation": "The text mentions the 'shrinking bright part of the Moon after purnima' as an example of an observation that can guide scientific exploration. (Page 7)"
+  },
+  {
+    "question": "What is 'systematic investigation' as described in the final pages?",
+    "options": [
+      "A disorganized way of looking at things",
+      "The idea of doing experiments in a structured, step-by-step way",
+      "Reading all the books in the library",
+      "Waiting for someone else to find the answer"
+    ],
+    "answer": "The idea of doing experiments in a structured, step-by-step way",
+    "explanation": "Systematic investigation involves asking questions, controlling variables, making observations, and keeping notes. This method applies to both simple and complicated experiments. (Page 7)"
+  },
+  {
+    "question": "What does the text say about 'wonder' and 'evolution' in Grade 8?",
+    "options": [
+      "They are no longer important",
+      "They come together to form the heart of how science works",
+      "They are separate from investigation",
+      "They are only for Grade 6 and 7"
+    ],
+    "answer": "They come together to form the heart of how science works",
+    "explanation": "In Grade 8, wonder (from Grade 6) and evolution (from Grade 7) unite. Together, they form the heart of scientific investigation. (Page 2)"
+  },
+  {
+    "question": "Which specific sensory observations are mentioned to be noted during the kitchen experiment?",
+    "options": [
+      "Sound of the fan",
+      "Smell or smoke of the oil",
+      "Color of the kitchen walls",
+      "Temperature of the room"
+    ],
+    "answer": "Smell or smoke of the oil",
+    "explanation": "The text explicitly asks if the oil splattered, smelled, or smoked as examples of sensory observations that should be recorded in notes during an experiment. (Page 7)"
+  },
+  {
+    "question": "What example of a 'new question' to ask after an experiment is given on page 7?",
+    "options": [
+      "What is the price of the oil?",
+      "Do puris puff better when made fresh or from stored dough?",
+      "How many puris can fit in the pan?",
+      "What color is the puri?"
+    ],
+    "answer": "Do puris puff better when made fresh or from stored dough?",
+    "explanation": "The book suggests that after one round of experiments, you may think of more questions, such as comparing fresh dough to stored dough. (Page 7)"
+  },
+  {
+    "question": "What does the textbook suggest happens if you prick a hole in the puri before frying?",
+    "options": [
+      "It will puff up even more",
+      "It is a question you can investigate",
+      "It will turn blue",
+      "It is forbidden to do so"
+    ],
+    "answer": "It is a question you can investigate",
+    "explanation": "The text uses 'What happens if I prick a hole in the puri before frying?' as an example of a further question a curious scientist might ask. (Page 7)"
+  },
+  {
+    "question": "The calendar shown on page 5 for the year 2025 starts in which month?",
+    "options": [
+      "January",
+      "March",
+      "May",
+      "July"
+    ],
+    "answer": "March",
+    "explanation": "The calendar image for 'Chaitra' on page 5 specifies the range of March 22 - April 20, 2025. It serves as an example of how routines are linked to celestial cycles. (Page 5)"
+  },
+  {
+    "question": "What does the text say about 'rough surfaces' and light?",
+    "options": [
+      "They absorb all light",
+      "They reflect light as well",
+      "They are invisible to the eye",
+      "They only reflect light in the dark"
+    ],
+    "answer": "They reflect light as well",
+    "explanation": "Page 4 explicitly states that 'it's not just a polished mirror that reflects light, rough surfaces reflect light as well'. (Page 4)"
+  },
+  {
+    "question": "According to the particle model, why can gases move around freely?",
+    "options": [
+      "Because they are lighter than air",
+      "Because of the kind of particles they are made up of and how they move",
+      "Because they have no gravity",
+      "Because they are pure substances"
+    ],
+    "answer": "Because of the kind of particles they are made up of and how they move",
+    "explanation": "The text explains that zooming into materials shows how particles move. In gases, the nature and motion of these particles allow them to move around freely compared to solids. (Page 4)"
+  },
+  {
+    "question": "What determines whether a pressure difference leads to a 'gentle breeze' or a 'cyclone'?",
+    "options": [
+      "The temperature of the water",
+      "The strength of the pressure difference",
+      "The amount of sand on the beach",
+      "The number of trees in the area"
+    ],
+    "answer": "The strength of the pressure difference",
+    "explanation": "The book explains that a small difference in pressure results in a breeze, while a stronger pressure difference can lead to strong winds and cyclones. (Page 3)"
+  },
+  {
+    "question": "What is the relationship between 'elements' and 'compounds' as described on page 4?",
+    "options": [
+      "They are the same thing",
+      "Compounds are made of two or more elements bonded together",
+      "Elements are made of compounds",
+      "Elements cannot be bonded"
+    ],
+    "answer": "Compounds are made of two or more elements bonded together",
+    "explanation": "The classification section defines elements as pure substances and compounds as being composed of two or more elements bonded together. (Page 4)"
+  },
+  {
+    "question": "Which of these is NOT a principle of investigation mentioned on page 5?",
+    "options": [
+      "Observing",
+      "Measuring",
+      "Experimenting",
+      "Memorizing"
+    ],
+    "answer": "Memorizing",
+    "explanation": "The text lists 'observing, measuring, experimenting' as the key scientific principles for the journey, but does not mention memorizing. (Page 5)"
+  },
+  {
+    "question": "What does the textbook mean by 'science is everywhere'?",
+    "options": [
+      "Science is only in textbooks",
+      "Science happens only in outer space",
+      "Scientific phenomena occur in daily life and places like your kitchen",
+      "Everyone must be a professional scientist"
+    ],
+    "answer": "Scientific phenomena occur in daily life and places like your kitchen",
+    "explanation": "The book emphasizes that science isn't confined to labs; it's everywhere, including everyday environments like the kitchen where one can observe things like frying a puri. (Page 6)"
+  },
+  {
+    "question": "In the context of the book, what is 'Chaitra'?",
+    "options": [
+      "A type of microbe",
+      "A month in a calendar",
+      "A scientific force",
+      "A part of a plant root"
+    ],
+    "answer": "A month in a calendar",
+    "explanation": "The image on page 5 shows a calendar for 'Chaitra', covering the period from March 22 to April 20, 2025. (Page 5)"
+  },
+  {
+    "question": "What shields us from harmful ultraviolet rays?",
+    "options": [
+      "The Moon",
+      "The Earth's atmosphere",
+      "Lenses",
+      "Liquid water"
+    ],
+    "answer": "The Earth's atmosphere",
+    "explanation": "According to page 5, the atmosphere provides oxygen and also shields Earth's inhabitants from harmful ultraviolet rays. (Page 5)"
+  },
+  {
+    "question": "What does the text say about the number of grains of sand on all the beaches?",
+    "options": [
+      "There are exactly one trillion",
+      "It's a question used to spark curiosity by comparing them to stars",
+      "It is an easy number to count",
+      "They are fewer than the insects in a garden"
+    ],
+    "answer": "It's a question used to spark curiosity by comparing them to stars",
+    "explanation": "The textbook uses the comparison between grains of sand and stars in the galaxy as a 'unique invitation' to spark scientific curiosity. (Page 1)"
+  },
+  {
+    "question": "What is the final chapter of the book intended to do?",
+    "options": [
+      "Introduce new microbes",
+      "Put it all together to understand what makes Earth 'just right' for life",
+      "Teach students how to cook",
+      "Explain the history of electricity"
+    ],
+    "answer": "Put it all together to understand what makes Earth 'just right' for life",
+    "explanation": "The text states that in the final chapter, students will put everything together to recognize urgent challenges and understand what makes Earth suitable for life. (Page 5)"
+  },
+  {
+    "question": "How does the textbook describe 'mixtures'?",
+    "options": [
+      "Pure substances",
+      "Combinations that can be separated physically",
+      "Elements bonded together",
+      "Particles that cannot move"
+    ],
+    "answer": "Combinations that can be separated physically",
+    "explanation": "Mixtures are defined as combinations of materials that can be separated by physical methods, as opposed to chemical ones. (Page 4)"
+  },
+  {
+    "question": "What does the text say about 'batura'?",
+    "options": [
+      "It is a type of scientific tool",
+      "It puffs up when placed in hot oil, similar to a puri",
+      "It is made of elements and compounds",
+      "It is used to measure pressure"
+    ],
+    "answer": "It puffs up when placed in hot oil, similar to a puri",
+    "explanation": "The text mentions 'how a puri or a batura puffs up when placed in hot oil' as an everyday observation for scientific inquiry. (Page 6)"
+  },
+  {
+    "question": "What is the 'phulka' mentioned as an example of?",
+    "options": [
+      "A celestial body",
+      "Something that swells when put directly on a flame",
+      "A type of harmful microbe",
+      "A way to measure temperature"
+    ],
+    "answer": "Something that swells when put directly on a flame",
+    "explanation": "The text uses a phulka swelling on a flame as an example of an everyday phenomenon that a scientist might investigate. (Page 6)"
+  },
+  {
+    "question": "When frying a puri, what is one thing mentioned that we can NOT easily control?",
+    "options": [
+      "The type of flour",
+      "The size of the rolled dough",
+      "The atomic structure of the oil",
+      "The way we drop the dough into the oil"
+    ],
+    "answer": "The atomic structure of the oil",
+    "explanation": "While we can control the flour type, size, and dropping method, the text does not mention controlling atomic structure; it focuses on macro-level kitchen variables. (Page 6)"
+  },
+  {
+    "question": "What is a 'yes/no' answer example for the puri experiment?",
+    "options": [
+      "The time it takes to puff",
+      "Whether the puri puffs up",
+      "The temperature of the oil",
+      "The weight of the flour"
+    ],
+    "answer": "Whether the puri puffs up",
+    "explanation": "The book explains that some observations have simple yes/no answers, such as checking whether the puri actually puffs up or not. (Page 6)"
+  },
+  {
+    "question": "What does the textbook suggest about the distance between the Earth and the Sun?",
+    "options": [
+      "It is why we have oxygen",
+      "It is 'perfect' so that water remains liquid",
+      "It is why the moon has phases",
+      "It is why we have gravity"
+    ],
+    "answer": "It is 'perfect' so that water remains liquid",
+    "explanation": "Page 5 mentions that the Earth lies at a perfect distance from the Sun which allows water to stay in its liquid state. (Page 5)"
+  },
+  {
+    "question": "According to the text, what happened when humans combined observations of sunrises, sunsets, and lunar cycles?",
+    "options": [
+      "They discovered gravity",
+      "Various calendars came into being",
+      "They learned to fly kites",
+      "They invented the microscope"
+    ],
+    "answer": "Various calendars came into being",
+    "explanation": "By combining these careful observations of celestial patterns, humans were able to create the first calendars. (Page 4)"
+  },
+  {
+    "question": "What does a 'magnifying glass' over a leaf on page 1 illustrate?",
+    "options": [
+      "The burning of leaves",
+      "Investigation and careful observation of nature",
+      "The destruction of plants",
+      "The path of the sun"
+    ],
+    "answer": "Investigation and careful observation of nature",
+    "explanation": "The cover illustration features a magnifying glass over a leaf, symbolizing the chapter's theme of 'Exploring the Investigative World of Science'. (Page 1)"
+  },
+  {
+    "question": "What is the role of 'exercise' according to the health section on page 3?",
+    "options": [
+      "To help understand forces",
+      "To help us stay healthy and fight infections",
+      "To measure pressure",
+      "To study microbes"
+    ],
+    "answer": "To help us stay healthy and fight infections",
+    "explanation": "Nutritious food, exercise, medicines, and vaccines are all cited as essential for maintaining health and combating infections. (Page 3)"
+  },
+  {
+    "question": "In the classification of matter, what are 'compounds' contrasted with?",
+    "options": [
+      "Mixtures and elements",
+      "Solids and gases",
+      "Light and shadow",
+      "Roots and kites"
+    ],
+    "answer": "Mixtures and elements",
+    "explanation": "The text places compounds in a classification scheme alongside elements (pure substances) and mixtures (physically separable combinations). (Page 4)"
+  },
+  {
+    "question": "How are objects like a ball or a car used on page 3?",
+    "options": [
+      "To explain the properties of microbes",
+      "To illustrate how understanding forces explains motion and stopping",
+      "To show how they reflect light",
+      "To demonstrate the heating effect of electricity"
+    ],
+    "answer": "To illustrate how understanding forces explains motion and stopping",
+    "explanation": "Understanding forces helps explain why a thrown ball falls or why a car stops with brakes, showing the application of physical laws. (Page 3)"
+  },
+  {
+    "question": "Which of these is a 'stop' on the scientific journey mentioned on page 3?",
+    "options": [
+      "The history of ancient Greece",
+      "Microbes we can't see",
+      "Learning to roll dough",
+      "Counting stars"
+    ],
+    "answer": "Microbes we can't see",
+    "explanation": "The journey starts with 'tiny microbes we can't see' and moves toward 'planet-wide challenges'. (Page 3)"
+  },
+  {
+    "question": "What does the textbook say about 'medicines' and microbes?",
+    "options": [
+      "Microbes are used to produce some medicines",
+      "All medicines kill all microbes",
+      "Medicines are made of sand",
+      "Medicines are only for Grade 7"
+    ],
+    "answer": "Microbes are used to produce some medicines",
+    "explanation": "The text identifies some microbes as 'invisible helpers' that help produce medicines. (Page 3)"
+  },
+  {
+    "question": "What 'urgent challenges' does the book refer to on page 5?",
+    "options": [
+      "Passing the final exam",
+      "Challenges that our planet now faces, such as climate changes",
+      "Building better motors",
+      "Counting all grains of sand"
+    ],
+    "answer": "Challenges that our planet now faces, such as climate changes",
+    "explanation": "The text mentions recognizing urgent challenges like disrupted climate patterns as a focus of the final chapters. (Page 5)"
+  },
+  {
+    "question": "What is the 'heart of how science works' according to page 2?",
+    "options": [
+      "Reading many books",
+      "The combination of wonder and evolution",
+      "Always being right",
+      "Staying in the classroom"
+    ],
+    "answer": "The combination of wonder and evolution",
+    "explanation": "The heart of how science works is described as the place where wonder and evolution come together in the Investigative World of Science. (Page 2)"
+  },
+  {
+    "question": "Why does the text mention 'maida'?",
+    "options": [
+      "As an example of a compound",
+      "As a type of flour that can be used in a puri experiment",
+      "As a harmful microbe",
+      "As a source of light"
+    ],
+    "answer": "As a type of flour that can be used in a puri experiment",
+    "explanation": "When discussing controllable variables in the kitchen, the text mentions using different types of flour like atta or maida. (Page 6)"
+  },
+  {
+    "question": "What does the text say about 'curved mirrors'?",
+    "options": [
+      "Light rays reflect off them",
+      "They are only for professional scientists",
+      "They cannot be found in a kitchen",
+      "They absorb all light"
+    ],
+    "answer": "Light rays reflect off them",
+    "explanation": "The text states that light rays reflect off both flat and curved mirrors, which helps us understand how many objects work. (Page 4)"
+  },
+  {
+    "question": "What specific time unit is suggested for measuring the puffing of a puri?",
+    "options": [
+      "Minutes",
+      "Hours",
+      "Seconds",
+      "Days"
+    ],
+    "answer": "Seconds",
+    "explanation": "The textbook suggests measuring the time it takes for a puri to puff up in 'seconds' as a quantitative observation. (Page 6)"
+  },
+  {
+    "question": "What is the role of 'sunlight' in an ecosystem according to page 5?",
+    "options": [
+      "It is something organisms depend on and respond to",
+      "It is a harmful ultraviolet ray only",
+      "It is a mixture that can be separated physically",
+      "It is used to measure pressure"
+    ],
+    "answer": "It is something organisms depend on and respond to",
+    "explanation": "Every living being depends on and responds to factors like air, water, and sunlight in their environment to form ecosystems. (Page 5)"
+  },
+  {
+    "question": "The textbook mentions that 'nature created such a vast variety' of what on page 1?",
+    "options": [
+      "Kinds of insects and shapes of leaves",
+      "Types of light rays",
+      "Speeds of electric current",
+      "Types of calendars"
+    ],
+    "answer": "Kinds of insects and shapes of leaves",
+    "explanation": "Diversity is illustrated using examples like different shapes of leaves and many kinds of insects found in nature. (Page 1)"
+  },
+  {
+    "question": "According to page 4, what is 'tea' in the example of dissolving sugar?",
+    "options": [
+      "An element",
+      "A compound",
+      "A solution (after sugar is dissolved)",
+      "A solid where particles cannot move"
+    ],
+    "answer": "A solution (after sugar is dissolved)",
+    "explanation": "The text explains that sugar dissolving in tea makes it sweet and uses this to introduce the concept of 'solutions'. (Page 4)"
+  },
+  {
+    "question": "What should students do with 'such a question that makes you curious' on page 1?",
+    "options": [
+      "Ignore it",
+      "Write it down in the provided space",
+      "Wait for Grade 9",
+      "Only ask the teacher"
+    ],
+    "answer": "Write it down in the provided space",
+    "explanation": "The book explicitly asks students: 'Is there such a question that makes you curious about the world? Write it here!' followed by a blank line. (Page 1)"
+  },
+  {
+    "question": "How is the 'Moon' described in terms of light in the text?",
+    "options": [
+      "It generates its own light",
+      "It reflects light just like mirrors or rough surfaces",
+      "It is a burning star",
+      "It does not interact with light"
+    ],
+    "answer": "It reflects light just like mirrors or rough surfaces",
+    "explanation": "The textbook clarifies that the Moon reflects light, which is how we are able to see it and its various phases. (Page 4)"
+  },
+  {
+    "question": "What example of a 'large mammal' is given in the ecosystem section?",
+    "options": [
+      "Elephant",
+      "Blue whale",
+      "Largest whale",
+      "Lion"
+    ],
+    "answer": "Largest whale",
+    "explanation": "The text mentions 'from tiniest insect to the largest whale' to illustrate the scale of diversity in living organisms. (Page 5)"
+  },
+  {
+    "question": "What is the function of 'corrective glasses' mentioned in the light section?",
+    "options": [
+      "To reflect light into the eyes",
+      "To help many of us see clearly through the bending of light",
+      "To block all UV rays",
+      "To measure the speed of light"
+    ],
+    "answer": "To help many of us see clearly through the bending of light",
+    "explanation": "Corrective glasses work because of the 'bending of light', which helps improve vision for many people. (Page 4)"
+  },
+  {
+    "question": "Which weather event is NOT specifically mentioned in the 'forces and pressure' section?",
+    "options": [
+      "Storms",
+      "Cyclones",
+      "Strong winds",
+      "Tornadoes"
+    ],
+    "answer": "Tornadoes",
+    "explanation": "The text lists 'storms', 'cyclones', and 'strong winds' but does not explicitly mention 'tornadoes'. (Page 4)"
+  },
+  {
+    "question": "According to the text, what is the 'solid ground' of investigation?",
+    "options": [
+      "Creative thinking",
+      "Careful observation",
+      "The bottom of a pool",
+      "The classroom floor"
+    ],
+    "answer": "Careful observation",
+    "explanation": "Investigation works best when balancing the 'solid ground of careful observation' with 'creative thinking'. (Page 2)"
+  },
+  {
+    "question": "What does the text say about 'boiling water'?",
+    "options": [
+      "It boils at different temperatures randomly",
+      "It boils at a certain temperature",
+      "It doesn't involve particles",
+      "It happens because of the moon"
+    ],
+    "answer": "It boils at a certain temperature",
+    "explanation": "The text mentions we need to zoom into materials to understand why water boils at a certain temperature. (Page 4)"
+  },
+  {
+    "question": "In the experiment with oil, why check if it 'smokes'?",
+    "options": [
+      "To see if it is ready for the puri",
+      "As a sensory observation to note in the experiment records",
+      "To attract microbes",
+      "To create a cloud"
+    ],
+    "answer": "As a sensory observation to note in the experiment records",
+    "explanation": "The text advises students to note everything they see and sense, including if the oil 'smokes'. (Page 7)"
+  },
+  {
+    "question": "Which celestial bodies are specifically mentioned as being linked to calendars?",
+    "options": [
+      "Sun and Moon",
+      "Mars and Venus",
+      "Only the Stars",
+      "Comets and Meteorites"
+    ],
+    "answer": "Sun and Moon",
+    "explanation": "The book explains that combining observations of sunrises (Sun) and lunar cycles (Moon) allowed humans to create calendars. (Page 4, 5)"
+  },
+  {
+    "question": "What does the textbook suggest about 'stored dough' vs 'fresh dough'?",
+    "options": [
+      "They are the same",
+      "It is a question that can be investigated with an experiment",
+      "Stored dough never puffs",
+      "Fresh dough is only for Grade 6"
+    ],
+    "answer": "It is a question that can be investigated with an experiment",
+    "explanation": "The textbook lists 'Do puris puff better when made fresh or from stored dough?' as a potential scientific question for investigation. (Page 7)"
+  },
+  {
+    "question": "What is the role of 'motors' in the electricity section?",
+    "options": [
+      "To produce heat",
+      "To run machines using the magnetic effect of electric current",
+      "To generate light",
+      "To study the moon"
+    ],
+    "answer": "To run machines using the magnetic effect of electric current",
+    "explanation": "The magnetic effect of electric current is what helps motors run and machines function. (Page 3)"
+  },
+  {
+    "question": "How are 'pure substances' distinguished from 'mixtures' in the text?",
+    "options": [
+      "Pure substances are elements; mixtures are physically separable combinations",
+      "They are not distinguished",
+      "Mixtures are made of only one thing",
+      "Pure substances are always liquid"
+    ],
+    "answer": "Pure substances are elements; mixtures are physically separable combinations",
+    "explanation": "The text defines elements as pure substances and mixtures as combinations that can be separated physically. (Page 4)"
+  },
+  {
+    "question": "What can be 'measured' in terms of the dough's preparation?",
+    "options": [
+      "The color of the flour",
+      "The thickness and size of the rolled dough",
+      "The speed of the cook",
+      "The hunger of the scientist"
+    ],
+    "answer": "The thickness and size of the rolled dough",
+    "explanation": "When investigating, you can control or measure the thickness and size of the rolled dough. (Page 6)"
+  },
+  {
+    "question": "What does the 'magnifying glass' image on page 6 focus on?",
+    "options": [
+      "A leaf",
+      "A frying puri",
+      "The Moon",
+      "A motor"
+    ],
+    "answer": "A frying puri",
+    "explanation": "The illustration on page 6 shows a hand using a strainer to fry a puri in a pan, illustrating the kitchen experiment. (Page 6)"
+  },
+  {
+    "question": "Which of these is a way to 'drop' the dough mentioned in the text?",
+    "options": [
+      "Throwing it from a distance",
+      "Drop it vertically, slide it at an angle, or slide it slowly",
+      "Dropping it in the dark",
+      "Blowing it into the pan"
+    ],
+    "answer": "Drop it vertically, slide it at an angle, or slide it slowly",
+    "explanation": "The text lists dropping vertically, sliding at an angle, or sliding slowly as things that can be controlled in the experiment. (Page 6)"
+  },
+  {
+    "question": "According to the book, what has been 'shaping' our routines on Earth for ages?",
+    "options": [
+      "Modern technology",
+      "The motions of celestial objects far beyond our planet",
+      "The variety of insects",
+      "The heating effect of electricity"
+    ],
+    "answer": "The motions of celestial objects far beyond our planet",
+    "explanation": "Calendars, which determine our routines, are linked to the motions of objects like the Moon and Sun. (Page 4)"
+  },
+  {
+    "question": "What does the text say about 'nature' and its creations?",
+    "options": [
+      "Nature is boring",
+      "Nature has created a vast variety, from leaves to insects",
+      "Nature is only for biology class",
+      "Nature is controlled by humans"
+    ],
+    "answer": "Nature has created a vast variety, from leaves to insects",
+    "explanation": "The text asks why nature has created such a vast variety of shapes and kinds of life, inviting students to be curious. (Page 1)"
+  },
+  {
+    "question": "In the experiment, if you change oil temperature, what should you keep the same?",
+    "options": [
+      "Nothing",
+      "Circles of dough of the same thickness dropped in the same way",
+      "The color of the pan",
+      "The time of day"
+    ],
+    "answer": "Circles of dough of the same thickness dropped in the same way",
+    "explanation": "To see the effect of one variable (oil temperature), all other conditions like thickness and drop method must stay the same. (Page 7)"
+  },
+  {
+    "question": "What 'unseen' world is discovered in a drop of water?",
+    "options": [
+      "A world of tiny organisms",
+      "A world of tiny gears",
+      "A world of mini planets",
+      "A world of gold"
+    ],
+    "answer": "A world of tiny organisms",
+    "explanation": "Examining a drop of water uncovers a hidden world of tiny, unseen organisms. (Page 3)"
+  },
+  {
+    "question": "What protects the 'delicate balance' of life on Earth?",
+    "options": [
+      "Scientific principles like observing and measuring",
+      "Building more machines",
+      "The thickness of a puri",
+      "The length of a kite string"
+    ],
+    "answer": "Scientific principles like observing and measuring",
+    "explanation": "The text states that using scientific principles will be key in helping us protect the delicate balance on which life depends. (Page 5)"
+  },
+  {
+    "question": "What comparison is made about a puri's puffing?",
+    "options": [
+      "It puffs up like a balloon",
+      "It puffs up like a cloud",
+      "It puffs up like a kite",
+      "It puffs up like a mountain"
+    ],
+    "answer": "It puffs up like a balloon",
+    "explanation": "The text asks 'Why does it puff up like a balloon?' when referring to a puri or batura in hot oil. (Page 6)"
+  },
+  {
+    "question": "According to page 4, what is 'light bending' called in the context of corrective glasses?",
+    "options": [
+      "Refraction (though not named, it is described as 'bending')",
+      "Reflection",
+      "Shadowing",
+      "Heating"
+    ],
+    "answer": "Refraction (though not named, it is described as 'bending')",
+    "explanation": "The text describes how light 'bends when passing through lenses', which is the scientific phenomenon used in glasses. (Page 4)"
+  },
+  {
+    "question": "What is the textbook's stance on 'scientific questions'?",
+    "options": [
+      "They are only for teachers",
+      "They can be asked by anyone, including students",
+      "They must always be answered immediately",
+      "They are only found in Grade 7"
+    ],
+    "answer": "They can be asked by anyone, including students",
+    "explanation": "The text encourages students by saying 'These are questions a scientist might ask—and you can too!'. (Page 6)"
+  },
+  {
+    "question": "What role does 'vaccines' play on page 3?",
+    "options": [
+      "They help motors run",
+      "They help us stay healthy and fight infections",
+      "They are used to measure air pressure",
+      "They are pure substances"
+    ],
+    "answer": "They help us stay healthy and fight infections",
+    "explanation": "Vaccines are specifically mentioned alongside food and exercise as tools to stay healthy. (Page 3)"
+  },
+  {
+    "question": "Which of these is a 'mixture' mentioned on page 4?",
+    "options": [
+      "Oxygen",
+      "Gold",
+      "A combination that can be separated physically",
+      "Distilled water"
+    ],
+    "answer": "A combination that can be separated physically",
+    "explanation": "The book defines mixtures as combinations that can be physically separated, contrasting them with pure elements. (Page 4)"
+  },
+  {
+    "question": "What does the text say about 'Earth's atmosphere' and Liquid Water?",
+    "options": [
+      "The atmosphere makes water freeze",
+      "Earth's distance from the sun and its atmosphere keep water liquid",
+      "Liquid water is found in the atmosphere",
+      "The atmosphere is made of liquid water"
+    ],
+    "answer": "Earth's distance from the sun and its atmosphere keep water liquid",
+    "explanation": "Earth's perfect distance from the sun is what allows water to remain in a liquid state. (Page 5)"
+  },
+  {
+    "question": "What is 'purnima'?",
+    "options": [
+      "A full moon",
+      "A new moon",
+      "A solar eclipse",
+      "A scientific experiment"
+    ],
+    "answer": "A full moon",
+    "explanation": "The text refers to the 'shrinking bright part of the Moon after purnima', which refers to the full moon phase in the lunar cycle. (Page 7)"
+  },
+  {
+    "question": "What are 'invisible helpers'?",
+    "options": [
+      "Magnifying glasses",
+      "Helpful microbes",
+      "Kite strings",
+      "Scientific formulas"
+    ],
+    "answer": "Helpful microbes",
+    "explanation": "The text describes some microscopic organisms as 'invisible helpers' because they assist with digestion or medicine production. (Page 3)"
+  },
+  {
+    "question": "What happens if a 'very thick layer of dough' is used?",
+    "options": [
+      "It will always puff up perfectly",
+      "We can check whether it still gives a thin side to the puri",
+      "It will explode",
+      "It will turn into maida"
+    ],
+    "answer": "We can check whether it still gives a thin side to the puri",
+    "explanation": "The book suggests checking if thickness affects whether the puri retains its characteristic thin side during the investigation. (Page 6)"
+  },
+  {
+    "question": "According to page 5, what disruption leads to dangerous consequences?",
+    "options": [
+      "Disrupting the kitchen",
+      "Disrupting climate patterns",
+      "Disrupting a kite's flight",
+      "Disrupting the page order"
+    ],
+    "answer": "Disrupting climate patterns",
+    "explanation": "The text warns that human activities can cause small changes in Earth's temperature, disrupting climate patterns with dangerous results. (Page 5)"
+  },
+  {
+    "question": "What 'spirit' are students hoped to bring along in Grade 8?",
+    "options": [
+      "Spirit of competition",
+      "Spirit of adventure and exploration",
+      "Spirit of silence",
+      "Spirit of the past"
+    ],
+    "answer": "Spirit of adventure and exploration",
+    "explanation": "The book opens by hoping students bring along the 'spirit of adventure and exploration' that has guided them so far. (Page 2)"
+  },
+  {
+    "question": "In the classification section, what are 'two or more elements bonded together'?",
+    "options": [
+      "Elements",
+      "Compounds",
+      "Mixtures",
+      "Solutions"
+    ],
+    "answer": "Compounds",
+    "explanation": "Compounds are defined as substances where two or more elements are chemically bonded together. (Page 4)"
+  },
+  {
+    "question": "What causes 'cyclones' according to the pressure section?",
+    "options": [
+      "Stronger pressure differences",
+      "Gentle breezes",
+      "High temperatures only",
+      "The reflection of the moon"
+    ],
+    "answer": "Stronger pressure differences",
+    "explanation": "The text states that 'a stronger pressure difference can lead to strong winds, and sometimes even cyclones'. (Page 3)"
+  },
+  {
+    "question": "What does the textbook say about 'science beginning with wonder'?",
+    "options": [
+      "It only happens in Grade 8",
+      "It is how students discovered science in Grade 6",
+      "It is a myth",
+      "It is for scientists only"
+    ],
+    "answer": "It is how students discovered science in Grade 6",
+    "explanation": "Page 2 reflects on the Grade 6 experience, noting that students discovered how science begins with wonder. (Page 2)"
+  },
+  {
+    "question": "What example of 'bending of light' is NOT given?",
+    "options": [
+      "Passing through lenses",
+      "Seeing an image in a shiny metal spoon",
+      "Corrective glasses",
+      "Cooking a puri"
+    ],
+    "answer": "Cooking a puri",
+    "explanation": "Bending of light is linked to lenses, spoons, and glasses. Puri cooking is used as an example of an investigative experiment, not optics. (Page 4, 6)"
+  },
+  {
+    "question": "What is the purpose of 'hidden scientific thoughts' in the page lines?",
+    "options": [
+      "To test the students",
+      "To make the page a little less boring",
+      "To provide the answers to the questions",
+      "To show the price of the book"
+    ],
+    "answer": "To make the page a little less boring",
+    "explanation": "The text humorously notes that the hidden thoughts in the patterns at the bottom are 'mainly to make the page a little less boring'. (Page 2)"
+  },
+  {
+    "question": "What can happen to objects when forces act on them, according to page 3?",
+    "options": [
+      "They can speed up, slow down, or change direction",
+      "They always stay still",
+      "They turn into microbes",
+      "They change into light"
+    ],
+    "answer": "They can speed up, slow down, or change direction",
+    "explanation": "Forces are studied because they make objects speed up, slow down, or change their direction of motion. (Page 3)"
+  },
+  {
+    "question": "What 'hidden world' is mentioned on page 3?",
+    "options": [
+      "A world of tiny organisms",
+      "A world inside the moon",
+      "A world of pure elements",
+      "A world of hidden calendars"
+    ],
+    "answer": "A world of tiny organisms",
+    "explanation": "A drop of water is said to contain a 'hidden world of tiny organisms' that are unseen but linked to us. (Page 3)"
+  },
+  {
+    "question": "What is the relationship between 'atta' and 'maida' in the experiment?",
+    "options": [
+      "They are elements",
+      "They are types of flour you can use to see if the puri puffs differently",
+      "They are harmful microbes",
+      "They are used to make motors"
+    ],
+    "answer": "They are types of flour you can use to see if the puri puffs differently",
+    "explanation": "The textbook suggests using different types of flour like 'atta' or 'maida' as a controllable variable in the investigation. (Page 6)"
+  },
+  {
+    "question": "What does the text say about 'investigation in science'?",
+    "options": [
+      "It means asking only simple questions",
+      "It means asking focused questions and designing experiments",
+      "It is only for famous people",
+      "It is a quick process"
+    ],
+    "answer": "It means asking focused questions and designing experiments",
+    "explanation": "Investigation involves more than simple curiosity; it requires focused questioning and experiment design to find new facts. (Page 2)"
+  },
+  {
+    "question": "What is 'distributed over an object' to create pressure?",
+    "options": [
+      "Force",
+      "Light",
+      "Water",
+      "Microbes"
+    ],
+    "answer": "Force",
+    "explanation": "The idea of pressure is defined as how force is distributed over an object. (Page 3)"
+  },
+  {
+    "question": "Which of these helps 'motors run'?",
+    "options": [
+      "Heating effect of electricity",
+      "Magnetic effect of electricity",
+      "The moon's phases",
+      "The root symbol"
+    ],
+    "answer": "Magnetic effect of electricity",
+    "explanation": "The text states that the magnetic effect of electric current helps motors run and machines function. (Page 3)"
+  },
+  {
+    "question": "What is 'liquid' because of Earth's distance from the Sun?",
+    "options": [
+      "Oxygen",
+      "Water",
+      "Nitrogen",
+      "Maida"
+    ],
+    "answer": "Water",
+    "explanation": "Water remains liquid on Earth specifically because the planet is at the perfect distance from the Sun. (Page 5)"
+  },
+  {
+    "question": "What does 'purnima' represent in the lunar cycle?",
+    "options": [
+      "The full moon",
+      "The new moon",
+      "The halfway moon",
+      "The dark moon"
+    ],
+    "answer": "The full moon",
+    "explanation": "The text mentions the 'bright part of the Moon' shrinking after purnima, indicating it follows the full moon phase. (Page 7)"
+  },
+  {
+    "question": "What do 'invisible helpers' help with?",
+    "options": [
+      "Digesting food or producing medicines",
+      "Frying puris",
+      "Flying kites",
+      "Changing the moon's phase"
+    ],
+    "answer": "Digesting food or producing medicines",
+    "explanation": "Helpful microbes are termed 'invisible helpers' for their role in digestion and medicine. (Page 3)"
+  },
+  {
+    "question": "According to the text, what is 'just right' for life?",
+    "options": [
+      "The kitchen Pan",
+      "The Earth",
+      "A puri",
+      "A magnifying glass"
+    ],
+    "answer": "The Earth",
+    "explanation": "The book discusses trying to understand what makes Earth 'just right' for life in its final chapters. (Page 5)"
+  },
+  {
+    "question": "What can a 'gentle breeze' be a result of?",
+    "options": [
+      "A small difference in pressure",
+      "A large difference in pressure",
+      "A magnetic effect",
+      "A vaccine"
+    ],
+    "answer": "A small difference in pressure",
+    "explanation": "The text explains that a small pressure difference in air can result in a gentle breeze. (Page 3)"
+  },
+  {
+    "question": "What is 'curiosity' compared to in the textbook design?",
+    "options": [
+      "A root",
+      "A kite that must take flight",
+      "A drop of water",
+      "A motor"
+    ],
+    "answer": "A kite that must take flight",
+    "explanation": "The kite soaring in the sky reminds students that curiosity must take flight to explore the unknown. (Page 2)"
+  },
+  {
+    "question": "What did scientists find regarding 'puri puffing'?",
+    "options": [
+      "It is very easy to explain",
+      "It is not really completely understood by scientists today",
+      "It only happens with atta flour",
+      "It is caused by the magnetic effect"
+    ],
+    "answer": "It is not really completely understood by scientists today",
+    "explanation": "Even simple daily phenomena like a puri puffing are noted to be not fully understood by science today. (Page 7)"
+  },
+  {
+    "question": "What should you do while 'doing such experiments' according to page 6?",
+    "options": [
+      "Change everything at once",
+      "Change only one thing at a time",
+      "Change nothing and just watch",
+      "Close the kitchen door"
+    ],
+    "answer": "Change only one thing at a time",
+    "explanation": "The text advises changing one thing at a time while keeping other conditions the same for a better experiment. (Page 6)"
+  },
+  {
+    "question": "What does a 'shiny metal spoon' illustrate about light?",
+    "options": [
+      "Light reflection and bending",
+      "Light absorption",
+      "Light generation",
+      "Light speed"
+    ],
+    "answer": "Light reflection and bending",
+    "explanation": "A shiny spoon is used to show what happens when we see images due to light reflection and bending. (Page 4)"
+  },
+  {
+    "question": "Which of these is a 'planet-wide challenge'?",
+    "options": [
+      "Frying a puri",
+      "Climate change",
+      "Rolling dough",
+      "Flying a kite"
+    ],
+    "answer": "Climate change",
+    "explanation": "The journey moves from tiny microbes to 'planet-wide challenges' like climate change and Earth's temperature. (Page 3, 5)"
+  },
+  {
+    "question": "What does 'at a certain temperature' refer to on page 4?",
+    "options": [
+      "When air moves",
+      "When water boils",
+      "When a kite flies",
+      "When a puri puffs"
+    ],
+    "answer": "When water boils",
+    "explanation": "The text mentions understanding why water boils 'at a certain temperature' as a goal for investigation. (Page 4)"
+  },
+  {
+    "question": "Where is the 'magnifying glass' mentioned in the context of the cover?",
+    "options": [
+      "Over a leaf",
+      "Over a drop of water",
+      "Over a motor",
+      "Over a puri"
+    ],
+    "answer": "Over a leaf",
+    "explanation": "The illustration on the first page shows a magnifying glass magnifying a green leaf. (Page 1)"
+  },
+  {
+    "question": "What is the 'root' connected to, according to page 2?",
+    "options": [
+      "The sky",
+      "Our environment, traditions, and heritage",
+      "Electric motors",
+      "Harmful microbes"
+    ],
+    "answer": "Our environment, traditions, and heritage",
+    "explanation": "The root symbolises the foundation that keeps us connected to our environment, traditions, and heritage. (Page 2)"
+  },
+  {
+    "question": "What do 'vaccines help us' do, according to page 3?",
+    "options": [
+      "Study light",
+      "Stay healthy and fight infections",
+      "Understand pressure",
+      "Separate mixtures"
+    ],
+    "answer": "Stay healthy and fight infections",
+    "explanation": "Vaccines are specifically mentioned as tools to stay healthy and fight infections. (Page 3)"
+  },
+  {
+    "question": "What is 'sugar dissolving in tea' an example of?",
+    "options": [
+      "An element",
+      "A compound",
+      "A solution",
+      "A magnetic effect"
+    ],
+    "answer": "A solution",
+    "explanation": "The text uses sugar in tea to explain how solutions work when particles combine or mix. (Page 4)"
+  },
+  {
+    "question": "How do particles move in 'solids'?",
+    "options": [
+      "They cannot move much",
+      "They move freely",
+      "They move in circles",
+      "They don't exist in solids"
+    ],
+    "answer": "They cannot move much",
+    "explanation": "In materials that are solid, the particles are described as being unable to move much. (Page 4)"
+  },
+  {
+    "question": "Which of these is a 'pure substance'?",
+    "options": [
+      "Element",
+      "Mixture",
+      "Compound",
+      "Solution"
+    ],
+    "answer": "Element",
+    "explanation": "Elements are defined in the classification section as pure substances. (Page 4)"
+  },
+  {
+    "question": "What does a 'ball thrown up' help explain?",
+    "options": [
+      "Electricity",
+      "Forces and gravity",
+      "Microbes",
+      "Light reflection"
+    ],
+    "answer": "Forces and gravity",
+    "explanation": "The book says understanding forces helps explain why a thrown ball falls back to the ground. (Page 3)"
+  },
+  {
+    "question": "What does 'systematic investigation' involve?",
+    "options": [
+      "Careful observation and experiments",
+      "Guessing the answers",
+      "Reading only",
+      "Using only fancy labs"
+    ],
+    "answer": "Careful observation and experiments",
+    "explanation": "Systematic investigation is the method of using observations and experiments to study everyday or complex phenomena. (Page 7)"
+  },
+  {
+    "question": "What is 'oxygen's' role in the atmosphere on page 5?",
+    "options": [
+      "It allows water to boil",
+      "It is what we breathe",
+      "It reflects light",
+      "It moves the moon"
+    ],
+    "answer": "It is what we breathe",
+    "explanation": "The atmosphere provides the oxygen that living organisms need to breathe. (Page 5)"
+  },
+  {
+    "question": "What is 'linked' to our daily routines?",
+    "options": [
+      "The growth of grass",
+      "The motions of objects far beyond our planet",
+      "The price of flour",
+      "The heating effect"
+    ],
+    "answer": "The motions of objects far beyond our planet",
+    "explanation": "Calendars determine our routines and are linked to celestial motions of objects like the sun and moon. (Page 4)"
+  },
+  {
+    "question": "What 'diversity' is mentioned right from Grade 6?",
+    "options": [
+      "Diversity of plants and animals",
+      "Diversity of motors",
+      "Diversity of elements",
+      "Diversity of laboratory tools"
+    ],
+    "answer": "Diversity of plants and animals",
+    "explanation": "The text notes that diversity in plants and animals has been observed since Grade 6. (Page 1)"
+  },
+  {
+    "question": "How is 'pressure' related to force?",
+    "options": [
+      "It is how force is distributed",
+      "It is the opposite of force",
+      "It is the same as force",
+      "Pressure is independent of force"
+    ],
+    "answer": "It is how force is distributed",
+    "explanation": "The textbook explains that pressure is the concept of how force is distributed over an object. (Page 3)"
+  },
+  {
+    "question": "What is 'bending of light' used for?",
+    "options": [
+      "Cooking",
+      "Corrective glasses",
+      "Making motors run",
+      "Building calendars"
+    ],
+    "answer": "Corrective glasses",
+    "explanation": "The bending of light is a key factor in how lenses and corrective glasses work. (Page 4)"
+  },
+  {
+    "question": "What happens in 'hot oil' to a puri?",
+    "options": [
+      "It dissolves",
+      "It puffs up",
+      "It reflects light",
+      "It becomes an element"
+    ],
+    "answer": "It puffs up",
+    "explanation": "When a puri or batura is placed in hot oil, it is observed to puff up like a balloon. (Page 6)"
+  },
+  {
+    "question": "What is 'not meant for any exam' on page 1?",
+    "options": [
+      "The whole textbook",
+      "The set of questions on the first page of each chapter",
+      "The science lab",
+      "The teacher's notes"
+    ],
+    "answer": "The set of questions on the first page of each chapter",
+    "explanation": "The introductory text clarifies that the questions on the first page are for curiosity, not exams. (Page 1)"
+  },
+  {
+    "question": "What is the 'kite' a reminder of?",
+    "options": [
+      "That we must stay on the ground",
+      "That curiosity must take flight",
+      "That science is hard",
+      "That weather is dangerous"
+    ],
+    "answer": "That curiosity must take flight",
+    "explanation": "The kite symbolises the idea that curiosity must take flight to explore the unknown. (Page 2)"
+  },
+  {
+    "question": "Which of these is a 'controllable' factor for frying a puri?",
+    "options": [
+      "The temperature of the hot oil",
+      "The phase of the moon",
+      "The number of stars",
+      "The presence of microbes"
+    ],
+    "answer": "The temperature of the hot oil",
+    "explanation": "The text lists 'temperature of the hot oil' as something we can control during the experiment. (Page 6)"
+  },
+  {
+    "question": "What can happen after 'doing one round of experiments'?",
+    "options": [
+      "You stop studying",
+      "You may think of more questions",
+      "You become a professional",
+      "You forget your notes"
+    ],
+    "answer": "You may think of more questions",
+    "explanation": "The book notes that initial experiments often lead to further curious questions for a scientist. (Page 7)"
+  },
+  {
+    "question": "What is 'systematic investigation'?",
+    "options": [
+      "A way of making messy observations",
+      "The structure of scientific experiments",
+      "Reading a glossary",
+      "A type of harmful microbe"
+    ],
+    "answer": "The structure of scientific experiments",
+    "explanation": "Systematic investigation is described as the process by which all scientific experiments are done. (Page 7)"
+  },
+  {
+    "question": "What do 'mixtures' consist of?",
+    "options": [
+      "Only one element",
+      "Combinations that can be separated physically",
+      "Pure bonded substances",
+      "Only gases"
+    ],
+    "answer": "Combinations that can be separated physically",
+    "explanation": "Mixtures are defined as combinations that are separable by physical means. (Page 4)"
+  },
+  {
+    "question": "According to page 3, what can lead to 'strong winds'?",
+    "options": [
+      "A small pressure difference",
+      "A stronger pressure difference",
+      "No pressure difference",
+      "The magnetic effect"
+    ],
+    "answer": "A stronger pressure difference",
+    "explanation": "The textbook explains that stronger pressure differences lead to strong winds. (Page 3)"
+  },
+  {
+    "question": "What is the 'perfect distance' from the Sun important for?",
+    "options": [
+      "Generating electricity",
+      "Keeping water liquid",
+      "Bending light",
+      "Separating mixtures"
+    ],
+    "answer": "Keeping water liquid",
+    "explanation": "Earth's distance from the sun is described as perfect because it allows water to remain liquid. (Page 5)"
+  },
+  {
+    "question": "What does a 'car stopping' explain?",
+    "options": [
+      "The magnetic effect",
+      "How forces work when brakes are applied",
+      "The growth of microbes",
+      "The bending of light"
+    ],
+    "answer": "How forces work when brakes are applied",
+    "explanation": "The text uses a car stopping with brakes as an example to explain the action of forces. (Page 3)"
+  },
+  {
+    "question": "What can be 'seen' when zooming into materials?",
+    "options": [
+      "What kind of particles they are made of",
+      "Hidden messages",
+      "The price of the material",
+      "A tiny kite"
+    ],
+    "answer": "What kind of particles they are made of",
+    "explanation": "To understand properties like pressure, scientists 'zoom into' materials to see their particle structure. (Page 4)"
+  },
+  {
+    "question": "Which of these is NOT a controllable variable for a puri experiment?",
+    "options": [
+      "Thickness of the dough",
+      "Flour type",
+      "The puffing time (this is observed/measured)",
+      "Dropping method"
+    ],
+    "answer": "The puffing time (this is observed/measured)",
+    "explanation": "Thickness, flour type, and dropping method are controlled; puffing time is something we observe or measure. (Page 6)"
+  },
+  {
+    "question": "What does 'Curiosity' serve as for the students?",
+    "options": [
+      "A guide to solve difficult problems",
+      "The name of a harmful microbe",
+      "A type of motor",
+      "An element"
+    ],
+    "answer": "A guide to solve difficult problems",
+    "explanation": "The textbook encourages students to use curiosity as their guide to solving the world's problems. (Page 5)"
+  },
+  {
+    "question": "What is the 'root' symbol a reminder of?",
+    "options": [
+      "Staying grounded in observations",
+      "Flying high with ideas",
+      "Using electricity",
+      "Cleaning the kitchen"
+    ],
+    "answer": "Staying grounded in observations",
+    "explanation": "The root symbolises staying grounded in observations while being connected to knowledge and heritage. (Page 2)"
+  },
+  {
+    "question": "What is a 'drop of water' used to examine?",
+    "options": [
+      "Electric currents",
+      "Tiny microbes",
+      "Moon phases",
+      "Sand grains"
+    ],
+    "answer": "Tiny microbes",
+    "explanation": "A drop of water is the starting point for uncovering the unseen world of microbes. (Page 3)"
+  },
+  {
+    "question": "What happens if oil 'splatters'?",
+    "options": [
+      "The experiment is over",
+      "It should be noted as part of sensory observations",
+      "It is a chemical bond",
+      "It is a lunar cycle"
+    ],
+    "answer": "It should be noted as part of sensory observations",
+    "explanation": "The book advises noting sensory details like splattering oil during the experiment. (Page 7)"
+  },
+  {
+    "question": "What 'routines' are determined by calendars?",
+    "options": [
+      "Routines on Earth",
+      "Routines of stars",
+      "Routines of microbes",
+      "Routines of elements"
+    ],
+    "answer": "Routines on Earth",
+    "explanation": "The text explains that calendars determine our daily routines on Earth. (Page 4)"
+  },
+  {
+    "question": "What is the 'freedom of creative thinking' balanced with?",
+    "options": [
+      "The solid ground of careful observation",
+      "Reading the textbook",
+      "Buying a magnifying glass",
+      "Learning facts"
+    ],
+    "answer": "The solid ground of careful observation",
+    "explanation": "Investigation works best when creative thinking is balanced with careful observation. (Page 2)"
+  },
+  {
+    "question": "Which of these 'improve our understanding'?",
+    "options": [
+      "Using observations from experiments",
+      "Ignoring the results",
+      "Asking only simple questions",
+      "Only looking at the book"
+    ],
+    "answer": "Using observations from experiments",
+    "explanation": "Scientists use their observations from experiments to improve their understanding of a phenomenon. (Page 2)"
+  },
+  {
+    "question": "What is 'Chaitra' on page 5?",
+    "options": [
+      "A calendar month",
+      "A star",
+      "A motor part",
+      "A type of puri"
+    ],
+    "answer": "A calendar month",
+    "explanation": "The image on page 5 clearly displays the month 'Chaitra' in a 2025 calendar. (Page 5)"
+  },
+  {
+    "question": "What does 'nature' create variety in, according to the intro?",
+    "options": [
+      "Plants and animals",
+      "Metals and minerals",
+      "Machines and tools",
+      "Stars and planets"
+    ],
+    "answer": "Plants and animals",
+    "explanation": "The text notes the incredible diversity of plants and animals around us as an object of wonder. (Page 1)"
+  },
+  {
+    "question": "What can 'disrupt climate patterns'?",
+    "options": [
+      "Human activities",
+      "Reading science",
+      "Puffing puris",
+      "Flying kites"
+    ],
+    "answer": "Human activities",
+    "explanation": "The text states that human activities can cause temperature changes that disrupt climate patterns. (Page 5)"
+  },
+  {
+    "question": "What is the purpose of 'Probe and ponder'?",
+    "options": [
+      "To test memory",
+      "To spark curiosity",
+      "To teach history",
+      "To list ingredients"
+    ],
+    "answer": "To spark curiosity",
+    "explanation": "The 'Probe and ponder' section is meant to spark curiosity to explore science. (Page 1)"
+  },
+  {
+    "question": "What are 'elements'?",
+    "options": [
+      "Pure substances",
+      "Mixtures",
+      "Bonded elements",
+      "Liquid water"
+    ],
+    "answer": "Pure substances",
+    "explanation": "Elements are classified as pure substances in the matter section. (Page 4)"
+  },
+  {
+    "question": "How is 'wind' described?",
+    "options": [
+      "Air moving due to pressure differences",
+      "The result of motors",
+      "A type of microbe",
+      "Bending light"
+    ],
+    "answer": "Air moving due to pressure differences",
+    "explanation": "Pressure differences are what decide how air moves, creating wind. (Page 3)"
+  },
+  {
+    "question": "What is 'not really completely understood' today?",
+    "options": [
+      "Puri puffing",
+      "How to read a calendar",
+      "How to fly a kite",
+      "What a root is"
+    ],
+    "answer": "Puri puffing",
+    "explanation": "The text mentions that even the simple observation of a puri puffing is not yet fully understood by scientists. (Page 7)"
+  },
+  {
+    "question": "What should students 'write here' on page 1?",
+    "options": [
+      "Their name",
+      "A question that makes them curious about the world",
+      "The answer to the sand grain question",
+      "The definition of science"
+    ],
+    "answer": "A question that makes them curious about the world",
+    "explanation": "Students are invited to write down a question that makes them curious on the first page. (Page 1)"
+  },
+  {
+    "question": "Which effect 'helps motors run'?",
+    "options": [
+      "Magnetic effect",
+      "Heating effect",
+      "Cooling effect",
+      "Chemical effect"
+    ],
+    "answer": "Magnetic effect",
+    "explanation": "The text states that the magnetic effect of electric current helps motors and machines function. (Page 3)"
+  },
+  {
+    "question": "What does Earth's 'atmosphere' provide?",
+    "options": [
+      "Oxygen and UV shielding",
+      "Food and water",
+      "Electricity and motors",
+      "Sand and stars"
+    ],
+    "answer": "Oxygen and UV shielding",
+    "explanation": "The atmosphere is credited with providing oxygen and shielding life from UV rays. (Page 5)"
+  },
+  {
+    "question": "What is 'maida' mentioned as?",
+    "options": [
+      "An example of a flour type",
+      "A pure substance",
+      "A force",
+      "A microbe"
+    ],
+    "answer": "An example of a flour type",
+    "explanation": "Maida is listed alongside atta as an example of flour types students can experiment with. (Page 6)"
+  },
+  {
+    "question": "What is 'purnima' linked to in the text?",
+    "options": [
+      "The Moon's phases",
+      "Electricity",
+      "Microbes",
+      "Ecosystems"
+    ],
+    "answer": "The Moon's phases",
+    "explanation": "Purnima is mentioned in the context of the shrinking bright part of the Moon's phases. (Page 7)"
+  },
+  {
+    "question": "What is 'distributed' to define pressure?",
+    "options": [
+      "Force",
+      "Particles",
+      "Light",
+      "Microbes"
+    ],
+    "answer": "Force",
+    "explanation": "Pressure is the concept of how force is distributed over an object. (Page 3)"
+  },
+  {
+    "question": "What is 'science' according to Grade 7?",
+    "options": [
+      "Static",
+      "Always evolving",
+      "Finished",
+      "Easy"
+    ],
+    "answer": "Always evolving",
+    "explanation": "Grade 7 science taught that science is always evolving and opening new questions. (Page 2)"
+  },
+  {
+    "question": "What is at the 'heart of both the problem and solution'?",
+    "options": [
+      "Us (humans)",
+      "Microbes",
+      "Kites",
+      "Roots"
+    ],
+    "answer": "Us (humans)",
+    "explanation": "The text states that humans are at the heart of climate problems and their solutions. (Page 5)"
+  },
+  {
+    "question": "What can you 'observe' in the puri experiment?",
+    "options": [
+      "The time it takes to puff",
+      "The atomic weight of flour",
+      "The exact temperature of the room",
+      "The speed of light"
+    ],
+    "answer": "The time it takes to puff",
+    "explanation": "Measuring the puffing time in seconds is an example of an observation in the experiment. (Page 6)"
+  },
+  {
+    "question": "What does a 'single drop of water' uncover?",
+    "options": [
+      "A hidden world of tiny organisms",
+      "A mixture of elements",
+      "A pressure difference",
+      "The moon's cycles"
+    ],
+    "answer": "A hidden world of tiny organisms",
+    "explanation": "The book journey starts with a drop of water revealing tiny, unseen organisms. (Page 3)"
+  },
+  {
+    "question": "What 'shield' does the atmosphere provide?",
+    "options": [
+      "Shield from UV rays",
+      "Shield from rain",
+      "Shield from stars",
+      "Shield from microbes"
+    ],
+    "answer": "Shield from UV rays",
+    "explanation": "The atmosphere shields Earth from harmful ultraviolet (UV) rays. (Page 5)"
+  },
+  {
+    "question": "What is a 'batura'?",
+    "options": [
+      "A type of food that puffs like a puri",
+      "A scientific instrument",
+      "A force",
+      "A calendar month"
+    ],
+    "answer": "A type of food that puffs like a puri",
+    "explanation": "The text mentions batura along with puri as examples of dough that puffs up in oil. (Page 6)"
+  },
+  {
+    "question": "What is 'sugar in tea' used to explain?",
+    "options": [
+      "Solutions",
+      "Elements",
+      "Compounds",
+      "Forces"
+    ],
+    "answer": "Solutions",
+    "explanation": "Sugar in tea is the textbook example for explaining how solutions work. (Page 4)"
+  },
+  {
+    "question": "What is 'just right' for life on Earth?",
+    "options": [
+      "The distance from the sun",
+      "The amount of sand",
+      "The color of the sky",
+      "The number of kites"
+    ],
+    "answer": "The distance from the sun",
+    "explanation": "Earth's distance from the sun is described as 'just right' for maintaining liquid water and supporting life. (Page 5)"
+  },
+  {
+    "question": "What do 'invisible helpers' assist with?",
+    "options": [
+      "Digestion and medicine production",
+      "Frying food",
+      "Flying kites",
+      "Watching the moon"
+    ],
+    "answer": "Digestion and medicine production",
+    "explanation": "Helpful microbes aid in digestion and are used to produce medicines. (Page 3)"
+  },
+  {
+    "question": "What does 'zooming in' reveal about solids?",
+    "options": [
+      "Particles cannot move much",
+      "They are empty",
+      "They are made of water",
+      "They are elements only"
+    ],
+    "answer": "Particles cannot move much",
+    "explanation": "Zooming into solids shows that their constituent particles have limited motion. (Page 4)"
+  },
+  {
+    "question": "What 'difference' results in a gentle breeze?",
+    "options": [
+      "Small pressure difference",
+      "Large pressure difference",
+      "Temperature difference",
+      "Distance difference"
+    ],
+    "answer": "Small pressure difference",
+    "explanation": "A small difference in air pressure results in a gentle breeze. (Page 3)"
+  },
+  {
+    "question": "What should you 'keep notes' of?",
+    "options": [
+      "Everything you see and sense",
+      "Only the final answer",
+      "What others say",
+      "None of the above"
+    ],
+    "answer": "Everything you see and sense",
+    "explanation": "The textbook advises scientists to record all sensory observations during experiments. (Page 7)"
+  },
+  {
+    "question": "What is 'not limited' to polished mirrors?",
+    "options": [
+      "Reflection of light",
+      "Bending of light",
+      "Force",
+      "Pressure"
+    ],
+    "answer": "Reflection of light",
+    "explanation": "The book explains that reflection happens not just on mirrors but also on rough surfaces and the moon. (Page 4)"
+  },
+  {
+    "question": "What 'forces' are studied in Grade 8?",
+    "options": [
+      "Fundamental forces",
+      "Human forces",
+      "Microbe forces",
+      "Kitchen forces"
+    ],
+    "answer": "Fundamental forces",
+    "explanation": "The curriculum moves to study fundamental forces that affect motion and direction. (Page 3)"
+  },
+  {
+    "question": "What is at the 'bottom of the left-hand pages'?",
+    "options": [
+      "A root",
+      "A kite",
+      "A moon",
+      "A puri"
+    ],
+    "answer": "A root",
+    "explanation": "The design features a root image at the bottom of left-hand pages. (Page 2)"
+  },
+  {
+    "question": "What do 'vaccines' help fight?",
+    "options": [
+      "Infections",
+      "Pressure",
+      "Microbes (all)",
+      "Light bending"
+    ],
+    "answer": "Infections",
+    "explanation": "The book explicitly mentions vaccines help the body fight infections. (Page 3)"
+  },
+  {
+    "question": "What is 'bending of light' used to understand?",
+    "options": [
+      "Working of many objects",
+      "Cooking",
+      "Microbes",
+      "Roots"
+    ],
+    "answer": "Working of many objects",
+    "explanation": "Bending of light is a key to understanding how various objects and lenses function. (Page 4)"
+  },
+  {
+    "question": "What 'mystery' is mentioned on page 2?",
+    "options": [
+      "Is the world getting warmer?",
+      "Why is maida white?",
+      "Where do kites go?",
+      "How to count sand"
+    ],
+    "answer": "Is the world getting warmer?",
+    "explanation": "The text lists global warming as a bigger mystery that young investigators can explore. (Page 2)"
+  },
+  {
+    "question": "What are 'mixtures' physically?",
+    "options": [
+      "Separable",
+      "Bonded",
+      "Invisible",
+      "Pure"
+    ],
+    "answer": "Separable",
+    "explanation": "Mixtures are defined as combinations that can be physically separated. (Page 4)"
+  },
+  {
+    "question": "What 'relationship' forms ecosystems?",
+    "options": [
+      "Relationships between living organisms and their environment",
+      "Relationship between sand and stars",
+      "Relationship between roots and kites",
+      "Relationship between maida and atta"
+    ],
+    "answer": "Relationships between living organisms and their environment",
+    "explanation": "Ecosystems are defined by the complex relationships of life and the environment. (Page 5)"
+  },
+  {
+    "question": "What 'journey' continues in Grade 8?",
+    "options": [
+      "Journey with Curiosity",
+      "Journey with Math",
+      "Journey to the Moon",
+      "Journey to the Kitchen"
+    ],
+    "answer": "Journey with Curiosity",
+    "explanation": "The textbook states that the 'journey with Curiosity' into science continues in Grade 8. (Page 2)"
+  },
+  {
+    "question": "What 'phenomena' depend on fundamental forces?",
+    "options": [
+      "Electricity",
+      "Puri puffing",
+      "Calendars",
+      "Microbes"
+    ],
+    "answer": "Electricity",
+    "explanation": "Electrical phenomena are stated to depend on fundamental forces. (Page 3)"
+  },
+  {
+    "question": "What 'distance' allows liquid water?",
+    "options": [
+      "Perfect distance from the sun",
+      "Distance to the moon",
+      "Distance to the kitchen",
+      "Distance between atoms"
+    ],
+    "answer": "Perfect distance from the sun",
+    "explanation": "Earth's liquid water exists because of its perfect distance from the sun. (Page 5)"
+  },
+  {
+    "question": "What 'cycles' allowed the first calendars?",
+    "options": [
+      "Moon's phases",
+      "Puri's puffing",
+      "Kite flying",
+      "Microbe growth"
+    ],
+    "answer": "Moon's phases",
+    "explanation": "Observations of the moon's phases were critical in creating the first calendars. (Page 4)"
+  },
+  {
+    "question": "What 'tool' is used to see small things?",
+    "options": [
+      "Magnifying glass",
+      "Kite",
+      "Root",
+      "Puri"
+    ],
+    "answer": "Magnifying glass",
+    "explanation": "The cover shows a magnifying glass being used to examine a leaf, representing investigation. (Page 1)"
+  },
+  {
+    "question": "What 'principles' help protect life?",
+    "options": [
+      "Observing, measuring, and experimenting",
+      "Reading and writing",
+      "Cooking and cleaning",
+      "None of the above"
+    ],
+    "answer": "Observing, measuring, and experimenting",
+    "explanation": "These scientific principles are key to protecting the balance of life. (Page 5)"
+  },
+  {
+    "question": "What happens when light rays pass through 'lenses'?",
+    "options": [
+      "They bend",
+      "They stop",
+      "They turn into force",
+      "They become microbes"
+    ],
+    "answer": "They bend",
+    "explanation": "Light rays bend when passing through lenses, which is essential for vision correction. (Page 4)"
+  },
+  {
+    "question": "What 'symbol' is in the top corner of right-hand pages?",
+    "options": [
+      "Kite",
+      "Root",
+      "Puri",
+      "Magnifying glass"
+    ],
+    "answer": "Kite",
+    "explanation": "The kite symbol is located in the top corner of the right-hand pages. (Page 2)"
+  },
+  {
+    "question": "What 'puzzle' is about dough?",
+    "options": [
+      "Why does dough rise?",
+      "How to count dough",
+      "Is dough magnetic?",
+      "Does dough reflect light?"
+    ],
+    "answer": "Why does dough rise?",
+    "explanation": "The rising of dough is used as an example of a real-world puzzle for investigation. (Page 2)"
+  },
+  {
+    "question": "What 'effect' is used for motors?",
+    "options": [
+      "Magnetic effect",
+      "Heating effect",
+      "Puri effect",
+      "Kite effect"
+    ],
+    "answer": "Magnetic effect",
+    "explanation": "Motors use the magnetic effect of electric current to function. (Page 3)"
+  },
+  {
+    "question": "What 'pure substances' are bonded in compounds?",
+    "options": [
+      "Elements",
+      "Mixtures",
+      "Solutions",
+      "Particles"
+    ],
+    "answer": "Elements",
+    "explanation": "Compounds are formed when two or more elements bond together. (Page 4)"
+  },
+  {
+    "question": "What 'observations' are combined for calendars?",
+    "options": [
+      "Sunrises, sunsets, and lunar cycles",
+      "Microbes and sand grains",
+      "Puri puffing and kite flying",
+      "Force and pressure"
+    ],
+    "answer": "Sunrises, sunsets, and lunar cycles",
+    "explanation": "The text explains that calendars result from combining these three celestial observations. (Page 4)"
+  },
+  {
+    "question": "What 'variety' is created by nature?",
+    "options": [
+      "Vast variety",
+      "No variety",
+      "Only two kinds",
+      "Only microbes"
+    ],
+    "answer": "Vast variety",
+    "explanation": "The text highlights the 'vast variety' found in nature's creations. (Page 1)"
+  },
+  {
+    "question": "What 'ground' is solid for investigation?",
+    "options": [
+      "Careful observation",
+      "The classroom",
+      "The Pan",
+      "The Moon"
+    ],
+    "answer": "Careful observation",
+    "explanation": "Investigation is grounded in the solid practice of careful observation. (Page 2)"
+  },
+  {
+    "question": "What 'invisible' things help digestion?",
+    "options": [
+      "Helpers (microbes)",
+      "Forces",
+      "Light rays",
+      "Magnifying glasses"
+    ],
+    "answer": "Helpers (microbes)",
+    "explanation": "Invisible helpers are microbes that assist in the digestive process. (Page 3)"
+  },
+  {
+    "question": "What 'temperature' changes disrupt climate?",
+    "options": [
+      "Small changes in Earth's temperature",
+      "Boiling water temperature",
+      "Kitchen oil temperature",
+      "Moon temperature"
+    ],
+    "answer": "Small changes in Earth's temperature",
+    "explanation": "The text says even small temperature changes on Earth can disrupt climate. (Page 5)"
+  },
+  {
+    "question": "What 'thickness' is mentioned for the dough?",
+    "options": [
+      "Same thickness for circles of dough",
+      "Any thickness",
+      "Variable thickness",
+      "None of the above"
+    ],
+    "answer": "Same thickness for circles of dough",
+    "explanation": "In experiments, using the same thickness for dough circles helps control the variable. (Page 7)"
+  },
+  {
+    "question": "What 'images' are explained by bending of light?",
+    "options": [
+      "Images in a shiny metal spoon",
+      "Images in a kite",
+      "Images in a drop of water",
+      "Images in sand"
+    ],
+    "answer": "Images in a shiny metal spoon",
+    "explanation": "The book uses a shiny spoon to illustrate image formation via light bending. (Page 4)"
+  },
+  {
+    "question": "What 'investigative adventure' starts with microbes?",
+    "options": [
+      "Grade 8 Science",
+      "Grade 6 Wonder",
+      "Grade 7 Evolution",
+      "The History Chapter"
+    ],
+    "answer": "Grade 8 Science",
+    "explanation": "Grade 8 science takes students on an adventure from microbes to planet challenges. (Page 3)"
+  },
+  {
+    "question": "What 'routines' are determined by celestial objects?",
+    "options": [
+      "Daily routines",
+      "Cooking routines",
+      "Microbe routines",
+      "None of the above"
+    ],
+    "answer": "Daily routines",
+    "explanation": "Calendars determine our routines, which are tied to objects like the moon and sun. (Page 4)"
+  },
+  {
+    "question": "What 'notes' should a scientist keep?",
+    "options": [
+      "Notes of everything seen and sensed",
+      "Only mathematical notes",
+      "Only if they have a lab",
+      "Teacher's notes only"
+    ],
+    "answer": "Notes of everything seen and sensed",
+    "explanation": "Recording all observations and sensory details is key for a scientist. (Page 7)"
+  },
+  {
+    "question": "What 'effect' keeps us warm?",
+    "options": [
+      "Heating effect of electric current",
+      "Magnetic effect",
+      "Cooling effect",
+      "The sun's distance only"
+    ],
+    "answer": "Heating effect of electric current",
+    "explanation": "We use the heating effect of electric current to provide warmth. (Page 3)"
+  },
+  {
+    "question": "What 'forces' are distributed?",
+    "options": [
+      "Forces that define pressure",
+      "Forces that define light",
+      "Forces that define microbes",
+      "None of the above"
+    ],
+    "answer": "Forces that define pressure",
+    "explanation": "Pressure is defined by how forces are distributed over an object. (Page 3)"
+  },
+  {
+    "question": "What 'sunlight' is mentioned on page 5?",
+    "options": [
+      "Something life depends on",
+      "Something that causes pressure",
+      "A mixture",
+      "A motor part"
+    ],
+    "answer": "Something life depends on",
+    "explanation": "Life depends on and responds to sunlight as part of an ecosystem. (Page 5)"
+  },
+  {
+    "question": "What 'adventure' is guided by a spirit?",
+    "options": [
+      "Scientific adventure",
+      "Kite adventure",
+      "Cooking adventure",
+      "Moon adventure"
+    ],
+    "answer": "Scientific adventure",
+    "explanation": "The textbook frames the study of science as an investigative adventure. (Page 2)"
+  },
+  {
+    "question": "What 'world' is investigative?",
+    "options": [
+      "World of Science",
+      "World of Kites",
+      "World of Roots",
+      "World of Sand"
+    ],
+    "answer": "World of Science",
+    "explanation": "Chapter 1 is titled 'Exploring the Investigative World of Science'. (Page 1)"
+  },
+  {
+    "question": "What 'tiny particles' make everything?",
+    "options": [
+      "Atoms (implied as 'tiny particles')",
+      "Microbes",
+      "Sand grains",
+      "Maida"
+    ],
+    "answer": "Atoms (implied as 'tiny particles')",
+    "explanation": "The text states 'Everything around us is made of tiny particles'. (Page 4)"
+  },
+  {
+    "question": "What 'challenge' is not easy?",
+    "options": [
+      "Solving difficult planet problems",
+      "Eating a puri",
+      "Frying a batura",
+      "Drawing a root"
+    ],
+    "answer": "Solving difficult planet problems",
+    "explanation": "The book admits that solving global scientific challenges won't always be easy. (Page 5)"
+  },
+  {
+    "question": "What 'observation' is on page 7?",
+    "options": [
+      "Puri puffing and Moon shrinking",
+      "Electricity and sand",
+      "Microbes and water",
+      "None of the above"
+    ],
+    "answer": "Puri puffing and Moon shrinking",
+    "explanation": "Page 7 mentions both puri puffing and the moon's phases as objects of observation. (Page 7)"
+  },
+  {
+    "question": "What 'foundation' is deep and solid?",
+    "options": [
+      "Knowledge (symbolized by the root)",
+      "The Pan",
+      "The Kitchen",
+      "The Atmosphere"
+    ],
+    "answer": "Knowledge (symbolized by the root)",
+    "explanation": "The root symbolises the solid foundation of knowledge. (Page 2)"
+  },
+  {
+    "question": "What 'calendars' came into being?",
+    "options": [
+      "Various calendars",
+      "Only one calendar",
+      "Digital calendars",
+      "Calendars for microbes"
+    ],
+    "answer": "Various calendars",
+    "explanation": "The book notes that 'various calendars' were created by observing celestial cycles. (Page 4)"
+  },
+  {
+    "question": "What 'medicine' is mentioned on page 3?",
+    "options": [
+      "Medicines produced by microbes",
+      "Medicines made of sand",
+      "Medicines for kites",
+      "None of the above"
+    ],
+    "answer": "Medicines produced by microbes",
+    "explanation": "The text states some microbes are used to produce medicines. (Page 3)"
+  },
+  {
+    "question": "What 'forces' make objects speed up?",
+    "options": [
+      "Fundamental forces",
+      "Kitchen forces",
+      "Microbe forces",
+      "None of the above"
+    ],
+    "answer": "Fundamental forces",
+    "explanation": "Fundamental forces are those that change an object's speed or direction. (Page 3)"
+  },
+  {
+    "question": "What 'water' is Liquid on Earth?",
+    "options": [
+      "Water due to perfect distance from Sun",
+      "Water because of the moon",
+      "Water because of sand",
+      "Water because of kites"
+    ],
+    "answer": "Water due to perfect distance from Sun",
+    "explanation": "The liquid state of water is linked to Earth's distance from the sun. (Page 5)"
+  },
+  {
+    "question": "What 'investigator' is 'young'?",
+    "options": [
+      "The student",
+      "The teacher",
+      "The microbe",
+      "The puri"
+    ],
+    "answer": "The student",
+    "explanation": "The book addresses the students as 'young scientists' and 'young investigators'. (Page 1, 2)"
+  },
+  {
+    "question": "What 'kitchen' is a laboratory?",
+    "options": [
+      "Your kitchen at home",
+      "Only a professional kitchen",
+      "The school cafeteria",
+      "None of the above"
+    ],
+    "answer": "Your kitchen at home",
+    "explanation": "The book describes the home kitchen as a wonderful place for experiments. (Page 6)"
+  },
+  {
+    "question": "What 'curiosity' is guide?",
+    "options": [
+      "Curiosity as your guide",
+      "A book as your guide",
+      "A map as your guide",
+      "A kite as your guide"
+    ],
+    "answer": "Curiosity as your guide",
+    "explanation": "The text explicitly tells students to use 'Curiosity as your guide'. (Page 5)"
+  },
+  {
+    "question": "What 'stars' are in our galaxy?",
+    "options": [
+      "More than grains of sand?",
+      "Fewer than grains of sand?",
+      "Exactly one hundred",
+      "None of the above"
+    ],
+    "answer": "More than grains of sand?",
+    "explanation": "This is the open question presented to spark interest on page 1. (Page 1)"
+  },
+  {
+    "question": "What 'particles' move freely?",
+    "options": [
+      "Gases",
+      "Solids",
+      "Elements",
+      "Mixtures"
+    ],
+    "answer": "Gases",
+    "explanation": "Particles in gases are free to move around, unlike those in solids. (Page 4)"
+  },
+  {
+    "question": "What 'notes' help investigation?",
+    "options": [
+      "Notes of what you see and sense",
+      "Notes on history",
+      "No notes needed",
+      "Notes about the moon only"
+    ],
+    "answer": "Notes of what you see and sense",
+    "explanation": "Detailed sensory notes are vital for systematic scientific investigation. (Page 7)"
+  },
+  {
+    "question": "What 'elements' bond?",
+    "options": [
+      "Two or more to form compounds",
+      "Two or more to form mixtures",
+      "None bond",
+      "Only in liquids"
+    ],
+    "answer": "Two or more to form compounds",
+    "explanation": "Compounds are specifically the result of bonded elements. (Page 4)"
+  },
+  {
+    "question": "What 'pressure' leads to wind?",
+    "options": [
+      "Pressure differences",
+      "Constant pressure",
+      "Zero pressure",
+      "Magnetic pressure"
+    ],
+    "answer": "Pressure differences",
+    "explanation": "Differences in air pressure are the driving force behind wind movement. (Page 3)"
+  },
+  {
+    "question": "What 'atmosphere' shields life?",
+    "options": [
+      "Earth's atmosphere",
+      "The Moon's atmosphere",
+      "The Sun's atmosphere",
+      "None of the above"
+    ],
+    "answer": "Earth's atmosphere",
+    "explanation": "The atmosphere of Earth is what provides life-protecting shields. (Page 5)"
+  },
+  {
+    "question": "What 'discovery' was in Grade 6?",
+    "options": [
+      "Science begins with wonder",
+      "Science is about elements",
+      "Science is about the moon",
+      "Science is about kitchens"
+    ],
+    "answer": "Science begins with wonder",
+    "explanation": "The text looks back at Grade 6 as the time science began with wonder. (Page 2)"
+  },
+  {
+    "question": "What 'spoon' shows light bending?",
+    "options": [
+      "Shiny metal spoon",
+      "Wooden spoon",
+      "Plastic spoon",
+      "None of the above"
+    ],
+    "answer": "Shiny metal spoon",
+    "explanation": "A shiny metal spoon is used to observe reflection and light bending. (Page 4)"
+  },
+  {
+    "question": "What 'investigation' is about puris?",
+    "options": [
+      "Systematic investigation",
+      "Guessing",
+      "Only for professional chefs",
+      "None of the above"
+    ],
+    "answer": "Systematic investigation",
+    "explanation": "The text frames the study of a puffing puri as a 'systematic investigation'. (Page 7)"
+  },
+  {
+    "question": "What 'distance' to the Sun is 'perfect'?",
+    "options": [
+      "Earth's distance",
+      "Mars' distance",
+      "The Moon's distance",
+      "Venus' distance"
+    ],
+    "answer": "Earth's distance",
+    "explanation": "Earth's specific distance from the sun makes it habitable for life. (Page 5)"
+  },
+  {
+    "question": "What 'microbes' are unseen?",
+    "options": [
+      "All tiny organisms mentioned",
+      "Only the harmful ones",
+      "Only the helper ones",
+      "None of the above"
+    ],
+    "answer": "All tiny organisms mentioned",
+    "explanation": "Microbes are described as tiny and unseen organisms in a drop of water. (Page 3)"
+  },
+  {
+    "question": "What 'kite' is soaring?",
+    "options": [
+      "The one symbolising curiosity",
+      "The one in a laboratory",
+      "The one in a drop of water",
+      "The one made of maida"
+    ],
+    "answer": "The one symbolising curiosity",
+    "explanation": "The soaring kite is a metaphor for curiosity in the textbook. (Page 2)"
+  },
+  {
+    "question": "What 'principles' help environmental protection?",
+    "options": [
+      "Observing, measuring, experimenting",
+      "Running and jumping",
+      "Counting stars",
+      "Mixing maida"
+    ],
+    "answer": "Observing, measuring, experimenting",
+    "explanation": "Scientific principles are crucial for protecting the environment. (Page 5)"
+  },
+  {
+    "question": "What 'reflection' occurs on the moon?",
+    "options": [
+      "Reflection of light",
+      "Reflection of force",
+      "Reflection of sound",
+      "None of the above"
+    ],
+    "answer": "Reflection of light",
+    "explanation": "The moon is visible because it reflects light from the sun. (Page 4)"
+  },
+  {
+    "question": "What 'world' is the textbook about?",
+    "options": [
+      "Investigative World of Science",
+      "World of Ancient History",
+      "World of Cooking",
+      "World of Kites"
+    ],
+    "answer": "Investigative World of Science",
+    "explanation": "Chapter 1 introduces the students to the investigative world of science. (Page 2)"
+  },
+  {
+    "question": "What 'force' makes balls fall?",
+    "options": [
+      "Fundamental force (gravity)",
+      "Magnetic force",
+      "Kitchen force",
+      "Electric force"
+    ],
+    "answer": "Fundamental force (gravity)",
+    "explanation": "Forces are what explain why a ball falls back down to Earth. (Page 3)"
+  },
+  {
+    "question": "What 'calendars' use lunar cycles?",
+    "options": [
+      "The first calendars",
+      "Digital calendars only",
+      "No calendars",
+      "Modern solar calendars only"
+    ],
+    "answer": "The first calendars",
+    "explanation": "The moon's cycles were the basis for early human calendar systems. (Page 4)"
+  },
+  {
+    "question": "What 'variety' of life forms ecosystems?",
+    "options": [
+      "Vast variety of organisms",
+      "Zero variety",
+      "Only insects",
+      "Only whales"
+    ],
+    "answer": "Vast variety of organisms",
+    "explanation": "The diversity of all life contributes to the formation of ecosystems. (Page 5)"
+  },
+  {
+    "question": "What 'investigation' is systematic?",
+    "options": [
+      "The scientific method",
+      "Reading a kite manual",
+      "Looking at roots",
+      "None of the above"
+    ],
+    "answer": "The scientific method",
+    "explanation": "Systematic investigation is the core process used for scientific study. (Page 7)"
+  }
+]
