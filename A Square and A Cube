@@ -1,0 +1,903 @@
+[
+{
+"id": 1,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "easy",
+"question": "What is the primary condition for a locker to remain open at the end of the 100-person toggling process described in the puzzle?",
+"options": [
+"It must be toggled an even number of times",
+"It must be toggled an odd number of times",
+"It must be toggled exactly once",
+"It must be a prime number locker"
+],
+"answer": "It must be toggled an odd number of times",
+"explanation": "According to the text, if a locker is toggled an odd number of times, it will be open; otherwise, it will be closed. This is because every 'open' action needs a corresponding 'close' action to end up shut. Page No. 2"
+},
+{
+"id": 2,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Why does a locker number like 6 eventually end up closed in the minister's puzzle?",
+"options": [
+"Because 6 is an even number",
+"Because 6 has an even number of factors (1, 2, 3, and 6)",
+"Because 6 is not a prime number",
+"Because 6 was only toggled by Person 1 and Person 6"
+],
+"answer": "Because 6 has an even number of factors (1, 2, 3, and 6)",
+"explanation": "The number of times a locker is toggled equals the number of its factors. Since 6 has four factors (1, 2, 3, 6), it is toggled four times (open-close-open-close), ending up closed. Page No. 2"
+},
+{
+"id": 3,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "What mathematical property ensures that square numbers have an odd number of factors?",
+"options": [
+"Every factor has a distinct partner factor",
+"One factor pair consists of the same number multiplied by itself",
+"They are only divisible by 1 and themselves",
+"They always end in the digit 5"
+],
+"answer": "One factor pair consists of the same number multiplied by itself",
+"explanation": "Factors usually come in pairs. In square numbers, one pair (like 6x6 for 36) consists of the same number, which counts as only one distinct factor, making the total count odd. Page No. 2"
+},
+{
+"id": 4,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "easy",
+"question": "Which of the following numbers would remain open at the end of the locker puzzle?",
+"options": [
+"2",
+"10",
+"25",
+"50"
+],
+"answer": "25",
+"explanation": "The text states that every locker whose number is a square will remain open because only squares have an odd number of factors. 25 is 5 squared. Page No. 2"
+},
+{
+"id": 5,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "If Khoisnam finds a code consisting of the first five locker numbers touched exactly twice, which type of numbers is he looking for?",
+"options": [
+"Perfect squares",
+"Perfect cubes",
+"Prime numbers",
+"Even numbers"
+],
+"answer": "Prime numbers",
+"explanation": "The text explains that lockers toggled exactly twice correspond to prime numbers because they only have two factors: 1 and the number itself. Page No. 3"
+},
+{
+"id": 6,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "easy",
+"question": "What is the passcode to the fortune based on the lockers touched exactly twice?",
+"options": [
+"1-4-9-16-25",
+"2-3-5-7-11",
+"1-2-3-4-5",
+"10-20-30-40-50"
+],
+"answer": "2-3-5-7-11",
+"explanation": "The lockers toggled twice are prime numbers. The first five primes are 2, 3, 5, 7, and 11. Page No. 3"
+},
+{
+"id": 7,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "easy",
+"question": "The area of a square with sidelength 'n' is expressed as:",
+"options": [
+"2n",
+"n + n",
+"n x n",
+"n / n"
+],
+"answer": "n x n",
+"explanation": "The area of a square is the product of its sides, written as n x n or n squared. Page No. 3"
+},
+{
+"id": 8,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "What is the area of a square with a sidelength of 2.5 units?",
+"options": [
+"5.0 sq units",
+"6.25 sq units",
+"6.50 sq units",
+"10.0 sq units"
+],
+"answer": "6.25 sq units",
+"explanation": "The calculation (2.5) x (2.5) results in 6.25. Page No. 3"
+},
+{
+"id": 9,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "easy",
+"question": "What are the squares of natural numbers commonly called?",
+"options": [
+"Odd squares",
+"Perfect squares",
+"Prime squares",
+"Natural roots"
+],
+"answer": "Perfect squares",
+"explanation": "The text defines squares of natural numbers (1, 4, 9, 16...) as perfect squares. Page No. 4"
+},
+{
+"id": 10,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Which of these digits can never be in the units place of a perfect square?",
+"options": [
+"1",
+"5",
+"8",
+"9"
+],
+"answer": "8",
+"explanation": "The text states that perfect squares end with 0, 1, 4, 5, 6, or 9. None of them end with 2, 3, 7, or 8. Page No. 4"
+},
+{
+"id": 11,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "If a number ends with the digit 6, is it always a perfect square?",
+"options": [
+"Yes, always",
+"No, for example 26 ends in 6 but is not a square",
+"Only if it is an even number",
+"Only if the tens digit is also 6"
+],
+"answer": "No, for example 26 ends in 6 but is not a square",
+"explanation": "The units digit can tell us when a number is NOT a square, but ending in 0, 1, 4, 5, 6, or 9 does not guarantee it IS a square. Page No. 4"
+},
+{
+"id": 12,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "If a number has 1 or 9 in its units place, what digit will its square end in?",
+"options": [
+"1",
+"9",
+"8",
+"0"
+],
+"answer": "1",
+"explanation": "The pattern shows that squares like 1 squared, 9 squared (81), 11 squared (121), and 19 squared (361) all end in 1. Page No. 4"
+},
+{
+"id": 13,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Which of these square numbers ends in the digit 6?",
+"options": [
+"38 squared",
+"34 squared",
+"52 squared",
+"82 squared"
+],
+"answer": "34 squared",
+"explanation": "Numbers with 4 or 6 in the units place have squares that end in 6 (e.g., 4 squared = 16, 6 squared = 36). Page No. 4 & 5"
+},
+{
+"id": 14,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "How many zeros will be at the end of the square of a number that ends with three zeros?",
+"options": [
+"Three",
+"Four",
+"Six",
+"Nine"
+],
+"answer": "Six",
+"explanation": "The number of zeros at the end of a square is double the number of zeros at the end of the original number. Page No. 5"
+},
+{
+"id": 15,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Can a perfect square ever end with an odd number of zeros?",
+"options": [
+"Yes, if the number is odd",
+"No, squares can only have an even number of zeros at the end",
+"Only for numbers greater than 1000",
+"Yes, for example 10 squared"
+],
+"answer": "No, squares can only have an even number of zeros at the end",
+"explanation": "The text observes that squares of numbers with one zero have two zeros, and those with two zeros have four zeros, concluding they always have an even count. Page No. 5"
+},
+{
+"id": 16,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "easy",
+"question": "What is the parity of the square of an even number?",
+"options": [
+"Odd",
+"Even",
+"Prime",
+"It depends on the number"
+],
+"answer": "Even",
+"explanation": "The pattern established in the 'Math Talk' and subsequent answers shows that the square of an even number is always even. Page No. 5 & 19"
+},
+{
+"id": 17,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "What do you get if you subtract 16 from 25, or 9 from 16?",
+"options": [
+"A perfect square",
+"A prime number",
+"The next consecutive odd number in a sequence",
+"An even number"
+],
+"answer": "The next consecutive odd number in a sequence",
+"explanation": "The differences between consecutive squares (4-1=3, 9-4=5, 16-9=7...) form a sequence of consecutive odd numbers. Page No. 5"
+},
+{
+"id": 18,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "The sum of the first 'n' odd numbers is equal to:",
+"options": [
+"2n",
+"n + 1",
+"n squared",
+"n cubed"
+],
+"answer": "n squared",
+"explanation": "The text demonstrates that adding consecutive odd numbers starting from 1 (1, 1+3, 1+3+5...) results in consecutive square numbers. Page No. 5 & 6"
+},
+{
+"id": 19,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "How can you determine if 38 is a perfect square using the 'successive subtraction' method?",
+"options": [
+"Subtract even numbers until you hit zero",
+"Subtract consecutive odd numbers starting from 1; if you don't hit exactly zero, it is not a square",
+"Divide by 2 repeatedly",
+"Add 1 until you reach the next square"
+],
+"answer": "Subtract consecutive odd numbers starting from 1; if you don't hit exactly zero, it is not a square",
+"explanation": "Successive subtraction of 1, 3, 5, 7... from 38 leads to 2 and then -11, skipping zero. This proves 38 is not a perfect square. Page No. 6"
+},
+{
+"id": 20,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "To find 36 squared using the value of 35 squared (1225), what number should you add to 1225?",
+"options": [
+"36",
+"71",
+"72",
+"1"
+],
+"answer": "71",
+"explanation": "To get the next square, you add the next odd number in the sequence. The nth odd number is 2n-1. For n=36, 2(36)-1 = 71. Page No. 6"
+},
+{
+"id": 21,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "How many non-square numbers lie between the perfect squares p and q (where p and q are consecutive squares)?",
+"options": [
+"p + q",
+"q - p",
+"q - p - 1",
+"Square root of q"
+],
+"answer": "q - p - 1",
+"explanation": "The answer key in the PDF states that for successive perfect squares p and q, there are (q - p - 1) numbers between them. Page No. 20"
+},
+{
+"id": 22,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Which of the following is a 'triangular number' as shown in the visual patterns?",
+"options": [
+"2",
+"4",
+"6",
+"8"
+],
+"answer": "6",
+"explanation": "Triangular numbers are shown as 1, 3, 6, 10, 15... representing dots arranged in a triangle. Page No. 7"
+},
+{
+"id": 23,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "What happens when you add two consecutive triangular numbers?",
+"options": [
+"You get a prime number",
+"You get a perfect square",
+"You get a perfect cube",
+"You get a negative number"
+],
+"answer": "You get a perfect square",
+"explanation": "The illustrations show that 1+3=4 (2 squared), 3+6=9 (3 squared), and 6+10=16 (4 squared). Page No. 7"
+},
+{
+"id": 24,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "easy",
+"question": "If the area of a square is 49 sq. cm, what is its square root?",
+"options": [
+"49",
+"14",
+"7",
+"9.8"
+],
+"answer": "7",
+"explanation": "Square root is the inverse of squaring. Since 7 x 7 = 49, the square root of 49 is 7. Page No. 7"
+},
+{
+"id": 25,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "How many integer square roots does every perfect square (like 64) have?",
+"options": [
+"One (positive only)",
+"One (negative only)",
+"Two (one positive and one negative)",
+"Infinite"
+],
+"answer": "Two (one positive and one negative)",
+"explanation": "The text notes that both 8 x 8 and (-8) x (-8) equal 64, so the roots are +8 and -8. Page No. 8"
+},
+{
+"id": 26,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "Why can we definitely say that 327 is not a perfect square just by looking at it?",
+"options": [
+"It is an odd number",
+"It ends in the digit 7",
+"It is greater than 300",
+"It is not divisible by 3"
+],
+"answer": "It ends in the digit 7",
+"explanation": "Perfect squares can only end in 0, 1, 4, 5, 6, or 9. Numbers ending in 2, 3, 7, or 8 are definitely not squares. Page No. 8"
+},
+{
+"id": 27,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "If you perform successive subtraction of odd numbers from 81 and reach 0 at the 9th step, what is the square root of 81?",
+"options": [
+"81",
+"18",
+"9",
+"0"
+],
+"answer": "9",
+"explanation": "The number of steps taken to reach zero during successive subtraction of odd numbers is the square root. Page No. 8"
+},
+{
+"id": 28,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "How does prime factorization help determine if a number is a perfect square?",
+"options": [
+"All factors must be prime",
+"The factors can be divided into two equal groups",
+"The sum of factors must be even",
+"The number must have only two factors"
+],
+"answer": "The factors can be divided into two equal groups",
+"explanation": "If the prime factors of a number can be split into two identical groups, their product is the square root. Page No. 9"
+},
+{
+"id": 29,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Using prime factorization, why is 156 not a perfect square?",
+"options": [
+"It is too small",
+"Its factors (2, 2, 3, 13) cannot be paired up equally",
+"It is an even number",
+"It ends in 6"
+],
+"answer": "Its factors (2, 2, 3, 13) cannot be paired up equally",
+"explanation": "For 156, the factors 3 and 13 do not have pairs, so it cannot be a perfect square. Page No. 9"
+},
+{
+"id": 30,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "To estimate the square root of 1936, we find it is between 1600 and 2500. This means the root is between:",
+"options": [
+"30 and 40",
+"40 and 50",
+"50 and 60",
+"16 and 25"
+],
+"answer": "40 and 50",
+"explanation": "Since 40 squared is 1600 and 50 squared is 2500, and 1936 lies between these, its root must be between 40 and 50. Page No. 9"
+},
+{
+"id": 31,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "In the estimation of the square root of 1936, since the number ends in 6, what are the two possible last digits for the root?",
+"options": [
+"2 or 8",
+"4 or 6",
+"1 or 9",
+"0 or 5"
+],
+"answer": "4 or 6",
+"explanation": "Squares ending in 6 must have roots ending in either 4 (4x4=16) or 6 (6x6=36). Page No. 9"
+},
+{
+"id": 32,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Bijou estimates the square root of 250 to be approximately 16 because:",
+"options": [
+"16 x 16 is exactly 250",
+"16 squared (256) is closer to 250 than 15 squared (225)",
+"16 is half of 32",
+"250 ends in 0"
+],
+"answer": "16 squared (256) is closer to 250 than 15 squared (225)",
+"explanation": "Estimation involves finding the nearest perfect square. 256 is only 6 away from 250, while 225 is 25 away. Page No. 10"
+},
+{
+"id": 33,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Akhil has a 125 sq cm cloth. What is the side length of the largest square handkerchief with an integer side he can cut?",
+"options": [
+"12 cm",
+"11 cm",
+"10 cm",
+"15 cm"
+],
+"answer": "11 cm",
+"explanation": "11 squared is 121, which is less than 125. 12 squared is 144, which is too large. Page No. 10"
+},
+{
+"id": 34,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Which of these numbers is NOT a perfect square according to Figure it Out Question 1?",
+"options": [
+"1089",
+"2032",
+"441",
+"100"
+],
+"answer": "2032",
+"explanation": "2032 ends in 2. Perfect squares never end in 2. Page No. 10 & 20"
+},
+{
+"id": 35,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "What is the smallest square number divisible by 4, 9, and 10?",
+"options": [
+"180",
+"360",
+"900",
+"100"
+],
+"answer": "900",
+"explanation": "Based on the answer key, the smallest square number divisible by all three is 900. Page No. 20"
+},
+{
+"id": 36,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "easy",
+"question": "A perfect cube is obtained by multiplying a number by itself how many times?",
+"options": [
+"Two",
+"Three",
+"Four",
+"Ten"
+],
+"answer": "Three",
+"explanation": "The text defines a cube as a number multiplied by itself three times (n x n x n). Page No. 12"
+},
+{
+"id": 37,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Why is 9 NOT a perfect cube?",
+"options": [
+"It is an odd number",
+"2 cubed is 8 and 3 cubed is 27, so there is no integer whose cube is 9",
+"It is a perfect square",
+"It only has two factors"
+],
+"answer": "2 cubed is 8 and 3 cubed is 27, so there is no integer whose cube is 9",
+"explanation": "Perfect cubes skip from 8 to 27; there is no whole number that results in 9 when cubed. Page No. 12"
+},
+{
+"id": 38,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "How many unit cubes make up a larger cube with an edge length of 4 units?",
+"options": [
+"16",
+"48",
+"64",
+"12"
+],
+"answer": "64",
+"explanation": "The volume or total unit cubes is 4 x 4 x 4 = 64. Page No. 12"
+},
+{
+"id": 39,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Can a perfect cube end with exactly two zeros?",
+"options": [
+"Yes, like 100",
+"No, cubes of numbers with zeros will have zeros in multiples of three",
+"Only if the number being cubed is even",
+"Yes, but only for numbers over 1000"
+],
+"answer": "No, cubes of numbers with zeros will have zeros in multiples of three",
+"explanation": "As noted in the 'Math Talk' and answer key, a cube cannot end in just two zeros; it must be 3, 6, etc. Page No. 13 & 21"
+},
+{
+"id": 40,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "What is unique about the 'Hardy-Ramanujan Number' 1729?",
+"options": [
+"It is the largest known prime",
+"It is the smallest number expressible as the sum of two cubes in two different ways",
+"It is the square of 41.5",
+"It was the license plate of Ramanujan's car"
+],
+"answer": "It is the smallest number expressible as the sum of two cubes in two different ways",
+"explanation": "Ramanujan pointed out that 1729 = 1 cubed + 12 cubed AND 9 cubed + 10 cubed. Page No. 13"
+},
+{
+"id": 41,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Which of these is a 'Taxicab Number' mentioned in the text?",
+"options": [
+"1729",
+"4104",
+"13832",
+"All of the above"
+],
+"answer": "All of the above",
+"explanation": "The text lists 1729, 4104, and 13832 as examples of taxicab numbers. Page No. 13"
+},
+{
+"id": 42,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "The sum of the consecutive odd numbers 7, 9, and 11 equals:",
+"options": [
+"27 (which is 3 cubed)",
+"25 (which is 5 squared)",
+"30",
+"9"
+],
+"answer": "27 (which is 3 cubed)",
+"explanation": "The text shows a pattern where groups of consecutive odd numbers add up to consecutive cubes. Page No. 14"
+},
+{
+"id": 43,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "How can you check if 3375 is a perfect cube using prime factorization?",
+"options": [
+"Check if digits add up to 9",
+"Check if prime factors can be grouped into triplets (sets of three)",
+"Check if it is divisible by 5",
+"Check if it ends in an odd number"
+],
+"answer": "Check if prime factors can be grouped into triplets (sets of three)",
+"explanation": "For a perfect cube, every prime factor must appear three times (or a multiple of three). Page No. 14"
+},
+{
+"id": 44,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Why is 500 NOT a perfect cube according to prime factorization?",
+"options": [
+"It is too large",
+"Its factors (2, 2, 5, 5, 5) cannot be split into three identical groups",
+"It ends in zeros",
+"It is an even number"
+],
+"answer": "Its factors (2, 2, 5, 5, 5) cannot be split into three identical groups",
+"explanation": "500 has three 5s but only two 2s, so it lacks a third 2 to form a complete triplet. Page No. 14"
+},
+{
+"id": 45,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "When looking at 'Successive Differences' for perfect squares, at which level do the differences become the same?",
+"options": [
+"Level 1",
+"Level 2",
+"Level 3",
+"They never become the same"
+],
+"answer": "Level 2",
+"explanation": "The diagram shows Level 1 differences are odd numbers, and Level 2 differences are all '2'. Page No. 15"
+},
+{
+"id": 46,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Who compiled the first known list of perfect squares and cubes around 1700 BCE?",
+"options": [
+"Aryabhata",
+"The Babylonians",
+"Ramanujan",
+"Brahmagupta"
+],
+"answer": "The Babylonians",
+"explanation": "The 'Pinch of History' section credits the Babylonians with using clay tablets for these lists. Page No. 15"
+},
+{
+"id": 47,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "In ancient Sanskrit, what does the term 'varga' refer to?",
+"options": [
+"A cube",
+"A square figure or its area",
+"A prime number",
+"A square root"
+],
+"answer": "A square figure or its area",
+"explanation": "The text explains that 'varga' was used for square figures, their area, and the square power. Page No. 16"
+},
+{
+"id": 48,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "What Sanskrit word, meaning 'root of a plant', was used for mathematical roots?",
+"options": [
+"Ghana",
+"Pada",
+"Mula",
+"Varga"
+],
+"answer": "Mula",
+"explanation": "The word 'mula' means root/basis and was used for taking mathematical roots. Page No. 16"
+},
+{
+"id": 49,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "If 1331 is a perfect cube, what is its cube root without using factorization?",
+"options": [
+"10",
+"11",
+"21",
+"12"
+],
+"answer": "11",
+"explanation": "Based on the patterns and Figure it Out answers, the cube root of 1331 is 11. Page No. 16 & 22"
+},
+{
+"id": 50,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "In the 'Square Pairs' puzzle, what is the goal when arranging numbers 1 to 17?",
+"options": [
+"To make the sum of all numbers a square",
+"To make the sum of every adjacent pair a square",
+"To ensure no prime numbers are next to each other",
+"To put all squares in the middle"
+],
+"answer": "To make the sum of every adjacent pair a square",
+"explanation": "The puzzle requires arranging numbers so that any two neighboring numbers add up to a square (e.g., 3+6=9). Page No. 18"
+},
+{
+"id": 51,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "easy",
+"question": "What is the square of 15?",
+"options": [
+"200",
+"225",
+"250",
+"125"
+],
+"answer": "225",
+"explanation": "15 multiplied by 15 equals 225. Page No. 4"
+},
+{
+"id": 52,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "easy",
+"question": "What is the cube of 5?",
+"options": [
+"15",
+"25",
+"125",
+"50"
+],
+"answer": "125",
+"explanation": "5 x 5 x 5 = 125. Page No. 12"
+},
+{
+"id": 53,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Which of these is the correct prime factorization of 324?",
+"options": [
+"2 x 2 x 3 x 3 x 3 x 3",
+"2 x 2 x 2 x 3 x 3 x 3",
+"2 x 3 x 3 x 3 x 3 x 3",
+"2 x 2 x 2 x 2 x 3 x 3"
+],
+"answer": "2 x 2 x 3 x 3 x 3 x 3",
+"explanation": "The text shows 324 = (2x3x3) squared, which expands to two 2s and four 3s. Page No. 9"
+},
+{
+"id": 54,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "easy",
+"subject": "Mathematics",
+"question": "What is the cube root of 64?",
+"options": [
+"8",
+"4",
+"16",
+"2"
+],
+"answer": "4",
+"explanation": "Since 4 x 4 x 4 = 64, the cube root of 64 is 4. Page No. 14"
+},
+{
+"id": 55,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "What is the sum of the first 4 odd numbers?",
+"options": [
+"4",
+"8",
+"12",
+"16"
+],
+"answer": "16",
+"explanation": "1 + 3 + 5 + 7 = 16, which is 4 squared. Page No. 5"
+},
+{
+"id": 56,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "If a number has 5 in the units place, what will its square end in?",
+"options": [
+"0",
+"5",
+"25",
+"55"
+],
+"answer": "5",
+"explanation": "The units place of the square of any number ending in 5 will always be 5. Page No. 4"
+},
+{
+"id": 57,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Which digit is at the units place for the square of 29?",
+"options": [
+"9",
+"1",
+"8",
+"7"
+],
+"answer": "1",
+"explanation": "Any number ending in 9 has a square that ends in 1 (9x9=81). Page No. 4"
+},
+{
+"id": 58,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "easy",
+"question": "How many factors does the number 1 have?",
+"options": [
+"1",
+"2",
+"0",
+"Infinite"
+],
+"answer": "1",
+"explanation": "As shown in the locker factors chart, 1 is the only factor of 1. Page No. 2"
+},
+{
+"id": 59,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "medium",
+"question": "Which of these square numbers has 4 at its units place?",
+"options": [
+"12 squared",
+"18 squared",
+"22 squared",
+"All of the above"
+],
+"answer": "All of the above",
+"explanation": "Numbers ending in 2 or 8 have squares ending in 4 (2x2=4, 8x8=64). Page No. 4"
+},
+{
+"id": 60,
+"subject": "Mathematics",
+"chapter": "A Square and A Cube",
+"difficulty": "hard",
+"question": "What is the cube root of 27000?",
+"options": [
+"300",
+"30",
+"27",
+"3"
+],
+"answer": "30",
+"explanation": "27000 = 27 x 1000. Cube root of 27 is 3, cube root of 1000 is 10. 3 x 10 = 30. Page No. 21"
+}
+]
