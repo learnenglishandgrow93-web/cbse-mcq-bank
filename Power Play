@@ -748,5 +748,1605 @@
     ],
     "answer": "10",
     "explanation": "Page 27 discusses combinations in different contexts including Pincodes. Each digit in a Pincode (0-9) has 10 possible choices."
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the typical waiting time at a traffic signal according to the 'Time in Seconds' table?",
+    "options": [
+      "10^0 seconds",
+      "10^1 seconds",
+      "10^2 seconds",
+      "10^3 seconds"
+    ],
+    "answer": "10^1 seconds",
+    "explanation": "On page 39, the table comparing time to real-world events lists 'Typical waiting time at a traffic signal' under the 10^1 seconds category (10 seconds). This helps students relate mathematical powers to everyday durations.",
+    "page_no": 39
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "If a line of length 2^4 units is halved 5 times, how is the resulting length expressed in exponential form?",
+    "options": [
+      "2^-1",
+      "2^1",
+      "2^9",
+      "2^-5"
+    ],
+    "answer": "2^-1",
+    "explanation": "Page 28 illustrates that halving a line of 2^4 units 5 times results in the calculation 2^4 ÷ 2^5. Using the subtraction rule of exponents (4 - 5), the resulting length is 2^-1 units, which is 1/2 unit.",
+    "page_no": 28
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Which of the following describes the rule (n^a)^b = (n^b)^a = n^(ab) according to the text?",
+    "options": [
+      "The Product Rule",
+      "The Power of a Power Rule",
+      "The Division Rule",
+      "The Zero Exponent Rule"
+    ],
+    "answer": "The Power of a Power Rule",
+    "explanation": "On page 24, the text defines the generalisation (n^a)^b = (n^b)^a = n^(ab) for counting numbers a and b. This rule allows students to simplify complex exponential expressions by multiplying the exponents.",
+    "page_no": 24
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "How many choices of characters are available for each slot in an alphanumeric passcode containing both digits and letters?",
+    "options": [
+      "10",
+      "26",
+      "32",
+      "36"
+    ],
+    "answer": "36",
+    "explanation": "As explained in the answer key on page 37 (referencing Question 11), an alphanumeric passcode uses 26 letters (A-Z) and 10 digits (0-9). This provides a total of 36 character options for each position in the code.",
+    "page_no": 37
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "In the International system of naming large numbers, what is a thousand trillion called?",
+    "options": [
+      "Billion",
+      "Trillion",
+      "Quadrillion",
+      "Quintillion"
+    ],
+    "answer": "Quadrillion",
+    "explanation": "Page 43 explains the International system pattern, stating that a thousand trillion is called a quadrillion. This is expressed in powers of ten as 10^15.",
+    "page_no": 43
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "What is the estimated number of stars in the observable universe mentioned in the PDF?",
+    "options": [
+      "2 × 10^16",
+      "2 × 10^21",
+      "2 × 10^23",
+      "2 × 10^25"
+    ],
+    "answer": "2 × 10^23",
+    "explanation": "On page 38, the text provides data to help visualize scientific notation. It estimates the number of stars in the observable universe to be 2 × 10^23, highlighting the scale of astronomical figures.",
+    "page_no": 38
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "According to the PDF, what is the approximate lifespan of an adult mayfly?",
+    "options": [
+      "About an hour",
+      "About a day",
+      "About a week",
+      "About a month"
+    ],
+    "answer": "About a day",
+    "explanation": "Page 40 provides a list of durations in seconds. It notes that an adult mayfly has a lifespan of 'about a day', which is equivalent to approximately 9 × 10^4 seconds.",
+    "page_no": 40
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the numerical value of 10^-3?",
+    "options": [
+      "1000",
+      "-1000",
+      "0.001",
+      "0.01"
+    ],
+    "answer": "0.001",
+    "explanation": "Page 29 identifies the general form n^-a = 1/n^a. Therefore, 10^-3 is equal to 1/10^3, which is 1/1000 or 0.001.",
+    "page_no": 29
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "The text mentions a specific number of grains of sand on all beaches and deserts. What is this estimate?",
+    "options": [
+      "10^16",
+      "10^21",
+      "10^23",
+      "10^80"
+    ],
+    "answer": "10^21",
+    "explanation": "On page 38, the text states that 10^21 is supposed to be the number of grains of sand on all beaches and deserts on Earth, illustrating the concept of powers of 10 for massive quantities.",
+    "page_no": 38
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "How long does it take for blood to complete one full circulation through the human body?",
+    "options": [
+      "1-2 seconds",
+      "10-20 seconds",
+      "5-10 minutes",
+      "1 hour"
+    ],
+    "answer": "10-20 seconds",
+    "explanation": "According to the table on page 39, the time blood takes to complete one full circulation through the body is 10-20 seconds, represented as (1 × 10^1 – 2 × 10^1 seconds).",
+    "page_no": 39
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "In scientific notation, what is the 'exponent' used to indicate?",
+    "options": [
+      "The value of the first digit",
+      "The number of digits in the number",
+      "The coefficient x",
+      "The units of measurement"
+    ],
+    "answer": "The number of digits in the number",
+    "explanation": "Page 31 explains that in standard form (scientific notation), the exponent explicitly mentions or indicates the number of digits/scale of the quantity.",
+    "page_no": 31
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the equivalent Indian system name for 10^13?",
+    "options": [
+      "Kharab",
+      "Neel",
+      "Padma",
+      "Shankh"
+    ],
+    "answer": "Neel",
+    "explanation": "Page 43 explains the continuation of the Indian naming system, stating that a hundred kharab (10^11 × 10^2) is called a neel (10^13).",
+    "page_no": 43
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "According to the 'Figure it Out' section, what is the units digit in the value of 2^224 ÷ 4^32?",
+    "options": [
+      "2",
+      "4",
+      "6",
+      "8"
+    ],
+    "answer": "6",
+    "explanation": "Based on the calculation on page 35 (Question 1), 2^224 ÷ (2^2)^32 = 2^224 ÷ 2^64 = 2^160. The cycle of units digits for powers of 2 is 2, 4, 8, 6. Since 160 is a multiple of 4, the units digit is 6.",
+    "page_no": 35
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What was the estimated population of Hainan gibbons as of early 2024?",
+    "options": [
+      "2",
+      "42",
+      "242",
+      "3000"
+    ],
+    "answer": "42",
+    "explanation": "On page 37, the text lists populations of various animals to show powers of 10. It states that the population of Hainan gibbons is a meagre 42, which is approximately 4 × 10^1.",
+    "page_no": 37
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "Which mathematician's treatise is mentioned to give a list of 24 terms up to 10^23?",
+    "options": [
+      "Arjuna",
+      "Gautama",
+      "Mahaviracharya",
+      "Kaccayana"
+    ],
+    "answer": "Mahaviracharya",
+    "explanation": "Page 42 mentions that Mahaviracharya gives a list of 24 terms (up to 10^23) in his treatise Ganita-sara-sangraha, showcasing the history of naming large numbers in India.",
+    "page_no": 42
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "How many years are represented by 10^9 seconds?",
+    "options": [
+      "3.17 years",
+      "11.57 years",
+      "31.7 years",
+      "317 years"
+    ],
+    "answer": "31.7 years",
+    "explanation": "Page 40 and 41 describe the rapid growth of powers. It states that 10^9 seconds is approximately 31.7 years, which is about half the life expectancy of a human.",
+    "page_no": 40
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "In the Jaina treatise Amalasiddhi, what is the name for the power of ten 10^96?",
+    "options": [
+      "Asankhyeya",
+      "Dasha-ananta",
+      "Tallakshana",
+      "Sarvajna"
+    ],
+    "answer": "Dasha-ananta",
+    "explanation": "Page 42 notes that the anonymous Jaina treatise Amalasiddhi gives a name for each power of ten up to 10^96, which it calls 'dasha-ananta'.",
+    "page_no": 42
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the result of 2^4 ÷ 2^4?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "4"
+    ],
+    "answer": "1",
+    "explanation": "As defined in the laws of exponents on page 28, any non-zero number raised to the same power divided by itself results in the exponent 0 (2^0). The text proves that 2^0 = 1.",
+    "page_no": 28
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "If you drink a 200 ml glass of water every 10 seconds, how long would it take to finish the entire volume of water on Earth (2 × 10^25 drops)?",
+    "options": [
+      "2.0 × 10^23 seconds",
+      "6.25 × 10^22 seconds",
+      "1.25 × 10^24 seconds",
+      "3.17 × 10^15 seconds"
+    ],
+    "answer": "6.25 × 10^22 seconds",
+    "explanation": "According to the solution provided on page 35 (referencing Question ii on page 34), the calculation based on the volume of Earth's water leads to approximately 6.25 × 10^22 seconds.",
+    "page_no": 35
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the global horse population estimated to be?",
+    "options": [
+      "3.5 crore",
+      "5.8 crore",
+      "50 lakh",
+      "20 crore"
+    ],
+    "answer": "5.8 crore",
+    "explanation": "Page 37 estimates the global horse population at around 5.8 crore (or 58 million), noting that about half of them are in America.",
+    "page_no": 37
+  },
+  {
+    "id": 71,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "How is 4 × 4 × 4 expressed in shorthand notation?",
+    "options": [
+      "3 × 4",
+      "4 × 3",
+      "4^3",
+      "3^4"
+    ],
+    "answer": "4^3",
+    "explanation": "Page 22 explains that repeated multiplication of the same number is expressed as a power. 4 multiplied by itself three times is written as 4^3.",
+    "page_no": 22
+  },
+  {
+    "id": 72,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Based on the 'Magical Pond' triples problem, how many lotuses would be in the pond after 8 days if Damayanti puts 2^4 lotuses in a tripling pond?",
+    "options": [
+      "2^4 × 3^4",
+      "6^4",
+      "2^4 × 3^8",
+      "2^8 × 3^8"
+    ],
+    "answer": "2^4 × 3^4",
+    "explanation": "Page 25 explains that after 4 days of tripling, the initial 2^4 lotuses become 2^4 × 3^4. This is an application of the product of different bases with the same exponent, which equals (2×3)^4 = 6^4.",
+    "page_no": 25
+  },
+  {
+    "id": 73,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the estimated mass of the Earth provided in the text?",
+    "options": [
+      "5.976 × 10^22 kg",
+      "5.976 × 10^24 kg",
+      "5.976 × 10^26 kg",
+      "59.76 × 10^24 kg"
+    ],
+    "answer": "5.976 × 10^24 kg",
+    "explanation": "Page 31 provides the raw number with many zeros. When converted to standard form (scientific notation), the mass of the Earth is approximately 5.976 × 10^24 kg.",
+    "page_no": 31
+  },
+  {
+    "id": 74,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "In the expression 2^10 = 1024, what is the power (exponent)?",
+    "options": [
+      "2",
+      "10",
+      "1024",
+      "v"
+    ],
+    "answer": "10",
+    "explanation": "As defined on page 22, the smaller number written at the top right of the base is the exponent or power. In 2^10, the exponent is 10.",
+    "page_no": 22
+  },
+  {
+    "id": 75,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "According to the PDF, dinosaurs first appeared more than how many years ago?",
+    "options": [
+      "6.6 crore years",
+      "15 million years",
+      "20 crore years",
+      "47 crore years"
+    ],
+    "answer": "20 crore years",
+    "explanation": "On page 41, the text states that dinosaurs first appeared more than 20 crore (200 million) years ago, which is equivalent to approximately 6 × 10^15 seconds.",
+    "page_no": 41
+  },
+  {
+    "id": 76,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the simplified form of (2^2) × (a^2)?",
+    "options": [
+      "(2a)^2",
+      "4a",
+      "2a^2",
+      "4 + a^2"
+    ],
+    "answer": "(2a)^2",
+    "explanation": "Page 30 (Answer Key) and the general rule on page 25 confirm that n^a × m^a = (n×m)^a. Thus, 2^2 × a^2 = (2a)^2.",
+    "page_no": 30
+  },
+  {
+    "id": 77,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "Which animal has an estimated global population of around 1.3 billion?",
+    "options": [
+      "Starlings",
+      "African elephants",
+      "Water buffaloes",
+      "Camels"
+    ],
+    "answer": "Starlings",
+    "explanation": "Page 37 lists starlings as having an estimated global population of around 1.3 arab or 1.3 billion, highlighting large populations in nature.",
+    "page_no": 37
+  },
+  {
+    "id": 78,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "How many seconds are in 10^2 minutes?",
+    "options": [
+      "100 seconds",
+      "600 seconds",
+      "6000 seconds",
+      "1.6 seconds"
+    ],
+    "answer": "6000 seconds",
+    "explanation": "A minute is 60 seconds. Therefore, 10^2 minutes (100 minutes) equals 100 × 60 = 6000 seconds. The book notes on page 39 that 10^2 seconds is roughly 1.6 minutes.",
+    "page_no": 39
+  },
+  {
+    "id": 79,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "What is the name for the number 10^18 in the American/International system?",
+    "options": [
+      "Quadrillion",
+      "Quintillion",
+      "Sextillion",
+      "Septillion"
+    ],
+    "answer": "Quintillion",
+    "explanation": "On page 43, the naming pattern for large numbers is listed. Following quadrillion (10^15), the next power (10^18) is named quintillion.",
+    "page_no": 43
+  },
+  {
+    "id": 80,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "In the story 'The Stones that Shine', how many silver keys does each basket have?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Seven"
+    ],
+    "answer": "Three",
+    "explanation": "The riddle on page 23 explicitly states: 'Each basket had three silver keys'. This sets up the base-3 exponential growth used in the problem.",
+    "page_no": 23
+  },
+  {
+    "id": 81,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the numerical value of (-3)^2 × (-5)^2?",
+    "options": [
+      "225",
+      "-225",
+      "30",
+      "150"
+    ],
+    "answer": "225",
+    "explanation": "Page 31 provides the answer for this calculation. (-3)^2 = 9 and (-5)^2 = 25. 9 × 25 = 225. Because the exponents are even, the negative bases become positive.",
+    "page_no": 31
+  },
+  {
+    "id": 82,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "How long ago did plants on land start to appear according to the PDF?",
+    "options": [
+      "66 million years ago",
+      "470 million years ago",
+      "3.7 billion years ago",
+      "13.8 billion years ago"
+    ],
+    "answer": "470 million years ago",
+    "explanation": "Page 42 mentions that plants on land started 47 crore or 470 million years ago, which is approximately the magnitude of 10^16 seconds.",
+    "page_no": 42
+  },
+  {
+    "id": 83,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the base for the number names used in the Lalitavistara?",
+    "options": [
+      "Bases like ten (dasa)",
+      "Bases like hundred (sata)",
+      "Bases like sahassa (thousand) and koti (ten million)",
+      "Bases like million and billion"
+    ],
+    "answer": "Bases like sahassa (thousand) and koti (ten million)",
+    "explanation": "Page 43 explains that ancient texts like the Lalitavistara used bases like sahassa (thousand) and koti (ten million) to express very high powers of ten.",
+    "page_no": 43
+  },
+  {
+    "id": 84,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Which is greater: 100^2 or 2^100?",
+    "options": [
+      "100^2",
+      "2^100",
+      "They are equal",
+      "Cannot be determined"
+    ],
+    "answer": "2^100",
+    "explanation": "Page 36 (Answer Key) addresses this comparison. 100^2 is 10,000, while 2^100 is an astronomical number (approx 1.26 × 10^30), illustrating how exponential growth far exceeds base growth.",
+    "page_no": 36
+  },
+  {
+    "id": 85,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "What is the orbital period of Halley’s comet in seconds?",
+    "options": [
+      "≈ 2.4 × 10^7 seconds",
+      "≈ 2.4 × 10^9 seconds",
+      "≈ 2.4 × 10^11 seconds",
+      "≈ 2.4 × 10^12 seconds"
+    ],
+    "answer": "≈ 2.4 × 10^9 seconds",
+    "explanation": "Page 40 provides time facts in scientific notation. It states that the orbital period of Halley’s comet (75–79 years) is approximately 2.4 × 10^9 seconds.",
+    "page_no": 40
+  },
+  {
+    "id": 86,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "How many digits are in an Indian Pincode?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "10"
+    ],
+    "answer": "6",
+    "explanation": "Page 27 mentions Pincode examples like Vidisha (464001) and Zemabawk (796017). Both examples consist of 6 digits.",
+    "page_no": 27
+  },
+  {
+    "id": 87,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Simplify the expression p^3 × p^-10.",
+    "options": [
+      "p^7",
+      "p^-7",
+      "p^-13",
+      "p^30"
+    ],
+    "answer": "p^-7",
+    "explanation": "Using the product rule n^a × n^b = n^(a+b) found on page 24, we add the exponents: 3 + (-10) = -7. Thus, the simplified form is p^-7 or 1/p^7.",
+    "page_no": 32
+  },
+  {
+    "id": 88,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "According to the PDF, how long would it take to count all the stars in the universe if one star is counted every second?",
+    "options": [
+      "2.0 × 10^21 seconds",
+      "2.0 × 10^23 seconds",
+      "8.2 × 10^9 seconds",
+      "10^18 seconds"
+    ],
+    "answer": "2.0 × 10^23 seconds",
+    "explanation": "On page 35, the solution to the 'stars counting' problem (Question i from page 34) is given as 2.0 × 10^23 seconds, based on the estimated number of stars provided on page 38.",
+    "page_no": 35
+  },
+  {
+    "id": 89,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "In the phrase 'n raised to the power 3', what is another common name for this operation?",
+    "options": [
+      "n tripled",
+      "n squared",
+      "n cubed",
+      "n third"
+    ],
+    "answer": "n cubed",
+    "explanation": "Page 22 notes that n × n × n = n^3, which is commonly read as 'n cubed' or 'n raised to the power 3'.",
+    "page_no": 22
+  },
+  {
+    "id": 90,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the estimated mosquito population worldwide as of 2023?",
+    "options": [
+      "110 trillion (1.1 × 10^14)",
+      "500 trillion (5 × 10^14)",
+      "1 quadrillion (1 × 10^15)",
+      "20 quadrillion (2 × 10^16)"
+    ],
+    "answer": "110 trillion (1.1 × 10^14)",
+    "explanation": "Page 38 lists the estimated mosquito population worldwide for 2023 as 11 neel or 110 trillion, written in scientific notation as 1.1 × 10^14.",
+    "page_no": 38
+  },
+  {
+    "id": 91,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "If you have lived for 10^12 seconds, approximately how old are you in years?",
+    "options": [
+      "3,170 years",
+      "31,700 years",
+      "317,000 years",
+      "3.17 million years"
+    ],
+    "answer": "31,700 years",
+    "explanation": "On page 41, the text shows that 10^12 seconds is approximately 31,700 years. This magnitude is related to the appearance of early Homo sapiens.",
+    "page_no": 41
+  },
+  {
+    "id": 92,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the sign used to indicate 'approximately equal to' in the book?",
+    "options": [
+      "=",
+      "≈",
+      "≡",
+      "~"
+    ],
+    "answer": "≈",
+    "explanation": "Page 20 explicitly defines the sign '≈' as used to indicate 'approximately equal to' throughout the tables and calculations in the chapter.",
+    "page_no": 20
+  },
+  {
+    "id": 93,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Express 72 in scientific notation.",
+    "options": [
+      "7.2 × 10^1",
+      "0.72 × 10^2",
+      "72 × 10^0",
+      "7.2 × 10^2"
+    ],
+    "answer": "7.2 × 10^1",
+    "explanation": "Scientific notation requires a number between 1 and 10. For 72, we move the decimal one place to the left, giving 7.2 × 10^1.",
+    "page_no": 31
+  },
+  {
+    "id": 94,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "How many seconds would it take for the Sun to make one complete trip around the Milky Way?",
+    "options": [
+      "≈ 1.7 × 10^15 seconds",
+      "≈ 6 × 10^15 seconds",
+      "≈ 7 × 10^15 seconds",
+      "≈ 2 × 10^15 seconds"
+    ],
+    "answer": "≈ 7 × 10^15 seconds",
+    "explanation": "Page 41 lists the time for the Sun to make one trip around the Milky Way as about 23 crore years, which is approximately 7 × 10^15 seconds.",
+    "page_no": 41
+  },
+  {
+    "id": 95,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the equivalent value of (1.2)^2?",
+    "options": [
+      "1.44",
+      "14.4",
+      "144",
+      "0.144"
+    ],
+    "answer": "1.44",
+    "explanation": "Page 36 (Answer Key) provides the calculation for (1.2)^2. Since 12^2 = 144, squaring 1.2 involves two decimal places, resulting in 1.44.",
+    "page_no": 36
+  },
+  {
+    "id": 96,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "Which digit is placed first in the coefficient of a number written in scientific form?",
+    "options": [
+      "The last non-zero digit",
+      "The first non-zero digit",
+      "Any digit from 1 to 9",
+      "A zero if it's a decimal"
+    ],
+    "answer": "The first non-zero digit",
+    "explanation": "Page 32 notes that the most important part of scientific form is the exponent and the first digit of the coefficient, emphasizing its role in defining scale.",
+    "page_no": 32
+  },
+  {
+    "id": 97,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the distance between the Sun and the Earth in scientific notation?",
+    "options": [
+      "1.4335 × 10^12 m",
+      "1.439 × 10^12 m",
+      "1.496 × 10^11 m",
+      "1.496 × 10^12 m"
+    ],
+    "answer": "1.496 × 10^11 m",
+    "explanation": "On page 32, the book provides distances in the solar system. The distance between the Sun and Earth is given as 1,49,60,00,00,000 m, which is 1.496 × 10^11 m.",
+    "page_no": 32
+  },
+  {
+    "id": 98,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "If a diary plans to produce 8.5 billion packets of milk, how many digits should a unique ID code consist of using digits 0-9?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": "10",
+    "explanation": "According to the solution on page 37, since 10^9 is only 1 billion, we need 10^10 (which is 10 billion) to cover 8.5 billion packets. Therefore, at least 10 digits are required.",
+    "page_no": 37
+  },
+  {
+    "id": 99,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the name for 10^15 in the American/International system?",
+    "options": [
+      "Trillion",
+      "Quadrillion",
+      "Quintillion",
+      "Sextillion"
+    ],
+    "answer": "Quadrillion",
+    "explanation": "Page 43 lists the names for powers of ten. 10^15 is identified as a quadrillion in the International system.",
+    "page_no": 43
+  },
+  {
+    "id": 100,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "How much time is spent sleeping in a year on average, according to the PDF?",
+    "options": [
+      "About 1 month",
+      "About 2 months",
+      "About 4 months",
+      "About 6 months"
+    ],
+    "answer": "About 4 months",
+    "explanation": "Page 40 includes life duration facts. It estimates that the time spent sleeping in a year is 'about 4 months', which is categorized under 10^7 seconds.",
+    "page_no": 40
+  },
+  {
+    "id": 101,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Which of these numbers is the same as 6^10?",
+    "options": [
+      "2^4 × 3^6",
+      "6^4 × 3^2",
+      "18^2 × 6^2",
+      "None of these"
+    ],
+    "answer": "None of these",
+    "explanation": "On page 36 (Answer Key for Q7), the text states that 2^4 × 3^6, 6^4 × 3^2, and 18^2 × 6^2 are all the same number, but none of them are equal to 6^10.",
+    "page_no": 36
+  },
+  {
+    "id": 102,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "According to the 'Power Play' intro, if you fold a paper 46 times, its thickness reaches more than how many kilometers?",
+    "options": [
+      "7,000 km",
+      "70,000 km",
+      "7,00,000 km",
+      "7,000,000 km"
+    ],
+    "answer": "7,00,000 km",
+    "explanation": "On page 21, the text clarifies the result of folding a paper 46 times, stating it would be more than 7,00,000 km (roughly twice the distance to the Moon).",
+    "page_no": 21
+  },
+  {
+    "id": 103,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What was the highest numerical value banknote ever printed?",
+    "options": [
+      "100 Trillion Dollars",
+      "1 Sextillion Pengő",
+      "2000 Rupees",
+      "1 Arab Lira"
+    ],
+    "answer": "1 Sextillion Pengő",
+    "explanation": "Page 43 mentions that the highest numerical value banknote ever printed was a special note valued 1 sextillion pengő (10^21) in Hungary in 1946.",
+    "page_no": 43
+  },
+  {
+    "id": 104,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "According to the PDF, how long ago did bacteria first appear?",
+    "options": [
+      "200 million years ago",
+      "470 million years ago",
+      "3.7 billion years ago",
+      "4.5 billion years ago"
+    ],
+    "answer": "3.7 billion years ago",
+    "explanation": "On page 42, it is noted that the oldest fossil evidence suggests bacteria first appeared about 3.7 billion years ago, which is in the magnitude of 10^17 seconds.",
+    "page_no": 42
+  },
+  {
+    "id": 105,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "How many days are in 10^5 seconds?",
+    "options": [
+      "≈ 1.16 days",
+      "≈ 11.57 days",
+      "≈ 31.7 days",
+      "≈ 115.7 days"
+    ],
+    "answer": "≈ 1.16 days",
+    "explanation": "Page 40 provides a conversion for 10^5 seconds, showing it is approximately equal to 1.16 days. This helps relate short powers to calendar time.",
+    "page_no": 40
+  },
+  {
+    "id": 106,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the typical lifespan of most dogs in seconds?",
+    "options": [
+      "10^7 seconds",
+      "10^8 seconds",
+      "10^9 seconds",
+      "10^10 seconds"
+    ],
+    "answer": "10^8 seconds",
+    "explanation": "Page 40 categorizes dog lifespans (3 to 15 years) under the 10^8 seconds magnitude (where 10^8 seconds ≈ 3.17 years).",
+    "page_no": 40
+  },
+  {
+    "id": 107,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "If a flock of starlings contains 10,000 birds, how many such flocks would represent the global population?",
+    "options": [
+      "1.3 × 10^3 flocks",
+      "1.3 × 10^5 flocks",
+      "1.3 × 10^7 flocks",
+      "1.3 × 10^9 flocks"
+    ],
+    "answer": "1.3 × 10^5 flocks",
+    "explanation": "Based on page 34 (Question ii) and the solution on page 35, the global starling population (1.3 billion) divided by 10^4 per flock equals 1.3 × 10^5 flocks.",
+    "page_no": 35
+  },
+  {
+    "id": 108,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What was the estimated age of the Himalayas according to the text?",
+    "options": [
+      "15 million years",
+      "55 million years",
+      "200 million years",
+      "470 million years"
+    ],
+    "answer": "55 million years",
+    "explanation": "Page 41 lists the age of the Himalayas as 5.5 crore or 55 million years, which is approximately 1.7 × 10^15 seconds.",
+    "page_no": 41
+  },
+  {
+    "id": 109,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "Which power of ten was referred to as 'dasa sata sahassa' in ancient texts?",
+    "options": [
+      "10^3",
+      "10^4",
+      "10^5",
+      "10^6"
+    ],
+    "answer": "10^6",
+    "explanation": "Page 43 explains that 'prayuta' (10^6) would be called 'dasa sata sahassa' (ten hundred thousand) in ancient Buddhist and Jaina texts.",
+    "page_no": 43
+  },
+  {
+    "id": 110,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Calculate the total number of leaves on all trees in the world if there are 3 × 10^12 trees and each has 10^4 leaves.",
+    "options": [
+      "3 × 10^8 leaves",
+      "3 × 10^16 leaves",
+      "3 × 10^48 leaves",
+      "30 trillion leaves"
+    ],
+    "answer": "3 × 10^16 leaves",
+    "explanation": "Using the data from page 38 (number of trees) and the prompt on page 34 (Question iii), we multiply 3 × 10^12 by 10^4 to get 3 × 10^16 total leaves.",
+    "page_no": 34
+  },
+  {
+    "id": 111,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the age of the oldest known living tree in seconds?",
+    "options": [
+      "≈ 1.57 × 10^9 seconds",
+      "≈ 1.57 × 10^11 seconds",
+      "≈ 1.57 × 10^13 seconds",
+      "≈ 1.57 × 10^15 seconds"
+    ],
+    "answer": "≈ 1.57 × 10^11 seconds",
+    "explanation": "Page 41 lists the age of the oldest known living tree (about 5000 years) as approximately 1.57 × 10^11 seconds.",
+    "page_no": 41
+  },
+  {
+    "id": 112,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What does 'n squared' represent mathematically?",
+    "options": [
+      "n × 2",
+      "n + n",
+      "n × n",
+      "n ÷ 2"
+    ],
+    "answer": "n × n",
+    "explanation": "Page 21 defines square numbers, noting that n × n is written as n^2 and read as 'n squared'.",
+    "page_no": 21
+  },
+  {
+    "id": 113,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Which power of ten describes the estimated number of atoms in the universe?",
+    "options": [
+      "10^21 to 10^25",
+      "10^40 to 10^50",
+      "10^78 to 10^82",
+      "10^100 to 10^1000"
+    ],
+    "answer": "10^78 to 10^82",
+    "explanation": "On page 43, the text notes that the estimated number of atoms in the universe is a staggering 10^78 to 10^82.",
+    "page_no": 43
+  },
+  {
+    "id": 114,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the time taken by light to reach the Earth from the Sun in standard scientific notation?",
+    "options": [
+      "4.8 × 10^2 seconds",
+      "5.0 × 10^2 seconds",
+      "8.0 × 10^2 seconds",
+      "1.6 × 10^1 seconds"
+    ],
+    "answer": "5.0 × 10^2 seconds",
+    "explanation": "Page 39 lists the time for light to reach Earth from the Sun as about 8 minutes, which is approximately 500 seconds or 5.0 × 10^2 seconds.",
+    "page_no": 39
+  },
+  {
+    "id": 115,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the name for 10^21 in the American/International system?",
+    "options": [
+      "Quadrillion",
+      "Quintillion",
+      "Sextillion",
+      "Septillion"
+    ],
+    "answer": "Sextillion",
+    "explanation": "Page 43 lists names for powers of ten. 10^21 is identified as a sextillion in the International system.",
+    "page_no": 43
+  },
+  {
+    "id": 116,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "How long would it take to digest a meal in seconds, according to the provided range?",
+    "options": [
+      "7200 - 14400 seconds",
+      "3600 - 7200 seconds",
+      "10^3 seconds",
+      "10^5 seconds"
+    ],
+    "answer": "7200 - 14400 seconds",
+    "explanation": "Page 40 states it takes 2-4 hours to digest a meal. Since 1 hour = 3600 seconds, the range is 2×3600 (7200) to 4×3600 (14400) seconds.",
+    "page_no": 40
+  },
+  {
+    "id": 117,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the equivalent value of (0.12)^2?",
+    "options": [
+      "0.0144",
+      "0.144",
+      "1.44",
+      "14.4"
+    ],
+    "answer": "0.0144",
+    "explanation": "Based on the answer key for Question 6 on page 36, (0.12)^2 is 0.0144. Squaring two decimal places results in four decimal places in the answer.",
+    "page_no": 36
+  },
+  {
+    "id": 118,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "In the expression 4^3, what does the number 3 tell you to do?",
+    "options": [
+      "Add 4 three times",
+      "Multiply 4 by 3",
+      "Multiply 4 by itself three times",
+      "Divide 4 by 3"
+    ],
+    "answer": "Multiply 4 by itself three times",
+    "explanation": "Page 22 defines exponential notation, where the exponent (3) indicates how many times the base (4) is multiplied by itself.",
+    "page_no": 22
+  },
+  {
+    "id": 119,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Which of these populations is estimated to be approximately 50 neel or 500 trillion?",
+    "options": [
+      "Mosquitoes",
+      "Antarctic krill",
+      "Beetles",
+      "Earthworms"
+    ],
+    "answer": "Antarctic krill",
+    "explanation": "On page 38, the text estimates the population of the Antarctic krill stands at 50 neel or 500 trillion (5 × 10^14).",
+    "page_no": 38
+  },
+  {
+    "id": 120,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What was the estimated population of African elephants as of 2018?",
+    "options": [
+      "42",
+      "242",
+      "4.15 lakh",
+      "50 lakh"
+    ],
+    "answer": "4.15 lakh",
+    "explanation": "Page 37 lists animal populations. It states that as of 2018, there are around 4.15 lakh African elephants (approx 4 × 10^5).",
+    "page_no": 37
+  },
+  {
+    "id": 121,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "Which power of ten represents a 'Million' in the International system?",
+    "options": [
+      "10^3",
+      "10^6",
+      "10^9",
+      "10^12"
+    ],
+    "answer": "10^6",
+    "explanation": "Page 43 shows the naming conventions. In the International system, a thousand thousand is called a million, which is 10^6.",
+    "page_no": 43
+  },
+  {
+    "id": 122,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "According to the PDF, how long does a satellite in a low Earth orbit take to complete one full revolution?",
+    "options": [
+      "Between 10 and 20 seconds",
+      "About 8 minutes",
+      "Between 90 minutes and 2 hours",
+      "About 24 hours"
+    ],
+    "answer": "Between 90 minutes and 2 hours",
+    "explanation": "On page 40, the text states that satellites in low Earth orbits take between 90 minutes and 2 hours to complete one full revolution.",
+    "page_no": 40
+  },
+  {
+    "id": 123,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the numerical value of 7^2 × 2^3?",
+    "options": [
+      "98",
+      "196",
+      "392",
+      "784"
+    ],
+    "answer": "392",
+    "explanation": "Page 31 provides the answer for this expression. 7^2 is 49 and 2^3 is 8. 49 × 8 = 392.",
+    "page_no": 31
+  },
+  {
+    "id": 124,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "Which name corresponds to the power 10^11 in the modern Indian system?",
+    "options": [
+      "Arab",
+      "Kharab",
+      "Neel",
+      "Padma"
+    ],
+    "answer": "Kharab",
+    "explanation": "Page 43 details the Indian naming system. A hundred arab is called a kharab, which is 10^9 × 10^2 = 10^11.",
+    "page_no": 43
+  },
+  {
+    "id": 125,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "In the 'Stones that Shine' riddle, what is the total number of silver keys in all baskets?",
+    "options": [
+      "3^1",
+      "3^2",
+      "3^3",
+      "3^4"
+    ],
+    "answer": "3^3",
+    "explanation": "There are 3 daughters, each with 3 baskets, and each basket has 3 keys. Thus, total keys = 3 × 3 × 3 = 3^3 (or 27). This calculation starts the chain in the page 23 riddle.",
+    "page_no": 23
+  },
+  {
+    "id": 126,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "How many days are in 4840 days in years (roughly)?",
+    "options": [
+      "11 years",
+      "13 years",
+      "15 years",
+      "17 years"
+    ],
+    "answer": "13 years",
+    "explanation": "On page 39, Roxie says she is 13 years old and also says she is 4840 days old today. 4840 / 365 is approximately 13.26.",
+    "page_no": 39
+  },
+  {
+    "id": 127,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the name for 10^33 in the American/International system?",
+    "options": [
+      "Octillion",
+      "Nonillion",
+      "Decillion",
+      "Centillion"
+    ],
+    "answer": "Decillion",
+    "explanation": "Page 43 lists the International system names up to very high powers. 10^33 is identified as a decillion.",
+    "page_no": 43
+  },
+  {
+    "id": 128,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "According to the PDF, how long ago did early Homo sapiens first appear?",
+    "options": [
+      "1.3 million years ago",
+      "15 million years ago",
+      "2-3 lakh years ago",
+      "55 million years ago"
+    ],
+    "answer": "2-3 lakh years ago",
+    "explanation": "On page 41, the text states that early Homo sapiens first appeared 2–3 lakh years ago, which is approximately the magnitude of 10^12 seconds.",
+    "page_no": 41
+  },
+  {
+    "id": 129,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the numerical value of 2 × 10^3?",
+    "options": [
+      "20",
+      "200",
+      "2000",
+      "20000"
+    ],
+    "answer": "2000",
+    "explanation": "Page 31 provides the answer for this expression. 10^3 is 1000. Therefore, 2 × 1000 = 2000.",
+    "page_no": 31
+  },
+  {
+    "id": 130,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the deepest point in the oceans, according to the book?",
+    "options": [
+      "Burj Khalifa",
+      "Mariana Trench",
+      "Mount Everest",
+      "Dead Sea"
+    ],
+    "answer": "Mariana Trench",
+    "explanation": "Page 20 mentions the Mariana Trench as the deepest point in the oceans, with a depth of 11 km.",
+    "page_no": 20
+  },
+  {
+    "id": 131,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "What is the estimated beetle population worldwide according to the PDF?",
+    "options": [
+      "10^12",
+      "10^14",
+      "10^15",
+      "10^16"
+    ],
+    "answer": "10^15",
+    "explanation": "On page 38, the text notes that an estimate of the beetle population stands at 1 padma or 1 quadrillion, which is 1 × 10^15.",
+    "page_no": 38
+  },
+  {
+    "id": 132,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "How many seconds are in 1.16 days?",
+    "options": [
+      "10^4 seconds",
+      "10^5 seconds",
+      "10^6 seconds",
+      "10^7 seconds"
+    ],
+    "answer": "10^5 seconds",
+    "explanation": "Page 40 provides the magnitude for 1.16 days as 10^5 seconds. This is calculated as 1.16 × 24 × 3600.",
+    "page_no": 40
+  },
+  {
+    "id": 133,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "Which name corresponds to the power 10^15 in the modern Indian system?",
+    "options": [
+      "Neel",
+      "Padma",
+      "Shankh",
+      "Kharab"
+    ],
+    "answer": "Padma",
+    "explanation": "Page 43 explains the Indian naming system. A hundred neel is called a padma, which is 10^13 × 10^2 = 10^15.",
+    "page_no": 43
+  },
+  {
+    "id": 134,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "The text mentions the Steppe Mammoth. When did it appear?",
+    "options": [
+      "2-3 lakh years ago",
+      "8-18 lakh years ago",
+      "15 million years ago",
+      "66 million years ago"
+    ],
+    "answer": "8-18 lakh years ago",
+    "explanation": "On page 41, the text states that the Steppe Mammoth is estimated to have appeared around 8–18 lakh years ago, which is in the 10^13 seconds magnitude.",
+    "page_no": 41
+  },
+  {
+    "id": 135,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the numerical value of (120)^2?",
+    "options": [
+      "144",
+      "1440",
+      "14400",
+      "144000"
+    ],
+    "answer": "14400",
+    "explanation": "Based on the answer key for Question 6 on page 36, (120)^2 is 14400. This is calculated as 120 × 120.",
+    "page_no": 36
+  },
+  {
+    "id": 136,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is a 'fortnight' as mentioned in the text?",
+    "options": [
+      "One week",
+      "Two weeks",
+      "One month",
+      "One year"
+    ],
+    "answer": "Two weeks",
+    "explanation": "Page 41 notes that 10^6 seconds (approx 11.57 days) is 'less than a fortnight', implying a fortnight is longer, which is the standard definition of two weeks.",
+    "page_no": 41
+  },
+  {
+    "id": 137,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "If you drink a glass of water every 10 seconds, how long would it take to finish the volume of water on Earth in years?",
+    "options": [
+      "≈ 2 trillion years",
+      "≈ 1.25 × 10^12 years",
+      "≈ 31.7 years",
+      "≈ 2 × 10^15 years"
+    ],
+    "answer": "≈ 2 trillion years",
+    "explanation": "On page 35, the solution for the 'drinking water' problem (6.25 × 10^22 seconds) converts to approximately 2 trillion years, showing the immense volume of Earth's water.",
+    "page_no": 35
+  },
+  {
+    "id": 138,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What was the estimated population of American alligators as of 2025?",
+    "options": [
+      "4.15 lakh",
+      "50 lakh",
+      "2.5 lakh",
+      "20 crore"
+    ],
+    "answer": "50 lakh",
+    "explanation": "Page 37 lists the estimated population of American alligators as of 2025 as 50 lakh or 5 million (5 × 10^6).",
+    "page_no": 37
+  },
+  {
+    "id": 139,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the name for 10^27 in the American/International system?",
+    "options": [
+      "Sextillion",
+      "Septillion",
+      "Octillion",
+      "Nonillion"
+    ],
+    "answer": "Octillion",
+    "explanation": "Page 43 lists names for powers of ten. 10^27 is identified as an octillion in the International system.",
+    "page_no": 43
+  },
+  {
+    "id": 140,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "How long ago did the Milky Way galaxy form?",
+    "options": [
+      "4.5 billion years ago",
+      "13.6 billion years ago",
+      "13.8 billion years ago",
+      "3.7 billion years ago"
+    ],
+    "answer": "13.6 billion years ago",
+    "explanation": "On page 42, the text states that the Milky Way galaxy was formed 13.6 billion years ago, which is near the magnitude of 10^17-10^18 seconds.",
+    "page_no": 42
+  },
+  {
+    "id": 141,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the numerical value of (0.012)^2?",
+    "options": [
+      "0.000144",
+      "0.00144",
+      "0.0144",
+      "0.144"
+    ],
+    "answer": "0.000144",
+    "explanation": "Based on page 36 (Answer Key), (0.012)^2 is 0.000144. Squaring three decimal places results in six decimal places in the final answer.",
+    "page_no": 36
+  },
+  {
+    "id": 142,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "In standard form, what is 3.5 crore written as?",
+    "options": [
+      "3.5 × 10^5",
+      "3.5 × 10^6",
+      "3.5 × 10^7",
+      "3.5 × 10^8"
+    ],
+    "answer": "3.5 × 10^7",
+    "explanation": "A crore is 10^7. Therefore, 3.5 crore is written in scientific notation as 3.5 × 10^7.",
+    "page_no": 37
+  },
+  {
+    "id": 143,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "What is the name for 10^17 in the modern Indian system?",
+    "options": [
+      "Neel",
+      "Padma",
+      "Shankh",
+      "Maha shankh"
+    ],
+    "answer": "Shankh",
+    "explanation": "Page 43 details the Indian naming system. A hundred padma is called a shankh, which is 10^15 × 10^2 = 10^17.",
+    "page_no": 43
+  },
+  {
+    "id": 144,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Which is greater: 4^3 or 3^4?",
+    "options": [
+      "4^3",
+      "3^4",
+      "They are equal",
+      "Cannot be determined"
+    ],
+    "answer": "3^4",
+    "explanation": "Based on page 36 (Answer Key), 3^4 (81) is greater than 4^3 (64). Calculating each power confirms the larger value.",
+    "page_no": 36
+  },
+  {
+    "id": 145,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the name for 10^30 in the American/International system?",
+    "options": [
+      "Octillion",
+      "Nonillion",
+      "Decillion",
+      "Centillion"
+    ],
+    "answer": "Nonillion",
+    "explanation": "Page 43 lists names for powers of ten. 10^30 is identified as a nonillion in the International system.",
+    "page_no": 43
+  },
+  {
+    "id": 146,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "According to the PDF, how long ago did dinosaurs go extinct?",
+    "options": [
+      "15 million years ago",
+      "55 million years ago",
+      "6.6 crore years ago",
+      "20 crore years ago"
+    ],
+    "answer": "6.6 crore years ago",
+    "explanation": "On page 41, the text states that dinosaurs went extinct 6.6 crore (66 million) years ago, which is approximately the magnitude of 2 × 10^15 seconds.",
+    "page_no": 41
+  },
+  {
+    "id": 147,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the result of (13^-2)^-3 in exponential form?",
+    "options": [
+      "13^-5",
+      "13^6",
+      "13^-6",
+      "13^5"
+    ],
+    "answer": "13^6",
+    "explanation": "Using the power of a power rule (n^a)^b = n^(ab) from page 24, we multiply the exponents: (-2) × (-3) = 6. Thus, the result is 13^6.",
+    "page_no": 36
+  },
+  {
+    "id": 148,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the name for 10^19 in the modern Indian system?",
+    "options": [
+      "Shankh",
+      "Maha shankh",
+      "Padma",
+      "Neel"
+    ],
+    "answer": "Maha shankh",
+    "explanation": "Page 43 details the Indian naming system. A hundred shankh is called a maha shankh, which is 10^17 × 10^2 = 10^19.",
+    "page_no": 43
+  },
+  {
+    "id": 149,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Which of these populations is estimated to be approximately 20 padma or 20 quadrillion?",
+    "options": [
+      "Mosquitoes",
+      "Antarctic krill",
+      "Beetles",
+      "Ants"
+    ],
+    "answer": "Ants",
+    "explanation": "On page 38, the text estimates the population of ants globally to be 20 padma or 20 quadrillion (2 × 10^16).",
+    "page_no": 38
+  },
+  {
+    "id": 150,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "How long would it take to reach the Earth from the Sun for light in minutes (roughly)?",
+    "options": [
+      "1.6 minutes",
+      "8 minutes",
+      "16.6 minutes",
+      "2.7 hours"
+    ],
+    "answer": "8 minutes",
+    "explanation": "Page 39 lists the time for light to reach Earth from the Sun as 'about 8 minutes', which is categorized under 10^2 seconds.",
+    "page_no": 39
   }
 ]
