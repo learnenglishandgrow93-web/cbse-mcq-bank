@@ -2348,5 +2348,806 @@
     "answer": "8 minutes",
     "explanation": "Page 39 lists the time for light to reach Earth from the Sun as 'about 8 minutes', which is categorized under 10^2 seconds.",
     "page_no": 39
+  },
+  {
+    "id": 101,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Using the expanded form described on page 30, how is the number 6374 correctly written using powers of 10?",
+    "options": [
+      "(6 × 10^3) + (3 × 10^2) + (7 × 10^1) + (4 × 10^0)",
+      "(6 × 10^4) + (3 × 10^3) + (7 × 10^2) + (4 × 10^1)",
+      "(6 × 10^2) + (3 × 10^1) + (7 × 10^0) + (4 × 10^-1)",
+      "(6 × 10^3) + (3 × 10^2) + (7 × 10^1) + (4 × 10^1)"
+    ],
+    "answer": "(6 × 10^3) + (3 × 10^2) + (7 × 10^1) + (4 × 10^0)",
+    "explanation": "As per the expanded form method on page 30 and the answer key on page 33, each digit is multiplied by 10 raised to the power of its place value. 6 is in the thousands place (10^3), 3 is in the hundreds (10^2), 7 is in the tens (10^1), and 4 is in the ones (10^0).",
+    "page_no": 33
+  },
+  {
+    "id": 102,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "According to the section 'Getting a Sense for Large Numbers', how many northern white rhinos remained in the world as of mid-2025?",
+    "options": [
+      "2",
+      "42",
+      "242",
+      "3000"
+    ],
+    "answer": "2",
+    "explanation": "Page 36 of the PDF states that as of mid-2025, there are only two northern white rhinos remaining in the world, both of which are females residing in Kenya. This is represented mathematically as 2 × 10^0.",
+    "page_no": 36
+  },
+  {
+    "id": 103,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the prime factorization of 540 in exponential form?",
+    "options": [
+      "2^2 × 3^3 × 5",
+      "2^3 × 3^2 × 5",
+      "2^2 × 3^2 × 5^2",
+      "2 × 3^4 × 5"
+    ],
+    "answer": "2^2 × 3^3 × 5",
+    "explanation": "Based on the answer key for Exercise 2 on page 30, the prime factors of 540 are determined by division. 540 = 2 × 2 × 3 × 3 × 3 × 5, which simplifies to 2^2 × 3^3 × 5^1.",
+    "page_no": 30
+  },
+  {
+    "id": 104,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "In the Buddhist treatise Lalitavistara, which name is given to the power 10^51?",
+    "options": [
+      "Ayuta",
+      "Kankara",
+      "Vibhutangama",
+      "Tallakshana"
+    ],
+    "answer": "Vibhutangama",
+    "explanation": "Page 42 provides a specific list of ancient names for powers of ten. It states that 'hundred sarvajnas' are called a 'vibhutangama', which corresponds to the power 10^51.",
+    "page_no": 42
+  },
+  {
+    "id": 105,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "If you are comparing 2^8 and 8^2, which statement is true?",
+    "options": [
+      "2^8 is greater than 8^2",
+      "8^2 is greater than 2^8",
+      "They are exactly equal",
+      "8^2 is double 2^8"
+    ],
+    "answer": "2^8 is greater than 8^2",
+    "explanation": "According to the comparison on page 36 (Answer 8ii), 2^8 equals 256 while 8^2 equals 64. Therefore, 2^8 is significantly larger than 8^2.",
+    "page_no": 36
+  },
+  {
+    "id": 106,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "Which of the following describes the core difference between linear and exponential growth as stated on page 36?",
+    "options": [
+      "Linear growth is multiplicative, while exponential growth is additive",
+      "Linear growth is subtractive, while exponential growth is divisive",
+      "Linear growth is additive, while exponential growth is multiplicative",
+      "There is no functional difference between the two"
+    ],
+    "answer": "Linear growth is additive, while exponential growth is multiplicative",
+    "explanation": "Page 36 explicitly states that linear growth is additive (a fixed gain after each step), whereas exponential growth is multiplicative (repeated doubling or multiplying).",
+    "page_no": 36
+  },
+  {
+    "id": 107,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "In the game 'Tremendous in Ten!', why is Roxie’s number 10^13 greater than Estu’s number 999999 × 999999?",
+    "options": [
+      "Estu's number is less than (10^6)^2",
+      "Estu's number is equal to 10^12",
+      "Roxie used more digits",
+      "Estu's number is actually 10^14"
+    ],
+    "answer": "Estu's number is less than (10^6)^2",
+    "explanation": "Page 29 explains Round 1 of the game. Estu wrote 999,999 × 999,999, which is less than 1,000,000 × 1,000,000 (which is 10^12). Since Roxie wrote 10^13, her number is at least 10 times larger than Estu's.",
+    "page_no": 29
+  },
+  {
+    "id": 108,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Simplify the exponential expression 8^p × 8^q.",
+    "options": [
+      "8^(p-q)",
+      "8^(p+q)",
+      "8^(pq)",
+      "64^(p+q)"
+    ],
+    "answer": "8^(p+q)",
+    "explanation": "Using the product rule n^a × n^b = n^(a+b) found on page 24, we apply it to base 8 with exponents p and q. The result is 8 raised to the sum of p and q.",
+    "page_no": 32
+  },
+  {
+    "id": 109,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "Which character in the opening story suggests using thinner paper, like tissue paper, to overcome the folding limit?",
+    "options": [
+      "Estu",
+      "Roxie",
+      "Nanjundappa",
+      "Arjuna"
+    ],
+    "answer": "Roxie",
+    "explanation": "On page 19, in response to Estu's claim about a 7-fold limit, Roxie asks: 'What if we use a thinner paper, like a newspaper or a tissue paper?' This introduces the experimental aspect of the chapter.",
+    "page_no": 19
+  },
+  {
+    "id": 110,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the numerical value of 3^2 × 10^4?",
+    "options": [
+      "900",
+      "9,000",
+      "90,000",
+      "900,000"
+    ],
+    "answer": "90,000",
+    "explanation": "According to the calculation on page 31 (Answer 3v), 3^2 = 9 and 10^4 = 10,000. Multiplying them gives 9 × 10,000 = 90,000.",
+    "page_no": 31
+  },
+  {
+    "id": 111,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "When expressing the population of Kohima (1,42,395) as 'around 1 lakh 42 thousand', how is it written in scientific notation?",
+    "options": [
+      "14.2 × 10^4",
+      "1.42 × 10^5",
+      "0.142 × 10^6",
+      "1.42 × 10^6"
+    ],
+    "answer": "1.42 × 10^5",
+    "explanation": "Page 31 explains that if we are sure of the population up to the thousands place (1,42,000), we move the decimal five places to get 1.42 and multiply by 10^5.",
+    "page_no": 31
+  },
+  {
+    "id": 112,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "If Roxie weighs 45 kg and the cost of jaggery is ₹70/kg, what is the value of the donated jaggery in a Tulabhara offering?",
+    "options": [
+      "₹3050",
+      "₹3150",
+      "₹2500",
+      "₹4500"
+    ],
+    "answer": "₹3150",
+    "explanation": "Page 33 provides this example: Assuming Roxie's weight to be 45 kg and cost per kg to be ₹70, the worth is calculated as 45 × 70 = ₹3150.",
+    "page_no": 33
+  },
+  {
+    "id": 113,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the simplified exponential form of 5^7 ÷ 5^4?",
+    "options": [
+      "5^3",
+      "5^11",
+      "5^28",
+      "1^3"
+    ],
+    "answer": "5^3",
+    "explanation": "Based on the division rule n^a ÷ n^b = n^(a-b) found on page 27 and the exercise answer on page 36, 5^7 ÷ 5^4 = 5^(7-4) = 5^3.",
+    "page_no": 36
+  },
+  {
+    "id": 114,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "In the statement 'Cube numbers are also square numbers', is this always true, sometimes true, or never true?",
+    "options": [
+      "Always True",
+      "Only Sometimes True",
+      "Never True",
+      "Always False"
+    ],
+    "answer": "Only Sometimes True",
+    "explanation": "Page 35 (Answer 4i) explains that this is only sometimes true for numbers that have powers as multiples of 6 (like 2^6 or 64), which can be written both as a cube (4^3) and a square (8^2).",
+    "page_no": 35
+  },
+  {
+    "id": 115,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Using the base-7 power line on page 30, what is the result of 7 / 343 in power form?",
+    "options": [
+      "7^-1",
+      "7^-2",
+      "7^-3",
+      "7^2"
+    ],
+    "answer": "7^-2",
+    "explanation": "As shown in the power line and answer key on page 33, 343 is 7^3. Thus, 7 / 7^3 = 7^(1-3) = 7^-2. This corresponds to the value 1/49.",
+    "page_no": 33
+  },
+  {
+    "id": 126,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "How many options (0 to 9) are available for the first digit of a multi-digit lock?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "Infinite"
+    ],
+    "answer": "10",
+    "explanation": "Page 26 explains combinations for locks, stating that there are 10 options for the first digit (ranging from 0 to 9).",
+    "page_no": 26
+  },
+  {
+    "id": 117,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Simplify the expression 2^-4 × 2^7.",
+    "options": [
+      "2^3",
+      "2^11",
+      "2^-11",
+      "2^-28"
+    ],
+    "answer": "2^3",
+    "explanation": "According to the product rule n^a × n^b = n^(a+b) found on page 24 and the answer key on page 32, we add the exponents: -4 + 7 = 3. The result is 2^3 (or 8).",
+    "page_no": 32
+  },
+  {
+    "id": 118,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "What is the standard form of the number 70,04,00,00,000?",
+    "options": [
+      "7.004 × 10^9",
+      "7.004 × 10^10",
+      "70.04 × 10^9",
+      "7.004 × 10^11"
+    ],
+    "answer": "7.004 × 10^10",
+    "explanation": "As provided in the answer key on page 34, to convert 70,04,00,00,000 to scientific notation, we move the decimal point 10 places to the left, resulting in 7.004 × 10^10.",
+    "page_no": 34
+  },
+  {
+    "id": 119,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "If you are stacking sheets of paper each 0.001 cm thick, how many sheets are needed to reach a height of 1 cm?",
+    "options": [
+      "10",
+      "100",
+      "1000",
+      "10000"
+    ],
+    "answer": "1000",
+    "explanation": "Since each sheet is 0.001 cm, you need 1 / 0.001 = 1000 sheets to reach 1 cm. This relates to the base calculation for paper folding on page 21.",
+    "page_no": 21
+  },
+  {
+    "id": 120,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "According to the population facts on page 37, how many Kakapos were alive as of mid-2025?",
+    "options": [
+      "42",
+      "242",
+      "3000",
+      "17000"
+    ],
+    "answer": "242",
+    "explanation": "Page 37 lists populations to help students internalize powers of ten. It states there are just 242 Kakapo alive as of mid-2025, which is approximately 2 × 10^2.",
+    "page_no": 37
+  },
+  {
+    "id": 121,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Which of these expressions represents a 'shorthand' way to write 0.001 cm × 2 × 2?",
+    "options": [
+      "0.001 × 4",
+      "0.001 × 2^2",
+      "0.001 × 22",
+      "0.001 + 2^2"
+    ],
+    "answer": "0.001 × 2^2",
+    "explanation": "Page 21 explains that repeating the multiplication of 2 can be written as 2^2 in shorthand. This notation is used to describe the thickness of a paper after two folds.",
+    "page_no": 21
+  },
+  {
+    "id": 122,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the deepest point discovered in the oceans, according to page 20, and how deep is it?",
+    "options": [
+      "Mariana Trench, 11 km",
+      "Burj Khalifa, 830 m",
+      "Mount Everest, 8.8 km",
+      "Dead Sea, 400 m"
+    ],
+    "answer": "Mariana Trench, 11 km",
+    "explanation": "On page 20, the text mentions that the deepest point discovered in the oceans is the Mariana Trench, with a depth of 11 km, which is used to compare with paper folding thickness.",
+    "page_no": 20
+  },
+  {
+    "id": 123,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Express 648 as a product of powers of its prime factors.",
+    "options": [
+      "2^3 × 3^4",
+      "2^4 × 3^3",
+      "2^2 × 3^5",
+      "2^5 × 3^2"
+    ],
+    "answer": "2^3 × 3^4",
+    "explanation": "As shown in the answer key on page 30, the prime factorization of 648 is 2 × 2 × 2 × 3 × 3 × 3 × 3, which is written as 2^3 × 3^4.",
+    "page_no": 30
+  },
+  {
+    "id": 124,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Based on the rule (ma × na) = (mn)a on page 25, simplify the value of 2^5 × 5^5.",
+    "options": [
+      "10^5",
+      "10^10",
+      "7^5",
+      "7^10"
+    ],
+    "answer": "10^5",
+    "explanation": "Page 25 explains that when the exponents are the same, we multiply the bases. 2^5 × 5^5 = (2 × 5)^5 = 10^5, which is 1,00,000.",
+    "page_no": 25
+  },
+  {
+    "id": 125,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "In scientific notation x × 10^y, what is the number 'x' called?",
+    "options": [
+      "Exponent",
+      "Coefficient",
+      "Base",
+      "Power"
+    ],
+    "answer": "Coefficient",
+    "explanation": "Page 31 defines the parts of scientific notation, stating that in x × 10^y, x is the coefficient (which must be between 1 and 10).",
+    "page_no": 31
+  },
+  {
+    "id": 126,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "If each tree had about 10^4 leaves, find the total number of leaves on all 3 × 10^12 trees in the world.",
+    "options": [
+      "3 × 10^16",
+      "3 × 10^8",
+      "3.3 × 10^12",
+      "3 × 10^48"
+    ],
+    "answer": "3 × 10^16",
+    "explanation": "According to the calculations suggested on page 34 and solved on page 35, the total number of leaves is found by multiplying (3 × 10^12) by 10^4, resulting in 3 × 10^16.",
+    "page_no": 35
+  },
+  {
+    "id": 127,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Which ancient Jaina treatise contains number-names for every power of ten up to 10^96?",
+    "options": [
+      "Lalitavistara",
+      "Amalasiddhi",
+      "Ganita-sara-sangraha",
+      "Kaccayana"
+    ],
+    "answer": "Amalasiddhi",
+    "explanation": "Page 42 identifies 'Amalasiddhi' as an anonymous Jaina treatise that provides a list with a name for each power of ten up to 10^96, such as 'dasha-ananta'.",
+    "page_no": 42
+  },
+  {
+    "id": 128,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Simplify the expression m^5 n^12 (mn)^9 into exponential form.",
+    "options": [
+      "m^14 n^21",
+      "m^45 n^108",
+      "m^14 n^12",
+      "m^5 n^21"
+    ],
+    "answer": "m^14 n^21",
+    "explanation": "On page 36 (Answer 5v), (mn)^9 is broken down into m^9 n^9. Then, m^5 × m^9 = m^14 and n^12 × n^9 = n^21. The final form is m^14 n^21.",
+    "page_no": 36
+  },
+  {
+    "id": 129,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the time needed to make a cup of tea in seconds, approximately?",
+    "options": [
+      "10^1 seconds",
+      "10^2 seconds",
+      "10^3 seconds",
+      "10^4 seconds"
+    ],
+    "answer": "10^2 seconds",
+    "explanation": "Page 39 classifies real-world events by time magnitude. Making a cup of tea (5–10 minutes) is categorized as approximately 4 × 10^2 – 8 × 10^2 seconds.",
+    "page_no": 39
+  },
+  {
+    "id": 130,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Calculate the thickness of a paper after 17 folds if the starting thickness is 0.001 cm.",
+    "options": [
+      "≈ 1.024 cm",
+      "≈ 65.5 cm",
+      "≈ 131 cm",
+      "≈ 13.1 m"
+    ],
+    "answer": "≈ 131 cm",
+    "explanation": "Page 20 provides a table for thickness after each fold. It explicitly states that after 17 folds, the thickness is about 131 cm, which is a little more than 4 feet.",
+    "page_no": 20
+  },
+  {
+    "id": 131,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the time taken by the Mangalyaan mission to reach Mars in seconds, approximately?",
+    "options": [
+      "2.65 × 10^6",
+      "2.65 × 10^7",
+      "2.65 × 10^8",
+      "2.65 × 10^9"
+    ],
+    "answer": "2.65 × 10^7",
+    "explanation": "Page 40 notes that the Mangalyaan mission reached Mars in 298 days, which is approximately 2.65 × 10^7 seconds.",
+    "page_no": 40
+  },
+  {
+    "id": 132,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "According to page 32, which is the smallest of the three provided distances in the solar system?",
+    "options": [
+      "Distance between Sun and Saturn",
+      "Distance between Saturn and Uranus",
+      "Distance between Sun and Earth",
+      "They are all roughly equal"
+    ],
+    "answer": "Distance between Sun and Earth",
+    "explanation": "Comparing the values on page 32: Sun-Earth (1.496 × 10^11 m), Sun-Saturn (1.4335 × 10^12 m), and Saturn-Uranus (1.439 × 10^12 m). The Sun-Earth distance has a lower exponent and is the smallest.",
+    "page_no": 32
+  },
+  {
+    "id": 133,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "In the International naming system, what follows after Quintillion (10^18)?",
+    "options": [
+      "Sextillion",
+      "Septillion",
+      "Octillion",
+      "Nonillion"
+    ],
+    "answer": "Sextillion",
+    "explanation": "Page 43 lists the pattern for International naming: Million (10^6), Billion (10^9), Trillion (10^12), Quadrillion (10^15), Quintillion (10^18), and then Sextillion (10^21).",
+    "page_no": 43
+  },
+  {
+    "id": 134,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Simplify the expression 9^-7 ÷ 9^4.",
+    "options": [
+      "9^-11",
+      "9^-3",
+      "9^11",
+      "1/9^3"
+    ],
+    "answer": "9^-11",
+    "explanation": "Following the division rule n^a ÷ n^b = n^(a-b) on page 27 and page 36, we subtract: -7 - 4 = -11. The simplified form is 9^-11 or 1/9^11.",
+    "page_no": 36
+  },
+  {
+    "id": 135,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the typical lifespan of most dogs in years as per the text?",
+    "options": [
+      "1 to 5 years",
+      "3 to 15 years",
+      "10 to 20 years",
+      "Around 31.7 years"
+    ],
+    "answer": "3 to 15 years",
+    "explanation": "Page 40 explicitly provides the fact that the typical lifespan of most dogs is 3 to 15 years, used to illustrate durations in the 10^8 seconds range.",
+    "page_no": 40
+  },
+  {
+    "id": 136,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "According to the PDF, a person doing a pādayātra of 400 km would have started their journey approximately how long ago?",
+    "options": [
+      "A few hours ago",
+      "About a day ago",
+      "A few weeks ago",
+      "Several months ago"
+    ],
+    "answer": "A few weeks ago",
+    "explanation": "Page 34 mentions a pādayātra of 400 km. Considering typical walking speeds discussed in the context of estimations, a 400 km journey would take approximately 15-20 days (a few weeks).",
+    "page_no": 34
+  },
+  {
+    "id": 137,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the approximate distance around the Earth (circumnavigation distance) as given on page 35?",
+    "options": [
+      "4,000 km",
+      "40,000 km",
+      "4,00,000 km",
+      "4,00,00,000 km"
+    ],
+    "answer": "40,000 km",
+    "explanation": "On page 35, the book asks how many times a person can circumnavigate the Earth and provides the distance around the Earth as approximately 40,000 km.",
+    "page_no": 35
+  },
+  {
+    "id": 138,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "If you double the thickness of a paper from 0.001 cm, what is the thickness after exactly 4 folds?",
+    "options": [
+      "0.004 cm",
+      "0.008 cm",
+      "0.016 cm",
+      "0.032 cm"
+    ],
+    "answer": "0.016 cm",
+    "explanation": "As shown in the doubling sequence on page 21: initial (0.001) → 1 fold (0.002) → 2 folds (0.004) → 3 folds (0.008) → 4 folds (0.016 cm).",
+    "page_no": 21
+  },
+  {
+    "id": 139,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "Which Jaina treatise gives a name for each power of ten up to 10^23?",
+    "options": [
+      "Lalitavistara",
+      "Ganita-sara-sangraha",
+      "Amalasiddhi",
+      "Kaccayana"
+    ],
+    "answer": "Ganita-sara-sangraha",
+    "explanation": "Page 42 notes that Mahaviracharya gives a list of 24 terms (up to 10^23) in his treatise named Ganita-sara-sangraha.",
+    "page_no": 42
+  },
+  {
+    "id": 140,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Using the base-4 power line on page 29, what is the value of 4 raised to the power -1?",
+    "options": [
+      "1/4",
+      "1/16",
+      "4",
+      "-4"
+    ],
+    "answer": "1/4",
+    "explanation": "The diagram on page 29 shows the power line for base 4. It explicitly labels the position for 4^-1 with the value 1/4.",
+    "page_no": 29
+  },
+  {
+    "id": 141,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the highest denomination of currency currently mentioned for India in the text?",
+    "options": [
+      "500 rupees",
+      "1000 rupees",
+      "2000 rupees",
+      "5000 rupees"
+    ],
+    "answer": "2000 rupees",
+    "explanation": "Page 43 mentions that the currency note with the highest denomination in India currently (at the time of the text's publication context) is 2000 rupees.",
+    "page_no": 43
+  },
+  {
+    "id": 142,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "According to the 'Power Lines' diagram, what is the result of dividing 4^8 by 4^3?",
+    "options": [
+      "4^5 (1024)",
+      "4^11 (4194304)",
+      "4^5 (65536)",
+      "4^24"
+    ],
+    "answer": "4^5 (1024)",
+    "explanation": "As shown on the page 29 diagram, 4^8 ÷ 4^3 = 4^(8-3) = 4^5. The value for 4^5 on the center line is marked as 1024.",
+    "page_no": 29
+  },
+  {
+    "id": 143,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "In the prime factors calculation for 32400, how many times does the factor '3' appear?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4",
+    "explanation": "The prime factorization tree and calculation on page 22 show that 32400 = 2^4 × 5^2 × 3^4. This means the factor 3 appears four times.",
+    "page_no": 22
+  },
+  {
+    "id": 144,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "What is the estimated earthworm population mentioned in the text?",
+    "options": [
+      "10^12",
+      "10^14",
+      "10^15",
+      "10^16"
+    ],
+    "answer": "10^15",
+    "explanation": "On page 38, the text provides an estimate of the earthworm population as 1 padma or 1 quadrillion, which is written as 1 × 10^15.",
+    "page_no": 38
+  },
+  {
+    "id": 145,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "What is the abbreviation 'm' used to represent in numbers like Burj Khalifa's height (830 m)?",
+    "options": [
+      "Miles",
+      "Meters",
+      "Millimeters",
+      "Millions"
+    ],
+    "answer": "Meters",
+    "explanation": "In the context of architectural heights and depths on page 20, 'm' stands for meters, the standard unit for length and height.",
+    "page_no": 20
+  },
+  {
+    "id": 146,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "According to page 41, when did dinosaurs first appear compared to when they went extinct?",
+    "options": [
+      "First appeared 20 crore years ago; went extinct 6.6 crore years ago",
+      "First appeared 6.6 crore years ago; went extinct 20 crore years ago",
+      "First appeared 15 million years ago; went extinct 1 million years ago",
+      "They appeared and went extinct in the same era"
+    ],
+    "answer": "First appeared 20 crore years ago; went extinct 6.6 crore years ago",
+    "explanation": "Page 41 provides the timeline: dinosaurs first appeared more than 20 crore (200 million) years ago and went extinct 6.6 crore (66 million) years ago.",
+    "page_no": 41
+  },
+  {
+    "id": 147,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "What is the numerical value of 7^2 × 2^3 as given in the exercises?",
+    "options": [
+      "392",
+      "196",
+      "49",
+      "512"
+    ],
+    "answer": "392",
+    "explanation": "On page 31 (Answer 3ii), the calculation is 49 × 8 = 392. This helps students practice combined exponential operations.",
+    "page_no": 31
+  },
+  {
+    "id": 148,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "hard",
+    "question": "In the International naming system, what power of ten represents a 'Sextillion'?",
+    "options": [
+      "10^15",
+      "10^18",
+      "10^21",
+      "10^24"
+    ],
+    "answer": "10^21",
+    "explanation": "The table on page 43 lists the progression of names. Sextillion is given as the name for the power 10^21.",
+    "page_no": 43
+  },
+  {
+    "id": 149,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "easy",
+    "question": "Which letter-number is used on page 22 to represent the initial thickness of a sheet of paper?",
+    "options": [
+      "x",
+      "n",
+      "v",
+      "p"
+    ],
+    "answer": "v",
+    "explanation": "On page 22, the question asks which expression describes thickness after 10 folds and identifies that the initial thickness is represented by the letter-number 'v'.",
+    "page_no": 22
+  },
+  {
+    "id": 150,
+    "subject": "Mathematics",
+    "chapter": "Power Play",
+    "difficulty": "medium",
+    "question": "Simplify the expression 2^4 × (-4)^-2.",
+    "options": [
+      "1",
+      "-1",
+      "16",
+      "1/16"
+    ],
+    "answer": "1",
+    "explanation": "Based on the answer key for Exercise 5iv on page 32: 2^4 = 16 and (-4)^-2 = 1/(-4)^2 = 1/16. 16 × (1/16) = 1.",
+    "page_no": 32
   }
 ]
+
