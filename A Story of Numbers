@@ -1,0 +1,977 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "easy",
+    "question": "According to the text, in which region did a civilization flourish around 4000 years ago that used strange symbols for numbers?",
+    "options": [
+      "Mesopotamia",
+      "Egypt",
+      "Maya",
+      "China"
+    ],
+    "answer": "Mesopotamia",
+    "explanation": "The text describes Reema finding symbols from Mesopotamia, a civilization that existed 4000 years ago in Western Asia. This region covers much of present-day Iraq and neighboring countries. (Page 48)"
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "easy",
+    "question": "Which modern-day country contains a major part of the ancient region of Mesopotamia?",
+    "options": [
+      "India",
+      "Iraq",
+      "Egypt",
+      "Australia"
+    ],
+    "answer": "Iraq",
+    "explanation": "The introductory section explains that Mesopotamia was located in the western part of Asia. It specifically mentions that it contained a major part of present-day Iraq. (Page 48)"
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "During the Stone Age, humans needed to count for which of the following primary reasons?",
+    "options": [
+      "To perform complex calculus",
+      "To determine quantities of food and livestock",
+      "To measure the speed of light",
+      "To calculate the area of their caves"
+    ],
+    "answer": "To determine quantities of food and livestock",
+    "explanation": "Humans in the Stone Age needed to track food quantities, livestock numbers, and trades. They also used counting for rituals and predicting events like the new moon or seasons. (Page 49)"
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "easy",
+    "question": "According to the PDF, which country is the origin of the structure of modern oral and written numbers?",
+    "options": [
+      "Greece",
+      "Arabia",
+      "India",
+      "Italy"
+    ],
+    "answer": "India",
+    "explanation": "The text explicitly states that the structure of modern oral and written numbers used today had its origin thousands of years ago in India. These systems were developed and then spread globally. (Page 49)"
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Which ancient Indian text mentions names for numbers based on powers of 10, such as 'eka', 'dasha', and 'shata'?",
+    "options": [
+      "Rigveda",
+      "Yajurveda Samhita",
+      "Aryabhatiya",
+      "Bakhshali Manuscript"
+    ],
+    "answer": "Yajurveda Samhita",
+    "explanation": "The Yajurveda Samhita is cited as an ancient text that listed number names based on powers of 10. It included names for one (eka), ten (dasha), hundred (shata), and beyond. (Page 49)"
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "In ancient Indian texts, what was the specific name given to the number 'ten thousand'?",
+    "options": [
+      "Sahasra",
+      "Shata",
+      "Ayuta",
+      "Eka"
+    ],
+    "answer": "Ayuta",
+    "explanation": "The text provides a list of ancient Indian number names where 'sahasra' means thousand and 'ayuta' means ten thousand. This illustrates the system of powers of 10. (Page 49)"
+  },
+  {
+    "id": 7,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "Up to what power of 10 did ancient Indian texts name numbers?",
+    "options": [
+      "10^5",
+      "10^9",
+      "10^12",
+      "10^20"
+    ],
+    "answer": "10^12",
+    "explanation": "Ancient Indian texts like the Yajurveda Samhita listed names for numbers starting from one all the way up to 10^12 and beyond. This shows a very advanced understanding of large quantities. (Page 49)"
+  },
+  {
+    "id": 8,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "What is the significance of the Bakhshali manuscript (c. 3rd century CE) in the history of mathematics?",
+    "options": [
+      "It is the first text to mention negative numbers",
+      "It contains the first known instance of numbers written using ten digits, including zero",
+      "It was written by Fibonacci to explain Indian numerals",
+      "It contains the first geometric proofs"
+    ],
+    "answer": "It contains the first known instance of numbers written using ten digits, including zero",
+    "explanation": "The Bakhshali manuscript is historical evidence for the Indian system of ten digits. It is noted for containing the first known instance of using the digit zero, which was then represented as a dot. (Page 49)"
+  },
+  {
+    "id": 9,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "How was the digit zero initially notated in the Bakhshali manuscript?",
+    "options": [
+      "As a circle",
+      "As a dot",
+      "As a vertical line",
+      "As a triangle"
+    ],
+    "answer": "As a dot",
+    "explanation": "The text mentions that the digit 0 in the Bakhshali manuscript was notated as a dot. This was part of the early development of the ten-digit system in India. (Page 49)"
+  },
+  {
+    "id": 10,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Which Indian mathematician, around 499 CE, was the first to fully explain and perform elaborate computations with the system of 10 symbols?",
+    "options": [
+      "Brahmagupta",
+      "Aryabhata",
+      "Al-Kindi",
+      "Fibonacci"
+    ],
+    "answer": "Aryabhata",
+    "explanation": "Aryabhata is identified as the first mathematician to fully explain the Indian system of 10 symbols. He used them for elaborate scientific and mathematical computations. (Page 49)"
+  },
+  {
+    "id": 11,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "easy",
+    "question": "By what year was the Indian number system transmitted to the Arab world?",
+    "options": [
+      "300 CE",
+      "499 CE",
+      "800 CE",
+      "1200 CE"
+    ],
+    "answer": "800 CE",
+    "explanation": "The text notes that the Indian number system reached the Arab world around 800 CE. From there, it was popularized by Arab and Persian scholars. (Page 49)"
+  },
+  {
+    "id": 12,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Who is the Persian mathematician after whom the word 'algorithm' is named?",
+    "options": [
+      "Al-Kindi",
+      "Al-Khwarizmi",
+      "Fibonacci",
+      "Aryabhata"
+    ],
+    "answer": "Al-Khwarizmi",
+    "explanation": "Al-Khwarizmi was a great Persian mathematician whose name is the source of the word 'algorithm'. He popularised the Hindu number system through his writings. (Page 49)"
+  },
+  {
+    "id": 13,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "What was the title of Al-Khwarizmi's book written around 825 CE that introduced Hindu numerals to the Arab world?",
+    "options": [
+      "Āryabhaṭīya",
+      "On the Use of the Hindu Numerals",
+      "On the Calculation with Hindu Numerals",
+      "Brahmasphutasiddhanta"
+    ],
+    "answer": "On the Calculation with Hindu Numerals",
+    "explanation": "Al-Khwarizmi wrote 'On the Calculation with Hindu Numerals' around 825 CE. This work was crucial in spreading the Indian system through the Arab world and eventually to Europe. (Page 49)"
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Which noted philosopher wrote the work 'On the Use of the Hindu Numerals' around 830 CE?",
+    "options": [
+      "Al-Kindi",
+      "Al-Khwarizmi",
+      "Fibonacci",
+      "Brahmagupta"
+    ],
+    "answer": "Al-Kindi",
+    "explanation": "Al-Kindi was a philosopher who contributed to the spread of the Indian system. His work 'On the Use of the Hindu Numerals' was published around 830 CE. (Page 49)"
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Around what year were Hindu numerals transmitted to Europe and parts of Africa?",
+    "options": [
+      "800 CE",
+      "1100 CE",
+      "1700 CE",
+      "2000 BCE"
+    ],
+    "answer": "1100 CE",
+    "explanation": "The transmission of Hindu numerals from the Arab world to Europe and Africa happened around 1100 CE. This was a major step in the global adoption of the system. (Page 49)"
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Which Italian mathematician around the year 1200 CE made the case for Europe to adopt Indian numerals?",
+    "options": [
+      "Galileo",
+      "Fibonacci",
+      "Laplace",
+      "Dürer"
+    ],
+    "answer": "Fibonacci",
+    "explanation": "Fibonacci is the Italian mathematician who strongly advocated for the European adoption of the Indian numeral system around 1200 CE. This came after Latin translations of Arab works became available. (Page 49)"
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "Why did Indian numerals take several more centuries to gain widespread use in Europe after Fibonacci's advocacy?",
+    "options": [
+      "The numerals were too difficult to write",
+      "Roman numerals were deeply ingrained in European thinking",
+      "Europe had not yet invented paper",
+      "The system was only used for religious purposes"
+    ],
+    "answer": "Roman numerals were deeply ingrained in European thinking",
+    "explanation": "Even though Fibonacci advocated for the Hindu numerals, European society was so accustomed to Roman numerals that it took centuries to switch. The change finally became necessary during the Renaissance. (Page 49)"
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "By which century did the adoption of the Hindu numeral system in Europe become essential to avoid impeding scientific progress?",
+    "options": [
+      "12th century",
+      "14th century",
+      "17th century",
+      "20th century"
+    ],
+    "answer": "17th century",
+    "explanation": "The text states that by the 17th century, not adopting the Hindu-Arabic system became impossible because it would have hindered scientific advancement. This was part of the broader European Renaissance. (Page 49)"
+  },
+  {
+    "id": 19,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Which famous mathematician and astronomer (1749–1827) described the Indian system as 'ingenious' and 'simple'?",
+    "options": [
+      "Aryabhata",
+      "Al-Kindi",
+      "Pierre-Simon Laplace",
+      "Brahmagupta"
+    ],
+    "answer": "Pierre-Simon Laplace",
+    "explanation": "Pierre-Simon Laplace praised the Indian method of using ten symbols and place value. He noted that its simplicity and profound importance are often under-appreciated today. (Page 50)"
+  },
+  {
+    "id": 20,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Why did European scholars call the Indian numerals 'Arabic numerals'?",
+    "options": [
+      "Because they were invented in Arabia",
+      "Because they learned them from the Arab world",
+      "Because the symbols were written in the Arabic language",
+      "Because the Arabs and Indians invented them together"
+    ],
+    "answer": "Because they learned them from the Arab world",
+    "explanation": "European scholars adopted the term 'Arabic numerals' because their exposure to the system came through contact with Arab scholars. However, Arab scholars themselves called them 'Hindu numerals'. (Page 50)"
+  },
+  {
+    "id": 21,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "According to the text, what does the word 'Hindu' refer to in the context of 'Hindu numerals'?",
+    "options": [
+      "A specific religion",
+      "A geography or people",
+      "A type of ink used",
+      "A mathematical operation"
+    ],
+    "answer": "A geography or people",
+    "explanation": "The text clarifies that 'Hindu' in this context refers to the geographical origin and the people from whom the numbers came, rather than a religious affiliation. (Page 50)"
+  },
+  {
+    "id": 22,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Which of the following terms is NOT listed in the text as a common terminology for the numbers we use today?",
+    "options": [
+      "Hindu numerals",
+      "Indian numerals",
+      "Roman numerals",
+      "Hindu-Arabic numerals"
+    ],
+    "answer": "Roman numerals",
+    "explanation": "The text lists 'Hindu numerals', 'Indian numerals', and 'Hindu-Arabic numerals' as modern terms. Roman numerals are a separate, older system that was eventually replaced. (Page 50)"
+  },
+  {
+    "id": 23,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "Which of these is the earliest stage in the evolution of Indian digits mentioned in the diagram?",
+    "options": [
+      "Brahmi",
+      "Sanskrit-Devanagari",
+      "West Arabic (Gubar)",
+      "15th century"
+    ],
+    "answer": "Brahmi",
+    "explanation": "The diagram on page 50 shows the evolution of digits. The Brahmi script is positioned at the top as the earliest source, followed by Hindu (Gwalior) and Sanskrit-Devanagari. (Page 50)"
+  },
+  {
+    "id": 24,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "What is defined as a 'standard sequence of objects, names, or written symbols that has a fixed order'?",
+    "options": [
+      "A set of numerals",
+      "A landmark number",
+      "A number system",
+      "An algorithm"
+    ],
+    "answer": "A number system",
+    "explanation": "The text defines a number system as a standard sequence used for counting and finding the size of a collection. It requires a fixed order to be effective. (Page 53)"
+  },
+  {
+    "id": 25,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "easy",
+    "question": "What name is given to the symbols occurring in a written number system?",
+    "options": [
+      "Digits",
+      "Numerals",
+      "Integers",
+      "Units"
+    ],
+    "answer": "Numerals",
+    "explanation": "Numerals are defined as the specific symbols used in a written number system to represent quantities. Examples given include 0, 1, 5, 36, and 193. (Page 54)"
+  },
+  {
+    "id": 26,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Which ancient civilization used all three forms of number representation: physical objects, names, and written symbols?",
+    "options": [
+      "Mesopotamian",
+      "Chinese",
+      "Greek",
+      "Mayan"
+    ],
+    "answer": "Chinese",
+    "explanation": "The text notes that while some groups used objects or names, the Chinese civilization utilized all three forms of representation: physical objects, names, and written symbols. (Page 54)"
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "What is 'one-to-one mapping' in the context of the Stone Age counting example?",
+    "options": [
+      "Mapping one cow to two sticks",
+      "Associating each unique object with exactly one marker",
+      "Drawing a map of the grazing land",
+      "Counting cows by their color"
+    ],
+    "answer": "Associating each unique object with exactly one marker",
+    "explanation": "One-to-one mapping involves associating each object (like a cow) with a single marker (like a stick). No two cows are mapped to the same stick, ensuring an accurate count. (Page 52)"
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "easy",
+    "question": "Which group of people in Papua New Guinea still use their hands and body parts as a standard number system?",
+    "options": [
+      "Gumulgal",
+      "Maya",
+      "Indigenous people mentioned in the diagram",
+      "Bushmen"
+    ],
+    "answer": "Indigenous people mentioned in the diagram",
+    "explanation": "The text mentions a group in Papua New Guinea that uses parts of the body, like fingers and shoulders, in a fixed sequence to represent numbers. A diagram shows parts numbered up to 27. (Page 54, 55)"
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "easy",
+    "question": "What is another name for notches cut on surfaces like bone or cave walls to represent numbers?",
+    "options": [
+      "Placeholders",
+      "Tally marks",
+      "Numerals",
+      "Landmark numbers"
+    ],
+    "answer": "Tally marks",
+    "explanation": "Tally marks are defined as one of the oldest methods of representation. They consist of notches cut into surfaces, where each mark represents one object being counted. (Page 55)"
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "Which is the older of the two mathematical artifacts mentioned in the text: the Ishango bone or the Lebombo bone?",
+    "options": [
+      "Ishango bone",
+      "Lebombo bone",
+      "They are the same age",
+      "The text does not specify"
+    ],
+    "answer": "Lebombo bone",
+    "explanation": "The Lebombo bone is estimated to be around 44,000 years old, whereas the Ishango bone dates back 20,000 to 35,000 years. This makes the Lebombo bone the older artifact. (Page 55)"
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Where was the Lebombo bone discovered?",
+    "options": [
+      "Democratic Republic of Congo",
+      "South Africa",
+      "India",
+      "Iraq"
+    ],
+    "answer": "South Africa",
+    "explanation": "The Lebombo bone, a tally stick with 29 notches, was discovered in South Africa. It is considered one of the oldest mathematical artifacts known to man. (Page 55)"
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "The Ishango bone, found in the Democratic Republic of Congo, features notches that might indicate what?",
+    "options": [
+      "A grocery list",
+      "Calendrical systems",
+      "A map of the region",
+      "The name of a chief"
+    ],
+    "answer": "Calendrical systems",
+    "explanation": "Archaeologists believe the notches arranged in columns on the Ishango bone may have served as a tally stick or a lunar calendar system for ancient people. (Page 55)"
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "The Gumulgal people of Australia formed number names by counting in which group size?",
+    "options": [
+      "Twos",
+      "Fives",
+      "Tens",
+      "Sixties"
+    ],
+    "answer": "Twos",
+    "explanation": "The Gumulgal system used names for 1 (urapon) and 2 (ukasar). Higher numbers were formed by combinations of these, effectively counting in twos (e.g., 3 = 2+1). (Page 56)"
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "In the Gumulgal system, how would the number 5 be named?",
+    "options": [
+      "Ukasar-urapon",
+      "Ukasar-ukasar-urapon",
+      "Ukasar-ukasar",
+      "Ras"
+    ],
+    "answer": "Ukasar-ukasar-urapon",
+    "explanation": "Since the Gumulgal counted in 2s, 5 is composed of 2 + 2 + 1. Following their naming convention, this becomes ukasar-ukasar-urapon. (Page 56)"
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "easy",
+    "question": "What word did the Gumulgal people use for any number greater than 6?",
+    "options": [
+      "Ras",
+      "Ukasar",
+      "Urapon",
+      "Tokale"
+    ],
+    "answer": "Ras",
+    "explanation": "The Gumulgal number names only went up to 6 (ukasar-ukasar-ukasar). Any quantity greater than six was simply referred to as 'ras'. (Page 56)"
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "Which other groups mentioned in the text developed similar number systems based on counting in twos, despite being far apart geographically?",
+    "options": [
+      "Romans and Egyptians",
+      "Bushmen of South Africa and Bakairi of South America",
+      "Mayans and Mesopotamians",
+      "Indians and Chinese"
+    ],
+    "answer": "Bushmen of South Africa and Bakairi of South America",
+    "explanation": "The text highlights a puzzling historical phenomenon where the Gumulgal, the Bushmen (Africa), and the Bakairi (South America) all developed equivalent base-2 naming systems independently. (Page 56, 57)"
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "What is one theory historians use to explain why distant groups developed equivalent number systems?",
+    "options": [
+      "They had satellite communication",
+      "They may have had common ancestors",
+      "It was a complete coincidence",
+      "They all read the same book"
+    ],
+    "answer": "They may have had common ancestors",
+    "explanation": "One theory suggests that these geographically separated groups may share common ancestors who used the base-2 system before their descendants migrated to different continents. (Page 57)"
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "According to the text, most humans find it difficult to immediately see the number of objects in a group once it reaches what size?",
+    "options": [
+      "3 or more",
+      "5 or more",
+      "10 or more",
+      "20 or more"
+    ],
+    "answer": "5 or more",
+    "explanation": "The text explains the human 'limit of perception'. Most people can identify small groups at a glance, but find it difficult to count groups of 5 or more without deliberate counting. (Page 57)"
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "In the Roman number system, the symbol 'V' represents 5. This is an example of what concept?",
+    "options": [
+      "A digit",
+      "A landmark number",
+      "A base-60 system",
+      "A tally mark"
+    ],
+    "answer": "A landmark number",
+    "explanation": "Landmark numbers are easily recognizable reference points in a number system. In the Roman system, symbols like I (1), V (5), and X (10) serve as anchors for representing quantities. (Page 58)"
+  },
+  {
+    "id": 40,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "How is the number 27 represented in Roman numerals?",
+    "options": [
+      "XXV",
+      "XXVII",
+      "XVIIII",
+      "XVVII"
+    ],
+    "answer": "XXVII",
+    "explanation": "To get 27, the number is grouped into as many 10s as possible (XX), then 5s (V), then 1s (II). This results in the representation XXVII. (Page 58)"
+  },
+  {
+    "id": 41,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "In the Roman system, how is 40 represented, and what is the logic behind it?",
+    "options": [
+      "XXXX; addition of four 10s",
+      "XL; 10 less than 50",
+      "LX; 10 more than 50",
+      "XXXX; because consistency was mandatory"
+    ],
+    "answer": "XL; 10 less than 50",
+    "explanation": "The Roman system often used a subtractive principle where a smaller symbol before a larger one denotes subtraction. XL means 10 less than 50 (L). (Page 58)"
+  },
+  {
+    "id": 42,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "easy",
+    "question": "What is the Roman numeral for 500?",
+    "options": [
+      "C",
+      "D",
+      "L",
+      "M"
+    ],
+    "answer": "D",
+    "explanation": "The text provides a table of Roman landmark numbers: I=1, V=5, X=10, L=50, C=100, D=500, and M=1,000. (Page 58)"
+  },
+  {
+    "id": 43,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "Represent 2367 as a sum of landmark numbers to determine its Roman numeral.",
+    "options": [
+      "MMCCCLXVII",
+      "MMCCCLXII",
+      "MMCCCXVII",
+      "MMDCCLXVII"
+    ],
+    "answer": "MMCCCLXII",
+    "explanation": "2367 = 1000 + 1000 (MM) + 100 + 100 + 100 (CCC) + 50 (L) + 10 (X) + 5 (V) + 1 + 1 (II). This totals MMCCCLXVII. (Correction: The example on page 59 shows 2367 = MMCCCLXVII). (Page 59)"
+  },
+  {
+    "id": 44,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "What is a major drawback of the Roman number system mentioned in the text?",
+    "options": [
+      "It only goes up to 100",
+      "It doesn't use written symbols",
+      "It doesn't lend itself to easy arithmetic operations like multiplication",
+      "It was never used in Europe"
+    ],
+    "answer": "It doesn't lend itself to easy arithmetic operations like multiplication",
+    "explanation": "While Roman numerals are efficient for representing numbers, they are very difficult to use for calculations. Multiplication and division are particularly cumbersome compared to base-10 systems. (Page 59)"
+  },
+  {
+    "id": 45,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Which calculating tool was used by specially trained people to perform arithmetic with the Roman system?",
+    "options": [
+      "Slide rule",
+      "Abacus",
+      "Tally stick",
+      "Rod numerals"
+    ],
+    "answer": "Abacus",
+    "explanation": "Because Roman numerals are difficult to compute with, people used an abacus for their calculations. However, this required special training. (Page 60)"
+  },
+  {
+    "id": 46,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Around what year did the Egyptians develop their written number system?",
+    "options": [
+      "4000 years ago",
+      "3000 BCE",
+      "800 CE",
+      "200 BCE"
+    ],
+    "answer": "3000 BCE",
+    "explanation": "The Egyptian number system was a written system developed around 3000 BCE. It utilized landmark numbers to group and represent quantities. (Page 61)"
+  },
+  {
+    "id": 47,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "What defines a 'base-n' number system?",
+    "options": [
+      "A system that only uses n digits",
+      "A system where every landmark number is a power of n",
+      "A system used only by the Egyptians",
+      "A system where numbers are written vertically"
+    ],
+    "answer": "A system where every landmark number is a power of n",
+    "explanation": "In a base-n system, the first landmark is 1, and every subsequent landmark is obtained by multiplying the previous one by a fixed number 'n'. This means landmark numbers are powers of n. (Page 63)"
+  },
+  {
+    "id": 48,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "The Egyptian system is an example of which base system?",
+    "options": [
+      "Base-2",
+      "Base-5",
+      "Base-10",
+      "Base-60"
+    ],
+    "answer": "Base-10",
+    "explanation": "The Egyptian system is a base-10 system because each of its landmark symbols (1, 10, 100, 1000, etc.) is a power of 10. A base-10 system is also called a decimal system. (Page 63)"
+  },
+  {
+    "id": 49,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "What was the specific shortcoming of the Egyptian system as described on page 69?",
+    "options": [
+      "It could not represent numbers larger than 100",
+      "It required an unending sequence of symbols for higher powers of 10",
+      "It had no symbol for one",
+      "It was less efficient than Roman numerals for addition"
+    ],
+    "answer": "It required an unending sequence of symbols for higher powers of 10",
+    "explanation": "Even though it was base-10, the Egyptian system required a new unique symbol for every power of 10 (10, 100, 1000, etc.). To represent arbitrarily large numbers, you would need infinite symbols. (Page 69)"
+  },
+  {
+    "id": 50,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "The Mesopotamian system, also known as the Babylonian system, used what base?",
+    "options": [
+      "10",
+      "20",
+      "60",
+      "100"
+    ],
+    "answer": "60",
+    "explanation": "The Mesopotamian number system eventually became a base-60 system. This is also known as a sexagesimal system. (Page 70)"
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Which modern measurement system still shows the influence of the Mesopotamian sexagesimal system?",
+    "options": [
+      "The metric system for weight",
+      "Time measurement (hours, minutes, seconds)",
+      "The US dollar currency",
+      "The Celsius temperature scale"
+    ],
+    "answer": "Time measurement (hours, minutes, seconds)",
+    "explanation": "Our current units of time—1 hour = 60 minutes and 1 minute = 60 seconds—are a direct legacy of the Mesopotamian base-60 system. (Page 70)"
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "What is a 'positional number system' or 'place value system'?",
+    "options": [
+      "A system where the size of the symbols determines the value",
+      "A system that uses the position of a symbol to determine its associated landmark number",
+      "A system where numbers are only written in a straight line",
+      "A system where every number has its own unique symbol"
+    ],
+    "answer": "A system that uses the position of a symbol to determine its associated landmark number",
+    "explanation": "In a place value system, a symbol's meaning changes based on where it is written. This allows for representing infinite numbers using a finite set of symbols, which is more efficient. (Page 73)"
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "What was the main 'defect' or cause of confusion in the early Mesopotamian positional system?",
+    "options": [
+      "They had no symbols for numbers 1-9",
+      "They used the same symbol for 1 and 60 with inconsistent spacing for blanks",
+      "They could only count up to 59",
+      "They wrote from right to left"
+    ],
+    "answer": "They used the same symbol for 1 and 60 with inconsistent spacing for blanks",
+    "explanation": "Early Mesopotamians used blank spaces to indicate missing powers of 60. However, without a consistent placeholder, it was often impossible to tell if a space was intended, leading to ambiguity. (Page 73)"
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "What brilliant idea did later Mesopotamians use to solve the problem of blank spaces?",
+    "options": [
+      "They stopped using base 60",
+      "They assigned a 'placeholder' symbol to denote a blank space",
+      "They only used verbal names for numbers",
+      "They started using Roman numerals"
+    ],
+    "answer": "They assigned a 'placeholder' symbol to denote a blank space",
+    "explanation": "To remove ambiguity, later Mesopotamians introduced a specific symbol to mark an empty position. This acted like the zero we use today, making the system unambiguous. (Page 74)"
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "The Mayan number system was developed in which region and during which time period?",
+    "options": [
+      "Western Asia; 4000 years ago",
+      "Central America; 3rd and 10th centuries CE",
+      "Europe; 17th century",
+      "India; 2000 years ago"
+    ],
+    "answer": "Central America; 3rd and 10th centuries CE",
+    "explanation": "The Mayan civilization flourished in Central America between the 3rd and 10th centuries CE. They independently developed a sophisticated place value system. (Page 74)"
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "What symbol did the Mayans use for the modern-day '0'?",
+    "options": [
+      "A dot",
+      "A bar",
+      "A seashell",
+      "A heel bone"
+    ],
+    "answer": "A seashell",
+    "explanation": "The Mayans intellectual achievements included a placeholder symbol for zero that was shaped like a seashell. (Page 74)"
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "The Mayan number system is described as 'almost a base-20 system'. What was the puzzling third landmark number that made it inconsistent?",
+    "options": [
+      "100",
+      "360",
+      "400",
+      "1000"
+    ],
+    "answer": "360",
+    "explanation": "While a true base-20 system would have 400 (20x20) as the third landmark, the Mayans used 360. Scholars believe this was likely linked to their calendar systems. (Page 76)"
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "How did the Mayans place their symbols to represent a number?",
+    "options": [
+      "Horizontally",
+      "Vertically",
+      "In a circle",
+      "Diagonally"
+    ],
+    "answer": "Vertically",
+    "explanation": "Mayan numerals were written vertically, with the lowest position representing 1s, the position above it representing 20s, and so on. (Page 76)"
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Which of the following describes the Chinese 'rod numerals' system?",
+    "options": [
+      "It used a base-60 system",
+      "It was a decimal system (base-10) using rods for computations",
+      "It was written only in words",
+      "It had no way to represent zero"
+    ],
+    "answer": "It was a decimal system (base-10) using rods for computations",
+    "explanation": "The Chinese used a rod-based number system for recording quantities and performing calculations. It was a base-10 system developed by at least the 3rd century AD. (Page 76)"
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "Why did the Chinese rod system alternate between 'Zong' and 'Heng' symbols?",
+    "options": [
+      "To distinguish between positive and negative numbers",
+      "To distinguish between adjacent place values (units, tens, hundreds, etc.)",
+      "Because they had two different languages",
+      "To show the difference between addition and subtraction"
+    ],
+    "answer": "To distinguish between adjacent place values (units, tens, hundreds, etc.)",
+    "explanation": "Zongs represented units and hundreds, while Hengs represented tens and thousands. Alternating these symbols helped prevent confusion when reading adjacent positions, especially since they used blank spaces for zero. (Page 77)"
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "What makes the Hindu number system uniquely efficient compared to the early Mesopotamian or Chinese systems?",
+    "options": [
+      "It is base-10",
+      "It uses a single digit in each position and treats 0 as a digit",
+      "It has only three symbols",
+      "It is written vertically"
+    ],
+    "answer": "It uses a single digit in each position and treats 0 as a digit",
+    "explanation": "The Hindu system's use of zero as a digit, along with a single digit per position, removes all ambiguity. This allowed it to become the global standard for reading and writing numerals. (Page 78, 79)"
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "Which Indian mathematician codified the use of 0 as a number that can be used in arithmetic operations in his work 'Brāhmasphuṭasiddhānta'?",
+    "options": [
+      "Aryabhata",
+      "Brahmagupta",
+      "Fibonacci",
+      "Al-Khwarizmi"
+    ],
+    "answer": "Brahmagupta",
+    "explanation": "Brahmagupta (628 CE) was the mathematician who codified the rules for zero. He established that it was a number like any other, subject to basic arithmetic operations. (Page 79)"
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "hard",
+    "question": "What mathematical structure did Brahmagupta effectively create by introducing 0 and negative numbers?",
+    "options": [
+      "A Triangle",
+      "A Ring",
+      "A Pyramid",
+      "A Cube"
+    ],
+    "answer": "A Ring",
+    "explanation": "By introducing zero and negative numbers, Brahmagupta created what is now called a 'ring'. This is a set of numbers closed under addition, subtraction, and multiplication. (Page 79)"
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "easy",
+    "question": "According to the summary, what is a 'numeral'?",
+    "options": [
+      "A fixed order of objects",
+      "A symbol representing a number in a written system",
+      "A reference point for understanding quantities",
+      "A base-n number system"
+    ],
+    "answer": "A symbol representing a number in a written system",
+    "explanation": "The summary at the end of the chapter defines numerals as the symbols used to represent numbers within a written number system. (Page 81)"
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers",
+    "difficulty": "medium",
+    "question": "According to the summary, when did the Hindu number system originate in India?",
+    "options": [
+      "4000 years ago",
+      "Around 2000 years ago",
+      "In the 17th century",
+      "3000 BCE"
+    ],
+    "answer": "Around 2000 years ago",
+    "explanation": "The summary confirms that the system originated in India approximately 2000 years ago before spreading throughout the world as one of history's greatest inventions. (Page 81)"
+  }
+]
