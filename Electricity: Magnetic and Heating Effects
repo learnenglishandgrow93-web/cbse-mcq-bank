@@ -1198,5 +1198,905 @@
     ],
     "answer": "All four coils will show deflection if current flows",
     "explanation": "Exercise 11 explains that because any current-carrying conductor produces a magnetic field, all four metallic coils will cause a compass needle to deflect. Refer to Page 61."
+  },
+  {
+    "id": 81,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "What is the primary activity happening at the school at the start of Chapter 4?",
+    "options": [
+      "A sports meet",
+      "A science exhibition",
+      "A music concert",
+      "An art competition"
+    ],
+    "answer": "A science exhibition",
+    "explanation": "The chapter opens by describing a school buzzing with energy during a science exhibition where Mohini and Aakarsh explore models. Refer to Page 47."
+  },
+  {
+    "id": 82,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "In Activity 4.1, what is used to hold the stretched wire slightly above the cardboard surface?",
+    "options": [
+      "Two drawing pins",
+      "Two iron nails",
+      "A safety pin",
+      "An adhesive tape"
+    ],
+    "answer": "Two iron nails",
+    "explanation": "According to the instructions in Activity 4.1, two nails are fixed to the cardboard to stretch the wire between them. Refer to Page 47."
+  },
+  {
+    "id": 83,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "When does the magnetic field around a conductor disappear?",
+    "options": [
+      "When the wire is lengthened",
+      "When the current stops flowing",
+      "When the compass is removed",
+      "When the wire is insulated"
+    ],
+    "answer": "When the current stops flowing",
+    "explanation": "The magnetic effect of electric current is a temporary phenomenon that exists only as long as current flows through the conductor. Refer to Page 48."
+  },
+  {
+    "id": 84,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "Hans Christian Oersted noticed the compass needle deflection while giving a _____.",
+    "options": [
+      "Lecture on biology",
+      "Public speech",
+      "Demonstration",
+      "Final exam"
+    ],
+    "answer": "Demonstration",
+    "explanation": "Oersted discovered the link between electricity and magnetism while giving a demonstration to his students. Refer to Page 48."
+  },
+  {
+    "id": 85,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "In Activity 4.3, what is the suggested diameter for the paper cylinder used to make the coil?",
+    "options": [
+      "5 cm",
+      "Width of a pencil",
+      "10 cm",
+      "Width of a cell"
+    ],
+    "answer": "Width of a pencil",
+    "explanation": "The activity suggests rolling a piece of chart paper into a cylinder with a diameter roughly equal to the width of a pencil. Refer to Page 49."
+  },
+  {
+    "id": 86,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "How many turns of wire are recommended for the coil in Activity 4.3?",
+    "options": [
+      "10 turns",
+      "Around 50 turns",
+      "Exactly 100 turns",
+      "5 turns"
+    ],
+    "answer": "Around 50 turns",
+    "explanation": "The instructions specify tightly winding around 50 turns of insulated wire onto the paper cylinder to form the coil. Refer to Page 49."
+  },
+  {
+    "id": 87,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "Which of these is a practical application of the magnetic effect of current mentioned in the text?",
+    "options": [
+      "Electric kettle",
+      "Electric bell",
+      "Electric stove",
+      "Hair dryer"
+    ],
+    "answer": "Electric bell",
+    "explanation": "Electric bells are listed alongside motors, fans, and loudspeakers as devices that utilize the magnetic effect of current. Refer to Page 49."
+  },
+  {
+    "id": 88,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "In Fig 4.3, what happens to the compass needles when the circuit is closed *without* an iron nail?",
+    "options": [
+      "They do not move",
+      "They show some deflection",
+      "They point to the ground",
+      "They break"
+    ],
+    "answer": "They show some deflection",
+    "explanation": "Passage of current through the coil alone is enough to produce a magnetic field and cause compass needle deflection. Refer to Page 50."
+  },
+  {
+    "id": 89,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "According to the 'Think like a scientist' section on Page 51, what two variables can change an electromagnet's strength?",
+    "options": [
+      "Current and number of turns",
+      "Wire color and cell brand",
+      "Coil length and air temperature",
+      "Switch type and wire thickness"
+    ],
+    "answer": "Current and number of turns",
+    "explanation": "The text states that the strength of an electromagnet can be modified by changing the amount of current or the number of wire turns. Refer to Page 51."
+  },
+  {
+    "id": 90,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "Where are lifting electromagnets most efficiently used according to Section 4.1.2?",
+    "options": [
+      "In school libraries",
+      "In hospitals",
+      "In factories and scrap yards",
+      "In jewelry shops"
+    ],
+    "answer": "In factories and scrap yards",
+    "explanation": "Lifting electromagnets are widely used in industrial settings to move, lift, and sort heavy metal items efficiently. Refer to Page 52."
+  },
+  {
+    "id": 91,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "What happens when a moving magnet is placed near a conductor, according to the higher grades preview?",
+    "options": [
+      "The magnet loses its power",
+      "It leads to an electric current",
+      "The wire becomes permanent magnet",
+      "Nothing happens"
+    ],
+    "answer": "It leads to an electric current",
+    "explanation": "The 'A step further' section mentions the exciting idea that a moving magnet can also lead to an electric current. Refer to Page 52."
+  },
+  {
+    "id": 92,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "In Activity 4.5, what should you do immediately after turning the switch to 'ON' for 30 seconds?",
+    "options": [
+      "Cut the wire",
+      "Move the switch back to 'OFF'",
+      "Add another cell",
+      "Pour water on the wire"
+    ],
+    "answer": "Move the switch back to 'OFF'",
+    "explanation": "The activity instructs to move the switch to ON for 30 seconds and then back to OFF before touching the wire momentarily. Refer to Page 52."
+  },
+  {
+    "id": 93,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "Why is nichrome wire used to demonstrate the heating effect instead of copper?",
+    "options": [
+      "It is thinner",
+      "It offers higher resistance",
+      "It is cheaper",
+      "It is a better conductor"
+    ],
+    "answer": "It offers higher resistance",
+    "explanation": "Nichrome offers higher resistance compared to copper, which causes more electrical energy to be converted into heat. Refer to Page 53."
+  },
+  {
+    "id": 94,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "What determines the magnitude of heat generated in a wire besides current and material?",
+    "options": [
+      "Atmospheric pressure",
+      "The brand of the switch",
+      "Thickness and length of the wire",
+      "The color of the wire"
+    ],
+    "answer": "Thickness and length of the wire",
+    "explanation": "The amount of heat generated depends on several physical factors: material, thickness, length, current, and duration. Refer to Page 53."
+  },
+  {
+    "id": 95,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "Which of these household appliances uses a heating element that can be seen glowing red hot?",
+    "options": [
+      "Electric fan",
+      "Electric room heater",
+      "Electric bell",
+      "Magnetic compass"
+    ],
+    "answer": "Electric room heater",
+    "explanation": "The text mentions that in some appliances like heaters, the heating element can be seen glowing red hot when in use. Refer to Page 53."
+  },
+  {
+    "id": 96,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "What problem can the heating effect of current cause in power transmission?",
+    "options": [
+      "The wires become magnetic",
+      "Energy loss in wires",
+      "The current speeds up",
+      "The wires turn into nichrome"
+    ],
+    "answer": "Energy loss in wires",
+    "explanation": "One downside of the heating effect is that it causes energy loss in wires during the transmission of electricity. Refer to Page 54."
+  },
+  {
+    "id": 97,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "What safety risk is associated with overheating in electrical plugs and sockets?",
+    "options": [
+      "Plastic parts may melt",
+      "The current might stop",
+      "The voltage might increase",
+      "The metal turns into liquid"
+    ],
+    "answer": "Plastic parts may melt",
+    "explanation": "Overheating can cause plastic components to melt, which can damage the equipment or even lead to fires. Refer to Page 54."
+  },
+  {
+    "id": 98,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "In an industrial furnace, electric current is used to _____ scrap steel.",
+    "options": [
+      "Magnetize",
+      "Melt and recycle",
+      "Paint",
+      "Flatten"
+    ],
+    "answer": "Melt and recycle",
+    "explanation": "The text describes high-temperature furnaces in the steel industry that use electric current to produce enough heat to melt scrap steel for recycling. Refer to Page 54."
+  },
+  {
+    "id": 99,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "What is the liquid used in a Voltaic cell called?",
+    "options": [
+      "Fuel",
+      "Electrolyte",
+      "Coolant",
+      "Plasma"
+    ],
+    "answer": "Electrolyte",
+    "explanation": "A Voltaic cell contains two metal rods and a liquid solution known as an electrolyte. Refer to Page 55."
+  },
+  {
+    "id": 100,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "What are the metal rods in a Voltaic cell commonly called?",
+    "options": [
+      "Poles",
+      "Electrodes",
+      "Terminals",
+      "Filaments"
+    ],
+    "answer": "Electrodes",
+    "explanation": "The rods dipped in the electrolyte of a Voltaic cell are referred to as electrodes. Refer to Page 55."
+  },
+  {
+    "id": 101,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "In which century did Galvani and Volta perform their famous experiments?",
+    "options": [
+      "Late 1600s",
+      "Late 1700s",
+      "Early 1900s",
+      "Late 1800s"
+    ],
+    "answer": "Late 1700s",
+    "explanation": "The text states that Galvani noticed the frog's leg kicking in the late 1700s, leading to the invention of the battery. Refer to Page 55."
+  },
+  {
+    "id": 102,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "How did Alessandro Volta prove electricity didn't come from the frog?",
+    "options": [
+      "By using a dead frog",
+      "By using saltwater-soaked paper",
+      "By using a copper wire only",
+      "By using a dry cell"
+    ],
+    "answer": "By saltwater-soaked paper",
+    "explanation": "Volta used saltwater-soaked paper between two different metals to produce current, proving the electricity was not biological. Refer to Page 55."
+  },
+  {
+    "id": 103,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "Why is current able to flow through the lemon in Activity 4.6?",
+    "options": [
+      "Lemon juice acts as a magnet",
+      "Lemon juice acts as an electrolyte",
+      "The lemon is connected to a wall socket",
+      "The copper wire is hollow"
+    ],
+    "answer": "Lemon juice acts as an electrolyte",
+    "explanation": "The lemon juice contains acids that facilitate chemical reactions and help conduct electricity between the copper and iron electrodes. Refer to Page 56."
+  },
+  {
+    "id": 104,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "Which of these metal pairs would NOT work well to make a Voltaic cell?",
+    "options": [
+      "Zinc/Copper",
+      "Iron/Copper",
+      "Copper/Copper",
+      "Magnesium/Copper"
+    ],
+    "answer": "Copper/Copper",
+    "explanation": "Voltaic cells require two metal rods made of *different* materials to create the chemical potential needed for current. Refer to Page 55/56."
+  },
+  {
+    "id": 105,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "What is the state of the electrolyte in a dry cell?",
+    "options": [
+      "Solid powder",
+      "Clear liquid",
+      "Thick moist paste",
+      "Compressed gas"
+    ],
+    "answer": "Thick moist paste",
+    "explanation": "Dry cells use a paste-like electrolyte instead of a liquid, making them more portable and convenient. Refer to Page 57."
+  },
+  {
+    "id": 106,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "Which part of a dry cell acts as the negative terminal?",
+    "options": [
+      "The carbon rod",
+      "The zinc container",
+      "The metal cap",
+      "The electrolyte paste"
+    ],
+    "answer": "The zinc container",
+    "explanation": "In a dry cell, the zinc container housing the chemicals serves as the negative terminal. Refer to Page 57."
+  },
+  {
+    "id": 107,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "What happens to a dry cell once all the chemicals inside are used up?",
+    "options": [
+      "It must be recharged",
+      "It must be disposed of",
+      "It becomes a magnet",
+      "It starts to leak water"
+    ],
+    "answer": "It must be disposed of",
+    "explanation": "Dry cells are single-use cells; once the chemical reaction is complete, they are considered dead and must be disposed of. Refer to Page 57."
+  },
+  {
+    "id": 108,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "Rechargeable batteries are beneficial because they save _____ over time.",
+    "options": [
+      "Electricity",
+      "Money",
+      "Metals",
+      "Space"
+    ],
+    "answer": "Money",
+    "explanation": "Although they may cost more initially, the ability to reuse them multiple times saves money and prevents wastage. Refer to Page 57."
+  },
+  {
+    "id": 109,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "Why are countries currently racing to secure supplies of lithium and cobalt?",
+    "options": [
+      "They are used to make jewelry",
+      "They are vital for lithium-ion batteries",
+      "They are used to generate solar power directly",
+      "They are required for food preservation"
+    ],
+    "answer": "They are vital for lithium-ion batteries",
+    "explanation": "Most modern rechargeable devices use Li-ion batteries which depend on these specific, limited metals. Refer to Page 58."
+  },
+  {
+    "id": 110,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "What is the main goal of developing solid-state batteries?",
+    "options": [
+      "To make them heavier",
+      "To replace liquid electrolytes with solid materials",
+      "To make them cheaper than dry cells",
+      "To allow them to work without metals"
+    ],
+    "answer": "To replace liquid electrolytes with solid materials",
+    "explanation": "Solid-state batteries are the next leap in technology, using solid materials for safety and faster charging. Refer to Page 58."
+  },
+  {
+    "id": 111,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "According to the Snapshots, an electromagnet is made stronger by adding a/an _____.",
+    "options": [
+      "Plastic core",
+      "Iron core",
+      "Copper core",
+      "Wooden core"
+    ],
+    "answer": "Iron core",
+    "explanation": "Placing an iron core inside a current-carrying coil makes the resulting electromagnet much stronger. Refer to Page 58."
+  },
+  {
+    "id": 112,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "Based on Exercise 1, what is the term for the solution used in a Voltaic cell?",
+    "options": [
+      "Solvent",
+      "Electrolyte",
+      "Mixture",
+      "Acid"
+    ],
+    "answer": "Electrolyte",
+    "explanation": "The fill-in-the-blank question identifies the solution in a Voltaic cell as an electrolyte. Refer to Page 58."
+  },
+  {
+    "id": 113,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "What would happen to the compass needle if the current in a wire was reversed?",
+    "options": [
+      "It would stop moving",
+      "It would deflect in the opposite direction",
+      "It would point straight up",
+      "It would become a permanent magnet"
+    ],
+    "answer": "It would deflect in the opposite direction",
+    "explanation": "Changing the direction of the current reverses the magnetic poles, thus reversing the direction of needle deflection. Refer to Page 51."
+  },
+  {
+    "id": 114,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "Which of these is NOT a rechargeable battery application shown in Fig 4.10?",
+    "options": [
+      "Laptop",
+      "Mobile phone",
+      "Electric toaster",
+      "Inverter"
+    ],
+    "answer": "Electric toaster",
+    "explanation": "Figure 4.10 lists laptops, phones, cameras, inverters, and vehicles, but not toasters (which typically plug into wall outlets). Refer to Page 57."
+  },
+  {
+    "id": 115,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "In Question 3 (Page 59), current flows through a nichrome wire. Both (i) the wire gets warm and (ii) a compass deflects. This proves _____.",
+    "options": [
+      "Current has only one effect at a time",
+      "Magnetic and heating effects can happen together",
+      "Nichrome is a poor conductor",
+      "Compass needles are made of nichrome"
+    ],
+    "answer": "Magnetic and heating effects can happen together",
+    "explanation": "Any current-carrying wire produces a magnetic field, and if it has resistance (like nichrome), it also generates heat. Refer to Page 59."
+  },
+  {
+    "id": 116,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "What is the 'societal impact' reason for using electric heaters over firewood?",
+    "options": [
+      "They are prettier",
+      "They are more convenient and don't produce smoke/ash",
+      "They use less energy globally",
+      "They are made of recyclable plastic"
+    ],
+    "answer": "They are more convenient and don't produce smoke/ash",
+    "explanation": "Traditional methods like burning wood have negative impacts (smoke, collection effort) compared to the clean convenience of electric heating. Refer to Page 59."
+  },
+  {
+    "id": 117,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "In the matching exercise (Page 59), what corresponds to 'Voltaic cell'?",
+    "options": [
+      "Best suited for electric heater",
+      "Works on magnetic effect",
+      "Generates electricity by chemical reactions",
+      "Works on heating effect"
+    ],
+    "answer": "Generates electricity by chemical reactions",
+    "explanation": "A Voltaic cell is defined by its ability to produce current through internal chemical processes. Refer to Page 59."
+  },
+  {
+    "id": 118,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "What metal is the center rod of a dry cell made of?",
+    "options": [
+      "Zinc",
+      "Copper",
+      "Carbon",
+      "Iron"
+    ],
+    "answer": "Carbon",
+    "explanation": "The dry cell features a carbon rod at the center which acts as the positive terminal. Refer to Page 57."
+  },
+  {
+    "id": 119,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "If you use a battery of 2 cells instead of 1 cell for heating a wire, what happens?",
+    "options": [
+      "The wire stays cool",
+      "The wire heats up more",
+      "The current stops",
+      "The resistance decreases"
+    ],
+    "answer": "The wire heats up more",
+    "explanation": "More cells increase the magnitude of the current, which in turn increases the amount of heat generated. Refer to Page 53."
+  },
+  {
+    "id": 120,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "Why did Sumana's warm wire in Exercise 8 stop acting as a magnet?",
+    "options": [
+      "The nail melted",
+      "The current was too low to pick up clips but enough to heat the wire",
+      "The clips became non-magnetic",
+      "The switch was turned OFF"
+    ],
+    "answer": "The current was too low to pick up clips but enough to heat the wire",
+    "explanation": "As a battery dies, the current drops. It might still be enough for the heating effect but too weak for the magnetic lifting effect. Refer to Page 60."
+  },
+  {
+    "id": 121,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "Which material is used as the positive electrode in a lemon cell?",
+    "options": [
+      "Iron nail",
+      "Copper wire/strip",
+      "Plastic pin",
+      "Aluminium foil"
+    ],
+    "answer": "Copper wire/strip",
+    "explanation": "In common Voltaic cell pairs like the lemon cell, copper acts as the positive electrode. Refer to Page 56."
+  },
+  {
+    "id": 122,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "What is 'e-waste' as mentioned on Page 61?",
+    "options": [
+      "Expired food",
+      "Electronic waste like used batteries",
+      "Old paper and cardboard",
+      "Plastic bottles"
+    ],
+    "answer": "Electronic waste like used batteries",
+    "explanation": "Used batteries and electronic components are considered e-waste and should be recycled at special facilities. Refer to Page 61."
+  },
+  {
+    "id": 123,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "How does the thickness of a nichrome wire affect its heating, according to the projects?",
+    "options": [
+      "Thicker wires heat up more",
+      "Thinner wires heat up more",
+      "Thickness has no effect",
+      "Only the length matters"
+    ],
+    "answer": "Thinner wires heat up more",
+    "explanation": "Thinner wires have higher resistance, which results in more heat generation for the same current. Refer to Page 61."
+  },
+  {
+    "id": 124,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "What instrument is used to detect the magnetic field produced by current?",
+    "options": [
+      "Thermometer",
+      "Magnetic compass",
+      "Barometer",
+      "Ammeter"
+    ],
+    "answer": "Magnetic compass",
+    "explanation": "A magnetic compass needle deflects in the presence of a magnetic field, making it the tool for detection in the text. Refer to Page 48."
+  },
+  {
+    "id": 125,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "Why is it unsafe to throw used batteries in regular garbage?",
+    "options": [
+      "They might explode if touched by food",
+      "They contain harmful materials like acids and heavy metals",
+      "They take up too much space",
+      "They will stop the garbage truck"
+    ],
+    "answer": "They contain harmful materials like acids and heavy metals",
+    "explanation": "Batteries contain substances like lead and cadmium which can be harmful to the environment if disposed of improperly. Refer to Page 61."
+  },
+  {
+    "id": 126,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "In Figure 4.12 case (a), why does the LED glow?",
+    "options": [
+      "Because the juice is yellow",
+      "Because lemon juice acts as a conducting electrolyte",
+      "Because the iron nail is a magnet",
+      "Because the switch is made of copper"
+    ],
+    "answer": "Because lemon juice acts as a conducting electrolyte",
+    "explanation": "The lemon juice completes the circuit by allowing ions to move between the electrodes, enabling the LED to glow. Refer to Page 60."
+  },
+  {
+    "id": 127,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "Who was the Danish professor who discovered electromagnetism?",
+    "options": [
+      "Luigi Galvani",
+      "Alessandro Volta",
+      "Hans Christian Oersted",
+      "Michael Faraday"
+    ],
+    "answer": "Hans Christian Oersted",
+    "explanation": "Oersted was a professor at a university in Denmark when he made his discovery in 1820. Refer to Page 48."
+  },
+  {
+    "id": 128,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "Which component is needed to make the magnetic effect visible in Activity 4.1?",
+    "options": [
+      "A battery",
+      "A compass",
+      "A switch",
+      "A wire"
+    ],
+    "answer": "A compass",
+    "explanation": "The deflection of the compass needle is what allows the students to 'see' the invisible magnetic field. Refer to Page 47."
+  },
+  {
+    "id": 129,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "What prevents a dry cell from being recharged?",
+    "options": [
+      "The zinc is too hard",
+      "The chemical reaction is not reversible in that cell type",
+      "The carbon rod is too brittle",
+      "The electrolyte is too dry"
+    ],
+    "answer": "The chemical reaction is not reversible in that cell type",
+    "explanation": "Standard dry cells are single-use because their specific chemical reactions cannot be reversed by an external current. Refer to Page 57."
+  },
+  {
+    "id": 130,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "A current-carrying coil behaving as a magnet is an electromagnet. What is the core often made of?",
+    "options": [
+      "Copper",
+      "Iron",
+      "Plastic",
+      "Wood"
+    ],
+    "answer": "Iron",
+    "explanation": "Iron is the most common core material because it significantly enhances the coil's magnetic field. Refer to Page 50."
+  },
+  {
+    "id": 131,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "In Section 4.2, what is the 'Safety First' warning?",
+    "options": [
+      "Do not touch the wire for an extended period",
+      "Do not look at the light",
+      "Do not use wet hands",
+      "Do not drop the cell"
+    ],
+    "answer": "Do not touch the wire for an extended period",
+    "explanation": "Because current causes wires to heat up, the text warns students not to touch them for long to avoid injuries. Refer to Page 53."
+  },
+  {
+    "id": 132,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "If you move the switch between 'ON' and 'OFF' multiple times (Activity 4.1), what is the goal?",
+    "options": [
+      "To test the battery's life",
+      "To observe the consistency of the compass behavior",
+      "To generate more heat",
+      "To make the switch easier to use"
+    ],
+    "answer": "To observe the consistency of the compass behavior",
+    "explanation": "Repeating the action allows students to carefully observe how the needle behaves each time the current starts and stops. Refer to Page 48."
+  },
+  {
+    "id": 133,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "Which of these devices contains a rod or coil called a heating element?",
+    "options": [
+      "Electric motor",
+      "Electric iron",
+      "Magnetic compass",
+      "Dry cell"
+    ],
+    "answer": "Electric iron",
+    "explanation": "Heating appliances like irons contain a specialized component known as a heating element. Refer to Page 53."
+  },
+  {
+    "id": 134,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "What is the positive terminal of an LED called in technical terms (implicitly referenced)?",
+    "options": [
+      "The shorter wire",
+      "The longer wire",
+      "The glass bulb",
+      "The base"
+    ],
+    "answer": "The longer wire",
+    "explanation": "The text clarifies that the longer wire of an LED is the positive terminal. Refer to Page 56."
+  },
+  {
+    "id": 135,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "What is the function of the Earth's magnetic field for migratory birds?",
+    "options": [
+      "It provides them with energy",
+      "It helps them navigate across continents",
+      "It keeps them warm during winter",
+      "It protects their feathers"
+    ],
+    "answer": "It helps them navigate across continents",
+    "explanation": "Many animals use the global magnetic field as a natural 'GPS' for long-distance migration. Refer to Page 51."
+  },
+  {
+    "id": 136,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "In Question 11 (Page 60), which coils will show deflection?",
+    "options": [
+      "Only the copper one",
+      "Only the iron and nichrome ones",
+      "All four metallic coils",
+      "None of them"
+    ],
+    "answer": "All four metallic coils",
+    "explanation": "Since all metals listed are conductors, they will all produce a magnetic field and cause deflection when current flows. Refer to Page 16."
+  },
+  {
+    "id": 137,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "What is the common metal pair used in a Voltaic cell mentioned in Section 4.3.1?",
+    "options": [
+      "Gold and Silver",
+      "Iron and Steel",
+      "Two rods made of different materials",
+      "Two copper rods"
+    ],
+    "answer": "Two rods made of different materials",
+    "explanation": "A fundamental requirement of a Voltaic cell is that the two electrodes must be made of different materials. Refer to Page 55."
+  },
+  {
+    "id": 138,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "medium",
+    "question": "What is the main source of heat in an incandescent lamp?",
+    "options": [
+      "The glass",
+      "The base",
+      "The filament",
+      "The gas"
+    ],
+    "answer": "The filament",
+    "explanation": "The filament is designed to resist current flow so much that it heats up and glows. Refer to Page 53."
+  },
+  {
+    "id": 139,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "hard",
+    "question": "According to the 'A step further' section on Page 51, where is liquid iron moving?",
+    "options": [
+      "In the Earth's oceans",
+      "Deep inside the Earth's core",
+      "In industrial scrap yards",
+      "Inside the coils of a motor"
+    ],
+    "answer": "Deep inside the Earth's core",
+    "explanation": "The Earth's magnetic field is generated by the movement of liquid iron in its deep core. Refer to Page 51."
+  },
+  {
+    "id": 140,
+    "subject": "Science",
+    "chapter": "Electricity: Magnetic and Heating Effects",
+    "difficulty": "easy",
+    "question": "What is the title of Chapter 4?",
+    "options": [
+      "Light and Sound",
+      "Electricity: Magnetic and Heating Effects",
+      "Cells and Molecules",
+      "Magnets and Minerals"
+    ],
+    "answer": "Electricity: Magnetic and Heating Effects",
+    "explanation": "The title of the chapter prominently displayed on the first page is 'Electricity: Magnetic and Heating Effects'. Refer to Page 46."
   }
 ]
