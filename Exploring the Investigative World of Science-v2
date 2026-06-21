@@ -1,0 +1,2722 @@
+[
+  {
+    "id": 1,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "According to the textbook, science discovery often begins with which of the following?",
+    "options": [
+      "Memorizing facts from old books",
+      "Wonder and simple 'Why?' and 'How?' questions",
+      "Copying results from a lab manual",
+      "Conducting only expensive experiments"
+    ],
+    "answer": "Wonder and simple 'Why?' and 'How?' questions",
+    "explanation": "Science starts with curiosity and observing the world with a sense of wonder. Asking basic questions like 'Why?' and 'How?' about natural phenomena is the first step in the journey of scientific discovery. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 2,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What does the phrase 'science is always evolving' mean in the context of the chapter?",
+    "options": [
+      "Scientific facts never change once they are discovered.",
+      "Science is only about studying ancient history.",
+      "Each answer opens new questions and ideas change as we explore deeper.",
+      "Evolution only refers to the study of plants and animals."
+    ],
+    "answer": "Each answer opens new questions and ideas change as we explore deeper.",
+    "explanation": "Scientific knowledge is not static; it grows and changes. As scientists investigate further, they find new information that can modify or refine previous ideas, leading to a continuous cycle of questioning. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 3,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "In the textbook's design, what does the symbol of the 'Root' at the bottom of left-hand pages represent?",
+    "options": [
+      "The growth of a plant from a seed",
+      "A deep, solid foundation of knowledge and careful observation",
+      "The source of water for the environment",
+      "A hidden secret of the forest"
+    ],
+    "answer": "A deep, solid foundation of knowledge and careful observation",
+    "explanation": "The root symbolises the importance of staying grounded in real, measured observations and connecting to our environment and heritage. It represents the solid base upon which all scientific ideas are built. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 4,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is represented by the 'Kite' symbol found in the top corner of right-hand pages?",
+    "options": [
+      "The force of wind on a sunny day",
+      "A simple toy used for recreation",
+      "Curiosity taking flight and the freedom of creative thinking",
+      "The height of the atmosphere"
+    ],
+    "answer": "Curiosity taking flight and the freedom of creative thinking",
+    "explanation": "The kite represents the 'soaring curiosity' of a scientist. It symbolizes the courage to explore the unknown, form bold hypotheses, and allow ideas to take flight toward new horizons. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 5,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "According to the chapter, scientific investigation works best when there is a balance between which two elements?",
+    "options": [
+      "Expensive equipment and many lab assistants",
+      "Careful observation and creative thinking",
+      "Reading textbooks and memorizing facts",
+      "Asking simple questions and guessing the answers"
+    ],
+    "answer": "Careful observation and creative thinking",
+    "explanation": "Science requires both the 'grounded' nature of observation (represented by the root) and the 'flight' of creative ideas (represented by the kite). Balancing these allows for structured yet innovative exploration. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 6,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of the following is mentioned as an 'invisible helper' in the microscopic world?",
+    "options": [
+      "Microbes that cause harmful infections",
+      "Microbes that help us digest food or produce medicines",
+      "Small insects found in the garden",
+      "Dust particles in a drop of water"
+    ],
+    "answer": "Microbes that help us digest food or produce medicines",
+    "explanation": "The microscopic world contains tiny organisms that are beneficial to humans. Some assist in digestion or are used by scientists to create life-saving medicines, making them 'invisible helpers'. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 7,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which effect of electric current is used to keep us warm in devices like an iron or a heater?",
+    "options": [
+      "Magnetic effect",
+      "Chemical effect",
+      "Heating effect",
+      "Cooling effect"
+    ],
+    "answer": "Heating effect",
+    "explanation": "Electric current can produce heat when it flows through certain materials. We depend on this heating effect for daily appliances like electric heaters and irons that help make our lives easier. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 8,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "The magnetic effect of electric current is primarily useful for which of the following?",
+    "options": [
+      "Generating heat in a room",
+      "Helping motors run and machines function",
+      "Changing the color of a substance",
+      "Filtering a drop of water"
+    ],
+    "answer": "Helping motors run and machines function",
+    "explanation": "Beyond heat, electricity can also create magnetic forces. These forces are essential for the operation of electric motors, which power many of the machines used in modern life. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 9,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Understanding fundamental forces helps scientists explain which of the following phenomena?",
+    "options": [
+      "Why sugar tastes sweet",
+      "Why a ball falls back to the ground",
+      "How to cook a puri",
+      "How to design a calendar"
+    ],
+    "answer": "Why a ball falls back to the ground",
+    "explanation": "Forces are fundamental 'pushes and pulls' that alter motion. They explain everyday occurrences, such as gravity pulling a thrown ball back to Earth or brakes stopping a moving car. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 10,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "How is wind produced according to the scientific concepts presented in the textbook?",
+    "options": [
+      "By the movement of the Moon around the Earth",
+      "By air moving from an area of high pressure to low pressure",
+      "By the heating effect of electric current in the atmosphere",
+      "By the growth of large trees in the forest"
+    ],
+    "answer": "By air moving from an area of high pressure to low pressure",
+    "explanation": "Differences in air pressure cause air to move. A small difference results in a gentle breeze, while a strong pressure difference can lead to powerful winds and cyclones. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 11,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "In terms of the 'Fabric of Matter', how do particles behave in a solid material?",
+    "options": [
+      "They move around freely and quickly.",
+      "They cannot move much and are held close together.",
+      "They are invisible and have no weight.",
+      "They are only found in living organisms."
+    ],
+    "answer": "They cannot move much and are held close together.",
+    "explanation": "Everything is made of tiny particles. In solids, these particles are packed tightly and have very limited movement, which gives solids their rigid structure compared to gases. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 12,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Which of the following describes a 'compound' as classified in science?",
+    "options": [
+      "A pure substance made of a single type of particle",
+      "Two or more elements chemically bonded together",
+      "Combinations of materials that can be separated physically",
+      "Particles that perfectly integrate, like sugar in tea"
+    ],
+    "answer": "Two or more elements chemically bonded together",
+    "explanation": "Scientists classify matter based on how particles combine. A compound is a new substance formed when two or more distinct elements are chemically bonded to each other. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 13,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What is an example of a solution mentioned in the text?",
+    "options": [
+      "A handful of sand and pebbles",
+      "A piece of solid iron",
+      "Sugar dissolving in hot tea",
+      "A mixture of oil and water"
+    ],
+    "answer": "Sugar dissolving in hot tea",
+    "explanation": "A solution is formed when particles perfectly integrate. An everyday example is when sugar dissolves seamlessly into hot tea, making the entire liquid sweet. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 14,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What scientific principle explains why we can see images in a shiny metal spoon?",
+    "options": [
+      "The bending of light through a lens",
+      "The reflection of light off a polished surface",
+      "The absorption of light by dark objects",
+      "The movement of particles in a solid"
+    ],
+    "answer": "The reflection of light off a polished surface",
+    "explanation": "Light rays bounce off flat or curved shiny surfaces, such as mirrors or polished spoons. This reflection allows us to see images of ourselves and our surroundings. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 15,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "According to the textbook, why does the Moon have different phases?",
+    "options": [
+      "Because the Moon produces its own light in cycles",
+      "Due to the relative positions of the Earth, Moon, and Sun",
+      "Because clouds block different parts of the Moon each night",
+      "Because the Moon's particles change from solid to gas"
+    ],
+    "answer": "Due to the relative positions of the Earth, Moon, and Sun",
+    "explanation": "The Moon does not produce its own light; it reflects the Sun's light. As it moves around the Earth, different parts of it are illuminated, creating the phases we see from our planet. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 16,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What did ancient humans invent by observing the periodic cycles of the Moon's phases?",
+    "options": [
+      "The first telescopes",
+      "The first calendars",
+      "The first electric motors",
+      "The first glass lenses"
+    ],
+    "answer": "The first calendars",
+    "explanation": "By combining careful observations of sunrises, sunsets, and lunar cycles, humans were able to track time and create calendars to determine their daily routines. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 17,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What constitutes an 'ecosystem' as described in the chapter?",
+    "options": [
+      "Only the living organisms in a specific area",
+      "Only the weather patterns on Earth",
+      "The relationships between living organisms and their environments",
+      "The distance between the Earth and the Sun"
+    ],
+    "answer": "The relationships between living organisms and their environments",
+    "explanation": "Ecosystems are complex patterns of relationships where every living being, from insects to whales, responds to and depends on air, water, sunlight, and other organisms. (Page 5)",
+    "page_number": "5"
+  },
+  {
+    "id": 18,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is meant by describing Earth as the 'just right' planet?",
+    "options": [
+      "It is the largest planet in the solar system.",
+      "It is perfectly sized for human activities.",
+      "It is at the perfect distance from the Sun for liquid water and oxygen to exist.",
+      "It is the only planet with a moon."
+    ],
+    "answer": "It is at the perfect distance from the Sun for liquid water and oxygen to exist.",
+    "explanation": "Earth's location in space allows water to remain liquid and its atmosphere to provide necessary oxygen while shielding us from harmful rays, creating a balance that supports life. (Page 5)",
+    "page_number": "5"
+  },
+  {
+    "id": 19,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "According to the 'Investigator's Mission', what is the cause of small temperature shifts that disrupt the Earth's climate?",
+    "options": [
+      "Changes in the Sun's distance",
+      "Natural cycles of the Moon",
+      "Human activities on the planet",
+      "The movement of deep-sea currents"
+    ],
+    "answer": "Human activities on the planet",
+    "explanation": "The text highlights that human activities are influencing Earth's climate by causing temperature changes. Scientists use investigation to understand and find solutions to these challenges. (Page 5)",
+    "page_number": "5"
+  },
+  {
+    "id": 20,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "In the 'Puri' experiment, which of the following is something a scientist can control (a variable to change)?",
+    "options": [
+      "Whether the puri puffs up like a balloon",
+      "The time taken to fully expand",
+      "The temperature of the frying oil",
+      "The physical thickness of the final layers"
+    ],
+    "answer": "The temperature of the frying oil",
+    "explanation": "Variables to control are factors the investigator deliberately changes. In the kitchen, this includes things like oil temperature, flour type, or the thickness of the rolled dough. (Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 21,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is the 'Rule' for isolating variables when conducting a scientific experiment?",
+    "options": [
+      "Change as many factors as possible to see what happens.",
+      "Change only one variable at a time.",
+      "Do not change any variables.",
+      "Only change variables that are easy to measure."
+    ],
+    "answer": "Change only one variable at a time.",
+    "explanation": "To truly understand the effect of a specific factor, scientists change only one thing (like oil temperature) while keeping all other conditions (like dough thickness) the same. (Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 22,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Which of these is a 'measurable' observation (variable to measure) in the puri experiment?",
+    "options": [
+      "The type of flour used",
+      "The angle at which the dough is dropped",
+      "The time taken to fully expand (in seconds)",
+      "The thickness of the rolled dough"
+    ],
+    "answer": "The time taken to fully expand (in seconds)",
+    "explanation": "Variables to observe are the results of the experiment. While flour type and dough thickness are controlled, the 'time taken' is measured to see how those controls affect the outcome. (Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 23,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "What is the concept of 'systematic investigation' as described in the kitchen context?",
+    "options": [
+      "Following a recipe exactly as written in a book.",
+      "Asking questions, isolating variables, and keeping notes of all observations.",
+      "Cleaning the kitchen thoroughly before starting to cook.",
+      "Trying random things until something works."
+    ],
+    "answer": "Asking questions, isolating variables, and keeping notes of all observations.",
+    "explanation": "Systematic investigation involves a structured approach: asking a scientific question, controlling variables, measuring results, and recording everything seen and sensed. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 24,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What is the status of our scientific understanding of why a puri swells, according to the text?",
+    "options": [
+      "It was completely understood by ancient humans.",
+      "It is a simple fact that needs no further study.",
+      "It is not really completely understood by scientists today.",
+      "It has been solved using high-tech laboratory equipment."
+    ],
+    "answer": "It is not really completely understood by scientists today.",
+    "explanation": "The text mentions that even seemingly simple everyday phenomena, like the swelling of a puri, still hold mysteries that modern science has not fully explained. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 25,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which scientific skill involves using senses or tools to gather information about a phenomenon?",
+    "options": [
+      "Guessing",
+      "Observation",
+      "Conclusion",
+      "Hypothesis"
+    ],
+    "answer": "Observation",
+    "explanation": "Observation is the act of watching and noting facts or occurrences. It is the solid ground upon which scientific knowledge is built, as represented by the 'root'. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 26,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "In Grade 7, what did students learn about the nature of science?",
+    "options": [
+      "That science is static and never changes.",
+      "That science is always evolving.",
+      "That science is only done in laboratories.",
+      "That science is based on simple 'Why' questions only."
+    ],
+    "answer": "That science is always evolving.",
+    "explanation": "The textbook notes that in Grade 7, the focus was on how scientific ideas are not fixed; they evolve as new evidence is found and deeper exploration occurs. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 27,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of the following is a 'Stop' on the scientific journey described in the overview?",
+    "options": [
+      "Stop 1: The Invisible and the Powerful",
+      "Stop 2: The History of Cooking",
+      "Stop 3: Modern Art and Science",
+      "Stop 4: The Discovery of Gold"
+    ],
+    "answer": "Stop 1: The Invisible and the Powerful",
+    "explanation": "The textbook outlines various 'stops' in the curriculum. Stop 1 focuses on microscopic forces (microbes) and powerful fundamental forces like electricity and pressure. (Infographic/Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 28,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "According to the infographic, what does 'Stop 2' focus on?",
+    "options": [
+      "The Solar System",
+      "The Fabric of Matter",
+      "The Study of Plants",
+      "Human Anatomy"
+    ],
+    "answer": "The Fabric of Matter",
+    "explanation": "Stop 2 zooms into materials to see the tiny particles that dictate how the world behaves, covering elements, compounds, mixtures, and solutions. (Infographic/Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 29,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is the primary role of vaccines as described in the chapter?",
+    "options": [
+      "To help digest food",
+      "To fight infections and keep the body healthy",
+      "To improve the taste of water",
+      "To increase physical strength"
+    ],
+    "answer": "To fight infections and keep the body healthy",
+    "explanation": "Science plays a major role in health. Nutritious food, exercise, medicines, and vaccines are all tools used to help our bodies resist and fight off harmful infections. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 30,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "How does the 'Dynamics of Pressure' explain a destructive cyclone?",
+    "options": [
+      "It is caused by magnetic effects of electricity.",
+      "It is caused by a very large difference in air pressure.",
+      "It is caused by the Moon's reflection on the ocean.",
+      "It is caused by the movement of microscopic particles in the air."
+    ],
+    "answer": "By a very large difference in air pressure.",
+    "explanation": "Air moves based on pressure differences. While a small difference creates a breeze, a strong pressure difference can lead to violent winds and storms like cyclones. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 31,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which category of matter consists of combinations of materials that can still be separated physically?",
+    "options": [
+      "Elements",
+      "Compounds",
+      "Mixtures",
+      "Solutions"
+    ],
+    "answer": "Mixtures",
+    "explanation": "Classification is key in science. Mixtures are combinations of materials where each substance retains its properties and can be separated by physical means. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 32,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What phenomenon describes how light 'bends' when passing through lenses?",
+    "options": [
+      "Reflection",
+      "Bending (Refraction)",
+      "Absorption",
+      "Magnification"
+    ],
+    "answer": "Bending (Refraction)",
+    "explanation": "As light rays pass through different materials like lenses, they change direction. This 'bending' is used to correct vision and understand how many objects work. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 33,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "According to 'Stop 3: Illuminating the Cosmos', why can we see the Moon?",
+    "options": [
+      "It produces its own bright white light.",
+      "It reflects the light of the Sun.",
+      "It is made of glowing gaseous particles.",
+      "It reflects light from the stars only."
+    ],
+    "answer": "It reflects the light of the Sun.",
+    "explanation": "The Moon does not produce light. It acts like a rough surface that reflects the Sun's rays toward Earth, allowing us to see it in the night sky. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 34,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "What is the final goal of a young scientist as described in the section 'Guardians of the Balance'?",
+    "options": [
+      "To discover a new planet.",
+      "To use scientific principles to protect the Earth.",
+      "To build more efficient machines.",
+      "To classify all living organisms."
+    ],
+    "answer": "To use scientific principles to protect the Earth.",
+    "explanation": "The ultimate mission is to use observation, measurement, and experimentation not just to understand our planet, but to help protect the delicate balance of its ecosystems. (Page 5)",
+    "page_number": "5"
+  },
+  {
+    "id": 35,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "In the puri experiment, 'Dough pieces of different thicknesses' is an example of what?",
+    "options": [
+      "A variable that is deliberately changed",
+      "A result that is measured",
+      "A conclusion drawn by the scientist",
+      "A random observation"
+    ],
+    "answer": "A variable that is deliberately changed",
+    "explanation": "In Asha’s case study, she intentionally prepares dough of different thicknesses to see how it affects the puffing process. This is the independent variable. (Case Study/Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 36,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Why did Asha keep the temperature of the oil the same during all her trials?",
+    "options": [
+      "Because she only had one stove.",
+      "To make the experiment a 'fair test' by isolating one variable.",
+      "Because oil temperature does not affect cooking.",
+      "To save energy during the investigation."
+    ],
+    "answer": "To make the experiment a 'fair test' by isolating one variable.",
+    "explanation": "To investigate the effect of dough thickness, all other factors (like oil temperature) must be kept constant. This ensures that any change in results is due only to the thickness. (Case Study/Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 37,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Recording the 'time taken for the puri to puff up' is important because it provides what?",
+    "options": [
+      "A way to know when to eat.",
+      "Measurable data to compare different trials.",
+      "A record of how long the stove was on.",
+      "Information about the type of flour used."
+    ],
+    "answer": "Measurable data to compare different trials.",
+    "explanation": "Measurement adds precision to observations. By recording time in seconds, Asha can accurately compare which thickness puffs up faster or more completely. (Case Study/Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 38,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "What conclusion would Asha draw if 'thinner dough puffed up faster than thicker dough'?",
+    "options": [
+      "Dough thickness has no effect on puffing.",
+      "Thinner dough requires higher oil temperature.",
+      "Thinner dough allows for quicker expansion when fried.",
+      "Thicker dough is better for making puris."
+    ],
+    "answer": "Thinner dough allows for quicker expansion when fried.",
+    "explanation": "The conclusion summarizes the relationship found. If the thinner dough consistently puffs up faster under the same conditions, it shows that thickness directly influences expansion speed. (Case Study Worksheet)",
+    "page_number": "Case Study"
+  },
+  {
+    "id": 39,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which scientific skill was Arjun using when he 'recorded the changing appearance of the Moon' over several nights?",
+    "options": [
+      "Experimentation",
+      "Observation and Recording",
+      "Classification",
+      "Prediction"
+    ],
+    "answer": "Observation and Recording",
+    "explanation": "By watching the Moon's shape and keeping a record of what he saw each night, Arjun is practicing fundamental scientific observation and data collection. (Case Study Worksheet)",
+    "page_number": "Case Study"
+  },
+  {
+    "id": 40,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "How did early humans use their observations of the Moon's routines?",
+    "options": [
+      "To travel to other planets.",
+      "To develop the first calendars and track time.",
+      "To predict the exact temperature of the Earth.",
+      "To create mirrors and lenses."
+    ],
+    "answer": "To develop the first calendars and track time.",
+    "explanation": "The periodic cycles of the Moon were predictable and visible, making them an excellent natural tool for early humans to organize their lives and mark the passage of months. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 41,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What is the primary cause of wind according to the students' geography project?",
+    "options": [
+      "Differences in air pressure",
+      "The gravitational pull of the Sun",
+      "The rotation of the Earth",
+      "The density of clouds in the sky"
+    ],
+    "answer": "Differences in air pressure",
+    "explanation": "Air moves from areas of high pressure to areas of low pressure. This movement is what we experience as wind. (Case Study Worksheet)",
+    "page_number": "Case Study"
+  },
+  {
+    "id": 42,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Why do scientists study differences in air pressure?",
+    "options": [
+      "To understand why solids are rigid.",
+      "To understand weather patterns and predict storms.",
+      "To learn how sugar dissolves in tea.",
+      "To calculate the distance to the Moon."
+    ],
+    "answer": "To understand weather patterns and predict storms.",
+    "explanation": "Pressure patterns are linked to many weather events. Studying these differences helps meteorologists predict everything from gentle breezes to destructive cyclones. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 43,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "The question 'Why is one side of a puri thinner than the other?' is an invitation to do what?",
+    "options": [
+      "Take a difficult exam",
+      "Spark curiosity and explore the world of science",
+      "Memorize a recipe from a cookbook",
+      "Ignore everyday events"
+    ],
+    "answer": "Spark curiosity and explore the world of science",
+    "explanation": "The chapter opens with everyday questions to show that science is not just in labs but all around us, starting with the simplest observations in our homes. (Page 1)",
+    "page_number": "1"
+  },
+  {
+    "id": 44,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "In a systematic investigation, what should a scientist do if the results are different from what was expected?",
+    "options": [
+      "Ignore the unexpected results.",
+      "Change the recorded data to match the expectation.",
+      "Carefully record the results and investigate why the difference occurred.",
+      "Stop the experiment immediately and try something else."
+    ],
+    "answer": "Carefully record the results and investigate why the difference occurred.",
+    "explanation": "Unexpected results are a key part of science. They often lead to new questions and deeper understanding. A scientist must remain objective and record all outcomes accurately. (Worksheet Level 3)",
+    "page_number": "Worksheet"
+  },
+  {
+    "id": 45,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is the importance of 'keeping notes of everything you see and sense' during an experiment?",
+    "options": [
+      "It helps you remember what you cooked for dinner.",
+      "It allows you to identify more questions and ensures you don't miss details.",
+      "It is only necessary if you are working in a fancy laboratory.",
+      "It is a way to pass time while the experiment is running."
+    ],
+    "answer": "It allows you to identify more questions and ensures you don't miss details.",
+    "explanation": "Detailed notes (smell, splatter, smoke) provide a complete picture of the trial. This data can spark further curiosity and help explain why certain results were achieved. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 46,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of these is NOT a variable to control in the puri experiment?",
+    "options": [
+      "The type of flour used",
+      "The angle of dropping the dough",
+      "Whether the puri puffs up like a balloon",
+      "The size of the rolled dough"
+    ],
+    "answer": "Whether the puri puffs up like a balloon",
+    "explanation": "Puffing up is an observation (result), not a control variable. Controls are factors like flour type or drop angle that the investigator sets before starting. (Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 47,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What does 'isolating your variables' mean in a kitchen science experiment?",
+    "options": [
+      "Keeping the ingredients in separate containers.",
+      "Changing only one factor while keeping all others constant.",
+      "Cooking each puri in a different kitchen.",
+      "Using only one type of kitchen tool."
+    ],
+    "answer": "Changing only one factor while keeping all others constant.",
+    "explanation": "Isolating variables allows a scientist to determine the exact cause of a result. If you change flour and temperature at once, you won't know which caused the change in puffing. (Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 48,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "How do observation, measurement, and experimentation work together in science?",
+    "options": [
+      "They are three separate paths that never meet.",
+      "Observation starts the question, experimentation tests it, and measurement provides precise data.",
+      "Measurement replaces the need for observation.",
+      "Experimentation is only done if observation fails."
+    ],
+    "answer": "Observation starts the question, experimentation tests it, and measurement provides precise data.",
+    "explanation": "These three components are the 'heart of how science works'. Observation leads to curiosity, experiments provide the platform to test ideas, and measurement adds the necessary detail for comparison. (Page 5/7)",
+    "page_number": "5"
+  },
+  {
+    "id": 49,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What makes Earth 'just right' for providing the oxygen we breathe?",
+    "options": [
+      "Its atmosphere",
+      "Its distance from the Moon",
+      "The presence of volcanoes",
+      "The human activities on the surface"
+    ],
+    "answer": "Its atmosphere",
+    "explanation": "Earth’s atmosphere is unique because it provides life-sustaining oxygen and acts as a shield against harmful ultraviolet rays from the Sun. (Page 5)",
+    "page_number": "5"
+  },
+  {
+    "id": 50,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Every living being, from the tiniest insect to the largest whale, depends on and responds to what?",
+    "options": [
+      "The first calendars invented by humans",
+      "Air, water, sunlight, and other organisms",
+      "Only the heating effect of electricity",
+      "The thickness of a puri dough"
+    ],
+    "answer": "Air, water, sunlight, and other organisms",
+    "explanation": "Organisms do not live in isolation. They are part of an interconnected web (ecosystem) where they interact with both non-living elements and other living things. (Page 5)",
+    "page_number": "5"
+  },
+  {
+    "id": 51,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of these is a pure substance made of a single type of particle?",
+    "options": [
+      "Mixture",
+      "Compound",
+      "Element",
+      "Solution"
+    ],
+    "answer": "Element",
+    "explanation": "An element is the simplest form of matter, consisting of only one kind of particle, unlike compounds or mixtures which involve multiple types. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 52,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What can a 'gentle breeze' turn into if the pressure difference becomes much stronger?",
+    "options": [
+      "A lunar eclipse",
+      "A cyclone or strong wind",
+      "A drop of water",
+      "A mixture of gases"
+    ],
+    "answer": "A cyclone or strong wind",
+    "explanation": "The intensity of wind is directly proportional to the air pressure difference. Stronger differences lead to more powerful weather phenomena. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 53,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "According to the 'Maturation of a Scientist' infographic, what characterizes 'Grade 8 - The Age of Investigation'?",
+    "options": [
+      "Asking basic 'Why?' and 'How?' questions.",
+      "Realizing science is never static.",
+      "Moving beyond observation to designing structured experiments.",
+      "Copying results from books."
+    ],
+    "answer": "Moving beyond observation to designing structured experiments.",
+    "explanation": "In Grade 8, students transition from simple curiosity to actively finding new facts by designing experiments and asking highly focused questions. (Maturation Infographic)",
+    "page_number": "Infographic"
+  },
+  {
+    "id": 54,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of these is a daily life example of light reflection mentioned in the text?",
+    "options": [
+      "Using a heater to stay warm",
+      "Seeing an image in a shiny metal spoon",
+      "Dissolving sugar in tea",
+      "Watching wind blow through trees"
+    ],
+    "answer": "Seeing an image in a shiny metal spoon",
+    "explanation": "The shiny surface of a spoon acts like a mirror, bouncing light rays back to our eyes and allowing us to see a reflection. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 55,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is the purpose of corrective glasses as mentioned in the world of light?",
+    "options": [
+      "To reflect light into our eyes.",
+      "To help us see clearly by bending light rays.",
+      "To change the color of the objects we see.",
+      "To protect eyes from the heating effect of electricity."
+    ],
+    "answer": "To help us see clearly by bending light rays.",
+    "explanation": "Lenses in glasses manipulate light rays through refraction (bending) to ensure they focus correctly on the eye, helping many people see with better clarity. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 56,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "How does human activity disrupt 'The Grand Balance' of the planet?",
+    "options": [
+      "By creating too many calendars.",
+      "By causing temperature shifts through small changes.",
+      "By observing the Moon too closely.",
+      "By making puris with different types of flour."
+    ],
+    "answer": "By causing temperature shifts through small changes.",
+    "explanation": "Human-induced activities contribute to temperature increases on Earth, which can lead to the disruption of climate patterns and ecosystems. (Page 5/Infographic)",
+    "page_number": "5"
+  },
+  {
+    "id": 57,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of the following is a 'Question a scientist might ask' about a puri?",
+    "options": [
+      "Does it look delicious?",
+      "Is it more expensive than bread?",
+      "Why is one side thinner than the other?",
+      "What is the best festival to eat it at?"
+    ],
+    "answer": "Why is one side thinner than the other?",
+    "explanation": "Scientific questions focus on the physical causes and mechanisms behind a phenomenon, rather than personal opinions or economic values. (Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 58,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "In science, 'Classifying things' is considered what?",
+    "options": [
+      "A boring task to be avoided.",
+      "An important feature of scientific study.",
+      "Only for biologists studying animals.",
+      "Something that only ancient humans did."
+    ],
+    "answer": "An important feature of scientific study.",
+    "explanation": "Classifying (e.g., elements, compounds, mixtures) helps scientists organize knowledge and understand how different substances behave and interact. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 59,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "What is the relationship between 'The Root' and 'The Kite' in scientific work?",
+    "options": [
+      "They represent opposing views that cannot coexist.",
+      "The root provides the foundation, while the kite allows for creative exploration.",
+      "The kite represents facts and the root represents guesses.",
+      "The kite is for Grade 6 students and the root is for Grade 8."
+    ],
+    "answer": "The root provides the foundation, while the kite allows for creative exploration.",
+    "explanation": "For science to work, one must stay grounded in real observations (root) while having the freedom to think creatively and form hypotheses (kite). (Page 2/Infographic)",
+    "page_number": "2"
+  },
+  {
+    "id": 60,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of the following describes the motion of particles in a gas?",
+    "options": [
+      "They cannot move at all.",
+      "They move around freely.",
+      "They are bonded chemically in pairs.",
+      "They only move when electricity is applied."
+    ],
+    "answer": "They move around freely.",
+    "explanation": "Unlike solids, particles in gases have high energy and are not held in fixed positions, allowing them to fill any container they are in. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 61,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "According to the textbook, where can a young scientist start doing simple experiments?",
+    "options": [
+      "Only in a fancy laboratory",
+      "Only at a university",
+      "Even in their kitchen at home",
+      "Only after they graduate from school"
+    ],
+    "answer": "Even in their kitchen at home",
+    "explanation": "Science is everywhere. A kitchen is a wonderful place to observe phenomena, ask questions like 'What happens if...?', and perform systematic investigations. (Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 62,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "What does a scientist do to 'improve their understanding' after an experiment?",
+    "options": [
+      "They stop asking questions.",
+      "They use their observations to refine their ideas.",
+      "They search for the answer in an old book and ignore their data.",
+      "They change the results to match their first guess."
+    ],
+    "answer": "They use their observations to refine their ideas.",
+    "explanation": "Scientific learning is iterative. Observations made during an experiment are used to update knowledge, correct errors, and lead to more focused follow-up questions. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 63,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What is the unit of measurement used for the 'time taken to puff up' in the kitchen experiment?",
+    "options": [
+      "Minutes",
+      "Seconds",
+      "Hours",
+      "Centimeters"
+    ],
+    "answer": "Seconds",
+    "explanation": "In Asha’s experiment and the variables chart, time is recorded in seconds to provide precise data for the quick expansion of the puri. (Page 6/Case Study)",
+    "page_number": "6"
+  },
+  {
+    "id": 64,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What does 'The Interconnected Web' represent in the 'Guardians of the Balance' section?",
+    "options": [
+      "The global computer network.",
+      "The way concepts like microbes, weather, and energy interact in an ecosystem.",
+      "The physical threads of a spider's web.",
+      "The lines used to design the textbook's pages."
+    ],
+    "answer": "The way concepts like microbes, weather, and energy interact in an ecosystem.",
+    "explanation": "Science shows that everything is linked. Microscopic organisms, weather systems, and the energy from the Sun all interact to support life on Earth. (Page 5/Infographic)",
+    "page_number": "5"
+  },
+  {
+    "id": 65,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "If a student wanted to test 'Do puris puff better when made fresh or from stored dough?', what is the variable they are changing?",
+    "options": [
+      "The oil temperature",
+      "The freshness/storage time of the dough",
+      "The size of the frying pan",
+      "The time taken to puff up"
+    ],
+    "answer": "The freshness/storage time of the dough",
+    "explanation": "To answer this specific question, the student must vary only the state of the dough (fresh vs. stored) while keeping everything else constant. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 66,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of these is a 'Stop' on the scientific journey focusing on the cosmos?",
+    "options": [
+      "Stop 1",
+      "Stop 2",
+      "Stop 3",
+      "Stop 4"
+    ],
+    "answer": "Stop 3",
+    "explanation": "Stop 3, titled 'Illuminating the Cosmos', covers the paths of light, reflections, and the lunar connection. (Page 4/Infographic)",
+    "page_number": "4"
+  },
+  {
+    "id": 67,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Why is 'pricking a hole in the puri before frying' considered a scientific question to explore?",
+    "options": [
+      "Because it makes the puri look better.",
+      "Because it is a way to test if trapped gas is responsible for puffing.",
+      "Because it is a traditional way of cooking.",
+      "Because it prevents the oil from splattering."
+    ],
+    "answer": "Because it is a way to test if trapped gas is responsible for puffing.",
+    "explanation": "A scientist asks 'What if...?' to test ideas. Pricking a hole would likely stop the puffing, helping to prove that internal pressure is what causes the expansion. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 68,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "What is the 'core insight' regarding the balance in science?",
+    "options": [
+      "Science works best with only creative thinking.",
+      "Science works only when we maintain a balance between measured observations and freedom of mind.",
+      "Science is only about discovering new facts and ignoring traditions.",
+      "Science works best when students follow instructions without questioning."
+    ],
+    "answer": "Science works only when we maintain a balance between measured observations and freedom of mind.",
+    "explanation": "The core insight provided in the anchor and flight infographic emphasizes that grounded facts and creative exploration are both essential for scientific progress. (Page 2/Infographic)",
+    "page_number": "2"
+  },
+  {
+    "id": 69,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Science is always evolving.\nReason (R): Each answer opens new questions, and ideas can slowly change as we explore deeper.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Scientific knowledge is never fixed. The reason provided correctly explains why science is described as 'evolving'—because new discoveries continuously prompt new questions and refinement of old ideas. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 70,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): It is important to change only one factor at a time during an experiment.\nReason (R): This allows the scientist to see if that specific change made any difference in the outcome.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Changing only one variable (isolating variables) is the key to a fair test. If multiple things change at once, it's impossible to tell which one caused the observed effect. (Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 71,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The Moon undergoes periodic changes called phases.\nReason (R): The Moon produces its own light which flickers on and off depending on its position.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "While it is true that the Moon has phases, the reason is false. The Moon does not produce its own light; it reflects the Sun's light. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 72,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Microbes are always harmful and should be completely eliminated.\nReason (R): Some microbes cause harmful infections in humans.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The assertion is false because some microbes are 'invisible helpers' that aid digestion or help produce medicine. The reason is true because some microbes do indeed cause infections. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 73,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Differences in air pressure lead to the production of wind.\nReason (R): Air moves from an area of high pressure to an area of low pressure.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The movement of air caused by pressure imbalances is the fundamental cause of wind, and the direction is always from high to low pressure. (Page 3/Case Study)",
+    "page_number": "3"
+  },
+  {
+    "id": 74,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Systematic investigation requires keeping notes of all observations.\nReason (R): Only measurable numbers are important in scientific recording.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "The assertion is true as per the 'systematic investigation' concept. However, the reason is false because 'senses' (smell, splatter) are also important to record alongside numerical measurements. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 75,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Modern scientists completely understand the mechanism of a puri swelling.\nReason (R): Even simple everyday observations are part of systematic investigation.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The assertion is false; the text explicitly states scientists don't completely understand it today. The reason is true; science applies to all observations, simple or complex. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 76,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Classifying materials into elements, compounds, and mixtures is an important feature of science.\nReason (R): It allows scientists to understand how particles combine or mix.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Classification is a foundational scientific skill. By categorizing matter, scientists can predict behavior and explain phenomena like sugar dissolving in tea. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 77,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Human activities are causing shifts in Earth's climate balance.\nReason (R): Small shifts in temperature can lead to dangerous consequences and disrupt climate patterns.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The textbook highlights the urgent challenge of climate change, caused by human influence on temperature, which in turn disrupts the delicate planetary balance. (Page 5)",
+    "page_number": "5"
+  },
+  {
+    "id": 78,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Ancient humans were able to mark months and seasons without modern clocks.\nReason (R): Careful observations of lunar cycles and sunrises allowed them to create the first calendars.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The predictable and repeating patterns of astronomical bodies served as the first natural timekeepers, which early civilizations used to structure their lives. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 79,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Observation is the 'root' of scientific investigation.\nReason (R): Science can only soar towards new horizons if it stays grounded in real, measured observations.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The 'root' symbolises the necessity of observation. The reason correctly states that creative thinking must be supported by a solid foundation of facts to be scientifically valid. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 80,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Lenses are used in corrective glasses.\nReason (R): Lenses manipulate light rays through reflection to improve vision.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "Lenses work by bending (refraction) light rays, not by reflection. Reflection is the bouncing of light off shiny surfaces like mirrors or spoons. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 81,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What does the textbook encourage students to become instead of just 'passive learners'?",
+    "options": [
+      "Expert chefs",
+      "Young scientists and investigators",
+      "History scholars",
+      "Professional athletes"
+    ],
+    "answer": "Young scientists and investigators",
+    "explanation": "The introductory page of the textbook invites students to move beyond passive learning and embrace the role of a young scientist ready to explore real-world puzzles through investigation. (Page 1/Introductory Graphic)",
+    "page_number": "1"
+  },
+  {
+    "id": 82,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of these is a question mentioned in the 'Probe and Ponder' section to spark curiosity?",
+    "options": [
+      "How many pages are in this book?",
+      "Why is one side of a puri thinner than the other?",
+      "What is the capital of India?",
+      "How do you build a computer?"
+    ],
+    "answer": "Why is one side of a puri thinner than the other?",
+    "explanation": "The 'Probe and Ponder' section uses everyday observations, like the uneven thickness of a puri, to encourage students to think scientifically about the world around them. (Page 1)",
+    "page_number": "1"
+  },
+  {
+    "id": 83,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "In Grade 6, what was the starting point for discovering how science begins?",
+    "options": [
+      "Complex mathematical equations",
+      "Wonder and simple 'Why?' and 'How?' questions",
+      "Reading scientific journals",
+      "Performing high-level lab tests"
+    ],
+    "answer": "Wonder and simple 'Why?' and 'How?' questions",
+    "explanation": "The textbook reflects on the journey from Grade 6, where the foundation of science was established through basic curiosity and wondering about the diversity of the natural world. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 84,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What can students use as 'starting points' to try and observe carefully and experiment thoughtfully?",
+    "options": [
+      "Only laboratory manuals",
+      "Scientific questions",
+      "Answer keys from textbooks",
+      "Pre-written conclusions"
+    ],
+    "answer": "Scientific questions",
+    "explanation": "The text explains that learning to use questions as starting points is the first step toward observing carefully and conducting experiments like an investigator. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 85,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "According to the textbook, where can scientific investigations range from?",
+    "options": [
+      "Only from deep space to the ocean floor",
+      "From everyday life to bigger mysteries of Earth and beyond",
+      "Only between different chemistry labs",
+      "Only from the 18th century to the 19th century"
+    ],
+    "answer": "From everyday life to bigger mysteries of Earth and beyond",
+    "explanation": "Science covers a vast spectrum, investigating simple things like why dough rises to complex global issues like whether the world is getting warmer. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 86,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What do the 'patterns in the lines' at the bottom of the textbook pages contain?",
+    "options": [
+      "Hidden scientific thoughts",
+      "Math problems to solve",
+      "Secret codes for games",
+      "Instructions for teachers"
+    ],
+    "answer": "Hidden scientific thoughts",
+    "explanation": "The textbook designer included patterns at the bottom of the pages to make the book more engaging and to represent scientific thoughts visually. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 87,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of these is a factor that helps our body fight infections, according to the text?",
+    "options": [
+      "Wearing expensive clothes",
+      "Nutritious food, exercise, medicines, and vaccines",
+      "Drinking only flavored sodas",
+      "Staying awake all night"
+    ],
+    "answer": "Nutritious food, exercise, medicines, and vaccines",
+    "explanation": "The chapter highlights that maintaining health involves a combination of good nutrition, physical activity, and medical science like vaccines. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 88,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What fundamental concept explains how force is distributed over an object?",
+    "options": [
+      "Temperature",
+      "Pressure",
+      "Classification",
+      "Solution"
+    ],
+    "answer": "Pressure",
+    "explanation": "Pressure is the scientific concept used to describe how a specific amount of force is spread out or distributed across an area or object. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 89,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Everything around us is made of what, according to the 'Fabric of Matter' section?",
+    "options": [
+      "Tiny particles",
+      "Solid blocks only",
+      "Liquid only",
+      "Visible light only"
+    ],
+    "answer": "Tiny particles",
+    "explanation": "A central theme in Stop 2 is that all matter is composed of tiny particles, and their movement determines the state of the material (solid, liquid, or gas). (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 90,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which state of matter allows particles to move around most freely?",
+    "options": [
+      "Solids",
+      "Gases",
+      "Metals",
+      "Ice"
+    ],
+    "answer": "Gases",
+    "explanation": "The textbook explains that in gases, particles have the freedom to move around significantly, unlike in solids where they cannot move much. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 91,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What allows us to see images in polished mirrors and shiny metal spoons?",
+    "options": [
+      "Light bending",
+      "Light reflecting",
+      "Light disappearing",
+      "Light turning into heat"
+    ],
+    "answer": "Light reflecting",
+    "explanation": "The reflection of light rays off flat or curved shiny surfaces allows for the formation of images we can see. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 92,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "The Earth sits at the 'exact perfect distance' from which object to allow liquid water to flow?",
+    "options": [
+      "The Moon",
+      "The Sun",
+      "Mars",
+      "Jupiter"
+    ],
+    "answer": "The Sun",
+    "explanation": "The 'just right' distance from the Sun is what creates the temperature range necessary for liquid water, which is vital for life. (Page 5/Infographic)",
+    "page_number": "5"
+  },
+  {
+    "id": 93,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What is the heart of both the problem and the possible solution for Earth's climate issues?",
+    "options": [
+      "The Sun",
+      "Plants",
+      "Us (Humans)",
+      "The Moon"
+    ],
+    "answer": "Us (Humans)",
+    "explanation": "The text states that while humans influence the climate, we also have the scientific tools to understand and guide actions to fix the problems. (Page 5)",
+    "page_number": "5"
+  },
+  {
+    "id": 94,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What does a 'Variable to Observe' mean in an experiment?",
+    "options": [
+      "Something we keep the same",
+      "Something we measure to see the effect",
+      "Something we ignore",
+      "The person doing the experiment"
+    ],
+    "answer": "Something we measure to see the effect",
+    "explanation": "In scientific terminology, the variables we observe or measure (like time or puffing success) are the outcomes of the changes we made. (Page 6/Infographic)",
+    "page_number": "6"
+  },
+  {
+    "id": 95,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of these is a variable that Asha changed in her case study?",
+    "options": [
+      "Oil temperature",
+      "Dough thickness",
+      "The type of pan",
+      "The color of the stove"
+    ],
+    "answer": "Dough thickness",
+    "explanation": "Asha deliberately prepared dough pieces of different thicknesses to investigate how thickness affects the puffing of a puri. (Case Study Worksheet)",
+    "page_number": "Case Study"
+  },
+  {
+    "id": 96,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What is the 'Rule' mentioned in the Kitchen Science infographic?",
+    "options": [
+      "Wash your hands before cooking",
+      "Change only ONE variable at a time",
+      "Record results only if they are correct",
+      "Always use a laboratory"
+    ],
+    "answer": "Change only ONE variable at a time",
+    "explanation": "This is the golden rule of experimental design to ensure that the results are reliable and the cause is clearly identified. (Page 6/Infographic)",
+    "page_number": "6"
+  },
+  {
+    "id": 97,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of the following describes 'Purnima' mentioned in the text?",
+    "options": [
+      "The day the Moon disappears",
+      "The full moon day before which the bright part starts shrinking",
+      "A type of scientific tool",
+      "The name of a famous scientist"
+    ],
+    "answer": "The full moon day before which the bright part starts shrinking",
+    "explanation": "The text references purnima when discussing the shrinking of the bright part of the moon as part of its phases. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 98,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What can happen to oil in an experiment that a scientist should note down?",
+    "options": [
+      "If it becomes expensive",
+      "If it splatters, smells, or smokes",
+      "If it turns into water",
+      "The brand name only"
+    ],
+    "answer": "If it splatters, smells, or smokes",
+    "explanation": "Detailed sensory observations like smell or smoke are important parts of scientific recording during an experiment. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 99,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of the following is NOT a scientific question?",
+    "options": [
+      "Why does dough rise?",
+      "Which subject is easiest?",
+      "Why is the world getting warmer?",
+      "Why is one side of a puri thinner?"
+    ],
+    "answer": "Which subject is easiest?",
+    "explanation": "Scientific questions deal with observable phenomena in the natural world, whereas 'Which subject is easiest?' is a matter of personal opinion. (Worksheet Level 1)",
+    "page_number": "Worksheet"
+  },
+  {
+    "id": 100,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "According to the textbook, science often begins with:",
+    "options": [
+      "Memorizing facts",
+      "Asking questions about the world",
+      "Reading textbooks only",
+      "Conducting difficult experiments only"
+    ],
+    "answer": "Asking questions about the world",
+    "explanation": "The fundamental start of scientific inquiry is the act of being curious and asking questions. (Worksheet Level 1)",
+    "page_number": "Worksheet"
+  },
+  {
+    "id": 101,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "What should a scientist do if they want their results to be 'reliable'?",
+    "options": [
+      "Change many factors at once",
+      "Observe carefully and record results",
+      "Ignore unexpected observations",
+      "Avoid repeating the experiment"
+    ],
+    "answer": "Observe carefully and record results",
+    "explanation": "Reliability in science comes from careful, honest observation and meticulous recording of all data collected. (Worksheet Level 1)",
+    "page_number": "Worksheet"
+  },
+  {
+    "id": 102,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "In Arjun's moon observation, what is he tracking over several nights?",
+    "options": [
+      "The moon's temperature",
+      "The changing appearance (phases) of the moon",
+      "The moon's distance from the Sun",
+      "The number of stars near the moon"
+    ],
+    "answer": "The changing appearance (phases) of the moon",
+    "explanation": "Arjun is specifically recording how the shape of the moon appears to change from a crescent to half to round. (Case Study 2)",
+    "page_number": "Case Study"
+  },
+  {
+    "id": 103,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Wind blows more strongly on some days because of differences in what?",
+    "options": [
+      "Air temperature only",
+      "Air pressure",
+      "Cloud density",
+      "Moonlight intensity"
+    ],
+    "answer": "Air pressure",
+    "explanation": "As explained in Case Study 3, wind is the movement of air caused by differences in atmospheric pressure. (Case Study 3)",
+    "page_number": "Case Study"
+  },
+  {
+    "id": 104,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "easy",
+    "question_type": "mcq",
+    "question": "Which of these is a 'Stop' on the journey that deals with force and electricity?",
+    "options": [
+      "The Fabric of Matter",
+      "The Invisible and the Powerful",
+      "Illuminating the Cosmos",
+      "Guardians of the Balance"
+    ],
+    "answer": "The Invisible and the Powerful",
+    "explanation": "Stop 1 focuses on microscopic forces (the invisible) and powerful forces like electricity and pressure. (Page 3/Infographic)",
+    "page_number": "3"
+  },
+  {
+    "id": 105,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Why is it important to investigate 'simple everyday phenomena' like a puri swelling?",
+    "options": [
+      "Because scientists already know everything about it.",
+      "Because it follows the same principles as the most complicated scientific experiments.",
+      "Because it is the only way to cook better food.",
+      "Because it doesn't require any observations."
+    ],
+    "answer": "Because it follows the same principles as the most complicated scientific experiments.",
+    "explanation": "The textbook emphasizes that systematic investigation applies to everything, whether it is a kitchen event or a complex planetary mystery. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 106,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "In the 'Maturation of a Scientist' diagram, what characterizes 'Grade 7 - The Age of Evolution'?",
+    "options": [
+      "Starting with simple curiosity.",
+      "Learning that science is never static and ideas must change as we dig deeper.",
+      "Designing structured experiments.",
+      "Finding new facts through observation only."
+    ],
+    "answer": "Learning that science is never static and ideas must change as we dig deeper.",
+    "explanation": "Grade 7 is depicted as the stage where students realize that answers lead to more questions and scientific ideas evolve. (Page 2/Infographic)",
+    "page_number": "2"
+  },
+  {
+    "id": 107,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is the relationship between 'Force' and 'Pressure' as described in the overview?",
+    "options": [
+      "Force and pressure are the same thing.",
+      "Pressure describes how force is distributed over an object.",
+      "Pressure only exists in the absence of force.",
+      "Force only acts on solids, while pressure only acts on gases."
+    ],
+    "answer": "Pressure describes how force is distributed over an object.",
+    "explanation": "Pressure is a derived concept that measures the effect of a force applied over a specific surface area. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 108,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "How do particles in a solid differ from those in a gas regarding movement?",
+    "options": [
+      "Gas particles cannot move much, while solid particles move freely.",
+      "Solid particles cannot move much, while gas particles move freely.",
+      "Both solid and gas particles move at the same speed.",
+      "Neither solid nor gas particles move at all."
+    ],
+    "answer": "Solid particles cannot move much, while gas particles move freely.",
+    "explanation": "This physical difference in particle movement is what distinguishes the rigid structure of solids from the expansive nature of gases. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 109,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Which classification refers to two or more elements bonded chemically into a new substance?",
+    "options": [
+      "Element",
+      "Mixture",
+      "Compound",
+      "Solution"
+    ],
+    "answer": "Compound",
+    "explanation": "A compound is a chemical combination of different elements that results in a substance with new properties. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 110,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What happens when light rays pass through lenses, helping people see clearly?",
+    "options": [
+      "They are reflected like a mirror.",
+      "They are absorbed by the glass.",
+      "They are bent (refracted) to focus correctly.",
+      "They are turned into heat energy."
+    ],
+    "answer": "They are bent (refracted) to focus correctly.",
+    "explanation": "Lenses work by bending light rays to correct vision issues, ensuring the light reaches the eye's sensors properly. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 111,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Why is the Moon illuminated differently each night?",
+    "options": [
+      "The Moon moves closer to and further from the Sun.",
+      "Depending on the relative positions of Earth, Moon, and Sun.",
+      "The Sun's brightness changes every 24 hours.",
+      "Clouds in space block the light."
+    ],
+    "answer": "Depending on the relative positions of Earth, Moon, and Sun.",
+    "explanation": "As the Moon orbits the Earth, our view of its sunlit half changes, creating the cycle of lunar phases. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 112,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What does the textbook mean by every living being 'responds to' its environment?",
+    "options": [
+      "Living beings ignore their surroundings.",
+      "Living beings interact with and are affected by air, water, and sunlight.",
+      "Living beings only care about other living beings.",
+      "Living beings can live without sunlight."
+    ],
+    "answer": "Living beings interact with and are affected by air, water, and sunlight.",
+    "explanation": "Ecosystems are defined by the complex ways organisms react to and depend on the non-living factors in their environment. (Page 5)",
+    "page_number": "5"
+  },
+  {
+    "id": 113,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is the primary role of Earth's atmosphere mentioned in 'Guardians of the Balance'?",
+    "options": [
+      "Providing oxygen and shielding us from ultraviolet rays.",
+      "Keeping the Earth exactly at the same temperature forever.",
+      "Preventing all wind from blowing.",
+      "Making the Moon appear bright."
+    ],
+    "answer": "Providing oxygen and shielding us from ultraviolet rays.",
+    "explanation": "The atmosphere is essential not just for breathing but also for protecting life from the Sun's harmful radiation. (Page 5)",
+    "page_number": "5"
+  },
+  {
+    "id": 114,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Which of these is a 'Variable to Control' in the puri experiment involving flour?",
+    "options": [
+      "The time taken to puff up.",
+      "Whether the puri is tasty.",
+      "The type of flour (atta vs. maida).",
+      "The number of people eating the puri."
+    ],
+    "answer": "The type of flour (atta vs. maida).",
+    "explanation": "The type of flour is a controlled variable because the investigator chooses it and keeps it constant for specific trials to test its effect. (Page 6/Infographic)",
+    "page_number": "6"
+  },
+  {
+    "id": 115,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What measurable variable was recorded by Asha in her experiment?",
+    "options": [
+      "The angle of dropping.",
+      "How long each puri took to puff up.",
+      "The brand of oil used.",
+      "The temperature of the room."
+    ],
+    "answer": "How long each puri took to puff up.",
+    "explanation": "Recording the time (a quantitative measurement) allows for a precise comparison between the different thicknesses tested. (Case Study Worksheet)",
+    "page_number": "Case Study"
+  },
+  {
+    "id": 116,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is the benefit of keeping notes of sensations like 'oil splatter' or 'smoke'?",
+    "options": [
+      "It makes the experiment longer.",
+      "It may help think of more questions or explain unusual results.",
+      "It is only for professional writers.",
+      "It replaces the need to measure time."
+    ],
+    "answer": "It may help think of more questions or explain unusual results.",
+    "explanation": "Qualitative notes provide context that numerical data might miss, potentially revealing why an experiment didn't go as planned. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 117,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "In Case Study 2, how does Arjun's teacher explain the phases of the Moon?",
+    "options": [
+      "The Moon is actually changing its physical shape.",
+      "The phases occur due to the relative positions of Earth, Moon, and Sun.",
+      "The Moon's surface is being covered by space dust.",
+      "The phases are caused by the Earth's shadow only."
+    ],
+    "answer": "The phases occur due to the relative positions of Earth, Moon, and Sun.",
+    "explanation": "The teacher clarifies that the changing appearance of the Moon is an optical effect based on geometry in space. (Case Study 2)",
+    "page_number": "Case Study"
+  },
+  {
+    "id": 118,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Why do scientists study air pressure patterns according to Case Study 3?",
+    "options": [
+      "To understand how to fly kites better.",
+      "To understand weather and storms.",
+      "To calculate the weight of the Earth.",
+      "To find areas with no wind."
+    ],
+    "answer": "To understand weather and storms.",
+    "explanation": "Monitoring pressure differences is critical for meteorology and forecasting dangerous weather events. (Case Study 3)",
+    "page_number": "Case Study"
+  },
+  {
+    "id": 119,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is a 'measurable observation' in an investigation?",
+    "options": [
+      "The dough feels soft.",
+      "The puri puffed up in 6 seconds.",
+      "The oil looks very hot.",
+      "The puri looks tasty."
+    ],
+    "answer": "The puri puffed up in 6 seconds.",
+    "explanation": "A measurable observation uses numbers and units (like seconds) to provide objective data, unlike subjective descriptions like 'soft' or 'tasty'. (Worksheet Level 2)",
+    "page_number": "Worksheet"
+  },
+  {
+    "id": 120,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "The factor that is deliberately changed in a scientific experiment is called:",
+    "options": [
+      "Observation",
+      "Measurement",
+      "Variable",
+      "Conclusion"
+    ],
+    "answer": "Variable",
+    "explanation": "A variable is any factor, trait, or condition that can exist in differing amounts or types in an experiment. (Worksheet Level 2)",
+    "page_number": "Worksheet"
+  },
+  {
+    "id": 121,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Which of these is an example of 'careful scientific observation'?",
+    "options": [
+      "Saying an experiment looks interesting.",
+      "Guessing the result of an experiment.",
+      "Recording the time taken for dough to puff in hot oil.",
+      "Ignoring unexpected results."
+    ],
+    "answer": "Recording the time taken for dough to puff in hot oil.",
+    "explanation": "Careful observation involves accurately noting down data and occurrences during the investigative process. (Worksheet Level 2)",
+    "page_number": "Worksheet"
+  },
+  {
+    "id": 122,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is the purpose of 'isolating variables' mentioned in the textbook?",
+    "options": [
+      "To perform science without a laboratory.",
+      "To keep the variables away from each other.",
+      "To ensure only one factor affects the result at a time.",
+      "To make the experiment more complicated."
+    ],
+    "answer": "To ensure only one factor affects the result at a time.",
+    "explanation": "Isolation allows the scientist to determine the specific cause and effect relationship in an investigation. (Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 123,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Which of these is NOT an example of a 'Variable to Control' in the Kitchen Science infographic?",
+    "options": [
+      "Thickness of the rolled dough.",
+      "Temperature of the frying oil.",
+      "Time taken to fully expand.",
+      "Type of flour used."
+    ],
+    "answer": "Time taken to fully expand.",
+    "explanation": "Time taken is a variable to *observe* or *measure* (the result), whereas the other three are things the cook *changes* or *controls*. (Page 6/Infographic)",
+    "page_number": "6"
+  },
+  {
+    "id": 124,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "How does the textbook describe 'mixtures'?",
+    "options": [
+      "Pure substances with one type of particle.",
+      "Two elements chemically bonded.",
+      "Combinations of materials that can be separated physically.",
+      "Particles that integrate perfectly like solutions."
+    ],
+    "answer": "Combinations of materials that can be separated physically.",
+    "explanation": "In a mixture, individual components keep their identities and can be pulled apart through physical means like filtering. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 125,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is the role of the 'Anchor' in the 'Anchor and Flight' analogy?",
+    "options": [
+      "To keep us from thinking creatively.",
+      "To symbolize grounded knowledge and careful observation.",
+      "To make investigations heavier.",
+      "To represent the wind pushing a kite."
+    ],
+    "answer": "To symbolize grounded knowledge and careful observation.",
+    "explanation": "The anchor (or root) represents the solid foundation of facts that prevents scientific theories from floating away without evidence. (Page 2/Infographic)",
+    "page_number": "2"
+  },
+  {
+    "id": 126,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Which of these everyday events can lead to scientific investigations?",
+    "options": [
+      "Why dough rises.",
+      "Watching the moon change shape.",
+      "Noticing why wind blows strongly.",
+      "All of the above."
+    ],
+    "answer": "All of the above.",
+    "explanation": "The textbook demonstrates that common occurrences in the kitchen, the sky, and the weather are all valid subjects for scientific study. (Pages 2-7)",
+    "page_number": "2"
+  },
+  {
+    "id": 127,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is the function of the 'magnetic effect' of electric current?",
+    "options": [
+      "To keep us warm.",
+      "To help motors run and machines function.",
+      "To illuminate the Moon.",
+      "To make particles move freely."
+    ],
+    "answer": "To help motors run and machines function.",
+    "explanation": "Electricity creates magnetic fields that are harnessed to produce motion in electric motors. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 128,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "According to 'Stop 3', light rays reflect off which surfaces?",
+    "options": [
+      "Only polished mirrors.",
+      "Only curved mirrors.",
+      "Flat mirrors, curved mirrors, and rough surfaces.",
+      "Only lenses."
+    ],
+    "answer": "Flat mirrors, curved mirrors, and rough surfaces.",
+    "explanation": "Reflection occurs on many surfaces, both smooth and rough, including mirrors and the Moon. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 129,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "How do particles integrate in a 'solution'?",
+    "options": [
+      "They stay separate and can be seen easily.",
+      "They integrate perfectly, like sugar in tea.",
+      "They form a chemical bond to create a new element.",
+      "They stop moving entirely."
+    ],
+    "answer": "They integrate perfectly, like sugar in tea.",
+    "explanation": "In a solution, the dissolved substance (solute) is distributed evenly throughout the liquid (solvent). (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 130,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is the significance of 'Stop 1' starting with 'a single drop of water'?",
+    "options": [
+      "Because water is the most expensive substance.",
+      "To uncover a hidden world of tiny organisms (microbes).",
+      "Because all investigations must use water.",
+      "To show how to wash scientific equipment."
+    ],
+    "answer": "To uncover a hidden world of tiny organisms (microbes).",
+    "explanation": "A single drop of water can contain many microscopic life forms, serving as a gateway to understanding biology and health. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 131,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Which weather event is NOT mentioned in the context of air pressure differences?",
+    "options": [
+      "Gentle breeze",
+      "Strong winds",
+      "Cyclones",
+      "Earthquakes"
+    ],
+    "answer": "Earthquakes",
+    "explanation": "Breezes, winds, and cyclones are all atmospheric events driven by pressure, whereas earthquakes are geological events. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 132,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "In systematic investigation, what comes after asking a scientific question?",
+    "options": [
+      "Writing a textbook.",
+      "Observing, measuring, and experimenting.",
+      "Finding a final answer immediately.",
+      "Memorizing the question."
+    ],
+    "answer": "Observing, measuring, and experimenting.",
+    "explanation": "The scientific method involves a process of testing the question through structured actions and data collection. (Page 5/7)",
+    "page_number": "5"
+  },
+  {
+    "id": 133,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What determines our routines on Earth, according to the Cosmos section?",
+    "options": [
+      "Only human decisions.",
+      "Motions of objects millions of miles away (Sun and Moon).",
+      "The heating effect of electricity.",
+      "The amount of sugar in our tea."
+    ],
+    "answer": "Motions of objects millions of miles away (Sun and Moon).",
+    "explanation": "The cycles of the Sun and Moon define our days, months, and the calendars we use to organize our lives. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 134,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "What is the 'Mission' of a scientific investigator regarding the Earth?",
+    "options": [
+      "To ignore small temperature shifts.",
+      "To use principles of science to understand and protect our planet.",
+      "To find a way to live on the Moon.",
+      "To stop all human activity."
+    ],
+    "answer": "To use principles of science to understand and protect our planet.",
+    "explanation": "The ultimate goal of scientific literacy is stewardship and conservation of the Earth's delicate balance. (Page 5/Infographic)",
+    "page_number": "5"
+  },
+  {
+    "id": 135,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Why is 'guessing the result' not considered careful scientific observation?",
+    "options": [
+      "Because guesses are always wrong.",
+      "Because science relies on recorded evidence, not assumptions.",
+      "Because guessing takes too much time.",
+      "Because scientists don't have imaginations."
+    ],
+    "answer": "Because science relies on recorded evidence, not assumptions.",
+    "explanation": "Observation must be objective and based on what is actually seen or measured during the experiment. (Worksheet Level 2)",
+    "page_number": "Worksheet"
+  },
+  {
+    "id": 136,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "mcq",
+    "question": "Which of the following is a 'grounded' symbol in the textbook?",
+    "options": [
+      "The Kite",
+      "The Root",
+      "The Balloon",
+      "The Cyclone"
+    ],
+    "answer": "The Root",
+    "explanation": "The root represents connection to environment and the solid foundation of knowledge, keeping investigation 'grounded'. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 137,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "How does the textbook explain the connection between the microscopic world and planet-wide challenges?",
+    "options": [
+      "They are two separate subjects that do not interact.",
+      "They are both parts of the same investigative journey, from microbes to climate change.",
+      "One is only for Grade 6 and the other for Grade 8.",
+      "Microbes are the cause of all planet-wide challenges."
+    ],
+    "answer": "They are both parts of the same investigative journey, from microbes to climate change.",
+    "explanation": "The curriculum is designed as a journey that links the tiny forces in a drop of water to the shifting climate of the entire planet. (Page 1/3)",
+    "page_number": "1"
+  },
+  {
+    "id": 138,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "In the context of the 'Fabric of Matter', what dictates how our world behaves?",
+    "options": [
+      "Only the larger forces we can see.",
+      "Tiny particles and how they move and integrate.",
+      "The first calendars invented by humans.",
+      "The amount of air pressure in the kitchen."
+    ],
+    "answer": "Tiny particles and how they move and integrate.",
+    "explanation": "The microscopic properties and arrangement of particles are what determine macroscopic characteristics like rigidity, flow, and solubility. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 139,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "What does the 'Rule: Change only ONE of these at a time!' prevent in an experiment?",
+    "options": [
+      "Confusing which factor caused the change in the results.",
+      "Finishing the experiment too quickly.",
+      "Using too many ingredients in the kitchen.",
+      "Making the puri too tasty."
+    ],
+    "answer": "Confusing which factor caused the change in the results.",
+    "explanation": "By changing only one variable, the investigator can definitively link a specific cause to a specific effect. (Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 140,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "According to 'Stop 4', why is Earth's climate considered a 'delicate balance'?",
+    "options": [
+      "Because human activity cannot affect it.",
+      "Because small temperature shifts can disrupt global ecosystems.",
+      "Because it is only supported by liquid water.",
+      "Because the Moon is exactly at the right distance."
+    ],
+    "answer": "Because small temperature shifts can disrupt global ecosystems.",
+    "explanation": "Earth’s systems are highly sensitive and interconnected; changes in one area (like temperature) can trigger dangerous consequences across the globe. (Page 5)",
+    "page_number": "5"
+  },
+  {
+    "id": 141,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "What is meant by 'systematic investigation' in the final summary of the chapter?",
+    "options": [
+      "A set of random trials to see what happens.",
+      "Following a pre-defined set of rules without thinking.",
+      "A structured process involving curiosity, observation, variable control, and reflection.",
+      "Reading about discoveries made by other people."
+    ],
+    "answer": "A structured process involving curiosity, observation, variable control, and reflection.",
+    "explanation": "Systematic investigation is the core method of science, emphasizing structure and objective evidence over guesswork. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 142,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "In scientific investigation, why are 'senses' (like smell or sight) used alongside 'measurement'?",
+    "options": [
+      "Because measurements are often wrong.",
+      "To provide a complete picture of the experimental environment.",
+      "Because measurement tools are not allowed in the kitchen.",
+      "To replace the need for keeping notes."
+    ],
+    "answer": "To provide a complete picture of the experimental environment.",
+    "explanation": "While measurements provide precision, sensory data can capture unexpected details (like smoke or splatter) that measurements might miss. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 143,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "Why does the textbook state that even a puri swelling 'is not really completely understood by scientists today'?",
+    "options": [
+      "Because scientists do not find cooking interesting.",
+      "To show that curiosity can always uncover new mysteries, even in simple things.",
+      "Because it is impossible to observe a puri inside hot oil.",
+      "Because no one has ever tried to study it."
+    ],
+    "answer": "To show that curiosity can always uncover new mysteries, even in simple things.",
+    "explanation": "This highlights the open-ended nature of science; even common events can have complex underlying physics that remain to be fully explained. (Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 144,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "What logic connects the 'bending of light' to 'corrective glasses'?",
+    "options": [
+      "Bending light makes it brighter for the eye.",
+      "Lenses change the direction of light rays to focus them properly on the eye.",
+      "Lenses reflect light away from the eye.",
+      "Glasses protect the eyes from light bending."
+    ],
+    "answer": "Lenses change the direction of light rays to focus them properly on the eye.",
+    "explanation": "Corrective vision depends on the science of refraction, where lenses are shaped to redirect light so it hits the retina perfectly. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 145,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "How does 'air pressure' serve as an investigative link between a breeze and a cyclone?",
+    "options": [
+      "They are two different substances entirely.",
+      "The magnitude of the pressure difference determines the intensity of the wind.",
+      "Air pressure only affects cyclones, not breezes.",
+      "A breeze is caused by light, while a cyclone is caused by pressure."
+    ],
+    "answer": "The magnitude of the pressure difference determines the intensity of the wind.",
+    "explanation": "Scientific understanding shows that these weather phenomena are on a single scale of intensity driven by pressure gradients. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 146,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "In Grade 8, moving beyond 'observation' means specifically what for a student?",
+    "options": [
+      "Designing structured experiments to test focused questions.",
+      "Stop asking 'Why' and 'How' questions.",
+      "Ignoring old facts to find new ones.",
+      "Learning facts from books without doing activities."
+    ],
+    "answer": "Designing structured experiments to test focused questions.",
+    "explanation": "The 'Age of Investigation' (Grade 8) shifts the focus from simply watching to actively manipulating variables to find facts. (Page 2/Infographic)",
+    "page_number": "2"
+  },
+  {
+    "id": 147,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "What is the relationship between 'knowledge foundation' and 'creative thinking' in the textbook's design?",
+    "options": [
+      "Knowledge foundation is only for teachers, creative thinking is for students.",
+      "They must be balanced for investigation to work best.",
+      "Creative thinking should replace knowledge foundation in Grade 8.",
+      "They are symbols that have no real scientific meaning."
+    ],
+    "answer": "They must be balanced for investigation to work best.",
+    "explanation": "The 'Root' and 'Kite' symbols are intentionally paired to show that discovery requires both facts (grounding) and hypotheses (flight). (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 148,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "mcq",
+    "question": "How can everyday observations lead to 'larger scientific discoveries'?",
+    "options": [
+      "By ignoring the details and looking at the big picture only.",
+      "By applying systematic investigation to simple questions which can reveal universal laws.",
+      "By only studying things that are already in textbooks.",
+      "By guessing the answers and writing them down as facts."
+    ],
+    "answer": "By applying systematic investigation to simple questions which can reveal universal laws.",
+    "explanation": "Major scientific breakthroughs often start with someone noticing a common event and investigating it with a structured, scientific mind. (Worksheet Level 3)",
+    "page_number": "Worksheet"
+  },
+  {
+    "id": 149,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Nutritious food and exercise are essential for fighting infections.\nReason (R): They help the body stay healthy and strengthen its natural defense systems.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Maintaining a healthy body through lifestyle choices is a primary scientific method for disease prevention mentioned in the health section. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 150,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Forces can make an object speed up, slow down, or change direction.\nReason (R): Forces are fundamental pushes and pulls that alter the motion of an object.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The definition of force in physics is an interaction that changes the motion of an object, which accurately explains the results mentioned in the assertion. (Page 3)",
+    "page_number": "3"
+  },
+  {
+    "id": 151,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Classification of matter is a key feature of science.\nReason (R): It helps humans create the first calendars by observing the Moon.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, but R is not the correct explanation of A.",
+    "explanation": "Both statements are true facts found in the textbook, but classification of matter (elements/compounds) is unrelated to the invention of lunar calendars. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 152,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The kitchen can act as a place for scientific investigation.\nReason (R): You can isolate variables and perform systematic observation even at home.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The textbook promotes the idea that science is accessible everywhere by showing how cooking events can be studied using the scientific method. (Page 6)",
+    "page_number": "6"
+  },
+  {
+    "id": 153,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Particles in a solid cannot move much.\nReason (R): Solids are classified as mixtures that can be separated physically.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "The assertion correctly describes the particle nature of solids. However, the reason is false; solids can be elements, compounds, or mixtures, not just mixtures. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 154,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Careful observation is considered the foundation of scientific investigation.\nReason (R): It provides the 'root' or solid ground for knowledge, as opposed to creative guessing.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Scientific knowledge must be based on observable and verifiable facts, which is why observation is symbolically and practically the starting point. (Page 2)",
+    "page_number": "2"
+  },
+  {
+    "id": 155,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Earth sits at the 'just right' distance from the Sun.\nReason (R): This allows Earth to sit at the exact perfect distance for liquid water to flow.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The 'Goldilocks' position of Earth is the reason temperatures remain moderate enough for water to exist in liquid form, supporting life. (Page 5)",
+    "page_number": "5"
+  },
+  {
+    "id": 156,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A scientist should ignore results that are different from what they expected.\nReason (R): Unexpected results often mean the experiment was done incorrectly.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The assertion is false; scientists must never ignore data. The reason is partially true in practice (errors happen), but scientifically, unexpected results are still valid data for investigation. (Worksheet Level 3)",
+    "page_number": "Worksheet"
+  },
+  {
+    "id": 157,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Scientists keep detailed notes during experiments.\nReason (R): Detailed notes help other scientists replicate the study and verify the results.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Record-keeping is essential for the scientific community to trust and test each other's findings. (Worksheet Level 3/Page 7)",
+    "page_number": "7"
+  },
+  {
+    "id": 158,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Curiosity is the guide for the mission to protect the Earth.\nReason (R): Curiosity leads to observing, measuring, and experimenting to solve environmental problems.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The textbook concludes that curiosity, when channeled through scientific methods, is the key tool for conservation and sustainability. (Page 5)",
+    "page_number": "5"
+  },
+  {
+    "id": 159,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The Moon produces no light of its own.\nReason (R): Rough surfaces reflect light as well as polished mirrors.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, but R is not the correct explanation of A.",
+    "explanation": "Both statements are correct facts from the textbook. However, the Moon not producing light is explained by its nature as a rocky body, not by the general fact that rough surfaces reflect light. (Page 4)",
+    "page_number": "4"
+  },
+  {
+    "id": 160,
+    "subject": "Science",
+    "chapter": "Exploring the Investigative World of Science-v2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Investigating why a puri puffs up is a systematic investigation.\nReason (R): It involves defining variables, making measurable observations, and drawing conclusions.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The puri experiment serves as the textbook's primary example of how a mundane task can be transformed into a rigorous scientific study. (Page 6/7)",
+    "page_number": "6"
+  }
+]
