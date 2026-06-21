@@ -1290,5 +1290,1297 @@
     "answer": "A is true, R is false.",
     "explanation": "The assertion is true as the taskbar contains the Start button and notification area. However, the reason is false because the taskbar (not the title bar) is used to launch and monitor applications.",
     "page_number": "13"
+  },
+  {
+    "id": 81,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "Which layer is at the very top of the Hierarchy of an OS diagram?",
+    "options": [
+      "Hardware",
+      "Operating System",
+      "Application Programs",
+      "User"
+    ],
+    "answer": "User",
+    "explanation": "According to Fig. 1: Hierarchy of an OS, the 'User' is the topmost layer. Below the user are Application Programs, which then interact with the Operating System, which finally manages the Hardware.",
+    "page_number": "9"
+  },
+  {
+    "id": 82,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "What does a 'Menu-driven Interface' use to allow users to select options?",
+    "options": [
+      "Commands written in code",
+      "On-screen text-based menus",
+      "Voice recognition",
+      "Hand gestures"
+    ],
+    "answer": "On-screen text-based menus",
+    "explanation": "A menu-driven interface enables the user to use on-screen, text-based menus that display all available options. These options are typically selected using arrow keys, the Enter key, or mouse buttons.",
+    "page_number": "11"
+  },
+  {
+    "id": 83,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "Which button is used to access the Start menu in Windows 10?",
+    "options": [
+      "Minimize button",
+      "Start button",
+      "Close button",
+      "Aero Peek button"
+    ],
+    "answer": "Start button",
+    "explanation": "The Start button is described as an important button seen on the taskbar. When clicked, the Start menu opens, allowing users to access documents, programs, and system settings.",
+    "page_number": "14"
+  },
+  {
+    "id": 84,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "In Windows 10, what is the 'rectangular area on the screen' called?",
+    "options": [
+      "Icon",
+      "Taskbar",
+      "Window",
+      "Desktop"
+    ],
+    "answer": "Window",
+    "explanation": "The text defines a 'Window' as a rectangular area on the screen. It is the basic interface element where application programs and files are displayed to the user.",
+    "page_number": "13"
+  },
+  {
+    "id": 85,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "Which version of Windows was released in October 2021?",
+    "options": [
+      "Windows 7",
+      "Windows 8",
+      "Windows 10",
+      "Windows 11"
+    ],
+    "answer": "Windows 11",
+    "explanation": "According to the 'Fact Byte' on page 12, Windows 11 is the latest release of Microsoft's Windows NT operating system and was released in October 2021.",
+    "page_number": "12"
+  },
+  {
+    "id": 86,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "What is the function of the Recycle Bin in Windows?",
+    "options": [
+      "To permanently delete files immediately",
+      "To act as a temporary storage for deleted files",
+      "To speed up the computer",
+      "To install new software"
+    ],
+    "answer": "To act as a temporary storage for deleted files",
+    "explanation": "The Recycle Bin is similar to a dustbin where deleted files or folders are transferred. Users can restore files from it before they are permanently deleted.",
+    "page_number": "14"
+  },
+  {
+    "id": 87,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "Which company developed the Android operating system?",
+    "options": [
+      "Apple",
+      "Microsoft",
+      "Google",
+      "IBM"
+    ],
+    "answer": "Google",
+    "explanation": "The document states that the Android operating system is a popular mobile operating system created by Google for touchscreen devices, smartphones, and tablets.",
+    "page_number": "15"
+  },
+  {
+    "id": 88,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "What can you do with icons on the Windows desktop?",
+    "options": [
+      "Only look at them",
+      "Drag them from one place to another",
+      "Delete the hardware they represent",
+      "Use them to increase RAM"
+    ],
+    "answer": "Drag them from one place to another",
+    "explanation": "Icons are small images on the desktop representing programs or files. The text mentions that you can drag an icon from one place to another on the desktop.",
+    "page_number": "13"
+  },
+  {
+    "id": 89,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "Which mobile OS was popular until 2010 but is no longer in use today?",
+    "options": [
+      "iOS",
+      "Android",
+      "Symbian",
+      "Windows Phone"
+    ],
+    "answer": "Symbian",
+    "explanation": "Symbian was the most popular smartphone operating system worldwide until the end of 2010, when it was eventually replaced by iOS and Android.",
+    "page_number": "19"
+  },
+  {
+    "id": 90,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "What are the rules or procedures for transmitting data between electronic devices called?",
+    "options": [
+      "Icons",
+      "Protocols",
+      "Processes",
+      "Batches"
+    ],
+    "answer": "Protocols",
+    "explanation": "Under the 'Networking support' feature of Windows 10, protocols are defined as a set of rules or procedures for transmitting data between electronic devices such as computers.",
+    "page_number": "12"
+  },
+  {
+    "id": 91,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "According to the 'Health Literacy' section, what can help avoid ear infections from mobile phone use?",
+    "options": [
+      "Buying a more expensive phone",
+      "Using the speaker to talk to friends",
+      "Turning off the phone at night",
+      "Using a screen protector"
+    ],
+    "answer": "Using the speaker to talk to friends",
+    "explanation": "To avoid nerve pain and ear infections caused by radio and electromagnetic waves, the text suggests using the speaker to talk on your smartphone or using a landline.",
+    "page_number": "16"
+  },
+  {
+    "id": 92,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "What does a file-name extension identify?",
+    "options": [
+      "The location of the file",
+      "The file type",
+      "The size of the file",
+      "The date the file was created"
+    ],
+    "answer": "The file type",
+    "explanation": "Each file is given a file-name and has a file-name extension. This extension is crucial because it identifies the specific type of the file for the operating system.",
+    "page_number": "15"
+  },
+  {
+    "id": 93,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Which function of an operating system ensures that files are saved in a proper format while utilizing minimum space?",
+    "options": [
+      "Memory Management",
+      "Processor Management",
+      "File Management",
+      "Device Management"
+    ],
+    "answer": "File Management",
+    "explanation": "One of the important functions of an operating system listed is ensuring that files are saved in a proper format and utilizing minimum space, which is part of its file management responsibilities.",
+    "page_number": "8"
+  },
+  {
+    "id": 94,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "In the context of Windows 10, what does 'Pinning a program' mean?",
+    "options": [
+      "Deleting a program from the computer",
+      "Locking a program so it cannot be opened",
+      "Creating a permanent shortcut on the taskbar for frequent access",
+      "Changing the icon of the program"
+    ],
+    "answer": "Creating a permanent shortcut on the taskbar for frequent access",
+    "explanation": "Pinning a program means you can always have a shortcut of programs that you frequently access on the taskbar without having to search for them every time.",
+    "page_number": "12"
+  },
+  {
+    "id": 95,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Which of the following describes the difference between Multi-user and Single-user operating systems?",
+    "options": [
+      "Multi-user systems are only for mobile phones",
+      "Single-user systems allow multiple tasks but only one user at a time",
+      "Multi-user systems allow multiple users to execute programs at the same time",
+      "There is no difference in the number of users"
+    ],
+    "answer": "Multi-user systems allow multiple users to execute programs at the same time",
+    "explanation": "A Multi-user Operating System, like Unix or Linux, allows multiple users to execute programs simultaneously, whereas a single-user system only allows one user at a time.",
+    "page_number": "9"
+  },
+  {
+    "id": 96,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "How does the 'Aero Peek' feature in Windows 10 benefit the user?",
+    "options": [
+      "It speeds up the internet connection",
+      "It lets the user get a preview of open windows on the taskbar",
+      "It provides extra security against viruses",
+      "It helps in installing hardware automatically"
+    ],
+    "answer": "It lets the user get a preview of open windows on the taskbar",
+    "explanation": "Aero Peek, also known as Desktop Preview, is a feature that allows users to see a thumbnail preview of the windows currently active on their taskbar.",
+    "page_number": "12"
+  },
+  {
+    "id": 97,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "What makes Linux a popular alternative to operating systems like Microsoft Windows?",
+    "options": [
+      "It is much more expensive",
+      "It is freeware and open-source",
+      "It only supports single-tasking",
+      "It does not require a processor to run"
+    ],
+    "answer": "It is freeware and open-source",
+    "explanation": "The text explains that Linux is gaining popularity because it is freeware and open-source, whereas Windows is a licensed and expensive operating system.",
+    "page_number": "15"
+  },
+  {
+    "id": 98,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Which of the following was a feature of MS-DOS, even though it was a text-based system?",
+    "options": [
+      "Graphical User Interface (GUI)",
+      "Multitasking support",
+      "Disk compression and fragmentation",
+      "Support for multiple users"
+    ],
+    "answer": "Disk compression and fragmentation",
+    "explanation": "Although MS-DOS was a single-user, single-tasking command-line system, it did support networking, multiple directories, and disk compression and fragmentation.",
+    "page_number": "10"
+  },
+  {
+    "id": 99,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Where is the 'Notification area' located on the Windows 10 taskbar?",
+    "options": [
+      "On the extreme left side",
+      "In the middle of the taskbar",
+      "On the right side of the taskbar",
+      "Hidden inside the Start menu"
+    ],
+    "answer": "On the right side of the taskbar",
+    "explanation": "The notification area is located on the right side of the taskbar. It displays status icons for time, date, network connectivity, volume, and battery.",
+    "page_number": "14"
+  },
+  {
+    "id": 100,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Which mobile operating system introduced the ability to place widgets on the home screen and change default web browsers in its recent versions?",
+    "options": [
+      "Android",
+      "iOS",
+      "Symbian",
+      "Blackberry"
+    ],
+    "answer": "iOS",
+    "explanation": "The iOS section mentions that it has brought many interface changes, including the ability to place widgets on the home screen and change the default web browser and email apps.",
+    "page_number": "15"
+  },
+  {
+    "id": 101,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "What is the primary purpose of 'File Explorer' in Windows 10?",
+    "options": [
+      "To browse the internet",
+      "To provide a GUI for accessing the file systems",
+      "To chat with other users",
+      "To edit photographs"
+    ],
+    "answer": "To provide a GUI for accessing the file systems",
+    "explanation": "Windows 10 introduces a new File Explorer that provides a graphical user interface for browsing and working with files and folders in the computer's system.",
+    "page_number": "15"
+  },
+  {
+    "id": 102,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "According to the document, what is the best example of GUI-based operating systems?",
+    "options": [
+      "MS-DOS and Apple DOS",
+      "Microsoft Windows and Macintosh",
+      "UNIX and Linux Command Prompt",
+      "Symbian and Windows Phone 8.1"
+    ],
+    "answer": "Microsoft Windows and Macintosh",
+    "explanation": "The text identifies Microsoft Windows and Macintosh as the best examples of GUI-based operating systems, as they allow interaction through menus, icons, and visual elements.",
+    "page_number": "11"
+  },
+  {
+    "id": 103,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "How did Stephen Hawking's technology allow him to use a computer?",
+    "options": [
+      "Through a touch-sensitive screen",
+      "Using facial muscles to operate a speech synthesizer and mouse",
+      "By thinking of the commands",
+      "Using a specialized foot pedal"
+    ],
+    "answer": "Using facial muscles to operate a speech synthesizer and mouse",
+    "explanation": "Stephen Hawking used facial muscles to send text to a speech synthesizer and used the same technology to operate a mouse for his wheelchair-mounted computer.",
+    "page_number": "12"
+  },
+  {
+    "id": 104,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "What is the advantage of using a 'Character User Interface' (CUI)?",
+    "options": [
+      "It is very easy for beginners to learn",
+      "It supports high-end graphics and icons",
+      "It requires less memory (RAM) and less CPU processing time",
+      "It allows the use of a mouse for navigation"
+    ],
+    "answer": "It requires less memory (RAM) and less CPU processing time",
+    "explanation": "The advantage of CUI is that it requires less RAM for execution and does not demand much CPU processing time compared to graphical interfaces.",
+    "page_number": "10"
+  },
+  {
+    "id": 105,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Which operating system category processes data transfer and updates in banks at pre-defined time slots?",
+    "options": [
+      "Real-time Operating System",
+      "Batch Processing Operating System",
+      "Distributed Operating System",
+      "Single-user Operating System"
+    ],
+    "answer": "Batch Processing Operating System",
+    "explanation": "Batch Processing systems group jobs together and process them at a pre-defined time. The document uses bank data transfers as a specific example of this.",
+    "page_number": "10"
+  },
+  {
+    "id": 106,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Which of the following is an example of an 'Embedded Operating System' gadget mentioned in the text?",
+    "options": [
+      "Supercomputer",
+      "Workstation",
+      "Personal Digital Assistant (PDA)",
+      "Web Server"
+    ],
+    "answer": "Personal Digital Assistant (PDA)",
+    "explanation": "PDAs are described as compact, well-designed gadgets that operate on limited resources and use embedded operating systems like Windows XP Embedded.",
+    "page_number": "9"
+  },
+  {
+    "id": 107,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "What does the 'Title bar' of an application window contain?",
+    "options": [
+      "The Start button and system clock",
+      "The title of the program and file name",
+      "Icons for network and volume",
+      "The desktop background settings"
+    ],
+    "answer": "The title of the program and file name",
+    "explanation": "The title bar is the topmost bar of a window. It contains the title of the program, the active filename, and buttons to minimize, maximize, or close the window.",
+    "page_number": "14"
+  },
+  {
+    "id": 108,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "According to the 'Explore More' section, when was the Linux kernel first released?",
+    "options": [
+      "October 2021",
+      "September 17, 1991",
+      "January 2007",
+      "August 1980"
+    ],
+    "answer": "September 17, 1991",
+    "explanation": "Linux is a family of open-source operating systems based on the Linux kernel, which was first released on September 17, 1991, by Linus Torvalds.",
+    "page_number": "19"
+  },
+  {
+    "id": 109,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "How does a 'Distributed Operating System' differ from other types?",
+    "options": [
+      "It only allows one user at a time",
+      "It uses multiple central processors to distribute data processing jobs",
+      "It is only used for batch processing in banks",
+      "It requires users to type commands in text format"
+    ],
+    "answer": "It uses multiple central processors to distribute data processing jobs",
+    "explanation": "A Distributed OS uses multiple central processors to serve real-time applications and multiple users simultaneously by distributing jobs among the processors.",
+    "page_number": "9"
+  },
+  {
+    "id": 110,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "Which specific technical detail is provided about the Windows 10 taskbar in comparison to the older Quick Launch toolbar?",
+    "options": [
+      "Quick Launch was more user-friendly",
+      "Windows 10 taskbar is window-oriented",
+      "Quick Launch was window-oriented; Windows 10 is application-oriented",
+      "Windows 10 taskbar does not support icons"
+    ],
+    "answer": "Quick Launch was window-oriented; Windows 10 is application-oriented",
+    "explanation": "The text highlights that the Windows 10 taskbar is more application-oriented and user-friendly than the older Quick Launch toolbar, which was window-oriented.",
+    "page_number": "14"
+  },
+  {
+    "id": 111,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "What is the relationship between 'Ubuntu' and 'Linux' as described in the text?",
+    "options": [
+      "Ubuntu is a hardware component of Linux",
+      "Ubuntu is an open-source OS that is separate from Linux",
+      "Ubuntu and Linux are both open-source and can be downloaded for free",
+      "Ubuntu is a licensed version of Windows"
+    ],
+    "answer": "Ubuntu and Linux are both open-source and can be downloaded for free",
+    "explanation": "The 'Fact Byte' on page 9 groups Ubuntu and Linux together as examples of open-source operating systems that can be downloaded free of cost.",
+    "page_number": "9"
+  },
+  {
+    "id": 112,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "Which part of the computer's memory is specifically involved during the 'Booting' process?",
+    "options": [
+      "Hard disk space is converted to RAM",
+      "Files of the OS are loaded into the computer's memory (RAM)",
+      "The Recycle Bin is cleared into the memory",
+      "The processor memory is deleted"
+    ],
+    "answer": "Files of the OS are loaded into the computer's memory (RAM)",
+    "explanation": "Booting is the specific process of starting the operating system and loading its essential files into the computer's memory (RAM) so the system can function.",
+    "page_number": "8"
+  },
+  {
+    "id": 113,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "What is 'BOSS' an acronym for in the context of operating systems?",
+    "options": [
+      "Basic Operating System Suite",
+      "Binary Operating Software Solutions",
+      "Bharat Operating System Solutions",
+      "Business Oriented Software System"
+    ],
+    "answer": "Bharat Operating System Solutions",
+    "explanation": "As noted in the 'Fact Byte' on page 9, BOSS stands for Bharat Operating System Solutions and is a common OS developed for computing devices.",
+    "page_number": "9"
+  },
+  {
+    "id": 114,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "Which of the following is true about 'Multi-threading' in operating systems?",
+    "options": [
+      "It allows multiple users to share a single keyboard",
+      "It allows different parts of a single application to run simultaneously",
+      "It only works on mobile operating systems like iOS",
+      "It prevents applications from using the internet"
+    ],
+    "answer": "It allows different parts of a single application to run simultaneously",
+    "explanation": "A Multi-threading Operating System (like Linux or Windows) allows different modules or parts of a single program to execute at the same time.",
+    "page_number": "9"
+  },
+  {
+    "id": 115,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "Why is Windows 11 described as following the suit of mobile operating systems?",
+    "options": [
+      "It can only be used on mobile phones",
+      "It has followed suit with modern features similar to iOS and Android",
+      "It has removed the taskbar like mobile phones",
+      "It only supports touch input"
+    ],
+    "answer": "It has followed suit with modern features similar to iOS and Android",
+    "explanation": "Page 13 mentions that Windows 11 has followed suit with modern operating systems like iOS and Android, suggesting it incorporates similar design or functional elements.",
+    "page_number": "13"
+  },
+  {
+    "id": 116,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "What happens if a user types a command with incorrect syntax in a CUI?",
+    "options": [
+      "The computer will automatically correct it",
+      "The computer will shut down",
+      "An error message will be displayed",
+      "The GUI will automatically open"
+    ],
+    "answer": "An error message will be displayed",
+    "explanation": "In a CUI (Character User Interface), it is difficult for beginners because they must remember exact commands and syntax; otherwise, the system displays an error message.",
+    "page_number": "10"
+  },
+  {
+    "id": 117,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "Which of the following is NOT listed as a common OS for handheld devices?",
+    "options": [
+      "Solaris",
+      "Symbian",
+      "BOSS",
+      "Blackberry"
+    ],
+    "answer": "BOSS",
+    "explanation": "The 'Fact Byte' on page 9 lists Android, Symbian, Solaris, iOS, Blackberry, and Windows as handheld device OSs. BOSS is listed under OSs for computing devices like desktops/laptops.",
+    "page_number": "9"
+  },
+  {
+    "id": 118,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "Which component of the taskbar is specifically described as being 'application-oriented'?",
+    "options": [
+      "Start button",
+      "Pinned applications",
+      "Notification area",
+      "Show Desktop button"
+    ],
+    "answer": "Pinned applications",
+    "explanation": "The Windows 10 taskbar is described as being more application-oriented specifically due to its ability to pin applications for instant access.",
+    "page_number": "14"
+  },
+  {
+    "id": 119,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "In Windows 10, how should a user position the mouse to resize an opened window?",
+    "options": [
+      "At the center of the window",
+      "On the taskbar",
+      "At the edges of the window",
+      "On the title bar"
+    ],
+    "answer": "At the edges of the window",
+    "explanation": "The text instructs users to position the mouse at the edges for resizing an opened window, while the title bar is used for moving the window.",
+    "page_number": "15"
+  },
+  {
+    "id": 120,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "What is the key difference between 'cascaded' and 'tiled' windows according to the 'Fact Byte'?",
+    "options": [
+      "Cascaded windows are invisible; tiled are visible",
+      "Cascaded are stacked on top; tiled are all visible side-by-side",
+      "Cascaded are for files; tiled are for folders",
+      "There is no difference"
+    ],
+    "answer": "Cascaded are stacked on top; tiled are all visible side-by-side",
+    "explanation": "Application windows can be cascaded (stacked on top of one another) or tiled (all displayed at the same time and are visible), according to the Fact Byte on page 14.",
+    "page_number": "14"
+  },
+  {
+    "id": 121,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "Which operating system is described as a 'Linux-based open-source operating system' created for touchscreen devices?",
+    "options": [
+      "iOS",
+      "Windows 10 Mobile",
+      "Android",
+      "Palm OS"
+    ],
+    "answer": "Android",
+    "explanation": "Android is specifically identified as a Linux-based open-source operating system created by Google for touchscreen devices like smartphones and tablets.",
+    "page_number": "15"
+  },
+  {
+    "id": 122,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "What is a 'PDA' and which type of OS does it typically use?",
+    "options": [
+      "Personal Digital Assistant; Real-time OS",
+      "Personal Data Accessory; Multi-user OS",
+      "Personal Digital Assistant; Embedded OS",
+      "Portable Device Application; Batch OS"
+    ],
+    "answer": "Personal Digital Assistant; Embedded OS",
+    "explanation": "PDAs (Personal Digital Assistants) are compact gadgets that run on limited resources and use Embedded Operating Systems like Windows XP Embedded.",
+    "page_number": "9"
+  },
+  {
+    "id": 123,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "Which feature of Windows 10 is also known as 'Desktop Preview'?",
+    "options": [
+      "Pinning to taskbar",
+      "Aero Peek feature",
+      "Searching files",
+      "Easy installation"
+    ],
+    "answer": "Aero Peek feature",
+    "explanation": "The Aero Peek feature is explicitly referred to as 'Desktop Preview' in the text, allowing users to preview open windows on the taskbar.",
+    "page_number": "12"
+  },
+  {
+    "id": 124,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "What was the primary role of MS-DOS in the 1980s?",
+    "options": [
+      "It was a mobile operating system",
+      "It was the dominant OS for personal computers",
+      "It was used primarily for supercomputers",
+      "It was the first GUI-based operating system"
+    ],
+    "answer": "It was the dominant OS for personal computers",
+    "explanation": "The document states that MS-DOS (Microsoft Disk Operating System) was the dominant operating system for personal computers (PCs) in the 1980s.",
+    "page_number": "10"
+  },
+  {
+    "id": 125,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "According to the hierarchy, what sits directly beneath the Operating System layer?",
+    "options": [
+      "Application Programs",
+      "User",
+      "Hardware",
+      "Web Browser"
+    ],
+    "answer": "Hardware",
+    "explanation": "Based on Fig. 1 on page 9, the Operating System acts as the layer between Application Programs (above it) and Hardware (directly below it).",
+    "page_number": "9"
+  },
+  {
+    "id": 126,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Booting is the first process that occurs when a computer is turned on.\nReason (R): Booting loads the files of the operating system into the computer's memory.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are reason are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Booting is the startup procedure that must happen first because the OS files must be in RAM for the computer to work. The reason accurately explains why booting is the initial necessary step.",
+    "page_number": "8"
+  },
+  {
+    "id": 127,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Icons help users navigate the Windows desktop easily.\nReason (R): Each icon represents a program, file, or folder that can be opened with a click.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Icons are visual representations of items on the computer. They make navigation easy because they provide direct, visual access to files and programs.",
+    "page_number": "13"
+  },
+  {
+    "id": 128,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The Recycle Bin is an important feature for data safety.\nReason (R): It allows users to restore deleted files temporarily before they are gone forever.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Data safety includes the ability to recover from accidental deletion. The Recycle Bin provides this safety net by holding files temporarily.",
+    "page_number": "14"
+  },
+  {
+    "id": 129,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): MS-DOS is categorized as a Character User Interface (CUI).\nReason (R): Users interact with MS-DOS by typing text commands using a keyboard.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "CUI stands for Character User Interface, which by definition requires text-based interaction. Since DOS uses commands, it is a CUI.",
+    "page_number": "10"
+  },
+  {
+    "id": 130,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A GUI provides a more user-friendly environment than a CUI.\nReason (R): GUI uses visual elements like menus and buttons that do not require memorizing complex commands.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The reason why GUI is user-friendly is because it eliminates the need for users to remember syntax and commands, replacing them with intuitive visual icons.",
+    "page_number": "11"
+  },
+  {
+    "id": 131,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Linux is a popular choice for users looking for free software.\nReason (R): Linux is an open-source operating system that can be downloaded at no cost.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The fact that Linux is open-source and free to download (Reason) directly supports why it is the preferred choice for those seeking free software (Assertion).",
+    "page_number": "15"
+  },
+  {
+    "id": 132,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Multi-user operating systems are used in server environments.\nReason (R): Multi-user systems allow multiple people to run programs at the same time.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Servers often need to handle requests from many people at once. The multi-user capability of an OS allows this concurrent processing, explaining its use in servers.",
+    "page_number": "9"
+  },
+  {
+    "id": 133,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): ATM machines use a menu-driven interface.\nReason (R): ATMs allow users to select banking options from a series of on-screen text menus.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "ATMs present users with a list of choices (withdraw, balance check, etc.) on screen. This is the definition of a menu-driven interface as described in the text.",
+    "page_number": "11"
+  },
+  {
+    "id": 134,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Real-time operating systems (RTOS) are critical for time-sensitive applications.\nReason (R): RTOS are designed to process events and data as they occur without typically having any delays.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Applications like medical monitors or flight controls need instant data processing. The 'no-delay' design of RTOS is what makes them suitable for these time-sensitive needs.",
+    "page_number": "9"
+  },
+  {
+    "id": 135,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Windows 11 is available as a free download for Windows 10 users.\nReason (R): Windows 11 was released in October 2021 by Microsoft.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, but R is not the correct explanation of A.",
+    "explanation": "Both statements are true facts from the text. However, the release date (October 2021) is not the logical reason *why* it was offered for free to Windows 10 users.",
+    "page_number": "12"
+  },
+  {
+    "id": 136,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Windows 10 is more secure than older operating systems like DOS.\nReason (R): Windows 10 includes advanced security options and password protection procedures.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The text highlights 'advanced security options' as a feature of Windows 10. These built-in security protocols and passwords provide the safety that makes it more secure.",
+    "page_number": "11"
+  },
+  {
+    "id": 137,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Stephen Hawking was able to communicate despite physical limitations.\nReason (R): He used a speech synthesizer controlled by facial muscles and specialized technology.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The Fact Byte explains that Hawking used technology to convert facial movements into speech and computer commands, which correctly explains how he communicated.",
+    "page_number": "12"
+  },
+  {
+    "id": 138,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "What is the 'Scientific Temper' fact about operating systems in devices?",
+    "options": [
+      "OS is only for laptops",
+      "OS is found in almost any device including phones and consoles",
+      "OS is only needed for supercomputers",
+      "OS is not found in gaming consoles"
+    ],
+    "answer": "OS is found in almost any device including phones and consoles",
+    "explanation": "The 'Scientific Temper' Fact Byte on page 8 states that an operating system is found in almost any device including cellular phones, video game consoles, supercomputers, and servers.",
+    "page_number": "8"
+  },
+  {
+    "id": 139,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "Which specific mobile phone models are mentioned as using the Windows Mobile OS?",
+    "options": [
+      "iPhone 12 and iPad",
+      "Nokia Lumia 930 and Lumia 630",
+      "Samsung Galaxy S21",
+      "Sony Ericsson models"
+    ],
+    "answer": "Nokia Lumia 930 and Lumia 630",
+    "explanation": "The Windows mobile operating system section mentions Nokia Lumia 930, Lumia 630, and Lumia 635 as examples of phones using this OS.",
+    "page_number": "15"
+  },
+  {
+    "id": 140,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "According to the 'Tech Terms', what is an interface?",
+    "options": [
+      "The physical hardware of the computer",
+      "A set of commands or menus through which a user communicates with a program",
+      "The process of starting the computer",
+      "The memory allocated to a process"
+    ],
+    "answer": "A set of commands or menus through which a user communicates with a program",
+    "explanation": "The 'Tech Terms' on page 17 defines an interface as a set of commands, menus, or icons used by a user to communicate with a computer program.",
+    "page_number": "17"
+  },
+  {
+    "id": 141,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "Which tool is primarily used for 'point and click functionality' in Windows 10?",
+    "options": [
+      "Keyboard",
+      "Printer",
+      "Mouse",
+      "Scanner"
+    ],
+    "answer": "Mouse",
+    "explanation": "Point and click functionality allows the user to point to a button or icon and click to perform a task. This is a primary function of the mouse in a GUI environment.",
+    "page_number": "12"
+  },
+  {
+    "id": 142,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "What is the primary function of the Start menu?",
+    "options": [
+      "To browse the web",
+      "To access any application installed on the computer",
+      "To increase the speed of the RAM",
+      "To delete files from the hard drive"
+    ],
+    "answer": "To access any application installed on the computer",
+    "explanation": "The Start menu is used to work on applications, access documents, adjust system settings, and perform other tasks like listening to music or watching videos.",
+    "page_number": "14"
+  },
+  {
+    "id": 143,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "Which operating system was used by Samsung and Nokia before 2010?",
+    "options": [
+      "iOS",
+      "Android",
+      "Symbian",
+      "Windows Phone"
+    ],
+    "answer": "Symbian",
+    "explanation": "Symbian was used by many major brands including Samsung, Motorola, Sony Ericsson, and Nokia before it was largely replaced by Android and iOS.",
+    "page_number": "19"
+  },
+  {
+    "id": 144,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "easy",
+    "question": "In Windows 10, where can you pin your frequently used applications?",
+    "options": [
+      "Notification Area",
+      "Taskbar",
+      "Title bar",
+      "Recycle Bin"
+    ],
+    "answer": "Taskbar",
+    "explanation": "The Windows 10 taskbar allows users to pin frequently used applications and documents for instant access, which is described as being very user-friendly.",
+    "page_number": "12"
+  },
+  {
+    "id": 145,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "What is the main resource of a computer that the operating system tracks for effective use?",
+    "options": [
+      "Hard disk",
+      "Monitor",
+      "Processor",
+      "Printer"
+    ],
+    "answer": "Processor",
+    "explanation": "The text states that a computer's most significant resource is the processor, and the operating system keeps track of resources to ensure they are used effectively.",
+    "page_number": "8"
+  },
+  {
+    "id": 146,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Which feature of Windows 10 allows you to locate files and folders in an organized manner?",
+    "options": [
+      "Aero Peek",
+      "Searching files/programs",
+      "Plug and play",
+      "Easy installation"
+    ],
+    "answer": "Searching files/programs",
+    "explanation": "One of the listed features of Windows 10 is 'Searching files/programs', which makes the process of locating specific files and folders well-organized.",
+    "page_number": "12"
+  },
+  {
+    "id": 147,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "What happens when you delete a file in a Windows environment?",
+    "options": [
+      "It is permanently removed from the CPU",
+      "It is transferred to the Recycle Bin",
+      "It is sent to the Start menu",
+      "It is hidden inside the hard drive"
+    ],
+    "answer": "It is transferred to the Recycle Bin",
+    "explanation": "When files or folders are deleted, they are transferred to the Recycle Bin, allowing users to restore them if needed before permanent deletion.",
+    "page_number": "14"
+  },
+  {
+    "id": 148,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Which type of user interface is most common in movie ticket machines and information kiosks?",
+    "options": [
+      "Character User Interface",
+      "Menu-driven Interface",
+      "Graphical User Interface",
+      "Command Line Interface"
+    ],
+    "answer": "Menu-driven Interface",
+    "explanation": "Menu-driven interfaces are popular in public machines like ATMs and ticket kiosks because they are simple and easy for the general public to use.",
+    "page_number": "11"
+  },
+  {
+    "id": 149,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Which function of the operating system handles the start-up procedure of booting?",
+    "options": [
+      "Memory management",
+      "File management",
+      "System start-up/Booting activation",
+      "Security management"
+    ],
+    "answer": "System start-up/Booting activation",
+    "explanation": "The OS is responsible for activating the start-up procedure of booting, which involves loading its own files into the computer's memory.",
+    "page_number": "8"
+  },
+  {
+    "id": 150,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "What is an important point to remember about working with files and folders?",
+    "options": [
+      "Work is done directly in a folder",
+      "Work is done directly in a file",
+      "Work cannot be done in a sub-folder",
+      "Work is only done on the taskbar"
+    ],
+    "answer": "Work is done directly in a file",
+    "explanation": "The text highlights: 'An important point to remember is that the work is done directly in a file and not in a sub-folder or a folder.'",
+    "page_number": "15"
+  },
+  {
+    "id": 151,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Which of the following is a mobile OS type listed in the document?",
+    "options": [
+      "macOS",
+      "MS-DOS",
+      "Palm OS",
+      "Windows 11"
+    ],
+    "answer": "Palm OS",
+    "explanation": "The 'Mobile Operating Systems' section lists various mobile OS types including Symbian, Blackberry, Palm OS, Web OS, and others.",
+    "page_number": "15"
+  },
+  {
+    "id": 152,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "In the comparison Table 1, which OS is categorised as CUI?",
+    "options": [
+      "Windows",
+      "Macintosh",
+      "DOS",
+      "Linux"
+    ],
+    "answer": "DOS",
+    "explanation": "Table 1 explicitly states: 'DOS is categorised as CUI', whereas 'Windows is categorised as GUI'.",
+    "page_number": "11"
+  },
+  {
+    "id": 153,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "What type of OS is 'Windows 10 IoT' an example of?",
+    "options": [
+      "Batch Processing",
+      "Embedded Operating System",
+      "Multi-user system",
+      "Real-time system"
+    ],
+    "answer": "Embedded Operating System",
+    "explanation": "Windows 10 IoT is specifically mentioned as an example of an embedded operating system, designed for compact devices like PDAs.",
+    "page_number": "9"
+  },
+  {
+    "id": 154,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "Which of these is a feature of 'Networking support' in Windows 10?",
+    "options": [
+      "Support for only one network",
+      "A wide range of protocols and networks",
+      "No support for internet cables",
+      "It only works with Microsoft devices"
+    ],
+    "answer": "A wide range of protocols and networks",
+    "explanation": "Windows 10 supports a wide range of protocols and networks, which are the rules used to transmit data between electronic devices.",
+    "page_number": "12"
+  },
+  {
+    "id": 155,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "According to the 'Fact Byte' on page 11, what is an interface?",
+    "options": [
+      "A software to play videos",
+      "A shared boundary where two or more components exchange information",
+      "A type of physical cable",
+      "A button used to turn on the PC"
+    ],
+    "answer": "A shared boundary where two or more components exchange information",
+    "explanation": "The Fact Byte defines an interface as a shared boundary across which two or more different components of a computer exchange information.",
+    "page_number": "11"
+  },
+  {
+    "id": 156,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "medium",
+    "question": "What is the world's second most advanced mobile operating system according to the text?",
+    "options": [
+      "Android",
+      "Windows Phone",
+      "iOS",
+      "Symbian"
+    ],
+    "answer": "iOS",
+    "explanation": "The text clearly states: 'iOS: It is the world’s second most advanced mobile operating system created and developed by Apple.'",
+    "page_number": "15"
+  },
+  {
+    "id": 157,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "Which OS type is designed for systems that process events as and when they occur, typically without delays?",
+    "options": [
+      "Distributed OS",
+      "Batch Processing OS",
+      "Real-time Operating System",
+      "Multi-user OS"
+    ],
+    "answer": "Real-time Operating System",
+    "explanation": "A Real-time Operating System (RTOS) is specifically designed for applications that require immediate data processing without significant time delays.",
+    "page_number": "9"
+  },
+  {
+    "id": 158,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "How does an operating system manage security protocols effectively?",
+    "options": [
+      "By sharing all user passwords with the network",
+      "By setting up passwords and blocking unauthorised access",
+      "By deleting any program that asks for a password",
+      "By making all files public for easy access"
+    ],
+    "answer": "By setting up passwords and blocking unauthorised access",
+    "explanation": "The OS manages security by setting up procedures like passwords and protocols that block unauthorised users from accessing the system's files and data.",
+    "page_number": "8"
+  },
+  {
+    "id": 159,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "What is the primary role of the 'Processor' in relation to the operating system?",
+    "options": [
+      "It is a minor resource used for printing",
+      "It is the most significant resource that the OS manages effectively",
+      "It is only used when the computer is booting",
+      "The OS does not interact with the processor"
+    ],
+    "answer": "It is the most significant resource that the OS manages effectively",
+    "explanation": "The document identifies the processor as the most significant resource of a computer, and the OS must track and allocate its time among multiple simultaneous processes.",
+    "page_number": "8"
+  },
+  {
+    "id": 160,
+    "subject": "Operating Systems",
+    "chapter": "Operating Systems",
+    "difficulty": "hard",
+    "question": "Which of the following is true about 'Multi-tasking' in Windows?",
+    "options": [
+      "It means the computer can only do one task very fast",
+      "It allows you to open a browser and work in Word at the same time",
+      "It is only available in MS-DOS",
+      "It requires the user to type commands for every task"
+    ],
+    "answer": "It allows you to open a browser and work in Word at the same time",
+    "explanation": "Multitasking is the ability to execute multiple tasks simultaneously. Windows 10 supports this, allowing users to run several programs concurrently.",
+    "page_number": "9"
   }
 ]
