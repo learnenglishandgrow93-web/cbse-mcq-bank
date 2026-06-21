@@ -1,0 +1,2894 @@
+[
+  {
+    "id": 1,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What does the acronym ICT stand for?",
+    "options": [
+      "Information and Communication Technology",
+      "Integrated Computer Techniques",
+      "Internal Communication Tools",
+      "Information and Computing Technologies"
+    ],
+    "answer": "Information and Communication Technology",
+    "explanation": "According to the PDF, ICT stands for Information and Communications Technology. It encompasses a diverse set of technological tools and resources used to manage information.",
+    "page_number": "46"
+  },
+  {
+    "id": 2,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which of the following is an example of a communication technology included in ICT?",
+    "options": [
+      "The Internet",
+      "Smartphones",
+      "Wireless networks",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "explanation": "The text states that ICT includes communication technologies such as the Internet, broadcasting technologies, wireless networks, and smartphones.",
+    "page_number": "46"
+  },
+  {
+    "id": 3,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "In the context of e-learning, what is the role of 'interactive kiosks'?",
+    "options": [
+      "To provide hardware repair services",
+      "To deliver content, manage activities, and evaluate students",
+      "To connect schools to the local electricity grid",
+      "To store physical textbooks for students"
+    ],
+    "answer": "To deliver content, manage activities, and evaluate students",
+    "explanation": "Electronic Learning or e-learning is described as an ICT-based system that delivers content, manages student activities, and evaluates students through interactive kiosks.",
+    "page_number": "46"
+  },
+  {
+    "id": 4,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What are the necessary credentials provided to a student for an e-learning program to log on to the module?",
+    "options": [
+      "Social security number and address",
+      "Email address and phone number",
+      "Username and password",
+      "Biometric thumbprint and iris scan"
+    ],
+    "answer": "Username and password",
+    "explanation": "In an e-learning program, once a student gets registered online, they are provided with a username and password to log on and access lectures and notes.",
+    "page_number": "46-47"
+  },
+  {
+    "id": 5,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which mode of e-learning involves face-to-face classes supported by technology?",
+    "options": [
+      "Blended e-learning",
+      "On-Demand e-learning",
+      "Offline self-paced",
+      "Online individualised"
+    ],
+    "answer": "Blended e-learning",
+    "explanation": "Blended e-learning is a mode that involves face-to-face classes supported with technology support for content delivery and teaching aides.",
+    "page_number": "47"
+  },
+  {
+    "id": 6,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which mode of e-learning is conducted through offline packages like CDs or DVDs?",
+    "options": [
+      "Online individualised self-paced",
+      "On-Demand e-learning",
+      "Offline individualised self-paced",
+      "Blended e-learning"
+    ],
+    "answer": "Offline individualised self-paced",
+    "explanation": "Offline individualised self-paced e-learning can be carried out through packages like CD/DVD, requiring no active Internet connection.",
+    "page_number": "47"
+  },
+  {
+    "id": 7,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "How does 'On-Demand e-learning' deliver content to the learner?",
+    "options": [
+      "Through physical mailing of books",
+      "By maintaining repositories of content available when the learner demands",
+      "By requiring the learner to visit a local library",
+      "Through live television broadcasts only"
+    ],
+    "answer": "By maintaining repositories of content available when the learner demands",
+    "explanation": "On-Demand e-learning maintains repositories of content which is made available to the e-Learner as and when he/she demands.",
+    "page_number": "47"
+  },
+  {
+    "id": 8,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which advantage of e-learning highlights that materials can be used 24x7?",
+    "options": [
+      "Reduced cost",
+      "Accessibility",
+      "Flexibility",
+      "Less overhead"
+    ],
+    "answer": "Flexibility",
+    "explanation": "Flexibility allows one to attend the learning session at any convenient time, as e-learning is available 24 x 7.",
+    "page_number": "47"
+  },
+  {
+    "id": 9,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What is an e-learning advantage where participants adjust their study time to other obligations like work or sport?",
+    "options": [
+      "Material reuse",
+      "Own pace of study",
+      "Accessibility",
+      "Reduced cost"
+    ],
+    "answer": "Own pace of study",
+    "explanation": "Under 'Own pace of study', participants can set their own pace and adjust it to other obligations like family, work, or sport.",
+    "page_number": "47"
+  },
+  {
+    "id": 10,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is considered a disadvantage of e-learning regarding the student's interaction with peers?",
+    "options": [
+      "Overdependence on technology",
+      "Reduced cost",
+      "Lack of socialisation",
+      "Material reuse"
+    ],
+    "answer": "Lack of socialisation",
+    "explanation": "Lack of socialisation is a disadvantage where students may feel socially isolated from peers and tutors because learning often improves in physical proximity.",
+    "page_number": "47"
+  },
+  {
+    "id": 11,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Why might basic IT training be required before starting an e-learning course in another subject?",
+    "options": [
+      "Because students must know how to build their own computers",
+      "Because e-learning requires skills and knowledge to use modern ICT and computers",
+      "Because traditional textbooks are now illegal",
+      "To ensure students can program the LMS from scratch"
+    ],
+    "answer": "Because e-learning requires skills and knowledge to use modern ICT and computers",
+    "explanation": "The text mentions that e-learning requires students to have skills and knowledge to use modern ICT, hence basic IT training might be a prerequisite.",
+    "page_number": "48"
+  },
+  {
+    "id": 12,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is a 'Virtual Classroom' or 'e-Classroom' designed to provide?",
+    "options": [
+      "A place for students to play video games",
+      "A learning experience similar to a real classroom and traditional methods",
+      "A storage area for old computer hardware",
+      "A dedicated laboratory for robotics research only"
+    ],
+    "answer": "A learning experience similar to a real classroom and traditional methods",
+    "explanation": "Virtual Classroom aims to provide a learning experience similar to a real classroom and traditional method of teaching from anywhere and anytime.",
+    "page_number": "48"
+  },
+  {
+    "id": 13,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What does LMS stand for in the context of e-learning?",
+    "options": [
+      "Learning Management System",
+      "Legal Management Software",
+      "Local Media Server",
+      "Logical Monitoring Suite"
+    ],
+    "answer": "Learning Management System",
+    "explanation": "LMS stands for Learning Management System, which is a software system that conducts and manages all the activities of an e-learning system.",
+    "page_number": "48"
+  },
+  {
+    "id": 14,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which tool allows participants in a Teams meeting to brainstorm and save the product of their collaboration?",
+    "options": [
+      "Instant Messaging",
+      "Computer Based Training",
+      "Shared whiteboards",
+      "E-mail"
+    ],
+    "answer": "Shared whiteboards",
+    "explanation": "Shared whiteboards allow users to share ideas and brainstorm in a Teams meeting, and the final product can be saved for future use.",
+    "page_number": "48"
+  },
+  {
+    "id": 15,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What form of communication allows near real-time interaction through SMS or e-mail?",
+    "options": [
+      "Learning Management System",
+      "Instant Messaging (IM)",
+      "CBT",
+      "Cloud Computing"
+    ],
+    "answer": "Instant Messaging (IM)",
+    "explanation": "Instant Messaging (IM) is a form of online communication that allows near real-time interaction via personal computers or mobile devices.",
+    "page_number": "48"
+  },
+  {
+    "id": 16,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which platform is described as a 3D modelling computer program for STEM learning?",
+    "options": [
+      "Slack",
+      "EdAPP",
+      "Makers Empire",
+      "Spiral"
+    ],
+    "answer": "Makers Empire",
+    "explanation": "Makers Empire is a 3D modelling program that teaches design thinking and problem-solving through STEM learning, 3D design, and printing.",
+    "page_number": "48"
+  },
+  {
+    "id": 17,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which collaborative platform is specifically designed for the office but used for student collaboration?",
+    "options": [
+      "Slack",
+      "Minecraft",
+      "Geogebra",
+      "E-reader"
+    ],
+    "answer": "Slack",
+    "explanation": "Slack is a messaging program designed specifically for the office for collaboration, allowing users to make calls and share files.",
+    "page_number": "48"
+  },
+  {
+    "id": 18,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What feature of Minecraft is mentioned as beneficial for students working on projects?",
+    "options": [
+      "High-speed racing",
+      "Collaboration",
+      "Single-player mode only",
+      "Database management"
+    ],
+    "answer": "Collaboration",
+    "explanation": "Collaboration is a feature of Minecraft where students work together on projects like creating code or conducting experiments.",
+    "page_number": "49"
+  },
+  {
+    "id": 19,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which tool provides free productivity software like Docs, Slides, and Sheets?",
+    "options": [
+      "Minecraft",
+      "Google",
+      "Slack",
+      "Spiral"
+    ],
+    "answer": "Google",
+    "explanation": "Google provides a variety of free productivity tools such as Docs (word processing), Slides (presentations), and Sheets (spreadsheets).",
+    "page_number": "49"
+  },
+  {
+    "id": 20,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which programme is recommended for graphical representations of mathematical topics?",
+    "options": [
+      "Spiral",
+      "Geogebra",
+      "Minecraft",
+      "EdAPP"
+    ],
+    "answer": "Geogebra",
+    "explanation": "The PDF states that for graphical representations of mathematical topics, one can use the programme Geogebra.",
+    "page_number": "49"
+  },
+  {
+    "id": 21,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "What is the key difference between synchronous and asynchronous learning defined in the PDF?",
+    "options": [
+      "Synchronous uses computers while asynchronous uses tablets",
+      "Synchronous occurs in real-time while asynchronous allows access at one's own pace over time",
+      "Synchronous is only for hospitals while asynchronous is for schools",
+      "Synchronous requires a password but asynchronous does not"
+    ],
+    "answer": "Synchronous occurs in real-time while asynchronous allows access at one's own pace over time",
+    "explanation": "Synchronous learning is described as networking in 'real-time', whereas asynchronous learning is when students access resources at their own pace over a longer period.",
+    "page_number": "49"
+  },
+  {
+    "id": 22,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which of the following is an example of asynchronous learning?",
+    "options": [
+      "Interactive webinars",
+      "Watching recorded lectures",
+      "Live video conferences",
+      "Real-time chat-based conversations"
+    ],
+    "answer": "Watching recorded lectures",
+    "explanation": "Watching recorded lectures and instructional videos are specifically listed as examples of asynchronous learning.",
+    "page_number": "49"
+  },
+  {
+    "id": 23,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What is the acronym SMART in relation to smartphone technology?",
+    "options": [
+      "Self-Monitoring, Analysis and Reporting Technology",
+      "Systematic Mobile and Radio Transmission",
+      "Simple Media and Reporting Tool",
+      "Secure Monitoring and Remote Tracking"
+    ],
+    "answer": "Self-Monitoring, Analysis and Reporting Technology",
+    "explanation": "The text defines SMART as an acronym for Self-Monitoring, Analysis and Reporting Technology.",
+    "page_number": "50"
+  },
+  {
+    "id": 24,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What is an E-reader specifically used for?",
+    "options": [
+      "Watching movies",
+      "Reading e-books in a digital format",
+      "Making video calls",
+      "Managing database servers"
+    ],
+    "answer": "Reading e-books in a digital format",
+    "explanation": "An E-reader is a mobile electronic device used for reading e-books in a digital format.",
+    "page_number": "50"
+  },
+  {
+    "id": 25,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Where can users download additional apps for their smartphones?",
+    "options": [
+      "Physical bookstores",
+      "Online stores like Google Play Store or Apple App Store",
+      "By calling their cellular provider",
+      "From the television broadcast"
+    ],
+    "answer": "Online stores like Google Play Store or Apple App Store",
+    "explanation": "Additional apps can be downloaded from online stores, including Google Play Store for Android and Apple App Store for Apple.",
+    "page_number": "50"
+  },
+  {
+    "id": 26,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which ICT tool is described as a small device with a touch screen that helps students understand complex concepts through interactive modules?",
+    "options": [
+      "Television",
+      "Newspaper",
+      "Tablet",
+      "Radio"
+    ],
+    "answer": "Tablet",
+    "explanation": "Tablets are described as small devices with a touch screen that help students understand complex concepts by offering e-learning modules.",
+    "page_number": "50"
+  },
+  {
+    "id": 27,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which of the following is an example of a touch screen used in public services?",
+    "options": [
+      "A standard chalkboard",
+      "An ATM at a bank",
+      "A laser printer",
+      "A satellite dish"
+    ],
+    "answer": "An ATM at a bank",
+    "explanation": "The text lists an ATM at a bank as an example of a touch screen, along with microwaves and dishwashers.",
+    "page_number": "51"
+  },
+  {
+    "id": 28,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Why is a Smart Board considered preferable to a chalkboard for teaching?",
+    "options": [
+      "It is much cheaper and requires no electricity",
+      "Images have an enduring effect on a child’s mind and lessons can be saved",
+      "It can only display text and not images",
+      "It does not support touch interaction"
+    ],
+    "answer": "Images have an enduring effect on a child’s mind and lessons can be saved",
+    "explanation": "Smart Boards are preferable because images have an enduring effect on a child’s mind and lessons/quizzes can be shown and saved for future reference.",
+    "page_number": "51"
+  },
+  {
+    "id": 29,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "How has ICT revolutionized the newspaper industry?",
+    "options": [
+      "By making paper obsolete",
+      "By using laser technology for faster printing and providing news portals",
+      "By allowing only one newspaper to be printed per day",
+      "By removing all images from the news"
+    ],
+    "answer": "By using laser technology for faster printing and providing news portals",
+    "explanation": "ICT allows newspapers to be printed faster using laser technology and has created news portals that provide news at any time.",
+    "page_number": "51"
+  },
+  {
+    "id": 30,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What is the 'Network of Networks' that allows users to share information and communicate globally?",
+    "options": [
+      "Local Area Network",
+      "The Internet",
+      "Private Intranet",
+      "Radio Broadcasting"
+    ],
+    "answer": "The Internet",
+    "explanation": "The Internet is referred to as a 'Network of Networks' that interconnected via electronic, wireless and networking technologies.",
+    "page_number": "51"
+  },
+  {
+    "id": 31,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "According to the PDF, what is the file size limit for e-mail attachments, and what should be used for larger files?",
+    "options": [
+      "10 MB; use a floppy disk",
+      "25 MB; use Google Drive or services like wetransfer.com",
+      "100 MB; use a flash drive",
+      "50 MB; use WhatsApp"
+    ],
+    "answer": "25 MB; use Google Drive or services like wetransfer.com",
+    "explanation": "The text states you cannot send files larger than 25 MB as an e-mail attachment and suggests using Google Drive or wetransfer.com for larger files.",
+    "page_number": "51"
+  },
+  {
+    "id": 32,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is the free file transfer limit for the service 'www.sendspace.com' mentioned in the text?",
+    "options": [
+      "25 MB",
+      "2 GB",
+      "300 MB",
+      "15 GB"
+    ],
+    "answer": "300 MB",
+    "explanation": "The PDF identifies 'www.sendspace.com' as a file transfer service that helps you transfer files up to 300 MB free of cost.",
+    "page_number": "51"
+  },
+  {
+    "id": 33,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What does 'E-mail' stand for?",
+    "options": [
+      "Easy Mail",
+      "Electronic Mail",
+      "Extended Mail",
+      "Electrical Mail"
+    ],
+    "answer": "Electronic Mail",
+    "explanation": "The text defines e-mail as an acronym for electronic mail.",
+    "page_number": "51"
+  },
+  {
+    "id": 34,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which facility allows an e-mail to be sent to multiple people within seconds for future reference?",
+    "options": [
+      "Mail merging",
+      "Data mining",
+      "Firewall",
+      "Formatting"
+    ],
+    "answer": "Mail merging",
+    "explanation": "The PDF states that e-mail can be sent to multiple people within seconds using the mail merging facility.",
+    "page_number": "52"
+  },
+  {
+    "id": 35,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which ICT tool broadcasts audio-visual content that is both entertaining and educational?",
+    "options": [
+      "Radio",
+      "Television",
+      "Newspaper",
+      "Smart Board"
+    ],
+    "answer": "Television",
+    "explanation": "Television broadcasts programmes with audio–visual content that are both entertaining and educational, used for news, sports, and educational networks.",
+    "page_number": "52"
+  },
+  {
+    "id": 36,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "How is 'Cloud Computing' defined in the context of user resources?",
+    "options": [
+      "It is a physical hard drive connected directly to one computer",
+      "It is an internet-based service providing shared resources and software on demand",
+      "It is a method of predicting weather using satellites",
+      "It is a system that works only when the Internet is disconnected"
+    ],
+    "answer": "It is an internet-based service providing shared resources and software on demand",
+    "explanation": "Cloud computing is defined as an internet-based service which provides shared resources, software, and information to computers over a network on demand.",
+    "page_number": "52"
+  },
+  {
+    "id": 37,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which advantage of cloud computing involves on-demand self-service where resources are accessed in seconds?",
+    "options": [
+      "Reliability",
+      "Productivity",
+      "Speed",
+      "Cost"
+    ],
+    "answer": "Speed",
+    "explanation": "Speed in cloud computing refers to on-demand self-service where resources can be accessed in seconds with just a few clicks.",
+    "page_number": "52"
+  },
+  {
+    "id": 38,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "How does cloud computing improve 'Productivity'?",
+    "options": [
+      "By increasing the price of software",
+      "By removing requirements for hardware set-up and software patching",
+      "By requiring manual backups every hour",
+      "By limiting access to one location only"
+    ],
+    "answer": "By removing requirements for hardware set-up and software patching",
+    "explanation": "Cloud computing removes the requirement of hardware set-up, software patching, and other time-consuming IT-related tasks, thus increasing productivity.",
+    "page_number": "52"
+  },
+  {
+    "id": 39,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "How much free storage does Google Drive offer to its users?",
+    "options": [
+      "5 GB",
+      "10 GB",
+      "15 GB",
+      "25 GB"
+    ],
+    "answer": "15 GB",
+    "explanation": "Google Drive allows its users to store files in the cloud and offers 15 gigabytes of free storage.",
+    "page_number": "53"
+  },
+  {
+    "id": 40,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "In Google Drive, where are files created and edited through the online office suite automatically saved?",
+    "options": [
+      "Spam folder",
+      "My Drive folder",
+      "Trash bin",
+      "Downloads folder"
+    ],
+    "answer": "My Drive folder",
+    "explanation": "Files created through the office suite online get automatically saved under the 'My Drive' folder of the Google Drive.",
+    "page_number": "53"
+  },
+  {
+    "id": 41,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What role does Social Media play according to the PDF?",
+    "options": [
+      "It is a platform for physical sports only",
+      "It is an interactive platform for the exchange of information, ideas, and career interests",
+      "It is used exclusively for private bank transactions",
+      "It is a system for controlling satellite orbits"
+    ],
+    "answer": "It is an interactive platform for the exchange of information, ideas, and career interests",
+    "explanation": "Social Media is an interactive platform that allows the creation or exchange of information, ideas, and career interests through virtual communities.",
+    "page_number": "53"
+  },
+  {
+    "id": 42,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Who founded Facebook?",
+    "options": [
+      "Bill Gates",
+      "Mark Zuckerberg",
+      "Steve Jobs",
+      "Larry Page"
+    ],
+    "answer": "Mark Zuckerberg",
+    "explanation": "The text explicitly mentions that Facebook was founded by Mark Zuckerberg.",
+    "page_number": "54"
+  },
+  {
+    "id": 43,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What are short messages on Twitter called?",
+    "options": [
+      "Blogs",
+      "Snaps",
+      "Tweets",
+      "Posts"
+    ],
+    "answer": "Tweets",
+    "explanation": "Users on Twitter can post and interact using multimedia and text messages known as ‘tweets’.",
+    "page_number": "54"
+  },
+  {
+    "id": 44,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What symbol is used on Twitter before a keyword to categorise and highlight it?",
+    "options": [
+      "@",
+      "$",
+      "#",
+      "&"
+    ],
+    "answer": "#",
+    "explanation": "Users use the hashtag symbol (#) before a relevant keyword or phrase in their tweets to categorise and highlight keywords.",
+    "page_number": "54"
+  },
+  {
+    "id": 45,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "What was the original character limit for tweets, and what was it increased to?",
+    "options": [
+      "100 to 200 characters",
+      "140 to 280 characters",
+      "140 to 500 characters",
+      "280 to 560 characters"
+    ],
+    "answer": "140 to 280 characters",
+    "explanation": "Tweets were originally limited to 140 characters, but this was later increased to 280 characters.",
+    "page_number": "54"
+  },
+  {
+    "id": 46,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is a 'Blog' and how is its content usually presented?",
+    "options": [
+      "A private encrypted database; alphabetical order",
+      "A diary or online journal; reverse chronological order",
+      "A video streaming site; random order",
+      "A government portal; official order"
+    ],
+    "answer": "A diary or online journal; reverse chronological order",
+    "explanation": "A blog is like a diary or online journal where content is presented in reverse chronological order (newer content appears first).",
+    "page_number": "54"
+  },
+  {
+    "id": 47,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Which social media platform is cited as an example of a 'micro-blog'?",
+    "options": [
+      "Facebook",
+      "YouTube",
+      "Twitter",
+      "WhatsApp"
+    ],
+    "answer": "Twitter",
+    "explanation": "The PDF states that microblogging is a specific form of a blog for very short comments, and Twitter is an example of a micro-blog.",
+    "page_number": "55"
+  },
+  {
+    "id": 48,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "With which collaborative service does Microsoft Teams primarily compete?",
+    "options": [
+      "Google Drive",
+      "Slack",
+      "Instagram",
+      "Skype"
+    ],
+    "answer": "Slack",
+    "explanation": "Microsoft Teams competes primarily with Slack, a similar service that provides workspace chat and videoconferencing.",
+    "page_number": "55"
+  },
+  {
+    "id": 49,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What is YouTube primarily used for?",
+    "options": [
+      "Instant messaging only",
+      "Video sharing",
+      "Operating system development",
+      "Hardware manufacturing"
+    ],
+    "answer": "Video sharing",
+    "explanation": "YouTube is a free video sharing and social media website owned by Google where various types of videos can be watched and shared.",
+    "page_number": "55"
+  },
+  {
+    "id": 50,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What does VoIP stand for in applications like Skype and WhatsApp?",
+    "options": [
+      "Voice Over Internet Protocol",
+      "Video On Internal Platforms",
+      "Virtual Online Interactive Program",
+      "Visual Output Integrated Processing"
+    ],
+    "answer": "Voice Over Internet Protocol",
+    "explanation": "VoIP stands for Voice Over Internet Protocol, which is a way of delivering voice and multimedia conferences over the Internet.",
+    "page_number": "54-55"
+  },
+  {
+    "id": 51,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which app is described as a freeware instant messaging app owned by Facebook Inc.?",
+    "options": [
+      "Telegram",
+      "WhatsApp",
+      "Skype",
+      "Instagram"
+    ],
+    "answer": "WhatsApp",
+    "explanation": "WhatsApp is a freeware app for smartphones and VoIP service owned by Facebook Inc., popular for instant messaging.",
+    "page_number": "55"
+  },
+  {
+    "id": 52,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which feature of Instagram allows users to browse other people’s content?",
+    "options": [
+      "Hashtags and locations",
+      "Encrypted voice calls",
+      "Spreadsheet integration",
+      "Robotic sensors"
+    ],
+    "answer": "Hashtags and locations",
+    "explanation": "On Instagram, users can browse other peoples’ content by using hashtags and locations.",
+    "page_number": "56"
+  },
+  {
+    "id": 53,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What allows robots to interact with their external environment?",
+    "options": [
+      "Web browsers",
+      "Inbuilt sensors",
+      "Social media profiles",
+      "E-mail attachments"
+    ],
+    "answer": "Inbuilt sensors",
+    "explanation": "Robots have inbuilt sensors that help them to interact with the external environment and perform repetitive or intelligent tasks.",
+    "page_number": "56"
+  },
+  {
+    "id": 54,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Name the two intelligent humanoid robots mentioned that talk and behave like humans.",
+    "options": [
+      "Astro and Alexa",
+      "Erica and Sophia",
+      "Siri and Google",
+      "Makers and Empire"
+    ],
+    "answer": "Erica and Sophia",
+    "explanation": "The text mentions that intelligent humanoid robots named Erica and Sophia have been developed to talk and behave like humans.",
+    "page_number": "56"
+  },
+  {
+    "id": 55,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is the purpose of Amazon's robot 'Astro'?",
+    "options": [
+      "To mine for gold on Mars",
+      "To perform surveillance duties and track behavior in a house",
+      "To serve as an underwater exploration vessel",
+      "To manufacture newspapers using laser technology"
+    ],
+    "answer": "To perform surveillance duties and track behavior in a house",
+    "explanation": "Amazon’s new robot called Astro is designed to keep track of the behaviour of everyone in the house for surveillance duties.",
+    "page_number": "57"
+  },
+  {
+    "id": 56,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "What is expected to be a key driver for the growth of the Internet of Things (IoT)?",
+    "options": [
+      "3G networks",
+      "Manual data entry",
+      "5G networks",
+      "Analog radio waves"
+    ],
+    "answer": "5G networks",
+    "explanation": "The PDF states that IoT is predicted to witness significant growth, and 5G is expected to be a key driver of that growth.",
+    "page_number": "57"
+  },
+  {
+    "id": 57,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "How can IoT and AI benefit the healthcare industry according to the text?",
+    "options": [
+      "By replacing all human doctors",
+      "By examining patient requirements, blood samples, and identifying diagnoses",
+      "By increasing the cost of medications",
+      "By preventing students from using tablets"
+    ],
+    "answer": "By examining patient requirements, blood samples, and identifying diagnoses",
+    "explanation": "IoT and AI can be used to examine patients' requirements, blood samples, genetic data, identify diagnoses, and develop medications.",
+    "page_number": "57"
+  },
+  {
+    "id": 58,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which Microsoft app is a cloud-based digital notepad that allows real-time collaboration?",
+    "options": [
+      "Teams",
+      "OneNote",
+      "Astro",
+      "Skype"
+    ],
+    "answer": "OneNote",
+    "explanation": "OneNote is a cloud-based digital notepad from Microsoft that allows colleagues to collaborate in real time by sharing notebooks.",
+    "page_number": "57"
+  },
+  {
+    "id": 59,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "What is defined as 'a set of procedures, moral principles, and ethical practices that regulate the use of a computer'?",
+    "options": [
+      "Cyber Hygiene",
+      "Computing Ethics",
+      "Social Engineering",
+      "Network Protocols"
+    ],
+    "answer": "Computing Ethics",
+    "explanation": "Computing Ethics is explicitly defined as a set of procedures, moral principles, and ethical practices that regulate computer use.",
+    "page_number": "57"
+  },
+  {
+    "id": 60,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is the function of a 'firewall'?",
+    "options": [
+      "To speed up the Internet connection",
+      "To protect the computer from unauthorised access",
+      "To delete all e-mail attachments",
+      "To create cookies for the web browser"
+    ],
+    "answer": "To protect the computer from unauthorised access",
+    "explanation": "A firewall is a software program that helps to protect your computer from unauthorised access.",
+    "page_number": "58"
+  },
+  {
+    "id": 61,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is 'backup' in computer terminology?",
+    "options": [
+      "Deleting old files to save space",
+      "The process of making duplicate copies of data to restore the original if lost",
+      "A type of cyber security attack",
+      "Connecting a second monitor to the computer"
+    ],
+    "answer": "The process of making duplicate copies of data to restore the original if lost",
+    "explanation": "Backup is the process of making duplicate copies of data, which can be used to restore the original data if it is lost or corrupted.",
+    "page_number": "58"
+  },
+  {
+    "id": 62,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "What is a 'cookie' in the context of web browsing?",
+    "options": [
+      "A hardware component that stores passwords",
+      "A type of malware that steals data",
+      "A text message given to a web browser by a web server to prepare customised pages",
+      "A physical reward for completing an online course"
+    ],
+    "answer": "A text message given to a web browser by a web server to prepare customised pages",
+    "explanation": "A cookie is a text message from a web server to a browser, saved in a text file and used later to prepare customised web pages.",
+    "page_number": "58"
+  },
+  {
+    "id": 63,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Which cyber attack depends on human interaction to trick individuals into revealing sensitive information?",
+    "options": [
+      "Social engineering",
+      "Data encryption",
+      "Firewall breach",
+      "Spam filtering"
+    ],
+    "answer": "Social engineering",
+    "explanation": "Social engineering is a type of cyber security attack that depends on human interaction to trick individuals into revealing sensitive information.",
+    "page_number": "58"
+  },
+  {
+    "id": 64,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What does 'Cyber Hygiene' refer to?",
+    "options": [
+      "Cleaning the physical computer screen with soap",
+      "The practice of keeping computers and devices clean and free of malware",
+      "Using hand sanitizer before typing on a keyboard",
+      "Deleting social media accounts every month"
+    ],
+    "answer": "The practice of keeping computers and devices clean and free of malware",
+    "explanation": "Cyber Hygiene is the practice of keeping your computer and devices clean and free of malware, which includes installing updates.",
+    "page_number": "58"
+  },
+  {
+    "id": 65,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Assertion (A): E-learning allows for material reuse which saves time and effort.\nReason (R): Once study materials are prepared, they can be used repeatedly for different batches of students.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Material reuse is an advantage mentioned on page 47. Because materials can be repeatedly used after one-time preparation, it leads to savings in both time and effort.",
+    "page_number": "47"
+  },
+  {
+    "id": 66,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Assertion (A): Synchronous learning requires students and teachers to be online at the same time.\nReason (R): Synchronous learning allows students to access resources at their own pace over a longer period.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "Assertion A is true as per page 49. However, Reason R describes asynchronous learning, not synchronous learning, making R false.",
+    "page_number": "49"
+  },
+  {
+    "id": 67,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Assertion (A): Robots are programmed to perform repetitive tasks effectively.\nReason (R): Robots have inbuilt sensors that help them interact with the external environment.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, but R is not the correct explanation of A.",
+    "explanation": "Both statements are true as per page 56. However, the ability to interact with the environment via sensors is not the direct reason why they are programmed for repetitive tasks; repetitive programming is based on their control systems.",
+    "page_number": "56"
+  },
+  {
+    "id": 68,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Assertion (A): Strong, unique passwords are essential for cyber security.\nReason (R): They guarantee that the system is accessed only by authorised users.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Page 57 states that creating strong, unique passwords protects online accounts and ensures that only authorised users can access the system.",
+    "page_number": "57"
+  },
+  {
+    "id": 69,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Assertion (A): Twitter is considered a micro-blogging platform.\nReason (R): It allows users to post very short comments and multimedia messages known as 'tweets'.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "As per page 55, microblogging involves posting short messages, and Twitter is the prime example given because of its 'tweets'.",
+    "page_number": "55"
+  },
+  {
+    "id": 70,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Assertion (A): Cloud computing is cost-effective for businesses.\nReason (R): It eradicates the principal amount needed for buying hardware and software resources.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "On page 52, cost-effectiveness is listed as a benefit of cloud computing because it removes the need to buy expensive hardware and software upfront.",
+    "page_number": "52"
+  },
+  {
+    "id": 71,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Assertion (A): Smart Boards are preferable to traditional chalkboards in modern classrooms.\nReason (R): Chalkboards cannot show three-dimensional photographs or save lessons for future reference.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Page 51 highlights that Smart Boards allow for 3D photos and lesson saving, which are capabilities traditional chalkboards lack.",
+    "page_number": "51"
+  },
+  {
+    "id": 72,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Assertion (A): Internet is often called a 'Network of Networks'.\nReason (R): It is a global network of many computer networks interconnected by various technologies.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The text on page 51 explicitly defines the Internet as a global network of many networks, justifying the term 'Network of Networks'.",
+    "page_number": "51"
+  },
+  {
+    "id": 73,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Assertion (A): 5G technology will face cybersecurity issues similar to IoT devices.\nReason (R): 5G is expected to be a key driver of growth for the Internet of Things (IoT).",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, but R is not the correct explanation of A.",
+    "explanation": "Both statements are true as per page 57, but the growth of IoT via 5G does not inherently explain why 5G has cybersecurity vulnerabilities.",
+    "page_number": "57"
+  },
+  {
+    "id": 74,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Assertion (A): E-learning requires strong self-discipline and self-motivation from students.\nReason (R): In an e-learning environment, teachers cannot physically enforce discipline as in a traditional classroom.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Page 48 notes that discipline cannot be enforced on e-learning students, making their self-motivation critical to following the course.",
+    "page_number": "48"
+  },
+  {
+    "id": 75,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Assertion (A): WhatsApp is a Voice Over Internet Protocol (VoIP) service.\nReason (R): It allows users to make voice and video calls over the Internet for free.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Page 55 describes WhatsApp as a VoIP service because of its ability to facilitate calls using internet protocols.",
+    "page_number": "55"
+  },
+  {
+    "id": 76,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Assertion (A): Digital citizenship includes the responsible use of technology.\nReason (R): It involves following netiquettes related to an individual's online presence.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "According to the tech terms on page 59, digital citizenship comprises responsible technology use and netiquettes.",
+    "page_number": "59"
+  },
+  {
+    "id": 77,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which platform mentioned is a client-optimized language for fast apps developed by Google?",
+    "options": [
+      "Flutter",
+      "Dart",
+      "Nearpod",
+      "Spiral"
+    ],
+    "answer": "Dart",
+    "explanation": "Dart is described as a client-optimized language for fast apps on any platform, developed by Google for web and mobile apps.",
+    "page_number": "61"
+  },
+  {
+    "id": 78,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is 'Flutter' in the context of app development?",
+    "options": [
+      "A social media site for sharing bird photos",
+      "An open-source framework by Google for building multi-platform applications",
+      "A hardware component for tablets",
+      "A type of cyber security attack targeting e-mails"
+    ],
+    "answer": "An open-source framework by Google for building multi-platform applications",
+    "explanation": "Flutter is an open-source framework by Google for building natively compiled, multi-platform applications from a single codebase.",
+    "page_number": "61"
+  },
+  {
+    "id": 79,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What does the term 'Green IoT' refer to?",
+    "options": [
+      "Painting all IoT devices green",
+      "Reducing the energy consumption of IoT devices to achieve a sustainable environment",
+      "Using IoT devices only in forests",
+      "Recycling old plastic from computer cases"
+    ],
+    "answer": "Reducing the energy consumption of IoT devices to achieve a sustainable environment",
+    "explanation": "Green IoT refers to the issue of reducing energy consumption of IoT devices for environmental sustainability.",
+    "page_number": "62"
+  },
+  {
+    "id": 80,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Who founded the 'Life without Limbs' organization mentioned in the PDF?",
+    "options": [
+      "Mark Zuckerberg",
+      "Nicholas Vujicic",
+      "Sophia the Robot",
+      "Amazon"
+    ],
+    "answer": "Nicholas Vujicic",
+    "explanation": "Nicholas Vujicic is identified as the founder of 'Life without Limbs', an international non-profit organization.",
+    "page_number": "60"
+  },
+  {
+    "id": 81,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which of the following is an application of ICT mentioned for use in shopping malls?",
+    "options": [
+      "Chatbots",
+      "Robots",
+      "Smart devices",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "explanation": "The introductory section on page 46 mentions that students should identify various applications of ICT found in shopping malls, call centers, and smart homes, specifically including chatbots and robots. These tools help manage information and customer interaction effectively.",
+    "page_number": "46"
+  },
+  {
+    "id": 82,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "How does e-learning evaluate students in an ICT-based teaching system?",
+    "options": [
+      "Through physical written exams only",
+      "Through interactive kiosks",
+      "Via telephone interviews",
+      "By observing their playground activities"
+    ],
+    "answer": "Through interactive kiosks",
+    "explanation": "Electronic Learning (e-learning) is defined as a system that delivers content, manages student activities, and evaluates students specifically through the use of interactive kiosks. This allows for automated and immediate feedback for the learners.",
+    "page_number": "46"
+  },
+  {
+    "id": 83,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "In 'Online individualised self-paced' learning, where can the learner be located?",
+    "options": [
+      "Only in a fixed computer lab",
+      "Only in a library",
+      "Stationary or mobile depending on choice",
+      "Only in a face-to-face classroom"
+    ],
+    "answer": "Stationary or mobile depending on choice",
+    "explanation": "Online individualised self-paced learning allows the learner to access resources through the Internet at their own speed. The mode is flexible enough that the learner can be stationary at a desk or mobile using portable devices.",
+    "page_number": "47"
+  },
+  {
+    "id": 84,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What is an advantage of e-learning regarding the cost of the course?",
+    "options": [
+      "It increases the cost due to electricity",
+      "It makes the course more expensive due to software",
+      "Reduced cost due to saved transportation and lodging",
+      "It has no impact on the overall cost"
+    ],
+    "answer": "Reduced cost due to saved transportation and lodging",
+    "explanation": "One major advantage of e-learning is reduced cost because many overhead expenses like transportation, lodging, and boarding are eliminated. This makes the overall course more affordable for students globally.",
+    "page_number": "47"
+  },
+  {
+    "id": 85,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which factor is described as 'detrimental to the success of e-learning'?",
+    "options": [
+      "The availability of too many courses",
+      "Low cost of study materials",
+      "Unavailability or failure of technological support",
+      "The use of multiple languages"
+    ],
+    "answer": "Unavailability or failure of technological support",
+    "explanation": "Since e-learning is essentially a technology-driven activity, the unavailability, inadequacy, or failure of technological support is detrimental. If the technology fails, the student cannot access the learning environment effectively.",
+    "page_number": "47"
+  },
+  {
+    "id": 86,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Why is 'strong self-discipline' specifically mentioned as a requirement for e-learning?",
+    "options": [
+      "Because teachers cannot enforce discipline remotely",
+      "Because students must build their own computers",
+      "Because it is required by law for online safety",
+      "Because computers only work for disciplined users"
+    ],
+    "answer": "Because teachers cannot enforce discipline remotely",
+    "explanation": "In an e-learning environment, discipline cannot be enforced on the students as it is in a physical classroom. Success depends on the student being self-motivated and ensuring they follow the course schedule rigidly without external supervision.",
+    "page_number": "48"
+  },
+  {
+    "id": 87,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "How did e-learning evolve according to the 'Tools and Techniques' section?",
+    "options": [
+      "It evolved from traditional radio broadcasts",
+      "It evolved from Computer Based Training (CBT)",
+      "It evolved from handwritten letters",
+      "It evolved from physical newspapers"
+    ],
+    "answer": "It evolved from Computer Based Training (CBT)",
+    "explanation": "Computer Based Training (CBT) has been around for many years to impart training. E-learning eventually evolved from CBT once the Internet became widely available to users, allowing for more connected and updated learning experiences.",
+    "page_number": "48"
+  },
+  {
+    "id": 88,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which website is associated with the EdAPP collaborative learning platform?",
+    "options": [
+      "https://web.edapp.com",
+      "https://www.slack.com",
+      "https://www.google.com",
+      "https://www.minecraft.net"
+    ],
+    "answer": "https://web.edapp.com",
+    "explanation": "EdAPP is a collaborative learning platform used to create online courses and includes interactive strategies. The specific URL provided for this resource in the text is https://web.edapp.com.",
+    "page_number": "48"
+  },
+  {
+    "id": 89,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is a key feature of the Makers Empire computer program?",
+    "options": [
+      "It is only for office collaboration",
+      "It teaches design thinking using 3D design and 3D printing",
+      "It is a social networking site for teachers",
+      "It is used for basic word processing only"
+    ],
+    "answer": "It teaches design thinking using 3D design and 3D printing",
+    "explanation": "Makers Empire is a 3D modelling program that helps students with problem-solving and design thinking through STEM. It allows for 3D design and printing and provides readymade lesson plans for teachers.",
+    "page_number": "48"
+  },
+  {
+    "id": 90,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which of these is a free productivity tool provided by Google for collaborative learning?",
+    "options": [
+      "Docs",
+      "Sheets",
+      "Slides",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "explanation": "Google provides several free tools like Docs, Slides, and Sheets. These promote collaborative learning because they can be modified by numerous users simultaneously in real-time.",
+    "page_number": "49"
+  },
+  {
+    "id": 91,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is the primary use of the 'Spiral' platform mentioned in the text?",
+    "options": [
+      "To play 3D games",
+      "To complete routine classwork remotely",
+      "To repair computer hardware",
+      "To broadcast radio programs"
+    ],
+    "answer": "To complete routine classwork remotely",
+    "explanation": "The text identifies Spiral as a platform that can be used by students to complete their routine classwork remotely. This supports the digital transition of standard educational activities.",
+    "page_number": "49"
+  },
+  {
+    "id": 92,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Which is an example of synchronous learning provided in the document?",
+    "options": [
+      "Watching recorded lectures",
+      "Assignments to conduct research",
+      "Online chat-based conversations",
+      "Reading instructional videos later"
+    ],
+    "answer": "Online chat-based conversations",
+    "explanation": "Synchronous learning involves teachers and students coming together in 'real-time'. Examples provided include online chat-based conversations, interactive webinars, and lectures that are streamed simultaneously.",
+    "page_number": "49"
+  },
+  {
+    "id": 93,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What website can be visited to find out about initiatives of e-governance in India?",
+    "options": [
+      "https://www.google.com",
+      "https://www.mygov.in",
+      "https://www.wikipedia.org",
+      "https://www.facebook.com"
+    ],
+    "answer": "https://www.mygov.in",
+    "explanation": "The PDF includes a 'Web Byte' section that encourages visiting https://www.mygov.in. This official website provides information regarding various initiatives of e-governance.",
+    "page_number": "49"
+  },
+  {
+    "id": 94,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which set of tools is recommended for creating interactive content and quizzes?",
+    "options": [
+      "Google Docs and Sheets",
+      "Canva, Kahoot, and SnapApp",
+      "Windows and macOS",
+      "Laser printers and scanners"
+    ],
+    "answer": "Canva, Kahoot, and SnapApp",
+    "explanation": "For an activity involving research, the text suggests naming tools like Canva, Ceros, SnapApp, and Kahoot as the best tools for creating interactive content and educational quizzes for students.",
+    "page_number": "49"
+  },
+  {
+    "id": 95,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "How does technology aid in managing information according to the text?",
+    "options": [
+      "Through physical filing cabinets",
+      "Through ICT software",
+      "By ignoring complex calculations",
+      "By eliminating the need for research"
+    ],
+    "answer": "Through ICT software",
+    "explanation": "Technology aids in managing information through ICT software. This allows for everything from everyday household tasks to complex calculations in engineering and manufacturing to be handled efficiently.",
+    "page_number": "49"
+  },
+  {
+    "id": 96,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "ICT tools consist of which of the following?",
+    "options": [
+      "Smartphones and tablets",
+      "Computers and e-mail",
+      "Smart boards and televisions",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "explanation": "ICT tools are technical tools that make it easier to create and handle information. The text explicitly lists computers, smartphones, tablets, e-mail, smart boards, and televisions as examples of these tools.",
+    "page_number": "50"
+  },
+  {
+    "id": 97,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What does a smartphone enable us to do at the 'click of a button'?",
+    "options": [
+      "Generate electricity for the house",
+      "Solve problems in a logical and coherent manner",
+      "Avoid all social interactions",
+      "Replace the need for a human teacher entirely"
+    ],
+    "answer": "Solve problems in a logical and coherent manner",
+    "explanation": "The PDF states that because smartphone technology is at our fingertips at the click of a button, it enables us to solve problems in a logical and coherent manner through access to apps and the internet.",
+    "page_number": "50"
+  },
+  {
+    "id": 98,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which device is mentioned as an effective way to make lessons interactive for students?",
+    "options": [
+      "Newspaper",
+      "Tablet",
+      "Standard Radio",
+      "Chalkboard"
+    ],
+    "answer": "Tablet",
+    "explanation": "Tablets are effective for making lessons interactive. They help students understand complex concepts by offering various e-learning modules and activities like sharing photographs or watching movies.",
+    "page_number": "50"
+  },
+  {
+    "id": 99,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "A touch screen is a computer screen that you can touch with your _________ to enter information.",
+    "options": [
+      "Voice",
+      "Fingers",
+      "Eyes",
+      "Feet"
+    ],
+    "answer": "Fingers",
+    "explanation": "As defined on page 51, a touch screen is a computer screen that allows the user to enter information by touching the screen directly with their fingers.",
+    "page_number": "51"
+  },
+  {
+    "id": 100,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "How are images on a Smart Board described in terms of their effect on a child's mind?",
+    "options": [
+      "They are confusing and brief",
+      "They have an enduring effect",
+      "They are less effective than chalk",
+      "They cause digital fatigue immediately"
+    ],
+    "answer": "They have an enduring effect",
+    "explanation": "The text notes that images have an enduring effect on a child's mind. For this reason, a smart board is often considered preferable to a traditional chalkboard for displaying lessons.",
+    "page_number": "51"
+  },
+  {
+    "id": 101,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which technology allows newspapers to be printed much faster nowadays?",
+    "options": [
+      "Mechanical presses",
+      "Laser technology",
+      "Manual typing",
+      "Inkjet printers"
+    ],
+    "answer": "Laser technology",
+    "explanation": "Using laser technology, newspapers can now be printed much faster. ICT has revolutionized the industry, allowing for more efficient printing and the creation of news portals accessible from anywhere.",
+    "page_number": "51"
+  },
+  {
+    "id": 102,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "What happens if you try to send an executable file as an e-mail attachment?",
+    "options": [
+      "It is sent faster than text",
+      "The PDF states you cannot send executable files as an e-mail attachment",
+      "It is automatically converted to a PDF",
+      "It is only allowed if it is under 1 MB"
+    ],
+    "answer": "The PDF states you cannot send executable files as an e-mail attachment",
+    "explanation": "The 'Smart Byte' section on page 51 explicitly warns that you cannot send executable files or messages larger than 25 MB as an e-mail attachment due to security and system limits.",
+    "page_number": "51"
+  },
+  {
+    "id": 103,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which of the following is NOT an advantage of e-mail over postal mail?",
+    "options": [
+      "Quicker",
+      "Cheaper",
+      "More reliable",
+      "Requires physical stamps"
+    ],
+    "answer": "Requires physical stamps",
+    "explanation": "E-mail is described as quicker, cheaper, and more reliable than postal mail. It does not require physical stamps; instead, it uses the internet to send textual and graphical information instantly.",
+    "page_number": "51"
+  },
+  {
+    "id": 104,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is the role of Radio as an ICT tool?",
+    "options": [
+      "To broadcast audio-visual content",
+      "To listen to news, songs, and interviews",
+      "To store digital photos for years",
+      "To print faster newspapers"
+    ],
+    "answer": "To listen to news, songs, and interviews",
+    "explanation": "Radio is used to listen to music, news, songs, interviews, and speeches. Unlike television, it provides audio content rather than audio-visual content.",
+    "page_number": "52"
+  },
+  {
+    "id": 105,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Cloud computing is described as a combination of which two resources?",
+    "options": [
+      "Software and Hardware",
+      "Internet and Radio",
+      "Computers and Tablets",
+      "E-mail and SMS"
+    ],
+    "answer": "Software and Hardware",
+    "explanation": "Cloud computing is defined as a combination of both software and hardware-based computing resources delivered on demand over a network or the Internet.",
+    "page_number": "52"
+  },
+  {
+    "id": 106,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Storing your photos online or using webmail means you are using _________.",
+    "options": [
+      "CBT",
+      "LMS",
+      "A cloud computing service",
+      "An offline self-paced package"
+    ],
+    "answer": "A cloud computing service",
+    "explanation": "The PDF states that when you store your photos online, use webmail, or a social networking site, you are utilizing a cloud computing service for data storage and access.",
+    "page_number": "52"
+  },
+  {
+    "id": 107,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "How does cloud computing help in 'Global scale' benefits?",
+    "options": [
+      "By reducing the size of the earth",
+      "By providing the ability to access resources from anywhere",
+      "By making hardware cheaper in local stores",
+      "By allowing users to fly using technology"
+    ],
+    "answer": "By providing the ability to access resources from anywhere",
+    "explanation": "The benefits of cloud computing include 'Global scale,' which specifically refers to the ability for users to access their resources and data from any location in the world with an internet connection.",
+    "page_number": "52"
+  },
+  {
+    "id": 108,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Where is the 'Google apps' icon located on the window to start Google Drive?",
+    "options": [
+      "Bottom left corner",
+      "Top right corner",
+      "Center of the screen",
+      "Bottom right corner"
+    ],
+    "answer": "Top right corner",
+    "explanation": "To use Google Drive, the first step is to click on the Google apps icon, which is present on the top right corner of the window after logging in.",
+    "page_number": "53"
+  },
+  {
+    "id": 109,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which of the following is an in-built app within Google Drive used for editing documents?",
+    "options": [
+      "WhatsApp",
+      "Google Docs",
+      "Instagram",
+      "Skype"
+    ],
+    "answer": "Google Docs",
+    "explanation": "Google Drive includes an in-built office suite that allows users to edit documents (Google Docs), spreadsheets (Sheets), and presentations (Slides) directly in the cloud.",
+    "page_number": "53"
+  },
+  {
+    "id": 110,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What has happened to most meetings and business transactions recently?",
+    "options": [
+      "They have been cancelled entirely",
+      "They have moved to a virtual platform",
+      "They are conducted only via newspapers",
+      "They require physical travel only"
+    ],
+    "answer": "They have moved to a virtual platform",
+    "explanation": "Social media and networking apps have gained such popularity that most meetings and business transactions have gradually moved to a virtual platform for better efficiency and reach.",
+    "page_number": "53"
+  },
+  {
+    "id": 111,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is considered the 'backbone' of social media?",
+    "options": [
+      "The physical cables under the ocean",
+      "The data generated by online interactions like posts and photos",
+      "The salary of the developers",
+      "The legal terms and conditions"
+    ],
+    "answer": "The data generated by online interactions like posts and photos",
+    "explanation": "The text states that the data generated by online interactions by users, whether text posts, comments, digital photographs, or videos, is the backbone of social media.",
+    "page_number": "54"
+  },
+  {
+    "id": 112,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "On Facebook, users join common-interest groups and receive ____________ about activities.",
+    "options": [
+      "Invoices",
+      "Physical letters",
+      "Notifications",
+      "Newspapers"
+    ],
+    "answer": "Notifications",
+    "explanation": "Facebook users can update their status, post multimedia, join groups, and receive notifications about the activities of their friends, groups, and pages.",
+    "page_number": "54"
+  },
+  {
+    "id": 113,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is the purpose of using 'hashtags' on Twitter?",
+    "options": [
+      "To hide the content from others",
+      "To categorise and highlight keywords",
+      "To encrypt the message for security",
+      "To increase the character count"
+    ],
+    "answer": "To categorise and highlight keywords",
+    "explanation": "Twitter users use the hashtag symbol (#) before a relevant keyword to categorise the content. This helps in highlighting the keywords so others interested in the same topic can find the post easily.",
+    "page_number": "54"
+  },
+  {
+    "id": 114,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What is the person who writes content on a blog known as?",
+    "options": [
+      "A programmer",
+      "A blogger",
+      "A technician",
+      "An engineer"
+    ],
+    "answer": "A blogger",
+    "explanation": "A blog is an online journal. The person who writes and manages the content on the blog is specifically known as a blogger.",
+    "page_number": "54"
+  },
+  {
+    "id": 115,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What are micro-posts?",
+    "options": [
+      "Large files sent via e-mail",
+      "Short comments posted on a microblog like Twitter",
+      "Long physical essays",
+      "Videos longer than one hour"
+    ],
+    "answer": "Short comments posted on a microblog like Twitter",
+    "explanation": "Microblogging is a specific form of a blog where users post very short comments. These small messages are called micro-posts and can include text, audio, or video.",
+    "page_number": "55"
+  },
+  {
+    "id": 116,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Microsoft Teams is part of which family of products?",
+    "options": [
+      "Adobe Creative Cloud",
+      "Microsoft 365",
+      "Google Workspace",
+      "Apple iCloud"
+    ],
+    "answer": "Microsoft 365",
+    "explanation": "Microsoft Teams is a proprietary business communication platform. It was developed by Microsoft as part of the Microsoft 365 family of products.",
+    "page_number": "55"
+  },
+  {
+    "id": 117,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which free application is integrated with Microsoft Word and Teams to help with reading?",
+    "options": [
+      "Google Translate",
+      "Immersive Reader",
+      "Quick Scan",
+      "Audio Book"
+    ],
+    "answer": "Immersive Reader",
+    "explanation": "Microsoft's Immersive Reader is a free application. It is integrated with several tools including Word, OneNote, Outlook, and Microsoft Teams to assist with learning and reading.",
+    "page_number": "55"
+  },
+  {
+    "id": 118,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What hardware is required to make video calls using Skype?",
+    "options": [
+      "A laser printer",
+      "A webcam, microphone, and speakers/headphones",
+      "A 3D printer",
+      "A joystick"
+    ],
+    "answer": "A webcam, microphone, and speakers/headphones",
+    "explanation": "To use Skype for video calls, the user must have a high-speed internet connection along with specific hardware: speakers or headphones, a microphone, and a webcam.",
+    "page_number": "55"
+  },
+  {
+    "id": 119,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Telegram is a __________, cloud-based instant messaging software.",
+    "options": [
+      "Paid",
+      "Cross-platform",
+      "Single-device",
+      "Text-only"
+    ],
+    "answer": "Cross-platform",
+    "explanation": "Telegram is identified as cross-platform software. This means it can be used across different operating systems and devices, such as desktops and smartphones.",
+    "page_number": "56"
+  },
+  {
+    "id": 120,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which social networking service allows users to browse content by hashtags and locations specifically for images?",
+    "options": [
+      "Telegram",
+      "Instagram",
+      "Google Drive",
+      "Microsoft Teams"
+    ],
+    "answer": "Instagram",
+    "explanation": "Instagram is a service that focuses on sharing videos and images. Users can browse other people's content using locations and hashtags or repost content to their own feed.",
+    "page_number": "56"
+  },
+  {
+    "id": 121,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Software companies make various versions of apps. Which of these is NOT a version mentioned?",
+    "options": [
+      "Desktop apps",
+      "Web apps",
+      "Mobile apps",
+      "Physical apps"
+    ],
+    "answer": "Physical apps",
+    "explanation": "Modern software companies create applications for different platforms. The text lists desktop apps, web apps, and mobile apps as the versions available for users.",
+    "page_number": "56"
+  },
+  {
+    "id": 122,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "How does AI enhance the capabilities of robots?",
+    "options": [
+      "By making them heavier",
+      "By giving them the ability to navigate and make calculated decisions",
+      "By allowing them to print newspapers",
+      "By requiring them to have physical keyboards"
+    ],
+    "answer": "By giving them the ability to navigate and make calculated decisions",
+    "explanation": "Artificial Intelligence (AI) gives robots the ability to navigate their surroundings, perform complex tasks, and make calculated decisions rather than just repeating pre-programmed movements.",
+    "page_number": "56"
+  },
+  {
+    "id": 123,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "In which dangerous situations can AI robots be utilized?",
+    "options": [
+      "Natural or man-made disasters",
+      "Defusing a bomb",
+      "Exploring the oceans and mining",
+      "All of these"
+    ],
+    "answer": "All of these",
+    "explanation": "AI robots are extremely useful where human intervention is dangerous. The text mentions their use in disasters, defusing bombs, mining, and exploring harsh environments like Mars or the deep oceans.",
+    "page_number": "56"
+  },
+  {
+    "id": 124,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "How does 5G benefit IoT devices compared to 4G?",
+    "options": [
+      "It makes devices larger",
+      "It allows devices to connect and communicate more effectively",
+      "It eliminates all cybersecurity issues",
+      "It makes the internet slower but safer"
+    ],
+    "answer": "It allows devices to connect and communicate more effectively",
+    "explanation": "5G networks offer a number of additional benefits over 4G, which allow IoT devices to connect and communicate with one another more effectively, driving significant growth in the industry.",
+    "page_number": "57"
+  },
+  {
+    "id": 125,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is a benefit of wearable technology in businesses and healthcare?",
+    "options": [
+      "It replaces the need for hospitals",
+      "It provides features for monitoring health and fitness",
+      "It requires no battery or charging",
+      "It is only for professional athletes"
+    ],
+    "answer": "It provides features for monitoring health and fitness",
+    "explanation": "Smart watches and other wearables have increased the scope of IoT. They are particularly beneficial in healthcare for monitoring one's health and fitness lifestyle in real-time.",
+    "page_number": "57"
+  },
+  {
+    "id": 126,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "How can OneNote help a student who works on multiple devices?",
+    "options": [
+      "It only works on one computer at a time",
+      "It allows users to transition between devices because notes are stored in the cloud",
+      "It prints a physical copy for each device",
+      "It requires a manual transfer of files via USB"
+    ],
+    "answer": "It allows users to transition between devices because notes are stored in the cloud",
+    "explanation": "OneNote is cloud-based, meaning all notes are stored online. This enables users to transition between devices (PC, Mac, phone) and continue exactly where they left off.",
+    "page_number": "57"
+  },
+  {
+    "id": 127,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Cyber ethics helps reduce computer crime by teaching people how to _________.",
+    "options": [
+      "Hack into secure systems",
+      "Behave responsibly online",
+      "Build their own firewalls",
+      "Avoid using the internet entirely"
+    ],
+    "answer": "Behave responsibly online",
+    "explanation": "Cyber ethics focuses on teaching responsible behavior online. By following good computer ethics practices, users contribute to making the Internet a safer place for everyone.",
+    "page_number": "57"
+  },
+  {
+    "id": 128,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What is one simple tip provided for cyber security to protect online accounts?",
+    "options": [
+      "Sharing your password with friends",
+      "Creating strong, unique passwords",
+      "Using the same password for all sites",
+      "Never changing your password"
+    ],
+    "answer": "Creating strong, unique passwords",
+    "explanation": "A primary tip for cyber security is creating strong, unique passwords. This ensures that only authorised users can access sensitive systems and protects data from being compromised.",
+    "page_number": "57"
+  },
+  {
+    "id": 129,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What should you do if you receive a link from an unknown source?",
+    "options": [
+      "Open it immediately to see what it is",
+      "Do not open links or attachments from unknown sources",
+      "Forward it to all your contacts",
+      "Wait 24 hours and then open it"
+    ],
+    "answer": "Do not open links or attachments from unknown sources",
+    "explanation": "To maintain security, the PDF advises users not to open links or attachments from unknown sources. This is a common way for cyber security attacks and malware to infect a system.",
+    "page_number": "58"
+  },
+  {
+    "id": 130,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "How does encrypting and decrypting data help a user?",
+    "options": [
+      "It makes the files smaller",
+      "It protects data from being accessed by unauthorised individuals during transfer",
+      "It makes the internet connection faster",
+      "It converts text into images"
+    ],
+    "answer": "It protects data from being accessed by unauthorised individuals during transfer",
+    "explanation": "Encryption converts data into a code that cannot be easily read. This protects it from unauthorized access when transferring files anonymously between users.",
+    "page_number": "58"
+  },
+  {
+    "id": 131,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which software is mentioned as an example of reputable security software?",
+    "options": [
+      "Windows Media Player",
+      "Malwarebytes",
+      "Google Chrome",
+      "Minecraft"
+    ],
+    "answer": "Malwarebytes",
+    "explanation": "In the section on Cyber Hygiene, the text suggests using reputable security software to keep devices clean. It specifically mentions Malwarebytes as an example of such software.",
+    "page_number": "58"
+  },
+  {
+    "id": 132,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Why is there an urgent need for cooperation between government and business leaders regarding cybersecurity?",
+    "options": [
+      "To increase the cost of internet services",
+      "To align global cyber regulations that safeguard data and privacy",
+      "To ban all social media platforms",
+      "To make technology available only to adults"
+    ],
+    "answer": "To align global cyber regulations that safeguard data and privacy",
+    "explanation": "Because cybersecurity threats are outpacing society's ability to prevent them, there is a need for cooperation to align global regulations. This helps safeguard data and privacy for companies and individuals alike.",
+    "page_number": "58"
+  },
+  {
+    "id": 133,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What is e-commerce?",
+    "options": [
+      "Electronic education",
+      "Activity of buying or selling products through the internet",
+      "Communicating with friends online",
+      "Building robots for manufacturing"
+    ],
+    "answer": "Activity of buying or selling products through the internet",
+    "explanation": "As defined in the 'Recall Time' section, e-commerce refers to the activity of buying or selling products through the internet, which has become a major part of the modern economy.",
+    "page_number": "59"
+  },
+  {
+    "id": 134,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which tool is NOT related to ICT in the practice section?",
+    "options": [
+      "Smart Board",
+      "Tablet",
+      "Dictionary",
+      "Internet"
+    ],
+    "answer": "Dictionary",
+    "explanation": "In the practice quiz on page 59, the dictionary is identified as a tool that is not related to ICT, whereas Smart Boards, tablets, and the Internet are central ICT technologies.",
+    "page_number": "59"
+  },
+  {
+    "id": 135,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What are unwanted bulk emails from unknown sources called?",
+    "options": [
+      "Drafts",
+      "Spam",
+      "Inbox",
+      "Sent mail"
+    ],
+    "answer": "Spam",
+    "explanation": "Although not explicitly defined in the main text, the practice question on page 60 uses the term 'spam' (implied) for unwanted bulk emails that come from unknown sources.",
+    "page_number": "60"
+  },
+  {
+    "id": 136,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which website provides details for the Social Emotional Learning (SEL) Curriculum?",
+    "options": [
+      "https://google.com",
+      "https://nickvujicic.com/",
+      "https://microsoft.com",
+      "https://web.edapp.com"
+    ],
+    "answer": "https://nickvujicic.com/",
+    "explanation": "The 'Value Byte' section mentions Nicholas Vujicic and his innovative 'Attitude Is Altitude' curriculum. Readers are directed to https://nickvujicic.com/ for more details.",
+    "page_number": "60"
+  },
+  {
+    "id": 137,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Nearpod is a smartphone software that enables instructors to _________.",
+    "options": [
+      "Build physical robots",
+      "Create and distribute interactive multimedia presentations",
+      "Mine for cryptocurrency",
+      "Control the school's electricity grid"
+    ],
+    "answer": "Create and distribute interactive multimedia presentations",
+    "explanation": "In the 'Web Byte' section on page 61, Nearpod is described as smartphone software that allows instructors to create and share interactive multimedia presentations with their students.",
+    "page_number": "61"
+  },
+  {
+    "id": 138,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What does GAFE stand for?",
+    "options": [
+      "General Apps For Everyone",
+      "Google Apps For Education",
+      "Government Agency For Electronics",
+      "Global Association For Engineering"
+    ],
+    "answer": "Google Apps For Education",
+    "explanation": "The abbreviation GAFE, found in the 'Web Byte' section on page 61, stands for Google Apps For Education, a suite of tools for school environments.",
+    "page_number": "61"
+  },
+  {
+    "id": 139,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "What category of solutions for 'green cloud computing' includes hardware that consumes less energy?",
+    "options": [
+      "Software solutions",
+      "Hardware solutions",
+      "User-training solutions",
+      "Global scaling solutions"
+    ],
+    "answer": "Hardware solutions",
+    "explanation": "Hardware solutions in green cloud computing endeavour to design and manufacture devices that consume less energy without losing performance quality, contributing to overall sustainability.",
+    "page_number": "62"
+  },
+  {
+    "id": 140,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "Which of these is a way to achieve a sustainable environment for IoT systems?",
+    "options": [
+      "Increasing the number of devices",
+      "Reducing the energy consumption of IoT devices",
+      "Making devices larger and more powerful",
+      "Using only 4G networks"
+    ],
+    "answer": "Reducing the energy consumption of IoT devices",
+    "explanation": "Green IoT refers specifically to the issue of reducing the energy consumption of IoT devices to achieve environmental sustainability in technology systems.",
+    "page_number": "62"
+  },
+  {
+    "id": 141,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Minecraft is used in education for more than just gaming.\nReason (R): It allows students to work together on projects like creating code and conducting experiments.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Page 49 states that Minecraft includes a collaboration feature where students express themselves creatively and solve problems through coding and experiments, making it a valid educational tool.",
+    "page_number": "49"
+  },
+  {
+    "id": 142,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Most cloud computing services provide high speed for resource access.\nReason (R): Cloud computing services provide on-demand self-service, allowing access in seconds with few clicks.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "As discussed on page 52, 'Speed' is a key advantage of cloud computing because it allows for on-demand access to resources almost instantaneously through a network.",
+    "page_number": "52"
+  },
+  {
+    "id": 143,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): AI robots are ideally used for tasks like exploring the ocean or mining.\nReason (R): These tasks are often situated where human intervention is dangerous.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "According to page 56, AI robots are utilized in dangerous situations, including disasters, defusing bombs, and deep-sea exploration, to protect human life.",
+    "page_number": "56"
+  },
+  {
+    "id": 144,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): E-learning offers flexibility for the learner.\nReason (R): Learning sessions can be attended at any convenient time, available 24 x 7.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Page 47 explicitly lists flexibility as an advantage, noting that the constant availability (24x7) of e-learning content allows students to choose their own study times.",
+    "page_number": "47"
+  },
+  {
+    "id": 145,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A smartphone is a highly versatile ICT tool.\nReason (R): It helps users stay connected only through standard voice calls and text messages.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "Assertion A is true as smartphones have many uses. However, Reason R is false because page 50 states smartphones also allow for internet surfing, video calls, presentations, and global interaction, not just calls and texts.",
+    "page_number": "50"
+  },
+  {
+    "id": 146,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Smart Boards are considered preferable to traditional chalkboards.\nReason (R): Images displayed on a Smart Board have a brief, forgettable effect on a child's mind.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "Assertion A is true as stated on page 51. Reason R is false because the text says images on a Smart Board have an 'enduring effect' (not forgettable) on a child's mind.",
+    "page_number": "51"
+  },
+  {
+    "id": 147,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): E-mail is more reliable than traditional postal mail.\nReason (R): You can send graphical information and upload pictures as attachments through e-mail.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, but R is not the correct explanation of A.",
+    "explanation": "Both statements are true according to page 51. However, the ability to send pictures (multimedia capability) is not the logical reason why it is more reliable (delivery success and speed).",
+    "page_number": "51"
+  },
+  {
+    "id": 148,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): In a blog, content is presented in reverse chronological order.\nReason (R): This means that the newer content appears first to the readers.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Page 54 defines a blog as having content in reverse chronological order and clarifies that this specific ordering puts the most recent content at the top.",
+    "page_number": "54"
+  },
+  {
+    "id": 149,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Creating unique and strong passwords is a key cybersecurity practice.\nReason (R): This ensures that the system is accessed only by authorized users.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Page 57 lists strong passwords as a tip for cybersecurity, explaining that they serve as a guarantee that only authorized users can enter the system.",
+    "page_number": "57"
+  },
+  {
+    "id": 150,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Green IoT is an emerging paradigm aimed at achieving a sustainable environment.\nReason (R): Green IoT focuses on increasing the energy consumption of IoT devices for better performance.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "Assertion A is true as per page 62. Reason R is false because Green IoT focuses on *reducing* energy consumption, not increasing it, to achieve sustainability.",
+    "page_number": "62"
+  },
+  {
+    "id": 151,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The widespread deployment of 5G networks will accelerate the growth of IoT.\nReason (R): IoT devices communicate more effectively with the additional benefits provided by 5G over 4G.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Page 57 states that 5G is expected to be a key driver for IoT because it offers improved benefits that allow devices to communicate more effectively.",
+    "page_number": "57"
+  },
+  {
+    "id": 152,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Digital citizenship is everyone's responsibility.\nReason (R): It involves the responsible use of technology and following netiquettes.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Page 59 defines Digital Citizenship as comprising the responsible use of technology and netiquettes, and earlier text on page 57 states that cyber citizenship is everyone's responsibility.",
+    "page_number": "57, 59"
+  },
+  {
+    "id": 153,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What is the URL for the GeoGebra mathematical programme?",
+    "options": [
+      "https://www.geogebra.org",
+      "https://www.math.com",
+      "https://www.geometry.com",
+      "https://www.graph.org"
+    ],
+    "answer": "https://www.geogebra.org",
+    "explanation": "The 'Smart Byte' section on page 49 specifically provides the URL https://www.geogebra.org for the programme Geogebra used for mathematical graphical representations.",
+    "page_number": "49"
+  },
+  {
+    "id": 154,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which of the following is NOT listed as a category of the Microsoft Immersive Reader integration?",
+    "options": [
+      "Microsoft Teams",
+      "Edge browser",
+      "WhatsApp",
+      "Forms"
+    ],
+    "answer": "WhatsApp",
+    "explanation": "Page 55 lists several integrations for Microsoft's Immersive Reader, including Teams, Edge, Forms, and Minecraft Education Edition, but WhatsApp is not part of this Microsoft ecosystem list.",
+    "page_number": "55"
+  },
+  {
+    "id": 155,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Who is the founder of the organization 'Life without Limbs'?",
+    "options": [
+      "Bill Gates",
+      "Mark Zuckerberg",
+      "Nicholas Vujicic",
+      "Steve Jobs"
+    ],
+    "answer": "Nicholas Vujicic",
+    "explanation": "As noted on page 60, Nicholas Vujicic is the founder of the international non-profit organization 'Life without Limbs'.",
+    "page_number": "60"
+  },
+  {
+    "id": 156,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which programming language is described as 'client-optimized for fast apps on any platform'?",
+    "options": [
+      "Java",
+      "Python",
+      "Dart",
+      "C++"
+    ],
+    "answer": "Dart",
+    "explanation": "The 'Web Byte' on page 61 describes Dart as a client-optimized language for fast apps on any platform, developed by Google for web and mobile development.",
+    "page_number": "61"
+  },
+  {
+    "id": 157,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is 'Flutter' in the context of Google's technologies?",
+    "options": [
+      "A new smartphone model",
+      "An open-source framework for building multi-platform applications",
+      "A social media app for children",
+      "A hardware component for servers"
+    ],
+    "answer": "An open-source framework for building multi-platform applications",
+    "explanation": "Flutter is an open-source framework by Google. It is used to build natively compiled, multi-platform applications from a single codebase, as stated on page 61.",
+    "page_number": "61"
+  },
+  {
+    "id": 158,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "How do smaller businesses benefit from reinforced cybersecurity protocols?",
+    "options": [
+      "They are expected to help survive a cyberattack even without massive technical resources",
+      "They are exempt from all cyber regulations",
+      "They are given free hardware by the government",
+      "They no longer need to use passwords"
+    ],
+    "answer": "They are expected to help survive a cyberattack even without massive technical resources",
+    "explanation": "Page 58 mentions that reinforced protocols are expected to help companies, especially smaller businesses that may lack the technical or financial means to otherwise survive a cyberattack.",
+    "page_number": "58"
+  },
+  {
+    "id": 159,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "According to the 'Tech Terms', what is Asynchronous learning?",
+    "options": [
+      "When interaction happens in real time",
+      "When students access resources at their own pace over a longer period",
+      "Learning that only uses physical books",
+      "Learning without any internet connection"
+    ],
+    "answer": "When students access resources at their own pace over a longer period",
+    "explanation": "The 'Tech Terms' glossary on page 59 defines Asynchronous learning as a mode where teachers and students interact and access resources at their own pace over time.",
+    "page_number": "59"
+  },
+  {
+    "id": 160,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What is the acronym for 'Self-Monitoring, Analysis and Reporting Technology' used in phones?",
+    "options": [
+      "INTELLIGENT",
+      "SMART",
+      "TECH",
+      "MOBILE"
+    ],
+    "answer": "SMART",
+    "explanation": "The PDF identifies SMART as an acronym for Self-Monitoring, Analysis and Reporting Technology, specifically in the context of smartphone features.",
+    "page_number": "50"
+  },
+  {
+    "id": 161,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which tool is NOT mentioned as part of the 'Collaborative Learning through Online Platforms' list?",
+    "options": [
+      "EdAPP",
+      "Slack",
+      "Makers Empire",
+      "Adobe Photoshop"
+    ],
+    "answer": "Adobe Photoshop",
+    "explanation": "The list of collaborative platforms on page 48-49 includes EdAPP, Slack, Makers Empire, Minecraft, Google, and Spiral. Adobe Photoshop is not mentioned in this list.",
+    "page_number": "48-49"
+  },
+  {
+    "id": 162,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What does 'E-banking' refer to according to the document?",
+    "options": [
+      "Sending money through the post",
+      "A method where a customer conducts transactions through the internet",
+      "Using paper checks only",
+      "The physical design of bank buildings"
+    ],
+    "answer": "A method where a customer conducts transactions through the internet",
+    "explanation": "In the 'Recall Time' section on page 59, E-banking is defined as a method of banking where customers conduct their financial transactions via the internet.",
+    "page_number": "59"
+  },
+  {
+    "id": 163,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What happens if a company fails to implement good governance on cybersecurity?",
+    "options": [
+      "It will become more sustainable",
+      "It will be less resilient and less sustainable",
+      "It will gain more customers automatically",
+      "It will have no impact on the organization"
+    ],
+    "answer": "It will be less resilient and less sustainable",
+    "explanation": "According to page 58, companies that fail to implement good governance on cybersecurity using appropriate tools will be less resilient and less sustainable in the face of threats.",
+    "page_number": "58"
+  },
+  {
+    "id": 164,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which website is recommended for instructors to create interactive multimedia presentations?",
+    "options": [
+      "https://dart.dev",
+      "https://nearpod.com",
+      "https://flutter.dev",
+      "https://web.edapp.com"
+    ],
+    "answer": "https://nearpod.com",
+    "explanation": "The 'Web Byte' on page 61 identifies Nearpod as software for instructors to distribute interactive presentations, accessible at https://nearpod.com.",
+    "page_number": "61"
+  },
+  {
+    "id": 165,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "On which page can you find 'Practice Time' with MCQs?",
+    "options": [
+      "Page 46",
+      "Page 50",
+      "Page 59",
+      "Page 62"
+    ],
+    "answer": "Page 59",
+    "explanation": "The 'Practice Time' section, which includes objective-type questions like ticking the correct option, begins on page 59 of the provided document.",
+    "page_number": "59"
+  },
+  {
+    "id": 166,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "In the context of 'Trending Technologies', what are 'Apps'?",
+    "options": [
+      "Physical computer parts",
+      "Software programs that perform different functions",
+      "A type of robot for disaster relief",
+      "The acronym for the Internet"
+    ],
+    "answer": "Software programs that perform different functions",
+    "explanation": "The text on page 56 defines Apps as software programs or sets of applications developed to perform specific functions across different operating systems.",
+    "page_number": "56"
+  },
+  {
+    "id": 167,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is the primary role of a 'Learning Management System (LMS)'?",
+    "options": [
+      "To repair old computers",
+      "To manage all the activities of an e-learning system",
+      "To send bulk e-mails to friends",
+      "To broadcast live television"
+    ],
+    "answer": "To manage all the activities of an e-learning system",
+    "explanation": "As defined on page 48, an LMS is a software system that conducts and manages all the administrative and educational activities within an e-learning environment.",
+    "page_number": "48"
+  },
+  {
+    "id": 168,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What does 'Cyber Hygiene' include according to the text?",
+    "options": [
+      "Cleaning the keyboard with water",
+      "Installing updates as soon as they are available",
+      "Using hand sanitizer after every click",
+      "Only using computers in clean rooms"
+    ],
+    "answer": "Installing updates as soon as they are available",
+    "explanation": "Cyber hygiene involves keeping devices clean and free of malware, which specifically includes the practice of installing software updates immediately when they are released.",
+    "page_number": "58"
+  },
+  {
+    "id": 169,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "According to 'Explore More', hardware solutions for green cloud computing endeavour to _________.",
+    "options": [
+      "Increase device performance at any cost",
+      "Consume less energy without losing performance quality",
+      "Eliminate the use of all software",
+      "Connect all devices via physical wires only"
+    ],
+    "answer": "Consume less energy without losing performance quality",
+    "explanation": "Hardware solutions for green cloud computing focus on designing devices that are energy-efficient while maintaining the same high standard of performance quality.",
+    "page_number": "62"
+  },
+  {
+    "id": 170,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which of the following is a feature that comes with Minecraft for students?",
+    "options": [
+      "Automatic grading",
+      "Collaboration",
+      "Voice to text translation",
+      "Physical hardware repair"
+    ],
+    "answer": "Collaboration",
+    "explanation": "The text highlights 'Collaboration' as a feature of Minecraft that allows students to work together on projects like coding and creative expression.",
+    "page_number": "49"
+  },
+  {
+    "id": 171,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "Which tool is referred to as the 'Network of Networks'?",
+    "options": [
+      "Smart Board",
+      "The Internet",
+      "Radio",
+      "E-mail"
+    ],
+    "answer": "The Internet",
+    "explanation": "On page 51, the Internet is sometimes referred to as the 'Network of Networks' because it interconnects many global computer networks.",
+    "page_number": "51"
+  },
+  {
+    "id": 172,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is the URL for the 'Dart' programming language website?",
+    "options": [
+      "https://dart.com",
+      "https://dart.dev",
+      "https://google.dart.dev",
+      "https://dart-lang.org"
+    ],
+    "answer": "https://dart.dev",
+    "explanation": "The 'Web Byte' on page 61 provides the specific URL https://dart.dev for the Dart programming language developed by Google.",
+    "page_number": "61"
+  },
+  {
+    "id": 173,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "What has been an increasing trend in recent years regarding cybersecurity targets?",
+    "options": [
+      "Attacks on only personal e-mails",
+      "Attacks on critical infrastructure, financial networks, and healthcare",
+      "Fewer attacks due to better firewalls",
+      "Attacks only on offline CD packages"
+    ],
+    "answer": "Attacks on critical infrastructure, financial networks, and healthcare",
+    "explanation": "Page 58 states that there has been an increasing number of cyber attacks on critical systems like financial networks, healthcare, and infrastructure, necessitating better governance.",
+    "page_number": "58"
+  },
+  {
+    "id": 174,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which platform is primarily used for completing 'routine classwork remotely'?",
+    "options": [
+      "Spiral",
+      "Minecraft",
+      "YouTube",
+      "Skype"
+    ],
+    "answer": "Spiral",
+    "explanation": "Spiral is explicitly mentioned on page 49 as a platform that can be used by students to complete their standard, routine classwork from a remote location.",
+    "page_number": "49"
+  },
+  {
+    "id": 175,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "How is a 'Smart Board' beneficial for teachers compared to a chalkboard?",
+    "options": [
+      "It does not require any chalk or erasers",
+      "It enables teachers to display lessons and digital content while saving it",
+      "It is smaller and easier to carry",
+      "It works without any electricity"
+    ],
+    "answer": "It enables teachers to display lessons and digital content while saving it",
+    "explanation": "As noted on page 51, Smart Boards enable the display of digital content and allow the lesson to be saved for future analysis by students, which a traditional chalkboard cannot do.",
+    "page_number": "51"
+  },
+  {
+    "id": 176,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "easy",
+    "question": "What does e-learning evolved from?",
+    "options": [
+      "Radio",
+      "CBT (Computer Based Training)",
+      "Smartphones",
+      "Video games"
+    ],
+    "answer": "CBT (Computer Based Training)",
+    "explanation": "According to page 48, e-learning evolved from Computer Based Training (CBT) as the Internet became more accessible to general users.",
+    "page_number": "48"
+  },
+  {
+    "id": 177,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "Which of these is NOT a popular social media app mentioned in the text?",
+    "options": [
+      "WhatsApp",
+      "Instagram",
+      "Telegram",
+      "LinkedIn"
+    ],
+    "answer": "LinkedIn",
+    "explanation": "Popular social media listed on page 54 and 56 include Facebook, Twitter, Instagram, YouTube, WhatsApp, Skype, and Telegram. LinkedIn is not in that specific list.",
+    "page_number": "54-56"
+  },
+  {
+    "id": 178,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is the limit for e-mail attachments beyond which you should use Google Drive?",
+    "options": [
+      "10 MB",
+      "25 MB",
+      "50 MB",
+      "100 MB"
+    ],
+    "answer": "25 MB",
+    "explanation": "The 'Smart Byte' on page 51 states that you cannot send messages larger than 25 MB as an e-mail attachment and should use Google Drive for larger files.",
+    "page_number": "51"
+  },
+  {
+    "id": 179,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "hard",
+    "question": "According to 'Cyber Hygiene', which software is suggested for keeping devices clean?",
+    "options": [
+      "Windows Defender",
+      "Malwarebytes",
+      "Norton Antivirus",
+      "McAfee"
+    ],
+    "answer": "Malwarebytes",
+    "explanation": "Page 58 specifically names Malwarebytes as an example of reputable security software that can be used for practicing cyber hygiene.",
+    "page_number": "58"
+  },
+  {
+    "id": 180,
+    "subject": "ICT Applications-v1",
+    "chapter": "ICT Applications-v1",
+    "difficulty": "medium",
+    "question": "What is the purpose of 'Computing Ethics'?",
+    "options": [
+      "To speed up computer hardware",
+      "To regulate the use of a computer through moral principles and ethical practices",
+      "To teach students how to code",
+      "To sell more software licenses"
+    ],
+    "answer": "To regulate the use of a computer through moral principles and ethical practices",
+    "explanation": "Computing Ethics is a set of procedures and moral principles that regulate how computers are used, ensuring responsible behavior in the digital world.",
+    "page_number": "57"
+  }
+]
