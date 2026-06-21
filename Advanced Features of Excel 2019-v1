@@ -1,0 +1,1294 @@
+[
+  {
+    "id": 1,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "By default, how many worksheets are present in an Excel 2019 workbook?",
+    "options": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "answer": "Three",
+    "explanation": "In Excel 2019, when a new workbook is created, it contains three default worksheets named Sheet 1, Sheet 2, and Sheet 3. Users can add more or delete existing ones as needed. This information is found at the start of the 'Working with Worksheets' section.",
+    "page_number": "21"
+  },
+  {
+    "id": 2,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "Where is the Sheet tab located in the Excel application window?",
+    "options": [
+      "Top",
+      "Bottom",
+      "Left",
+      "Right"
+    ],
+    "answer": "Bottom",
+    "explanation": "The Sheet tab is situated at the bottom of the Excel application window. it displays the list of all worksheets available in the current workbook and allows for easy navigation between them. This is mentioned in the worksheet management description.",
+    "page_number": "21"
+  },
+  {
+    "id": 3,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "What is the function of the Tab scrolling bar in Excel?",
+    "options": [
+      "To scroll through the cells in a sheet",
+      "To scroll quickly between multiple worksheets",
+      "To scroll through different ribbon tabs",
+      "To zoom in and out of the worksheet"
+    ],
+    "answer": "To scroll quickly between multiple worksheets",
+    "explanation": "The Tab scrolling bar is located to the left of the Sheet tab and is specifically used to navigate or scroll quickly through a workbook that contains many worksheets. It does not affect the view of the data inside the cells. This feature is highlighted under the 'Working with Worksheets' heading.",
+    "page_number": "21"
+  },
+  {
+    "id": 4,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "Which button can be clicked to quickly insert a new worksheet to the left of the active one?",
+    "options": [
+      "Plus button (+)",
+      "New Sheet button",
+      "Add button",
+      "Insert button"
+    ],
+    "answer": "New Sheet button",
+    "explanation": "Users can click on the 'New Sheet' button, which is represented by a plus (+) sign and located on the right side of the Sheet tab. This action adds a new worksheet to the workbook instantly. This is noted in the 'Smart Byte' section for inserting worksheets.",
+    "page_number": "21"
+  },
+  {
+    "id": 5,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "When inserting a new worksheet via the 'Insert' window, where is the new sheet added relative to the active worksheet?",
+    "options": [
+      "To the right",
+      "To the left",
+      "At the very end",
+      "At the very beginning"
+    ],
+    "answer": "To the left",
+    "explanation": "According to the steps for inserting a worksheet using the shortcut menu, selecting the Worksheet option in the General tab of the Insert window adds the new sheet to the left of the active worksheet. This sequence is detailed in Step 2 of 'Inserting a Worksheet'.",
+    "page_number": "21"
+  },
+  {
+    "id": 6,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "What is the alternative to right-clicking to rename a worksheet?",
+    "options": [
+      "Double-click on the worksheet name",
+      "Single-click on the worksheet name",
+      "Triple-click on the worksheet name",
+      "Right-click on the ribbon"
+    ],
+    "answer": "Double-click on the worksheet name",
+    "explanation": "While one way to rename is through the right-click shortcut menu, a faster alternative mentioned in the text is to simply double-click the worksheet name on the Sheet tab. This immediately allows the user to type a new name for the tab. This shortcut is found under 'Renaming a Worksheet'.",
+    "page_number": "22"
+  },
+  {
+    "id": 7,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "In which tab and group can you find the AutoSum option in Excel?",
+    "options": [
+      "Home tab, Editing group",
+      "Insert tab, Charts group",
+      "Data tab, Sort & Filter group",
+      "View tab, Workbook Views group"
+    ],
+    "answer": "Home tab, Editing group",
+    "explanation": "The AutoSum option is a versatile tool used to perform quick calculations. It is located in the Editing group of the Home tab and also within the Function Library group of the Formulas tab. This is explained at the beginning of the 'Functions in Excel' section.",
+    "page_number": "22"
+  },
+  {
+    "id": 8,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "What will be the output of the function =PRODUCT(8, 2, 4) in Excel?",
+    "options": [
+      "14",
+      "32",
+      "64",
+      "16"
+    ],
+    "answer": "64",
+    "explanation": "The PRODUCT function multiplies all the values provided in its range or arguments. In this case, 8 * 2 = 16, and 16 * 4 = 64. This example is explicitly provided in Table 1 under 'Mathematical Functions'.",
+    "page_number": "22"
+  },
+  {
+    "id": 9,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "Which function is used to find the average of a given set of numbers in a range?",
+    "options": [
+      "SUM()",
+      "AVERAGE()",
+      "COUNT()",
+      "MAX()"
+    ],
+    "answer": "AVERAGE()",
+    "explanation": "The AVERAGE() function calculates the arithmetic mean of the values in the specified range. It sums the numbers and divides by the count of numeric entries. This is defined in the mathematical functions list.",
+    "page_number": "22"
+  },
+  {
+    "id": 10,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "What is the purpose of the INT(number) function?",
+    "options": [
+      "It returns the internal part of a text",
+      "It rounds a number to the nearest even integer",
+      "It rounds a number to an integer value",
+      "It calculates the square root of an integer"
+    ],
+    "answer": "It rounds a number to an integer value",
+    "explanation": "The INT function stands for integer and is used to round a fractional number down to its nearest integer value. For example, INT(17.15) results in 17. This function is listed in Table 1 for Mathematical Functions.",
+    "page_number": "22"
+  },
+  {
+    "id": 11,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "What result does the function =SQRT(25) provide?",
+    "options": [
+      "50",
+      "5",
+      "625",
+      "12.5"
+    ],
+    "answer": "5",
+    "explanation": "The SQRT function calculates the square root of the positive number specified in the argument. Since 5 squared is 25, the square root of 25 is 5. This is confirmed in the mathematical functions summary table.",
+    "page_number": "22"
+  },
+  {
+    "id": 12,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "Which function returns the remainder after a number is divided by a divisor?",
+    "options": [
+      "DIV()",
+      "REM()",
+      "MOD()",
+      "POWER()"
+    ],
+    "answer": "MOD()",
+    "explanation": "The MOD function returns the remainder of a division operation. For instance, =MOD(9,2) returns 1 because 9 divided by 2 is 4 with a remainder of 1. This function is found on page 23 under sorting and functions.",
+    "page_number": "23"
+  },
+  {
+    "id": 13,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "What is the function of =POWER(6, 2) in Excel?",
+    "options": [
+      "It multiplies 6 by 2",
+      "It adds 6 and 2",
+      "It returns 6 raised to the power of 2",
+      "It divides 6 by 2"
+    ],
+    "answer": "It returns 6 raised to the power of 2",
+    "explanation": "The POWER function returns the result of a number raised to a specific power. In this case, 6 squared (6*6) equals 36. This mathematical function is detailed in the chapter's table of functions.",
+    "page_number": "23"
+  },
+  {
+    "id": 14,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "Which function helps find the smallest value in a given range?",
+    "options": [
+      "SMALL()",
+      "LOW()",
+      "MIN()",
+      "MINIMUM()"
+    ],
+    "answer": "MIN()",
+    "explanation": "The MIN() function scans a range of cells and returns the smallest numerical value it finds. For example, MIN(18,5,26,9) would return 5. This is listed as one of the basic mathematical functions in Excel.",
+    "page_number": "23"
+  },
+  {
+    "id": 15,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "What does sorting data mean in the context of Excel?",
+    "options": [
+      "Hiding data that is not needed",
+      "Rearranging data in ascending or descending order",
+      "Calculating the total of a data range",
+      "Creating a chart from the data"
+    ],
+    "answer": "Rearranging data in ascending or descending order",
+    "explanation": "Sorting is a feature that allows users to organize their data either alphabetically (A to Z or Z to A) or numerically. It helps in making the data easier to read and analyze. This is described in the intro to the 'Sorting Data' section.",
+    "page_number": "23"
+  },
+  {
+    "id": 16,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "On which tab can you find the 'Sort' option besides the Home tab?",
+    "options": [
+      "Insert tab",
+      "Data tab",
+      "View tab",
+      "Review tab"
+    ],
+    "answer": "Data tab",
+    "explanation": "In addition to the Editing group on the Home tab, the Sort command is also available under the 'Sort & Filter' group in the Data tab. This provides users with more advanced options like sorting based on multiple columns. This dual location is explained under the sorting steps.",
+    "page_number": "23"
+  },
+  {
+    "id": 17,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "Why would a user check the 'My data has headers' box while sorting?",
+    "options": [
+      "To include the first row in the sorting process",
+      "To exclude the first row from being sorted",
+      "To delete the first row",
+      "To automatically format the first row"
+    ],
+    "answer": "To exclude the first row from being sorted",
+    "explanation": "Selecting the 'My data has headers' checkbox informs Excel that the first row contains labels for the columns and should not be moved during the sorting process. This ensures that the column titles remain at the top. This detail is found in the final paragraph of the sorting instructions.",
+    "page_number": "23"
+  },
+  {
+    "id": 18,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "What is the primary purpose of the Filtering feature in Excel?",
+    "options": [
+      "To rearrange the order of data",
+      "To selectively hide or block data that is not required",
+      "To change the font color of specific data",
+      "To calculate the average of filtered data"
+    ],
+    "answer": "To selectively hide or block data that is not required",
+    "explanation": "Unlike sorting, which changes the order of data, filtering only hides the rows and columns that do not meet the specified criteria. The remaining data is shown exactly as it was. This distinction is explained in the intro to 'Filtering Data'.",
+    "page_number": "24"
+  },
+  {
+    "id": 19,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "Which type of filter allows for filtering based on multiple conditions?",
+    "options": [
+      "Auto filter",
+      "Custom filter",
+      "Advanced filter",
+      "Condition filter"
+    ],
+    "answer": "Custom filter",
+    "explanation": "Excel provides three types of filtering. Auto filter is for basic conditions, Advanced filter is for complex criteria, and the Custom filter is specifically noted for filtering data on the basis of multiple conditions. This is listed in the three types of filtering section.",
+    "page_number": "24"
+  },
+  {
+    "id": 20,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "How can you identify that a filter has been applied to a column header?",
+    "options": [
+      "The header text turns red",
+      "Small arrows appear next to the column headers",
+      "The entire column is highlighted",
+      "A checkbox appears in the cell"
+    ],
+    "answer": "Small arrows appear next to the column headers",
+    "explanation": "When the filter feature is activated, drop-down controls in the form of small arrows appear on the right side of each column header. Clicking these arrows opens the menu to set criteria. This is described in the 'Using Auto Filter' steps.",
+    "page_number": "24"
+  },
+  {
+    "id": 21,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "What is the keyboard shortcut to apply or remove a filter in Excel?",
+    "options": [
+      "Ctrl + F",
+      "Ctrl + Shift + L",
+      "Ctrl + S + F",
+      "Alt + F4"
+    ],
+    "answer": "Ctrl + Shift + L",
+    "explanation": "The keyboard shortcut 'Ctrl + Shift + L' acts as a toggle to either apply filters to the selected range or remove them if they are already present. This helpful tip is provided in the 'Smart Byte' section on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 22,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "If you edit data and want to apply the same filter again, which option should you use?",
+    "options": [
+      "Restart",
+      "Reapply",
+      "Refresh",
+      "Repeat"
+    ],
+    "answer": "Reapply",
+    "explanation": "The 'Reapply' button, found in the drop-down menu of the Sort & Filter option, allows the user to re-evaluate the filter criteria against newly edited or added data. This ensures the filter remains accurate without manual resetting. This is mentioned in the 'Smart Byte' box.",
+    "page_number": "25"
+  },
+  {
+    "id": 23,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "In the Custom Filter dialog box, which option must be selected to view a sub-menu of specific filter criteria like 'Greater Than' or 'Less Than'?",
+    "options": [
+      "Filter Values",
+      "Number Filters",
+      "Text Filters",
+      "Cell Filters"
+    ],
+    "answer": "Number Filters",
+    "explanation": "To apply advanced numerical logic, the user clicks the filter arrow, then selects 'Number Filters'. This opens a sub-menu with options like Equals, Greater Than, and Between. This is detailed in Step 4 of 'Custom Filtering'.",
+    "page_number": "26"
+  },
+  {
+    "id": 24,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "What does Conditional Formatting do in Excel?",
+    "options": [
+      "It calculates the sum based on conditions",
+      "It formats cells automatically based on specified conditions",
+      "It deletes data that doesn't meet conditions",
+      "It creates a chart based on conditions"
+    ],
+    "answer": "It formats cells automatically based on specified conditions",
+    "explanation": "Conditional formatting is a tool that changes the visual appearance of cells (like font color, background, or borders) only when their contents meet specific rules defined by the user. This is defined at the start of the 'Conditional Formatting' section.",
+    "page_number": "26"
+  },
+  {
+    "id": 25,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "In which group of the Home tab is the 'Conditional Formatting' button located?",
+    "options": [
+      "Editing group",
+      "Font group",
+      "Styles group",
+      "Alignment group"
+    ],
+    "answer": "Styles group",
+    "explanation": "The 'Conditional Formatting' button is found within the Styles group on the Home tab. This group also contains other formatting tools like 'Format as Table'. The location is specified in Step 2 of the application process.",
+    "page_number": "26"
+  },
+  {
+    "id": 26,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "How can a user remove conditional formatting from a worksheet?",
+    "options": [
+      "Delete the cells",
+      "Select 'Clear Rules' from the Conditional Formatting menu",
+      "Undo the operation using Ctrl+Z",
+      "Change the font color to black manually"
+    ],
+    "answer": "Select 'Clear Rules' from the Conditional Formatting menu",
+    "explanation": "Under the 'Conditional Formatting' drop-down menu, there is a 'Clear Rules' option. Users can choose to clear rules from 'Selected Cells' or the 'Entire Worksheet' to remove the formatting. This is explained in the 'Smart Byte' on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 27,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "What is a chart in MS Excel?",
+    "options": [
+      "A list of mathematical formulas",
+      "A pictorial representation of data",
+      "A type of spreadsheet table",
+      "A method of filtering data"
+    ],
+    "answer": "A pictorial representation of data",
+    "explanation": "A chart or graph represents numerical data in a visual format, such as bars, lines, or slices. This makes it easier to understand trends and compare values. This definition is given in the 'Charts in Excel' section.",
+    "page_number": "27"
+  },
+  {
+    "id": 28,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "Under which tab can you find the options to create charts in Excel?",
+    "options": [
+      "Home tab",
+      "Insert tab",
+      "Data tab",
+      "View tab"
+    ],
+    "answer": "Insert tab",
+    "explanation": "To create any type of chart, the user first selects the data and then navigates to the 'Insert' tab. The 'Charts' group on this tab contains all available chart styles. This is Step 2 in 'Creating a Chart in MS Excel'.",
+    "page_number": "28"
+  },
+  {
+    "id": 29,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "In chart components, what is the 'Plot Area'?",
+    "options": [
+      "The area including all elements of the chart",
+      "The rectangular area where the data is actually plotted",
+      "The list of colors used in the chart",
+      "The text displayed at the top of the chart"
+    ],
+    "answer": "The rectangular area where the data is actually plotted",
+    "explanation": "The Plot Area is the specific region within the larger Chart Area where the data series are visually represented. It is usually bounded by the axes. This is defined in the components list on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 30,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "What does the 'Legend' in a chart represent?",
+    "options": [
+      "The horizontal axis",
+      "The vertical axis",
+      "The colors, patterns, or symbols assigned to data series",
+      "The total area of the chart"
+    ],
+    "answer": "The colors, patterns, or symbols assigned to data series",
+    "explanation": "The Legend serves as a key that identifies what different colors or patterns in the chart stand for. It helps the viewer distinguish between different data sets. This is listed under chart components.",
+    "page_number": "29"
+  },
+  {
+    "id": 31,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "Which axis is also known as the Category axis in a 2-D chart?",
+    "options": [
+      "Y-axis",
+      "X-axis",
+      "Z-axis",
+      "Value axis"
+    ],
+    "answer": "X-axis",
+    "explanation": "In most 2-D Excel charts, the horizontal axis (X-axis) is referred to as the Category axis because it labels the categories of data. The vertical axis is the Value axis. This distinction is made in the 'Axes' component description.",
+    "page_number": "29"
+  },
+  {
+    "id": 32,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "What is the main difference between a Column chart and a Bar chart?",
+    "options": [
+      "Column charts use circles, Bar charts use squares",
+      "Column charts use vertical bars, Bar charts use horizontal bars",
+      "Column charts are for text, Bar charts are for numbers",
+      "There is no difference between them"
+    ],
+    "answer": "Column charts use vertical bars, Bar charts use horizontal bars",
+    "explanation": "A Column chart displays data series as vertical bars, whereas a Bar chart displays them as long horizontal rods or bars. This is the primary visual distinction between the two types as explained on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 33,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "Which chart type is best for emphasizing a particular element by showing the relative size of values in a single data series?",
+    "options": [
+      "Line chart",
+      "Pie chart",
+      "Histogram",
+      "Area chart"
+    ],
+    "answer": "Pie chart",
+    "explanation": "A Pie chart is a circular chart divided into sectors. It always displays only one data series and is ideal for showing how much each part contributes to the whole. This is described under 'Types of Charts'.",
+    "page_number": "30"
+  },
+  {
+    "id": 34,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "When should you use a Doughnut chart instead of a Pie chart?",
+    "options": [
+      "When the data values are very large",
+      "When you have multiple data series that result in a larger sum",
+      "When you want to show trends over time",
+      "When you need to group data into bins"
+    ],
+    "answer": "When you have multiple data series that result in a larger sum",
+    "explanation": "Unlike a standard Pie chart which shows only one data series, a Doughnut chart can display multiple rings, each representing a different data series. This makes it more versatile for complex comparisons. This is noted on page 30.",
+    "page_number": "30"
+  },
+  {
+    "id": 35,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "Which chart type is used to depict trends over a specific period of time?",
+    "options": [
+      "Bar chart",
+      "Pie chart",
+      "Line chart",
+      "Histogram"
+    ],
+    "answer": "Line chart",
+    "explanation": "A Line chart connects data points with lines, making it easy to see whether values are increasing, decreasing, or staying steady over time. It is similar to plotting on graph paper. This is defined in the chart types section.",
+    "page_number": "30"
+  },
+  {
+    "id": 36,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "What does a Histogram chart specifically show?",
+    "options": [
+      "Quantitative magnitude graphically",
+      "Relationship of a part to a whole in rings",
+      "Distribution of data grouped into bins",
+      "Trends over time using lines"
+    ],
+    "answer": "Distribution of data grouped into bins",
+    "explanation": "A Histogram is a specialized chart type used in statistics to show the frequency distribution of a data set. The data is grouped into intervals called 'bins'. This definition is provided on page 30.",
+    "page_number": "30"
+  },
+  {
+    "id": 37,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "Which two tabs appear under 'Chart Tools' when a chart is selected?",
+    "options": [
+      "Design and Format",
+      "Insert and Page Layout",
+      "Data and Review",
+      "Home and View"
+    ],
+    "answer": "Design and Format",
+    "explanation": "When a user clicks on any part of a chart, two contextual tabs—Design and Format—become visible on the Excel ribbon. These tabs contain all the options for modifying and styling the chart. This is explained on page 31.",
+    "page_number": "31"
+  },
+  {
+    "id": 38,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "What is the function of the 'Switch Row/Column' option in the Data group?",
+    "options": [
+      "It deletes the rows and columns in the sheet",
+      "It changes the row data into column data and vice versa in the chart",
+      "It moves the chart to a new worksheet",
+      "It switches the font style of the chart labels"
+    ],
+    "answer": "It changes the row data into column data and vice versa in the chart",
+    "explanation": "The 'Switch Row/Column' button allows users to flip the data axes. This changes how the data series and categories are grouped in the visual representation. This option is found within the Data group of the Design tab.",
+    "page_number": "32"
+  },
+  {
+    "id": 39,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "What does the 'Select Data' option open?",
+    "options": [
+      "Format Axis task pane",
+      "Select Data Source dialog box",
+      "Insert Chart window",
+      "Conditional Formatting menu"
+    ],
+    "answer": "Select Data Source dialog box",
+    "explanation": "Clicking 'Select Data' opens a dialog box that allows the user to modify the range of cells used in the chart and manage individual data series. It also highlights the current data range with a dashed rectangle. This is detailed on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 40,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "How can a user change the default legend names like 'Series 1' to something meaningful?",
+    "options": [
+      "Double-click the legend on the chart",
+      "Use the 'Edit' button in the Select Data Source dialog box",
+      "Right-click and select 'Rename'",
+      "Type over the legend in the Chart Title box"
+    ],
+    "answer": "Use the 'Edit' button in the Select Data Source dialog box",
+    "explanation": "In the Select Data Source dialog box, selecting a series and clicking 'Edit' opens the 'Edit Series' box. Here, the user can type a new name for the legend. This process is outlined in the steps for displaying legends.",
+    "page_number": "32"
+  },
+  {
+    "id": 41,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "Which tab would you use to change the text color, border style, and line width of chart components?",
+    "options": [
+      "Design tab",
+      "Format tab",
+      "Insert tab",
+      "Home tab"
+    ],
+    "answer": "Format tab",
+    "explanation": "The Format tab provides granular control over the appearance of each individual part of a chart, such as text, width, and background colors. This is stated at the beginning of the 'Format Tab' section.",
+    "page_number": "33"
+  },
+  {
+    "id": 42,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "How can you open the 'Format Plot Area' task pane quickly?",
+    "options": [
+      "Single-click on the Plot Area",
+      "Double-click on the Plot Area",
+      "Triple-click on the Plot Area",
+      "Hover over the Plot Area for 5 seconds"
+    ],
+    "answer": "Double-click on the Plot Area",
+    "explanation": "A quick way to access formatting options for any chart component, including the Plot Area, is to double-click on it. This action immediately opens the corresponding task pane on the right side of the screen. This shortcut is mentioned on page 33.",
+    "page_number": "33"
+  },
+  {
+    "id": 43,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "In the 'Format Axis' task pane, what can the user change under 'Axis Options'?",
+    "options": [
+      "The color of the chart bars",
+      "The Minimum and Maximum values of the scale",
+      "The font size of the legend",
+      "The type of chart"
+    ],
+    "answer": "The Minimum and Maximum values of the scale",
+    "explanation": "Axis Options allow the user to manually override the automatic scale Excel creates. By typing into the Minimum and Maximum text boxes, the range of the value axis can be customized. This is described on page 34.",
+    "page_number": "34"
+  },
+  {
+    "id": 44,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "What is the 'Gap Width' setting used for when formatting a data series?",
+    "options": [
+      "To change the thickness of the chart border",
+      "To change the spacing between the bars in a chart",
+      "To change the distance between the legend and the chart",
+      "To change the font size of axis labels"
+    ],
+    "answer": "To change the spacing between the bars in a chart",
+    "explanation": "The Gap Width slider or text box adjusts how much white space is left between individual bars or columns in a series. Decreasing the gap width makes the bars wider. This is detailed in the 'Formatting Data Series' section.",
+    "page_number": "35"
+  },
+  {
+    "id": 45,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "What are 'Sparklines' in Excel?",
+    "options": [
+      "Decorative borders for charts",
+      "Mini charts that fit into a single cell",
+      "A type of flashing animation for data",
+      "Lines that connect different worksheets"
+    ],
+    "answer": "Mini charts that fit into a single cell",
+    "explanation": "Sparklines are a feature used to provide a quick visual trend analysis directly within a cell, without creating a full-sized chart. They can be inserted from the Sparklines group on the Insert tab. This is explained in a 'Smart Byte' on page 35.",
+    "page_number": "35"
+  },
+  {
+    "id": 46,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "What is a 'combo-chart'?",
+    "options": [
+      "A chart that combines data from multiple workbooks",
+      "A combination of two or more chart types in a single chart",
+      "A chart that uses both text and numbers",
+      "A chart that includes images and clip art"
+    ],
+    "answer": "A combination of two or more chart types in a single chart",
+    "explanation": "A combo-chart allows users to plot different sets of values using different visual formats, such as a Column chart and a Line chart combined. This is useful for comparing two different types of data. This is defined in a 'Fact Byte' on page 35.",
+    "page_number": "35"
+  },
+  {
+    "id": 47,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "According to the 'Smart Byte' on page 34, what is a free open-source alternative to Microsoft Excel?",
+    "options": [
+      "Google Sheets",
+      "LibreOffice Calc",
+      "Apple Numbers",
+      "Lotus 1-2-3"
+    ],
+    "answer": "LibreOffice Calc",
+    "explanation": "LibreOffice Calc is identified in the text as a prominent free and open-source spreadsheet software that can be used instead of MS Excel. This information is found in the 'Smart Byte' sidebar on page 34.",
+    "page_number": "34"
+  },
+  {
+    "id": 48,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "Which function would you use to count only the cells that contain numbers in a range?",
+    "options": [
+      "SUM()",
+      "COUNT()",
+      "NUMBER()",
+      "TOTAL()"
+    ],
+    "answer": "COUNT()",
+    "explanation": "The COUNT() function is designed to return the total number of cells in a specified range that contain numerical values. It ignores empty cells or cells with text. This is listed in the mathematical functions table.",
+    "page_number": "23"
+  },
+  {
+    "id": 49,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "What is the function of the 'Select All' checkbox in the filter menu?",
+    "options": [
+      "It deletes all the data in the sheet",
+      "It selects or deselects all options in the list to simplify filtering",
+      "It highlights all cells in the worksheet",
+      "It copies the entire table to a new sheet"
+    ],
+    "answer": "It selects or deselects all options in the list to simplify filtering",
+    "explanation": "When opening the filter menu, clicking 'Select All' serves as a quick toggle. It can clear all selections so the user can then check only the specific items they want to see. This is mentioned in Step 4 of Applying Filters.",
+    "page_number": "25"
+  },
+  {
+    "id": 50,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "Which chart type emphasizes the area between the line and the axis using colors or textures?",
+    "options": [
+      "Line chart",
+      "Area chart",
+      "Bar chart",
+      "Pie chart"
+    ],
+    "answer": "Area chart",
+    "explanation": "Area charts are based on the characteristics of line charts but fill the space between the line and the axis with color. This helps emphasize the quantitative magnitude of data over time. This is defined under 'Types of Charts'.",
+    "page_number": "30"
+  },
+  {
+    "id": 51,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "What is the full form of 'GUI' as mentioned in the Practice Paper?",
+    "options": [
+      "General User Information",
+      "Graphical User Interface",
+      "Global User Integration",
+      "Group User Interaction"
+    ],
+    "answer": "Graphical User Interface",
+    "explanation": "GUI stands for Graphical User Interface, which is a type of user interface that allows users to interact with software through visual indicators and icons like in Windows 10. This is found in Practice Paper 1.",
+    "page_number": "44"
+  },
+  {
+    "id": 52,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "In which group of the 'Insert' tab can you find the option to add 'Maps' to your data?",
+    "options": [
+      "Tables group",
+      "Illustrations group",
+      "Charts group",
+      "Tours group"
+    ],
+    "answer": "Charts group",
+    "explanation": "Excel 2019 includes map charts within the same grouping as Bar, Column, and Pie charts. The Charts group on the Insert tab contains a button specifically for Maps. This can be seen in Figure 14.",
+    "page_number": "28"
+  },
+  {
+    "id": 53,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "Which tab contains the 'Function Library' group?",
+    "options": [
+      "Home tab",
+      "Insert tab",
+      "Formulas tab",
+      "Data tab"
+    ],
+    "answer": "Formulas tab",
+    "explanation": "The Formulas tab is the primary location for managing all Excel functions. It organizes them into a 'Function Library' group for easy access by category. This is mentioned in the 'Functions in Excel' introduction.",
+    "page_number": "22"
+  },
+  {
+    "id": 54,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "What happens if you click the 'Select All' checkbox in the filter menu when it is already checked?",
+    "options": [
+      "All options are deselected",
+      "All options remain selected",
+      "Only the first option is deselected",
+      "The filter menu closes"
+    ],
+    "answer": "All options are deselected",
+    "explanation": "The 'Select All' checkbox acts as a master toggle. If all items are currently selected, clicking it will uncheck every box in the list, allowing the user to select specific criteria from scratch. This is part of the filtering steps.",
+    "page_number": "25"
+  },
+  {
+    "id": 55,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "How can you tell if a workbook has multiple worksheets using the interface?",
+    "options": [
+      "By looking at the Ribbon at the top",
+      "By checking the Sheet tabs at the bottom",
+      "By looking at the Formula bar",
+      "By checking the Status bar"
+    ],
+    "answer": "By checking the Sheet tabs at the bottom",
+    "explanation": "Excel displays each worksheet as a separate tab at the bottom of the window. If multiple tabs like Sheet 1, Sheet 2, etc., are visible, the workbook contains multiple worksheets. This is described in the 'Working with Worksheets' section.",
+    "page_number": "21"
+  },
+  {
+    "id": 56,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "What is the purpose of the 'Add Chart Elements' button?",
+    "options": [
+      "To add a new sheet to the workbook",
+      "To insert more data points into a table",
+      "To add components like Legend, Gridlines, and Data Labels to a chart",
+      "To change the entire chart type"
+    ],
+    "answer": "To add components like Legend, Gridlines, and Data Labels to a chart",
+    "explanation": "The 'Add Chart Elements' drop-down list allows users to customize their chart by toggling features like axes titles, data labels, and gridlines on or off. This is mentioned in a 'Fact Byte' on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 57,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "Which function would you use to round the number 56.789 to 57?",
+    "options": [
+      "INT(56.789)",
+      "ROUND(56.789, 0)",
+      "SQRT(56.789)",
+      "PRODUCT(56, 789)"
+    ],
+    "answer": "ROUND(56.789, 0)",
+    "explanation": "The ROUND function takes a number and the number of digits to round to. ROUND(56.789, 0) rounds to the nearest whole number, which is 57. The ROUND function is listed in the Mathematical Functions table.",
+    "page_number": "22"
+  },
+  {
+    "id": 58,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "Where can you find the 'Chart Styles' group to change the visual theme of your chart?",
+    "options": [
+      "Home tab",
+      "Insert tab",
+      "Design tab under Chart Tools",
+      "Format tab under Chart Tools"
+    ],
+    "answer": "Design tab under Chart Tools",
+    "explanation": "The Design tab contains the 'Chart Styles' group, which offers various pre-set visual themes including different color combinations and layouts for the current chart. This is explained on page 31.",
+    "page_number": "31"
+  },
+  {
+    "id": 59,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "What does a line chart represent?",
+    "options": [
+      "Parts of a whole",
+      "Trends over time",
+      "Comparison between categories with horizontal bars",
+      "Frequency distribution"
+    ],
+    "answer": "Trends over time",
+    "explanation": "Line charts are designed specifically to show how data changes over continuous intervals, such as time. They are effective for spotting trends and patterns. This is defined in the chart types summary.",
+    "page_number": "30"
+  },
+  {
+    "id": 60,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "Which option allows you to manually select the range of cells to be used for a chart if Excel doesn't pick it correctly?",
+    "options": [
+      "Switch Row/Column",
+      "Select Data",
+      "Add Chart Element",
+      "Change Chart Type"
+    ],
+    "answer": "Select Data",
+    "explanation": "The 'Select Data' feature allows the user to precisely define the range of cells included in the chart and to manage how the legend and categories are sourced from the worksheet. This is detailed on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 61,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "In the 'Format Data Series' task pane, what does changing 'Series Overlap' do?",
+    "options": [
+      "It overlaps bars of the same series on top of each other",
+      "It determines how much bars from different series overlap each other",
+      "It merges two different charts together",
+      "It overlaps the legend over the plot area"
+    ],
+    "answer": "It determines how much bars from different series overlap each other",
+    "explanation": "Series Overlap is a setting used in charts with multiple data series to control if the bars sit side-by-side or stack partially on top of one another. This is visible in the Figure 20 screenshot of the task pane.",
+    "page_number": "35"
+  },
+  {
+    "id": 62,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "What is the purpose of the 'Gridlines' component in a chart?",
+    "options": [
+      "To show the border of the chart",
+      "To help read the exact values of data points more easily",
+      "To divide the chart into different data series",
+      "To list the categories of the chart"
+    ],
+    "answer": "To help read the exact values of data points more easily",
+    "explanation": "Gridlines are horizontal or vertical lines that extend from the axes across the plot area. They provide a visual reference that makes it easier for the eye to track a data point to its corresponding value on the axis. This is defined in chart components.",
+    "page_number": "29"
+  },
+  {
+    "id": 63,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "Which function would you use to find the highest score in a list of students?",
+    "options": [
+      "HIGH()",
+      "TOP()",
+      "MAX()",
+      "MAXIMUM()"
+    ],
+    "answer": "MAX()",
+    "explanation": "The MAX() function evaluates all numbers in a given range and returns the largest one. It is a standard mathematical function in Excel. This is mentioned in the functions recapitulation.",
+    "page_number": "23"
+  },
+  {
+    "id": 64,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "Under which tab and group can you find the 'Filter' option?",
+    "options": [
+      "Insert tab, Tables group",
+      "Data tab, Sort & Filter group",
+      "Home tab, Styles group",
+      "View tab, Show group"
+    ],
+    "answer": "Data tab, Sort & Filter group",
+    "explanation": "The Data tab is the primary location for tools that manage data sets, including the 'Sort & Filter' group where the main Filter toggle is located. This is explained in the steps for using Auto Filter.",
+    "page_number": "25"
+  },
+  {
+    "id": 65,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question": "What is the result of =MOD(15, 4)?",
+    "options": [
+      "3",
+      "4",
+      "1",
+      "15"
+    ],
+    "answer": "3",
+    "explanation": "The MOD function returns the remainder. 15 divided by 4 is 3 with a remainder of 3 (4*3=12, 15-12=3). The MOD function is defined in the mathematical functions table on page 23.",
+    "page_number": "23"
+  },
+  {
+    "id": 66,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "How do you rename a sheet using the right-click method?",
+    "options": [
+      "Right-click the sheet tab and select 'Edit'",
+      "Right-click the sheet tab and select 'Rename'",
+      "Right-click the sheet tab and select 'Properties'",
+      "Right-click the sheet tab and select 'Change Name'"
+    ],
+    "answer": "Right-click the sheet tab and select 'Rename'",
+    "explanation": "The standard context menu for a sheet tab includes a 'Rename' option. Clicking this highlights the current name and allows the user to type a new one. This is Step 2 in 'Renaming a Worksheet'.",
+    "page_number": "22"
+  },
+  {
+    "id": 67,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question": "Which chart component displays the text at the very top to explain what the chart is about?",
+    "options": [
+      "Legend",
+      "Chart Title",
+      "Axis Title",
+      "Data Label"
+    ],
+    "answer": "Chart Title",
+    "explanation": "The Chart Title is a text box usually located at the top of the chart area that provides a clear name or description for the visualization. This component is illustrated in Figure 16.",
+    "page_number": "28"
+  },
+  {
+    "id": 68,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question": "What is 'Google Sheets' described as in the 'Explore More' section?",
+    "options": [
+      "An offline spreadsheet software",
+      "A free, web-based spreadsheet program",
+      "A mobile-only app for data entry",
+      "A paid alternative to Excel"
+    ],
+    "answer": "A free, web-based spreadsheet program",
+    "explanation": "Google Sheets is introduced as a cloud-based spreadsheet application that allows for collaboration and is part of the Google Docs Editors suite. This information is found on page 41.",
+    "page_number": "41"
+  },
+  {
+    "id": 69,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Sorting data in Excel helps in rearranging information in a meaningful order.\nReason (R): Data can only be sorted alphabetically in Excel.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "While Assertion A is true as sorting rearranges data, Reason R is false because Excel can sort data alphabetically, numerically, and even by date or time. This is explained in the Sorting Data section.",
+    "page_number": "23"
+  },
+  {
+    "id": 70,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Filtering data is more useful than deleting unwanted data from a spreadsheet.\nReason (R): Filtering selectively hides data without removing it permanently from the worksheet.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Filtering is superior for analysis because it preserves the original data set while allowing you to focus on specific rows. Since the data is only hidden, it can be brought back at any time, explaining why it is better than permanent deletion. This is found in the intro to Filtering.",
+    "page_number": "24"
+  },
+  {
+    "id": 71,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A Pie chart is ideal for showing trends over a long period of time.\nReason (R): A Pie chart displays relative sizes of values in a single data series.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Assertion A is false because Line charts, not Pie charts, are used for trends over time. Reason R is true as a Pie chart's primary purpose is showing relative parts of a whole for a single data series. This is detailed in the 'Types of Charts' section.",
+    "page_number": "30"
+  },
+  {
+    "id": 72,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Charts in Excel are dynamic in nature.\nReason (R): If you change the data in the spreadsheet, the chart automatically updates to reflect those changes.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Excel charts are linked directly to the data they represent. Therefore, any modification to the source data triggers an immediate update in the chart's visual appearance. This dynamic nature is described on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 73,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Conditional formatting is used to calculate complex mathematical problems.\nReason (R): Conditional formatting changes font style, size, or color based on specified rules.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Assertion A is false because formulas and functions are used for calculations, not conditional formatting. Reason R is the correct definition of conditional formatting, which is used for visual highlighting based on criteria. This is found on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 74,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A Doughnut chart is often used instead of a Pie chart for multiple data series.\nReason (R): In a Doughnut chart, each ring represents a different data series added to the chart.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The Doughnut chart expands on the Pie chart's functionality by allowing concentric rings. Each ring corresponds to a distinct set of data, making it suitable for multi-series comparisons. This is explained in the chart types summary.",
+    "page_number": "30"
+  },
+  {
+    "id": 75,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): By default, Excel 2019 workbooks have three worksheets.\nReason (R): Users can insert, rename, and delete worksheets as per their requirements.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, but R is not the correct explanation of A.",
+    "explanation": "Both statements are correct facts mentioned in the text. However, the ability to manage sheets (insert/rename/delete) is not the reason why the default number is specifically three. The default count is a set preference of the software. This is found on page 21.",
+    "page_number": "21"
+  },
+  {
+    "id": 76,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The Tab scrolling bar is useful for navigating workbooks with very few sheets.\nReason (R): It is located on the left of the Sheet tab and allows for quick movement between sheets.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Assertion A is false because the scrolling bar is specifically designed for workbooks with *multiple* or many worksheets where they don't all fit on the screen. Reason R correctly identifies its location and purpose. This is mentioned in the worksheets section.",
+    "page_number": "21"
+  },
+  {
+    "id": 77,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The MOD function is essential when you need to know the remainder of a division.\nReason (R): =MOD(9, 2) results in 4.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "Assertion A is true, but Reason R is false because the result of MOD(9, 2) is 1 (the remainder), while 4 is the quotient. This function's usage is detailed in Table 1.",
+    "page_number": "23"
+  },
+  {
+    "id": 78,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Legends in a chart are usually identified by colors, patterns, or symbols.\nReason (R): Legends help users distinguish between different data series in a chart.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The legend is a critical component that links visual styles to specific data categories. By using different colors or patterns, the user can easily tell which bar or line belongs to which data group. This is defined under chart components.",
+    "page_number": "29"
+  },
+  {
+    "id": 79,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Auto filter and Custom filter are the only types of filtering in Excel.\nReason (R): Advanced filter is used for complex criteria and allows copying filtered data to a different location.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Assertion A is false because there are *three* types of filtering: Auto, Custom, and Advanced. Reason R is true as it correctly defines the specific capabilities of the Advanced filter. These are listed on page 24.",
+    "page_number": "24"
+  },
+  {
+    "id": 80,
+    "subject": "Computer Science",
+    "chapter": "Advanced Features of Excel 2019-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Formatting improves the visual presentation and appearance of a chart.\nReason (R): The Format tab provides tools to change text, line colors, and border styles of chart elements.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Formatting is all about aesthetics and clarity. The tools provided in the Format tab allow a user to make these visual improvements by adjusting specific properties of chart components. This is mentioned in the 'Format Tab' section.",
+    "page_number": "33"
+  }
+]
