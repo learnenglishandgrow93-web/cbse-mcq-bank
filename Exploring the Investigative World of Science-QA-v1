@@ -1,0 +1,1235 @@
+[
+{
+"id":1,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"What is meant by the term 'elements' in the study of matter?",
+"answer":"Elements are pure substances made of a single type of particle that cannot be broken down further.",
+"keywords":[
+"elements",
+"pure substances",
+"single type",
+"particle"
+],
+"explanation":"The text classifies materials, defining elements as pure substances made of only one type of particle. This concept is introduced while explaining the fabric of matter. Found on page 4.",
+"page_number":"4"
+},
+{
+"id":2,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"According to the chapter, why do we use lenses?",
+"answer":"Lenses are used to bend light to correct our vision and help us see objects clearly.",
+"keywords":[
+"lenses",
+"bend light",
+"correct vision",
+"see clearly"
+],
+"explanation":"Lenses manipulate and bend light passing through them, which is applied in corrective glasses to improve vision. Discussed on page 4.",
+"page_number":"4"
+},
+{
+"id":3,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What does the root symbolise in the study of science?",
+"answer":"The root symbolises grounded knowledge, representing a solid foundation of careful observation and connection to our environment.",
+"keywords":[
+"root",
+"grounded knowledge",
+"solid foundation",
+"careful observation"
+],
+"explanation":"The root is used as a metaphor for deep, solid, foundational knowledge rooted in careful real-world observations. Found on page 2.",
+"page_number":"2"
+},
+{
+"id":4,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"What is meant by a variable in a scientific experiment?",
+"answer":"A variable is a factor or condition in an experiment that can be deliberately changed or measured to study its effect.",
+"keywords":[
+"variable",
+"factor",
+"condition",
+"changed",
+"measured",
+"effect"
+],
+"explanation":"Variables are conditions that scientists control, change, or measure to understand their impact during an investigation. Mentioned in the worksheets and slides.",
+"page_number":"Worksheet"
+},
+{
+"id":5,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":25
+},
+"question":"Why is it important to change only one variable at a time in an experiment?",
+"answer":"Changing only one variable at a time ensures a fair test, making it clear which specific factor caused the observed changes in the result.",
+"keywords":[
+"one variable",
+"fair test",
+"specific factor",
+"observed changes"
+],
+"explanation":"To determine cause and effect accurately, all other conditions must be kept constant while testing a single variable. This makes results reliable. Found on page 6.",
+"page_number":"6"
+},
+{
+"id":6,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":25
+},
+"question":"What causes the different phases of the Moon?",
+"answer":"The phases of the Moon occur due to the changing relative positions of the Earth, Moon, and Sun.",
+"keywords":[
+"phases of the Moon",
+"relative positions",
+"Earth",
+"Moon",
+"Sun"
+],
+"explanation":"As the Moon orbits Earth, the portion of it illuminated by the Sun changes from our perspective, creating phases. Mentioned on page 4.",
+"page_number":"4"
+},
+{
+"id":7,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"Give one example of how the heating effect of electric current is useful in daily life.",
+"answer":"The heating effect of electric current is used in appliances like room heaters to keep us warm.",
+"keywords":[
+"heating effect",
+"electric current",
+"room heaters",
+"keep warm"
+],
+"explanation":"Electric current has multiple effects. Its heating effect is harnessed in devices to generate warmth for everyday comfort. Found on page 3.",
+"page_number":"3"
+},
+{
+"id":8,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":25
+},
+"question":"How does a difference in air pressure affect the movement of air?",
+"answer":"Air moves from an area of high pressure to an area of low pressure, producing winds and sometimes cyclones.",
+"keywords":[
+"high pressure",
+"low pressure",
+"produces winds",
+"cyclones"
+],
+"explanation":"Pressure differences distribute forces that drive atmospheric movement, creating gentle breezes or destructive storms. Discussed on page 3.",
+"page_number":"3"
+},
+{
+"id":9,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"According to the text, what defines a 'mixture'?",
+"answer":"A mixture is a combination of materials that coexist together but can still be separated physically.",
+"keywords":[
+"mixture",
+"combination of materials",
+"coexist",
+"separated physically"
+],
+"explanation":"Unlike compounds where elements are chemically bonded, mixtures consist of substances combined physically, meaning they can be separated by physical means. Found on page 4.",
+"page_number":"4"
+},
+{
+"id":10,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What is the main difference between science in Grade 6 and Grade 8 as per the text?",
+"answer":"Grade 6 focuses on simple wonder and 'Why/How' questions, while Grade 8 focuses on systematic investigation and designing structured experiments.",
+"keywords":[
+"wonder",
+"Why/How questions",
+"systematic investigation",
+"structured experiments"
+],
+"explanation":"The text tracks a student's scientific maturation from basic curiosity to conducting formal, focused experimental investigations. Found on page 2.",
+"page_number":"2"
+},
+{
+"id":11,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"How can the kitchen act as a simple laboratory for scientific investigation?",
+"answer":"A kitchen is an excellent place to observe phenomena like dough rising or puris puffing. It allows young scientists to ask questions, control variables, and conduct simple experiments without fancy equipment.",
+"keywords":[
+"kitchen",
+"observe phenomena",
+"control variables",
+"simple experiments",
+"no fancy equipment"
+],
+"explanation":"Science is everywhere. Everyday activities like cooking involve physical and chemical changes that can be systematically investigated right at home. Found on page 6.",
+"page_number":"6"
+},
+{
+"id":12,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Give two examples of how microbes can affect humans.",
+"answer":"Microbes can act as invisible helpers that aid in digesting food and producing medicines, but they can also be harmful by causing infections.",
+"keywords":[
+"microbes",
+"invisible helpers",
+"digesting food",
+"producing medicines",
+"harmful",
+"infections"
+],
+"explanation":"Microbes play dual roles; beneficial ones support health and industry, while pathogenic ones cause diseases that require immune responses. Found on page 3.",
+"page_number":"3"
+},
+{
+"id":13,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What two main things must we identify when designing a simple experiment?",
+"answer":"When designing an experiment, we must identify the variables we can change or control to ensure a fair test, and the variables we can carefully observe or measure to see the results.",
+"keywords":[
+"variables to change",
+"control",
+"fair test",
+"observe",
+"measure",
+"results"
+],
+"explanation":"Experimental design requires defining independent variables (what to change) and dependent variables (what to measure) to draw valid conclusions. Found on page 6.",
+"page_number":"6"
+},
+{
+"id":14,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"Mention any two variables that can be controlled while investigating the puffing of a puri.",
+"answer":"Two variables that can be controlled are the thickness of the rolled dough and the temperature of the frying oil.",
+"keywords":[
+"controlled variables",
+"thickness",
+"rolled dough",
+"temperature",
+"frying oil"
+],
+"explanation":"In a kitchen experiment, factors like dough size, thickness, flour type, and oil heat must be controlled to isolate the cause of any observed effects. Found on page 6.",
+"page_number":"6"
+},
+{
+"id":15,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"What do the symbols of the root and the kite invite a young scientist to do?",
+"answer":"The root invites young scientists to stay grounded in real observations and solid knowledge, while the kite encourages their ideas and curiosity to take flight and explore unknown horizons.",
+"keywords":[
+"root",
+"stay grounded",
+"real observations",
+"kite",
+"curiosity to take flight",
+"explore unknown"
+],
+"explanation":"These symbols represent the dual nature of science: relying on factual evidence (roots) while using creative thinking to hypothesize and discover (kites). Found on page 2.",
+"page_number":"2"
+},
+{
+"id":16,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"How did early humans use the changing phases of the Moon?",
+"answer":"Early humans carefully observed the periodic cycles of the Moon's phases, combining them with sunrises and sunsets to invent the very first calendars to organise their daily routines.",
+"keywords":[
+"early humans",
+"periodic cycles",
+"Moon's phases",
+"invent calendars",
+"daily routines"
+],
+"explanation":"The regular, predictable motions of celestial bodies provided a natural clock, which ancient societies used to track time and seasons. Found on page 4.",
+"page_number":"4"
+},
+{
+"id":17,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"Differentiate between an element and a compound based on the chapter.",
+"answer":"An element is a pure substance made of a single type of particle, whereas a compound consists of two or more distinct elements chemically bonded together into a new substance.",
+"keywords":[
+"element",
+"pure substance",
+"single type of particle",
+"compound",
+"distinct elements",
+"chemically bonded"
+],
+"explanation":"Matter is classified based on particle composition. Elements are the simplest pure forms, while compounds are chemical combinations of elements. Found on page 4.",
+"page_number":"4"
+},
+{
+"id":18,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Describe the two practical effects of electric current mentioned in the chapter.",
+"answer":"The heating effect of electric current is used to keep us warm, and the magnetic effect is harnessed to power motors and make machines function.",
+"keywords":[
+"heating effect",
+"keep warm",
+"magnetic effect",
+"power motors",
+"machines function"
+],
+"explanation":"Electricity is a powerful invisible force. Its conversion into heat and magnetic force drives many modern conveniences and industrial tools. Found on page 3.",
+"page_number":"3"
+},
+{
+"id":19,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"How do solids and gases differ based on the movement of their particles?",
+"answer":"In solid materials, tiny particles are tightly packed and cannot move much, while in gases, the particles are loosely packed and can move around freely.",
+"keywords":[
+"solid",
+"cannot move much",
+"gases",
+"move around freely",
+"particles"
+],
+"explanation":"The physical state of matter depends on particle arrangement and kinetic energy. Solids are rigid, while gases flow and expand. Found on page 4.",
+"page_number":"4"
+},
+{
+"id":20,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Why is keeping detailed notes important during a scientific experiment?",
+"answer":"Detailed notes help record everything seen, smelled, or sensed. This documentation allows scientists to remember their exact observations, track unexpected results, and draw accurate conclusions later.",
+"keywords":[
+"detailed notes",
+"record",
+"observations",
+"track unexpected results",
+"accurate conclusions"
+],
+"explanation":"Memory can be unreliable. Systematic investigation requires accurate, written records of conditions, procedures, and outcomes for verification. Found on page 7.",
+"page_number":"7"
+},
+{
+"id":21,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What should a scientist do if the results of an experiment are different from what was expected?",
+"answer":"A scientist should record the unexpected results carefully, analyze them without ignoring or altering data, and use them to ask new questions or design further experiments to understand the anomaly.",
+"keywords":[
+"record unexpected results",
+"analyze",
+"ask new questions",
+"design further experiments",
+"understand anomaly"
+],
+"explanation":"Science relies on honesty and curiosity. Unexpected results often lead to breakthroughs and show that science is constantly evolving. Found in Worksheet themes.",
+"page_number":"Worksheet"
+},
+{
+"id":22,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"Differentiate between a simple question and a scientific question with examples.",
+"answer":"A simple question asks for basic information, like 'What is your favourite food?' A scientific question is focused and can be tested through experimentation, like 'Why does dough rise when making bread?'",
+"keywords":[
+"simple question",
+"basic information",
+"scientific question",
+"focused",
+"tested through experimentation"
+],
+"explanation":"Moving to Grade 8 involves shifting from passive wondering to forming testable hypotheses through structured, investigative questions. Found on page 2 / Worksheet.",
+"page_number":"Worksheet"
+},
+{
+"id":23,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"How does understanding fundamental forces help us explain everyday actions?",
+"answer":"Understanding fundamental forces like pushes and pulls helps explain why objects speed up, slow down, or change direction, such as why a thrown ball falls or a car stops when brakes are applied.",
+"keywords":[
+"fundamental forces",
+"pushes and pulls",
+"speed up",
+"slow down",
+"change direction"
+],
+"explanation":"Forces are the mechanics of motion. Every physical interaction involving movement is governed by these invisible pushes and pulls. Found on page 3.",
+"page_number":"3"
+},
+{
+"id":24,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What is a solution, and how is it different from a basic mixture?",
+"answer":"A basic mixture contains materials that coexist but can be physically separated. A solution is a special mixture where particles perfectly integrate and dissolve seamlessly, like sugar in hot tea.",
+"keywords":[
+"basic mixture",
+"physically separated",
+"solution",
+"perfectly integrate",
+"dissolve seamlessly"
+],
+"explanation":"Solutions are homogeneous mixtures at the particle level, making their physical separation more complex than simple heterogeneous mixtures. Found on page 4 / Slides.",
+"page_number":"4"
+},
+{
+"id":25,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"Explain how wind is produced by differences in air pressure.",
+"answer":"Wind is produced because air naturally moves from an area of high pressure to an area of low pressure. A strong pressure difference creates strong winds.",
+"keywords":[
+"wind is produced",
+"air moves",
+"high pressure",
+"low pressure",
+"pressure difference"
+],
+"explanation":"Atmospheric pressure disparities drive the movement of air masses, which is the fundamental mechanism behind global and local wind patterns. Found on page 3.",
+"page_number":"3"
+},
+{
+"id":26,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"Explain the concept of systematic investigation using the example of frying a puri.",
+"answer":"Systematic investigation involves starting with a question, such as 'Why is one side thinner?'. We then design a fair test by controlling variables like dough thickness and oil temperature, changing only one factor at a time. Finally, we carefully observe, measure the time to puff, record notes, and analyze the results to understand the process.",
+"keywords":[
+"systematic investigation",
+"starting with a question",
+"fair test",
+"controlling variables",
+"changing one factor",
+"observe",
+"record notes"
+],
+"explanation":"Systematic investigation transforms casual observation into science by applying structured steps: questioning, isolating variables, executing fair tests, and recording data. Found on pages 6-7.",
+"page_number":"6"
+},
+{
+"id":27,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"Describe how observation and measurement work together in a scientific investigation.",
+"answer":"Observation involves using our senses to notice changes, like seeing a puri puff up. Measurement adds accuracy by using numbers, such as recording the exact seconds it took to expand. Together, they provide reliable and detailed data needed to answer a scientific question fairly.",
+"keywords":[
+"observation",
+"using senses",
+"notice changes",
+"measurement",
+"accuracy",
+"using numbers",
+"reliable data"
+],
+"explanation":"Qualitative observation and quantitative measurement are complementary skills. One identifies the phenomenon, while the other quantifies it for objective analysis. Found on page 6.",
+"page_number":"6"
+},
+{
+"id":28,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"According to the chapter, why is Earth considered the 'just right' planet for life?",
+"answer":"Earth is the 'just right' planet because it sits at the exact perfect distance from the Sun, allowing water to remain liquid. It also possesses an oxygen-rich atmosphere that we breathe, which shields us from harmful ultraviolet rays.",
+"keywords":[
+"just right planet",
+"perfect distance",
+"Sun",
+"liquid water",
+"oxygen-rich atmosphere",
+"shields",
+"ultraviolet rays"
+],
+"explanation":"Earth's unique astronomical positioning and atmospheric composition create the rare, stable conditions necessary to support diverse biological ecosystems. Found on page 5.",
+"page_number":"5"
+},
+{
+"id":29,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":55
+},
+"question":"Explain how the bending and reflecting of light are useful in our daily lives.",
+"answer":"The bending of light through lenses is highly useful for correcting vision and helping us see clearly. Meanwhile, the reflecting of light off polished surfaces like mirrors allows us to see images and our own reflections.",
+"keywords":[
+"bending of light",
+"lenses",
+"correcting vision",
+"reflecting of light",
+"polished surfaces",
+"mirrors",
+"see images"
+],
+"explanation":"Optics plays a vital role in daily life. Reflection allows for mirrors, while refraction (bending) is crucial for eyeglasses and optical instruments. Found on page 4.",
+"page_number":"4"
+},
+{
+"id":30,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"List three variables that can be measured or observed to study the results when frying a puri.",
+"answer":"When frying a puri, we can observe whether it puffs up like a balloon (Yes/No), measure the time taken for it to fully expand in seconds, and measure the physical thickness of the final layers.",
+"keywords":[
+"measured or observed",
+"puffs up",
+"time taken",
+"seconds",
+"physical thickness",
+"final layers"
+],
+"explanation":"Identifying specific dependent variables (outcomes) is key to scientific testing. These three parameters provide clear qualitative and quantitative data. Found on page 6 / Slides.",
+"page_number":"6"
+},
+{
+"id":31,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"How do ecosystems support life on our planet according to the text?",
+"answer":"Ecosystems support life by maintaining complex patterns of relationships. Every organism, from tiny insects to tall trees, depends on and responds to its environment—including air, water, sunlight, and other living beings—creating an interconnected web essential for survival.",
+"keywords":[
+"ecosystems",
+"complex patterns",
+"relationships",
+"depends",
+"environment",
+"air",
+"water",
+"sunlight",
+"interconnected web"
+],
+"explanation":"Biology and ecology show that life is interdependent. No organism exists in isolation; they all rely on abiotic factors and other species. Found on page 5.",
+"page_number":"5"
+},
+{
+"id":32,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"A student investigates how oil temperature affects the puffing of a puri. How should they design the experiment to make it a fair test?",
+"answer":"To ensure a fair test, the student must change only the temperature of the oil. All other variables, such as the thickness of the dough, the type of flour used, and the angle at which it is dropped, must be kept exactly the same.",
+"keywords":[
+"fair test",
+"change only temperature",
+"other variables",
+"thickness of dough",
+"type of flour",
+"kept exactly the same"
+],
+"explanation":"A fair test strictly isolates the independent variable. If multiple factors change simultaneously, it's impossible to tell which one caused the result. Found on page 6.",
+"page_number":"6"
+},
+{
+"id":33,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"Why is careful observation considered the foundation of scientific investigation? Give one example from the text.",
+"answer":"Observation grounds our ideas in reality and helps us identify patterns or anomalies to investigate. For example, simply noticing that one side of a fried puri is thinner than the other sparks curiosity, leading to testable questions and structured experiments.",
+"keywords":[
+"careful observation",
+"grounds ideas",
+"identify patterns",
+"fried puri",
+"thinner",
+"sparks curiosity",
+"structured experiments"
+],
+"explanation":"Before a hypothesis can be formed, a phenomenon must be accurately observed. The root metaphor emphasizes starting from concrete reality. Found on page 2 and 6.",
+"page_number":"2"
+},
+{
+"id":34,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"\"Science is always evolving.\" Explain what this means based on your understanding of the chapter.",
+"answer":"Science is not a static list of facts. It is always evolving because every new answer opens up deeper questions. As we dig deeper and conduct more experiments, our ideas and understanding of the natural world slowly change and improve.",
+"keywords":[
+"always evolving",
+"not static",
+"new answer opens questions",
+"dig deeper",
+"ideas change",
+"improve"
+],
+"explanation":"The progression from Grade 6 to Grade 8 highlights that scientific knowledge is tentative and grows continuously through ongoing inquiry and testing. Found on page 2.",
+"page_number":"2"
+},
+{
+"id":35,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"How can human activities disrupt the delicate balance of Earth?",
+"answer":"Earth relies on a precise balance of temperature, atmosphere, and ecosystems. Human activities can cause small temperature shifts and climate pattern disruptions, which threaten this grand balance and create dangerous consequences for the interconnected web of life.",
+"keywords":[
+"human activities",
+"disrupt delicate balance",
+"temperature shifts",
+"climate pattern disruptions",
+"dangerous consequences",
+"interconnected web"
+],
+"explanation":"The chapter concludes with a call to action regarding environmental stewardship, warning that anthropogenic climate change harms the delicate biosphere. Found on page 5.",
+"page_number":"5"
+},
+{
+"id":36,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"Explain the relationship between force, pressure, and extreme weather events like cyclones.",
+"answer":"Force distributed over an area creates pressure. A small difference in air pressure causes gentle winds as air moves from high to low pressure. However, strong differences in atmospheric pressure can produce intense, high-speed winds, leading to destructive weather events like cyclones.",
+"keywords":[
+"force",
+"pressure",
+"small difference",
+"gentle winds",
+"strong differences",
+"intense winds",
+"destructive weather",
+"cyclones"
+],
+"explanation":"Weather dynamics are fundamentally governed by fluid mechanics—specifically how forces act upon the atmosphere to create pressure gradients. Found on page 3.",
+"page_number":"3"
+},
+{
+"id":37,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"Describe the 'fabric of matter'. How does zooming into materials help us understand their behaviour?",
+"answer":"Everything is made of tiny particles. Zooming into materials reveals their fabric—whether they are elements, compounds, or mixtures. Understanding if particles are tightly packed (rigid solids) or freely moving (gases) helps scientists explain how the physical world behaves and interacts.",
+"keywords":[
+"fabric of matter",
+"tiny particles",
+"elements",
+"compounds",
+"mixtures",
+"tightly packed",
+"freely moving",
+"behaves"
+],
+"explanation":"Macroscopic properties of materials (like boiling points or rigidity) depend entirely on the microscopic arrangement and behavior of their constituent particles. Found on page 4.",
+"page_number":"4"
+},
+{
+"id":38,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":70
+},
+"question":"Outline the maturation of a scientist from asking basic questions to investigating, as described in the text.",
+"answer":"A young scientist begins in Grade 6 with simple curiosity, asking basic 'Why?' and 'How?' questions. By Grade 7, they realize science evolves. By Grade 8, they mature into investigators capable of asking highly focused questions, designing structured experiments, and actively discovering new facts.",
+"keywords":[
+"maturation",
+"simple curiosity",
+"Why/How questions",
+"science evolves",
+"investigators",
+"highly focused questions",
+"designing structured experiments"
+],
+"explanation":"The text establishes a pedagogical arc: moving from passive observation and questioning to active, methodical experimentation and critical analysis. Found on page 2 / Slides.",
+"page_number":"2"
+},
+{
+"id":39,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"In Asha's case study, what conclusion can be drawn if a thinner dough puffs faster, and why is recording time important?",
+"answer":"If thinner dough puffs faster, Asha can conclude that dough thickness inversely affects puffing time because heat penetrates thin layers quicker. Recording the time provides accurate, measurable data rather than a guess, making her scientific conclusion objective and reliable.",
+"keywords":[
+"thinner dough",
+"puffs faster",
+"thickness inversely affects",
+"heat penetrates",
+"recording time",
+"measurable data",
+"objective",
+"reliable"
+],
+"explanation":"Case studies require interpreting hypothetical data. Quantitative records (like time) transform subjective observations into definitive, defensible scientific conclusions. Found in Case Study Worksheet.",
+"page_number":"Worksheet"
+},
+{
+"id":40,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":70
+},
+"question":"Why do we see different phases of the Moon even though it produces no light of its own?",
+"answer":"The Moon produces no light; we only see the Sun's light reflecting off its rough surface. As the Moon orbits Earth, the relative positions of the Earth, Moon, and Sun constantly change. This causes a slightly different part of the Moon to be illuminated from our view each night, creating phases.",
+"keywords":[
+"produces no light",
+"Sun's light reflecting",
+"orbits Earth",
+"relative positions change",
+"slightly different part illuminated",
+"creating phases"
+],
+"explanation":"Lunar phases are an optical effect caused by planetary geometry, specifically how sunlight reflects off the lunar sphere as seen from a moving Earth. Found on page 4.",
+"page_number":"4"
+},
+{
+"id":41,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":75,
+"max":100
+},
+"question":"Discuss the step-by-step process a scientist follows while investigating a scientific question. Support your answer using the kitchen experiment of frying a puri.",
+"answer":"A scientist first starts with careful observation and a scientific question, like 'Why is one side of a puri thinner?'. Next, they design a simple experiment by identifying variables. They decide what to control, like oil temperature and flour type, and what to change, like dough thickness (changing only one thing at a time). Then, they conduct the experiment and measure variables, such as time taken to puff. Finally, they keep detailed notes of everything they sense, observe the results, and explain the findings to improve their understanding.",
+"keywords":[
+"careful observation",
+"scientific question",
+"design a simple experiment",
+"identifying variables",
+"control",
+"change only one thing",
+"measure variables",
+"detailed notes",
+"explain findings"
+],
+"explanation":"This outlines the classic scientific method adapted for Grade 8. It moves logically from question to controlled testing, data collection, and analysis using a relatable example. Found on pages 6-7.",
+"page_number":"6"
+},
+{
+"id":42,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":110
+},
+"question":"Detail the 'Invisible and the Powerful' aspects of science discussed in the text, covering microbes, electricity, forces, and pressure.",
+"answer":"Science helps us explore powerful invisible forces. First, tiny unseen microbes act as both helpers for digestion and threats causing infections. Second, electricity is harnessed for its heating effect to keep us warm and magnetic effect to run motors. Third, fundamental forces like pushes and pulls dictate the mechanics of motion, explaining why objects speed up or fall back to Earth. Finally, pressure, which is force distributed over an area, moves the air we breathe, creating everything from gentle breezes to massive weather systems like destructive cyclones.",
+"keywords":[
+"invisible forces",
+"microbes",
+"helpers for digestion",
+"threats causing infections",
+"electricity",
+"heating effect",
+"magnetic effect",
+"fundamental forces",
+"mechanics of motion",
+"pressure",
+"moves air",
+"cyclones"
+],
+"explanation":"This summarizes the physical and biological phenomena introduced early in the chapter, demonstrating how unseen mechanics drive the visible world. Found on page 3 / Slides.",
+"page_number":"3"
+},
+{
+"id":43,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":110
+},
+"question":"Read the case study of Asha investigating a puri. Identify her scientific question, explain why she kept the oil temperature constant, and list the variables she controlled and observed.",
+"answer":"Asha's scientific question was: 'How does the thickness of the dough affect the puffing of a puri?' She kept the oil temperature constant to ensure a fair test; changing both thickness and temperature would make it impossible to know which factor caused the result. \nVariables controlled (kept the same): Oil temperature, type of dough, size of the dough pieces. \nVariable changed: The thickness of the dough pieces. \nVariables observed and measured: How long each puri took to puff up, and whether it puffed completely.",
+"keywords":[
+"scientific question",
+"thickness of dough",
+"fair test",
+"kept constant",
+"Variables controlled",
+"Oil temperature",
+"Variable changed",
+"Variables observed",
+"how long",
+"puffed completely"
+],
+"explanation":"This assesses the application of experimental design concepts to a provided scenario. Identifying independent, dependent, and controlled variables is crucial. Found in Case Study Worksheet.",
+"page_number":"Worksheet"
+},
+{
+"id":44,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":110
+},
+"question":"Explain the complete classification of materials into elements, compounds, mixtures, and solutions based on the fabric of matter, giving descriptions for each.",
+"answer":"Everything is made of tiny particles, classified based on how they combine. \n1. Elements are pure substances made entirely of a single type of particle.\n2. Compounds consist of two or more distinct elements that are chemically bonded together to form a new substance.\n3. Mixtures are combinations of different materials that coexist together but do not chemically bond, meaning they can still be physically separated.\n4. Solutions are special mixtures where particles perfectly integrate and dissolve seamlessly into one another, like sugar dissolving in a cup of hot tea.",
+"keywords":[
+"tiny particles",
+"Elements",
+"pure substances",
+"single type",
+"Compounds",
+"chemically bonded",
+"Mixtures",
+"physically separated",
+"Solutions",
+"perfectly integrate",
+"dissolve seamlessly"
+],
+"explanation":"Matter is systematically categorized based on chemical purity, bonding, and phase integration. This hierarchy builds foundational chemistry knowledge. Found on page 4 / Slides.",
+"page_number":"4"
+},
+{
+"id":45,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":75,
+"max":100
+},
+"question":"Describe the 'Anchor and the Flight' metaphor mentioned in the chapter. How does it represent the balance required for effective scientific investigation?",
+"answer":"The metaphor balances two symbols: the Root and the Kite. The Root represents grounded knowledge, acting as our anchor. It symbolizes a solid foundation built on careful observation and real measurements. The Kite represents soaring curiosity, creative thinking, and bold hypotheses exploring the unknown. Effective scientific investigation only works when we maintain this balance. We must stay firmly grounded in facts, evidence, and rigorous control of variables, while simultaneously allowing our minds the freedom to ask new questions and soar toward new horizons.",
+"keywords":[
+"Anchor and the Flight",
+"Root",
+"grounded knowledge",
+"solid foundation",
+"careful observation",
+"Kite",
+"soaring curiosity",
+"creative thinking",
+"maintain balance",
+"grounded in facts",
+"freedom to ask"
+],
+"explanation":"The textbook uses poetic imagery to teach epistemology. Good science requires both strict empirical rigor (roots) and imaginative theoretical leaps (kites). Found on page 2 / Slides.",
+"page_number":"2"
+},
+{
+"id":46,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":75,
+"max":100
+},
+"question":"Write a note on observing the cosmos, explaining how the Moon's phases occur and how they influenced early human calendars.",
+"answer":"Observing the cosmos teaches us about light and orbits. The Moon does not produce its own light; we see the reflection of the Sun off its rough surface. As the Earth, Moon, and Sun change their relative positions, different illuminated parts of the Moon are visible from Earth each night, creating the phases of the Moon. Ancient humans closely observed these regular lunar cycles, along with sunrises and sunsets. By tracking these predictable celestial patterns, they invented the very first calendars, dictating our daily routines on Earth.",
+"keywords":[
+"cosmos",
+"reflection of the Sun",
+"relative positions",
+"illuminated parts",
+"phases of the Moon",
+"ancient humans",
+"regular lunar cycles",
+"invented calendars",
+"predictable celestial patterns"
+],
+"explanation":"Astronomy has historic practical applications. The geometry of the solar system creates visible phases, which provided humanity with its first reliable timekeeping methods. Found on page 4.",
+"page_number":"4"
+},
+{
+"id":47,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":85,
+"max":115
+},
+"question":"Analyze Earth's 'just right' conditions and explain how the interconnected web of life is threatened by human-induced temperature shifts.",
+"answer":"Earth is a 'just right' planet because it sits at the perfect distance from the Sun, allowing liquid water to flow and sustaining an oxygen-rich atmosphere that blocks harmful UV rays. Within this environment, a delicate interconnected web exists, where every organism—from microbes to forests—depends on and reacts to its environment. However, human activities are currently causing small global temperature shifts. These shifts disrupt climate patterns and threaten this grand balance. The final mission of a young scientist is to use investigative principles to understand these complex changes and guide actions to protect our fragile ecosystem.",
+"keywords":[
+"just right planet",
+"perfect distance",
+"liquid water",
+"oxygen-rich atmosphere",
+"interconnected web",
+"human activities",
+"temperature shifts",
+"disrupt climate patterns",
+"investigative principles",
+"protect ecosystem"
+],
+"explanation":"This synthesizes ecology and climate science. It asks students to connect planetary Goldilocks conditions to the fragility of ecosystems under anthropogenic climate change. Found on page 5 / Slides.",
+"page_number":"5"
+},
+{
+"id":48,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":110
+},
+"question":"Imagine you are investigating air pressure. Explain the concept of pressure, how it causes wind to blow, and its role in creating extreme weather events based on the text.",
+"answer":"Pressure is defined as the dynamics of force distributed over a specific area. In the atmosphere, air pressure is not uniform everywhere. Wind is produced when air naturally moves from an area of high pressure to an area of low pressure. If the difference in pressure between two areas is small, it results in a gentle breeze. However, scientists study these differences because when the pressure gap is massive, the air rushes forcefully, creating severe weather systems like powerful storms and highly destructive cyclones that affect agriculture and human safety.",
+"keywords":[
+"pressure",
+"force distributed",
+"air pressure",
+"wind is produced",
+"high pressure to low",
+"pressure difference",
+"gentle breeze",
+"massive pressure gap",
+"severe weather",
+"cyclones"
+],
+"explanation":"This tests comprehension of fluid dynamics applied to meteorology. The scale of pressure differential directly correlates to wind speed and storm severity. Found on page 3 and Case Study.",
+"page_number":"3"
+},
+{
+"id":49,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":120
+},
+"question":"Design a simple experiment to investigate how dough thickness affects the puffing of a puri. Include your scientific question, variables to control, and variables to measure.",
+"answer":"Scientific Question: 'How does the thickness of rolled dough affect the time taken for a puri to puff up?' \nVariables to Control (to ensure a fair test): I will use the exact same type of flour (e.g., wheat atta), keep the oil temperature constantly hot, drop the dough into the oil at the same angle, and use dough circles of the same diameter.\nVariable to Change: The physical thickness of the dough pieces.\nVariables to Observe/Measure: I will measure the time taken (in seconds) for each puri to fully expand and record whether it puffs up like a balloon completely or only partially. I will keep detailed notes to ensure systematic investigation.",
+"keywords":[
+"Scientific Question",
+"thickness of rolled dough",
+"Variables to Control",
+"same type of flour",
+"oil temperature",
+"same diameter",
+"Variable to Change",
+"physical thickness",
+"Observe/Measure",
+"time taken in seconds",
+"detailed notes",
+"systematic investigation"
+],
+"explanation":"This requires applying the scientific method practically. Generating a controlled experimental design demonstrates mastery of variables and fair testing. Found on pages 6-7.",
+"page_number":"6"
+},
+{
+"id":50,
+"subject":"Science",
+"chapter":"Exploring the Investigative World of Science-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":85,
+"max":120
+},
+"question":"Summarize how a student's approach to science matures from Grade 6 to Grade 8, emphasizing wonder, the evolution of ideas, and structured systematic investigation.",
+"answer":"The maturation of a young scientist happens in stages. In Grade 6, science begins with simple wonder, asking basic 'Why?' and 'How?' questions about the natural world. In Grade 7, students realize that science is always evolving; every answer opens new questions, and our ideas must change as we dig deeper. By Grade 8, students enter the Age of Investigation. They move beyond passive observation to asking highly focused questions. They learn to design structured experiments, isolate variables, conduct fair tests, and actively find new facts, balancing solid grounded knowledge with soaring creative curiosity.",
+"keywords":[
+"maturation",
+"Grade 6",
+"simple wonder",
+"Grade 7",
+"always evolving",
+"ideas must change",
+"Grade 8",
+"Age of Investigation",
+"highly focused questions",
+"structured experiments",
+"isolate variables",
+"fair tests"
+],
+"explanation":"The text outlines a clear pedagogical philosophy. Education evolves from simple curiosity (wonder) to critical thinking (evolution) to rigorous methodology (investigation). Found on page 2 / Slides.",
+"page_number":"2"
+}
+]
