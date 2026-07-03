@@ -1,0 +1,1823 @@
+[
+{
+"id":1,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is an operating system?",
+"answer":"An operating system is the most important program on a computer that serves as a link between the user and the computer.",
+"keywords":[
+"important program",
+"link",
+"user",
+"computer"
+],
+"explanation":"The operating system acts as the fundamental bridge between the computer hardware and the human user. Without it, communicating with the computer would be impossible. This concept is discussed on page 1 of the PDF.",
+"page_number":"1"
+},
+{
+"id":2,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"Define a program in the context of a computer system.",
+"answer":"A program is a set of instructions executed by a computer to perform a specific task.",
+"keywords":[
+"set of instructions",
+"executed",
+"specific task"
+],
+"explanation":"Programs form the basis of all software functioning on a computer. They provide the step-by-step instructions that hardware follows to complete tasks. This definition is provided as a Fact Byte on page 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":3,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What is the process of booting?",
+"answer":"Booting is the process of starting the computer's operating system and loading the files of an operating system into the computer's memory.",
+"keywords":[
+"starting",
+"loading files",
+"memory"
+],
+"explanation":"Booting is the essential startup sequence of any computer. It ensures the OS is loaded from the storage drive into the active memory (RAM) so the system can operate. This topic is discussed on page 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":4,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"Name any two open-source operating systems.",
+"answer":"Ubuntu and Linux are open-source operating systems that can be downloaded free of cost.",
+"keywords":[
+"Ubuntu",
+"Linux",
+"open-source"
+],
+"explanation":"Open-source operating systems provide their source code freely to the public, unlike proprietary software. Ubuntu and Linux are prime examples used globally. This is mentioned in the Fact Byte on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":5,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What does DOS stand for?",
+"answer":"DOS is an acronym that stands for Disk Operating System.",
+"keywords":[
+"Disk Operating System"
+],
+"explanation":"DOS was one of the earliest and most dominant command-line operating systems for personal computers in the 1980s. Understanding its full form is basic computer history. This is located on page 4 of the PDF.",
+"page_number":"4"
+},
+{
+"id":6,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"Give two examples of single-user operating systems.",
+"answer":"MS-DOS and Microsoft Windows 95 are examples of single-user single-task operating systems.",
+"keywords":[
+"MS-DOS",
+"Windows 95",
+"single-user"
+],
+"explanation":"Single-user operating systems only allow one person to execute a job at any given time. Early operating systems like MS-DOS primarily functioned this way. This is discussed on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":7,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What is a Graphical User Interface (GUI)?",
+"answer":"GUI is a user-friendly interface that allows users to interact with the computer through icons and visual elements instead of text-based commands.",
+"keywords":[
+"interact",
+"icons",
+"visual elements",
+"user-friendly"
+],
+"explanation":"GUI revolutionized computing by replacing complex typed commands with simple point-and-click graphical icons, making computers accessible to the general public. This concept is covered on page 5 of the PDF.",
+"page_number":"5"
+},
+{
+"id":8,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":20
+},
+"question":"Which operating system is exclusively developed by Apple for its mobile devices?",
+"answer":"iOS is the mobile operating system created and developed exclusively for Apple machines like the iPhone and iPad.",
+"keywords":[
+"iOS",
+"Apple",
+"iPhone",
+"iPad"
+],
+"explanation":"Apple maintains a closed ecosystem where its hardware runs exclusively on its proprietary software. iOS is the operating system that powers Apple's mobile devices. This is discussed on page 9 of the PDF.",
+"page_number":"9"
+},
+{
+"id":9,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"Name the operating system kernel developed by Linus Torvalds.",
+"answer":"Linus Torvalds developed the Linux kernel, which was first released on September 17, 1991.",
+"keywords":[
+"Linux",
+"Linus Torvalds"
+],
+"explanation":"Linux is a revolutionary open-source operating system kernel that serves as the foundation for numerous distributions. It was created by Linus Torvalds as an alternative to expensive operating systems. This is on page 13 of the PDF.",
+"page_number":"13"
+},
+{
+"id":10,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What is the function of the Recycle Bin in Windows 10?",
+"answer":"The Recycle Bin acts like a dustbin that temporarily stores deleted files and folders before they are permanently deleted, allowing users to restore them if needed.",
+"keywords":[
+"temporarily stores",
+"deleted files",
+"restore"
+],
+"explanation":"The Recycle Bin is a crucial safety feature in Windows that prevents accidental data loss. It provides a temporary holding area for deleted items. This feature is explained on page 8 of the PDF.",
+"page_number":"8"
+},
+{
+"id":11,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is dysesthesia?",
+"answer":"Dysesthesia is an unpleasant nerve pain caused by triggering responses from the nerves in the ears, face, and scalp.",
+"keywords":[
+"unpleasant nerve pain",
+"nerves",
+"ears",
+"face",
+"scalp"
+],
+"explanation":"Dysesthesia is a medical condition that can be triggered by the thermal and electromagnetic waves emitted by mobile phones during prolonged use. This health warning is mentioned on page 10 of the PDF.",
+"page_number":"10"
+},
+{
+"id":12,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"What is the purpose of the Windows Narrator?",
+"answer":"Windows Narrator is an accessibility feature that reads onscreen text, dialogues, and error messages to help visually impaired users operate the computer.",
+"keywords":[
+"reads onscreen text",
+"accessibility feature",
+"visually impaired"
+],
+"explanation":"Windows Narrator provides crucial auditory feedback, making the operating system accessible to individuals with severe vision impairments or when a display is non-functional. This is found on page 12 of the PDF.",
+"page_number":"12"
+},
+{
+"id":13,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Name the mobile operating system developed by the Symbian consortium in 1998.",
+"answer":"The Symbian operating system was developed by the Symbian consortium in 1998 for smartphones.",
+"keywords":[
+"Symbian",
+"1998",
+"smartphones"
+],
+"explanation":"Symbian was a pioneer operating system in the mobile industry, heavily used by brands like Nokia before being overshadowed by iOS and Android. This historical fact is on page 13 of the PDF.",
+"page_number":"13"
+},
+{
+"id":14,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"What does an embedded operating system operate on?",
+"answer":"An embedded operating system operates on embedded computer systems and compact gadgets that run on a limited set of resources, like PDAs.",
+"keywords":[
+"embedded computer systems",
+"compact gadgets",
+"limited resources"
+],
+"explanation":"Embedded OSs are highly specialized systems designed to perform dedicated functions within larger mechanical or electrical systems with constrained hardware resources. This is explained on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":15,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"Which user interface is mostly used in ATM machines?",
+"answer":"A Menu-driven interface is most commonly used in ATM machines, movie ticket machines, and information kiosks.",
+"keywords":[
+"Menu-driven interface",
+"ATM machines"
+],
+"explanation":"Menu-driven interfaces present users with specific text-based choices, limiting errors and simplifying interactions for specialized machines like ATMs. This is detailed on page 5 of the PDF.",
+"page_number":"5"
+},
+{
+"id":16,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What is the function of the notification area on the taskbar?",
+"answer":"The notification area is located on the right side of the taskbar and displays the time, date, day, network connectivity, battery status, and volume.",
+"keywords":[
+"right side",
+"time",
+"date",
+"status",
+"battery"
+],
+"explanation":"The notification area provides essential at-a-glance system information and background app statuses, helping users monitor computer health without opening specific programs. This is discussed on page 8 of the PDF.",
+"page_number":"8"
+},
+{
+"id":17,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"Why do we need an operating system?",
+"answer":"An operating system is needed to manage all the resources of a computer system and make it operational. It acts as an interface connecting the user to the computer's hardware because a user cannot communicate directly with the machine.",
+"keywords":[
+"manage resources",
+"operational",
+"interface",
+"connect user to hardware"
+],
+"explanation":"The computer's hardware only understands machine language. The OS is necessary to translate human actions into hardware instructions and to efficiently manage the system's physical and software resources. This is discussed on page 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":18,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Mention any two basic tasks performed by an operating system.",
+"answer":"Two basic tasks performed by an operating system are keeping track of files and directories on the hard disk, and translating the commands given through the keyboard.",
+"keywords":[
+"track of files",
+"directories",
+"translating commands",
+"keyboard"
+],
+"explanation":"Operating systems handle low-level operations invisibly to the user. Tracking file storage and processing input from external devices like keyboards are fundamental to its operation. This is on page 1 of the PDF.",
+"page_number":"1"
+},
+{
+"id":19,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Differentiate between CUI and GUI on the basis of interaction.",
+"answer":"CUI uses text-based commands for interaction between the user and the computer, requiring the user to type instructions. In contrast, GUI uses graphical components like menus and icons for interaction, requiring pointing and clicking.",
+"keywords":[
+"text-based commands",
+"type instructions",
+"graphical components",
+"menus and icons"
+],
+"explanation":"The primary difference between CUI and GUI is how the user communicates. CUI relies heavily on keyboard input and syntax memory, while GUI relies on visual recognition and pointing devices like a mouse. This is on page 5 of the PDF.",
+"page_number":"5"
+},
+{
+"id":20,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What is a Multi-tasking operating system?",
+"answer":"A Multi-tasking Operating System supports the simultaneous execution of multiple tasks. For example, it allows a user to open a web browser and work in Microsoft Word at the same time. Examples include Linux and Microsoft Windows.",
+"keywords":[
+"simultaneous execution",
+"multiple tasks",
+"Microsoft Windows"
+],
+"explanation":"Modern computing relies on multi-tasking, allowing users to run several applications concurrently without the system crashing. The OS manages processor time efficiently to achieve this. This is explained on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":21,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"What are desktop icons in Windows 10?",
+"answer":"Icons are small images displayed on the desktop. Each icon represents a program, file, or folder, and users can drag an icon from one place to another on the desktop.",
+"keywords":[
+"small images",
+"desktop",
+"program, file, or folder"
+],
+"explanation":"Icons are the visual cornerstones of a GUI. They serve as clickable shortcuts to access data and applications quickly without navigating complex file paths. This is found on page 7 of the PDF.",
+"page_number":"7"
+},
+{
+"id":22,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Define User Interface (UI).",
+"answer":"User interface (UI) forms a bridge between a user and a computer program. It is a set of commands, menus, or icons through which a user communicates with a computer program.",
+"keywords":[
+"bridge",
+"user and computer program",
+"commands",
+"menus",
+"icons"
+],
+"explanation":"The UI determines how a user gives instructions and receives output. A well-designed UI is crucial for making software user-friendly and efficient to operate. This is detailed on page 4 of the PDF.",
+"page_number":"4"
+},
+{
+"id":23,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"What is a folder in a computer system?",
+"answer":"A folder is a location where a group of files can be stored in a structured manner. It can be compared to a cabinet containing separate drawers for organizing electronic files.",
+"keywords":[
+"location",
+"group of files",
+"structured manner",
+"organizing"
+],
+"explanation":"Folders are essential for digital organization. They allow users to group related files together, making data retrieval faster and keeping the storage drive clean and structured. This is discussed on page 9 of the PDF.",
+"page_number":"9"
+},
+{
+"id":24,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"Explain the 'Plug and play' feature of Windows 10.",
+"answer":"The 'Plug and play' support in Windows 10 is a feature that makes it very simple to add and configure new hardware devices to the computer system without complex manual installations.",
+"keywords":[
+"Plug and play",
+"add new hardware",
+"configure"
+],
+"explanation":"Plug and play technology automatically detects new peripherals (like mice or printers) and installs necessary drivers, removing the technical burden from the user. This feature is listed on page 6 of the PDF.",
+"page_number":"6"
+},
+{
+"id":25,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"What is the Aero Peek feature in Windows 10?",
+"answer":"Aero Peek, also known as Desktop Preview, is a feature in Windows 10 that allows users to get a quick transparent preview of the windows open on their taskbar.",
+"keywords":[
+"Aero Peek",
+"Desktop Preview",
+"preview of windows",
+"taskbar"
+],
+"explanation":"Aero Peek enhances user productivity by allowing them to quickly view their desktop or specific open applications without minimizing multiple windows. This feature is mentioned on page 6 of the PDF.",
+"page_number":"6"
+},
+{
+"id":26,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"How does an operating system manage security?",
+"answer":"An operating system manages security by preventing unauthorized users from accessing the computer system. It sets up passwords and other security protocols, and can block unauthorized access to programs and data.",
+"keywords":[
+"preventing unauthorized users",
+"passwords",
+"security protocols",
+"block access"
+],
+"explanation":"Security management is a core OS function that protects sensitive user data from internal and external threats using authentication methods like passwords. This is discussed on page 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":27,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"State two features of a Single-user Operating System with examples.",
+"answer":"A Single-user Operating System allows only one user to process or execute a job at a time. Examples of this type of operating system include MS-DOS and Microsoft Windows 95.",
+"keywords":[
+"only one user",
+"execute a job at a time",
+"MS-DOS"
+],
+"explanation":"Early computing environments did not have the processing power to support multiple users simultaneously. Single-user systems allocate all hardware resources to one specific user task. This is explained on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":28,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"What is a Multi-threading Operating System? Give an example.",
+"answer":"A Multi-threading Operating System allows different parts or threads of a single application or program to run simultaneously. Linux and Microsoft Windows are examples of multi-threading operating systems.",
+"keywords":[
+"different parts",
+"single application",
+"run simultaneously",
+"Linux",
+"Windows"
+],
+"explanation":"Multi-threading improves the performance of complex applications by breaking them down into smaller threads that the CPU processes concurrently, leading to faster execution. This is covered on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":29,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Explain the use of the File Explorer in Windows 10.",
+"answer":"File Explorer in Windows 10 provides a graphical user interface for accessing the file systems. It makes browsing, working with, managing, and organizing files and folders quite easy for the user.",
+"keywords":[
+"File Explorer",
+"graphical user interface",
+"accessing file systems",
+"browsing"
+],
+"explanation":"File Explorer is the built-in file management tool in Windows. It visually represents the hard drive's directory structure, allowing users to easily copy, move, or delete files. This is detailed on page 9 of the PDF.",
+"page_number":"9"
+},
+{
+"id":30,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Why is MS-DOS considered a command-line operating system?",
+"answer":"MS-DOS is considered a command-line operating system because it requires the user to type and recall specific text commands for every action to be executed on the computer, lacking a graphical interface.",
+"keywords":[
+"type and recall",
+"specific text commands",
+"every action"
+],
+"explanation":"Before GUI became standard, users had to memorize specific syntax and commands to interact with the computer. DOS entirely relies on this command-line method. This is explained on page 4 of the PDF.",
+"page_number":"4"
+},
+{
+"id":31,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What is a Real-time Operating System?",
+"answer":"A Real-time Operating System is designed to serve real-time applications that process events and data as and when they occur, typically without delays. It can be a single or multi-tasking system.",
+"keywords":[
+"real-time applications",
+"process events and data",
+"without delays"
+],
+"explanation":"Real-time operating systems are critical in environments where timing is strict, such as medical imaging or air traffic control, where data must be processed instantly. This is on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":32,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"Mention two features of the Android operating system.",
+"answer":"Android is a popular open-source mobile operating system based on Linux. It is created by Google specifically for touchscreen devices like smartphones and tablets.",
+"keywords":[
+"open-source",
+"based on Linux",
+"Google",
+"touchscreen devices"
+],
+"explanation":"Android dominates the mobile OS market because its open-source nature allows different manufacturers to customize it for their specific smartphone and tablet hardware. This is found on page 9 of the PDF.",
+"page_number":"9"
+},
+{
+"id":33,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"State the purpose of the Start button on the Windows 10 taskbar.",
+"answer":"Clicking the Start button opens the Start menu, from which users can access installed applications, open documents, adjust system settings, access the control panel, and consume media.",
+"keywords":[
+"Start menu",
+"access installed applications",
+"adjust system settings"
+],
+"explanation":"The Start button serves as the primary launching pad in Windows. It centralizes access to software, system controls, and user files, making navigation straightforward. This is discussed on page 8 of the PDF.",
+"page_number":"8"
+},
+{
+"id":34,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"Describe the Distributed Operating System.",
+"answer":"A Distributed Operating System uses multiple central processors to serve real-time applications and multiple users at the same time. Data processing jobs are distributed among the processors accordingly.",
+"keywords":[
+"multiple central processors",
+"serve real-time applications",
+"distributed among processors"
+],
+"explanation":"Distributed systems link multiple independent computers or processors to appear as a single coherent system to the user, thereby sharing computing loads efficiently. This is explained on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":35,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What are pinned applications on the Windows 10 taskbar?",
+"answer":"Pinned applications are shortcuts of frequently used applications that users can attach to the taskbar for instant access. You can pin them by dragging and dropping the icon into the taskbar.",
+"keywords":[
+"shortcuts",
+"frequently used applications",
+"taskbar for instant access",
+"dragging and dropping"
+],
+"explanation":"Pinning is a feature designed for user convenience, ensuring that favorite programs are always one click away, bypassing the need to search through menus. This is detailed on page 8 of the PDF.",
+"page_number":"8"
+},
+{
+"id":36,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"How did Stephen Hawking operate his computer devices?",
+"answer":"Stephen Hawking used his facial muscles to operate his devices. He used a speech synthesizer to communicate and the same technology allowed him to use a mouse to operate a computer mounted to his wheelchair.",
+"keywords":[
+"facial muscles",
+"speech synthesizer",
+"operate a computer",
+"wheelchair"
+],
+"explanation":"This highlights how specialized computer interfaces and adaptive technologies can empower individuals with severe physical disabilities to interact with the world and operate machinery. This Fact Byte is on page 6 of the PDF.",
+"page_number":"6"
+},
+{
+"id":37,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Why is it difficult for beginners to work with Character User Interface (CUI)?",
+"answer":"It is difficult for beginners because working with CUI requires them to memorize specific text commands and their exact syntax. If a mistake is made while typing, the system displays an error message.",
+"keywords":[
+"memorize specific text commands",
+"exact syntax",
+"error message"
+],
+"explanation":"Unlike GUI which relies on visual cues, CUI requires a steep learning curve. The user must know the exact language of the computer, making it non-intuitive for novices. This is discussed on page 4 of the PDF.",
+"page_number":"4"
+},
+{
+"id":38,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Why should you use the speaker of your smartphone while talking instead of holding it to the ear?",
+"answer":"Using the speaker prevents the direct exposure of the ear, face, and scalp to radio and electromagnetic waves emitted by the phone, which can trigger nerve responses causing a pain known as dysesthesia.",
+"keywords":[
+"prevents direct exposure",
+"radio and electromagnetic waves",
+"dysesthesia"
+],
+"explanation":"Mobile phones emit waves that can have negative biological impacts over long periods. Keeping the phone away from the head by using speakers reduces this risk. This Health Literacy fact is on page 10 of the PDF.",
+"page_number":"10"
+},
+{
+"id":39,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What is the title bar in an application window and what does it contain?",
+"answer":"The title bar is the topmost horizontal bar of an application window. It contains the program's title, application icon, active filename, and the maximize, restore, minimize, and close buttons.",
+"keywords":[
+"topmost horizontal bar",
+"program's title",
+"maximize, restore, minimize, close"
+],
+"explanation":"The title bar is standard in GUI environments. It allows the user to identify the active program and provides fundamental controls for resizing and closing the application window. This is found on page 8 of the PDF.",
+"page_number":"8"
+},
+{
+"id":40,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Explain the term 'protocol' in the context of networking support in Windows 10.",
+"answer":"In networking support, a protocol is a set of defined rules or procedures that govern the transmission of data between electronic devices, such as computers, over a network.",
+"keywords":[
+"set of defined rules",
+"transmission of data",
+"between electronic devices"
+],
+"explanation":"For computers to successfully communicate over a network (like the internet), they must speak the same digital language. Protocols establish these necessary communication standards. This is defined on page 6 of the PDF.",
+"page_number":"6"
+},
+{
+"id":41,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":55
+},
+"question":"List any three important functions of an operating system.",
+"answer":"Three important functions of an operating system are:\n1. It assigns files and directories to a process and tracks available resources.\n2. It ensures that computer memory is allocated and made available to all applications.\n3. It manages security protocols and blocks unauthorized access to the system.",
+"keywords":[
+"assigns files",
+"allocated memory",
+"security protocols",
+"unauthorized access"
+],
+"explanation":"The OS has many responsibilities to keep the computer running smoothly. File management, memory allocation, and security are three of its most critical background operations. This is detailed on page 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":42,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"Write a short note on Character User Interface (CUI) with examples.",
+"answer":"Character User Interface (CUI) allows users to interact with computer programs by giving text commands. It accepts input as characters and numbers using a keyboard. It does not support pointing devices like a mouse. Examples include MS-DOS, Apple DOS, UNIX, and Windows Command Prompt.",
+"keywords":[
+"text commands",
+"input as characters",
+"keyboard",
+"no pointing devices",
+"MS-DOS"
+],
+"explanation":"CUI is the older method of computer interaction. It is highly resource-efficient but requires users to memorize complex commands and type them without syntax errors. This is explained on page 4 of the PDF.",
+"page_number":"4"
+},
+{
+"id":43,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"What are the three main types of user interfaces? Briefly describe one.",
+"answer":"The three main types of user interfaces are Character User Interface (CUI), Menu-driven Interface, and Graphical User Interface (GUI). \nGUI interacts using icons, menus, and visual elements, allowing users to execute commands by clicking a mouse instead of typing text.",
+"keywords":[
+"Character User Interface",
+"Menu-driven Interface",
+"Graphical User Interface",
+"icons",
+"visual elements"
+],
+"explanation":"Interfaces define how humans talk to computers. While CUI uses text and Menu-driven uses lists, GUI uses graphical metaphors, making modern computing highly accessible. This is covered on pages 4 and 5 of the PDF.",
+"page_number":"4"
+},
+{
+"id":44,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"Define Desktop, Window, and Taskbar in Windows 10.",
+"answer":"Desktop is the first screen seen after switching on the computer, containing icons and shortcuts. A Window is a rectangular area on the screen where applications run. The Taskbar is the long horizontal bar at the bottom used to launch and monitor running applications.",
+"keywords":[
+"first screen",
+"rectangular area",
+"horizontal bar",
+"launch and monitor"
+],
+"explanation":"These three components make up the core visual environment of the Windows operating system, allowing users to manage applications, view files, and control system functions visually. This is found on page 7 of the PDF.",
+"page_number":"7"
+},
+{
+"id":45,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"Write three points of difference between CUI and GUI.",
+"answer":"1. CUI stands for Character User Interface, whereas GUI stands for Graphical User Interface.\n2. CUI uses text commands for interaction, while GUI uses graphical components like icons.\n3. CUI is difficult for beginners to work with, whereas GUI provides a user-friendly environment.",
+"keywords":[
+"Character User Interface",
+"Graphical User Interface",
+"text commands",
+"graphical components",
+"difficult",
+"user-friendly"
+],
+"explanation":"Understanding the difference between CUI and GUI shows the evolution of computing from difficult, text-heavy operations to accessible, visual-based interactions. This is summarized in Table 1 on page 5 of the PDF.",
+"page_number":"5"
+},
+{
+"id":46,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Briefly describe Android, iOS, and Windows mobile operating systems.",
+"answer":"Android is a Linux-based open-source mobile OS created by Google for touchscreen devices. iOS is an advanced, proprietary mobile OS developed by Apple exclusively for devices like the iPhone. Windows mobile OS is a mobile operating system developed by Microsoft for smartphones, though Windows 10 Mobile is now discontinued.",
+"keywords":[
+"Android",
+"Google",
+"iOS",
+"Apple",
+"Windows mobile",
+"Microsoft"
+],
+"explanation":"These three operating systems have dominated the smartphone era. Android is open-source, iOS is closed and hardware-specific, and Windows was an attempt to bring PC environments to mobile. This is discussed on page 9 of the PDF.",
+"page_number":"9"
+},
+{
+"id":47,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":70
+},
+"question":"How is a file different from a folder? Explain briefly.",
+"answer":"A file is an electronic item that stores actual information directly and has a specific file-name and extension to identify its type. A folder, on the other hand, is a location that acts like a cabinet drawer used to store and organize a group of these files in a structured manner.",
+"keywords":[
+"actual information",
+"extension",
+"location",
+"organize a group of files"
+],
+"explanation":"Files and folders are the basic building blocks of digital data storage. Files contain the data, while folders provide the hierarchical structure to keep those files organized. This is explained on page 9 of the PDF.",
+"page_number":"9"
+},
+{
+"id":48,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"Explain the Batch Processing Operating System with an example.",
+"answer":"In a Batch Processing Operating System, all jobs that need to be processed are accepted as a group, known as a batch, and they are processed together during a pre-defined time slot. For example, data transfer and data updating in banks are done in batches within allocated time slots.",
+"keywords":[
+"accepted as a group",
+"batch",
+"processed together",
+"pre-defined time slot",
+"banks"
+],
+"explanation":"Batch processing is highly efficient for handling large volumes of routine data without user interaction, which is why financial institutions rely on it for end-of-day operations. This is detailed on page 4 of the PDF.",
+"page_number":"4"
+},
+{
+"id":49,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":70
+},
+"question":"Describe the components of the Windows 10 Taskbar.",
+"answer":"The Windows 10 Taskbar includes the Start button, which opens the Start menu. It holds Pinned applications, which are shortcuts placed there for instant access. It also contains the Notification area on the right, which displays system statuses like time, date, volume, and network connectivity.",
+"keywords":[
+"Start button",
+"Pinned applications",
+"instant access",
+"Notification area",
+"system statuses"
+],
+"explanation":"The taskbar is the primary control panel on the Windows desktop, providing immediate access to the Start menu, frequently used software, and critical system indicators. This is found on page 8 of the PDF.",
+"page_number":"8"
+},
+{
+"id":50,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Write a short note on MS-DOS and list some of its features.",
+"answer":"MS-DOS (Microsoft Disk Operating System) was the dominant single-task, single-user command-line operating system in the 1980s. Users had to type commands to execute actions. It did not support multitasking, but it supported features like networking, multiple directories, text editing, better memory management, and disk compression.",
+"keywords":[
+"Disk Operating System",
+"single-task",
+"command-line",
+"type commands",
+"networking",
+"directories"
+],
+"explanation":"DOS marks an important era in PC history before graphical interfaces. Despite being text-based and single-task, it possessed advanced features for file and disk management. This is discussed on page 4 of the PDF.",
+"page_number":"4"
+},
+{
+"id":51,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"Explain what an Embedded Operating System is and give two examples.",
+"answer":"An Embedded Operating System is specially designed to be used on embedded computer systems and compact gadgets that operate on a limited set of hardware resources. These are tailored for specific functions rather than general computing. Examples include Windows XP Embedded and Windows 10 IoT.",
+"keywords":[
+"designed to be used",
+"embedded computer systems",
+"compact gadgets",
+"limited set of resources",
+"Windows 10 IoT"
+],
+"explanation":"Embedded OSs run invisibly inside smart devices, kiosks, and medical equipment, prioritizing efficiency and stability on low-power hardware over broad application support. This is explained on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":52,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":70
+},
+"question":"What is Windows 11? How does it differ conceptually from older text-based OS?",
+"answer":"Windows 11 is the latest Graphical User Interface (GUI) based operating system released by Microsoft in October 2021. Unlike older text-based OS (like DOS) where users memorized syntax, Windows 11 represents actions and programs graphically, utilizing customized applications, improved multitasking, and advanced security options.",
+"keywords":[
+"Graphical User Interface",
+"October 2021",
+"represents actions graphically",
+"multitasking"
+],
+"explanation":"Windows 11 represents the modern pinnacle of Microsoft's OS evolution, contrasting sharply with its text-based ancestors by relying entirely on advanced visual interaction and multitasking. This is detailed in the Fact Byte on page 6 of the PDF.",
+"page_number":"6"
+},
+{
+"id":53,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"Explain the 'Pinning to taskbar' and 'Searching files/programs' features of Windows 10.",
+"answer":"'Pinning to taskbar' allows users to create a permanent shortcut of frequently accessed applications or documents directly on the taskbar for instant access without searching. The 'Searching files/programs' feature provides a well-organized process for quickly locating specific files and folders on the computer system.",
+"keywords":[
+"permanent shortcut",
+"frequently accessed",
+"taskbar",
+"well-organized process",
+"locating"
+],
+"explanation":"Both of these features are designed to enhance user workflow. Pinning saves time for common apps, while the robust search function handles retrieving lost or deeply buried files. This is on page 6 of the PDF.",
+"page_number":"6"
+},
+{
+"id":54,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"Discuss the importance of a menu-driven interface and where it is commonly used.",
+"answer":"A menu-driven interface is important because it is quite simple and easy to use. It displays on-screen, text-based menus showing available options, which can be selected using arrow keys or a mouse. It is most commonly used in ATM machines, movie ticket machines, and information kiosks.",
+"keywords":[
+"simple and easy",
+"text-based menus",
+"arrow keys",
+"ATM machines",
+"kiosks"
+],
+"explanation":"Menu-driven interfaces limit user errors by restricting inputs to a specific set of visual choices, making them ideal for public utility machines used by people of all technical skill levels. This is covered on page 5 of the PDF.",
+"page_number":"5"
+},
+{
+"id":55,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Write a brief note on the history and features of the Linux operating system.",
+"answer":"Linux is a family of open-source Unix-like operating systems based on the Linux kernel, first released by Linus Torvalds on September 17, 1991. It is free of cost and offers amazing features such as portability, multi-user and multiprogramming capabilities, a hierarchical file system, and strong security features.",
+"keywords":[
+"open-source",
+"Linus Torvalds",
+"1991",
+"free of cost",
+"multi-user",
+"security"
+],
+"explanation":"Linux revolutionized the software industry with its free, open-source model. It provides robust, enterprise-grade features that rival expensive proprietary systems, making it highly popular globally. This is in the Explore More section on page 13 of the PDF.",
+"page_number":"13"
+},
+{
+"id":56,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"How does the mouse help in manipulating windows in a GUI interface?",
+"answer":"The mouse is a key component in a GUI. It allows users to execute commands, select text, and navigate the desktop. Users can resize an opened window by positioning the mouse at the edges and dragging, or move the window by dragging it from the title bar.",
+"keywords":[
+"execute commands",
+"resize",
+"positioning at edges",
+"dragging",
+"title bar"
+],
+"explanation":"The mouse translates physical hand movements into on-screen pointer actions. This visual interaction is what makes graphical interfaces like Windows intuitive for manipulating digital objects. This is explained on pages 8-9 of the PDF.",
+"page_number":"8"
+},
+{
+"id":57,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"How are cascaded windows different from tiled windows?",
+"answer":"When multiple application windows are displayed on a screen, cascaded windows are arranged such that they are stacked on top of one another. In contrast, tiled windows are arranged side-by-side so that all of them are displayed at the same time and are fully visible.",
+"keywords":[
+"stacked on top",
+"cascaded",
+"tiled",
+"side-by-side",
+"fully visible"
+],
+"explanation":"Windows management features allow users to organize their digital workspace. Cascading saves space by layering, while tiling is useful for comparing documents simultaneously. This is mentioned in the Fact Byte on page 8 of the PDF.",
+"page_number":"8"
+},
+{
+"id":58,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Justify the statement: 'An operating system acts as a resource manager.'",
+"answer":"An operating system acts as a resource manager by controlling and allocating the main resources of a computer, such as files, I/O devices, memory, and the processor. Since multiple processes run simultaneously, the OS decides on a policy for resource allocation to ensure memory and processing power are used effectively without conflict.",
+"keywords":[
+"allocating main resources",
+"I/O devices",
+"processor",
+"multiple processes",
+"policy for resource allocation"
+],
+"explanation":"Hardware resources are limited, but user demands are high. The OS must intelligently juggle CPU time and RAM among competing programs to prevent system crashes and ensure smooth performance. This concept is on page 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":59,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Compare Multi-user Operating System with Multi-tasking Operating System with suitable examples.",
+"answer":"A Multi-user Operating System allows multiple users to execute programs at the same time using different terminals; examples include Unix and Linux. A Multi-tasking Operating System allows a single user to execute multiple tasks simultaneously, such as browsing the web while typing in Word; examples include Microsoft Windows and Linux.",
+"keywords":[
+"multiple users",
+"execute programs at the same time",
+"Unix",
+"single user",
+"multiple tasks simultaneously"
+],
+"explanation":"While they sound similar, multi-user is about serving different people simultaneously (often on a network), whereas multi-tasking is about running different applications simultaneously for one person. This is clarified on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":60,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":70
+},
+"question":"Discuss the health risks associated with the prolonged use of mobile phones near the ears as mentioned in the text.",
+"answer":"Prolonged use of mobile phones near the ears exposes the user to radio, electromagnetic, and thermal waves. According to research, these waves can trigger nerve responses in the ears, face, and scalp, leading to dysesthesia, which is an unpleasant nerve pain.",
+"keywords":[
+"radio, electromagnetic, and thermal waves",
+"nerve responses",
+"dysesthesia",
+"unpleasant nerve pain"
+],
+"explanation":"Technology comes with biological hazards. The text emphasizes that the invisible emissions from cell phones can cause specific nerve conditions, advocating for safer device habits. This Health Literacy is on page 10 of the PDF.",
+"page_number":"10"
+},
+{
+"id":61,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Why was the Symbian operating system popular, and what caused its decline?",
+"answer":"Symbian was a popular mobile operating system developed by the Symbian consortium in 1998 and used by major brands like Samsung, Motorola, and Nokia. It remained the most popular worldwide until the end of 2010. Its decline occurred when it was eventually replaced by more advanced operating systems like iOS and Android.",
+"keywords":[
+"Symbian consortium",
+"1998",
+"Samsung, Motorola, Nokia",
+"until 2010",
+"replaced by iOS and Android"
+],
+"explanation":"Symbian represents an early era of smart mobile devices. However, as hardware advanced and touchscreens became dominant, newer OS ecosystems like Android and iOS outcompeted it. This historical context is on page 13 of the PDF.",
+"page_number":"13"
+},
+{
+"id":62,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Describe the structural hierarchy of an Operating System involving users, application programs, OS, and hardware.",
+"answer":"The hierarchy forms layers where the User is at the top, interacting with Application Programs. These programs communicate with the Operating System, which serves as the middle layer. Finally, the Operating System interacts directly with the underlying Hardware to execute the required commands, acting as a bridge between the software and hardware components.",
+"keywords":[
+"hierarchy",
+"User",
+"Application Programs",
+"Operating System",
+"Hardware",
+"bridge"
+],
+"explanation":"This hierarchy illustrates the concept of abstraction in computer science. Users do not touch hardware directly; they use apps, which use the OS, which then commands the hardware. This hierarchy is depicted in Figure 1 on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":63,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":70
+},
+"question":"How does an operating system enable synchronization among processes and allocate memory?",
+"answer":"An operating system acts as a resource tracker. It shares information and enables synchronization among running processes to prevent conflicts. Furthermore, it determines exactly how much memory (RAM) should be allocated to a specific process and de-allocates it when the process is completed, ensuring memory is available to all applications.",
+"keywords":[
+"synchronization among processes",
+"prevent conflicts",
+"allocated",
+"de-allocates",
+"memory"
+],
+"explanation":"Synchronization prevents software from clashing when trying to use the same hardware simultaneously. Memory allocation ensures that open apps have the RAM they need to function without freezing. These functions are on page 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":64,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"In what way has the evolution of mobile operating systems influenced the use of smartphones and PDAs?",
+"answer":"Mobile operating systems have built-in support for wireless communication, mobile multimedia formats, and specialized mobile applications. This advancement in technology has made interaction user-friendly and enabled devices like smartphones, handheld computers, and PDAs to run complex apps tailored to different OS ecosystems like Android and iOS.",
+"keywords":[
+"wireless communication",
+"multimedia formats",
+"mobile applications",
+"user-friendly",
+"Android",
+"iOS"
+],
+"explanation":"Mobile OS development transformed phones from simple calling devices into pocket-sized computers capable of multimedia playback, internet browsing, and running complex software apps. This is detailed on page 9 of the PDF.",
+"page_number":"9"
+},
+{
+"id":65,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":140
+},
+"question":"Define an operating system. Explain any four main functions of an operating system in detail.",
+"answer":"An operating system (OS) is the most important set of system programs that manages computer hardware, software resources, memory, and acts as a link between the user and the computer. \n\nFour main functions of an OS are:\n1. Memory Management: It determines how much memory should be allocated and de-allocated to processes, ensuring it is available for all applications.\n2. Interface Provision: It provides a user-friendly interface allowing users to easily communicate with the complex computer system.\n3. Booting the Computer: It initiates the start-up procedure, which involves loading the OS files into the computer's active memory.\n4. Security Management: It sets up passwords and other security protocols to block unauthorized users from accessing sensitive programs and data.",
+"keywords":[
+"manages computer hardware",
+"link between user and computer",
+"Memory Management",
+"allocated",
+"Interface Provision",
+"Booting",
+"Security Management"
+],
+"explanation":"The operating system is the backbone of the computer. This detailed question requires understanding both the definition of an OS and its critical background duties that keep the system running securely and efficiently. These points are gathered from pages 1 and 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":66,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":140
+},
+"question":"Discuss the different types of user interfaces available in an operating system. Elaborate on GUI and its advantages.",
+"answer":"A user interface forms a bridge between a user and the computer. There are three main types:\n1. Character User Interface (CUI): A text-based command line interface where users type instructions.\n2. Menu-driven Interface: Uses text-based on-screen menus where options are selected via arrow keys, commonly used in ATMs.\n3. Graphical User Interface (GUI): A highly user-friendly interface that uses icons, visual elements, tabs, and buttons instead of text commands.\n\nThe main advantage of GUI is that it does not require users to memorize complex commands or their syntax. Users interact with the computer easily using a pointing device, like a mouse, to click on required icons, making the system accessible to beginners without a steep learning curve.",
+"keywords":[
+"Character User Interface",
+"Menu-driven Interface",
+"Graphical User Interface",
+"text-based",
+"icons, visual elements",
+"pointing device",
+"memorize commands"
+],
+"explanation":"Interfaces have evolved to become more human-friendly. This answer requires outlining all three types and highlighting why GUI is superior for average users due to its visual nature. This is discussed extensively on pages 4 and 5 of the PDF.",
+"page_number":"5"
+},
+{
+"id":67,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":140
+},
+"question":"Explain any five important features of the Windows 10 operating system.",
+"answer":"Windows 10 is a GUI-based operating system with several important features:\n1. Supports multitasking: Users can work simultaneously with multiple programs at the same time.\n2. User-friendly interface: The visual interface is highly flexible, simple to operate, and intuitive for all users.\n3. Plug and play support: It simplifies the process of adding new hardware to the computer by automatically handling configurations.\n4. Robust and secure system: It is a secure system that allows password protection and the application of strict security protocols.\n5. Aero Peek feature: Also known as Desktop Preview, this feature lets users get a quick, transparent preview of the windows currently open on their taskbar.",
+"keywords":[
+"Supports multitasking",
+"User-friendly interface",
+"Plug and play support",
+"Robust and secure",
+"Aero Peek feature"
+],
+"explanation":"Windows 10 provides numerous features that enhance productivity, security, and hardware compatibility. This question requires listing and briefly describing five of these core features as outlined on page 6 of the PDF.",
+"page_number":"6"
+},
+{
+"id":68,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":130
+},
+"question":"What is a mobile operating system? Describe the three popular mobile operating systems discussed in the chapter.",
+"answer":"A mobile operating system is software designed to control mobile devices like smartphones and PDAs, providing support for wireless communication and mobile apps.\n\nThe three popular mobile operating systems are:\n1. Android: Created by Google, it is a Linux-based, open-source operating system widely used for touchscreen devices like smartphones and tablets.\n2. iOS: Created and developed exclusively by Apple. It controls devices like the iPhone and iPad, bringing features like home screen widgets and a compact user interface.\n3. Windows Mobile: Developed by Microsoft for smartphones and desktops. Examples include Windows Phone 8.1 and Windows 10 Mobile, though it is now a discontinued operating system.",
+"keywords":[
+"control mobile devices",
+"wireless communication",
+"Android",
+"open-source",
+"iOS",
+"Apple exclusively",
+"Windows Mobile",
+"discontinued"
+],
+"explanation":"Mobile OS is a distinct branch of software tailored for portable, battery-powered devices. This question tests knowledge of the definition and the three major ecosystems that shaped the mobile market. This is detailed on page 9 of the PDF.",
+"page_number":"9"
+},
+{
+"id":69,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"What are the differences between Character User Interface (CUI) and Graphical User Interface (GUI)? Discuss at least four points.",
+"answer":"The differences between CUI and GUI are:\n1. Full Form: CUI stands for Character User Interface, while GUI stands for Graphical User Interface.\n2. Interaction Method: CUI uses typed text commands for interaction between the user and the computer, whereas GUI uses visual graphical components like icons, menus, and buttons.\n3. Ease of Use: CUI is difficult for beginners because it requires memorizing syntax, but GUI provides a highly intuitive and user-friendly environment.\n4. Examples: MS-DOS is categorized as a classic example of CUI, whereas modern systems like Microsoft Windows are categorized as GUI.",
+"keywords":[
+"Character User Interface",
+"Graphical User Interface",
+"typed text commands",
+"graphical components",
+"difficult for beginners",
+"user-friendly environment",
+"MS-DOS",
+"Windows"
+],
+"explanation":"Comparing CUI and GUI is fundamental in understanding how computer usability has improved. The differences span interaction methods, learning curves, and basic definitions. This is based on Table 1 on page 5 of the PDF.",
+"page_number":"5"
+},
+{
+"id":70,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":140
+},
+"question":"Detail the components of a Windows 10 Desktop. Include explanations for Desktop, Window, Icons, and Taskbar.",
+"answer":"The Windows 10 environment consists of several important components:\n1. Desktop: This is the first screen visible after switching on the computer. It serves as the workspace holding various icons for documents, programs, and shortcuts.\n2. Window: This refers to a rectangular area on the screen that opens when an application or folder is launched, allowing the user to interact with that specific program.\n3. Icons: These are small graphical images displayed on the desktop. Each icon represents a specific program, file, or folder, and can be dragged around the screen.\n4. Taskbar: This is a long horizontal bar usually located at the bottom of the desktop. It houses the Start button, icons of running and pinned programs, and the system clock.",
+"keywords":[
+"Desktop",
+"first screen",
+"Window",
+"rectangular area",
+"Icons",
+"small graphical images",
+"Taskbar",
+"horizontal bar"
+],
+"explanation":"The desktop is the primary GUI workspace in Windows. Understanding its basic components is essential for navigating the operating system effectively. These definitions are provided on page 7 of the PDF.",
+"page_number":"7"
+},
+{
+"id":71,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":100,
+"max":150
+},
+"question":"Describe the following types of operating systems: a) Real-time OS b) Embedded OS c) Distributed OS d) Batch Processing OS.",
+"answer":"a) Real-time OS: Designed to serve real-time applications, it processes events and data as they occur immediately without delays. It can be single or multi-tasking.\nb) Embedded OS: Specially designed for embedded computer systems and compact gadgets (like PDAs) that operate on limited hardware resources. Examples include Windows 10 IoT.\nc) Distributed OS: Utilizes multiple central processors simultaneously to serve real-time applications and multiple users. Data processing jobs are distributed among these processors to handle large workloads efficiently.\nd) Batch Processing OS: All jobs to be processed are grouped together as a 'batch' and are executed sequentially at a pre-defined time slot, such as bank data transfers done overnight.",
+"keywords":[
+"Real-time OS",
+"without delays",
+"Embedded OS",
+"limited hardware resources",
+"Distributed OS",
+"multiple central processors",
+"Batch Processing OS",
+"grouped together as a batch"
+],
+"explanation":"Different computing scenarios require different types of OS architectures. This question assesses knowledge of specialized operating systems beyond standard desktop environments. The descriptions are found on pages 3 and 4 of the PDF.",
+"page_number":"3"
+},
+{
+"id":72,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":140
+},
+"question":"Discuss the Taskbar in Windows 10. Explain its elements like the Start menu, pinned applications, and the notification area.",
+"answer":"The Taskbar is a long horizontal bar at the bottom of the desktop used to launch and monitor running applications. Its key elements include:\n1. Start button/menu: Accessed from the taskbar, it opens the Start Menu, allowing users to access installed applications, documents, settings, and the control panel.\n2. Pinned applications: The Windows 10 taskbar is application-oriented. Users can drag and drop frequently used icons onto the taskbar, pinning them for instant, one-click access without searching.\n3. Notification area: Located on the right side of the taskbar, this area displays the current time, date, and day. It also contains critical status icons showing information like network connectivity, battery life, and volume levels.",
+"keywords":[
+"Taskbar",
+"horizontal bar",
+"Start button/menu",
+"access installed applications",
+"Pinned applications",
+"instant access",
+"Notification area",
+"status icons"
+],
+"explanation":"The taskbar is the central hub for managing active software and system status in Windows. This answer breaks down its three main interactive elements as described on page 8 of the PDF.",
+"page_number":"8"
+},
+{
+"id":73,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":100,
+"max":150
+},
+"question":"Trace the evolution of the operating system's interface from CUI-based DOS to GUI-based Windows 11, detailing their specific characteristics.",
+"answer":"Operating systems have evolved from text-based to highly visual environments. DOS (Disk Operating System) was the dominant OS in the 1980s. It was a Character User Interface (CUI), meaning it was single-task, single-user, and required users to memorize and type complex text commands without mouse support. \n\nLater, Graphical User Interface (GUI) systems were introduced. Early Windows replaced typed commands with visual icons, tabs, and menus navigated via a pointing device (mouse). The evolution peaked with modern systems like Windows 10 and Windows 11. Windows 11 represents actions entirely through advanced graphics, offers highly customized applications, improved multitasking, Xbox integration, and advanced security, completely removing the need to memorize syntax.",
+"keywords":[
+"DOS",
+"Character User Interface",
+"memorize and type",
+"Graphical User Interface",
+"visual icons",
+"mouse",
+"Windows 11",
+"advanced graphics",
+"multitasking"
+],
+"explanation":"Computing history shows a clear trajectory toward user-friendliness. This question requires linking DOS's command-line limitations to the visual, multitasking advancements seen in Windows 11. This synthesis covers pages 4, 5, and 6 of the PDF.",
+"page_number":"5"
+},
+{
+"id":74,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":140
+},
+"question":"Write a comprehensive note on how files and folders are managed in Windows 10 using File Explorer, and the role of the Recycle bin.",
+"answer":"In Windows 10, information is stored as electronic files. A folder is a structured location used to group and store these files, much like drawers in a cabinet. Windows 10 manages these using File Explorer, which provides a graphical interface to easily browse, create, copy, move, rename, and organize files and folders.\n\nWhen managing files, users sometimes delete them. The Recycle Bin acts as a digital dustbin for these deleted items. Instead of permanent deletion, files are transferred to the Recycle Bin. This allows users to save files temporarily and provides a safety net to restore them if they were deleted by mistake before permanently clearing them.",
+"keywords":[
+"electronic files",
+"structured location",
+"File Explorer",
+"graphical interface",
+"Recycle Bin",
+"digital dustbin",
+"restore"
+],
+"explanation":"Data management is a core user activity. This question requires explaining the concepts of files and folders, the tool used to manage them (File Explorer), and the fail-safe mechanism for deletion (Recycle Bin). This is covered on pages 8 and 9 of the PDF.",
+"page_number":"9"
+},
+{
+"id":75,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":140
+},
+"question":"Explain the significance of an interface in computing. How does a Menu-driven interface differ from a Command Line User Interface?",
+"answer":"An interface is a shared boundary that forms a bridge between a human user and a computer program. Its significance lies in translating user intentions into computer actions, as humans cannot communicate directly with raw hardware.\n\nA Command Line User Interface (CUI) requires the user to give instructions by typing one or more lines of text commands via a keyboard. It requires memorizing specific syntax and uses minimal memory.\nIn contrast, a Menu-driven interface enables users to select from on-screen, text-based menus showing available options. Users do not memorize commands; they simply use arrow keys or a mouse to navigate options, making it ideal for kiosks and ATMs.",
+"keywords":[
+"bridge",
+"user and computer",
+"Command Line User Interface",
+"typing text commands",
+"memorizing syntax",
+"Menu-driven interface",
+"on-screen menus",
+"arrow keys"
+],
+"explanation":"Interfaces define software usability. This question tests the understanding of what an interface does, followed by a direct comparison between two non-GUI interfaces: the difficult CUI and the restrictive but easy menu-driven interface. This is found on pages 4 and 5 of the PDF.",
+"page_number":"4"
+},
+{
+"id":76,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":100,
+"max":150
+},
+"question":"'An operating system keeps a track of the resources and decides on a policy of resource allocation.' Elaborate on this statement by explaining how an OS manages processor, memory, and devices.",
+"answer":"A computer's main resources include the processor, memory (RAM), files, and I/O devices. Because a computer runs multiple processes simultaneously, the OS acts as a vital resource manager to prevent conflicts.\n\nProcessor Management: The OS decides the policy for resource allocation, ensuring the processor's time is divided effectively among all running applications.\nMemory Management: It determines exactly how much memory should be allocated to a process when it starts and ensures it is de-allocated when finished, making memory available for other apps.\nDevice Management: It keeps track of all peripheral devices to ensure a smooth flow of data. It also assigns files and directories to processes, ensuring synchronization among tasks to maintain system stability.",
+"keywords":[
+"resource manager",
+"processor's time",
+"Memory Management",
+"allocated",
+"de-allocated",
+"Device Management",
+"synchronization"
+],
+"explanation":"This question requires a deeper understanding of the OS's background operations. It assesses how the OS acts as an invisible traffic controller for the CPU, RAM, and hardware peripherals to maintain system stability. This is detailed on page 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":77,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":100,
+"max":150
+},
+"question":"Discuss the open-source movement in operating systems as described in the chapter, focusing on Linux and Android, and contrast it with proprietary systems like Windows and iOS.",
+"answer":"Open-source operating systems are developed such that they can be downloaded free of cost, and they provide an alternative to expensive, licenced operating systems. \n\nLinux is a prime example of an open-source OS for personal computers. First released by Linus Torvalds in 1991, it is freeware, highly secure, and supports multi-user programming. Based on the Linux kernel, Google created Android, which is a highly popular open-source mobile OS for smartphones.\n\nIn contrast, Windows and iOS are proprietary systems. Microsoft Windows is an expensive and licenced operating system used heavily on PCs. Similarly, iOS is developed exclusively by Apple; it is closed-source and operates strictly on Apple hardware like iPhones, unlike Android which is used by many manufacturers.",
+"keywords":[
+"Open-source",
+"free of cost",
+"Linux",
+"Linus Torvalds",
+"Android",
+"Google",
+"proprietary systems",
+"Windows",
+"licenced",
+"iOS",
+"exclusively by Apple"
+],
+"explanation":"The OS market is divided into open-source and proprietary models. This question requires students to synthesize information from various parts of the chapter to contrast free, open ecosystems (Linux/Android) with closed, commercial ones (Windows/iOS). This is found on pages 3, 9, and 13.",
+"page_number":"13"
+},
+{
+"id":78,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":100,
+"max":140
+},
+"question":"Evaluate the role of technology in accessibility by explaining the features of Windows Narrator and the specialized devices used by Stephen Hawking.",
+"answer":"Technology plays a crucial role in making computers accessible to individuals with severe physical or visual impairments. \n\nWindows Narrator is an accessibility feature built into the OS that reads onscreen text, dialogues, and error messages aloud. This allows visually impaired users to operate the computer without looking at the screen, and is also helpful if a display breaks.\n\nSimilarly, specialized technology empowered physicist Stephen Hawking. Because of physical limitations, he used his facial muscles to operate his devices. By twitching a muscle, he sent text to a speech synthesizer that imitated accents. The same technology acted as a mouse, allowing him to operate an entire computer mounted to his wheelchair.",
+"keywords":[
+"accessibility",
+"visual impairments",
+"Windows Narrator",
+"reads onscreen text",
+"Stephen Hawking",
+"facial muscles",
+"speech synthesizer",
+"wheelchair"
+],
+"explanation":"Operating systems and hardware must cater to all users. This question combines the Value Byte and Fact Byte from the chapter to illustrate how software (Narrator) and customized hardware interfaces assist disabled individuals. This is on pages 6 and 12 of the PDF.",
+"page_number":"12"
+},
+{
+"id":79,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":100,
+"max":150
+},
+"question":"Analyze the health hazards of mobile phone usage as mentioned in the text. What is dysesthesia, what causes it, and what preventive measures are suggested?",
+"answer":"Mobile phones emit radio, electromagnetic, and thermal waves that can cause health hazards during prolonged use. \nAccording to research, exposure to these waves can cause dysesthesia, which is an unpleasant nerve pain. This pain is triggered by biological responses from the nerves located in the ears, face, and scalp when the mobile device is held close to the head for a long time.\n\nTo prevent ear infections and nerve pain, specific preventive measures are suggested. Users should use the smartphone's speaker to talk to friends, avoiding direct contact with the ear. Furthermore, if a user is at home, it is highly recommended to use a traditional landline telephone rather than a cell phone.",
+"keywords":[
+"radio, electromagnetic, and thermal waves",
+"dysesthesia",
+"unpleasant nerve pain",
+"nerves in ears, face, and scalp",
+"speaker",
+"landline"
+],
+"explanation":"Mobile technology has biological side effects. This question tests the student's comprehension of the Health Literacy section, requiring them to define the medical condition, identify the cause (waves), and list practical prevention strategies. This is on page 10 of the PDF.",
+"page_number":"10"
+},
+{
+"id":80,
+"subject":"Computer Science",
+"chapter":"Operating Systems-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":100,
+"max":150
+},
+"question":"Compare and contrast the different types of multi-processing capabilities in an OS, specifically Multi-tasking, Multi-user, and Multi-threading, providing examples for each.",
+"answer":"An operating system offers various capabilities to handle multiple processes efficiently.\n1. Multi-tasking OS: It supports the simultaneous execution of multiple different tasks by a single user. For example, a user can type a document in Microsoft Word while browsing the web at the same time. Examples include Microsoft Windows and Linux.\n2. Multi-user OS: Unlike multi-tasking which is for one user, a multi-user OS allows multiple different users to execute programs and access the computer's resources simultaneously. Examples include Unix and Linux.\n3. Multi-threading OS: While multi-tasking handles different apps, multi-threading allows different parts (or threads) of a single application to run simultaneously, making that specific app run faster. Linux and Windows support this.",
+"keywords":[
+"Multi-tasking",
+"simultaneous execution of multiple tasks",
+"Multi-user",
+"multiple different users",
+"Multi-threading",
+"different parts of a single application",
+"Linux",
+"Windows"
+],
+"explanation":"These three terms sound similar but refer to distinct OS capabilities: running multiple apps, serving multiple people, and splitting a single app into multiple CPU threads. Differentiating them shows a high-level understanding of OS types. This is on page 3 of the PDF.",
+"page_number":"3"
+}
+]
