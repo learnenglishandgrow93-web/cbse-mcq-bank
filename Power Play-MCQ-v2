@@ -2,7 +2,7 @@
 {
 "id": 1,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "What is the exponential form when a number 'n' is multiplied by itself 'a' times?",
 "options": [
@@ -18,7 +18,7 @@
 {
 "id": 2,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "Which of the following represents the number 4 multiplied by itself 5 times?",
 "options": [
@@ -34,7 +34,7 @@
 {
 "id": 3,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "What is the value of a negative base raised to an even power, such as (-1)^4?",
 "options": [
@@ -50,7 +50,7 @@
 {
 "id": 4,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "What is the value of any non-zero natural number raised to the power of zero?",
 "options": [
@@ -66,7 +66,7 @@
 {
 "id": 5,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "What does a negative exponent represent?",
 "options": [
@@ -82,7 +82,7 @@
 {
 "id": 6,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "How is the product of powers with the same base calculated (a^m \u00d7 a^n)?",
 "options": [
@@ -98,7 +98,7 @@
 {
 "id": 7,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "What is the result of applying the power of a power law to (n^a)^b?",
 "options": [
@@ -114,7 +114,7 @@
 {
 "id": 8,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "Which of the following is equivalent to a^m \u00d7 b^m?",
 "options": [
@@ -130,7 +130,7 @@
 {
 "id": 9,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "What is the scientific notation format for a number?",
 "options": [
@@ -146,7 +146,7 @@
 {
 "id": 10,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "What describes exponential growth compared to linear growth?",
 "options": [
@@ -162,7 +162,7 @@
 {
 "id": 11,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "What is the value of 0^4?",
 "options": [
@@ -178,7 +178,7 @@
 {
 "id": 12,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "Calculate the value of (-3) \u00d7 (-3) \u00d7 (-3) in exponential form.",
 "options": [
@@ -194,7 +194,7 @@
 {
 "id": 13,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "What is the value of (-1)^100?",
 "options": [
@@ -210,7 +210,7 @@
 {
 "id": 14,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "Express 5 \u00d7 5 \u00d7 5 \u00d7 5 in exponential form.",
 "options": [
@@ -226,7 +226,7 @@
 {
 "id": 15,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "Which of the following is the multiplicative inverse of 3^9?",
 "options": [
@@ -242,7 +242,7 @@
 {
 "id": 16,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "What is the value of 2^0?",
 "options": [
@@ -258,7 +258,7 @@
 {
 "id": 17,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "Simplify 2^5 \u00d7 2^8.",
 "options": [
@@ -274,7 +274,7 @@
 {
 "id": 18,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "Identify the base and exponent in the expression 2^8.",
 "options": [
@@ -290,7 +290,7 @@
 {
 "id": 19,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "How can 5^{-3} be written as a fraction?",
 "options": [
@@ -306,7 +306,7 @@
 {
 "id": 20,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question": "Which term describes a number representing the power to which a base is raised?",
 "options": [
@@ -322,7 +322,7 @@
 {
 "id": 21,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question_type": "assertion_reason",
 "question": "Assertion (A): 5^0 = 1.\nReason (R): Any non-zero number raised to the power zero is equal to 1.",
@@ -339,7 +339,7 @@
 {
 "id": 22,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question_type": "assertion_reason",
 "question": "Assertion (A): (-2)^4 is a positive number.\nReason (R): A negative base raised to an even power gives a positive result.",
@@ -356,7 +356,7 @@
 {
 "id": 23,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question_type": "assertion_reason",
 "question": "Assertion (A): Linear growth increases faster than exponential growth.\nReason (R): Linear growth is additive, whereas exponential growth is multiplicative.",
@@ -373,7 +373,7 @@
 {
 "id": 24,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "easy",
 "question_type": "assertion_reason",
 "question": "Assertion (A): The multiplicative inverse of 10^-3 is 10^3.\nReason (R): A negative exponent represents the reciprocal of the corresponding positive power.",
@@ -391,7 +391,7 @@
 {
 "id": 25,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Find the value of 3^{-2} \u00d7 5^2.",
 "options": [
@@ -407,7 +407,7 @@
 {
 "id": 26,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Evaluate the expression: (2^3)^{-2}.",
 "options": [
@@ -423,7 +423,7 @@
 {
 "id": 27,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Simplify the expression 5^2 \u00d7 5^{-2}.",
 "options": [
@@ -439,7 +439,7 @@
 {
 "id": 28,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "How many times larger than 5^{-3} is 5^3?",
 "options": [
@@ -455,7 +455,7 @@
 {
 "id": 29,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Express the number 32400 as a product of its prime factors in exponential form.",
 "options": [
@@ -471,7 +471,7 @@
 {
 "id": 30,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Solve for x: 3^{x+1} \u00d7 3^{x-1} = 81.",
 "options": [
@@ -487,7 +487,7 @@
 {
 "id": 31,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Calculate the value of [4^{-1} + 6^{-1} + 8^{-1}]^0.",
 "options": [
@@ -503,7 +503,7 @@
 {
 "id": 32,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Find the multiplicative inverse of (1/5)^{-30}.",
 "options": [
@@ -519,7 +519,7 @@
 {
 "id": 33,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Express 9630000000.3450 in standard form.",
 "options": [
@@ -535,7 +535,7 @@
 {
 "id": 34,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Express 0.00000000005402 in standard form.",
 "options": [
@@ -551,7 +551,7 @@
 {
 "id": 35,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "A virus spreads such that the number of infected people doubles every day. If there are 8 infected people on the first day, how many will be infected after 5 days?",
 "options": [
@@ -567,7 +567,7 @@
 {
 "id": 36,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Evaluate 10^5 / 10^{-2}.",
 "options": [
@@ -583,7 +583,7 @@
 {
 "id": 37,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "What is the standard form of the distance between the Earth and the Sun if it is 1.52 \u00d7 10^8 km?",
 "options": [
@@ -599,7 +599,7 @@
 {
 "id": 38,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Write the expanded form of 1800 as a product of powers of its prime factors.",
 "options": [
@@ -615,7 +615,7 @@
 {
 "id": 39,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "If you have 4 dresses and 3 caps, how many different outfit combinations can you make?",
 "options": [
@@ -631,7 +631,7 @@
 {
 "id": 40,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Find the value of (12^2 - 5^3) \u00d7 (-1)^{20} / 19.",
 "options": [
@@ -647,7 +647,7 @@
 {
 "id": 41,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question_type": "assertion_reason",
 "question": "Assertion (A): 0.3 \u00d7 10^4 is written in scientific notation.\nReason (R): In scientific notation, the coefficient must be greater than or equal to 1 and less than 10.",
@@ -664,7 +664,7 @@
 {
 "id": 42,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question_type": "assertion_reason",
 "question": "Assertion (A): The exponent in scientific notation shows the size of the number.\nReason (R): In scientific notation, the coefficient affects the value only slightly, whereas the exponent changes the power of 10 and determines the size.",
@@ -681,7 +681,7 @@
 {
 "id": 43,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question_type": "assertion_reason",
 "question": "Assertion (A): When adding numbers in standard form, their powers of 10 must be equal.\nReason (R): We can only add or subtract the decimal parts if they correspond to the same place value magnitude (same power of ten).",
@@ -698,7 +698,7 @@
 {
 "id": 44,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question_type": "assertion_reason",
 "question": "Assertion (A): The value of (a^m)^n is equal to a^(m+n).\nReason (R): The power of a power law states that exponents are multiplied, so (a^m)^n = a^(mn).",
@@ -715,7 +715,7 @@
 {
 "id": 45,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Simplify the expression: 16^6 \u00d7 16^{-3} \u00f7 2^{11}.",
 "options": [
@@ -731,7 +731,7 @@
 {
 "id": 46,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "What is the area of a rectangle with length 3^3 metres and width 9^{-2} metres?",
 "options": [
@@ -747,7 +747,7 @@
 {
 "id": 47,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "If 81^{-2} \u00f7 729^{1-x} = 9^{2x}, find the value of x.",
 "options": [
@@ -771,7 +771,7 @@
 {
 "id": 48,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Evaluate { (1/2)^{-4} - (1/3)^{-2} }^{-1}.",
 "options": [
@@ -787,7 +787,7 @@
 {
 "id": 49,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "If a^{-2} = 0.04, what is the value of a?",
 "options": [
@@ -803,7 +803,7 @@
 {
 "id": 50,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Find the lowest positive integer x such that (9 \u00d7 x^{-2}) / (3^{-1} \u00d7 12 \u00d7 x^{-4}) is an integer.",
 "options": [
@@ -819,7 +819,7 @@
 {
 "id": 51,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "If 2^{a+3} = 2^{a+1} + 12, then find the value of a.",
 "options": [
@@ -835,7 +835,7 @@
 {
 "id": 52,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Evaluate: [(1/2)^2 - (1/4)^3] \u00d7 2^3.",
 "options": [
@@ -851,7 +851,7 @@
 {
 "id": 53,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Find the numerical value of 7^2 \u00d7 2^3.",
 "options": [
@@ -867,7 +867,7 @@
 {
 "id": 54,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Which of the following is equivalent to (n_1 \u00d7 n_2)^3?",
 "options": [
@@ -883,7 +883,7 @@
 {
 "id": 55,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "Express 1,00,00,00,00,000 in the Indian numbering system.",
 "options": [
@@ -899,7 +899,7 @@
 {
 "id": 56,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "medium",
 "question": "What is the equivalent of a 'googol'?",
 "options": [
@@ -915,7 +915,7 @@
 {
 "id": 57,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "The half-life of a radioactive substance is 3 \u00d7 10^3 years. If a scientist starts with 8 \u00d7 10^{-2} grams, how much will remain after 9 \u00d7 10^3 years?",
 "options": [
@@ -931,7 +931,7 @@
 {
 "id": 58,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "The total charge of some electrons is 8 \u00d7 10^{-17} units. If each electron has a charge of 1.6 \u00d7 10^{-19} units, find the number of electrons.",
 "options": [
@@ -947,7 +947,7 @@
 {
 "id": 59,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "Planet X has a mass of 1.2 \u00d7 10^{22} kg and Planet Y has a mass of 60 \u00d7 10^{20} kg. By how much is Planet X heavier than Planet Y?",
 "options": [
@@ -963,7 +963,7 @@
 {
 "id": 60,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "Given Quantity A = 2 \u00d7 10^{-4} and Quantity B = 5 \u00d7 10^2. Find the value of (A/B)^2.",
 "options": [
@@ -979,7 +979,7 @@
 {
 "id": 61,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "If the total number of stars in the Milky Way is 2 \u00d7 10^{11} and the population of Earth is 8 \u00d7 10^9, how many stars are there for every human on Earth?",
 "options": [
@@ -995,7 +995,7 @@
 {
 "id": 62,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "A data centre stores 6 \u00d7 10^{15} bytes of data, and a laptop stores 3 \u00d7 10^9 bytes. How many times more data does the data centre store compared to the laptop?",
 "options": [
@@ -1011,7 +1011,7 @@
 {
 "id": 63,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "Evaluate [ (7/11)^{-2} \u00d7 (11/5)^3 ] \u00f7 (11/35)^4.",
 "options": [
@@ -1027,7 +1027,7 @@
 {
 "id": 64,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "Simplify the expression: (10^{-1} \u00d7 5^{x-3} \u00d7 4^{x-1}) / (10 \u00d7 5^{x-5} \u00d7 4^{x-2}).",
 "options": [
@@ -1051,7 +1051,7 @@
 {
 "id": 65,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "Find the value of x if x = [ (2/3)^2 ]^3 \u00d7 (1/3)^{-2} \u00d7 3^{-1} \u00d7 1/6, and then find its reciprocal.",
 "options": [
@@ -1075,7 +1075,7 @@
 {
 "id": 66,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "Evaluate [( -1/2 )^{-2} \u00d7 ( -2/5 )^{-3} \u00d7 ( 3/5 )^{-2}] \u00f7 [ 1/3 \u00d7 ( 5/10 )^3 ].",
 "options": [
@@ -1099,7 +1099,7 @@
 {
 "id": 67,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "How many times larger than 4^{-2} is 4^2?",
 "options": [
@@ -1115,7 +1115,7 @@
 {
 "id": 68,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "What is the units digit in the value of 2^{224} \u00f7 4^{32}?",
 "options": [
@@ -1131,7 +1131,7 @@
 {
 "id": 69,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question_type": "assertion_reason",
 "question": "Assertion (A): The product of two cube numbers is always a cube number.\nReason (R): For any numbers a and b, a^3 \u00d7 b^3 = (a \u00d7 b)^3, which is the cube of the product (ab).",
@@ -1148,7 +1148,7 @@
 {
 "id": 70,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question_type": "assertion_reason",
 "question": "Assertion (A): q^{46} is both a 4th power and a 6th power (where q is a prime number).\nReason (R): The exponent 46 is not divisible by 4 and 6, so it cannot be written in the form (q^m)^4 or (q^n)^6.",
@@ -1165,7 +1165,7 @@
 {
 "id": 71,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question_type": "assertion_reason",
 "question": "Assertion (A): 64 is both a square number and a cube number.\nReason (R): There are infinitely many numbers that are both squares and cubes, specifically those raised to the 6th power.",
@@ -1182,7 +1182,7 @@
 {
 "id": 72,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question_type": "assertion_reason",
 "question": "Assertion (A): A paper folded 46 times can reach the Moon.\nReason (R): The thickness of the paper grows exponentially, doubling with each fold, leading to massive multiplicative growth very quickly.",
@@ -1199,7 +1199,7 @@
 {
 "id": 73,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "If each person in the world has 30 pieces of clothing, and the global population is 8.2 \u00d7 10^9, find the total number of pieces of clothing in scientific notation.",
 "options": [
@@ -1215,7 +1215,7 @@
 {
 "id": 74,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "The time taken by the Mangalyaan mission to reach Mars is about 298 days. How is this time expressed in seconds using scientific notation? (Assume 1 day = 24 hours).",
 "options": [
@@ -1231,7 +1231,7 @@
 {
 "id": 75,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "What is the approximate total number of honeybees in the world if there are 100 million bee colonies, and each colony has about 50,000 bees?",
 "options": [
@@ -1247,7 +1247,7 @@
 {
 "id": 76,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "If you stack sheets of paper on top of each other to reach the Moon (distance approx 3.844 \u00d7 10^8 m), and each sheet is 0.01 mm thick, how many sheets are needed?",
 "options": [
@@ -1263,7 +1263,7 @@
 {
 "id": 77,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "In the Buddhist treatise Lalitavistara, what power of 10 does a 'tallakshana' represent?",
 "options": [
@@ -1279,7 +1279,7 @@
 {
 "id": 78,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "If a line of length 2^4 units is halved 10 times, what is the resulting length?",
 "options": [
@@ -1295,7 +1295,7 @@
 {
 "id": 79,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "A dairy plans to produce 8.5 billion packets of milk. If they use digits 0-9 for a unique ID code, what is the minimum number of digits required?",
 "options": [
@@ -1311,7 +1311,7 @@
 {
 "id": 80,
 "subject": "Mathematics",
-"chapter": "Power Play-v2",
+"chapter": "Power Play-MCQ-v2",
 "difficulty": "hard",
 "question": "A digital locker has a 5-character alphanumeric passcode. How many such codes are possible? (Assuming 26 letters and 10 digits).",
 "options": [
