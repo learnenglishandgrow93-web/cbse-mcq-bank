@@ -1,0 +1,1862 @@
+[
+{
+"id":1,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What are the default names of worksheets in Excel 2019?",
+"answer":"By default, the three worksheets are named as Sheet 1, Sheet 2, and Sheet 3.",
+"keywords":[
+"default",
+"worksheets",
+"Sheet 1",
+"Sheet 2",
+"Sheet 3"
+],
+"explanation":"In Excel 2019, a new workbook opens with default worksheet names. This is discussed on page 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":2,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"Where is the Sheet tab located in the Excel application window?",
+"answer":"The Sheet tab is located at the bottom of the Excel application window.",
+"keywords":[
+"Sheet tab",
+"located",
+"bottom",
+"Excel application window"
+],
+"explanation":"The Sheet tab helps navigate between worksheets and is found at the bottom. This is mentioned on page 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":3,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What is the shortcut key used to filter data in Excel?",
+"answer":"The shortcut key used to filter data in Excel is Ctrl + Shift + L.",
+"keywords":[
+"shortcut key",
+"filter data",
+"Ctrl + Shift + L"
+],
+"explanation":"Keyboard shortcuts allow quick filtering of selected data. This is provided in the Smart Byte on page 6 of the PDF.",
+"page_number":"6"
+},
+{
+"id":4,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What is another name for the X-axis in a 2-D chart?",
+"answer":"The X-axis is also known as the Category axis.",
+"keywords":[
+"X-axis",
+"known as",
+"Category axis"
+],
+"explanation":"The horizontal axis is primarily used for categories. This is explained on page 10 of the PDF.",
+"page_number":"10"
+},
+{
+"id":5,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What is another name for the Y-axis in a 2-D chart?",
+"answer":"The Y-axis is also known as the Value axis.",
+"keywords":[
+"Y-axis",
+"known as",
+"Value axis"
+],
+"explanation":"The vertical axis is primarily used to represent numerical values. This is mentioned on page 10 of the PDF.",
+"page_number":"10"
+},
+{
+"id":6,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What are Sparklines in MS Excel?",
+"answer":"Sparklines are mini charts that fit into a single worksheet cell to provide a visual representation of data trends.",
+"keywords":[
+"Sparklines",
+"mini charts",
+"single worksheet cell",
+"visual representation",
+"trends"
+],
+"explanation":"Sparklines help quickly analyze data trends within a single cell. This is found on page 16 of the PDF.",
+"page_number":"16"
+},
+{
+"id":7,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is a combo-chart?",
+"answer":"A combo-chart is a combination of two or more chart types in a single chart to show multiple types of data.",
+"keywords":[
+"combo-chart",
+"combination",
+"two or more",
+"chart types",
+"single chart"
+],
+"explanation":"Combo-charts are useful when plotting different sets of values together. This definition is given on page 16 of the PDF.",
+"page_number":"16"
+},
+{
+"id":8,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":2,
+"max":10
+},
+"question":"What is the full form of GUI?",
+"answer":"GUI stands for Graphical User Interface.",
+"keywords":[
+"GUI",
+"Graphical User Interface"
+],
+"explanation":"GUI is a common operating system interface type. This acronym is part of the Practice Paper on page 25 of the PDF.",
+"page_number":"25"
+},
+{
+"id":9,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":2,
+"max":10
+},
+"question":"What is the full form of CUI?",
+"answer":"CUI stands for Character User Interface.",
+"keywords":[
+"CUI",
+"Character User Interface"
+],
+"explanation":"CUI is a command-line based operating system interface. This acronym is asked in the Practice Paper on page 25 of the PDF.",
+"page_number":"25"
+},
+{
+"id":10,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":2,
+"max":10
+},
+"question":"What is the full form of OS?",
+"answer":"OS stands for Operating System.",
+"keywords":[
+"OS",
+"Operating System"
+],
+"explanation":"An Operating System manages computer hardware and software. It is featured in the Practice Paper on page 25 of the PDF.",
+"page_number":"25"
+},
+{
+"id":11,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"Name the best open-source alternative to Microsoft Office Excel.",
+"answer":"LibreOffice Calc is the best open-source alternative to Microsoft Office Excel.",
+"keywords":[
+"LibreOffice Calc",
+"open-source alternative",
+"Microsoft Office Excel"
+],
+"explanation":"LibreOffice Calc is mentioned as a free, open-source spreadsheet software alternative on page 15 of the PDF.",
+"page_number":"15"
+},
+{
+"id":12,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What does the MOD function return in Excel?",
+"answer":"The MOD function returns the remainder after a number is divided by the divisor.",
+"keywords":[
+"MOD function",
+"returns",
+"remainder",
+"divided by divisor"
+],
+"explanation":"MOD is a mathematical function for finding remainders. This is defined in Table 1 on page 4 of the PDF.",
+"page_number":"4"
+},
+{
+"id":13,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What is the purpose of the SQRT function?",
+"answer":"The SQRT function returns the square root of a given number.",
+"keywords":[
+"SQRT function",
+"returns",
+"square root",
+"given number"
+],
+"explanation":"SQRT is used for mathematical square root calculations. This is defined in Table 1 on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":14,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":20
+},
+"question":"What is a worksheet in Excel?",
+"answer":"A worksheet is an Excel document consisting of rows and columns used to store and manipulate data.",
+"keywords":[
+"worksheet",
+"Excel document",
+"consisting",
+"rows and columns"
+],
+"explanation":"Worksheets are the primary canvas for data entry in a workbook. This is defined in the Tech Terms on page 17 of the PDF.",
+"page_number":"17"
+},
+{
+"id":15,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":20
+},
+"question":"How can you remove a filter applied to your data?",
+"answer":"To remove a filter, click on the Filter switch and select the Clear Filter option.",
+"keywords":[
+"remove filter",
+"Filter switch",
+"Clear Filter option"
+],
+"explanation":"The Clear Filter option restores hidden rows. This is mentioned in the Smart Byte on page 6 of the PDF.",
+"page_number":"6"
+},
+{
+"id":16,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"Where is the New Sheet button present?",
+"answer":"The New Sheet button is present on the right side of the Sheet tab.",
+"keywords":[
+"New Sheet button",
+"present",
+"right side",
+"Sheet tab"
+],
+"explanation":"Clicking this button quickly adds a new worksheet to the workbook. This is stated on page 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":17,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"How can you rename a worksheet using the double-click method?",
+"answer":"You can double-click on the worksheet name on the Sheet tab, type the new name, and press the Enter key to rename it.",
+"keywords":[
+"double-click",
+"worksheet name",
+"Sheet tab",
+"type new name",
+"Enter key"
+],
+"explanation":"This is a quick alternative to right-clicking to rename a sheet. This process is detailed on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":18,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"What is the use of the Tab scrolling bar?",
+"answer":"The Tab scrolling bar is located on the left of the Sheet tab and allows you to scroll quickly when you have multiple worksheets in a workbook.",
+"keywords":[
+"Tab scrolling bar",
+"left of Sheet tab",
+"scroll quickly",
+"multiple worksheets"
+],
+"explanation":"It aids navigation in workbooks containing many sheets. This feature is explained on page 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":19,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Explain the SUM function with an example.",
+"answer":"The SUM function returns the total sum of a range of numbers. For example, =SUM(4,5,6) gives the output 15.",
+"keywords":[
+"SUM function",
+"total sum",
+"range of numbers",
+"=SUM(4,5,6)",
+"output 15"
+],
+"explanation":"It is the most commonly used function to add numbers. This is explained in Table 1 on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":20,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Explain the PRODUCT function with an example.",
+"answer":"The PRODUCT function multiplies the values in a range of cells. For example, =PRODUCT(8,2,4) gives the output 64.",
+"keywords":[
+"PRODUCT function",
+"multiplies",
+"range of cells",
+"=PRODUCT(8,2,4)",
+"output 64"
+],
+"explanation":"It is used for mathematical multiplication of multiple values. This is explained in Table 1 on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":21,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Differentiate between MAX and MIN functions.",
+"answer":"The MAX function is used to find the largest value in a given range, while the MIN function finds the smallest value in the given range.",
+"keywords":[
+"MAX function",
+"largest value",
+"MIN function",
+"smallest value",
+"given range"
+],
+"explanation":"These statistical functions help identify extremes in data sets. They are detailed in Table 1 on page 4 of the PDF.",
+"page_number":"4"
+},
+{
+"id":22,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"State the difference between filtering and sorting.",
+"answer":"Sorting rearranges data in ascending or descending order. Filtering selectively blocks or hides rows and columns that do not meet a specified condition without rearranging the data.",
+"keywords":[
+"Sorting",
+"rearranges data",
+"Filtering",
+"selectively blocks",
+"hides rows",
+"specified condition"
+],
+"explanation":"Sorting changes the order, while filtering changes visibility based on criteria. These are covered on pages 4 and 5 of the PDF.",
+"page_number":"4-5"
+},
+{
+"id":23,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Name the three types of filtering available in Excel.",
+"answer":"The three types of filtering in Excel are Auto filter, Custom filter, and Advanced filter.",
+"keywords":[
+"three types",
+"Auto filter",
+"Custom filter",
+"Advanced filter"
+],
+"explanation":"These filters cater to different levels of condition complexity. They are listed on page 5 of the PDF.",
+"page_number":"5"
+},
+{
+"id":24,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"What is conditional formatting?",
+"answer":"Conditional formatting helps format cells based on a set of specified conditions. You can change font style, size, colour, or border based on these conditions.",
+"keywords":[
+"conditional formatting",
+"format cells",
+"specified conditions",
+"font style",
+"colour"
+],
+"explanation":"It visually highlights data that meets certain criteria. This concept is introduced on page 7 of the PDF.",
+"page_number":"7"
+},
+{
+"id":25,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"How do you remove conditional formatting applied to a worksheet?",
+"answer":"You can remove it by selecting either 'Clear Rules from Selected Cells' or 'Clear Rules from Entire Worksheet' from the Conditional Formatting button's drop-down menu.",
+"keywords":[
+"remove",
+"Clear Rules from Selected Cells",
+"Clear Rules from Entire Worksheet",
+"Conditional Formatting button"
+],
+"explanation":"This clears any formatting automatically applied by existing rules. The steps are found in the Smart Byte on page 8 of the PDF.",
+"page_number":"8"
+},
+{
+"id":26,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":30
+},
+"question":"What is a chart in MS Excel?",
+"answer":"A chart or graph is a visual representation of data and information using various types of pictorial formats to highlight different aspects.",
+"keywords":[
+"chart",
+"visual representation",
+"data and information",
+"pictorial formats"
+],
+"explanation":"Charts make numerical data easier to understand visually. This is defined on page 8 and 17 of the PDF.",
+"page_number":"8"
+},
+{
+"id":27,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"State two advantages of using charts.",
+"answer":"1. Charts help understand complex data easily for drawing comparisons. 2. They help analyze growth, relationships, and trends among values, making presentations impressive.",
+"keywords":[
+"understand complex data",
+"drawing comparisons",
+"analyze growth",
+"trends",
+"impressive presentation"
+],
+"explanation":"Charts provide a visual summary which is quicker to interpret than tables. These benefits are discussed on page 8 of the PDF.",
+"page_number":"8"
+},
+{
+"id":28,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"What is a Plot area in an Excel chart?",
+"answer":"The Plot area is the rectangular area located within the chart area where the actual data is plotted and represented.",
+"keywords":[
+"Plot area",
+"rectangular area",
+"within chart area",
+"data is plotted"
+],
+"explanation":"It forms the core region of the chart displaying the graphical data. This definition is given on page 10 of the PDF.",
+"page_number":"10"
+},
+{
+"id":29,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"What is a Legend in a chart?",
+"answer":"A legend represents the data series in a chart. It usually indicates the colours, patterns, and symbols assigned to each data series.",
+"keywords":[
+"Legend",
+"represents data series",
+"indicates colours",
+"patterns",
+"symbols"
+],
+"explanation":"Legends serve as a key to decode the colors and symbols in a chart. Explained on page 10 of the PDF.",
+"page_number":"10"
+},
+{
+"id":30,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"What are Gridlines in an Excel chart?",
+"answer":"Gridlines are the horizontal and vertical lines drawn on the entire chart area, depending on the selected chart type, to help read data values easily.",
+"keywords":[
+"Gridlines",
+"horizontal and vertical lines",
+"entire chart area",
+"selected chart type"
+],
+"explanation":"Gridlines align data points with axis values. This component is described on page 10 of the PDF.",
+"page_number":"10"
+},
+{
+"id":31,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":40
+},
+"question":"What is an Area chart?",
+"answer":"An Area chart displays the quantitative magnitude of data graphically. Based on a line chart, it emphasizes the area between the line and the axis using colours or textures.",
+"keywords":[
+"Area chart",
+"quantitative magnitude",
+"line chart",
+"emphasizes area",
+"colours"
+],
+"explanation":"It shows volume and trends over time visually. This chart type is defined on page 11 of the PDF.",
+"page_number":"11"
+},
+{
+"id":32,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Name the two tabs that appear under Chart Tools when a chart is selected.",
+"answer":"The two tabs that appear under the Chart Tools category are Chart Design and Format.",
+"keywords":[
+"two tabs",
+"Chart Tools",
+"Chart Design",
+"Format"
+],
+"explanation":"These contextual tabs provide all necessary options to modify a chart. This is stated on page 12 of the PDF.",
+"page_number":"12"
+},
+{
+"id":33,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What is the function of the Chart Styles group?",
+"answer":"The Chart Styles group contains a number of different visual styles for the selected chart. It changes the appearance of titles, data labels, and legend details simultaneously.",
+"keywords":[
+"Chart Styles group",
+"different visual styles",
+"appearance",
+"titles",
+"data labels"
+],
+"explanation":"It allows quick formatting changes using pre-defined themes. This is explained on page 12 of the PDF.",
+"page_number":"12"
+},
+{
+"id":34,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"What is the function of the Chart Layouts group?",
+"answer":"The Chart Layouts group determines the position and style of various chart components and provides different layouts available for the current chart.",
+"keywords":[
+"Chart Layouts group",
+"determines position",
+"style",
+"various components",
+"different layouts"
+],
+"explanation":"It rearranges elements like titles and legends quickly. This feature is detailed on page 12 of the PDF.",
+"page_number":"12"
+},
+{
+"id":35,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":45
+},
+"question":"How do you add data labels to a chart?",
+"answer":"Right-click on the Data Series and choose 'Add Data Labels', or click on the Chart Elements button and select the Data Labels option from the list.",
+"keywords":[
+"add data labels",
+"Right-click",
+"Data Series",
+"Chart Elements button",
+"select Data Labels"
+],
+"explanation":"Data labels show exact values directly on the chart components. Found in the Smart Byte on page 15 of the PDF.",
+"page_number":"15"
+},
+{
+"id":36,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What is the purpose of the Format Tab for charts?",
+"answer":"The Format Tab improves the presentation of a chart. It allows formatting different components, like changing text, font, line colour, border style, and legends.",
+"keywords":[
+"Format Tab",
+"improves presentation",
+"formatting components",
+"font",
+"line colour"
+],
+"explanation":"It gives granular control over the visual aesthetics of chart elements. Described on page 14 of the PDF.",
+"page_number":"14"
+},
+{
+"id":37,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":45
+},
+"question":"Define Formulae and Function in Excel.",
+"answer":"Formulae are expressions or instructions combining numbers, cell references, and operators to perform calculations. Functions are in-built formulae in Excel designed to ease complex calculations.",
+"keywords":[
+"Formulae",
+"expressions",
+"instructions",
+"calculations",
+"Functions",
+"in-built formulae"
+],
+"explanation":"Formulae are manually created, while functions are pre-defined by Excel. These terms are defined on page 17 of the PDF.",
+"page_number":"17"
+},
+{
+"id":38,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":45
+},
+"question":"What is Google Sheets?",
+"answer":"Google Sheets is a free, web-based, online spreadsheet app and desktop application. It allows users to create, format, and simultaneously collaborate on spreadsheet data.",
+"keywords":[
+"Google Sheets",
+"free",
+"web-based",
+"spreadsheet app",
+"collaborate"
+],
+"explanation":"It is a popular cloud-based alternative to local spreadsheet software. Discussed in the Explore More section on page 22 of the PDF.",
+"page_number":"22"
+},
+{
+"id":39,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":45
+},
+"question":"Give two advantages of using Google Sheets.",
+"answer":"1. Its cloud-based architecture allows collaboration with anyone, anytime, anywhere. 2. It is compatible with external systems like Microsoft Office, solving multiple data source problems.",
+"keywords":[
+"cloud-based architecture",
+"collaboration",
+"compatible",
+"Microsoft Office",
+"multiple data sources"
+],
+"explanation":"These features make it highly versatile for team projects. Listed on page 22 of the PDF.",
+"page_number":"22"
+},
+{
+"id":40,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Differentiate between Auto filter and Custom filter.",
+"answer":"Auto filter is used to view data based on a specified condition using drop-down controls. Custom filter is used to filter data on the basis of multiple conditions.",
+"keywords":[
+"Auto filter",
+"specified condition",
+"drop-down controls",
+"Custom filter",
+"multiple conditions"
+],
+"explanation":"Custom filters allow for more complex logical operations than standard auto filters. Defined on page 5 of the PDF.",
+"page_number":"5"
+},
+{
+"id":41,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"Write the steps to delete a worksheet in Excel.",
+"answer":"To delete a worksheet, follow these steps:\n1. Right-click on the sheet you want to delete on the Sheet tab.\n2. Click on the Delete option from the shortcut menu.",
+"keywords":[
+"delete worksheet",
+"Right-click",
+"sheet",
+"Sheet tab",
+"Delete option",
+"shortcut menu"
+],
+"explanation":"Deleting removes an unwanted sheet permanently from the workbook. The exact steps are listed on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":42,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":55
+},
+"question":"Write the steps to rename a worksheet using the shortcut menu.",
+"answer":"Step 1: Right-click on the sheet to be renamed on the Sheet tab. \nStep 2: Click on the Rename option from the shortcut menu. \nStep 3: Type the new name and press the Enter key.",
+"keywords":[
+"rename worksheet",
+"Right-click",
+"Rename option",
+"shortcut menu",
+"Type new name",
+"Enter key"
+],
+"explanation":"This method utilizes the context menu for renaming. Details are provided on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":43,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":60
+},
+"question":"Explain the INT and ROUND functions in Excel.",
+"answer":"The INT function rounds a number down to the nearest integer value (e.g., INT(17.15) gives 17). The ROUND function rounds a number to a specified number of digits (e.g., ROUND(56,2) gives 56).",
+"keywords":[
+"INT function",
+"integer value",
+"ROUND function",
+"specified digits",
+"examples"
+],
+"explanation":"Both are mathematical functions managing decimal precision differently. Explained in Table 1 on page 3 of the PDF.",
+"page_number":"3"
+},
+{
+"id":44,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":60
+},
+"question":"Explain the POWER and COUNT functions.",
+"answer":"The POWER function returns the result of a number raised to some power (e.g., POWER(6,2) gives 36). The COUNT function returns the count of the number of values in a given cell range (e.g., COUNT(2,4,5,6) gives 4).",
+"keywords":[
+"POWER function",
+"number raised",
+"COUNT function",
+"count of values",
+"cell range"
+],
+"explanation":"These mathematical functions perform exponents and tally numerical entries respectively. Found in Table 1 on page 4 of the PDF.",
+"page_number":"4"
+},
+{
+"id":45,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"Describe how to sort data in ascending order using the Home tab.",
+"answer":"Step 1: Enter data and select the cell range. Step 2: Click on the Home tab, then click the Sort & Filter button in the Editing group. Step 3: Select 'Sort A to Z' from the command list to sort in ascending order.",
+"keywords":[
+"sort data",
+"Home tab",
+"Sort & Filter button",
+"Editing group",
+"Sort A to Z",
+"ascending order"
+],
+"explanation":"This rearranges text or numbers properly using ribbon commands. Steps are provided on page 4 of the PDF.",
+"page_number":"4"
+},
+{
+"id":46,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":65
+},
+"question":"Describe how to sort data using the Data tab.",
+"answer":"To sort data, select the required cell range. Go to the Data tab and find the Sort & Filter group. Click on the A to Z option for ascending order, or click the Sort option to open the Sort dialog box for advanced sorting.",
+"keywords":[
+"Data tab",
+"Sort & Filter group",
+"A to Z option",
+"ascending order",
+"Sort dialog box"
+],
+"explanation":"The Data tab provides dedicated tools for larger dataset manipulation. Discussed on page 4 of the PDF.",
+"page_number":"4"
+},
+{
+"id":47,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"Explain what happens when an Auto Filter is applied to a worksheet.",
+"answer":"When an Auto Filter is applied, drop-down controls (small arrows) appear on the right side of the column headers in a list. You can click these filter switches to specify conditions and selectively hide rows that are not required.",
+"keywords":[
+"Auto Filter",
+"drop-down controls",
+"column headers",
+"filter switches",
+"hide rows"
+],
+"explanation":"It provides a quick interface for limiting visible data based on criteria. Detailed on pages 5 and 6 of the PDF.",
+"page_number":"5-6"
+},
+{
+"id":48,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"How do you apply a Custom Filter in Excel from the drop-down menu?",
+"answer":"After selecting the cells and enabling the Filter option, click the small arrow next to the column header. Click on 'Number Filters', then select 'Custom Filter'. In the dialog box, enter the desired conditions and values, and click OK.",
+"keywords":[
+"Custom Filter",
+"Filter option",
+"column header",
+"Number Filters",
+"dialog box",
+"conditions"
+],
+"explanation":"Custom filtering allows for complex multi-condition queries. Detailed steps are on pages 6 and 7 of the PDF.",
+"page_number":"6-7"
+},
+{
+"id":49,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"Write the steps to select a rule for Conditional Formatting.",
+"answer":"First, select the cell range. Go to the Home tab and click the Conditional Formatting drop-down in the Styles group. Select a rule, for example 'Less Than'. A dialog box opens; select the formatting condition and click OK.",
+"keywords":[
+"Conditional Formatting",
+"Home tab",
+"Styles group",
+"select a rule",
+"dialog box",
+"formatting condition"
+],
+"explanation":"This applies automatic visual styles based on numeric logic. Steps are given on pages 7 and 8 of the PDF.",
+"page_number":"7-8"
+},
+{
+"id":50,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":75
+},
+"question":"Briefly explain Column chart and Bar chart.",
+"answer":"A Column chart displays data in the form of vertical bars, depicting comparisons or changes over a period. Categories are on the horizontal axis. A Bar chart displays data as long horizontal rectangular rods, placing categories on the vertical axis.",
+"keywords":[
+"Column chart",
+"vertical bars",
+"horizontal axis",
+"Bar chart",
+"horizontal rectangular rods",
+"vertical axis"
+],
+"explanation":"These are fundamental chart types showing comparisons from different orientations. Described on page 10 of the PDF.",
+"page_number":"10"
+},
+{
+"id":51,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Differentiate between Pie chart and Doughnut chart.",
+"answer":"A Pie chart is divided into sectors showing the relative size of each value, displaying only one data series. A Doughnut chart displays data in rings and can show multiple data series, representing the relationship of parts to a whole.",
+"keywords":[
+"Pie chart",
+"sectors",
+"one data series",
+"Doughnut chart",
+"rings",
+"multiple data series"
+],
+"explanation":"While visually similar, doughnuts handle multiple series unlike pies. Explained on page 11 of the PDF.",
+"page_number":"11"
+},
+{
+"id":52,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Briefly describe the Line chart and Histogram.",
+"answer":"A Line chart plots data in the form of lines on a graph, used to depict trends over time where category order is important. A Histogram is used to show the frequency distribution of data grouped into numerical bins.",
+"keywords":[
+"Line chart",
+"lines",
+"trends over time",
+"Histogram",
+"distribution of data",
+"grouped into bins"
+],
+"explanation":"Both deal with continuous data streams and statistical distribution. Defined on page 11 of the PDF.",
+"page_number":"11"
+},
+{
+"id":53,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Explain the Switch Row/Column option in the Data group.",
+"answer":"The Switch Row/Column option in the Data group changes the row of the data into columns and vice versa. Clicking the button alters the chart's axis arrangement, and clicking it again reverses the effect.",
+"keywords":[
+"Switch Row/Column",
+"Data group",
+"changes row into columns",
+"vice versa",
+"reverses effect"
+],
+"explanation":"It provides a quick pivot for the axes of the chart. Described on page 13 of the PDF.",
+"page_number":"13"
+},
+{
+"id":54,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Explain the Select Data option in the Data group.",
+"answer":"The Select Data option opens the 'Select Data Source' dialog box. It displays the current selection with a dashed rectangle. The dialog allows users to edit, add, or remove elements, and swap row and column contents.",
+"keywords":[
+"Select Data",
+"Select Data Source dialog box",
+"dashed rectangle",
+"edit, add, remove",
+"swap row and column"
+],
+"explanation":"It provides full control over the specific data ranges driving the chart. Explained on page 13 of the PDF.",
+"page_number":"13"
+},
+{
+"id":55,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Write the steps to change the chart type.",
+"answer":"Go to the Chart Tools. In the Design tab, find the Type group and click on 'Change Chart Type'. A dialog box appears displaying categories on the left pane. Select the desired chart type and click OK.",
+"keywords":[
+"Chart Tools",
+"Design tab",
+"Change Chart Type",
+"dialog box",
+"select desired chart"
+],
+"explanation":"This allows users to convert a bar chart to a pie chart easily, for instance. Described on page 13 of the PDF.",
+"page_number":"13"
+},
+{
+"id":56,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"Write the steps to select a gradient line for the chart border.",
+"answer":"First, right-click the Plot area and open the Format Plot Area task pane. Go to the Fill tab to adjust background colour. To increase width and style, click on the Border tab and select the Gradient line option.",
+"keywords":[
+"gradient line",
+"Format Plot Area",
+"Fill tab",
+"Border tab",
+"Gradient line option"
+],
+"explanation":"This enhances the aesthetic border styling of the plot area. Detailed on page 14 of the PDF.",
+"page_number":"14"
+},
+{
+"id":57,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"How do you change the gap width of a data series?",
+"answer":"To format a data series, right-click it and select 'Format Data Series'. The task pane appears on the right. Click on 'Series Options' and adjust the 'Gap Width' slider. The width between the chart bars will change accordingly.",
+"keywords":[
+"gap width",
+"Format Data Series",
+"task pane",
+"Series Options",
+"chart bars"
+],
+"explanation":"Gap width controls the spacing between bars in column or bar charts. Detailed on page 16 of the PDF.",
+"page_number":"16"
+},
+{
+"id":58,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":75
+},
+"question":"Write the steps to insert a new worksheet using the Insert window.",
+"answer":"Step 1: Right-click on the 'Sheet 3' tab on the Sheet tab and click 'Insert' from the shortcut menu to display the Insert window. Step 2: Select the Worksheet option in the General tab and click OK. The new worksheet is added to the left.",
+"keywords":[
+"insert worksheet",
+"Right-click",
+"shortcut menu",
+"Insert window",
+"General tab",
+"added to the left"
+],
+"explanation":"This is the traditional menu-based approach to adding a sheet. Detailed on page 2 of the PDF.",
+"page_number":"2"
+},
+{
+"id":59,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":75
+},
+"question":"What are the Data Series and Axes in a chart?",
+"answer":"A Data series is a related set of data values representing actual data in the form of bars or lines. Axes are two reference lines in a 2-D chart: the horizontal X-axis (Category axis) and vertical Y-axis (Value axis).",
+"keywords":[
+"Data series",
+"related set",
+"bars or lines",
+"Axes",
+"horizontal X-axis",
+"vertical Y-axis"
+],
+"explanation":"These are fundamental structural components of any standard 2D chart. Explained on page 10 of the PDF.",
+"page_number":"10"
+},
+{
+"id":60,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":75
+},
+"question":"Explain the dynamic nature of charts in Excel and their compatibility with other MS applications.",
+"answer":"Charts in Excel are dynamic, meaning if you change the data in the spreadsheet, the chart updates automatically. Additionally, Excel charts can be copied and pasted into other Microsoft applications, such as Word and PowerPoint, just like text.",
+"keywords":[
+"dynamic nature",
+"change data",
+"updates automatically",
+"copied and pasted",
+"Word and PowerPoint"
+],
+"explanation":"This inter-connectivity saves time when creating presentation materials. Mentioned on page 10 of the PDF.",
+"page_number":"10"
+},
+{
+"id":61,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":75
+},
+"question":"How does cloud-based architecture benefit Google Sheets users?",
+"answer":"Google Sheets utilizes a cloud-based architecture which allows users to collaborate with anyone, anytime, and anywhere. It secures information, maintains data integrity, and resolves multiple data source conflicts, making it highly useful for businesses and schools.",
+"keywords":[
+"cloud-based architecture",
+"collaborate",
+"anytime anywhere",
+"secures information",
+"data integrity"
+],
+"explanation":"The cloud enables real-time sharing instead of exchanging offline files. Mentioned in Explore More on page 22.",
+"page_number":"22"
+},
+{
+"id":62,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"Explain how to clear rules from an entire worksheet in Conditional Formatting.",
+"answer":"To clear formatting rules, click the Conditional Formatting button to open the drop-down menu. Select 'Clear Rules' and then choose 'Clear Rules from Entire Worksheet'. This instantly removes all conditional formatting from the sheet.",
+"keywords":[
+"clear formatting rules",
+"Conditional Formatting button",
+"drop-down menu",
+"Clear Rules from Entire Worksheet"
+],
+"explanation":"This provides a quick way to reset the visual state of the entire document. Noted in the Smart Byte on page 8 of the PDF.",
+"page_number":"8"
+},
+{
+"id":63,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":70
+},
+"question":"How can you position the legend at the top of the chart?",
+"answer":"After opening the Format Legend task pane, locate the Legend Options icon. From the displayed list of positioning options, select the 'Top' button. Then, click the Close button to see the legend placed at the top.",
+"keywords":[
+"position legend",
+"Format Legend task pane",
+"Legend Options icon",
+"Top button",
+"Close button"
+],
+"explanation":"The layout can be customized easily through the task pane. Described in Step 6 & 7 on page 15 of the PDF.",
+"page_number":"15"
+},
+{
+"id":64,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"How are data headers handled when sorting data?",
+"answer":"When opening the Sort dialog box, you can select the 'My data has headers' checkbox. This ensures the first row, containing the column headings, is excluded from the sorting process and remains at the top.",
+"keywords":[
+"data headers",
+"Sort dialog box",
+"My data has headers checkbox",
+"excluded from sorting",
+"remains at top"
+],
+"explanation":"This prevents header titles from being sorted alphanumerically into the dataset. Explained on page 4 of the PDF.",
+"page_number":"4"
+},
+{
+"id":65,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"Explain in detail the steps to insert a bar graph in an Excel worksheet.",
+"answer":"To create a bar graph in Excel, follow these steps:\nStep 1: Select the data and the labels on the Excel sheet that you want to represent.\nStep 2: Click on the Insert tab. Different charting options will be visible in the Charts group.\nStep 3: Select the icon of the specific chart type you wish to display and click its arrow key.\nStep 4: A drop-down list of available chart designs appears (e.g., Column Chart options).\nStep 5: Select your preferred choice, such as the first 2-D Column category. Excel immediately generates and displays the chart according to your data.",
+"keywords":[
+"insert bar graph",
+"Select the data",
+"Insert tab",
+"Charts group",
+"icon of chart type",
+"drop-down list",
+"2-D Column category",
+"generates chart"
+],
+"explanation":"This details the step-by-step procedure to visually represent tabular data. This is thoroughly explained on page 9 of the PDF.",
+"page_number":"9"
+},
+{
+"id":66,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":130
+},
+"question":"Describe the five main components of a chart in MS Excel.",
+"answer":"The components of an Excel chart include:\n1. Chart area: The main bounding area that includes all elements of the chart.\n2. Data series: A related set of data values representing actual data in visual forms like bars or lines.\n3. Axes: The two reference lines in a 2-D chart, consisting of the horizontal X-axis (Category axis) and vertical Y-axis (Value axis).\n4. Legend: Indicates the specific colours, patterns, and symbols assigned to each data series.\n5. Plot area: The specific rectangular area located inside the chart area where the actual data points and gridlines are plotted.",
+"keywords":[
+"Chart area",
+"Data series",
+"Axes",
+"Legend",
+"Plot area",
+"horizontal X-axis",
+"vertical Y-axis"
+],
+"explanation":"Understanding these parts is vital for chart formatting. These components are discussed in detail on page 10 of the PDF.",
+"page_number":"10"
+},
+{
+"id":67,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":75,
+"max":110
+},
+"question":"Elaborate on the steps to format the Plot Area's background colour and pattern.",
+"answer":"To format the background of the Plot Area, follow these steps:\nStep 1: Right-click the mouse on the Plot area and select the 'Format Plot Area' option. The task pane appears on the right side of the screen.\nStep 2: Click on the Fill tab and select the 'Solid fill' option.\nStep 3: Select the 'Colour' option and pick the desired colour from the Fill Colour palette.\nStep 4: To further modify the border width and style, click on the Border tab and select the 'Gradient line' option.",
+"keywords":[
+"Format Plot Area",
+"Right-click",
+"task pane",
+"Fill tab",
+"Solid fill",
+"Colour palette",
+"Border tab",
+"Gradient line"
+],
+"explanation":"These aesthetic tweaks make the data visually distinct. This formatting procedure is found on page 14 of the PDF.",
+"page_number":"14"
+},
+{
+"id":68,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":115
+},
+"question":"Detail the procedure to edit or change the legend text using the Select Data Source dialog box.",
+"answer":"By default, Excel names legends as Series 1, Series 2, etc. To change this:\nStep 1: In the Data group, click on the 'Select Data' option to open the Select Data Source dialog window.\nStep 2: In the left pane of the dialog box, click on 'Series 1' to select it.\nStep 3: Click on the 'Edit' button. This opens a smaller dialog box named Edit Series.\nStep 4: Enter or select the new legend name. Change other legends similarly and click OK to see the updated effects in the chart.",
+"keywords":[
+"edit legend text",
+"Select Data option",
+"Select Data Source",
+"Series 1",
+"Edit button",
+"Edit Series dialog box",
+"updated effects"
+],
+"explanation":"This allows customizing generic default names into meaningful labels. Covered on page 13 of the PDF.",
+"page_number":"13"
+},
+{
+"id":69,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":85,
+"max":125
+},
+"question":"Write the detailed steps to format a Legend (including its boundary and colour).",
+"answer":"To format the text, background, boundary, and colour of a legend:\nStep 1: Right-click on the Legend boundary and select the 'Format Legend' option, or simply double-click the Legend.\nStep 2: The Format Legend task pane appears on the right.\nStep 3: Select the 'Fill & Line' icon and click the 'Border' option.\nStep 4: Click the Dash type drop-down to select a style, and use spin arrows to change width.\nStep 5: Change the colour by clicking the 'Color' drop-down menu.\nStep 6: Use the 'Legend Options' icon to position the legend (e.g., Top).\nStep 7: Click Close.",
+"keywords":[
+"Format Legend",
+"Right-click",
+"task pane",
+"Fill & Line",
+"Border",
+"Dash type",
+"Color drop-down",
+"Legend Options"
+],
+"explanation":"Detailed modifications for the legend help in personalizing the presentation. Outlined on pages 14 and 15 of the PDF.",
+"page_number":"14-15"
+},
+{
+"id":70,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"Explain the steps to change the scale (Minimum and Maximum values) of the Value Axis.",
+"answer":"Excel automatically determines vertical axis values, but you can change them:\nStep 1: Right-click the mouse pointer exactly at the Y-axis and select the 'Format Axis' option from the shortcut menu.\nStep 2: The Format Axis task pane appears on the right side of the screen. Ensure that the 'Axis Options' icon is selected.\nStep 3: Under the Bounds section, locate the 'Minimum' and 'Maximum' text boxes.\nStep 4: Delete the default values and type in your required minimum and maximum values.\nStep 5: Click the Close button to apply the new scale to the Y-axis.",
+"keywords":[
+"scale",
+"Value Axis",
+"Right-click Y-axis",
+"Format Axis",
+"task pane",
+"Axis Options",
+"Minimum",
+"Maximum",
+"Bounds"
+],
+"explanation":"Changing axis bounds helps zoom in on data disparities. The instructions are on page 15 of the PDF.",
+"page_number":"15"
+},
+{
+"id":71,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":75,
+"max":115
+},
+"question":"Write the comprehensive steps to add a picture or texture fill to a Data Series.",
+"answer":"You can replace solid bar colours with textures:\nStep 1: Select the 'Format Data Series' option by right-clicking on the target data series to open the task pane.\nStep 2: In the task pane, click on the 'Fill & Line' icon (paint bucket).\nStep 3: Under the Fill section, choose the 'Picture or Texture fill' radio button.\nStep 4: To select a specific texture, click on the 'Texture' drop-down button and pick a pattern.\nStep 5: Close the task pane. The selected data series bars will now be filled with the chosen texture.",
+"keywords":[
+"texture fill",
+"Format Data Series",
+"Fill & Line icon",
+"Picture or texture fill",
+"Texture drop-down",
+"data series bars"
+],
+"explanation":"This adds creative styling to data bars. The procedure is explained on page 16 of the PDF.",
+"page_number":"16"
+},
+{
+"id":72,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":85,
+"max":125
+},
+"question":"Explain the process of applying an Auto Filter and using it to hide data temporarily.",
+"answer":"To apply and use an Auto Filter:\nStep 1: Select any cell or cells in the data range to be filtered.\nStep 2: Go to the Home Tab, click 'Sort & Filter' in the Editing group, and select 'Filter' (or use the Data tab's Filter option).\nStep 3: Small drop-down arrows will appear next to all column headers.\nStep 4: Click the arrow on a specific column. Uncheck the 'Select All' box to deselect options, then check only the specific values you want to see.\nStep 5: Click OK. Rows that do not meet this criteria are hidden temporarily.",
+"keywords":[
+"Auto Filter",
+"Sort & Filter",
+"Editing group",
+"column headers",
+"Select All box",
+"hidden temporarily"
+],
+"explanation":"Filtering handles large tables by hiding irrelevant information safely. Steps are listed on pages 5 and 6 of the PDF.",
+"page_number":"5-6"
+},
+{
+"id":73,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":85,
+"max":125
+},
+"question":"Detail the steps to apply a Custom Filter using the Number Filters option.",
+"answer":"Custom filtering handles complex numerical logic:\nStep 1: Select the cells and apply the basic Filter option from the Data or Home tab.\nStep 2: Click the small drop-down arrow next to the relevant column header.\nStep 3: Hover over or click on the 'Number Filters' option. A sub-menu showing various logical options opens.\nStep 4: Click on the 'Custom Filter' option to open its dialog box.\nStep 5: In the dialog box, set the desired complex conditions (e.g., greater than, equals) and enter the values.\nStep 6: Click OK to filter the dataset.",
+"keywords":[
+"Custom Filter",
+"Number Filters",
+"column header",
+"logical options",
+"dialog box",
+"complex conditions"
+],
+"explanation":"This provides fine-tuned data querying without formulas. Steps are detailed on pages 6 and 7 of the PDF.",
+"page_number":"6-7"
+},
+{
+"id":74,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":75,
+"max":115
+},
+"question":"Explain the steps to sort data in descending order based on a selected cell range.",
+"answer":"Sorting rearranges your data based on values:\nStep 1: Enter the data in the Excel worksheet.\nStep 2: Highlight and select the cell range you wish to sort.\nStep 3: Click on the Home tab on the ribbon.\nStep 4: In the Editing group, click on the 'Sort & Filter' button to reveal a list of commands.\nStep 5: Select 'Sort Z to A' from the list. The selected cell range will immediately rearrange itself in descending order (highest to lowest or Z to A).",
+"keywords":[
+"sort data",
+"descending order",
+"cell range",
+"Home tab",
+"Sort & Filter",
+"Sort Z to A",
+"rearrange"
+],
+"explanation":"Sorting Z to A organizes highest values first. Detailed on page 4 and 5 of the PDF.",
+"page_number":"4-5"
+},
+{
+"id":75,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":85,
+"max":130
+},
+"question":"Describe the various types of charts available in MS Excel (any five).",
+"answer":"1. Column chart: Displays data as vertical bars, showing comparisons and changes over time.\n2. Bar chart: Displays data as long horizontal rectangular rods, showing comparisons among items.\n3. Pie chart: A circular chart divided into sectors relative to value size, handling a single data series.\n4. Doughnut chart: Displays data in rings showing parts to a whole, but can handle multiple data series unlike Pie charts.\n5. Line chart: Plots lines on a graph comparing values across axes, primarily used to depict trends over a continuous timeline.",
+"keywords":[
+"Column chart",
+"Bar chart",
+"Pie chart",
+"Doughnut chart",
+"Line chart",
+"vertical bars",
+"horizontal rods",
+"sectors",
+"rings",
+"trends"
+],
+"explanation":"Understanding different charts helps in selecting the right visualization tool. Discussed on pages 10 and 11 of the PDF.",
+"page_number":"10-11"
+},
+{
+"id":76,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":75,
+"max":110
+},
+"question":"Explain how to apply a drop shadow effect to a Data Series using the Format task pane.",
+"answer":"Adding shadow effects enhances the visual depth of charts:\nStep 1: Right-click the required data series and choose 'Format Data Series' to open the task pane.\nStep 2: In the task pane, click on the 'Effects' icon (which resembles a pentagon).\nStep 3: Expand the 'Shadow' section to view styling options.\nStep 4: Click the 'Presets' drop-down menu and select your desired shadow format (e.g., outer drop shadow).\nStep 5: Click the Close button to dismiss the task pane and view the applied shadow.",
+"keywords":[
+"shadow effect",
+"Data Series",
+"Format Data Series",
+"Effects icon",
+"Shadow section",
+"Presets drop-down"
+],
+"explanation":"Visual effects make charts look polished for presentations. The steps are listed on page 16 of the PDF.",
+"page_number":"16"
+},
+{
+"id":77,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":130
+},
+"question":"Provide a detailed note on Chart Tools, specifically focusing on the Design tab groups.",
+"answer":"When a chart is selected, the Chart Tools section appears, providing the Chart Design and Format tabs. The Chart Design tab contains several critical groups:\n1. Chart Styles group: Offers predefined visual styles to quickly change the appearance of titles, labels, and legends.\n2. Chart Layouts group: Modifies the structural position and style of various chart components.\n3. Data group: Includes options like 'Switch Row/Column' to transpose axes, and 'Select Data' to edit, add, or remove data sources and legends.\n4. Type group: Contains 'Change Chart Type' to easily convert an existing chart (e.g., Bar) into another format (e.g., Pie).",
+"keywords":[
+"Chart Tools",
+"Chart Design tab",
+"Chart Styles group",
+"Chart Layouts group",
+"Data group",
+"Type group",
+"Change Chart Type"
+],
+"explanation":"The Design tab handles the structural and thematic layout of charts. Discussed across pages 12 and 13 of the PDF.",
+"page_number":"12-13"
+},
+{
+"id":78,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":85,
+"max":125
+},
+"question":"Discuss the process of Formatting Data Series including changing gap width and adding texture.",
+"answer":"Formatting data series alters the appearance of bars or lines. \nTo change Gap Width: Right-click the data series, select 'Format Data Series'. In the task pane, under 'Series Options', move the 'Gap Width' slider to adjust spacing between chart items.\nTo add Texture: In the same task pane, click the 'Fill & Line' icon. Choose 'Picture or Texture fill'. Click the 'Texture' drop-down to apply a specific pattern.\nYou can combine these modifications to thoroughly customize the visual output before closing the task pane.",
+"keywords":[
+"Formatting Data Series",
+"Gap Width",
+"task pane",
+"Series Options",
+"Fill & Line",
+"Texture fill",
+"customize"
+],
+"explanation":"Gap widths and textures control the density and aesthetics of data graphs. Detailed on page 16 of the PDF.",
+"page_number":"16"
+},
+{
+"id":79,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":135
+},
+"question":"Compare and explain the purpose of the following mathematical functions: AVERAGE, INT, ROUND, MOD, and SQRT.",
+"answer":"These functions perform specific mathematical operations in Excel:\n1. AVERAGE(range): Calculates and returns the mathematical mean of all given numbers within a selected cell range.\n2. INT(number): Rounds a decimal number completely down to the nearest integer value.\n3. ROUND(number, num_digit): Rounds a number precisely to a specified number of decimal digits.\n4. MOD(number, divisor): Calculates division but only returns the remainder left after the number is divided by the divisor.\n5. SQRT(number): Returns the mathematical square root of a specific given number.",
+"keywords":[
+"AVERAGE",
+"mean",
+"INT",
+"nearest integer",
+"ROUND",
+"specified digits",
+"MOD",
+"remainder",
+"SQRT",
+"square root"
+],
+"explanation":"Functions save time compared to manual formula writing. These definitions are from Table 1 on pages 3 and 4 of the PDF.",
+"page_number":"3-4"
+},
+{
+"id":80,
+"subject":"Computer Science",
+"chapter":"Advanced Features of Excel 2019-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":135
+},
+"question":"Write a comprehensive summary of how to use Google Sheets, emphasizing its key features, accessibility, and collaboration benefits.",
+"answer":"Google Sheets is a free, cloud-based online spreadsheet application included in Google Docs Editors. Because it is web-based and has mobile/desktop apps, users can access their spreadsheets anytime, anywhere, on Android, iOS, or Chrome OS. Its primary benefit is seamless real-time collaboration, allowing multiple people to work on the same file simultaneously. Furthermore, its strong compatibility with external systems like Microsoft Office ensures that formatting and multiple data sources remain intact and secure, making it an ideal choice for modern businesses and educational institutions.",
+"keywords":[
+"Google Sheets",
+"cloud-based",
+"online spreadsheet",
+"access anywhere",
+"real-time collaboration",
+"compatibility",
+"Microsoft Office",
+"secure"
+],
+"explanation":"Google Sheets is a modern collaborative alternative to Excel. This is thoroughly detailed in the Explore More section on page 22.",
+"page_number":"22"
+}
+]
