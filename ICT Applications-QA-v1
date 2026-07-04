@@ -1,0 +1,1809 @@
+[
+  {
+    "id": 1,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What does the acronym ICT stand for?",
+    "answer": "ICT stands for Information and Communications Technology.",
+    "keywords": [
+      "ICT",
+      "Information",
+      "Communications",
+      "Technology"
+    ],
+    "explanation": "This question tests the basic full form of the core subject matter of the chapter. It is explicitly mentioned in the introduction. This topic is discussed on page 1 of the PDF.",
+    "page_number": "1"
+  },
+  {
+    "id": 2,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Define the term e-learning.",
+    "answer": "Electronic Learning or e-learning is an ICT-based teaching-learning system that delivers content, manages activities, and evaluates students.",
+    "keywords": [
+      "Electronic Learning",
+      "ICT-based",
+      "teaching-learning",
+      "delivers content"
+    ],
+    "explanation": "Tests the student's understanding of the basic definition of e-learning. This topic is discussed on page 1 of the PDF.",
+    "page_number": "1"
+  },
+  {
+    "id": 3,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What does CBT stand for in e-learning?",
+    "answer": "CBT stands for Computer Based Training.",
+    "keywords": [
+      "CBT",
+      "Computer",
+      "Based",
+      "Training"
+    ],
+    "explanation": "Recalling acronyms is a standard 1-mark question. CBT is an essential earlier form of e-learning. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 4,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Which platform is used to complete routine classwork remotely according to the chapter?",
+    "answer": "Spiral is a platform used to complete routine classwork remotely.",
+    "keywords": [
+      "Spiral",
+      "platform",
+      "routine classwork",
+      "remotely"
+    ],
+    "explanation": "Checks specific knowledge of the collaborative tools mentioned in the text. This topic is discussed on page 4 of the PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 5,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Name the programme used for graphical representations of mathematical topics.",
+    "answer": "Geogebra is the programme used for graphical representations of mathematical topics in a web browser.",
+    "keywords": [
+      "Geogebra",
+      "graphical representations",
+      "mathematical topics"
+    ],
+    "explanation": "Tests the retention of the 'Smart Byte' fact regarding math software. This topic is discussed on page 4 of the PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 6,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What are ICT tools?",
+    "answer": "ICT tools are technical tools that make it easier to create, disseminate, store, analyse, and handle information and communication.",
+    "keywords": [
+      "technical tools",
+      "create",
+      "disseminate",
+      "store",
+      "handle information"
+    ],
+    "explanation": "Requires a precise definition of ICT tools as differentiated from software. This topic is discussed on page 5 of the PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 7,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Expand the acronym SMART in the context of smartphones.",
+    "answer": "SMART stands for Self-Monitoring, Analysis and Reporting Technology.",
+    "keywords": [
+      "Self-Monitoring",
+      "Analysis",
+      "Reporting Technology"
+    ],
+    "explanation": "Students must recall the expanded form of SMART from the smartphone section. This topic is discussed on page 5 of the PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 8,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What is the primary use of an e-reader?",
+    "answer": "An e-reader is a mobile electronic device primarily used for reading e-books in a digital format.",
+    "keywords": [
+      "e-reader",
+      "mobile electronic device",
+      "reading e-books",
+      "digital format"
+    ],
+    "explanation": "Tests basic knowledge of specific digital devices and their primary function. This topic is discussed on page 5 of the PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 9,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 20
+    },
+    "question": "Give two examples of everyday devices that use a touch screen.",
+    "answer": "Examples of touch screen devices include a smart board, a microwave, an ATM, or a dishwasher.",
+    "keywords": [
+      "smart board",
+      "microwave",
+      "ATM",
+      "dishwasher"
+    ],
+    "explanation": "Assesses recall of common touch screen examples provided in the textbook. This topic is discussed on page 6 of the PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 10,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What is the full form of VoIP?",
+    "answer": "VoIP stands for Voice Over Internet Protocol.",
+    "keywords": [
+      "Voice",
+      "Over",
+      "Internet",
+      "Protocol"
+    ],
+    "explanation": "Evaluates knowledge of networking and communication acronyms. This topic is discussed on page 9 of the PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 11,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What is the name and purpose of Amazon's new robot mentioned in the text?",
+    "answer": "Amazon's new robot is called Astro, designed to track behaviour and perform surveillance duties in the house.",
+    "keywords": [
+      "Astro",
+      "track behaviour",
+      "surveillance duties"
+    ],
+    "explanation": "Checks attention to 'Activity Byte' details regarding modern AI and robotics. This topic is discussed on page 12 of the PDF.",
+    "page_number": "12"
+  },
+  {
+    "id": 12,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Define the term cybercrime.",
+    "answer": "A cybercrime is defined as any illegal activity done through the Internet.",
+    "keywords": [
+      "cybercrime",
+      "illegal activity",
+      "through the Internet"
+    ],
+    "explanation": "Tests the precise definition of a common cybersecurity term given in the summary. This topic is discussed on page 14 of the PDF.",
+    "page_number": "14"
+  },
+  {
+    "id": 13,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What is E-banking?",
+    "answer": "E-banking is a method of banking in which a customer conducts transactions through the Internet.",
+    "keywords": [
+      "E-banking",
+      "method of banking",
+      "transactions",
+      "through the Internet"
+    ],
+    "explanation": "Assesses knowledge of practical IT applications from the summary points. This topic is discussed on page 14 of the PDF.",
+    "page_number": "14"
+  },
+  {
+    "id": 14,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What does E-commerce refer to?",
+    "answer": "E-commerce refers to the activity of buying or selling products through the Internet.",
+    "keywords": [
+      "E-commerce",
+      "buying or selling",
+      "products",
+      "through the Internet"
+    ],
+    "explanation": "Evaluates understanding of key business terminology related to the Internet. This topic is discussed on page 14 of the PDF.",
+    "page_number": "14"
+  },
+  {
+    "id": 15,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What is the current character limit for a message posted on Twitter?",
+    "answer": "The current character limit for a message or 'tweet' on Twitter is 280 characters.",
+    "keywords": [
+      "character limit",
+      "tweet",
+      "Twitter",
+      "280 characters"
+    ],
+    "explanation": "Tests specific factual information regarding popular social media platforms. This topic is discussed on page 9 of the PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 16,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Define digital citizenship.",
+    "answer": "Digital citizenship comprises the responsible use of technology and netiquettes relating to the online presence of an individual.",
+    "keywords": [
+      "digital citizenship",
+      "responsible use",
+      "technology",
+      "netiquettes",
+      "online presence"
+    ],
+    "explanation": "Requires understanding of a key ethical concept provided in the summary points. This topic is discussed on page 14 of the PDF.",
+    "page_number": "14"
+  },
+  {
+    "id": 17,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Name any three communication technologies that are part of ICT.",
+    "answer": "ICT includes various communication technologies such as the Internet, broadcasting technologies, wireless networks, and smartphones.",
+    "keywords": [
+      "Internet",
+      "broadcasting technologies",
+      "wireless networks",
+      "smartphones"
+    ],
+    "explanation": "Tests the student's ability to identify components that make up Information and Communications Technology. This topic is discussed on page 1 of the PDF.",
+    "page_number": "1"
+  },
+  {
+    "id": 18,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why is the 'lack of socialisation' considered a disadvantage of e-learning?",
+    "answer": "It is a disadvantage because students may feel socially isolated from peers and tutors. Better learning usually takes place in the physical proximity of other learners and teachers.",
+    "keywords": [
+      "socially isolated",
+      "peers and tutors",
+      "physical proximity",
+      "better learning"
+    ],
+    "explanation": "Assesses the understanding of the psychological and social impacts of e-learning. This topic is discussed on page 2 of the PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 19,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How can overdependence on technology negatively impact e-learning?",
+    "answer": "E-learning is a technology-driven activity. Therefore, the unavailability, inadequacy, or failure of technological support is highly detrimental to the success of an e-learning program.",
+    "keywords": [
+      "technology-driven",
+      "unavailability",
+      "inadequacy",
+      "failure",
+      "detrimental"
+    ],
+    "explanation": "Evaluates comprehension of the technological limitations and infrastructure dependencies in digital education. This topic is discussed on page 2 of the PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 20,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why is strong self-discipline essential for a student in an e-learning environment?",
+    "answer": "In an e-learning environment, teachers cannot strictly enforce discipline. It relies entirely on the student to be self-motivated and follow the course rigidly to succeed.",
+    "keywords": [
+      "enforce discipline",
+      "self-motivated",
+      "follow the course rigidly"
+    ],
+    "explanation": "Tests the understanding of intrinsic student requirements for distance learning formats. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 21,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "What is the role of a Learning Management System (LMS)?",
+    "answer": "An LMS is a software system that conducts e-learning. It acts as a management tool that helps manage all the activities of an e-learning system.",
+    "keywords": [
+      "software system",
+      "conducts e-learning",
+      "management tool",
+      "manage activities"
+    ],
+    "explanation": "Checks knowledge of essential enterprise software used in modern educational institutions. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 22,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Briefly describe the EdAPP collaborative learning platform.",
+    "answer": "EdAPP is a simple, device-independent collaborative learning platform used to create online courses. It includes various interactive and active learning strategies.",
+    "keywords": [
+      "device-independent",
+      "create online courses",
+      "interactive",
+      "active learning strategies"
+    ],
+    "explanation": "Evaluates awareness of specific collaborative platforms highlighted in the syllabus. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 23,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What features make Slack a useful platform for office collaboration?",
+    "answer": "Slack is a messaging program designed for adaptable businesses. It allows users to make calls, share files, and connect apps in conversations around specific topics.",
+    "keywords": [
+      "messaging program",
+      "office collaboration",
+      "make calls",
+      "share files",
+      "connect apps"
+    ],
+    "explanation": "Tests understanding of workplace communication tools mentioned in the collaborative learning section. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 24,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Provide two examples of synchronous learning.",
+    "answer": "Examples of synchronous learning include online chat-based conversations, synchronous instructional video conferences, and interactive webinars.",
+    "keywords": [
+      "chat-based conversations",
+      "video conferences",
+      "interactive webinars"
+    ],
+    "explanation": "Assesses the ability to identify real-time learning methods. This topic is discussed on page 4 of the PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 25,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Provide two examples of asynchronous learning.",
+    "answer": "Examples of asynchronous learning include watching recorded lectures, viewing instructional videos, and completing assignments to conduct research.",
+    "keywords": [
+      "recorded lectures",
+      "instructional videos",
+      "assignments",
+      "research"
+    ],
+    "explanation": "Assesses the ability to identify self-paced, non-real-time learning methods. This topic is discussed on page 4 of the PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 26,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "How do smartphones assist students in their educational activities?",
+    "answer": "Smartphones allow students to access educational websites, attend online classes, send emails, create presentations, and interact with students globally at the click of a button.",
+    "keywords": [
+      "educational websites",
+      "attend online classes",
+      "send emails",
+      "interact globally"
+    ],
+    "explanation": "Tests knowledge of the practical applications of common mobile devices in an educational context. This topic is discussed on page 5 of the PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 27,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Define Apps and name two popular online stores to download them.",
+    "answer": "Apps are software programs or a set of applications that perform different functions. Two popular online stores are Google Play Store (for Android) and Apple App Store (for Apple).",
+    "keywords": [
+      "software programs",
+      "perform different functions",
+      "Google Play Store",
+      "Apple App Store"
+    ],
+    "explanation": "Checks foundational knowledge of software applications and their primary distribution platforms. This topic is discussed on page 5 of the PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 28,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "What is a tablet and how does it help students?",
+    "answer": "A tablet is a small device with a touch screen. It helps students understand complex concepts by offering various e-learning modules, making lessons highly interactive.",
+    "keywords": [
+      "small device",
+      "touch screen",
+      "complex concepts",
+      "e-learning modules",
+      "interactive"
+    ],
+    "explanation": "Evaluates understanding of tablet computers as a specialized ICT tool for education. This topic is discussed on page 5 of the PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 29,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How has technology and ICT revolutionised the newspaper industry?",
+    "answer": "Using laser technology, newspapers can now be printed much faster and more efficiently. Additionally, numerous news portals provide news anytime and from any place.",
+    "keywords": [
+      "laser technology",
+      "printed much faster",
+      "efficiently",
+      "news portals"
+    ],
+    "explanation": "Tests the student's ability to connect traditional media evolution with modern ICT capabilities. This topic is discussed on page 6 of the PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 30,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Name two free online file transfer services used to send files larger than 25 MB.",
+    "answer": "Two online services that allow transferring large files are www.wetransfer.com (up to 2 GB) and www.sendspace.com (up to 300 MB).",
+    "keywords": [
+      "wetransfer.com",
+      "sendspace.com",
+      "transferring large files"
+    ],
+    "explanation": "Checks specific technical knowledge regarding bypassing email attachment limits using third-party tools. This topic is discussed on page 6 of the PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 31,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Why is E-mail preferred over traditional postal mail?",
+    "answer": "E-mail is preferred because it is much quicker, cheaper, and more reliable than postal mail. It can be sent to multiple people within seconds.",
+    "keywords": [
+      "quicker",
+      "cheaper",
+      "more reliable",
+      "multiple people",
+      "within seconds"
+    ],
+    "explanation": "Assesses the basic advantages of electronic communication over traditional methods. This topic is discussed on pages 6-7 of the PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 32,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What are cloud services? Give an example.",
+    "answer": "Cloud services are services and solutions delivered and consumed in real time over the Internet. Storing photos online or using webmail are examples of cloud services.",
+    "keywords": [
+      "services and solutions",
+      "delivered and consumed",
+      "real time",
+      "over the Internet",
+      "webmail"
+    ],
+    "explanation": "Evaluates understanding of SaaS/Cloud concepts tailored to a Grade 8 level. This topic is discussed on page 7 of the PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 33,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "How does cloud computing provide a 'cost' advantage to users?",
+    "answer": "Cloud computing ensures cost effectiveness because it eradicates the principal amount needed for buying physical resources like hardware and software.",
+    "keywords": [
+      "cost effectiveness",
+      "eradicates",
+      "principal amount",
+      "buying resources",
+      "hardware and software"
+    ],
+    "explanation": "Tests economic awareness regarding IT infrastructure as explained in the cloud benefits section. This topic is discussed on page 7 of the PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 34,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "How does cloud computing enhance productivity?",
+    "answer": "Cloud computing enhances productivity by removing the requirement of hardware set-up, software patching, and other time-consuming IT-related tasks.",
+    "keywords": [
+      "productivity",
+      "removing requirement",
+      "hardware set-up",
+      "software patching",
+      "time-consuming"
+    ],
+    "explanation": "Checks deep understanding of specific business benefits of adopting cloud computing. This topic is discussed on page 7 of the PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 35,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Define Cloud Storage.",
+    "answer": "Cloud storage is an online space provided to users over a network to create, edit, organise, or share data or information with others.",
+    "keywords": [
+      "online space",
+      "over a network",
+      "create, edit, organise",
+      "share data"
+    ],
+    "explanation": "Tests the definition of a fundamental modern internet utility. This topic is discussed on page 8 of the PDF.",
+    "page_number": "8"
+  },
+  {
+    "id": 36,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What is the main role of a social networking website?",
+    "answer": "A social networking website allows users to create and share content, participate online in social groups, and exchange information and career interests through virtual communities.",
+    "keywords": [
+      "create and share content",
+      "participate online",
+      "social groups",
+      "virtual communities"
+    ],
+    "explanation": "Evaluates comprehension of the purpose and function of social media platforms. This topic is discussed on page 8 of the PDF.",
+    "page_number": "8"
+  },
+  {
+    "id": 37,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "What is a hashtag and how is it used on Twitter?",
+    "answer": "A hashtag uses the symbol (#) placed before a relevant keyword or phrase in a tweet. Users use it to categorise and highlight keywords in their messages.",
+    "keywords": [
+      "hashtag",
+      "symbol (#)",
+      "relevant keyword",
+      "categorise",
+      "highlight"
+    ],
+    "explanation": "Tests familiarity with common social media syntax and its organizational purpose. This topic is discussed on page 9 of the PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 38,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "Define a blog and state how its content is organized.",
+    "answer": "A blog is an online journal or diary on the web where content is presented in reverse chronological order, meaning newer content appears first. The writer is called a blogger.",
+    "keywords": [
+      "online journal",
+      "reverse chronological order",
+      "newer content appear first",
+      "blogger"
+    ],
+    "explanation": "Checks structural understanding of specific web publishing formats. This topic is discussed on pages 9-10 of the PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 39,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What is microblogging? Give an example of a micro-blog platform.",
+    "answer": "Microblogging is an online medium and a specific form of a blog where users post very short comments or micro-posts. Twitter is a famous example of a micro-blog.",
+    "keywords": [
+      "online medium",
+      "specific form of a blog",
+      "very short comments",
+      "micro-posts",
+      "Twitter"
+    ],
+    "explanation": "Tests the distinction between standard blogging and microblogging. This topic is discussed on page 10 of the PDF.",
+    "page_number": "10"
+  },
+  {
+    "id": 40,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "List the key features provided by WhatsApp.",
+    "answer": "WhatsApp allows users to send text and voice messages, make voice and video calls, share images, documents, user locations, and other multimedia content.",
+    "keywords": [
+      "text and voice messages",
+      "voice and video calls",
+      "share images",
+      "documents",
+      "user locations"
+    ],
+    "explanation": "Assesses knowledge of the functionalities of a widely used instant messaging application. This topic is discussed on page 10 of the PDF.",
+    "page_number": "10"
+  },
+  {
+    "id": 41,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Explain the online individualised self-paced mode of e-learning.",
+    "answer": "In the online individualised self-paced mode, a learner is allowed to access learning resources online through the Internet or intranet at their own pace. The learner has the choice to be either stationary or mobile during the session.",
+    "keywords": [
+      "access learning resources",
+      "online through the Internet",
+      "intranet",
+      "own pace",
+      "stationary or mobile"
+    ],
+    "explanation": "Tests comprehension of a specific structural mode of modern digital education. This topic is discussed on page 2 of the PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 42,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "Differentiate between a Virtual Classroom and Computer Based Training (CBT).",
+    "answer": "A Virtual Classroom allows learners to attend a live class from anywhere, providing an experience similar to a traditional real classroom. In contrast, CBT involves using a computer to impart offline or pre-packaged training. Modern e-learning evolved from CBT with the advent of the Internet.",
+    "keywords": [
+      "attend a class from anywhere",
+      "similar to a real classroom",
+      "using computer to impart training",
+      "evolved from CBT"
+    ],
+    "explanation": "Requires students to analyze and separate two distinct e-learning tools based on their descriptions. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 43,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "How do shared whiteboards and Instant Messaging (IM) aid in collaborative e-learning?",
+    "answer": "Shared whiteboards allow participants to brainstorm, share ideas, and manage projects together, and the final product can be saved. Instant Messaging (IM) allows near real-time interaction via text, enabling users to send and receive instructions or important announcements almost instantly.",
+    "keywords": [
+      "brainstorm",
+      "share ideas",
+      "save the product",
+      "near real-time interaction",
+      "important announcements"
+    ],
+    "explanation": "Tests the practical application and utility of specific collaboration tools in a digital setting. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 44,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "How does Makers Empire facilitate STEM learning for students?",
+    "answer": "Makers Empire is a 3D modelling program that teaches students design thinking and problem-solving through 3D design and 3D printing. It has a user-friendly layout optimized for touch screens, and provides a dashboard and readymade lesson plans for teachers.",
+    "keywords": [
+      "3D modelling",
+      "design thinking",
+      "problem-solving",
+      "STEM learning",
+      "3D design and 3D printing"
+    ],
+    "explanation": "Checks specific knowledge regarding an advanced educational software tool mentioned in the text. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 45,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "How do Minecraft and Google's productivity tools promote collaborative learning?",
+    "answer": "Minecraft allows students to work together on projects like creating code, conducting experiments, and solving problems. Google provides Docs, Slides, and Sheets, which can be modified by numerous users simultaneously, thereby directly promoting collaborative learning.",
+    "keywords": [
+      "work together",
+      "creating code",
+      "conducting experiments",
+      "Docs, Slides and Sheets",
+      "modified by numerous users simultaneously"
+    ],
+    "explanation": "Evaluates understanding of how commercial games and office suites are utilized for educational collaboration. This topic is discussed on page 4 of the PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 46,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "Why is a Smart Board preferable to a traditional chalkboard in a classroom?",
+    "answer": "A Smart Board is preferable because images have an enduring effect on a child's mind. It allows teachers to show three-dimensional photographs, videos, and online quizzes, and lessons can be easily saved for future reference.",
+    "keywords": [
+      "enduring effect",
+      "three-dimensional photographs",
+      "videos and online quizzes",
+      "saved for future reference"
+    ],
+    "explanation": "Assesses comprehension of hardware advantages in modern classroom environments. This topic is discussed on page 6 of the PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 47,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Define the Internet and mention its alternative name.",
+    "answer": "The Internet is a global network of many computer networks interconnected by electronic, wireless, and networking technologies. It is sometimes referred to as a 'Network of Networks'.",
+    "keywords": [
+      "global network",
+      "computer networks interconnected",
+      "electronic, wireless",
+      "Network of Networks"
+    ],
+    "explanation": "Tests basic foundational knowledge of the Internet's structure. This topic is discussed on page 6 of the PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 48,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "How is the Internet a useful ICT tool for connecting people and finding information?",
+    "answer": "The Internet connects people globally, giving them a platform to share views, chat, and exchange emails. It incorporates multimedia, graphics, and video to enhance information presentation, aids in online shopping, net banking, and allows exploring the World Wide Web on any subject.",
+    "keywords": [
+      "connect people globally",
+      "platform to share views",
+      "incorporates multimedia",
+      "exploring the World Wide Web"
+    ],
+    "explanation": "Checks broad understanding of the Internet's versatile capabilities as an ICT tool. This topic is discussed on page 6 of the PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 49,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "What are the specific uses of Television and Radio as ICT tools?",
+    "answer": "Radio is used to listen to music, news, songs, interviews, and speeches. Television broadcasts audio-visual programmes that are entertaining and educational, and is used to watch movies, sports, educational networks, and weather forecasts.",
+    "keywords": [
+      "listen to music",
+      "news, songs, interviews",
+      "audio-visual programmes",
+      "movies, sports, educational networks"
+    ],
+    "explanation": "Evaluates knowledge of traditional broadcast media categorized under ICT. This topic is discussed on page 7 of the PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 50,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 60
+    },
+    "question": "Define Cloud Computing and mention what it provides to users.",
+    "answer": "Cloud computing is an internet-based service that provides shared resources, software, and information to computers on demand over a network. It offers online data storage, infrastructure, and applications without requiring users to manage the actual resources.",
+    "keywords": [
+      "internet-based service",
+      "shared resources",
+      "on demand over a network",
+      "online data storage",
+      "without thinking about maintenance"
+    ],
+    "explanation": "Tests fundamental understanding of modern cloud infrastructure. This topic is discussed on page 7 of the PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 51,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "What is Google Drive, and what in-built apps does it include?",
+    "answer": "Google Drive is a cloud storage and synchronisation service that offers 15 gigabytes of free storage. It includes an office suite of in-built apps like Google Docs, Sheets, and Slides, allowing users to edit documents, spreadsheets, and presentations.",
+    "keywords": [
+      "cloud storage and synchronisation",
+      "15 gigabytes",
+      "Google Docs, Sheets and Slides",
+      "edit documents, spreadsheets, presentations"
+    ],
+    "explanation": "Assesses practical knowledge of a widely used cloud storage provider and its integrated tools. This topic is discussed on page 8 of the PDF.",
+    "page_number": "8"
+  },
+  {
+    "id": 52,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 60
+    },
+    "question": "Write the steps required to start and open the Google Drive page.",
+    "answer": "First, log in using a Google email username and password. Next, click on the Google apps icon present on the top right corner. Finally, from the drop-down menu, click on the Drive option to open the My Drive page.",
+    "keywords": [
+      "log in",
+      "Google apps icon",
+      "top right corner",
+      "drop-down menu",
+      "Drive option"
+    ],
+    "explanation": "Tests procedural knowledge of accessing standard web applications. This topic is discussed on page 8 of the PDF.",
+    "page_number": "8"
+  },
+  {
+    "id": 53,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "Write a short note on Facebook as a social networking site.",
+    "answer": "Facebook, founded by Mark Zuckerberg, is a user-friendly platform that provides free registration. It acts as a virtual bulletin board where members can post videos, text, update statuses, share links, join groups, and receive notifications about friends' activities.",
+    "keywords": [
+      "Mark Zuckerberg",
+      "virtual bulletin board",
+      "post videos, text",
+      "update their status",
+      "join common-interest groups"
+    ],
+    "explanation": "Checks general knowledge of the most prominent social networking platform detailed in the book. This topic is discussed on page 9 of the PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 54,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 60
+    },
+    "question": "How is Twitter used to connect people and share thoughts?",
+    "answer": "Twitter is a free social networking service where users post multimedia and text messages called 'tweets'. Its purpose is to connect people and share thoughts with a large audience, using hashtags to categorise and highlight keywords in up to 280-character posts.",
+    "keywords": [
+      "text messages known as tweets",
+      "large audience",
+      "hashtag symbol",
+      "categorise and highlight",
+      "280 characters"
+    ],
+    "explanation": "Evaluates understanding of the mechanics and terminology of microblogging on Twitter. This topic is discussed on page 9 of the PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 55,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Describe Microsoft Teams and mention the free application integrated with it to aid learning.",
+    "answer": "Microsoft Teams is a proprietary business communication platform by Microsoft offering workspace chat, videoconferencing, file storage, and app integration. It keeps schools connected via virtual interactions. It features Microsoft's Immersive Reader, a free application integrated with it alongside Word, OneNote, and Edge.",
+    "keywords": [
+      "proprietary business communication",
+      "workspace chat",
+      "videoconferencing",
+      "virtual face-to-face interactions",
+      "Immersive Reader"
+    ],
+    "explanation": "Tests detailed knowledge of enterprise communication software and its educational integrations. This topic is discussed on page 10 of the PDF.",
+    "page_number": "10"
+  },
+  {
+    "id": 56,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "What type of multimedia applications are available on YouTube?",
+    "answer": "YouTube is a free video sharing website that hosts music videos, short documentary films, audio recordings, live streams, and video blogs. Users can watch, like, share, edit videos, and leave comments on the content.",
+    "keywords": [
+      "video sharing",
+      "music videos",
+      "short documentary films",
+      "live streams",
+      "watched, liked, shared"
+    ],
+    "explanation": "Assesses awareness of the content variety available on the largest video-sharing platform. This topic is discussed on page 10 of the PDF.",
+    "page_number": "10"
+  },
+  {
+    "id": 57,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "What is Skype, and what hardware is required to use its video call features?",
+    "answer": "Skype is a popular VoIP application allowing free instant messaging, voice, and video calls over the Internet. To make video calls, users require a high-speed internet connection, speakers or headphones, a microphone, and a webcam.",
+    "keywords": [
+      "VoIP",
+      "instant messaging",
+      "voice and video calls",
+      "high speed internet",
+      "webcam"
+    ],
+    "explanation": "Checks technical hardware requirements alongside software definitions. This topic is discussed on page 10 of the PDF.",
+    "page_number": "10"
+  },
+  {
+    "id": 58,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "Briefly describe the functionalities of Telegram and Instagram.",
+    "answer": "Telegram is a free, cross-platform instant messaging software offering video calling, VoIP, and file sharing. Instagram is a service for sharing videos and images where users can browse content by hashtags, share posts publicly or privately, and use messaging capabilities.",
+    "keywords": [
+      "cross-platform",
+      "file sharing",
+      "sharing videos and images",
+      "browse by hashtags",
+      "messaging capabilities"
+    ],
+    "explanation": "Evaluates knowledge of contemporary social media application features by comparing two distinct platforms. This topic is discussed on page 11 of the PDF.",
+    "page_number": "11"
+  },
+  {
+    "id": 59,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "How do apps differ based on their operating systems as mentioned in the trending technologies section?",
+    "answer": "Apps are developed specifically for different operating systems. For example, an Android app is developed to execute on gadgets running the Android OS, whereas iPhone apps are exclusively designed to be used on iPhones that utilize iOS.",
+    "keywords": [
+      "different operating systems",
+      "Android app",
+      "Android OS",
+      "iPhone apps",
+      "iOS"
+    ],
+    "explanation": "Tests technical knowledge regarding software compatibility and mobile operating systems. This topic is discussed on page 11 of the PDF.",
+    "page_number": "11"
+  },
+  {
+    "id": 60,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "What is Robotics, and how does Artificial Intelligence (AI) enhance robots?",
+    "answer": "Robotics is a technology branch dealing with designing and constructing human-like machines called robots. AI enhances them by allowing them to navigate, perform complex tasks, make calculated decisions, and learn from their own experiences rather than just doing repetitive tasks.",
+    "keywords": [
+      "designing and constructing",
+      "human-like machines",
+      "AI",
+      "navigate",
+      "calculated decisions"
+    ],
+    "explanation": "Assesses foundational knowledge of robotics and the impact of AI on automation. This topic is discussed on page 11 of the PDF.",
+    "page_number": "11"
+  },
+  {
+    "id": 61,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "In what dangerous situations can AI robots be utilized efficiently?",
+    "answer": "AI robots can be utilized efficiently in situations where human intervention is highly dangerous. This includes natural or man-made disasters, and difficult tasks such as defusing a bomb, mining, exploring the oceans, or going to Mars.",
+    "keywords": [
+      "human intervention is dangerous",
+      "natural or man-made disaster",
+      "defusing a bomb",
+      "exploring the oceans",
+      "going to Mars"
+    ],
+    "explanation": "Checks understanding of the practical and industrial applications of advanced robotics. This topic is discussed on page 11 of the PDF.",
+    "page_number": "11"
+  },
+  {
+    "id": 62,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "What are the capabilities of OneNote as a digital notepad?",
+    "answer": "OneNote is a cloud-based digital notepad that automatically backs up contents. Users can record text notes, audio, rapid sketches, images, and movies. Because it stores data in the cloud, it allows real-time collaboration and seamless transitioning between different devices to continue work.",
+    "keywords": [
+      "cloud-based digital notepad",
+      "backs up contents",
+      "record text notes, audio, rapid sketches",
+      "transition between devices",
+      "stored in the cloud"
+    ],
+    "explanation": "Tests detailed software knowledge of a specific productivity and note-taking tool. This topic is discussed on page 12 of the PDF.",
+    "page_number": "12"
+  },
+  {
+    "id": 63,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "Define Cyber ethics and Computing Ethics.",
+    "answer": "Cyber ethics teaches people how to behave responsibly online to reduce computer crime and make the Internet safer. Computing Ethics specifically refers to the set of procedures, moral principles, and ethical practices that regulate the use of a computer.",
+    "keywords": [
+      "behave responsibly online",
+      "reduce computer crime",
+      "Computing Ethics",
+      "moral principles",
+      "regulate the use of a computer"
+    ],
+    "explanation": "Requires distinguishing between general online behaviour ethics and specific hardware/computing ethical principles. This topic is discussed on page 12 of the PDF.",
+    "page_number": "12"
+  },
+  {
+    "id": 64,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Explain the importance of strong passwords, a firewall, and data backup for cybersecurity.",
+    "answer": "Strong, unique passwords guarantee systems are accessed only by authorized users. A firewall is a software program that protects the computer from unauthorized network access. Backup ensures that duplicate copies of data are made, allowing recovery if the original data is lost or corrupted.",
+    "keywords": [
+      "authorized users",
+      "firewall",
+      "unauthorized access",
+      "backup",
+      "duplicate copies",
+      "recover it if it is lost"
+    ],
+    "explanation": "Evaluates comprehensive understanding of three foundational cybersecurity mechanisms. This topic is discussed on pages 12-13 of the PDF.",
+    "page_number": "12"
+  },
+  {
+    "id": 65,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 60,
+      "max": 100
+    },
+    "question": "Discuss any five advantages of e-learning.",
+    "answer": "Five advantages of e-learning are: \n1. Flexibility: Learning sessions can be attended anytime, being available 24x7.\n2. Accessibility: Lessons can be accessed from anywhere globally with an active Internet connection.\n3. Own pace of study: Participants can adjust their study pace to balance other obligations.\n4. Material reuse: Prepared study materials can be repeatedly used, saving time and effort.\n5. Reduced cost: It saves overhead costs like transportation and lodging, making courses less expensive.",
+    "keywords": [
+      "Flexibility",
+      "Accessibility",
+      "Own pace of study",
+      "Material reuse",
+      "Reduced cost"
+    ],
+    "explanation": "A classic 5-mark question demanding students to list and briefly explain multiple points from a specific sub-topic. This topic is discussed on page 2 of the PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 66,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 120
+    },
+    "question": "Elaborate on the four disadvantages of e-learning mentioned in the text.",
+    "answer": "The four disadvantages are:\n1. Lack of socialisation: Students may feel isolated; physical proximity often aids better learning.\n2. Overdependence on technology: Unavailability or failure of technological support can halt the learning process.\n3. Basic computer skills: Students need foundational IT training to use modern ICT and computers properly before beginning.\n4. Strong self-discipline: Without physical enforcement, students must be highly self-motivated to strictly follow the course rigidly.",
+    "keywords": [
+      "Lack of socialisation",
+      "Overdependence on technology",
+      "Basic computer skills",
+      "Strong self-discipline"
+    ],
+    "explanation": "Tests comprehensive recall of the negative aspects and challenges of distance education formats. This topic is discussed on pages 2-3 of the PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 67,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 120
+    },
+    "question": "Describe the four different modes in which e-learning sessions can be conducted.",
+    "answer": "The four modes are:\n1. On-Demand e-learning: Content repositories are maintained and available whenever the learner demands them.\n2. Online individualised self-paced: Learners access resources online at their own pace, being either stationary or mobile.\n3. Offline individualised self-paced: Uses offline computer-based packages like CD/DVDs, requiring no active Internet.\n4. Blended e-learning: Combines face-to-face classroom teaching with technological support for content delivery and aids.",
+    "keywords": [
+      "On-Demand",
+      "Online individualised self-paced",
+      "Offline individualised self-paced",
+      "Blended e-learning"
+    ],
+    "explanation": "Requires clear categorization and explanation of technical learning methodologies. This topic is discussed on page 2 of the PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 68,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 60,
+      "max": 110
+    },
+    "question": "Differentiate clearly between Synchronous and Asynchronous Learning, providing examples for both.",
+    "answer": "Synchronous learning happens when teachers and students come together at the same time and location, networking in 'real-time'. Examples include chat-based conversations, live video conferences, and interactive webinars streamed simultaneously.\nAsynchronous learning occurs when students interact and access resources at their own pace over a longer period, not in real-time. Examples include watching recorded lectures, viewing instructional videos, and completing research assignments.",
+    "keywords": [
+      "same time and location",
+      "real-time",
+      "live video conferences",
+      "own pace over a longer period",
+      "recorded lectures"
+    ],
+    "explanation": "A critical conceptual difference in digital education models, demanding definitions and examples for maximum marks. This topic is discussed on page 4 of the PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 69,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 60,
+      "max": 110
+    },
+    "question": "Enlist and explain the five benefits of cloud computing.",
+    "answer": "The five benefits are:\n1. Cost: It is cost-effective as it eradicates the principal cost of buying hardware and software.\n2. Speed: Resources offer on-demand self-service accessible in seconds.\n3. Global scale: Services can be accessed flexibly from anywhere.\n4. Productivity: It removes time-consuming IT tasks like hardware setup and software patching.\n5. Reliability: It provides inexpensive data backup and recovery options by emulating data across multiple network places.",
+    "keywords": [
+      "Cost",
+      "Speed",
+      "Global scale",
+      "Productivity",
+      "Reliability"
+    ],
+    "explanation": "Tests the student's ability to recall and concisely define multiple systemic advantages of cloud infrastructure. This topic is discussed on page 7 of the PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 70,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 65,
+      "max": 110
+    },
+    "question": "Describe the main features of Social Media that make it an interactive platform.",
+    "answer": "Key features include:\n1. It allows easy and fast connection with friends through a simple interface.\n2. The backbone of social media relies on user-generated data like text posts, digital photographs, and videos.\n3. It allows registered users to create personal profiles and maintain a list of contacts.\n4. It serves as a tool for free business promotions.\n5. It aids network development by connecting a user's profile with individuals or specific groups.",
+    "keywords": [
+      "fast connection",
+      "user-generated data",
+      "create their profiles",
+      "free business promotions",
+      "development of a network"
+    ],
+    "explanation": "A direct reproduction of the bulleted list detailing social media's structural features. This topic is discussed on page 9 of the PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 71,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 120
+    },
+    "question": "Discuss the relationship between 5G Growth and IoT, and their combined impact on the healthcare industry.",
+    "answer": "The deployment of 5G networks is heavily driving IoT growth, allowing devices to connect and communicate much more effectively. However, this growth introduces new cybersecurity issues. In healthcare, this combination is revolutionary. Wearable technology monitors health and fitness. Furthermore, IoT and AI are used to examine patients' blood samples, genetic data, identify diagnoses, and develop medications, showcasing massive benefits for lifestyle and healthcare businesses.",
+    "keywords": [
+      "5G networks",
+      "communicate more effectively",
+      "cybersecurity issues",
+      "Wearable technology",
+      "examine patients' requirements",
+      "identify diagnosis"
+    ],
+    "explanation": "Evaluates synthesis of information regarding cutting-edge technologies and their specific industrial applications. This topic is discussed on page 12 of the PDF.",
+    "page_number": "12"
+  },
+  {
+    "id": 72,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 65,
+      "max": 100
+    },
+    "question": "Provide five essential tips for internet users to maintain cybersecurity.",
+    "answer": "Five essential cybersecurity tips are:\n1. Create strong, unique passwords to guarantee authorized access.\n2. Do not open links or email attachments from unknown sources to avoid malware.\n3. Update your software and operating systems regularly.\n4. Install a firewall program to protect against unauthorized computer access.\n5. Back up your data to ensure you can recover information if it is lost or corrupted.",
+    "keywords": [
+      "strong, unique passwords",
+      "unknown sources",
+      "Update your software",
+      "firewall",
+      "Backing up your data"
+    ],
+    "explanation": "Tests practical knowledge of digital safety practices which is a core outcome of the cybersecurity curriculum. This topic is discussed on pages 12-13 of the PDF.",
+    "page_number": "12"
+  },
+  {
+    "id": 73,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 75,
+      "max": 120
+    },
+    "question": "Explain the following terms regarding cybersecurity: Encrypting, Cookie, Social engineering, and Email attachments.",
+    "answer": "1. Encrypting: Scrambling data to protect it from unauthorized access during anonymous file transfers. (Decrypting restores it).\n2. Cookie: A text message/file saved by a web browser containing user-specific data to prepare customised web pages.\n3. Social engineering: A cyber attack depending on human interaction to trick individuals into revealing sensitive information or downloading malware.\n4. Email attachments: Files sent via email that serve as a very common pathway for cyber security attacks and malware to occur.",
+    "keywords": [
+      "Encrypting",
+      "Cookie",
+      "user-specific data",
+      "Social engineering",
+      "human interaction",
+      "Email attachments"
+    ],
+    "explanation": "Requires precise definitions of four distinct technological terms related to cyber threats and data tracking. This topic is discussed on page 13 of the PDF.",
+    "page_number": "13"
+  },
+  {
+    "id": 74,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 130
+    },
+    "question": "Why is there an urgent need for cooperation between governments and businesses in managing cybersecurity today?",
+    "answer": "Cybersecurity threats have rapidly increased, outpacing society's ability to respond. Cooperation is urgently needed to align global cyber regulations to safeguard data and privacy. Many smaller businesses lack the technical or financial resources to survive attacks. Cyber attacks increasingly target critical infrastructure and healthcare. Failing to implement good governance and reinforced protocols makes networked systems less resilient, impacting dependent organizations, communities, and overall government stability.",
+    "keywords": [
+      "outpacing societies' ability",
+      "align global cyber regulations",
+      "safeguard data",
+      "critical infrastructure",
+      "good governance",
+      "less resilient"
+    ],
+    "explanation": "Evaluates higher-order understanding of the global socio-economic implications of cyber threats. This topic is discussed on page 13 of the PDF.",
+    "page_number": "13"
+  },
+  {
+    "id": 75,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "What is Cyber Hygiene and why is Cyber Security training important?",
+    "answer": "Cyber Hygiene is the practice of keeping computers and devices clean and free of malware. This includes installing updates as soon as they are available and using reputable security software like Malwarebytes. Cyber Security training is crucial for both individuals and businesses because it helps protect sensitive data from increasing cyber threats.",
+    "keywords": [
+      "Cyber Hygiene",
+      "clean and free of malware",
+      "installing updates",
+      "reputable security software",
+      "protect your data"
+    ],
+    "explanation": "Assesses knowledge of routine digital maintenance and its overarching importance for data protection. This topic is discussed on page 13 of the PDF.",
+    "page_number": "13"
+  },
+  {
+    "id": 76,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 120
+    },
+    "question": "Describe the features of a disabled-accessible workplace and briefly outline the contribution of Nicholas Vujicic as mentioned in the text.",
+    "answer": "An accessible workplace features physical accommodations like wheelchair ramps, braille signage, and handicapped restrooms, along with digital features ensuring universal access to ICT. Nicholas Vujicic, founder of Life without Limbs, inspires millions. He created an innovative Social Emotional Learning (SEL) Curriculum named 'Attitude Is Altitude'. Through this, he teaches students to make positive changes in their lives and communities.",
+    "keywords": [
+      "wheelchair ramps",
+      "braille signage",
+      "universal access",
+      "Nicholas Vujicic",
+      "Life without Limbs",
+      "Attitude Is Altitude"
+    ],
+    "explanation": "Tests knowledge from the 'Value Byte' section, linking digital accessibility with ethical values and inspirational figures. This topic is discussed on page 15 of the PDF.",
+    "page_number": "15"
+  },
+  {
+    "id": 77,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 65,
+      "max": 110
+    },
+    "question": "Explain the concept of Green IoT and the two categories of solutions for green cloud computing.",
+    "answer": "Green IoT refers to reducing the energy consumption of IoT devices to achieve a sustainable environment. The two main categories of solutions for green cloud computing are hardware and software that reduce energy consumption. Hardware solutions specifically endeavour to design and manufacture devices that consume less energy without losing their performance quality.",
+    "keywords": [
+      "Green IoT",
+      "reducing energy consumption",
+      "sustainable environment",
+      "hardware and software",
+      "without losing quality"
+    ],
+    "explanation": "Evaluates understanding of advanced environmental sustainability concepts applied to digital technology. This topic is discussed on page 17 of the PDF.",
+    "page_number": "17"
+  },
+  {
+    "id": 78,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 75,
+      "max": 125
+    },
+    "question": "Briefly describe the software technologies Nearpod, Dart, and Flutter as highlighted in the Web Byte section.",
+    "answer": "Nearpod is a smartphone software enabling instructors to create and distribute interactive multimedia presentations. Dart is a client-optimized programming language developed by Google for fast web and mobile app development, also used for server and desktop applications. Flutter is an open-source framework by Google used for building natively compiled, multi-platform, beautiful applications from a single codebase.",
+    "keywords": [
+      "Nearpod",
+      "interactive multimedia",
+      "Dart",
+      "client-optimized",
+      "Flutter",
+      "natively compiled",
+      "single codebase"
+    ],
+    "explanation": "Checks specific knowledge regarding the modern software development tools and educational apps provided in the chapter's margins. This topic is discussed on page 16 of the PDF.",
+    "page_number": "16"
+  },
+  {
+    "id": 79,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 75,
+      "max": 120
+    },
+    "question": "Summarise the functionalities of the collaborative learning tools: EdAPP, Slack, and Makers Empire.",
+    "answer": "EdAPP is a simple, device-independent platform to create online courses using interactive and active learning strategies. Slack is a messaging program for office collaboration allowing users to make calls, share files, and integrate apps. Makers Empire is a 3D modelling program teaching STEM, design thinking, and problem-solving through 3D printing, offering a user-friendly layout and instructor dashboards.",
+    "keywords": [
+      "EdAPP",
+      "create online courses",
+      "Slack",
+      "messaging program",
+      "Makers Empire",
+      "3D modelling",
+      "STEM learning"
+    ],
+    "explanation": "Requires combining knowledge of three distinct collaborative tools to form a comprehensive answer. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 80,
+    "subject": "Computer Science",
+    "chapter": "ICT Applications-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 120
+    },
+    "question": "Provide a complete overview of Google Drive, including its storage capacity, integrated apps, and auto-save feature.",
+    "answer": "Google Drive is a cloud storage and synchronisation service by Google offering 15 GB of free storage for files across devices. It includes an in-built office suite: Google Docs (word processing), Sheets (spreadsheets), and Slides (presentations). Users can create, edit, and share files online. Any file created or edited through this suite online gets automatically saved under the 'My Drive' folder.",
+    "keywords": [
+      "cloud storage",
+      "15 GB",
+      "office suite",
+      "Docs, Sheets and Slides",
+      "automatically saved",
+      "My Drive folder"
+    ],
+    "explanation": "Tests the student's holistic understanding of a ubiquitous cloud tool based on details from the text. This topic is discussed on page 8 of the PDF.",
+    "page_number": "8"
+  }
+]
