@@ -1,0 +1,1839 @@
+[
+  {
+    "id": 1,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is the definition of natural resources according to the text?",
+    "answer": "Natural resources are materials and substances occurring in nature that have utility or value and satisfy human needs.",
+    "keywords": [
+      "materials",
+      "nature",
+      "utility",
+      "value",
+      "human needs"
+    ],
+    "explanation": "The text defines natural resources as elements of nature that become resources when humans use them for sustenance or to create new things. This definition sets the foundational understanding of the chapter. Discussed on page 2 of the main text.",
+    "page_number": "2"
+  },
+  {
+    "id": 2,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Name the three criteria a natural entity must meet to be considered a resource.",
+    "answer": "A natural entity must be technologically accessible, economically feasible, and culturally acceptable to be considered a resource.",
+    "keywords": [
+      "technologically accessible",
+      "economically feasible",
+      "culturally acceptable"
+    ],
+    "explanation": "For any element of nature to be utilized as a resource, humans must have the technology to extract it, the cost must be reasonable, and it must not violate cultural beliefs. Discussed on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 3,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Give one example from the text of a natural entity that might not be culturally acceptable to exploit.",
+    "answer": "Cutting down trees in sacred groves is an example of a resource extraction that is culturally unacceptable.",
+    "keywords": [
+      "cutting trees",
+      "sacred groves",
+      "culturally unacceptable"
+    ],
+    "explanation": "Sacred groves hold religious and cultural significance for communities, making the extraction of timber from them culturally unacceptable, thus restricting them from being merely exploited as resources. Discussed on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 4,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "How are natural resources categorized based on their uses?",
+    "answer": "Based on use, natural resources are categorized into resources essential for life, resources for materials, and resources for energy.",
+    "keywords": [
+      "essential for life",
+      "materials",
+      "energy"
+    ],
+    "explanation": "Categorization helps in better understanding and managing resources. The text broadly divides them based on how humans utilize them in daily life. Discussed on page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 5,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 15
+    },
+    "question": "Give two examples of natural resources that are essential for life.",
+    "answer": "Air to breathe and water to drink are two primary natural resources essential for life.",
+    "keywords": [
+      "air",
+      "water"
+    ],
+    "explanation": "These are foundational elements for survival on Earth. Humans take these directly from the atmosphere and water bodies for sustenance. Discussed on page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 6,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "What is the main difference between renewable and non-renewable resources?",
+    "answer": "Renewable resources replenish naturally over a short period, whereas non-renewable resources form over millions of years and cannot be replenished quickly.",
+    "keywords": [
+      "replenish naturally",
+      "short period",
+      "millions of years",
+      "cannot replenish quickly"
+    ],
+    "explanation": "The pace of regeneration differentiates the two. While solar energy and forests can renew, coal and petroleum are finite on a human timescale. Discussed on pages 5 and 8.",
+    "page_number": "5"
+  },
+  {
+    "id": 7,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 15
+    },
+    "question": "Give two examples of non-renewable resources.",
+    "answer": "Coal and petroleum are two primary examples of non-renewable resources.",
+    "keywords": [
+      "coal",
+      "petroleum"
+    ],
+    "explanation": "These fossil fuels take millions of years to form and are consumed much faster than they are created, making them non-renewable. Discussed on page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 8,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "What does the term 'lokasangraha' mean in the context of resource use?",
+    "answer": "Lokasangraha encourages individuals to transcend personal desires and act for the overall wellbeing of all, promoting sustainable resource sharing.",
+    "keywords": [
+      "transcend personal desires",
+      "act",
+      "wellbeing of all"
+    ],
+    "explanation": "Derived from the Bhagavad Gita, this concept is applied to environmental stewardship, urging humans to manage resources responsibly for the benefit of society. Discussed on page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 9,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Which traditional practice was used by communities to regulate the fishing population?",
+    "answer": "Communities traditionally refrained from fishing during the spawning season to allow fish populations to maintain themselves.",
+    "keywords": [
+      "refrained from fishing",
+      "spawning season",
+      "maintain populations"
+    ],
+    "explanation": "This practice is a form of traditional ecosystem management, ensuring that aquatic life has the time to reproduce and restore its numbers. Discussed on page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 10,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 15
+    },
+    "question": "What is the full form of IASE mentioned in the text?",
+    "answer": "IASE stands for the International Alliance for Solar Energy.",
+    "keywords": [
+      "International Alliance",
+      "Solar Energy"
+    ],
+    "explanation": "This alliance was launched by India and France in 2015 to harness solar power and shift towards renewable energy alternatives globally. Discussed on page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 11,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 15
+    },
+    "question": "Name the two Indian states highlighted as case studies for groundwater depletion and organic farming.",
+    "answer": "Punjab is highlighted for groundwater depletion, and Sikkim is highlighted for organic farming.",
+    "keywords": [
+      "Punjab",
+      "groundwater depletion",
+      "Sikkim",
+      "organic farming"
+    ],
+    "explanation": "The chapter uses these specific states to demonstrate the negative impacts of overexploitation and the positive impacts of sustainable stewardship. Discussed on pages 13 and 16.",
+    "page_number": "13, 16"
+  },
+  {
+    "id": 12,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 15
+    },
+    "question": "What percentage of Punjab is classified as 'overexploited' regarding groundwater?",
+    "answer": "Almost 80% of the area of Punjab is classified as 'overexploited' regarding groundwater.",
+    "keywords": [
+      "80%",
+      "area of Punjab",
+      "overexploited"
+    ],
+    "explanation": "This extreme statistic highlights the severe deficit caused by pumping water faster than the natural recharge rate. Discussed on page 14.",
+    "page_number": "14"
+  },
+  {
+    "id": 13,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "What is 'Vrikshayurveda'?",
+    "answer": "Vrikshayurveda is an ancient Indian botanical science focused on the study and sustainable care of plants and trees.",
+    "keywords": [
+      "ancient Indian botanical science",
+      "study",
+      "care of plants",
+      "trees"
+    ],
+    "explanation": "Dating back millennia, this traditional knowledge system offers extensive recommendations on soil-friendly farming, irrigation, and natural pest control. Discussed on page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 14,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "What is meant by the term 'natural resource curse'?",
+    "answer": "It is a phenomenon where regions abundant in natural resources experience slower economic growth and development due to overreliance and lack of industrial diversification.",
+    "keywords": [
+      "abundant in natural resources",
+      "slower economic growth",
+      "lack of diversification"
+    ],
+    "explanation": "Also known as the 'paradox of plenty', it shows that mere availability of resources doesn't guarantee prosperity without good governance and value-adding industries. Discussed on page 11.",
+    "page_number": "11"
+  },
+  {
+    "id": 15,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 15
+    },
+    "question": "In which year did Sikkim become a 100 percent organic state?",
+    "answer": "Sikkim became a 100 percent organic state with certified farmland in the year 2016.",
+    "keywords": [
+      "Sikkim",
+      "100 percent organic",
+      "2016"
+    ],
+    "explanation": "Sikkim successfully transitioned entirely to sustainable organic farming practices, setting a global model for ecological and economic improvement. Discussed on page 17.",
+    "page_number": "17"
+  },
+  {
+    "id": 16,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "What does the term 'arghyam' mean as described in the text?",
+    "answer": "Arghyam is an offering, generally of water, made as a mark of respect or gratitude to nature, such as to the sun-god.",
+    "keywords": [
+      "offering",
+      "water",
+      "respect",
+      "gratitude"
+    ],
+    "explanation": "This highlights the indigenous Indian tradition of treating nature as sacred and expressing gratitude for natural resources. Discussed on page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 17,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "When does a part of nature become a 'resource'? Give one example.",
+    "answer": "Nature becomes a resource when humans use its elements for sustenance or to create new objects. For example, a naturally growing tree becomes a resource when humans cut it to make wooden furniture.",
+    "keywords": [
+      "sustenance",
+      "create new objects",
+      "tree",
+      "wooden furniture"
+    ],
+    "explanation": "Resources are defined by human utility. Elements exist independently in the environment but are categorized as resources once tapped for human needs. Discussed on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 18,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Why is petroleum found deep under the ocean sometimes not considered a usable resource?",
+    "answer": "Petroleum deep underwater might not be considered a resource if we lack the technological accessibility to extract it, or if the extraction cost makes it economically unfeasible.",
+    "keywords": [
+      "technological accessibility",
+      "extraction cost",
+      "economically unfeasible"
+    ],
+    "explanation": "To qualify as a resource, an element must fulfill three criteria: it must be technologically accessible, economically feasible, and culturally acceptable. Discussed on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 19,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Briefly explain 'resources for materials' with an example.",
+    "answer": "Resources for materials are nature's gifts that humans transform into physical objects for utility or beauty. For example, wood can be transformed into a chair or carved into a beautiful statuette.",
+    "keywords": [
+      "transform",
+      "physical objects",
+      "utility",
+      "beauty",
+      "wood",
+      "chair"
+    ],
+    "explanation": "Humans use raw natural elements from India's diverse geography, such as marble or wood, to construct items necessary for daily living and art. Discussed on page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 20,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Briefly explain 'resources for energy' providing examples.",
+    "answer": "Resources for energy are sources used to power modern living, including electricity for buildings, transportation, and industries. Key examples include coal, petroleum, natural gas, sunlight, and wind.",
+    "keywords": [
+      "power modern living",
+      "electricity",
+      "transportation",
+      "coal",
+      "petroleum",
+      "sunlight"
+    ],
+    "explanation": "Energy resources are the cornerstone of industrial and domestic activities, sourced from both renewable and non-renewable forms of nature. Discussed on page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 21,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "What is meant by 'restoration' in nature? Give one example.",
+    "answer": "Restoration is nature's process of returning a degraded or damaged system back to its original healthy state. For example, a forest naturally recovering and growing back after a wildfire.",
+    "keywords": [
+      "returning",
+      "degraded",
+      "original healthy state",
+      "forest recovering",
+      "wildfire"
+    ],
+    "explanation": "Nature has an inherent healing mechanism. Restoration is part of nature's restorative and regenerative principles that ensure long-term sustainability if undisturbed. Discussed on page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 22,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "What is the difference between ecosystem functions and ecosystem services?",
+    "answer": "Ecosystem functions are nature's inherent processes, like trees naturally producing oxygen or filtering water. When humans benefit from these natural processes, they are termed ecosystem services.",
+    "keywords": [
+      "inherent processes",
+      "producing oxygen",
+      "humans benefit",
+      "ecosystem services"
+    ],
+    "explanation": "The function is the biological or physical action itself, while the service is the resulting value or utility that human societies extract from that function. Discussed on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 23,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "How does untreated industrial waste affect the natural cycle of regeneration in rivers?",
+    "answer": "Untreated industrial waste cannot decay into food for lifeforms. It poisons the water, disrupts nature's cycle of restoration, and leads to dead rivers unable to support aquatic life.",
+    "keywords": [
+      "cannot decay",
+      "poisons water",
+      "disrupts cycle",
+      "unable to support life"
+    ],
+    "explanation": "Nature works in cycles with no waste, but synthetic industrial pollutants break this cycle as they cannot be naturally decomposed, leading to severe ecological damage. Discussed on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 24,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "How has India generally managed to avoid the 'natural resource curse'?",
+    "answer": "India avoided the natural resource curse by investing in technology, skills, and value-adding industries that convert raw resources into products of higher value, ensuring economic growth.",
+    "keywords": [
+      "investing in technology",
+      "skills",
+      "value-adding industries",
+      "products of higher value"
+    ],
+    "explanation": "Rather than just exporting raw materials, India built industrial capacity to utilize resources like coal and iron effectively, averting the paradox of plenty. Discussed on page 11.",
+    "page_number": "11"
+  },
+  {
+    "id": 25,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Why did commercial fishing lead to a decline in the tuna fish population?",
+    "answer": "Commercialization resulted in over-fishing and ignoring traditional regulations like refraining from fishing during spawning seasons, which severely disrupted the natural regeneration cycle of tuna.",
+    "keywords": [
+      "commercialization",
+      "over-fishing",
+      "ignoring traditional regulations",
+      "spawning seasons",
+      "disrupted regeneration"
+    ],
+    "explanation": "Tuna helps balance the ocean ecosystem. Profit-driven rapid extraction outpaced the fish's biological capacity to replenish, leading to severe population declines. Discussed on page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 26,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Mention two ways the uneven distribution of natural resources affects humans.",
+    "answer": "Uneven distribution of natural resources dictates the patterns of human settlements and heavily influences national and international trade relations.",
+    "keywords": [
+      "human settlements",
+      "national and international trade relations"
+    ],
+    "explanation": "Populations tend to cluster around fertile lands or mineral deposits. Furthermore, countries must trade to acquire resources they lack, shaping global economies. Discussed on page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 27,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Provide an example from the text showing how natural resources do not pay attention to political boundaries.",
+    "answer": "The Kaveri River flows across Karnataka, Tamil Nadu, Kerala, and Puducherry. Since the river ignores state borders, sharing its water requires complex negotiations and management to maintain peace.",
+    "keywords": [
+      "Kaveri River",
+      "Karnataka",
+      "Tamil Nadu",
+      "ignores state borders",
+      "negotiations"
+    ],
+    "explanation": "Geological and ecological formations span across human-made political lines, frequently leading to resource-sharing tensions between states or countries. Discussed on page 10.",
+    "page_number": "10"
+  },
+  {
+    "id": 28,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Why are coal reserves in India a concern despite being available in significant quantities?",
+    "answer": "Despite significant reserves, India's growing population and development accelerate electricity demand. It is estimated that current coal reserves may last only another 50 years, requiring judicious use.",
+    "keywords": [
+      "growing population",
+      "electricity demand",
+      "last another 50 years",
+      "judicious use"
+    ],
+    "explanation": "Coal is non-renewable. The rapid pace of modern consumption vastly exceeds the millions of years it takes to form, making depletion an imminent threat. Discussed on page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 29,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "State two negative consequences for local populations when industries are set up near natural resources.",
+    "answer": "Industries can cause local populations to be displaced from their homes, and their cultural or sacred places may come under threat due to industrial developments.",
+    "keywords": [
+      "displaced from homes",
+      "cultural or sacred places",
+      "under threat"
+    ],
+    "explanation": "While industries provide employment and infrastructure, they also demand land and cause environmental disruption, often negatively impacting indigenous or local communities. Discussed on pages 9-10.",
+    "page_number": "9, 10"
+  },
+  {
+    "id": 30,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "How does excessive pumping of groundwater affect the water table?",
+    "answer": "Excessive pumping draws out groundwater at a rate greater than natural replenishment by rain, leading to a severe deficit, lowering of the water table, and making extraction deeper and more expensive.",
+    "keywords": [
+      "greater than natural replenishment",
+      "severe deficit",
+      "lowering of water table",
+      "more expensive"
+    ],
+    "explanation": "Groundwater recharge is a slow process. Overexploitation disrupts this balance, threatening the long-term water security of agricultural states and cities. Discussed on page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 31,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "How does the cement industry cause soil and water pollution?",
+    "answer": "The cement production process releases massive amounts of fine dust. This dust settles on plants, decreases agricultural yields, and eventually washes into soil and nearby water bodies, causing severe pollution.",
+    "keywords": [
+      "fine dust",
+      "settles on plants",
+      "decreases yields",
+      "washes into soil",
+      "pollution"
+    ],
+    "explanation": "Listed as one of the most polluting industries, cement manufacturing releases particulate matter that severely degrades local land and aquatic ecosystems. Discussed on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 32,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Mention two traditional agricultural practices that enable holistic soil management.",
+    "answer": "Using natural fertilizers like cow dung and practicing multi-cropping are two traditional agricultural methods that maintain and enable holistic soil management.",
+    "keywords": [
+      "natural fertilizers",
+      "cow dung",
+      "multi-cropping",
+      "holistic soil management"
+    ],
+    "explanation": "Unlike chemical inputs that degrade the earth over time, these traditional practices treat soil as a living ecosystem that needs to be naturally nurtured. Discussed on page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 33,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "What crops did farmers in Punjab shift to during the Green Revolution?",
+    "answer": "During the Green Revolution in the 1960s, farmers in Punjab shifted to growing high-yielding varieties of wheat and paddy.",
+    "keywords": [
+      "Green Revolution",
+      "high-yielding varieties",
+      "wheat",
+      "paddy"
+    ],
+    "explanation": "These new varieties required significantly more water and chemical inputs than traditional seeds, triggering a massive shift in local farming practices. Discussed on page 13.",
+    "page_number": "13"
+  },
+  {
+    "id": 34,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Why did the groundwater level in Punjab become inaccessible till depths of about 30 metres?",
+    "answer": "The shift to water-intensive wheat and paddy, combined with the supply of free electricity, led to massive over-pumping of groundwater faster than it could be naturally replenished.",
+    "keywords": [
+      "water-intensive",
+      "free electricity",
+      "over-pumping",
+      "faster than replenished"
+    ],
+    "explanation": "This is a classic case of resource overexploitation, where short-term economic incentives (free power, high yields) resulted in long-term ecological damage. Discussed on page 13.",
+    "page_number": "13"
+  },
+  {
+    "id": 35,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Mention two natural pest repellents used by Pema's family in Sikkim during their transition to organic farming.",
+    "answer": "Pema's family prepared and used natural pest repellents made from neem and garlic to protect their crops without chemical inputs.",
+    "keywords": [
+      "natural pest repellents",
+      "neem",
+      "garlic"
+    ],
+    "explanation": "As part of organic farming, traditional and natural botanical solutions replace synthetic pesticides, thereby preserving soil and environmental health. Discussed on page 17.",
+    "page_number": "17"
+  },
+  {
+    "id": 36,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What was the transformational economic effect of organic farming on Sikkim's farmers?",
+    "answer": "By transitioning to organic farming, farmers in Sikkim were able to sell traditional crops at premium prices, and their incomes grew by 20 percent on average.",
+    "keywords": [
+      "premium prices",
+      "incomes grew",
+      "20 percent"
+    ],
+    "explanation": "Organic produce carries a higher market value. Furthermore, the ecological restoration brought beneficial insects back and increased tourism, boosting the local economy. Discussed on page 17.",
+    "page_number": "17"
+  },
+  {
+    "id": 37,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "What is the primary focus of the International Solar Alliance (ISA)?",
+    "answer": "The primary focus of the ISA is to harness solar power in sunshine-rich countries by sharing technical expertise and creating affordable financing for solar projects.",
+    "keywords": [
+      "harness solar power",
+      "sunshine-rich countries",
+      "sharing technical expertise",
+      "affordable financing"
+    ],
+    "explanation": "Launched by India and France, the alliance is a global effort to transition away from traditional fossil fuels towards sustainable, renewable solar energy. Discussed on page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 38,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "How does air pollution from fossil fuels disproportionately affect vulnerable communities?",
+    "answer": "Air pollution caused by industries and fossil fuels severely affects vulnerable groups because they often lack the financial resources or living conditions to protect themselves from these hazardous environments.",
+    "keywords": [
+      "vulnerable groups",
+      "lack financial resources",
+      "living conditions",
+      "hazardous environments"
+    ],
+    "explanation": "This highlights the intersection of sustainability and social justice, showing that the negative impacts of resource exploitation are unevenly distributed in society. Discussed on page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 39,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Why did initial crop yields drop when Pema's family in Sikkim shifted to organic farming?",
+    "answer": "The initial crop yields dropped because the soil was degraded and needed time to recover and regenerate its natural fertility after years of heavy chemical fertilizer and pesticide use.",
+    "keywords": [
+      "soil was degraded",
+      "recover and regenerate",
+      "natural fertility",
+      "chemical fertilizer"
+    ],
+    "explanation": "Restoration is a gradual process. The soil ecosystem takes time to heal and re-establish natural nutrient cycles when synthetic aids are removed. Discussed on page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 40,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What alternative materials are suggested to replace cement to reduce pollution?",
+    "answer": "To reduce pollution, alternative materials such as traditional stone and mud, new plant-based materials, and recycled materials from waste plastic are being suggested and used.",
+    "keywords": [
+      "traditional stone and mud",
+      "plant-based materials",
+      "recycled materials",
+      "waste plastic"
+    ],
+    "explanation": "The cement industry is highly polluting. Combining traditional architecture techniques with modern recycling can provide sustainable, eco-friendly construction alternatives. Discussed on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 41,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Explain the three criteria that an entity must meet to be called a natural resource.",
+    "answer": "For an entity in nature to be classified as a resource, it must meet three criteria. First, it must be technologically accessible, meaning we have the tools to extract it. Second, it must be economically feasible, meaning the cost of extraction shouldn't exceed its value. Third, it must be culturally acceptable to use it.",
+    "keywords": [
+      "technologically accessible",
+      "tools to extract",
+      "economically feasible",
+      "cost of extraction",
+      "culturally acceptable"
+    ],
+    "explanation": "Mere existence in nature does not make something a resource. It requires human ability to reach it, financial viability, and social permission. Discussed on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 42,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Describe how human actions have disturbed nature's cycles, using the example of Himalayan glaciers.",
+    "answer": "Irresponsible human actions like fossil-fuel-driven industrialization and deforestation have led to rising global temperatures. Due to this climate change, Himalayan glaciers are melting faster than precipitation can replace them. This disturbs the natural water cycle, threatening long-term water security for populations living in the plains.",
+    "keywords": [
+      "fossil-fuel-driven industrialization",
+      "rising global temperatures",
+      "melting faster",
+      "precipitation",
+      "water security"
+    ],
+    "explanation": "Global warming accelerates natural melting rates, outpacing the natural replenishment (precipitation), thereby turning a renewable water source into a depleting one. Discussed on page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 43,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Explain the relationship between ecosystem functions and ecosystem services using a forest as an example.",
+    "answer": "Ecosystem functions are inherent natural workings. For example, a forest naturally filters water, prevents soil erosion, and provides animal habitats. When humans derive tangible benefits from these functions, such as obtaining clean drinking water or pollinated crops, these benefits are called ecosystem services.",
+    "keywords": [
+      "inherent natural workings",
+      "filters water",
+      "prevents soil erosion",
+      "tangible benefits",
+      "ecosystem services"
+    ],
+    "explanation": "Functions occur independently of humans. Services are the conceptual link detailing how human survival and economy rely heavily on undisturbed natural functions. Discussed on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 44,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "How does planting native trees in cleared areas restore the ecosystem?",
+    "answer": "When forests are cleared for housing, the ecosystem is damaged. Planting the exact types of trees that originally grew there helps restore the area. These native trees provide the correct food and shelter required by local birds, squirrels, and other creatures, enabling diverse wildlife to return and thrive.",
+    "keywords": [
+      "cleared for housing",
+      "exact types of trees",
+      "native trees",
+      "food and shelter",
+      "wildlife to return"
+    ],
+    "explanation": "Restoration involves returning a system to its original state. Reintroducing native flora rebuilds the base of the local food web, triggering ecological regeneration. Discussed on page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 45,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Discuss the implications of the uneven distribution of natural resources globally.",
+    "answer": "Natural resources are unevenly distributed due to varying geographical factors. This imbalance dictates where human settlements flourish and drives national and international trade patterns. It also leads to global power disparities and severe conflicts, as nations and groups fight to gain control over scarce or valuable resources.",
+    "keywords": [
+      "varying geographical factors",
+      "human settlements",
+      "trade patterns",
+      "power disparities",
+      "conflicts"
+    ],
+    "explanation": "Geopolitics and economics are fundamentally shaped by where resources like oil, water, and minerals are located, proving that geography is destiny in many ways. Discussed on page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 46,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Differentiate between renewable and non-renewable resources with two examples of each.",
+    "answer": "Renewable resources naturally replenish themselves over a short period and can be used continuously if managed well (e.g., solar energy, timber). Non-renewable resources take millions of years to form and cannot be quickly replaced once consumed by humans (e.g., coal, petroleum).",
+    "keywords": [
+      "naturally replenish",
+      "short period",
+      "solar energy",
+      "millions of years to form",
+      "cannot be quickly replaced",
+      "coal"
+    ],
+    "explanation": "This basic classification highlights the difference in availability timelines, dictating how carefully humans must manage different types of resources. Discussed on pages 5 and 8.",
+    "page_number": "5, 8"
+  },
+  {
+    "id": 47,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Elaborate on the 'paradox of plenty'. Why do some resource-rich regions face slower economic growth?",
+    "answer": "The 'paradox of plenty' or 'natural resource curse' occurs when resource-abundant regions experience slow economic growth. This happens because these economies often rely solely on exporting raw materials and fail to develop secondary industries, skills, or good governance to convert resources into higher-value products.",
+    "keywords": [
+      "natural resource curse",
+      "rely solely on exporting",
+      "secondary industries",
+      "good governance",
+      "higher-value products"
+    ],
+    "explanation": "Wealth in the ground doesn't automatically equal societal wealth. Without industrial processing and strategic planning, raw resource wealth can hinder broader economic development. Discussed on page 11.",
+    "page_number": "11"
+  },
+  {
+    "id": 48,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Discuss the Kaveri river water dispute as an example of natural resources causing inter-state tensions.",
+    "answer": "Nature does not respect political boundaries. The Kaveri River flows through multiple states: Karnataka, Tamil Nadu, Kerala, and Puducherry. Because water is a critical and finite resource, its sharing leads to tensions and requires careful negotiations and deft management to ensure fair distribution and peace among the states.",
+    "keywords": [
+      "political boundaries",
+      "Kaveri River",
+      "multiple states",
+      "tensions",
+      "negotiations",
+      "fair distribution"
+    ],
+    "explanation": "Shared ecological assets frequently become flashpoints for political and social conflicts, requiring robust governance frameworks to resolve. Discussed on page 10.",
+    "page_number": "10"
+  },
+  {
+    "id": 49,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "How are traditional methods of soil management superior to the use of chemical fertilizers?",
+    "answer": "Chemical fertilizers degrade soil quality over time. In contrast, traditional methods treat soil as part of Mother Earth. Practices like using cow dung, mulching, and multi-cropping naturally replenish soil nutrients, promote biological diversity, and enable holistic, long-term sustainable soil management.",
+    "keywords": [
+      "degrade soil quality",
+      "cow dung",
+      "mulching",
+      "multi-cropping",
+      "replenish soil nutrients",
+      "long-term sustainable"
+    ],
+    "explanation": "Traditional wisdom relies on working with nature's cycles (like organic decay) rather than injecting synthetic chemicals that provide short-term gains but long-term degradation. Discussed on page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 50,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Explain the impact of the Green Revolution on Punjab's groundwater levels.",
+    "answer": "During the Green Revolution, Punjab's farmers shifted to high-yielding wheat and paddy, which required massive amounts of water. Fueled by free electricity, tube-wells were used to over-pump groundwater. Consequently, extraction vastly exceeded natural replenishment, plunging water levels to inaccessible depths of nearly 30 metres.",
+    "keywords": [
+      "high-yielding wheat and paddy",
+      "massive amounts of water",
+      "free electricity",
+      "over-pump groundwater",
+      "exceeded natural replenishment",
+      "30 metres"
+    ],
+    "explanation": "The policy effectively traded long-term water sustainability for short-term food security, resulting in a severe ecological crisis where 80% of the state is overexploited. Discussed on page 13.",
+    "page_number": "13"
+  },
+  {
+    "id": 51,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "What are the long-term health hazards associated with the use of chemical pesticides and fertilizers as seen in Punjab?",
+    "answer": "In Punjab, excessive use of chemical pesticides and fertilizers for modern farming led to widespread soil contamination. Over time, these toxic chemicals seeped into the ground and dissolved into the depleting groundwater. Consuming this polluted water poses severe, long-term health hazards to the local population.",
+    "keywords": [
+      "soil contamination",
+      "toxic chemicals seeped",
+      "dissolved into groundwater",
+      "polluted water",
+      "health hazards"
+    ],
+    "explanation": "Agricultural pollution directly impacts drinking water quality, demonstrating how unsustainable farming practices eventually circle back to harm human health. Discussed on page 13.",
+    "page_number": "13"
+  },
+  {
+    "id": 52,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Explain how the cement industry impacts the environment, specifically air and plant life.",
+    "answer": "The cement industry is highly polluting. Its production process releases fine dust into the air, which enters and damages the lungs of humans and animals. This dust also settles on the leaves of nearby plants, blocking sunlight, stunting growth, and significantly decreasing their agricultural yields.",
+    "keywords": [
+      "fine dust",
+      "damages the lungs",
+      "settles on leaves",
+      "blocking sunlight",
+      "decreasing agricultural yields"
+    ],
+    "explanation": "Industrial particulate matter causes localized air pollution that has cascading effects on both human respiratory health and the photosynthetic capacity of local flora. Discussed on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 53,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Summarize the recommendations provided by the ancient text Vrikshayurveda for sustainable agriculture.",
+    "answer": "Vrikshayurveda recommends specific plants for different soil types and details methods for seed preservation and irrigation based on seasons. It advocates natural pest control using repellents and companion planting. It also promotes crop rotation, mixed cropping, and proper ploughing to retain moisture and foster beneficial soil organisms like earthworms.",
+    "keywords": [
+      "plants for different soil",
+      "seed preservation",
+      "natural pest control",
+      "companion planting",
+      "crop rotation",
+      "ploughing"
+    ],
+    "explanation": "This ancient botanical text proves that complex, highly sustainable, and holistic organic farming methods existed in India long before the advent of modern chemical agriculture. Discussed on page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 54,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Describe the journey of Pema's family farm in Sikkim towards becoming completely organic.",
+    "answer": "Facing declining yields and debts from chemical farming, Pema's family adopted the state's organic policy. Initially, yields dropped as the degraded soil recovered. They switched to compost and natural pest repellents like neem and garlic, and grew multiple crops. After five years, the soil rejuvenated, and the farm thrived economically.",
+    "keywords": [
+      "debts from chemical",
+      "yields dropped",
+      "soil recovered",
+      "compost",
+      "neem and garlic",
+      "farm thrived"
+    ],
+    "explanation": "This caselet illustrates that transitioning to organic farming involves short-term struggles for soil rehabilitation, leading to long-term ecological and financial sustainability. Discussed on pages 16-17.",
+    "page_number": "16, 17"
+  },
+  {
+    "id": 55,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "What ecological benefits were observed in Sikkim after transitioning to a 100% organic state?",
+    "answer": "Transitioning to 100% organic farming in Sikkim had transformational ecological effects. By eliminating toxic chemical fertilizers and pesticides, the local biodiversity flourished. Beneficial insects, earthworms, and various bird species returned to the farmlands, fully restoring the natural balance and health of the ecosystem.",
+    "keywords": [
+      "transformational ecological effects",
+      "eliminating toxic chemical",
+      "biodiversity flourished",
+      "beneficial insects",
+      "restoring natural balance"
+    ],
+    "explanation": "Removing chemical inputs allows nature's principle of regeneration to take over, healing the environment and bringing back wildlife crucial for a healthy farm ecosystem. Discussed on page 17.",
+    "page_number": "17"
+  },
+  {
+    "id": 56,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Write a short note on the International Solar Alliance and its benefits for developing nations.",
+    "answer": "Launched in 2015 by India and France, the International Solar Alliance is a coalition of sunshine-rich countries aiming to harness solar energy. It benefits developing nations by channeling billions of dollars into solar projects, sharing technical expertise, and creating affordable financing options to transition from fossil fuels.",
+    "keywords": [
+      "India and France",
+      "sunshine-rich countries",
+      "channeling billions of dollars",
+      "technical expertise",
+      "affordable financing"
+    ],
+    "explanation": "The ISA represents a massive global effort led by India to combat climate change by making renewable solar technology accessible to poorer nations. Discussed on page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 57,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Why is it important to shift from non-renewable to renewable sources of energy? Support your answer with a case study from the text.",
+    "answer": "Non-renewables like coal cause severe pollution and will eventually run out, making their use unsustainable. Shifting to renewables ensures long-term energy security without environmental damage. India's leadership in the International Solar Alliance and the Bhadla Solar Park demonstrates how transitioning to solar power provides both environmental responsibility and economic opportunity.",
+    "keywords": [
+      "eventually run out",
+      "unsustainable",
+      "long-term energy security",
+      "International Solar Alliance",
+      "Bhadla Solar Park",
+      "economic opportunity"
+    ],
+    "explanation": "Renewable energy provides a permanent solution to the finite nature and polluting effects of fossil fuels, aligning economic growth with ecological stewardship. Discussed on page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 58,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "How does the text connect sustainability with social responsibility regarding the distribution of basic resources?",
+    "answer": "The text highlights that access to basic resources like clean air and water is highly unequal. In urban areas, vulnerable communities often lack adequate drinking water and are disproportionately exposed to industrial air pollution. Therefore, true sustainability requires social responsibility, ensuring that resource management protects the health and rights of the marginalized.",
+    "keywords": [
+      "access is highly unequal",
+      "vulnerable communities",
+      "lack adequate drinking water",
+      "exposed to industrial air pollution",
+      "protects the health and rights"
+    ],
+    "explanation": "Environmental degradation usually hits the poorest hardest. Stewardship must therefore include an ethical commitment (lokasangraha) to equitable resource distribution and pollution protection. Discussed on page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 59,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": " 'Responsible use prevents depletion.' Justify this statement with examples of recycling, organic farming, and renewable energy.",
+    "answer": "Recycling waste plastic reduces the need to extract fresh non-renewable raw materials. Organic farming protects soil health and prevents groundwater pollution, ensuring the land remains fertile indefinitely. Adopting renewable energy like solar power stops the depletion of finite fossil fuels. Together, these responsible practices guarantee long-term resource sustainability.",
+    "keywords": [
+      "Recycling waste plastic",
+      "Organic farming protects soil",
+      "remains fertile indefinitely",
+      "renewable energy",
+      "stops depletion"
+    ],
+    "explanation": "Responsible stewardship shifts human consumption patterns from linear extraction (take-make-waste) to circular, regenerative models that maintain natural balances. Discussed across chapters (pages 15, 17, 18).",
+    "page_number": "15, 17, 18"
+  },
+  {
+    "id": 60,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 55
+    },
+    "question": "Suggest three practical solutions schools can implement to protect water resources.",
+    "answer": "Schools can protect water resources by installing rainwater harvesting systems on rooftops, conducting regular maintenance to fix leaking taps and pipes, and using drip irrigation systems instead of open pipes for watering school gardens. Reusing treated greywater for gardening is also highly effective.",
+    "keywords": [
+      "rainwater harvesting systems",
+      "fix leaking taps",
+      "drip irrigation",
+      "greywater for gardening"
+    ],
+    "explanation": "These are competency-based practical applications of the chapter's conservation themes, teaching students active stewardship at an institutional level. Competency Based Questions section.",
+    "page_number": "Answer Key"
+  },
+  {
+    "id": 61,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "If a town sets up large industries near a river, what are two environmental risks, and what is a balanced approach to mitigate them?",
+    "answer": "The main environmental risks are severe water pollution from untreated industrial waste and the loss of local aquatic biodiversity. A balanced approach would involve mandating eco-friendly technology, installing strict waste treatment plants before discharging water, and planting green belts around factories to minimize pollution.",
+    "keywords": [
+      "water pollution",
+      "loss of biodiversity",
+      "eco-friendly technology",
+      "waste treatment plants",
+      "green belts"
+    ],
+    "explanation": "Balancing economic development with environmental stewardship requires proactive regulatory measures to ensure industrial waste doesn't break nature's regenerative cycles. Competency Based Questions section.",
+    "page_number": "Answer Key"
+  },
+  {
+    "id": 62,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "How do cultural values like 'sacred groves' and 'plant worship festivals' help protect natural resources?",
+    "answer": "Cultural values attach reverence and divinity to nature, fundamentally changing how communities interact with it. Treating forests as 'sacred groves' prevents deforestation, while festivals like Van Mahotsav encourage mass tree planting. By viewing rivers as divine, communities enforce cleanliness and respect, naturally reducing misuse and waste.",
+    "keywords": [
+      "reverence and divinity",
+      "prevents deforestation",
+      "mass tree planting",
+      "rivers as divine",
+      "reducing misuse"
+    ],
+    "explanation": "Traditional Indian beliefs intertwine environmental conservation with spirituality, ensuring that strict cultural taboos prevent the overexploitation of specific ecosystems. Competency Based Questions section.",
+    "page_number": "Answer Key"
+  },
+  {
+    "id": 63,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "India has both water-surplus and water-scarce regions. Explain three geographical factors causing this uneven distribution.",
+    "answer": "The uneven distribution of water in India is caused by extreme variations in rainfall and climate across regions, differences in the presence of perennial river systems and underground aquifers, and uneven terrain or landforms that affect water storage and natural groundwater recharge.",
+    "keywords": [
+      "variations in rainfall",
+      "perennial river systems",
+      "underground aquifers",
+      "uneven terrain",
+      "groundwater recharge"
+    ],
+    "explanation": "Natural resources are inherently distributed unevenly based on complex global and regional physical factors, leading to regions of abundance existing alongside regions of scarcity. Competency Based Questions section.",
+    "page_number": "Answer Key"
+  },
+  {
+    "id": 64,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "How do human activities like deforestation and overfishing disrupt natural regeneration cycles?",
+    "answer": "Deforestation removes trees faster than seeds can grow, destroying habitats, causing soil erosion, and halting ecosystem restoration. Overfishing extracts fish, like tuna, before they can spawn and reproduce, collapsing the aquatic food chain. Both activities extract renewable resources faster than nature can regenerate them, turning them non-renewable.",
+    "keywords": [
+      "destroying habitats",
+      "soil erosion",
+      "before they can spawn",
+      "collapsing food chain",
+      "faster than nature can regenerate"
+    ],
+    "explanation": "For a renewable resource to remain renewable, extraction rates must not exceed biological reproduction rates. Breaking this rule leads to permanent resource depletion. Discussed on pages 5-6.",
+    "page_number": "5, 6"
+  },
+  {
+    "id": 65,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "Define natural resources. Explain the categories of natural resources based on their uses, providing examples for each category.",
+    "answer": "Natural resources refer to all life and non-life forms that occur in nature and have utility or value to satisfy human needs. Once humans use or alter them, they become resources. Based on their use, they are categorized into three main types. First, 'Resources essential for life', which are critical for survival; examples include the air we breathe and water we drink. Second, 'Resources for materials', which humans transform into physical objects for utility or art; examples include wood for furniture and marble for buildings. Third, 'Resources for energy', which power modern civilization, transportation, and industries; examples include coal, petroleum, sunlight, and wind.",
+    "keywords": [
+      "occur in nature",
+      "satisfy human needs",
+      "essential for life",
+      "air and water",
+      "materials",
+      "wood and marble",
+      "energy",
+      "coal and sunlight"
+    ],
+    "explanation": "This is a comprehensive question requiring the foundational definition and the primary functional classification of resources as explained in the early parts of the chapter. Discussed on pages 2-4.",
+    "page_number": "2-4"
+  },
+  {
+    "id": 66,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 120
+    },
+    "question": "Discuss the difference between 'restoration' and 'regeneration' in nature. Explain how irresponsible human actions have disturbed these natural cycles.",
+    "answer": "Restoration is nature's process of returning a degraded or damaged ecosystem to its original healthy state, like a forest healing after a wildfire. Regeneration goes a step further; it is nature's ability to create new life and conditions for thriving, working in waste-free cycles where a fallen tree decays to enrich soil for new seeds. However, irresponsible human actions have severely disturbed these cycles. Fossil-fuel-driven industrialization has caused global warming, melting Himalayan glaciers faster than rain can restore them. Furthermore, discharging untreated industrial waste into rivers introduces toxic materials that cannot decay or regenerate, poisoning the water and killing aquatic life completely.",
+    "keywords": [
+      "returning a degraded ecosystem",
+      "create new life",
+      "waste-free cycles",
+      "fossil-fuel-driven industrialization",
+      "global warming",
+      "untreated industrial waste",
+      "poisoning the water"
+    ],
+    "explanation": "Understanding nature's inherent healing mechanisms is crucial to understanding how synthetic pollutants and over-extraction permanently break these biological cycles. Discussed on pages 5-7.",
+    "page_number": "5-7"
+  },
+  {
+    "id": 67,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 120
+    },
+    "question": "Analyze the 'Natural Resource Curse'. How does an abundance of natural resources sometimes lead to slower economic growth, and how has India attempted to avoid this curse?",
+    "answer": "The 'Natural Resource Curse', or 'paradox of plenty', is a phenomenon where regions abundantly rich in natural resources paradoxically experience slower economic growth and development. This occurs because such economies often become overly reliant on exporting raw materials, failing to develop diverse secondary industries or invest in human capital. To avoid this curse, a nation must convert raw resources into higher-value products. India has generally avoided this pitfall by heavily investing in technology, skills, and industrial development. By building manufacturing capabilities around its coal and iron reserves, India ensured these resources met growing domestic needs and fueled broader economic prosperity rather than just serving as export commodities.",
+    "keywords": [
+      "paradox of plenty",
+      "slower economic growth",
+      "reliant on exporting",
+      "failing to develop secondary industries",
+      "higher-value products",
+      "investing in technology",
+      "industrial development"
+    ],
+    "explanation": "This addresses the complex economic theory mentioned in the text that connects raw resource abundance with poor governance, contrasting it with India's industrialization strategy. Discussed on page 11.",
+    "page_number": "11"
+  },
+  {
+    "id": 68,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 85,
+      "max": 120
+    },
+    "question": "'Nature does not pay attention to political boundaries.' Elaborate on this statement by discussing how the distribution of natural resources influences trade, human settlements, and international conflicts. Provide examples.",
+    "answer": "Natural resources are distributed across the planet based on geological and climatic factors, completely ignoring human-made political borders. This uneven distribution heavily influences where human settlements develop, as people migrate toward fertile lands and water sources. Consequently, countries must engage in national and international trade to acquire the resources they lack, fueling economic interdependence. However, this also leads to severe tensions. Because rivers flow across states, sharing water often causes conflicts, such as the Kaveri River dispute among Karnataka, Tamil Nadu, Kerala, and Puducherry. Globally, many wars have been fought to gain control over strategically vital resources located in neighboring territories.",
+    "keywords": [
+      "ignoring human-made political borders",
+      "where human settlements develop",
+      "international trade",
+      "economic interdependence",
+      "rivers flow across states",
+      "Kaveri River dispute",
+      "gain control over resources"
+    ],
+    "explanation": "Resource geography dictates global geopolitics and local demographics. Rivers and mineral veins span multiple jurisdictions, making resource sharing one of the toughest challenges of governance. Discussed on pages 8-10.",
+    "page_number": "8-10"
+  },
+  {
+    "id": 69,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 120
+    },
+    "question": "With reference to the Punjab case study, analyze how the shift to high-yielding varieties during the Green Revolution led to the overexploitation of groundwater. What are the long-term consequences of this crisis?",
+    "answer": "During the Green Revolution in the 1960s, Punjab shifted to high-yielding varieties of wheat and paddy to achieve food security. These modern crops were highly water-intensive compared to traditional seeds. Facilitated by free electricity, farmers rapidly over-pumped groundwater using tube-wells. The extraction rate vastly exceeded the natural recharge rate, leading to severe overexploitation. Today, 80% of Punjab is classified as overexploited, with the water table dropping to 30 metres. The long-term consequences are disastrous: water is becoming financially inaccessible for poorer farmers, soil quality is degrading, and chemical fertilizers have seeped down, severely polluting the remaining groundwater and causing major health hazards.",
+    "keywords": [
+      "high-yielding varieties",
+      "water-intensive",
+      "free electricity",
+      "over-pumped groundwater",
+      "exceeded the natural recharge rate",
+      "water table dropping",
+      "polluting groundwater",
+      "health hazards"
+    ],
+    "explanation": "This requires a comprehensive analysis of the Punjab case study, linking agricultural policy shifts directly to the mechanical depletion and chemical pollution of aquifers. Discussed on pages 13-14.",
+    "page_number": "13, 14"
+  },
+  {
+    "id": 70,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 85,
+      "max": 120
+    },
+    "question": "Describe the environmental hazards caused by the production of cement. What sustainable alternative materials and practices can be adopted to minimize this pollution?",
+    "answer": "The cement industry is critical for infrastructure but ranks as one of the most polluting industries. Its production releases immense amounts of fine dust into the atmosphere. This particulate matter damages the lungs of humans and animals, causing severe respiratory issues. Additionally, the dust settles on plant leaves, blocking sunlight, decreasing agricultural yields, and leading to widespread soil and water pollution. To mitigate these hazards, society must shift towards sustainable alternatives. This includes reviving traditional construction materials like stone and mud (as seen in Auroville), utilizing new plant-based bio-materials, and incorporating recycled waste plastics into building components to reduce reliance on conventional cement.",
+    "keywords": [
+      "fine dust",
+      "damages the lungs",
+      "settles on plant leaves",
+      "decreasing agricultural yields",
+      "soil and water pollution",
+      "traditional construction materials",
+      "stone and mud",
+      "recycled waste plastics"
+    ],
+    "explanation": "Cement exemplifies a non-renewable material process that causes massive collateral environmental damage. The answer must cover both the pollution aspect and the forward-looking sustainable solutions. Discussed on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 71,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 120
+    },
+    "question": "Evaluate the success story of Sikkim as a 100% organic state. How did traditional farming methods contribute to this transition, and what were its ecological and economic impacts?",
+    "answer": "Sikkim's transition to a 100% organic state by 2016 is a landmark success in sustainable stewardship. Farmers like Pema abandoned expensive, soil-degrading chemical inputs and adopted traditional practices. They used natural compost to rebuild soil fertility and created organic pest repellents from neem and garlic. They also practiced multi-cropping across the year. The ecological impacts were transformational: local biodiversity flourished, and beneficial insects and birds returned to a restored ecosystem. Economically, despite initial yield drops, farmers eventually thrived. They sold traditional crops like cardamom and ginger at premium prices, increasing their average incomes by 20 percent, while the state also witnessed a massive boost in eco-tourism.",
+    "keywords": [
+      "100% organic state",
+      "natural compost",
+      "neem and garlic",
+      "multi-cropping",
+      "local biodiversity flourished",
+      "sold at premium prices",
+      "incomes by 20 percent",
+      "eco-tourism"
+    ],
+    "explanation": "The Sikkim case study is the perfect counter-example to Punjab. It shows how reverting to natural, non-chemical farming methods restores the environment and ultimately benefits the farmers financially. Discussed on pages 16-17.",
+    "page_number": "16, 17"
+  },
+  {
+    "id": 72,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 120
+    },
+    "question": "What is Vrikshayurveda? Discuss its relevance in modern sustainable agriculture, focusing on its recommendations for soil management, pest control, and irrigation.",
+    "answer": "Vrikshayurveda is an ancient Indian botanical science formalized in texts around the 10th century CE, focusing on the study and holistic care of plants and trees. It is highly relevant to modern sustainable agriculture because it provides a blueprint for farming without synthetic chemicals. For soil management, it advises on proper ploughing to retain moisture and foster beneficial soil organisms like fungi and earthworms, alongside crop rotation. For pest control, it avoids toxic pesticides, specifying instead the use of natural plant-based repellents and companion planting to deter insects naturally. It also provides elaborate, species-specific irrigation techniques tailored to different seasonal conditions, ensuring judicious water use.",
+    "keywords": [
+      "ancient Indian botanical science",
+      "holistic care",
+      "ploughing to retain moisture",
+      "beneficial soil organisms",
+      "crop rotation",
+      "natural plant-based repellents",
+      "companion planting",
+      "species-specific irrigation"
+    ],
+    "explanation": "This question requires synthesizing information about traditional Indian ecological knowledge and demonstrating how these ancient, non-destructive methods solve modern chemical farming problems. Discussed on page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 73,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 120
+    },
+    "question": "Explain the significance of the International Solar Alliance (ISA). How does the Bhadla Solar Park symbolize India's transition to renewable energy and its role in global environmental responsibility?",
+    "answer": "The International Solar Alliance (ISA), launched by India and France in 2015, is highly significant as it unites sunshine-rich countries to collectively harness solar power. By sharing technical expertise and creating affordable financing, the ISA helps developing nations shift away from polluting fossil fuels. The Bhadla Solar Park is a massive symbol of India's domestic solar ambitions and leadership within this movement. It demonstrates how a developing country can successfully leapfrog traditional, non-renewable energy sources and transition to clean alternatives on a grand scale. For India, pioneering the ISA and building parks like Bhadla represents a perfect alignment of global environmental responsibility with immense domestic economic opportunity.",
+    "keywords": [
+      "launched by India and France",
+      "unites sunshine-rich countries",
+      "sharing technical expertise",
+      "affordable financing",
+      "Bhadla Solar Park",
+      "clean alternatives",
+      "environmental responsibility",
+      "economic opportunity"
+    ],
+    "explanation": "This addresses the global shift toward renewables. The ISA and Bhadla show that sustainable development is not just about conservation, but about building massive, clean energy infrastructure. Discussed on page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 74,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 120
+    },
+    "question": "Discuss the concept of 'lokasangraha' from the Bhagavad Gita in the context of resource use. How does unequal access to clean air and water highlight the need for social responsibility in sustainability?",
+    "answer": "The Bhagavad Gita's concept of 'lokasangraha' encourages individuals to transcend selfish personal desires and act for the universal wellbeing of all. In the context of resource use, it is a call for environmental stewardship. Currently, the distribution of basic resources is profoundly unequal. In urban areas, poorer communities often lack regular access to clean drinking water, while simultaneously being the most exposed to industrial air pollution and toxic emissions from fossil fuels. Since these vulnerable groups cannot protect themselves, true sustainability must involve deep social responsibility. Lokasangraha demands that society manages natural resources equitably, ensuring that industrial development does not come at the cost of the poor's health.",
+    "keywords": [
+      "transcend selfish personal desires",
+      "wellbeing of all",
+      "environmental stewardship",
+      "distribution is profoundly unequal",
+      "lack regular access to clean water",
+      "exposed to industrial air pollution",
+      "deep social responsibility"
+    ],
+    "explanation": "This question combines ancient Indian philosophy with modern socio-environmental justice, requiring students to analyze how pollution and resource depletion disproportionately affect the marginalized. Discussed on page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 75,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 85,
+      "max": 115
+    },
+    "question": "Compare and contrast renewable and non-renewable resources. Why is the judicious use of non-renewable resources, like coal and petroleum, particularly critical for future generations?",
+    "answer": "Renewable resources, like sunlight, wind, and forests, can replenish themselves naturally over a short period. As long as they are not overexploited, they provide an endless supply. In contrast, non-renewable resources, like coal, petroleum, and metal ores, take millions of years to form under the Earth's surface. Once extracted and consumed, they cannot be replaced on a human timescale. The judicious use of non-renewables is absolutely critical because they are strictly finite. With rapidly growing populations and accelerating development, energy demands are skyrocketing. If we exhaust these reserves before developing wide-scale sustainable alternatives like solar energy, future generations will face catastrophic energy shortages and economic collapse.",
+    "keywords": [
+      "replenish themselves naturally",
+      "endless supply",
+      "take millions of years",
+      "cannot be replaced",
+      "strictly finite",
+      "judicious use",
+      "energy shortages"
+    ],
+    "explanation": "A fundamental comparison question. It requires defining both types and explaining the intergenerational equity argument—that we must stretch finite fuels until renewables are fully adopted. Discussed on pages 5, 8, 17.",
+    "page_number": "5, 8, 17"
+  },
+  {
+    "id": 76,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 120
+    },
+    "question": "Examine the statement: 'The earth has enough for everyone's need, but not for anyone's greed.' Analyze this in the context of modern resource depletion, overfishing, and groundwater extraction.",
+    "answer": "Mahatma Gandhi's statement perfectly encapsulates the crisis of modern resource exploitation. Nature has inherent cycles of restoration that easily provide for human 'needs'. However, commercial 'greed' disrupts these cycles. For example, commercial overfishing of tuna for mass profit ignores natural spawning seasons, depleting the fish faster than they reproduce and threatening ocean ecosystems. Similarly, the greed for maximum crop yields in Punjab led to the over-pumping of groundwater using free electricity, plummeting water tables to 30 metres and making it inaccessible. In both cases, pushing extraction beyond nature's capacity to regenerate turns renewable resources into depleting ones, proving that earth cannot sustain greedy, unchecked exploitation.",
+    "keywords": [
+      "inherent cycles of restoration",
+      "commercial greed",
+      "overfishing of tuna",
+      "spawning seasons",
+      "depleting faster than reproduce",
+      "over-pumping of groundwater",
+      "beyond nature's capacity to regenerate"
+    ],
+    "explanation": "This requires applying a famous philosophical quote to specific case studies from the text (tuna overfishing, Punjab groundwater), demonstrating analytical and critical thinking. Discussed on pages 6 and 13.",
+    "page_number": "6, 13"
+  },
+  {
+    "id": 77,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 120
+    },
+    "question": "Traditional communities protected forests, practiced rainwater harvesting, and avoided fishing during spawning seasons. Explain how such indigenous knowledge and practices inspire modern sustainability strategies.",
+    "answer": "Indigenous communities lived by the principle of stewardship, understanding that human survival depends on respecting nature's cycles. Protecting 'sacred groves' preserved crucial biodiversity and prevented deforestation long before modern conservation laws. Practicing traditional rainwater harvesting ensured groundwater tables remained stable during dry seasons, a technique modern cities are now desperately trying to revive. Avoiding fishing during spawning seasons was a natural regulatory mechanism to ensure aquatic life replenished itself, which modern commercial fisheries failed to do, leading to tuna depletion. Furthermore, ancient sciences like Vrikshayurveda used plant-based pest control instead of chemicals. Modern sustainability strategies are increasingly drawing inspiration from these holistic, balance-oriented indigenous practices to heal environmental degradation.",
+    "keywords": [
+      "principle of stewardship",
+      "sacred groves",
+      "preserved crucial biodiversity",
+      "rainwater harvesting",
+      "avoiding fishing during spawning",
+      "replenished itself",
+      "Vrikshayurveda",
+      "balance-oriented"
+    ],
+    "explanation": "This requires synthesizing multiple traditional practices mentioned across the chapter to show how ancient wisdom provides the blueprint for solving modern ecological crises. Discussed on pages 2, 6, 12, 16.",
+    "page_number": "2, 6, 12, 16"
+  },
+  {
+    "id": 78,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 85,
+      "max": 120
+    },
+    "question": "Your school wishes to become more environmentally sustainable. Based on the chapter, propose five comprehensive and practical steps the school community can take to conserve water, energy, and soil.",
+    "answer": "To achieve environmental sustainability, the school can implement several practical steps. First, to conserve water, the school must install a robust rainwater harvesting system on all buildings and promptly fix any leaking pipelines. Second, for the school gardens, transitioning to drip irrigation and reusing treated greywater will drastically reduce water wastage. Third, to improve soil health, the school should mandate the composting of all organic waste and use it as natural fertilizer instead of chemicals. Fourth, to conserve energy, the school could install solar panels to tap into renewable energy, mirroring the ISA's goals. Finally, students should run awareness campaigns to promote daily habits like using buckets instead of hoses.",
+    "keywords": [
+      "rainwater harvesting system",
+      "fix leaking pipelines",
+      "drip irrigation",
+      "reusing treated greywater",
+      "composting organic waste",
+      "solar panels",
+      "awareness campaigns"
+    ],
+    "explanation": "This is a competency-based question requiring the student to apply the chapter's broad themes of conservation (water, soil, renewable energy) to a real-world, institutional scenario. Competency Based Questions section.",
+    "page_number": "Answer Key"
+  },
+  {
+    "id": 79,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 120
+    },
+    "question": "Assess the socio-economic consequences if groundwater is completely depleted in major agricultural regions like Punjab and Haryana. What remedial measures must be implemented immediately?",
+    "answer": "If groundwater is completely depleted in agricultural hubs like Punjab, the socio-economic consequences would be catastrophic. The immediate impact would be massive crop failures, severely threatening national food security. Farmers would face extreme debt and bankruptcy, leading to severe poverty and forced migration from rural to urban areas, causing a socio-economic collapse. To prevent this, immediate remedial measures are necessary. Farmers must shift away from water-guzzling crops like paddy and wheat towards drought-resistant crops (crop diversification). The government must strictly enforce widespread rainwater harvesting to recharge aquifers. Additionally, adopting organic farming techniques like mulching and stopping free electricity for tube-wells will prevent further wasteful over-pumping of the remaining water reserves.",
+    "keywords": [
+      "massive crop failures",
+      "national food security",
+      "extreme debt",
+      "forced migration",
+      "shift away from water-guzzling crops",
+      "crop diversification",
+      "rainwater harvesting",
+      "organic farming techniques"
+    ],
+    "explanation": "This question requires predicting future consequences based on current negative trends (Punjab case study) and proposing immediate, text-backed policy and agricultural solutions. Competency Based Questions section.",
+    "page_number": "12-14, Answer Key"
+  },
+  {
+    "id": 80,
+    "subject": "Social Science",
+    "chapter": "Natural Resources and Their Use-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 120
+    },
+    "question": "A developing region has discovered large coal deposits. As an environmental consultant, write a detailed advisory explaining the economic benefits (short-term) versus the environmental and social costs (long-term), keeping the 'natural resource curse' in mind.",
+    "answer": "Discovering large coal deposits offers significant short-term economic benefits, including immediate job creation in mining, rapid infrastructure development, and increased local revenue. However, the long-term environmental and social costs are severe. Coal extraction leads to deforestation, loss of biodiversity, and severe air and water pollution, exacerbating climate change. Socially, it often causes the displacement of local populations and threats to their sacred sites. Furthermore, relying solely on exporting this coal risks the 'natural resource curse', where the region fails to innovate and its economy stagnates once the non-renewable coal depletes. To ensure lasting prosperity, the region must adopt a balanced approach: enforcing strict environmental audits, investing coal revenues into education, and immediately developing alternative renewable energy sectors.",
+    "keywords": [
+      "short-term economic benefits",
+      "job creation",
+      "deforestation",
+      "air and water pollution",
+      "displacement of local populations",
+      "natural resource curse",
+      "economy stagnates",
+      "investing coal revenues",
+      "renewable energy sectors"
+    ],
+    "explanation": "This requires synthesizing the concepts of non-renewable resources, the paradox of plenty, and environmental costs to provide a holistic, real-world consultancy advisory. Discussed on pages 8-11.",
+    "page_number": "8-11"
+  }
+]
