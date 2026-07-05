@@ -1,0 +1,1806 @@
+[
+{
+"id":1,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is a square number or a perfect square?",
+"answer":"A square number, or perfect square, is a number obtained by multiplying a number by itself.",
+"keywords":[
+"square number",
+"perfect square",
+"multiplying",
+"itself"
+],
+"explanation":"This definition introduces the fundamental concept of perfect squares, which form the basis of the entire chapter.",
+"page_number":"3"
+},
+{
+"id":2,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What will be the unit digit of the square of 177?",
+"answer":"The unit digit of the square of 177 will be 9, because 7 multiplied by 7 is 49.",
+"keywords":[
+"unit digit",
+"nine",
+"square",
+"seven"
+],
+"explanation":"The unit digit of a square depends only on the unit digit of the original number. This rule is a key property of squares.",
+"page_number":"3"
+},
+{
+"id":3,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"If a number has 'n' zeroes at the end, how many zeroes will its square have?",
+"answer":"If a number has 'n' zeroes at the end, its square will have exactly '2n' zeroes.",
+"keywords":[
+"zeroes",
+"square",
+"2n zeroes",
+"end"
+],
+"explanation":"Squaring a number doubles the number of trailing zeroes. This is a fundamental property of perfect squares.",
+"page_number":"3"
+},
+{
+"id":4,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Can a perfect square end with the digit 8?",
+"answer":"No, a perfect square cannot end with the digit 8. Perfect squares can only end in 0, 1, 4, 5, 6, or 9.",
+"keywords":[
+"perfect square",
+"end",
+"digit 8",
+"cannot"
+],
+"explanation":"The properties of square numbers state that the ones digit of a square can never be 2, 3, 7, or 8.",
+"page_number":"3"
+},
+{
+"id":5,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is a cube number or a perfect cube?",
+"answer":"A cube number, or perfect cube, is a number obtained by multiplying a number by itself three times.",
+"keywords":[
+"cube number",
+"perfect cube",
+"multiplying",
+"three times"
+],
+"explanation":"This definition introduces the basic concept of cubes, which is essential for understanding later topics in the chapter.",
+"page_number":"12"
+},
+{
+"id":6,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"If a number has 'n' zeroes at the end, how many zeroes will its cube have?",
+"answer":"If a number has 'n' zeroes at the end, its cube will have exactly '3n' zeroes.",
+"keywords":[
+"zeroes",
+"cube",
+"3n zeroes",
+"end"
+],
+"explanation":"Cubing a number triples the number of trailing zeroes, as per the properties of perfect cubes.",
+"page_number":"12"
+},
+{
+"id":7,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What are taxicab numbers?",
+"answer":"Taxicab numbers are numbers that can be expressed as the sum of two cubes in two different ways.",
+"keywords":[
+"taxicab numbers",
+"sum",
+"two cubes",
+"different ways"
+],
+"explanation":"The Hardy-Ramanujan number 1729 is the most famous example of a taxicab number, discussed in the context of interesting cube patterns.",
+"page_number":"13"
+},
+{
+"id":8,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":20
+},
+"question":"Are the cubes of all even numbers even or odd?",
+"answer":"The cubes of all even numbers are always even.",
+"keywords":[
+"cubes",
+"even numbers",
+"always even"
+],
+"explanation":"An even number multiplied by itself three times always results in an even number. This is a basic property of cubes.",
+"page_number":"12"
+},
+{
+"id":9,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is meant by the square root of a number?",
+"answer":"Finding the square root is the inverse operation of squaring a number. It is the number that, when multiplied by itself, yields the original number.",
+"keywords":[
+"square root",
+"inverse operation",
+"squaring",
+"multiplied by itself"
+],
+"explanation":"The square root reverses the process of squaring, representing the base number of the square power.",
+"page_number":"8"
+},
+{
+"id":10,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":20
+},
+"question":"What is the parity of the square of an odd number?",
+"answer":"The square of an odd number is always odd.",
+"keywords":[
+"square",
+"odd number",
+"parity",
+"always odd"
+],
+"explanation":"Squaring an odd number (multiplying two odd numbers) always produces an odd result.",
+"page_number":"4"
+},
+{
+"id":11,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":20
+},
+"question":"If a number ends with the digit 2, what will be the last digit of its cube?",
+"answer":"If a number ends with 2, the last digit of its cube will be 8.",
+"keywords":[
+"number ends",
+"digit 2",
+"last digit",
+"cube",
+"eight"
+],
+"explanation":"The unit digit of the cube of any number ending in 2 is always 8, because 2x2x2 = 8.",
+"page_number":"12"
+},
+{
+"id":12,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Can a perfect cube end with exactly two zeroes?",
+"answer":"No, a perfect cube cannot end with exactly two zeroes. The number of zeroes at the end must be a multiple of three.",
+"keywords":[
+"perfect cube",
+"exactly two zeroes",
+"multiple of three"
+],
+"explanation":"Because cubing a number triples its trailing zeroes, a perfect cube must end in 0, 3, 6, 9, etc. zeroes.",
+"page_number":"12"
+},
+{
+"id":13,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What is the value of the Hardy-Ramanujan number?",
+"answer":"The value of the Hardy-Ramanujan number is 1729.",
+"keywords":[
+"Hardy-Ramanujan number",
+"value",
+"1729"
+],
+"explanation":"1729 is identified as the smallest number expressible as the sum of two cubes in two different ways.",
+"page_number":"13"
+},
+{
+"id":14,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":20
+},
+"question":"If a number ends with the digit 3, what will be the last digit of its cube?",
+"answer":"If a number ends with 3, the last digit of its cube will be 7.",
+"keywords":[
+"number ends",
+"digit 3",
+"last digit",
+"cube",
+"seven"
+],
+"explanation":"The cube of 3 is 27, so any number ending in 3 will have a cube ending in 7.",
+"page_number":"12"
+},
+{
+"id":15,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is the maximum number of digits possible in the cube of a 3-digit number?",
+"answer":"The maximum number of digits in the cube of a 3-digit number is 9 digits.",
+"keywords":[
+"maximum digits",
+"cube",
+"3-digit number",
+"9 digits"
+],
+"explanation":"The largest 3-digit number is 999. Its cube is slightly less than 1000 cubed (which has 10 digits), making it 9 digits long.",
+"page_number":"16"
+},
+{
+"id":16,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"How many integer square roots does every perfect square have?",
+"answer":"Every perfect square has exactly two integer square roots: one positive and one negative.",
+"keywords":[
+"integer square roots",
+"perfect square",
+"two",
+"positive",
+"negative"
+],
+"explanation":"Both positive and negative integers, when multiplied by themselves, yield a positive perfect square.",
+"page_number":"8"
+},
+{
+"id":17,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"How many natural numbers lie between the squares of 9 and 10?",
+"answer":"There are 2n numbers between consecutive squares n^2 and (n+1)^2. For n=9, there are 2 * 9 = 18 natural numbers.",
+"keywords":[
+"natural numbers",
+"between squares",
+"2n numbers",
+"eighteen"
+],
+"explanation":"The formula 2n gives the exact count of non-perfect square numbers lying between the squares of n and n+1.",
+"page_number":"4"
+},
+{
+"id":18,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Without actual calculation, what is the value of 1000^2 - 999^2?",
+"answer":"The difference between consecutive squares n^2 and (n-1)^2 is n + (n-1). Thus, 1000^2 - 999^2 = 1000 + 999 = 1999.",
+"keywords":[
+"difference",
+"consecutive squares",
+"sum",
+"1999"
+],
+"explanation":"The pattern n^2 - (n-1)^2 = n + (n-1) allows quick calculation of differences between consecutive perfect squares.",
+"page_number":"2"
+},
+{
+"id":19,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Express the perfect square 49 as the sum of odd natural numbers.",
+"answer":"Every perfect square n^2 is the sum of the first n odd numbers. Since 49 is 7^2, it is 1 + 3 + 5 + 7 + 9 + 11 + 13.",
+"keywords":[
+"perfect square",
+"sum of odd numbers",
+"first n odd",
+"seven squared"
+],
+"explanation":"The sum of the first n consecutive odd natural numbers always results in the perfect square n^2.",
+"page_number":"5"
+},
+{
+"id":20,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"How can you check if 121 is a perfect square using repeated subtraction?",
+"answer":"Subtract consecutive odd numbers (1, 3, 5, 7...) from 121. Since 121 - 1 = 120, 120 - 3 = 117, continuing this for 11 steps reaches exactly 0. Thus, 121 is a perfect square.",
+"keywords":[
+"repeated subtraction",
+"consecutive odd numbers",
+"eleven steps",
+"zero"
+],
+"explanation":"If subtracting successive odd numbers starting from 1 eventually results in 0, the starting number is a perfect square. The number of steps equals its square root.",
+"page_number":"8"
+},
+{
+"id":21,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Find the cube root of 512 using prime factorization.",
+"answer":"The prime factorization of 512 is 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2. Grouping them into triples gives 2^3 x 2^3 x 2^3. The cube root is 2 x 2 x 2 = 8.",
+"keywords":[
+"prime factorization",
+"triples",
+"grouping",
+"eight"
+],
+"explanation":"By finding prime factors and grouping them in identical triplets, we can extract one factor from each triplet to find the cube root.",
+"page_number":"12"
+},
+{
+"id":22,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Write 3^2 and 4^2 as the sum of consecutive triangular numbers.",
+"answer":"3^2 can be written as the sum of triangular numbers 3 + 6 = 9. 4^2 can be written as the sum 6 + 10 = 16.",
+"keywords":[
+"triangular numbers",
+"sum",
+"consecutive",
+"nine",
+"sixteen"
+],
+"explanation":"Any perfect square n^2 can be expressed as the sum of the (n-1)th and nth consecutive triangular numbers.",
+"page_number":"6"
+},
+{
+"id":23,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"How many perfect squares are there between 101 and 200?",
+"answer":"The perfect squares between 101 and 200 are 121, 144, 169, and 196. Therefore, there are exactly 4 perfect squares in this range.",
+"keywords":[
+"perfect squares",
+"between",
+"four",
+"121",
+"144",
+"169",
+"196"
+],
+"explanation":"By evaluating squares of 11, 12, 13, and 14, we can see they all fall within the range 101-200.",
+"page_number":"7"
+},
+{
+"id":24,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"If a number has 3 zeroes at the end, how many zeroes will its square have?",
+"answer":"If a number has 3 zeroes at the end, its square will have 2n zeroes. Thus, it will have 2 x 3 = 6 zeroes.",
+"keywords":[
+"zeroes",
+"square",
+"six zeroes",
+"double"
+],
+"explanation":"Squaring a number doubles the number of trailing zeroes.",
+"page_number":"5"
+},
+{
+"id":25,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is the cube root of 1000?",
+"answer":"The prime factorization of 1000 is 10 x 10 x 10, or 2^3 x 5^3. Therefore, the cube root of 1000 is 10.",
+"keywords":[
+"cube root",
+"1000",
+"prime factorization",
+"ten"
+],
+"explanation":"Grouping the factors into triples of tens directly gives the cube root of 1000 as 10.",
+"page_number":"14"
+},
+{
+"id":26,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Find the square root of 25 by the repeated subtraction method.",
+"answer":"Subtract successive odd numbers: 25-1=24; 24-3=21; 21-5=16; 16-7=9; 9-9=0. Since it takes 5 steps to reach 0, the square root of 25 is 5.",
+"keywords":[
+"repeated subtraction",
+"odd numbers",
+"five steps",
+"square root"
+],
+"explanation":"The number of consecutive odd numbers subtracted to reach 0 equals the square root of the number.",
+"page_number":"6"
+},
+{
+"id":27,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"State the property relating perfect squares and triangular numbers.",
+"answer":"Any perfect square number can be expressed as the sum of two consecutive triangular numbers. In general, n^2 = (n-1)th + nth triangular numbers.",
+"keywords":[
+"perfect square",
+"sum",
+"consecutive",
+"triangular numbers"
+],
+"explanation":"Combining two successive triangular dot patterns forms a square array of dots.",
+"page_number":"6"
+},
+{
+"id":28,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"The square of 112 is 12544. Find the square of 113 using this value.",
+"answer":"Since 113^2 - 112^2 = 113 + 112 = 225, we can add 225 to 12544. Therefore, 113^2 = 12544 + 225 = 12769.",
+"keywords":[
+"difference of squares",
+"sum",
+"addition",
+"12769"
+],
+"explanation":"Using the property n^2 - (n-1)^2 = n + (n-1), we easily find the next square without full multiplication.",
+"page_number":"6"
+},
+{
+"id":29,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Check if 156 is a perfect square using prime factorization.",
+"answer":"The prime factorization of 156 is 2 x 2 x 3 x 13. Since 3 and 13 do not have pairs, 156 is not a perfect square.",
+"keywords":[
+"prime factorization",
+"unpaired factors",
+"not perfect square"
+],
+"explanation":"For a number to be a perfect square, all of its prime factors must exist in pairs.",
+"page_number":"9"
+},
+{
+"id":30,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"The prime factorization of a number is 2 x 2 x 3 x 3 x 5. What must it be multiplied by to be a perfect square?",
+"answer":"In the factorization 2 x 2 x 3 x 3 x 5, the number 5 is left unpaired. To make it a perfect square, it must be multiplied by 5.",
+"keywords":[
+"prime factorization",
+"unpaired",
+"multiplied by 5"
+],
+"explanation":"Multiplying by 5 completes the pair for the prime factor 5, making the entire product a perfect square.",
+"page_number":"12"
+},
+{
+"id":31,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Find the area of a square if its side length is 2.5 units.",
+"answer":"The area of a square is side x side. For a side of 2.5 units, the area is 2.5 x 2.5 = 6.25 square units.",
+"keywords":[
+"area",
+"square",
+"side length",
+"6.25"
+],
+"explanation":"The area formula for a square involves finding the square of the side length, even for decimals.",
+"page_number":"3"
+},
+{
+"id":32,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Find the value of x if x = 31 + 33 + 35 + 37 + 39 + 41.",
+"answer":"There are 6 terms in the sum, representing odd numbers on either side of 6^2. According to the pattern of cubes, the sum is exactly 6^3, which is 216.",
+"keywords":[
+"sum",
+"odd numbers",
+"pattern",
+"cube",
+"216"
+],
+"explanation":"The sum of n consecutive odd numbers arranged in a specific pattern equals n^3.",
+"page_number":"14"
+},
+{
+"id":33,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Find the cube root of 64 using prime factorization.",
+"answer":"Prime factorization of 64 is 2 x 2 x 2 x 2 x 2 x 2. Grouping them into triples gives 2^3 x 2^3. The cube root is 2 x 2 = 4.",
+"keywords":[
+"prime factorization",
+"cube root",
+"triples",
+"four"
+],
+"explanation":"Extracting one prime factor from each triplet of factors yields the cube root.",
+"page_number":"15"
+},
+{
+"id":34,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Why is the cube of an odd number always odd?",
+"answer":"A cube is formed by multiplying a number three times. The product of odd numbers is always odd, so the cube of an odd number remains odd.",
+"keywords":[
+"cube",
+"odd number",
+"multiplying",
+"product",
+"always odd"
+],
+"explanation":"Because odd x odd = odd, chaining this multiplication three times still yields an odd result.",
+"page_number":"12"
+},
+{
+"id":35,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"How many natural numbers are there between 48^2 and 49^2?",
+"answer":"The number of non-square natural numbers between n^2 and (n+1)^2 is 2n. Here, n=48, so there are 2 x 48 = 96 numbers.",
+"keywords":[
+"natural numbers",
+"between squares",
+"2n",
+"96"
+],
+"explanation":"The rule 2n efficiently calculates the numbers sandwiched between two consecutive perfect squares.",
+"page_number":"4"
+},
+{
+"id":36,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Which two triangular numbers are added to get 5^2?",
+"answer":"5^2 is 25. The (5-1)th and 5th triangular numbers are the 4th and 5th ones, which are 10 and 15. 10 + 15 = 25.",
+"keywords":[
+"triangular numbers",
+"sum",
+"ten",
+"fifteen",
+"twenty-five"
+],
+"explanation":"n^2 is the sum of the (n-1)th and nth triangular numbers.",
+"page_number":"6"
+},
+{
+"id":37,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Can the cube of a 2-digit number have seven digits?",
+"answer":"No, the maximum 2-digit number is 99. Its cube is slightly less than 100^3 (which is 1,000,000). Thus, the maximum digits it can have is 6.",
+"keywords":[
+"cube",
+"2-digit number",
+"seven digits",
+"maximum",
+"six digits"
+],
+"explanation":"By evaluating the upper bound limit of 2-digit cubes, we ensure it cannot exceed 6 digits.",
+"page_number":"16"
+},
+{
+"id":38,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Evaluate the cube root of (64 x -125 x 27).",
+"answer":"The cube root of a product is the product of cube roots. Cube root of 64 is 4, of -125 is -5, and of 27 is 3. Result: 4 x -5 x 3 = -60.",
+"keywords":[
+"cube root",
+"product",
+"negative",
+"-60"
+],
+"explanation":"Taking individual cube roots simplifies calculating the root of a large product.",
+"page_number":"3"
+},
+{
+"id":39,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Find the 36th odd number using the mathematical formula.",
+"answer":"The formula for the nth odd number is 2n - 1. For n = 36, the odd number is 2(36) - 1 = 72 - 1 = 71.",
+"keywords":[
+"nth odd number",
+"formula",
+"2n-1",
+"71"
+],
+"explanation":"The expression 2n-1 directly calculates the value of the odd number at any sequence position n.",
+"page_number":"6"
+},
+{
+"id":40,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Check if 500 is a perfect cube.",
+"answer":"The prime factorization of 500 is 2 x 2 x 5 x 5 x 5. The factor 2 only appears twice, not in a triplet. Therefore, 500 is not a perfect cube.",
+"keywords":[
+"prime factorization",
+"triplet",
+"not perfect cube"
+],
+"explanation":"A perfect cube requires all its prime factors to exist in groups of three.",
+"page_number":"14"
+},
+{
+"id":41,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"Is 16,128 a perfect square? Justify your answer.",
+"answer":"No, 16,128 is not a perfect square. The unit digit of 16,128 is 8. A fundamental property of perfect squares is that they can only end in digits 0, 1, 4, 5, 6, or 9. They never end in 2, 3, 7, or 8.",
+"keywords":[
+"perfect square",
+"unit digit",
+"eight",
+"property",
+"never end"
+],
+"explanation":"Checking the unit digit is the fastest way to definitively rule out a number as a perfect square.",
+"page_number":"3"
+},
+{
+"id":42,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"Find the smallest number by which 512 must be multiplied so that the product is a perfect square.",
+"answer":"The prime factorization of 512 is 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 (nine 2s). Pairing them leaves one 2 unpaired. Therefore, the smallest number to multiply it by is 2 to complete the pair.",
+"keywords":[
+"prime factorization",
+"paired",
+"unpaired",
+"multiply by 2"
+],
+"explanation":"Multiplying by the unpaired prime factor makes all factors exist in pairs, yielding a perfect square.",
+"page_number":"10"
+},
+{
+"id":43,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":55
+},
+"question":"Find the smallest number by which 1323 must be multiplied to make it a perfect cube.",
+"answer":"The prime factorization of 1323 is 3 x 3 x 3 x 7 x 7. The 3s form a triplet, but the 7s only form a pair. To make a perfect cube, we need one more 7. Therefore, 1323 must be multiplied by 7.",
+"keywords":[
+"prime factorization",
+"triplet",
+"pair",
+"multiply by 7"
+],
+"explanation":"Adding a factor of 7 completes the triplet of 7s, thereby transforming the number into a perfect cube.",
+"page_number":"16"
+},
+{
+"id":44,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":55
+},
+"question":"A society collected ₹8836, each member contributing as much money (in rupees) as there were members. Find the number of members of the society.",
+"answer":"Let the number of members be x. Each contributed x rupees. Total collection = x * x = x^2 = 8836. Finding the square root of 8836 yields 94. Therefore, there are 94 members in the society.",
+"keywords":[
+"members",
+"contribution",
+"square",
+"square root",
+"94"
+],
+"explanation":"The problem translates mathematically to finding the square root of the total sum since row/column equivalent values are equal.",
+"page_number":"9"
+},
+{
+"id":45,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":60
+},
+"question":"A group of students collected ₹5929, with each member contributing as much money as the number of members. What is the number of members and the amount collected from each?",
+"answer":"Let the number of members be x. The amount contributed per member is x. Total collection is x^2 = 5929. The square root of 5929 is 77. Thus, there are 77 members, and each member contributed ₹77.",
+"keywords":[
+"members",
+"amount",
+"square root",
+"77",
+"5929"
+],
+"explanation":"When entities contribute an amount equal to their count, the total represents a perfect square.",
+"page_number":"9"
+},
+{
+"id":46,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":55
+},
+"question":"Check if 9261 is a perfect cube. If so, find its cube root.",
+"answer":"The prime factorization of 9261 is 3 x 3 x 3 x 7 x 7 x 7. The factors can be grouped into triplets of 3s and 7s (3^3 x 7^3). Yes, it is a perfect cube. Its cube root is 3 x 7 = 21.",
+"keywords":[
+"prime factorization",
+"perfect cube",
+"triplets",
+"21"
+],
+"explanation":"Grouping the prime factors into identical sets of three verifies it is a perfect cube and finds its root.",
+"page_number":"12"
+},
+{
+"id":47,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"Find the smallest number by which 1575 should be divided so that the result is a perfect square.",
+"answer":"Prime factorization of 1575 is 3 x 3 x 5 x 5 x 7. The 3s and 5s are paired, but 7 is left unpaired. To make it a perfect square, 1575 must be divided by 7.",
+"keywords":[
+"prime factorization",
+"paired",
+"unpaired",
+"divide by 7"
+],
+"explanation":"Removing the unpaired factor via division ensures all remaining prime factors are perfectly paired.",
+"page_number":"10"
+},
+{
+"id":48,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":60
+},
+"question":"Estimate the square root of 1296.",
+"answer":"We know 30^2 = 900 and 40^2 = 1600. So the square root lies between 30 and 40. The number 1296 ends in 6, meaning its square root ends in 4 or 6. We check 34 and 36. 36^2 = 1296. The square root is 36.",
+"keywords":[
+"estimate",
+"square root",
+"between",
+"ends in 6",
+"36"
+],
+"explanation":"Estimating involves narrowing down boundaries using known squares and identifying the unit digit possibilities.",
+"page_number":"9"
+},
+{
+"id":49,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":55
+},
+"question":"Find the smallest square number divisible by each of the numbers 9 and 15.",
+"answer":"First, find the LCM of 9 and 15, which is 45. The prime factorization of 45 is 3 x 3 x 5. The factor 5 is unpaired. To make it a perfect square, multiply by 5. The required square number is 45 x 5 = 225.",
+"keywords":[
+"LCM",
+"unpaired factor",
+"perfect square",
+"225"
+],
+"explanation":"The LCM ensures divisibility, and pairing its prime factors creates the smallest possible perfect square.",
+"page_number":"10"
+},
+{
+"id":50,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"Find the least number that is a perfect square and also divisible by 16, 18, and 45.",
+"answer":"The LCM of 16, 18, and 45 is 720. Its prime factorization is 2 x 2 x 2 x 2 x 3 x 3 x 5. The factor 5 is unpaired. Multiply the LCM by 5 to get a perfect square. 720 x 5 = 3600. The least perfect square is 3600.",
+"keywords":[
+"LCM",
+"prime factorization",
+"unpaired",
+"multiply",
+"3600"
+],
+"explanation":"Finding the LCM provides the smallest common multiple, and pairing its unpartnered prime factors ensures it's a perfect square.",
+"page_number":"10"
+},
+{
+"id":51,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":60
+},
+"question":"Show that perfect cube numbers ending with digit 5 are divisible by 125.",
+"answer":"If a perfect cube ends in 5, its base number must also end in 5, meaning the base number is a multiple of 5. Cubing a multiple of 5 (e.g., 5^3) results in 125. Thus, the cube will inherently contain 125 as a factor, making it divisible by 125.",
+"keywords":[
+"perfect cube",
+"ends in 5",
+"multiple of 5",
+"factor",
+"divisible by 125"
+],
+"explanation":"The cube of any number structured as (5k)^3 equals 125k^3, proving it is always a multiple of 125.",
+"page_number":"12"
+},
+{
+"id":52,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":60
+},
+"question":"A perfect cube number x is divisible by 10. It is also a multiple of 3. Find the smallest possible value of x.",
+"answer":"If x is divisible by 10 and 3, its cube root must have prime factors 2, 3, and 5. The smallest base number is 2 x 3 x 5 = 30. The smallest perfect cube x is 30^3 = 27000.",
+"keywords":[
+"perfect cube",
+"divisible",
+"prime factors",
+"base number",
+"27000"
+],
+"explanation":"The prime factors must reflect the divisibility constraints, and cubing the lowest base gives the minimum cube.",
+"page_number":"12"
+},
+{
+"id":53,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":55
+},
+"question":"Find the smallest number by which 108 must be multiplied so that the product becomes a perfect cube. Also find the cube root.",
+"answer":"Prime factorization of 108 is 2 x 2 x 3 x 3 x 3. The 3s are in a triplet, but the 2s are only a pair. We must multiply by 2. The new number is 216. The cube root of 216 is 2 x 3 = 6.",
+"keywords":[
+"prime factorization",
+"triplet",
+"multiply by 2",
+"cube root",
+"6"
+],
+"explanation":"Completing the triplet for prime factor 2 makes the entire product a perfect cube.",
+"page_number":"16"
+},
+{
+"id":54,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":55
+},
+"question":"A company manufactures cubic containers for storing liquid. Each has a side length of 6 cm. How many containers are required to store 1728 cubic cm of liquid?",
+"answer":"The volume of one container is 6^3 = 216 cubic cm. To find the number of containers required, divide total volume by container volume: 1728 / 216 = 8. Thus, 8 containers are required.",
+"keywords":[
+"cubic containers",
+"volume",
+"total volume",
+"divide",
+"8 containers"
+],
+"explanation":"The number of containers is determined by dividing the total liquid volume by the individual cube volume.",
+"page_number":"1"
+},
+{
+"id":55,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":55
+},
+"question":"If the company manufactures cubic containers with a side length of 4 cm, how many containers are required to store 1728 cubic cm of liquid?",
+"answer":"The volume of a 4 cm cubic container is 4^3 = 64 cubic cm. The number of containers needed is the total volume divided by the container volume: 1728 / 64 = 27. Therefore, 27 containers are required.",
+"keywords":[
+"cubic containers",
+"volume",
+"total volume",
+"divide",
+"27 containers"
+],
+"explanation":"Total volume divided by individual container volume calculates the required number of units.",
+"page_number":"2"
+},
+{
+"id":56,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":55
+},
+"question":"What is the smallest number by which 2250 must be divided to obtain a perfect cube?",
+"answer":"Prime factorization of 2250 is 2 x 3 x 3 x 5 x 5 x 5. The 5s form a triplet, but 2, 3, and 3 are not in triplets. We divide by their product (2 x 3 x 3 = 18). So, divide by 18.",
+"keywords":[
+"prime factorization",
+"triplet",
+"divide",
+"product",
+"18"
+],
+"explanation":"Dividing out the non-triplet factors leaves only complete triplets, resulting in a perfect cube.",
+"page_number":"20"
+},
+{
+"id":57,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"Find the smallest number by which 26244 should be divided so that the quotient is a perfect cube. Find the cube root.",
+"answer":"The prime factorization of 26244 is 2 x 2 x 3^8. Grouping into triplets, we have (3^3) x (3^3) x (3^2) x 2^2. The non-triplet factors are 2 x 2 x 3 x 3 = 36. Divide by 36 to get 729. The cube root of 729 is 9.",
+"keywords":[
+"prime factorization",
+"triplets",
+"non-triplet",
+"divide",
+"cube root"
+],
+"explanation":"By removing factors that don't fit into groups of three, the resulting quotient is guaranteed to be a perfect cube.",
+"page_number":"16"
+},
+{
+"id":58,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"A number x when multiplied by 5 becomes a perfect cube. If you divide x by 6, it becomes a perfect square. Find the smallest possible value of x.",
+"answer":"For x*5 to be a cube, x must have 5^2. For x/6 to be a square, x must have 2^3 and 3^3 (so dividing by 2*3 leaves 2^2 and 3^2, perfect squares). So x = 2^3 * 3^3 * 5^2 = 8 * 27 * 25 = 5400. Thus, x is 5400.",
+"keywords":[
+"prime factors",
+"perfect cube",
+"perfect square",
+"smallest value",
+"5400"
+],
+"explanation":"This problem uses simultaneous constraints on prime factors to deduce the minimal power of each prime in the number x.",
+"page_number":"16"
+},
+{
+"id":59,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"9261 is a perfect cube. Find any two possible proper fractions of the form a/b such that 9261 x (a/b) is a perfect square number.",
+"answer":"9261 = 3^3 x 7^3 = 21^3. To make a perfect square, we need to multiply by a factor of 21. As a proper fraction, a/b could be 21/441 (which simplifies to 1/21) yielding 441. Another is 21/100, which yields another square but as a fraction. Better examples: 1/21 yields 441, 4/21 yields 1764.",
+"keywords":[
+"prime factorization",
+"proper fractions",
+"perfect square",
+"factor of 21",
+"1/21",
+"4/21"
+],
+"explanation":"The goal is to modify the prime powers to be even numbers using proper fractions as multipliers.",
+"page_number":"1"
+},
+{
+"id":60,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"Express the Hardy-Ramanujan number 1729 as the sum of two cubes in two different ways.",
+"answer":"The Hardy-Ramanujan number 1729 can be expressed as the sum of cubes in two ways: 1^3 + 12^3 (1 + 1728) and 9^3 + 10^3 (729 + 1000). Both sums equal 1729.",
+"keywords":[
+"Hardy-Ramanujan number",
+"sum of cubes",
+"two ways",
+"1729"
+],
+"explanation":"1729 is the smallest taxicab number known to have this distinct mathematical property of dual-cube sum representation.",
+"page_number":"13"
+},
+{
+"id":61,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":55
+},
+"question":"Find the cube root of 1,728 by prime factorization.",
+"answer":"The prime factorization of 1728 is 2 x 2 x 2 x 2 x 2 x 2 x 3 x 3 x 3. Grouping them into triplets gives (2^3) x (2^3) x (3^3). Taking one from each triplet, the cube root is 2 x 2 x 3 = 12.",
+"keywords":[
+"prime factorization",
+"triplets",
+"cube root",
+"12"
+],
+"explanation":"Identifying triplets in the prime factor decomposition allows the precise extraction of the cube root.",
+"page_number":"15"
+},
+{
+"id":62,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":55
+},
+"question":"Check if 3375 is a perfect cube using prime factorization.",
+"answer":"The prime factorization of 3375 is 3 x 3 x 3 x 5 x 5 x 5. The factors can be grouped into perfect triplets: (3 x 3 x 3) and (5 x 5 x 5), or 3^3 x 5^3. Because all factors are in triplets, 3375 is a perfect cube.",
+"keywords":[
+"prime factorization",
+"perfect triplets",
+"perfect cube",
+"3375"
+],
+"explanation":"If prime factors can be fully grouped into identical triplets, the number is confirmed as a perfect cube.",
+"page_number":"14"
+},
+{
+"id":63,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":60
+},
+"question":"Find the square root of 5184 by prime factorization.",
+"answer":"The prime factorization of 5184 is 2^6 x 3^4 (2x2x2x2x2x2 x 3x3x3x3). Pairing equal factors gives us (2x2) x (2x2) x (2x2) x (3x3) x (3x3). Taking one factor from each pair gives 2 x 2 x 2 x 3 x 3 = 72. The square root is 72.",
+"keywords":[
+"prime factorization",
+"pairing factors",
+"square root",
+"72"
+],
+"explanation":"Taking half of the prime factorization exponents effectively computes the square root of a perfect square.",
+"page_number":"10"
+},
+{
+"id":64,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":70
+},
+"question":"Estimate the square root of 1936.",
+"answer":"1936 lies between 1600 (40^2) and 2500 (50^2), so the root is between 40 and 50. Since it ends in 6, the root must end in 4 or 6 (44 or 46). 45^2 is 2025. Since 1936 < 2025, the square root must be 44.",
+"keywords":[
+"estimate",
+"between",
+"ends in 6",
+"unit digit",
+"44"
+],
+"explanation":"Using base tens squares to create a range, followed by unit digit rules, quickly pinpoints the exact root.",
+"page_number":"9"
+},
+{
+"id":65,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":90
+},
+"question":"Find the smallest number by which 5400 must be multiplied to get a perfect cube. Find its cube root. Also find the smallest number by which 5400 must be divided to make it a perfect cube.",
+"answer":"Prime factorization of 5400 is 2^3 x 3^3 x 5^2. The 2s and 3s are in triplets, but 5 is only squared. To make a perfect cube via multiplication, multiply by 5 (result: 27000, cube root: 2x3x5 = 30). To make a perfect cube via division, divide by 5^2 (25) to remove the incomplete triplet (result: 216, cube root: 6).",
+"keywords":[
+"prime factorization",
+"multiply by 5",
+"cube root",
+"divide by 25",
+"triplets"
+],
+"explanation":"This problem evaluates both the multiplication and division methods for creating a perfect cube from an imperfect factorization.",
+"page_number":"1"
+},
+{
+"id":66,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":90
+},
+"question":"Justify the following statements: a) Cube of a 3-digit number cannot have more than 9 digits. b) Cube of 23 lies between 8000 and 27000 and ends with the digit 7.",
+"answer":"a) The largest 3-digit number is 999. Its cube is smaller than 1000^3 (which is 1,000,000,000, a 10-digit number). Therefore, 999^3 can have at most 9 digits. b) 23 lies between 20 and 30. 20^3 = 8000 and 30^3 = 27000, so 23^3 is between them. Any number ending in 3 has a cube ending in 7.",
+"keywords":[
+"largest 3-digit",
+"maximum digits",
+"between bounds",
+"ends in 7",
+"justify"
+],
+"explanation":"These justifications require understanding bounds using exponents and applying the unit-digit property for cubes.",
+"page_number":"2"
+},
+{
+"id":67,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":90
+},
+"question":"Justify the following: a) There is no perfect cube that ends with exactly five zeros. b) The cube of an odd number is odd. c) The smallest 2-digit number that is a perfect square and a perfect cube is 64.",
+"answer":"a) The number of trailing zeroes in a perfect cube must be a multiple of 3. Five is not a multiple of 3. b) An odd number multiplied by itself yields an odd number, and multiplying by it a third time remains odd. c) 64 is 8^2 and 4^3, making it the only 2-digit number with both properties.",
+"keywords":[
+"multiple of 3",
+"trailing zeroes",
+"odd number",
+"perfect square",
+"perfect cube",
+"64"
+],
+"explanation":"This multi-part reasoning requires a firm grasp of cube trailing zeroes rules, parity multiplication, and recognizing dual-property numbers.",
+"page_number":"2"
+},
+{
+"id":68,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":90
+},
+"question":"Given the formula n^3 = (n-1)^3 + [n x (n-1) x 3] + 1, prove that the difference between consecutive cubes n^3 and (n-1)^3 is always an odd number.",
+"answer":"From the formula, the difference is n^3 - (n-1)^3 = 3n(n-1) + 1. The product n(n-1) is the product of two consecutive integers, so one must be even. Thus, 3n(n-1) is an even number. Adding 1 to an even number always yields an odd number. Hence, the difference is always odd.",
+"keywords":[
+"difference",
+"consecutive cubes",
+"product",
+"even number",
+"odd number",
+"proof"
+],
+"explanation":"Algebraic reasoning demonstrates that evaluating differences of consecutive cubes inherently results in an odd parity due to consecutive multipliers.",
+"page_number":"1"
+},
+{
+"id":69,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":100
+},
+"question":"In the 100-locker puzzle, where person 1 toggles every locker, person 2 toggles every 2nd, and so on up to 100, explain why only perfect square lockers remain open.",
+"answer":"A locker is toggled once for every factor its number has. If it has an odd number of factors, it ends up open. Every number has factors in pairs (e.g., for 6: 1x6, 2x3). However, perfect squares have one factor paired with itself (e.g., for 9: 3x3), leading to an odd number of unique factors. Therefore, only perfect squares remain open.",
+"keywords":[
+"toggled",
+"factors",
+"odd number",
+"pairs",
+"perfect squares",
+"open"
+],
+"explanation":"The locker puzzle elegantly highlights that only square numbers possess an odd number of unique divisors.",
+"page_number":"2"
+},
+{
+"id":70,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":40,
+"max":85
+},
+"question":"A group of students plants 196 plants in a perfectly square flower bed. How many plants will be arranged in each row and column? What deeper value does this activity reflect?",
+"answer":"Since the flower bed is perfectly square, the number of rows equals the number of columns. Let this be x. Total plants = x^2 = 196. The square root of 196 is 14. So, there are 14 rows and 14 columns. This activity reflects values of teamwork, effective planning, and efficient resource management in real life.",
+"keywords":[
+"perfectly square",
+"square root",
+"14 rows",
+"14 columns",
+"planning",
+"resource management"
+],
+"explanation":"This value-based question combines calculating square roots with real-world thematic application.",
+"page_number":"24"
+},
+{
+"id":71,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":100
+},
+"question":"Explain the prime factorisation method for checking if a number is a perfect square. Use the number 2592 as an example to find the smallest number to multiply to make it a perfect square.",
+"answer":"The prime factorization method involves finding all prime factors and pairing equal factors. If all pairs are complete, the number is a perfect square. For 2592, the factorization is 2x2x2x2x2 x 3x3x3x3. Grouping them shows one '2' is unpaired. Thus, 2592 is not a perfect square. Multiplying by 2 completes the pair, yielding 5184, which is a perfect square.",
+"keywords":[
+"prime factorization",
+"pairing",
+"equal factors",
+"unpaired",
+"multiply by 2"
+],
+"explanation":"Prime factorization reveals the inner structure of numbers to easily manipulate them into perfect squares.",
+"page_number":"10"
+},
+{
+"id":72,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":90
+},
+"question":"Explain how perfect squares can be expressed as consecutive odd numbers. Use this method to check whether 121 is a perfect square and find its square root.",
+"answer":"Every perfect square can be expressed as the sum of consecutive odd numbers starting from 1. Conversely, repeatedly subtracting odd numbers from a perfect square will eventually reach 0. For 121: 121-1=120, 120-3=117, 117-5=112, 112-7=105, 105-9=96, 96-11=85, 85-13=72, 72-15=57, 57-17=40, 40-19=21, 21-21=0. Because we reached 0 in 11 steps, 121 is a perfect square and its square root is 11.",
+"keywords":[
+"consecutive odd numbers",
+"subtracting",
+"zero",
+"11 steps",
+"perfect square"
+],
+"explanation":"The relationship between perfect squares and the sum of odds allows for a manual counting algorithm to find square roots.",
+"page_number":"8"
+},
+{
+"id":73,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":90
+},
+"question":"Akash found that 2^3 + 16^3 = 4041 = 9^3 + 15^3. What are such numbers called? Also, if the prime factorization of a perfect cube is 2^6 x 5^6 x 3^a, what is the least possible value of 'a' (a > 0), the cube, and its root?",
+"answer":"Numbers that can be expressed as the sum of two cubes in two different ways are called taxicab numbers. For the prime factorization 2^6 x 5^6 x 3^a to be a perfect cube, 'a' must be a multiple of 3. The least positive value for 'a' is 3. The cube is 2^6 x 5^6 x 3^3 = 64 x 15625 x 27 = 27,000,000. Its cube root is 2^2 x 5^2 x 3 = 300.",
+"keywords":[
+"taxicab numbers",
+"multiple of 3",
+"least positive",
+"27000000",
+"cube root",
+"300"
+],
+"explanation":"This question tests historical definitions alongside advanced property rules for exponents in perfect cubes.",
+"page_number":"2"
+},
+{
+"id":74,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":40,
+"max":85
+},
+"question":"In a dice game, Anvi formed a square number using digits 1, 3, and 6. Identify the number. Mehar recorded 1, 5, 2, 2. Is it possible to form a perfect square with all four digits? If so, what is it?",
+"answer":"With digits 1, 3, and 6, the only 3-digit perfect square that can be formed is 361 (which is 19^2). With the digits 1, 5, 2, 2, we must form a square. Perfect squares cannot end in 2. So it must end in 1 or 5. Testing permutations, 1522, 2521, etc., reveals that 25^2 is 625 (wrong digits), but 50^2 is 2500. No, there is no perfect square that can be formed using exactly 1, 5, 2, and 2.",
+"keywords":[
+"361",
+"19 squared",
+"digits",
+"cannot end in 2",
+"no perfect square"
+],
+"explanation":"This logical puzzle applies the unit digit rules of perfect squares and trial logic to determine validity.",
+"page_number":"1"
+},
+{
+"id":75,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":40,
+"max":85
+},
+"question":"Anvi formed a three-digit perfect square between 15^2 and 20^2, ending with the digit 4. What is the square root of that number? Mehar made a two-digit perfect square containing the digit 6. What could be the other digit?",
+"answer":"The squares between 15^2 (225) and 20^2 (400) are 256, 289, 324, and 361. The one ending in 4 is 324. Its square root is 18. For Mehar's 2-digit perfect square containing 6, the 2-digit squares are 16, 25, 36, 49, 64, 81. Those containing 6 are 16, 36, and 64. So the other possible digits are 1, 3, or 4.",
+"keywords":[
+"between squares",
+"324",
+"18",
+"2-digit square",
+"1",
+"3",
+"4"
+],
+"explanation":"The constraints require generating lists of square numbers and filtering them based on specific digit criteria.",
+"page_number":"1"
+},
+{
+"id":76,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":45,
+"max":90
+},
+"question":"Write the prime factorisation of the smallest cube number having 2, 3, and 5 as prime factors which is also a perfect square. Find its cube root.",
+"answer":"For a number to be both a perfect square and a perfect cube, the powers of its prime factors must be multiples of both 2 and 3 (i.e., multiples of 6). The smallest such exponents are 6. So the number is 2^6 x 3^6 x 5^6. Its cube root is taking the power divided by 3, resulting in 2^2 x 3^2 x 5^2, which equals 4 x 9 x 25 = 900.",
+"keywords":[
+"perfect square",
+"perfect cube",
+"multiples of 6",
+"power divided by 3",
+"900"
+],
+"explanation":"The intersection of properties for squares and cubes dictates that prime exponents must be divisible by 6.",
+"page_number":"22"
+},
+{
+"id":77,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":95
+},
+"question":"Without performing complete addition, find the cube root of 43 + 45 + 47 + 49 + 51 + 53 + 55. Also, find the cube root of 857375.",
+"answer":"The sum represents consecutive odd numbers. There are 7 terms. According to the cube pattern, the sum of 7 consecutive odd numbers (starting at the appropriate point) equals 7^3. Thus, the cube root of the sum is 7. For 857375, it ends in 5, so the root ends in 5. The cube root of 857375 is 95.",
+"keywords":[
+"consecutive odd numbers",
+"7 terms",
+"cube root is 7",
+"ends in 5",
+"95"
+],
+"explanation":"Understanding the odd number summation formula for cubes bypasses manual addition, and estimation locates the larger cube root.",
+"page_number":"16"
+},
+{
+"id":78,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":40,
+"max":80
+},
+"question":"Observe the pattern: 9^3 = 729, 99^3 = 970299, 999^3 = 997002999. Without actual multiplication, find the value of 99999^3.",
+"answer":"Observing the pattern: 9^3 has one 7, one 2, one 9. 99^3 has 97, 02, 99. 999^3 has 997, 002, 999. The number of 9s at the start is n-1, followed by 7, then n-1 zeros, then 2, then n 9s. For 99999 (n=5): there will be four 9s, a 7, four 0s, a 2, and five 9s. The result is 999970000299999.",
+"keywords":[
+"pattern",
+"without multiplication",
+"999970000299999",
+"observation"
+],
+"explanation":"Identifying the structural placement of digits in recursive math patterns helps solve complex exponents visually.",
+"page_number":"1"
+},
+{
+"id":79,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":95
+},
+"question":"A perfect square number ending with 00 has five prime-factor pairs. If three of the prime factors are 3, 11, and 13, write the prime factorisation of the smallest possible perfect square. Justify your answer.",
+"answer":"Since the number ends in 00, it is a multiple of 100, which contributes prime factor pairs of 2 and 5 (i.e., 2^2 x 5^2). We are told it has exactly five prime-factor pairs. Two are 2 and 5. The other three must be the given 3, 11, and 13. To be the smallest perfect square, these must each be squared. The prime factorization is 2^2 x 3^2 x 5^2 x 11^2 x 13^2.",
+"keywords":[
+"ends with 00",
+"prime factor pairs",
+"multiple of 100",
+"squared",
+"smallest perfect square"
+],
+"explanation":"Trailing zeros require factors of 2 and 5, which fulfill two of the five required prime pairs, leaving the other three for the given primes.",
+"page_number":"21"
+},
+{
+"id":80,
+"subject":"Mathematics",
+"chapter":"A Square and A Cube-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":100
+},
+"question":"Explain the significance of the Hardy-Ramanujan number with historical context. How are taxicab numbers defined?",
+"answer":"The Hardy-Ramanujan number, 1729, gained historical significance when mathematician G.H. Hardy rode in a cab with that number and remarked to Srinivasa Ramanujan that it seemed 'dull'. Ramanujan instantly replied it was very interesting, as it is the smallest number expressible as the sum of two cubes in two different ways (1^3 + 12^3 and 9^3 + 10^3). Numbers possessing this mathematical trait are since defined as 'taxicab numbers'.",
+"keywords":[
+"Hardy-Ramanujan number",
+"1729",
+"G.H. Hardy",
+"Srinivasa Ramanujan",
+"sum of two cubes",
+"two different ways"
+],
+"explanation":"The narrative of 1729 demonstrates Ramanujan's deep intuitive grasp of number theory and defines a specific mathematical categorization.",
+"page_number":"13"
+}
+]
