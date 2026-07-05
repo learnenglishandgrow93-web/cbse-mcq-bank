@@ -1,0 +1,1678 @@
+[
+{
+"id":1,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"हरिद्वार पाठ के लेखक कौन हैं?   Who is the author of the Haridwar lesson?",
+"answer":"हरिद्वार पाठ के लेखक भारतेंदु हरिश्चंद्र हैं।   The author of the Haridwar lesson is Bhartendu Harishchandra.",
+"keywords":[
+"भारतेंदु हरिश्चंद्र   Bhartendu Harishchandra",
+"लेखक   Author"
+],
+"explanation":"यह पाठ भारतेंदु हरिश्चंद्र द्वारा लिखा गया एक यात्रा वृत्तांत है।   This lesson is a travelogue written by Bhartendu Harishchandra.",
+"page_number":"1"
+},
+{
+"id":2,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"यह पाठ किस पत्रिका से लिया गया है?   From which magazine is this lesson taken?",
+"answer":"यह पाठ 'कविवचन सुधा' पत्रिका से लिया गया है।   This lesson is taken from the 'Kavivachan Sudha' magazine.",
+"keywords":[
+"कविवचन सुधा   Kavivachan Sudha",
+"पत्रिका   Magazine"
+],
+"explanation":"लेखक ने यह पत्र कविवचन सुधा पत्रिका के संपादक को लिखा था।   The author wrote this letter to the editor of the Kavivachan Sudha magazine.",
+"page_number":"1"
+},
+{
+"id":3,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"लेखक ने हरिद्वार की यात्रा किस वर्ष की थी?   In which year did the author travel to Haridwar?",
+"answer":"लेखक ने 1871 ई. में हरिद्वार की यात्रा की थी।   The author travelled to Haridwar in the year 1871 AD.",
+"keywords":[
+"1871 ई.   1871 AD",
+"यात्रा   Travel"
+],
+"explanation":"पाठ के अनुसार, भारतेंदु जी 1871 ई. में हरिद्वार गए थे।   According to the text, Bhartendu ji went to Haridwar in 1871 AD.",
+"page_number":"1"
+},
+{
+"id":4,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"हरिद्वार की भूमि कितनी ओर से पर्वतों से घिरी है?   From how many sides is the land of Haridwar surrounded by mountains?",
+"answer":"हरिद्वार की भूमि तीन ओर से हरे-हरे पर्वतों से घिरी है।   The land of Haridwar is surrounded by green mountains on three sides.",
+"keywords":[
+"तीन ओर   Three sides",
+"पर्वत   Mountains"
+],
+"explanation":"लेखक बताते हैं कि यह पुण्य भूमि तीन ओर सुंदर पर्वतों से घिरी हुई है।   The author states that this holy land is surrounded by beautiful mountains on three sides.",
+"page_number":"1"
+},
+{
+"id":5,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"गंगा का जल कैसा है?   How is the water of the Ganga?",
+"answer":"गंगा का जल अत्यंत शीतल, स्वच्छ, श्वेत और मीठा है।   The water of the Ganga is extremely cold, clean, white, and sweet.",
+"keywords":[
+"शीतल   Cold",
+"स्वच्छ   Clean",
+"श्वेत   White"
+],
+"explanation":"लेखक ने गंगा जल को चीनी के पने (शर्बत) जैसा मीठा और ठंडा बताया है।   The author described Ganga water as sweet and cold like sugar syrup.",
+"page_number":"2"
+},
+{
+"id":6,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"हरिद्वार में गंगा जी की कितनी धाराएँ हो गई हैं?   Into how many streams has Ganga Ji divided in Haridwar?",
+"answer":"हरिद्वार में गंगा जी की दो धाराएँ हो गई हैं।   Ganga Ji has divided into two streams in Haridwar.",
+"keywords":[
+"दो धाराएँ   Two streams",
+"गंगा जी   Ganga Ji"
+],
+"explanation":"पाठ में नील धारा और गंगा जी नामक दो धाराओं का वर्णन है।   The text describes two streams named Neel Dhara and Ganga Ji.",
+"page_number":"2"
+},
+{
+"id":7,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"नील धारा के तट पर स्थित पर्वत के शिखर पर किसकी मूर्ति है?   Whose idol is on the peak of the mountain situated on the banks of Neel Dhara?",
+"answer":"पर्वत के शिखर पर चण्डिका देवी की मूर्ति है।   There is an idol of Chandi Devi on the peak of the mountain.",
+"keywords":[
+"चण्डिका देवी   Chandi Devi",
+"शिखर   Peak"
+],
+"explanation":"नील धारा के तट पर एक सुंदर चोटीले पर्वत पर चण्डिका देवी का मंदिर है।   There is a temple of Chandi Devi on a beautiful peaked mountain on the banks of Neel Dhara.",
+"page_number":"2"
+},
+{
+"id":8,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"हरिद्वार में यात्रियों के उतरने के लिए धर्मशालाएँ किसने बनवाई हैं?   Who has built the Dharamshalas for the stay of pilgrims in Haridwar?",
+"answer":"यात्रियों के उतरने के लिए धर्मशालाएँ राजाओं ने बनवाई हैं।   The Dharamshalas for the stay of pilgrims have been built by the kings.",
+"keywords":[
+"धर्मशालाएँ   Dharamshalas",
+"राजाओं   Kings"
+],
+"explanation":"गंगा तट पर यात्रियों की सुविधा के लिए विभिन्न राजाओं ने धर्मशालाएँ बनवाई थीं।   Various kings had built Dharamshalas on the banks of the Ganga for the convenience of pilgrims.",
+"page_number":"2"
+},
+{
+"id":9,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"दक्ष ने कहाँ यज्ञ किया था?   Where did Daksha perform the Yajna?",
+"answer":"दक्ष ने कनखल तीर्थ में यज्ञ किया था।   Daksha performed the Yajna in the Kankhal pilgrimage.",
+"keywords":[
+"दक्ष   Daksha",
+"कनखल   Kankhal",
+"यज्ञ   Yajna"
+],
+"explanation":"कनखल में ही दक्ष ने यज्ञ किया था जहाँ सती ने अपना शरीर भस्म किया था।   Daksha performed the Yajna in Kankhal where Sati immolated her body.",
+"page_number":"3"
+},
+{
+"id":10,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"लेखक के मित्र का क्या नाम था?   What was the name of the author's friend?",
+"answer":"लेखक के मित्र का नाम कल्लू जी था।   The name of the author's friend was Kallu Ji.",
+"keywords":[
+"मित्र   Friend",
+"कल्लू जी   Kallu Ji"
+],
+"explanation":"यात्रा में लेखक के साथ उनके मित्र कल्लू जी भी थे, जो परमानंदी थे।   The author's friend Kallu Ji, who was highly blissful, was with him on the journey.",
+"page_number":"3"
+},
+{
+"id":11,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"हरिद्वार में कौन सी घास विलक्षण होती है?   Which grass is unique in Haridwar?",
+"answer":"हरिद्वार की कुशा घास सबसे विलक्षण होती है।   The Kusha grass of Haridwar is the most unique.",
+"keywords":[
+"कुशा   Kusha",
+"विलक्षण   Unique"
+],
+"explanation":"लेखक बताते हैं कि हरिद्वार की कुशा में से दालचीनी और जावित्री जैसी सुगंध आती है।   The author says that Haridwar's Kusha smells like cinnamon and mace.",
+"page_number":"4"
+},
+{
+"id":12,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"गंगा का एक अन्य नाम क्या है जो राजा भगीरथ से जुड़ा है?   What is another name for Ganga associated with King Bhagirath?",
+"answer":"गंगा का एक अन्य नाम भागीरथी है।   Another name for Ganga is Bhagirathi.",
+"keywords":[
+"भगीरथ   Bhagirath",
+"भागीरथी   Bhagirathi"
+],
+"explanation":"भगीरथ के तप से गंगा पृथ्वी पर आईं, इसलिए उन्हें भागीरथी कहा जाता है।   Ganga came to earth due to Bhagirath's penance, hence she is called Bhagirathi.",
+"page_number":"6"
+},
+{
+"id":13,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"आधुनिक हिंदी साहित्य का जनक किसे माना जाता है?   Who is considered the father of modern Hindi literature?",
+"answer":"आधुनिक हिंदी साहित्य का जनक भारतेंदु हरिश्चंद्र को माना जाता है।   Bhartendu Harishchandra is considered the father of modern Hindi literature.",
+"keywords":[
+"आधुनिक हिंदी   Modern Hindi",
+"जनक   Father",
+"भारतेंदु   Bhartendu"
+],
+"explanation":"लेखक परिचय के अनुसार, भारतेंदु जी को आधुनिक हिंदी साहित्य का जनक माना जाता है।   According to the author's introduction, Bhartendu Ji is considered the father of modern Hindi literature.",
+"page_number":"4"
+},
+{
+"id":14,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"मार्ग में लेखक ने पीले रंग का कौन सा छोटा पक्षी देखा?   Which small yellow bird did the author see on the way?",
+"answer":"मार्ग में लेखक ने बया नामक छोटा पक्षी देखा।   The author saw a small bird named Baya on the way.",
+"keywords":[
+"बया   Baya",
+"पक्षी   Bird"
+],
+"explanation":"झरोखे से अंश में बया पक्षी और उसके घोंसलों का वर्णन किया गया है।   The Baya bird and its nests are described in the 'Jharokhe se' excerpt.",
+"page_number":"17"
+},
+{
+"id":15,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"हरिद्वार में पक्का घाट किस नाम से जाना जाता है?   By what name is the paved Ghat in Haridwar known?",
+"answer":"हरिद्वार में पक्का घाट 'हरि की पैड़ी' के नाम से जाना जाता है।   The paved Ghat in Haridwar is known as 'Har ki Pauri'.",
+"keywords":[
+"पक्का घाट   Paved Ghat",
+"हरि की पैड़ी   Har ki Pauri"
+],
+"explanation":"यह हरिद्वार का सबसे प्रसिद्ध घाट है जहाँ स्नान किया जाता है।   This is the most famous Ghat of Haridwar where bathing takes place.",
+"page_number":"2"
+},
+{
+"id":16,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"मठ और मंदिर हरिद्वार में किन्होंने बनाए हैं?   Who have built the monasteries and temples in Haridwar?",
+"answer":"हरिद्वार में कई मठ और मंदिर वैरागियों ने बनाए हैं।   Many monasteries and temples in Haridwar have been built by Vairagis.",
+"keywords":[
+"मठ   Monastery",
+"वैरागियों   Vairagis"
+],
+"explanation":"यद्यपि यहाँ मुख्य देवता गंगा जी हैं, फिर भी वैरागियों ने कई मंदिर बना लिए हैं।   Although the main deity here is Ganga Ji, Vairagis have built many temples.",
+"page_number":"2"
+},
+{
+"id":17,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"वृक्ष एक पैर पर खड़े होकर तपस्या कैसे करते हैं?   How do trees perform penance standing on one leg?",
+"answer":"लेखक ने वृक्षों की तुलना साधुओं से की है जो जड़ रूपी एक पैर पर खड़े होकर धूप, ओस और वर्षा सहते हुए तपस्या करते प्रतीत होते हैं।   The author compared trees to ascetics who seem to perform penance standing on one leg (root) enduring sun, dew, and rain.",
+"keywords":[
+"तपस्या   Penance",
+"धूप   Sun",
+"वर्षा   Rain"
+],
+"explanation":"पेड़ अपनी जगह स्थिर रहकर मौसम की मार सहते हैं, जो किसी तपस्वी की तरह ही है।   Trees remain stationary and endure the weather, which is just like an ascetic.",
+"page_number":"1"
+},
+{
+"id":18,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"'सज्जन ऐसे कि पत्थर मारने से फल देते हैं' का क्या आशय है?   What is the meaning of 'Good people who give fruits when hit by stones'?",
+"answer":"इसका आशय है कि वृक्ष अत्यंत परोपकारी होते हैं; जो व्यक्ति उन्हें पत्थर मारता है, वे उसे भी मीठे फल प्रदान करते हैं, जैसे सज्जन बुराई के बदले भलाई करते हैं।   It means trees are highly benevolent; they give sweet fruits even to the person who throws stones at them, just as good people return kindness for evil.",
+"keywords":[
+"परोपकारी   Benevolent",
+"सज्जन   Good people",
+"फल   Fruits"
+],
+"explanation":"यह वाक्य वृक्षों की उदारता और सज्जनता को मानवीय रूप में व्यक्त करता है।   This sentence expresses the generosity and goodness of trees in human form.",
+"page_number":"2"
+},
+{
+"id":19,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"जलने के बाद भी वृक्ष मनुष्य के कैसे काम आते हैं?   How are trees useful to humans even after burning?",
+"answer":"जलने के बाद भी वृक्ष कोयले और राख के रूप में बदल जाते हैं, जो मनुष्य के विभिन्न मनोरथ पूर्ण करने और दैनिक कार्यों में उपयोगी होते हैं।   Even after burning, trees turn into coal and ash, which fulfill various desires of humans and are useful in daily chores.",
+"keywords":[
+"कोयले   Coal",
+"राख   Ash",
+"मनोरथ   Desires"
+],
+"explanation":"वृक्ष जीवन भर और मृत्यु के बाद भी परोपकार करते हैं, राख और कोयला भी उपयोगी हैं।   Trees do good deeds throughout life and even after death, as ash and coal are also useful.",
+"page_number":"2"
+},
+{
+"id":20,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"गंगा के जल की तुलना 'चीनी के पने को बरफ में जमाया' से क्यों की गई है?   Why is Ganga's water compared to 'sugar syrup set in ice'?",
+"answer":"गंगा का जल अत्यंत शीतल (बरफ जैसा) और प्राकृतिक मिठास से भरपूर (चीनी के पने जैसा) है, इसलिए लेखक ने यह सटीक तुलना की है।   The water of the Ganga is extremely cold (like ice) and full of natural sweetness (like sugar syrup), hence the author made this apt comparison.",
+"keywords":[
+"शीतल   Cold",
+"मिठास   Sweetness",
+"पना   Syrup"
+],
+"explanation":"पहाड़ों से आने के कारण गंगा का जल बहुत ठंडा और स्वादिष्ट होता है।   Coming from the mountains, the Ganga water is very cold and tasty.",
+"page_number":"2"
+},
+{
+"id":21,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"कनखल तीर्थ की क्या पौराणिक मान्यता बताई गई है?   What mythological belief is stated about Kankhal pilgrimage?",
+"answer":"कनखल तीर्थ में राजा दक्ष ने यज्ञ किया था और इसी स्थान पर माता सती ने शिव जी का अपमान न सहते हुए अपने शरीर को भस्म कर दिया था।   King Daksha performed a Yajna in Kankhal pilgrimage, and at this place, Mother Sati, unable to bear Lord Shiva's insult, immolated her body.",
+"keywords":[
+"दक्ष   Daksha",
+"सती   Sati",
+"भस्म   Immolated"
+],
+"explanation":"यह एक अत्यंत पवित्र और ऐतिहासिक स्थल है जहाँ पौराणिक कथाएं जीवंत होती हैं।   It is an extremely holy and historical place where mythological tales come alive.",
+"page_number":"3"
+},
+{
+"id":22,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"लेखक हरिद्वार में किसके घर पर ठहरे थे और वह स्थान कैसा था?   At whose house did the author stay in Haridwar and how was the place?",
+"answer":"लेखक हरिद्वार में दीवान कृपा राम के घर के ऊपर वाले बंगले पर ठहरे थे। वह स्थान चारों ओर से शीतल हवाओं वाला और टिकने योग्य था।   The author stayed at the upper bungalow of Diwan Kripa Ram's house in Haridwar. The place was suitable for staying with cool breezes from all sides.",
+"keywords":[
+"दीवान कृपा राम   Diwan Kripa Ram",
+"बंगले   Bungalow",
+"शीतल पवन   Cool breeze"
+],
+"explanation":"यह स्थान शांतिपूर्ण और आरामदायक था जहाँ से प्राकृतिक सौंदर्य का आनंद लिया जा सकता था।   This place was peaceful and comfortable from where natural beauty could be enjoyed.",
+"page_number":"3"
+},
+{
+"id":23,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"ग्रहण के समय लेखक और उनके साथियों ने क्या किया?   What did the author and his companions do during the eclipse?",
+"answer":"ग्रहण के समय लेखक और उनके साथियों ने बड़े आनंदपूर्वक गंगा में स्नान किया और दिन में श्री भागवत का पारायण (पाठ) किया।   During the eclipse, the author and his companions joyfully bathed in the Ganga and recited the Shri Bhagavat during the day.",
+"keywords":[
+"स्नान   Bathed",
+"पारायण   Recitation",
+"भागवत   Bhagavat"
+],
+"explanation":"तीर्थ स्थानों पर ग्रहण के समय स्नान और धार्मिक ग्रंथों का पाठ करना शुभ माना जाता है।   Bathing and reciting religious texts during an eclipse at pilgrimage sites is considered auspicious.",
+"page_number":"3"
+},
+{
+"id":24,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"भारतेंदु हरिश्चंद्र द्वारा संपादित किन्हीं दो पत्रिकाओं के नाम लिखिए।   Write the names of any two magazines edited by Bhartendu Harishchandra.",
+"answer":"भारतेंदु हरिश्चंद्र द्वारा संपादित दो प्रमुख पत्रिकाएँ हैं: 'कविवचन सुधा' और 'हरिश्चंद्र मैगजीन' (या बालाबोधिनी)।   Two prominent magazines edited by Bhartendu Harishchandra are: 'Kavivachan Sudha' and 'Harishchandra Magazine' (or Balabodhini).",
+"keywords":[
+"कविवचन सुधा   Kavivachan Sudha",
+"हरिश्चंद्र मैगजीन   Harishchandra Magazine"
+],
+"explanation":"भारतेंदु जी ने समाज सुधार और साहित्य विकास के लिए इन पत्रिकाओं का संपादन किया था।   Bhartendu Ji edited these magazines for social reform and literary development.",
+"page_number":"4"
+},
+{
+"id":25,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"'गंगा जी' के साथ 'हैं' (बहुवचन) का प्रयोग क्यों किया गया है?   Why is 'हैं' (plural) used with 'Ganga Ji'?",
+"answer":"गंगा जी एकवचन संज्ञा होने के बावजूद, उन्हें आदर और सम्मान देने के लिए 'हैं' (आदरार्थ बहुवचन) का प्रयोग किया गया है।   Despite Ganga Ji being a singular noun, 'हैं' (respectful plural) is used to show respect and honor.",
+"keywords":[
+"आदरार्थ बहुवचन   Respectful plural",
+"सम्मान   Honor"
+],
+"explanation":"हिंदी व्याकरण में बड़ों और आदरणीय व्यक्तियों/वस्तुओं के लिए बहुवचन क्रिया का प्रयोग होता है।   In Hindi grammar, plural verbs are used for elders and respectful persons/objects.",
+"page_number":"9"
+},
+{
+"id":26,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"हरिद्वार के पंडे कैसे हैं और उनका स्वभाव कैसा बताया गया है?   How are the Pandas of Haridwar and how is their nature described?",
+"answer":"हरिद्वार के पंडे बड़े विलक्षण और संतोषी स्वभाव के हैं। वे इतने संतुष्ट हैं कि एक पैसे को भी लाख के बराबर मानकर स्वीकार कर लेते हैं।   The Pandas of Haridwar are very unique and contented by nature. They are so satisfied that they accept even one paisa considering it equal to a lakh.",
+"keywords":[
+"पंडे   Pandas",
+"संतोषी   Contented",
+"विलक्षण   Unique"
+],
+"explanation":"लेखक ने पण्डों के लालच रहित और संतोषी व्यवहार की विशेष प्रशंसा की है।   The author has specially praised the greed-free and contented behavior of the Pandas.",
+"page_number":"3"
+},
+{
+"id":27,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"हरिद्वार की जनेऊ और कुशा की क्या विशेषता बताई गई है?   What is the specialty of Haridwar's Janeu and Kusha?",
+"answer":"हरिद्वार का जनेऊ बहुत महीन और उज्ज्वल (सफेद) बनता है, और वहाँ की कुशा घास इतनी विलक्षण है कि उससे दालचीनी और जावित्री की सुगंध आती है।   The Janeu of Haridwar is made very fine and bright (white), and the Kusha grass there is so unique that it gives the scent of cinnamon and mace.",
+"keywords":[
+"जनेऊ   Janeu",
+"कुशा   Kusha",
+"सुगंध   Scent"
+],
+"explanation":"यह वर्णन हरिद्वार की स्थानीय वस्तुओं की शुद्धता और दिव्यता को दर्शाता है।   This description highlights the purity and divinity of Haridwar's local items.",
+"page_number":"4"
+},
+{
+"id":28,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"हरिद्वार में मन में किन भावों का उदय होता है?   Which emotions arise in the mind in Haridwar?",
+"answer":"हरिद्वार के पवित्र और शांत वातावरण में मन में वैराग्य (सांसारिक मोह से मुक्ति) और ईश्वर के प्रति अगाध भक्ति का उदय होता है।   In the holy and peaceful environment of Haridwar, Vairagya (freedom from worldly attachment) and deep devotion to God arise in the mind.",
+"keywords":[
+"वैराग्य   Renunciation",
+"भक्ति   Devotion"
+],
+"explanation":"तीर्थ स्थल की सात्विकता मनुष्य को आध्यात्मिकता की ओर प्रेरित करती है।   The purity of the pilgrimage site inspires a person towards spirituality.",
+"page_number":"4"
+},
+{
+"id":29,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"लेखक के अनुसार हरिद्वार में किस चीज़ का नाम तक नहीं था?   According to the author, what did not even have a name in Haridwar?",
+"answer":"लेखक के अनुसार हरिद्वार में झगड़े-लड़ाई और क्रोध का कहीं नाम तक नहीं था, वहाँ सभी प्रेम और शांति से रहते थे।   According to the author, there was no sign of fights or anger in Haridwar; everyone lived with love and peace.",
+"keywords":[
+"झगड़े-लड़ाई   Fights",
+"क्रोध   Anger",
+"शांति   Peace"
+],
+"explanation":"पवित्र भूमि होने के कारण वहाँ के लोगों में नकारात्मक भावनाएँ नहीं थीं।   Being a holy land, the people there lacked negative emotions.",
+"page_number":"4"
+},
+{
+"id":30,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"वर्षा के कारण हरिद्वार का दृश्य कैसा लग रहा था?   How did the scene of Haridwar look due to the rain?",
+"answer":"वर्षा के कारण सब ओर हरियाली छा गई थी। ऐसा प्रतीत होता था मानो यात्रियों के विश्राम के लिए प्रकृति ने हरे रंग का गलीचा बिछा दिया हो।   Due to rain, greenery had spread everywhere. It seemed as if nature had laid a green carpet for the resting pilgrims.",
+"keywords":[
+"हरियाली   Greenery",
+"गलीचा   Carpet"
+],
+"explanation":"बारिश से प्रकृति धुल गई थी और मखमली घास एक आरामदायक कालीन जैसी लग रही थी।   The rain washed the nature, and the velvety grass looked like a comfortable carpet.",
+"page_number":"2"
+},
+{
+"id":31,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"हरिद्वार के पक्षियों का व्यवहार कैसा था?   How was the behavior of the birds in Haridwar?",
+"answer":"हरिद्वार के पक्षी नगर के दुष्ट शिकारियों से निडर होकर प्रसन्नता से चहचहाते और कल्लोल (क्रीड़ा) करते थे।   The birds of Haridwar cheerfully chirped and played (kallol) fearlessly from the wicked hunters of the city.",
+"keywords":[
+"पक्षी   Birds",
+"निडर   Fearless",
+"कल्लोल   Play"
+],
+"explanation":"तीर्थ स्थल में जीव-जंतुओं को मारा नहीं जाता, इसलिए पक्षी वहाँ सुरक्षित और स्वतंत्र महसूस करते हैं।   Animals are not killed in pilgrimage sites, so birds feel safe and free there.",
+"page_number":"2"
+},
+{
+"id":32,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"गंगा की शीतल वायु लोगों पर क्या प्रभाव डालती थी?   What effect did the cold wind of Ganga have on the people?",
+"answer":"गंगा की शीतल वायु नदी के पवित्र और ठंडे कणों को लेकर बहती थी, जिसके स्पर्श मात्र से ही लोगों का मन और शरीर पावन (पवित्र) हो जाता था।   The cold wind of Ganga blew carrying the holy and cold droplets of the river, the mere touch of which purified the mind and body of the people.",
+"keywords":[
+"शीतल वायु   Cold wind",
+"स्पर्श   Touch",
+"पावन   Pure"
+],
+"explanation":"नदी की ठंडी हवा ताजगी और आध्यात्मिक पवित्रता का संचार करती है।   The cold breeze from the river infuses freshness and spiritual purity.",
+"page_number":"2"
+},
+{
+"id":33,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"श्री गंगा जी का पाट छोटा होने के बावजूद क्या विशेषता है?   Despite the narrow width of Shri Ganga Ji, what is its specialty?",
+"answer":"श्री गंगा जी का पाट (चौड़ाई) यद्यपि बहुत छोटा है, परंतु जल का वेग और प्रवाह अत्यंत तीव्र और बड़ा है, जिससे तेज शब्द उत्पन्न होता है।   Although the width (Paat) of Shri Ganga Ji is very narrow, the speed and flow of the water are extremely fast and large, generating a loud sound.",
+"keywords":[
+"पाट   Width",
+"वेग   Speed",
+"तीव्र   Fast"
+],
+"explanation":"पहाड़ी क्षेत्रों में नदी संकरी होती है जिससे उसके पानी का बहाव बहुत तेज़ हो जाता है।   In mountainous areas, the river is narrow, making its water flow very fast.",
+"page_number":"2"
+},
+{
+"id":34,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"दालचीनी क्या है और इसका उपयोग किसलिए होता है?   What is Dalchini and what is it used for?",
+"answer":"दालचीनी एक पेड़ की छाल है जो मुख्य रूप से दक्षिण भारत में पाई जाती है। यह एक सुगंधित छाल है जिसका उपयोग दवा और मसाले के रूप में होता है।   Dalchini is the bark of a tree found mainly in South India. It is a fragrant bark used as medicine and spice.",
+"keywords":[
+"दालचीनी   Dalchini",
+"छाल   Bark",
+"मसाले   Spice"
+],
+"explanation":"लेखक ने हरिद्वार की कुशा घास की सुगंध की तुलना दालचीनी की उत्तम महक से की है।   The author compared the fragrance of Haridwar's Kusha grass to the fine scent of cinnamon.",
+"page_number":"6"
+},
+{
+"id":35,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"भारतेंदु हरिश्चंद्र यात्राओं को शिक्षा के लिए क्यों महत्वपूर्ण मानते थे?   Why did Bhartendu Harishchandra consider traveling important for education?",
+"answer":"वे मानते थे कि शिक्षा की पूर्ति केवल पुस्तकों से नहीं, बल्कि यात्राओं से भी होती है। यात्राओं से प्रकृति, इतिहास, संस्कृति और पुरातत्व का जीवंत अध्ययन करने में सहायता मिलती है।   He believed that education is fulfilled not only through books but also through travels. Traveling helps in the live study of nature, history, culture, and archaeology.",
+"keywords":[
+"शिक्षा   Education",
+"यात्राओं   Travels",
+"संस्कृति   Culture"
+],
+"explanation":"किताबी ज्ञान अधूरा है जब तक उसे व्यावहारिक रूप से दुनिया देखकर परखा न जाए।   Bookish knowledge is incomplete unless tested practically by seeing the world.",
+"page_number":"1"
+},
+{
+"id":36,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"पत्थर पर भोजन करना सोने की थाल से बेहतर क्यों लगा?   Why did eating on a stone feel better than a gold plate?",
+"answer":"गंगा के निकट एकांत में, प्रकृति की गोद में शीतल जल के छींटों के बीच पत्थर पर भोजन करने में जो मानसिक सुख और शांति मिली, वह सोने की थाल में भी नहीं मिलती।   The mental happiness and peace derived from eating on a stone in isolation near the Ganga, amidst the splashes of cold water in the lap of nature, cannot be found even in a gold plate.",
+"keywords":[
+"पत्थर   Stone",
+"सोने की थाल   Gold plate",
+"मानसिक सुख   Mental happiness"
+],
+"explanation":"प्रकृति के सानिध्य में साधारण वस्तुओं से भी असीम संतोष प्राप्त होता है।   In the proximity of nature, even ordinary things bring immense satisfaction.",
+"page_number":"3"
+},
+{
+"id":37,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"हरिद्वार में प्रवेश करते ही लेखक को कैसा अनुभव हुआ?   How did the author feel as soon as he entered Haridwar?",
+"answer":"हरिद्वार में प्रवेश करते ही लेखक का चित्त (मन) अत्यंत प्रसन्न हो गया और मन इतना शुद्ध व निर्मल हो गया कि उसका शब्दों में वर्णन करना कठिन है।   As soon as he entered Haridwar, the author's mind became extremely happy, and his heart became so pure and clean that it was hard to describe in words.",
+"keywords":[
+"प्रसन्न   Happy",
+"निर्मल   Pure",
+"वर्णन   Describe"
+],
+"explanation":"तीर्थ स्थान की सकारात्मक ऊर्जा और पवित्रता से लेखक का मन प्रफुल्लित हो उठा।   The positive energy and purity of the pilgrimage site filled the author's mind with joy.",
+"page_number":"1"
+},
+{
+"id":38,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"भारामल जैकृष्णदास खत्री कौन थे?   Who was Bharamal Jaikrishnadas Khatri?",
+"answer":"भारामल जैकृष्णदास खत्री हरिद्वार के एक बहुत प्रसिद्ध और संपन्न धनिक (सेठ) थे, जिनका उल्लेख लेखक ने अपने यात्रा वृत्तांत में किया है।   Bharamal Jaikrishnadas Khatri was a very famous and prosperous wealthy man of Haridwar, mentioned by the author in his travelogue.",
+"keywords":[
+"धनिक   Wealthy",
+"प्रसिद्ध   Famous",
+"खत्री   Khatri"
+],
+"explanation":"लेखक ने वहां के महत्वपूर्ण लोगों का वर्णन करते समय इनका नाम लिया है।   The author mentioned his name while describing the important people there.",
+"page_number":"3"
+},
+{
+"id":39,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"'जिनसे अर्थी विमुख जाते ही नहीं' पंक्ति का क्या अर्थ है?   What is the meaning of the line 'From whom seekers never return empty-handed'?",
+"answer":"इस पंक्ति का अर्थ है कि वृक्षों के पास अपनी आवश्यकता लेकर आने वाला कोई भी व्यक्ति या जीव कभी खाली हाथ (निराश) नहीं लौटता; वृक्ष उसे कुछ न कुछ अवश्य देते हैं।   This line means that no person or creature coming to trees with a need ever returns empty-handed (disappointed); trees definitely give them something.",
+"keywords":[
+"अर्थी   Seeker",
+"विमुख   Empty-handed",
+"वृक्ष   Tree"
+],
+"explanation":"पेड़ हर जीव की ज़रूरत पूरी करते हैं, चाहे वह फल हो, छाया हो या लकड़ी।   Trees fulfill the needs of every creature, be it fruit, shade, or wood.",
+"page_number":"1"
+},
+{
+"id":40,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"रात को धर्मशालाओं और दुकानों की क्या स्थिति होती थी?   What was the condition of Dharamshalas and shops at night?",
+"answer":"हरिद्वार में राजाओं द्वारा बनवाई गई धर्मशालाएँ और अन्य दुकानें रात के समय बंद रहती थीं।   The Dharamshalas built by kings and other shops in Haridwar remained closed at night.",
+"keywords":[
+"धर्मशालाएँ   Dharamshalas",
+"बंद   Closed"
+],
+"explanation":"प्राचीन काल में तीर्थ स्थलों पर रात में विश्राम और शांति का महत्व था, इसलिए व्यावसायिक गतिविधियां बंद हो जाती थीं।   In ancient times, rest and peace were valued at night in pilgrimage sites, hence commercial activities ceased.",
+"page_number":"2"
+},
+{
+"id":41,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"हरिद्वार क्षेत्र के पाँच मुख्य तीर्थ कौन-से हैं?   Which are the five main pilgrimages in the Haridwar region?",
+"answer":"लेखक के अनुसार हरिद्वार क्षेत्र में पाँच मुख्य तीर्थ स्थान हैं— हरिद्वार (जहाँ हरि की पैड़ी पर स्नान होता है), कुशावर्त्त (जो पास ही स्थित है), नीलधारा (गंगा की दूसरी धारा), विल्वपर्वत (जिस पर विल्वेश्वर महादेव की मूर्ति है), और कनखल तीर्थ।   According to the author, there are five main pilgrimage sites in the Haridwar region— Haridwar (where bathing happens at Har ki Pauri), Kushavart (located nearby), Neeldhara (the second stream of Ganga), Vilvaparvat (which has the idol of Vilveshwar Mahadev), and Kankhal pilgrimage.",
+"keywords":[
+"हरिद्वार   Haridwar",
+"कुशावर्त्त   Kushavart",
+"नीलधारा   Neeldhara",
+"विल्वपर्वत   Vilvaparvat",
+"कनखल   Kankhal"
+],
+"explanation":"इन पाँच तीर्थों के समूह के कारण यह क्षेत्र अत्यधिक पवित्र माना जाता है।   Due to this group of five pilgrimages, this region is considered highly sacred.",
+"page_number":"3"
+},
+{
+"id":42,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"वृक्षों को साधु और सज्जन क्यों कहा गया है? स्पष्ट कीजिए।   Why are trees called ascetics and good people? Explain.",
+"answer":"वृक्षों को साधु कहा गया है क्योंकि वे एक पैर (जड़) पर खड़े रहकर धूप, वर्षा और ओस को धैर्यपूर्वक सहते हैं। उन्हें सज्जन कहा गया है क्योंकि जो उन्हें पत्थर मारता है, वे उसे भी मीठे फल देते हैं और निस्वार्थ भाव से सब कुछ दान कर देते हैं।   Trees are called ascetics because they stand patiently on one leg (root) enduring sun, rain, and dew. They are called good people because they give sweet fruits even to those who throw stones at them and selflessly donate everything.",
+"keywords":[
+"साधु   Ascetic",
+"सज्जन   Good people",
+"निस्वार्थ   Selfless"
+],
+"explanation":"वृक्षों का जीवन त्याग और परोपकार का प्रतीक है, जो इंसानों के लिए आदर्श है।   The life of trees is a symbol of sacrifice and benevolence, which is an ideal for humans.",
+"page_number":"1"
+},
+{
+"id":43,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"गंगा के जल की पवित्रता और मिठास का वर्णन लेखक ने कैसे किया है?   How has the author described the purity and sweetness of Ganga's water?",
+"answer":"लेखक ने बताया है कि गंगा का जल बर्फ के समान अत्यंत शीतल और चीनी के शर्बत जैसा मीठा है। पानी इतना स्वच्छ और श्वेत है कि इसमें अनेक जल-जंतु कल्लोल करते साफ दिखाई देते हैं, और इसकी लहरें एक सुंदर ध्वनि उत्पन्न करती हैं।   The author described that Ganga's water is extremely cold like ice and sweet like sugar syrup. The water is so clean and white that aquatic animals playing in it are clearly visible, and its waves create a beautiful sound.",
+"keywords":[
+"शीतल   Cold",
+"श्वेत   White",
+"जल-जंतु   Aquatic animals"
+],
+"explanation":"गंगा नदी हिमालय से सीधे आती है, इसलिए इसका जल प्रदूषण मुक्त, ठंडा और खनिजों से भरपूर होता है।   River Ganga comes directly from the Himalayas, so its water is pollution-free, cold, and rich in minerals.",
+"page_number":"2"
+},
+{
+"id":44,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"'उस समय के पत्थर पर का भोजन का सुख सोने की थाल से बढ़ कर था।' इस कथन का भाव स्पष्ट करें।   'The joy of eating on a stone at that time was greater than a gold plate.' Explain the sentiment of this statement.",
+"answer":"इस कथन का भाव यह है कि भौतिक सुख-सुविधाओं से अधिक आनंद प्राकृतिक और आध्यात्मिक वातावरण में मिलता है। गंगा किनारे ठंडी हवाओं के बीच पत्थर पर परोसा गया सादा भोजन लेखक को सोने की थाल के शाही भोजन से अधिक संतुष्टिदायक लगा।   The sentiment of this statement is that natural and spiritual environments offer more joy than material comforts. The simple food served on a stone amidst cool breezes on the banks of Ganga felt more satisfying to the author than a royal meal in a gold plate.",
+"keywords":[
+"संतुष्टि   Satisfaction",
+"भौतिक सुख   Material comfort",
+"प्राकृतिक वातावरण   Natural environment"
+],
+"explanation":"सच्ची खुशी सादगी और प्रकृति के निकट होने में है, न कि धन-दौलत के दिखावे में।   True happiness lies in simplicity and being close to nature, not in the show of wealth.",
+"page_number":"3"
+},
+{
+"id":45,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"भारतेंदु हरिश्चंद्र का हिंदी साहित्य में क्या योगदान है?   What is the contribution of Bhartendu Harishchandra in Hindi literature?",
+"answer":"भारतेंदु हरिश्चंद्र को आधुनिक हिंदी साहित्य का जनक माना जाता है। उन्होंने कविता, नाटक, निबंध और यात्रा-वृत्तांत आदि अनेक विधाओं में रचना की। उन्होंने समाज सुधार, राष्ट्र-प्रेम और अंग्रेजी शासन के विरोध को अपनी रचनाओं (जैसे 'सत्य हरिश्चंद्र', 'भारत-दुर्दशा') का विषय बनाया।   Bhartendu Harishchandra is considered the father of modern Hindi literature. He composed in various genres like poetry, drama, essay, and travelogue. He made social reform, patriotism, and opposition to British rule the subjects of his works (like 'Satya Harishchandra', 'Bharat-Durdasha').",
+"keywords":[
+"आधुनिक हिंदी   Modern Hindi",
+"साहित्य विधाएँ   Literary genres",
+"राष्ट्र-प्रेम   Patriotism"
+],
+"explanation":"उन्होंने हिंदी भाषा को समृद्ध किया और जनता में स्वतंत्रता की चेतना जगाई।   He enriched the Hindi language and awakened the consciousness of freedom among the masses.",
+"page_number":"4"
+},
+{
+"id":46,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"इस पत्र की किन्हीं तीन विशेषताओं का उल्लेख कीजिए।   Mention any three characteristics of this letter.",
+"answer":"इस पत्र की तीन विशेषताएँ हैं: 1. वैयक्तिकता (लेखक के अपने विचार और भावनाएँ व्यक्त हैं)। 2. चित्रात्मक शैली (हरिद्वार के दृश्यों का सजीव वर्णन किया गया है)। 3. आत्मीयता और अनौपचारिकता (संपादक को 'महामहिम मित्रवरेषु' कहकर संबोधित किया गया है)।   Three characteristics of this letter are: 1. Individuality (author's own thoughts and feelings are expressed). 2. Pictorial style (vivid description of Haridwar's scenes). 3. Intimacy and informality (the editor is addressed as 'Mahamahim Mitravareshu').",
+"keywords":[
+"वैयक्तिकता   Individuality",
+"चित्रात्मक शैली   Pictorial style",
+"आत्मीयता   Intimacy"
+],
+"explanation":"यात्रा वृत्तांत पत्र रूप में होने के कारण इसमें लेखक का व्यक्तिगत अनुभव गहराई से झलकता है।   Since the travelogue is in letter form, the author's personal experience is deeply reflected in it.",
+"page_number":"12"
+},
+{
+"id":47,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"हरि की पैड़ी के विषय में पाठ में क्या बताया गया है?   What is told about Har ki Pauri in the lesson?",
+"answer":"पाठ के अनुसार 'हरि की पैड़ी' हरिद्वार का एक पक्का घाट है जहाँ मुख्य रूप से स्नान किया जाता है। यहाँ की विशेष बात यह है कि इस स्थान पर केवल गंगा जी को ही देवता माना जाता है, किसी अन्य देवता को नहीं।   According to the lesson, 'Har ki Pauri' is a paved Ghat in Haridwar where bathing mainly takes place. The special thing here is that only Ganga Ji is considered the deity at this place, and no other deity.",
+"keywords":[
+"पक्का घाट   Paved Ghat",
+"हरि की पैड़ी   Har ki Pauri",
+"देवता   Deity"
+],
+"explanation":"गंगा नदी का महत्त्व हरिद्वार में सर्वोपरि है, विशेषकर हरि की पैड़ी घाट पर।   The importance of the river Ganga is paramount in Haridwar, especially at the Har ki Pauri Ghat.",
+"page_number":"2"
+},
+{
+"id":48,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"चण्डिका देवी की मूर्ति कहाँ स्थित है और आस-पास का दृश्य कैसा है?   Where is the idol of Chandi Devi located and how is the surrounding scene?",
+"answer":"चण्डिका देवी की मूर्ति नील धारा के तट पर स्थित एक छोटे से सुंदर, चोटीले पर्वत के शिखर पर स्थित है। यहाँ गंगा जी दो धाराओं (नील धारा और गंगा जी) में बँट जाती हैं, और दोनों धाराओं के बीच एक सुंदर नीचा पर्वत स्थित है।   The idol of Chandi Devi is located on the peak of a small, beautiful, peaked mountain situated on the banks of Neel Dhara. Here Ganga Ji divides into two streams (Neel Dhara and Ganga Ji), and there is a beautiful low mountain between the two streams.",
+"keywords":[
+"नील धारा   Neel Dhara",
+"शिखर   Peak",
+"चण्डिका देवी   Chandi Devi"
+],
+"explanation":"पहाड़ों और नदी की धाराओं के बीच स्थित यह मंदिर प्राकृतिक सुंदरता का अनूठा उदाहरण है।   Situated between the mountains and the river streams, this temple is a unique example of natural beauty.",
+"page_number":"2"
+},
+{
+"id":49,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"झरोखे से अंश में बया पक्षी के घोंसलों का वर्णन कैसे किया गया है?   How are the nests of the Baya bird described in the 'Jharokhe se' excerpt?",
+"answer":"लेखक ने बया पक्षी को पीले रंग का एक छोटा और सुंदर पक्षी बताया है। बया ने बबूल के काँटेदार वृक्ष पर अपनी चतुरता से घोंसले बनाए हैं। एक-एक डाल पर बीस-तीस घोंसले लटकते दिखाई देते हैं, जो उनकी अद्भुत शिल्पविद्या का प्रमाण हैं।   The author described the Baya bird as a small and beautiful yellow-colored bird. Baya has cleverly built nests on the thorny Babool tree. Twenty-thirty nests can be seen hanging on a single branch, which is proof of their amazing craftsmanship.",
+"keywords":[
+"बया   Baya",
+"घोंसले   Nests",
+"शिल्पविद्या   Craftsmanship"
+],
+"explanation":"काँटेदार पेड़ पर सुरक्षित घोंसला बनाना पक्षियों की प्राकृतिक बुद्धिमत्ता को दर्शाता है।   Building a safe nest on a thorny tree shows the natural intelligence of birds.",
+"page_number":"17"
+},
+{
+"id":50,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"'वैराग्य और भक्ति का उदय होता था'—इस कथन से लेखक के मन की किस अवस्था का पता चलता है?   'Renunciation and devotion arose'—What state of the author's mind is revealed by this statement?",
+"answer":"इस कथन से पता चलता है कि हरिद्वार के निर्मल वातावरण, शांत प्रकृति और गंगा के पवित्र तट को देखकर लेखक का मन सांसारिक मोह-माया से विरक्त (वैराग्य) हो गया था। उनके हृदय में ईश्वर के प्रति गहरी श्रद्धा और भक्ति जागृत हो गई थी।   This statement reveals that seeing the pure environment, peaceful nature, and holy banks of the Ganga in Haridwar, the author's mind became detached from worldly illusions (Vairagya). Deep reverence and devotion for God awakened in his heart.",
+"keywords":[
+"मोह-माया   Worldly illusions",
+"विरक्त   Detached",
+"श्रद्धा   Reverence"
+],
+"explanation":"तीर्थ स्थलों की ऊर्जा मनुष्य को भौतिकता से दूर कर आध्यात्मिकता की ओर ले जाती है।   The energy of pilgrimage sites takes a person away from materialism towards spirituality.",
+"page_number":"4"
+},
+{
+"id":51,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"पाठ की भाषा की क्या विशेषता है?   What is the specialty of the language of the lesson?",
+"answer":"इस पाठ की भाषा लगभग 150 वर्ष पुरानी हिंदी है। इसमें सरलता, चित्रात्मकता और सजीवता है। भाषा कृत्रिम नहीं बल्कि स्वाभाविक है, जिसमें लेखक की भावनाएँ स्पष्ट रूप से झलकती हैं। इसमें प्राचीन वर्तनी (जैसे 'शिषर', 'जात्रियों') का भी प्रयोग हुआ है।   The language of this lesson is about 150 years old Hindi. It has simplicity, pictorial quality, and liveliness. The language is not artificial but natural, clearly reflecting the author's emotions. Ancient spelling (like 'Shishar', 'Jatriyon') is also used.",
+"keywords":[
+"सरलता   Simplicity",
+"चित्रात्मकता   Pictorial quality",
+"स्वाभाविक   Natural"
+],
+"explanation":"भारतेंदु युगीन हिंदी आधुनिक खड़ी बोली का प्रारंभिक रूप थी, जो सरल और प्रवाहमयी थी।   Bhartendu era Hindi was the early form of modern Khadi Boli, which was simple and fluent.",
+"page_number":"1"
+},
+{
+"id":52,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"कनखल तीर्थ को 'बड़ा उत्तम' क्यों कहा गया है?   Why is Kankhal pilgrimage called 'very excellent'?",
+"answer":"कनखल को उत्तम इसलिए कहा गया है क्योंकि यह एक अत्यंत प्राचीन और ऐतिहासिक तीर्थ है। यहीं पर राजा दक्ष ने महान यज्ञ किया था और इसी स्थान पर माता सती ने शिव जी के अपमान के कारण अपना शरीर भस्म कर दिया था।   Kankhal is called excellent because it is a very ancient and historical pilgrimage. Here King Daksha performed a great Yajna, and at this very place, Mother Sati immolated her body due to Lord Shiva's insult.",
+"keywords":[
+"उत्तम   Excellent",
+"ऐतिहासिक   Historical",
+"यज्ञ   Yajna"
+],
+"explanation":"धार्मिक और पौराणिक दृष्टिकोण से इस स्थान का बहुत महत्व है।   From a religious and mythological perspective, this place holds great importance.",
+"page_number":"3"
+},
+{
+"id":53,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"हरिद्वार के पण्डों का स्वभाव सामान्य मनुष्यों से कैसे भिन्न बताया गया है?   How is the nature of Haridwar's Pandas described as different from normal humans?",
+"answer":"सामान्य मनुष्य जहाँ धन के लालच में रहता है, वहीं हरिद्वार के पण्डों को 'बड़े विलक्षण संतोषी' बताया गया है। वे लालची नहीं हैं; उन्हें जो भी थोड़ा-बहुत (एक पैसा) दान में मिलता है, उसे वे लाख रुपये के बराबर समझकर प्रसन्नता से स्वीकार कर लेते हैं।   While normal humans live in greed for wealth, Haridwar's Pandas are described as 'very uniquely contented'. They are not greedy; whatever little (one paisa) they get in charity, they accept it happily considering it equal to a lakh rupees.",
+"keywords":[
+"धन के लालच   Greed for wealth",
+"संतोषी   Contented",
+"विलक्षण   Unique"
+],
+"explanation":"लेखक ने पण्डों की सादगी और संतोष की भावना को समाज के लिए एक आदर्श माना है।   The author has considered the Pandas' simplicity and sense of contentment as an ideal for society.",
+"page_number":"3"
+},
+{
+"id":54,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"यात्रियों के ठहरने के लिए हरिद्वार में क्या व्यवस्था थी?   What was the arrangement for pilgrims to stay in Haridwar?",
+"answer":"यात्रियों के ठहरने के लिए हरिद्वार में गंगा तट पर राजाओं द्वारा बनवाई गई विशाल धर्मशालाएँ थीं। इसके अलावा अनेक दुकानें भी थीं जहाँ से वे आवश्यक सामग्री ले सकते थे। यह सब रात के समय बंद हो जाती थीं ताकि तीर्थ में शांति बनी रहे।   For the stay of pilgrims, there were huge Dharamshalas built by kings on the banks of the Ganga in Haridwar. Apart from this, there were many shops from where they could get necessary items. All these were closed at night so that peace remains in the pilgrimage.",
+"keywords":[
+"धर्मशालाएँ   Dharamshalas",
+"तट   Bank",
+"दुकानें   Shops"
+],
+"explanation":"तीर्थ स्थानों पर राजा और धनी सेठ धर्मार्थ यात्रियों के लिए आवास बनवाते थे।   Kings and wealthy merchants used to build accommodations for charitable pilgrims at pilgrimage sites.",
+"page_number":"2"
+},
+{
+"id":55,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"वृक्षों के कौन-कौन से अंग मनुष्यों के काम आते हैं? पाठ के आधार पर बताइए।   Which parts of the trees are useful to humans? Tell based on the lesson.",
+"answer":"पाठ के अनुसार वृक्ष अपना सर्वस्व दान कर देते हैं। उनके फल, फूल, गंध, छाया, पत्ते, छाल, बीज, लकड़ी और जड़ सभी मनुष्यों के काम आते हैं। यहाँ तक कि जलने के बाद उनके कोयले और राख से भी लोगों के कार्य सिद्ध होते हैं।   According to the lesson, trees donate everything they have. Their fruits, flowers, scent, shade, leaves, bark, seeds, wood, and roots are all useful to humans. Even after burning, people's tasks are fulfilled by their coal and ash.",
+"keywords":[
+"फल   Fruits",
+"लकड़ी   Wood",
+"सर्वस्व दान   Donate everything"
+],
+"explanation":"वृक्ष का हर हिस्सा किसी न किसी रूप में मानव के उपयोग में आता है।   Every part of the tree is used by humans in some way or the other.",
+"page_number":"1"
+},
+{
+"id":56,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"गंगा के वेग और शब्द का वर्णन लेखक ने किस प्रकार किया है?   How has the author described the speed and sound of the Ganga?",
+"answer":"लेखक ने बताया है कि श्री गंगा जी का पाट (चौड़ाई) भले ही छोटा है, लेकिन पानी का वेग (बहाव) बहुत तेज़ है। नदी इतने तेज़ वेग से बहती है कि उसका नाम 'नदी' (अर्थात् शब्द करने वाली) सत्य सिद्ध होता है, क्योंकि जल का कोलाहल बहुत अधिक होता है।   The author stated that although the width of Shri Ganga Ji is small, the speed (flow) of the water is very fast. The river flows with such high speed that its name 'Nadi' (meaning the one making sound) proves true, as the roar of the water is very loud.",
+"keywords":[
+"वेग   Speed",
+"कोलाहल   Roar",
+"नदी   River"
+],
+"explanation":"संस्कृत में 'नद' का अर्थ ध्वनि करना होता है, तेज़ बहाव के कारण गंगा तीव्र ध्वनि करती है।   In Sanskrit, 'Nad' means to make a sound; due to the fast flow, Ganga makes a loud sound.",
+"page_number":"2"
+},
+{
+"id":57,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"हरिद्वार की कुशा को विलक्षण क्यों कहा गया है?   Why is the Kusha of Haridwar called unique?",
+"answer":"हरिद्वार की कुशा घास को विलक्षण इसलिए कहा गया है क्योंकि उसमें से दालचीनी और जावित्री जैसी बेहतरीन मसालों की सुगंध आती है। लेखक के अनुसार यह इस पुण्यभूमि का प्रताप है कि यहाँ की साधारण घास भी इतनी सुगंधित और अद्भुत है।   The Kusha grass of Haridwar is called unique because it emits the fragrance of fine spices like cinnamon and mace. According to the author, it is the glory of this holy land that even the ordinary grass here is so fragrant and wonderful.",
+"keywords":[
+"कुशा   Kusha",
+"दालचीनी   Cinnamon",
+"जावित्री   Mace"
+],
+"explanation":"तीर्थ स्थान की मिट्टी और वातावरण के कारण वहाँ की वनस्पतियों में भी विशेष गुण आ जाते हैं।   Due to the soil and environment of the pilgrimage site, special qualities also appear in the vegetation there.",
+"page_number":"4"
+},
+{
+"id":58,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"हरिद्वार की प्राकृतिक सुंदरता का वर्णन अपने शब्दों में कीजिए।   Describe the natural beauty of Haridwar in your own words.",
+"answer":"हरिद्वार तीन ओर से हरे-भरे सुंदर पर्वतों से घिरा हुआ है। पहाड़ों पर हरी-भरी लताएँ फैली हैं। चारों ओर बारिश के कारण मखमली घास की हरियाली छाई है। कलकल बहती श्वेत और शीतल गंगा, निडर होकर चहचहाते पक्षी और सुगंधित वायु इस स्थान को अत्यंत मनोरम बनाते हैं।   Haridwar is surrounded on three sides by lush green beautiful mountains. Green vines are spread on the mountains. Due to rain, the greenery of velvety grass is spread everywhere. The murmuring white and cold Ganga, fearlessly chirping birds, and fragrant air make this place highly picturesque.",
+"keywords":[
+"प्राकृतिक सुंदरता   Natural beauty",
+"मनोरम   Picturesque",
+"हरियाली   Greenery"
+],
+"explanation":"प्रकृति ने हरिद्वार को अपने अनुपम सौंदर्य से सजाया है, जो मन को शांति देता है।   Nature has adorned Haridwar with its unique beauty, which gives peace to the mind.",
+"page_number":"1"
+},
+{
+"id":59,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"'आदरार्थ बहुवचन' से आप क्या समझते हैं? पाठ से एक उदाहरण दीजिए।   What do you understand by 'Respectful plural'? Give an example from the lesson.",
+"answer":"जब किसी सम्मानीय या बड़े व्यक्ति/वस्तु के लिए एकवचन होने पर भी बहुवचन क्रिया (जैसे 'हैं') का प्रयोग किया जाता है, तो उसे 'आदरार्थ बहुवचन' कहते हैं। पाठ में उदाहरण है— \"यहाँ केवल गंगा जी ही देवता हैं, दूसरा देवता नहीं।\" यहाँ 'गंगा जी' के लिए सम्मानस्वरूप 'हैं' लगा है।   When a plural verb (like 'hain') is used for a respectable or elder person/object even though it is singular, it is called 'Respectful plural'. An example in the lesson is— \"Here only Ganga Ji is the deity, no other deity.\" Here 'hain' is used as a mark of respect for 'Ganga Ji'.",
+"keywords":[
+"आदरार्थ बहुवचन   Respectful plural",
+"सम्मान   Respect",
+"एकवचन   Singular"
+],
+"explanation":"हिंदी भाषा में आदर प्रकट करने का यह एक विशिष्ट व्याकरणिक नियम है।   This is a specific grammatical rule in the Hindi language to express respect.",
+"page_number":"9"
+},
+{
+"id":60,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"'शिक्षा की पूर्ति पुस्तकों से ही नहीं यात्राओं से भी होती है।' भारतेंदु जी का यह विचार कैसे सत्य है?   'Education is fulfilled not only by books but also by travels.' How is this thought of Bhartendu Ji true?",
+"answer":"पुस्तकों से हमें केवल सैद्धांतिक ज्ञान मिलता है, जबकि यात्राएँ उस ज्ञान को सजीव और व्यावहारिक बनाती हैं। यात्रा करने से हम इतिहास, संस्कृति, लोगों के रहन-सहन और प्रकृति को अपनी आँखों से देखते हैं, जिससे हमारी समझ गहरी होती है और शिक्षा सही अर्थों में पूर्ण होती है।   From books, we only get theoretical knowledge, while travels make that knowledge alive and practical. By traveling, we see history, culture, people's lifestyle, and nature with our own eyes, which deepens our understanding and completes education in true sense.",
+"keywords":[
+"सैद्धांतिक ज्ञान   Theoretical knowledge",
+"व्यावहारिक   Practical",
+"संस्कृति   Culture"
+],
+"explanation":"प्रत्यक्ष अनुभव किताबी ज्ञान से अधिक प्रभावशाली और स्थायी होता है।   Direct experience is more effective and permanent than bookish knowledge.",
+"page_number":"1"
+},
+{
+"id":61,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"'इच्छा क्रोध की खानि जो मनुष्य हैं सो वहाँ रहते ही नहीं।' इस पंक्ति का भावार्थ लिखिए।   'Humans who are the mine of desires and anger do not live there at all.' Write the meaning of this line.",
+"answer":"इस पंक्ति का भाव यह है कि हरिद्वार का वातावरण इतना पवित्र और शांत है कि वहाँ रहने वाले लोगों के मन से लालच, इच्छा और क्रोध जैसी नकारात्मक भावनाएँ समाप्त हो जाती हैं। जो लोग इन दुर्गुणों से भरे होते हैं, वे ऐसे पावन तीर्थ स्थान पर टिक ही नहीं पाते।   The meaning of this line is that the environment of Haridwar is so pure and peaceful that negative emotions like greed, desire, and anger vanish from the minds of the people living there. People who are filled with these vices cannot even sustain in such a holy pilgrimage site.",
+"keywords":[
+"इच्छा   Desires",
+"क्रोध   Anger",
+"नकारात्मक भावनाएँ   Negative emotions"
+],
+"explanation":"तीर्थ स्थान का आध्यात्मिक प्रभाव मनुष्य के हृदय को शुद्ध कर देता है।   The spiritual impact of a pilgrimage site purifies a person's heart.",
+"page_number":"3"
+},
+{
+"id":62,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"लेखक के मित्र कल्लू जी का स्वभाव कैसा था और यात्रा में उनका क्या महत्व था?   What was the nature of the author's friend Kallu Ji and what was his importance in the journey?",
+"answer":"लेखक के मित्र कल्लू जी स्वभाव से 'परमानंदी' (हमेशा प्रसन्न और आनंद में रहने वाले) थे। यात्रा के दौरान एक खुशमिज़ाज मित्र का साथ होने से लेखक की यात्रा और भी सुखद और उत्साहपूर्ण हो गई। उन्होंने साथ मिलकर स्नान और ग्रंथों का पाठ किया।   The author's friend Kallu Ji was 'Parmanandi' (always happy and blissful) by nature. Having the company of a cheerful friend during the journey made the author's trip even more pleasant and enthusiastic. They bathed and recited scriptures together.",
+"keywords":[
+"कल्लू जी   Kallu Ji",
+"परमानंदी   Blissful",
+"आनंद   Joy"
+],
+"explanation":"अच्छे मित्र का साथ किसी भी यात्रा के अनुभव को बेहतर और यादगार बना देता है।   The company of a good friend makes the experience of any journey better and memorable.",
+"page_number":"3"
+},
+{
+"id":63,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"हरिद्वार की भौगोलिक स्थिति का वर्णन पाठ के आधार पर कीजिए।   Describe the geographical location of Haridwar based on the lesson.",
+"answer":"पाठ के आधार पर, हरिद्वार एक अत्यंत मनोरम स्थान है जो तीन ओर से सुंदर, हरे-भरे पर्वतों से घिरा हुआ है। इसके मध्य से पवित्र गंगा नदी तेज वेग से बहती है जो आगे चलकर दो धाराओं (नील धारा और गंगा) में बँट जाती है। यहाँ की ज़मीन उपजाऊ और हरियाली से युक्त है।   Based on the lesson, Haridwar is a highly picturesque place surrounded on three sides by beautiful, lush green mountains. The holy river Ganga flows with high speed through its center, which later divides into two streams (Neel Dhara and Ganga). The land here is fertile and full of greenery.",
+"keywords":[
+"भौगोलिक स्थिति   Geographical location",
+"पर्वत   Mountains",
+"गंगा नदी   Ganga river"
+],
+"explanation":"नदी और पहाड़ों का संगम हरिद्वार को एक अद्वितीय प्राकृतिक सौंदर्य प्रदान करता है।   The confluence of river and mountains gives Haridwar a unique natural beauty.",
+"page_number":"1"
+},
+{
+"id":64,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":60
+},
+"question":"लेखक ने गंगा की पवित्र धारा की तुलना भगीरथ की कीर्ति से क्यों की है?   Why has the author compared the holy stream of Ganga with the glory of Bhagirath?",
+"answer":"राजा भगीरथ के कठोर तप के कारण ही गंगा स्वर्ग से पृथ्वी पर आई थीं। भगीरथ का यह यश (कीर्ति) अत्यंत उज्ज्वल और महान है। लेखक ने गंगा की श्वेत, निर्मल और तेज बहती धारा को देखकर उसकी तुलना भगीरथ के उसी उज्ज्वल यश (कीर्ति) रूपी लता से की है।   It was due to the severe penance of King Bhagirath that Ganga came to earth from heaven. This glory of Bhagirath is extremely bright and great. Seeing the white, pure, and fast-flowing stream of Ganga, the author compared it to the vine of that bright glory of Bhagirath.",
+"keywords":[
+"भगीरथ   Bhagirath",
+"कीर्ति   Glory",
+"उज्ज्वल   Bright"
+],
+"explanation":"यह तुलना गंगा नदी के उद्गम के पीछे के पौराणिक इतिहास और उसकी पवित्रता को दर्शाती है।   This comparison shows the mythological history behind the origin of river Ganga and its purity.",
+"page_number":"2"
+},
+{
+"id":65,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"हरिद्वार यात्रा के दौरान लेखक द्वारा अनुभव किए गए प्राकृतिक सौंदर्य का सविस्तार वर्णन कीजिए।   Describe in detail the natural beauty experienced by the author during the Haridwar journey.",
+"answer":"भारतेंदु हरिश्चंद्र जी ने हरिद्वार के प्राकृतिक सौंदर्य का अत्यंत सजीव चित्रण किया है। हरिद्वार तीन ओर से हरे-भरे पर्वतों से घिरा है। वहाँ के ऊँचे वृक्ष तपस्वियों की भाँति खड़े हैं और पक्षी निर्भय होकर चहचहाते हैं। वर्षा के कारण चारों ओर फैली हरियाली ऐसी लगती है मानो विश्राम के लिए हरा गलीचा बिछा हो। गंगा का जल बर्फ जैसा शीतल और चीनी की चाशनी जैसा मीठा है। पानी इतना स्वच्छ है कि जल-जंतु साफ खेलते दिखते हैं। तेज वेग से बहती गंगा की कलकल ध्वनि और ठंडी पवन मन को पवित्र और आनंदित कर देती है। कुल मिलाकर, हरिद्वार की प्रकृति में एक ईश्वरीय शांति और आकर्षण है।   Bhartendu Harishchandra Ji has vividly depicted the natural beauty of Haridwar. Haridwar is surrounded on three sides by green mountains. The tall trees there stand like ascetics and birds chirp fearlessly. The greenery spread all around due to rain looks as if a green carpet is laid for resting. Ganga's water is cold like ice and sweet like sugar syrup. The water is so clean that aquatic animals are clearly seen playing. The murmuring sound of the fast-flowing Ganga and the cool wind purify and delight the mind. Overall, there is a divine peace and attraction in the nature of Haridwar.",
+"keywords":[
+"प्राकृतिक सौंदर्य   Natural beauty",
+"हरा गलीचा   Green carpet",
+"ईश्वरीय शांति   Divine peace"
+],
+"explanation":"लेखक ने पहाड़ों, वृक्षों, नदी, जल और हवा का बहुत ही सूक्ष्म और काव्यात्मक वर्णन किया है।   The author has given a very subtle and poetic description of the mountains, trees, river, water, and wind.",
+"page_number":"1-2"
+},
+{
+"id":66,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"'पेड़ मानव के सच्चे मित्र हैं।' पाठ में वृक्षों के वर्णन के आधार पर इस कथन की पुष्टि कीजिए।   'Trees are true friends of humans.' Justify this statement based on the description of trees in the lesson.",
+"answer":"पाठ में लेखक ने पेड़ों को 'साधु' और 'सज्जन' कहा है, जो यह सिद्ध करता है कि वे मानव के सच्चे मित्र हैं। पेड़ एक जगह खड़े रहकर मनुष्य के लिए सर्दी, गर्मी और बारिश सहते हैं। वे बदले में हमें फल, फूल, लकड़ी, छाया, बीज, गंध और छाल देते हैं। लेखक कहते हैं कि जो व्यक्ति उन्हें पत्थर मारता है, वे उसे भी मीठे फल देते हैं। मृत्यु के बाद (जलने पर) भी वे कोयले और राख के रूप में हमारी जरूरतें पूरी करते हैं। उनसे कोई भी व्यक्ति कभी खाली हाथ नहीं लौटता। पेड़ों का यह परोपकारी और निस्वार्थ स्वभाव उन्हें हमारा सबसे सच्चा मित्र बनाता है, जिनका हमें संरक्षण करना चाहिए।   In the lesson, the author has called trees 'ascetics' and 'good people', which proves that they are true friends of humans. Standing in one place, trees endure cold, heat, and rain for humans. In return, they give us fruits, flowers, wood, shade, seeds, scent, and bark. The author says that they give sweet fruits even to the person who throws stones at them. Even after death (when burnt), they fulfill our needs as coal and ash. No person ever returns empty-handed from them. This benevolent and selfless nature of trees makes them our truest friends, whom we must conserve.",
+"keywords":[
+"सच्चे मित्र   True friends",
+"परोपकारी   Benevolent",
+"निस्वार्थ   Selfless",
+"संरक्षण   Conservation"
+],
+"explanation":"पेड़ जीवन पर्यंत और उसके बाद भी केवल देना जानते हैं, जो सच्ची मित्रता की निशानी है।   Trees only know how to give throughout their life and even after, which is a sign of true friendship.",
+"page_number":"1-2"
+},
+{
+"id":67,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"कनखल तीर्थ के ऐतिहासिक और पौराणिक महत्व पर प्रकाश डालिए। लेखक ने वहाँ के किन पहलुओं का उल्लेख किया है?   Throw light on the historical and mythological importance of Kankhal pilgrimage. Which aspects of it has the author mentioned?",
+"answer":"कनखल हरिद्वार के निकट एक अत्यंत प्रसिद्ध और पौराणिक तीर्थ स्थल है। लेखक के अनुसार यह एक 'बड़ा उत्तम' तीर्थ है। इसका पौराणिक महत्व इस बात से है कि प्राचीन काल में प्रजापति दक्ष (सती के पिता) ने यहीं पर अपना महान यज्ञ किया था। इसी यज्ञ में भगवान शिव को आमंत्रित न किए जाने पर, शिव जी का अपमान न सहते हुए माता सती ने यज्ञ कुंड में कूदकर अपना शरीर भस्म कर लिया था। इसके अलावा, लेखक ने बताया है कि वहाँ शुद्ध और निर्मल साधुओं का निवास है। वहाँ का वातावरण अत्यंत शांत है और क्रोध व कलह से मुक्त है, जो इसे एक आदर्श आध्यात्मिक स्थल बनाता है।   Kankhal is a highly famous and mythological pilgrimage site near Haridwar. According to the author, it is a 'very excellent' pilgrimage. Its mythological importance lies in the fact that in ancient times Prajapati Daksha (Sati's father) performed his great Yajna here. In this very Yajna, not being able to bear Lord Shiva's insult as he was not invited, Mother Sati immolated her body by jumping into the fire pit. Additionally, the author mentioned that pure and clean ascetics reside there. The environment there is extremely peaceful and free from anger and discord, making it an ideal spiritual place.",
+"keywords":[
+"कनखल तीर्थ   Kankhal pilgrimage",
+"पौराणिक महत्व   Mythological importance",
+"दक्ष यज्ञ   Daksha Yajna"
+],
+"explanation":"कनखल शिव और सती की कथा से जुड़ा होने के कारण हिंदू धर्म में अत्यंत पूजनीय स्थान है।   Being associated with the story of Shiva and Sati, Kankhal is a highly revered place in Hinduism.",
+"page_number":"3"
+},
+{
+"id":68,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"भोजन करने के संदर्भ में लेखक ने सोने की थाल और पत्थर की तुलना क्यों की? इससे उनके व्यक्तित्व के बारे में क्या पता चलता है?   Why did the author compare the gold plate and the stone in the context of eating? What does this reveal about his personality?",
+"answer":"लेखक ने बताया कि जब उन्होंने गंगा जी के तट पर रसोई बनाकर एक पत्थर पर भोजन किया, तो वह सुख सोने की थाल में किए गए भोजन से कहीं अधिक था। ठंडी गंगा के किनारे, जल के छींटों के बीच सादा भोजन करना उन्हें परम संतोष दे रहा था। यह तुलना दर्शाती है कि सच्चा सुख भौतिक वस्तुओं (सोने की थाल) में नहीं, बल्कि सादगी और प्रकृति के सानिध्य में है। इससे पता चलता है कि लेखक का व्यक्तित्व बहुत सरल, प्रकृति-प्रेमी और आध्यात्मिक था। वे दिखावे से दूर शांति और आंतरिक खुशी को महत्व देते थे, जो उन्हें एक सच्चा साहित्यकार और विचारक बनाता है।   The author stated that when he cooked and ate on a stone on the banks of Ganga Ji, that joy was far greater than eating in a gold plate. Eating simple food on the banks of cold Ganga, amidst water splashes, was giving him supreme satisfaction. This comparison shows that true happiness lies not in material objects (gold plate), but in simplicity and proximity to nature. This reveals that the author's personality was very simple, nature-loving, and spiritual. He valued peace and inner joy away from ostentation, making him a true litterateur and thinker.",
+"keywords":[
+"सोने की थाल   Gold plate",
+"सादा भोजन   Simple food",
+"आंतरिक खुशी   Inner joy"
+],
+"explanation":"सादगी में ही परम सुख है; सोने के बर्तन भूख नहीं मिटाते, बल्कि मन की शांति भोजन को स्वादिष्ट बनाती है।   Supreme joy lies in simplicity; gold utensils don't satisfy hunger, rather peace of mind makes the food tasty.",
+"page_number":"3"
+},
+{
+"id":69,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"भारतेंदु हरिश्चंद्र को 'आधुनिक हिंदी साहित्य का जनक' क्यों कहा जाता है? पाठ में दी गई जानकारी के आधार पर स्पष्ट कीजिए।   Why is Bhartendu Harishchandra called the 'father of modern Hindi literature'? Explain based on the information given in the lesson.",
+"answer":"भारतेंदु हरिश्चंद्र को 'आधुनिक हिंदी साहित्य का जनक' इसलिए कहा जाता है क्योंकि उन्होंने हिंदी साहित्य को एक नई दिशा दी। 19वीं सदी (1850-1885) में उन्होंने कविता, नाटक, निबंध और यात्रा-वृत्तांत जैसी अनेक विधाओं में उत्कृष्ट रचनाएँ कीं। उन्होंने 'कविवचन सुधा', 'हरिश्चंद्र मैगजीन' और स्त्रियों के लिए 'बालाबोधिनी' जैसी पत्रिकाएँ निकालीं। उनकी रचनाओं में समाज-सुधार, राष्ट्र-प्रेम, अंग्रेजी शासन का विरोध और स्वाधीनता की भावना प्रमुख रूप से झलकती है। 'निज भाषा उन्नति अहै सब उन्नति को मूल' उनका प्रसिद्ध उद्घोष है। साहित्य को जनता की समस्याओं से जोड़ने और खड़ी बोली का विकास करने के कारण ही उन्हें आधुनिक हिंदी का जनक माना जाता है।   Bhartendu Harishchandra is called the 'father of modern Hindi literature' because he gave a new direction to Hindi literature. In the 19th century (1850-1885), he created excellent works in various genres like poetry, drama, essay, and travelogue. He published magazines like 'Kavivachan Sudha', 'Harishchandra Magazine', and 'Balabodhini' for women. Social reform, patriotism, opposition to British rule, and the spirit of freedom are prominently reflected in his works. 'Nij bhasha unnati ahai sab unnati ko mool' is his famous proclamation. Due to connecting literature with the problems of the masses and developing Khadi Boli, he is considered the father of modern Hindi.",
+"keywords":[
+"आधुनिक हिंदी साहित्य   Modern Hindi literature",
+"जनक   Father",
+"समाज-सुधार   Social reform",
+"स्वाधीनता   Freedom"
+],
+"explanation":"उन्होंने साहित्य को मनोरंजन से हटाकर समाज की वास्तविकता और देशभक्ति का साधन बनाया।   He shifted literature from entertainment to make it a medium of society's reality and patriotism.",
+"page_number":"4"
+},
+{
+"id":70,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"हरिद्वार यात्रा के इस पाठ से पत्र-लेखन की किन प्रमुख विशेषताओं का पता चलता है? उदाहरण सहित समझाइए।   What main features of letter-writing are revealed from this lesson of Haridwar journey? Explain with examples.",
+"answer":"यह पाठ एक यात्रा-वृत्तांत है जिसे एक पत्र के रूप में लिखा गया है। इसमें पत्र-लेखन की कई विशेषताएँ दिखती हैं: 1. संबोधन (Greeting): पत्र की शुरुआत आदरपूर्ण संबोधन से होती है, जैसे— 'श्रीमान कविवचन सुधा संपादक महामहिम मित्रवरेषु!' 2. वैयक्तिकता (Personal Touch): लेखक अपने अनुभव सीधे पाठक से साझा करता है, जैसे— 'मुझे हरिद्वार का समाचार लिखने में बड़ा आनंद होता है...' 3. चित्रात्मक शैली (Descriptive Style): स्थान का सजीव वर्णन किया जाता है, जैसे— 'यह भूमि तीन ओर सुंदर पर्वतों से घिरी है...' 4. उपसंहार (Conclusion): पत्र का अंत एक निवेदन से होता है, जैसे— 'निश्चय है कि आप इस पत्र को स्थानदान दीजिएगा।' 5. हस्ताक्षर (Signature): अंत में भेजने वाले का नाम होता है, जैसे— 'आपका मित्र, यात्री, भारतेंदु हरिश्चंद्र।'   This lesson is a travelogue written in the form of a letter. It shows many features of letter-writing: 1. Greeting: The letter starts with a respectful greeting, like— 'Shriman Kavivachan Sudha Sampadak Mahamahim Mitravareshu!' 2. Personal Touch: The author shares his experiences directly with the reader, like— 'I take great pleasure in writing the news of Haridwar...' 3. Descriptive Style: Vivid description of the place is given, like— 'This land is surrounded by beautiful mountains on three sides...' 4. Conclusion: The letter ends with a request, like— 'I am sure you will give space to this letter.' 5. Signature: At the end is the sender's name, like— 'Your friend, traveler, Bhartendu Harishchandra.'",
+"keywords":[
+"पत्र-लेखन   Letter-writing",
+"संबोधन   Greeting",
+"वैयक्तिकता   Personal Touch",
+"उपसंहार   Conclusion"
+],
+"explanation":"औपचारिक और अनौपचारिक पत्रों का मिला-जुला रूप इस यात्रा वृत्तांत को बहुत ही रोचक बनाता है।   The blended form of formal and informal letters makes this travelogue very interesting.",
+"page_number":"12"
+},
+{
+"id":71,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"हरिद्वार के पण्डों की विशेषता बताते हुए आज के समय में ऐसे लोगों की प्रासंगिकता पर विचार कीजिए।   Describing the specialty of Haridwar's Pandas, reflect on the relevance of such people in today's time.",
+"answer":"लेखक ने हरिद्वार के पण्डों को अत्यंत 'विलक्षण संतोषी' बताया है। वे लालची नहीं हैं और यदि कोई उन्हें केवल एक पैसा भी दान में दे दे, तो वे उसे लाख रुपये के बराबर मानकर खुशी-खुशी स्वीकार कर लेते हैं। आज के भौतिकवादी और धन-लोलुप समाज में ऐसे संतोषी लोगों की अत्यधिक प्रासंगिकता है। आज मनुष्य हर समय अधिक धन और सुविधाओं की दौड़ में भाग रहा है, जिससे समाज में तनाव, भ्रष्टाचार और असंतोष बढ़ रहा है। यदि लोग पण्डों की तरह संतोषी स्वभाव अपना लें, तो समाज में शांति स्थापित होगी। लालच कम होने से लोग एक-दूसरे का सम्मान करेंगे और जीवन अधिक सुखी होगा।   The author has described the Pandas of Haridwar as highly 'uniquely contented'. They are not greedy, and if someone donates even a single paisa to them, they accept it happily considering it equal to a lakh rupees. In today's materialistic and money-hungry society, such contented people are highly relevant. Today, humans are constantly running in the race for more wealth and comforts, increasing stress, corruption, and dissatisfaction in society. If people adopt a contented nature like the Pandas, peace will be established in society. With less greed, people will respect each other and life will be happier.",
+"keywords":[
+"संतोषी   Contented",
+"भौतिकवादी   Materialistic",
+"लालच   Greed",
+"प्रासंगिकता   Relevance"
+],
+"explanation":"सच्चा धन 'संतोष' है। आधुनिक जीवन की आपाधापी में संतोषी स्वभाव ही मानसिक शांति का एकमात्र उपाय है।   True wealth is 'contentment'. In the rush of modern life, a contented nature is the only way to mental peace.",
+"page_number":"3, 8"
+},
+{
+"id":72,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"इस यात्रा वृत्तांत के आधार पर बताइए कि प्रकृति का सान्निध्य मनुष्य के हृदय में वैराग्य और भक्ति कैसे उत्पन्न करता है?   Based on this travelogue, tell how proximity to nature creates renunciation and devotion in a person's heart?",
+"answer":"प्रकृति ईश्वर की सबसे सुंदर रचना है। जब मनुष्य शहर की भीड़-भाड़ और कृत्रिम जीवन से दूर प्रकृति के सान्निध्य में आता है, तो उसका मन शांत हो जाता है। हरिद्वार के पहाड़ों, कलकल बहती निर्मल गंगा, शीतल पवन और पक्षियों के कलरव ने लेखक के मन को शुद्ध कर दिया। ऐसे पवित्र वातावरण में मनुष्य को यह अहसास होता है कि भौतिक चीजें अस्थायी हैं (वैराग्य)। प्रकृति का विशाल और निस्वार्थ स्वरूप (जैसे वृक्षों का दानशील होना) मनुष्य को परम शक्ति (ईश्वर) की महानता का बोध कराता है, जिससे उसके हृदय में भक्ति का उदय होता है। यही कारण है कि प्राचीन काल से साधु-संत वनों में तपस्या करते थे।   Nature is God's most beautiful creation. When a person comes in proximity to nature away from the city's hustle and artificial life, his mind becomes peaceful. The mountains of Haridwar, the murmuring pure Ganga, cool wind, and chirping of birds purified the author's mind. In such a holy environment, a person realizes that material things are temporary (Vairagya). The vast and selfless form of nature (like trees being charitable) makes a person realize the greatness of the Supreme Power (God), awakening devotion in his heart. This is why ascetics meditated in forests since ancient times.",
+"keywords":[
+"सान्निध्य   Proximity",
+"वैराग्य   Renunciation",
+"भक्ति   Devotion",
+"अस्थायी   Temporary"
+],
+"explanation":"प्रकृति और आध्यात्मिकता का गहरा संबंध है; प्रकृति मन को एकाग्र कर ईश्वर की ओर मोड़ती है।   Nature and spirituality are deeply connected; nature concentrates the mind and directs it towards God.",
+"page_number":"4"
+},
+{
+"id":73,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"यदि आपको अपने मित्रों के साथ एक यात्रा की योजना बनानी हो, तो किन-किन बातों का ध्यान रखेंगे? पाठ की गतिविधि के आधार पर लिखिए।   If you have to plan a trip with your friends, what things will you keep in mind? Write based on the lesson's activity.",
+"answer":"मित्रों के साथ यात्रा की योजना बनाते समय हमें कई महत्वपूर्ण बातों का ध्यान रखना चाहिए: 1. बजट और व्यय: यात्रा, भोजन, आवास और खरीदारी का अनुमानित खर्च तय करना चाहिए। 2. आवश्यक सामग्री: मौसम के अनुसार कपड़े, दवाइयाँ, पानी की बोतल और पहचान पत्र साथ रखने चाहिए। 3. यात्रा मार्ग और स्थान: जिन दर्शनीय स्थानों पर जाना है, उनकी पूर्व जानकारी और मैप रखना चाहिए। 4. सबकी सुविधा: यदि समूह में कोई श्रवणबाधित या दृष्टिबाधित मित्र है, तो उनके लिए विशेष व्यवस्था और मार्गदर्शन का ध्यान रखना चाहिए। 5. नियमों का पालन: ऐतिहासिक धरोहरों और प्राकृतिक स्थलों की सफाई व सुरक्षा का ध्यान रखना चाहिए और पर्यावरण को नुकसान नहीं पहुँचाना चाहिए।   While planning a trip with friends, we should keep many important things in mind: 1. Budget and Expenses: Estimated cost of travel, food, stay, and shopping should be fixed. 2. Essential Items: Weather-appropriate clothes, medicines, water bottle, and ID cards should be carried. 3. Route and Places: Prior information and map of the tourist spots to visit should be kept. 4. Everyone's Convenience: If there is a hearing or visually impaired friend in the group, special arrangements and guidance for them should be ensured. 5. Following Rules: Cleanliness and protection of historical heritage and natural sites should be maintained, and the environment should not be harmed.",
+"keywords":[
+"योजना   Plan",
+"बजट   Budget",
+"आवश्यक सामग्री   Essential Items",
+"सुविधा   Convenience"
+],
+"explanation":"एक अच्छी योजना से यात्रा सुरक्षित, सुखद और परेशानी मुक्त होती है।   A good plan makes the journey safe, pleasant, and hassle-free.",
+"page_number":"16"
+},
+{
+"id":74,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"कल्पना कीजिए कि लेखक और उनके मित्र कल्लू जी गंगा किनारे बैठे हैं। उनके बीच हरिद्वार की सुंदरता पर होने वाले संवाद को लिखिए।   Imagine the author and his friend Kallu Ji are sitting on the banks of Ganga. Write the dialogue between them about the beauty of Haridwar.",
+"answer":"लेखक: (गहरी साँस लेते हुए) मित्र कल्लू, देखो यह स्थान कितना पवित्र और शांत है! मेरा तो मन यहाँ आते ही निर्मल हो गया।\nकल्लू जी: सत्य कह रहे हो मित्र! पहाड़ों से घिरी यह भूमि और ठंडी-ठंडी हवा सीधे हृदय को छू रही है। \nलेखक: और यह गंगा की धारा तो देखो, ऐसा लगता है जैसे पानी नहीं, चीनी का ठंडा शर्बत बह रहा हो। जल का वेग कितना तीव्र है!\nकल्लू जी: हाँ, और यहाँ के पंडे कितने संतोषी हैं। कोई लालच नहीं। सच में, ऐसी आध्यात्मिक शांति मैंने कहीं और नहीं देखी।\nलेखक: बिल्कुल! मुझे तो अब उस सोने की थाल का भोजन भी फीका लगता है। इस पत्थर पर बैठकर खाने में जो आनंद है, वह अद्वितीय है।   Author: (Taking a deep breath) Friend Kallu, see how pure and peaceful this place is! My mind became clean as soon as I came here.\nKallu Ji: You are speaking the truth, friend! This land surrounded by mountains and the cool breeze is directly touching the heart.\nAuthor: And look at this stream of Ganga, it seems not water, but cold sugar syrup is flowing. How fast is the water's speed!\nKallu Ji: Yes, and how contented the Pandas are here. No greed. Truly, I have never seen such spiritual peace anywhere else.\nAuthor: Exactly! Now even the food on a gold plate seems tasteless to me. The joy of sitting and eating on this stone is unique.",
+"keywords":[
+"संवाद   Dialogue",
+"पवित्र   Pure",
+"शांति   Peace",
+"अद्वितीय   Unique"
+],
+"explanation":"संवाद लेखन में पात्रों की भावनाओं और पाठ के मुख्य बिंदुओं (जैसे जल, पंडे, पत्थर पर भोजन) का समावेश होना चाहिए।   Dialogue writing should include the characters' emotions and main points of the lesson (like water, Pandas, food on stone).",
+"page_number":"9"
+},
+{
+"id":75,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"'तीर्थ ही नहीं, पृथ्वी भी पावन हो!' विषय पर वृक्षारोपण और पर्यावरण संरक्षण के महत्व पर एक लेख लिखिए।   'Not only pilgrimage, the earth should also be pure!' Write an article on the importance of tree plantation and environmental conservation on this topic.",
+"answer":"'तीर्थ ही नहीं, पृथ्वी भी पावन हो!' यह विचार हमें पर्यावरण संरक्षण की प्रेरणा देता है। तीर्थ स्थान अपनी प्राकृतिक सुंदरता, शुद्ध नदियों और हरे-भरे वृक्षों के कारण पावन लगते हैं। यदि हम पूरी पृथ्वी को ऐसा ही पवित्र बनाना चाहते हैं, तो हमें वृक्षारोपण पर जोर देना होगा। वृक्ष मनुष्य के सच्चे मित्र हैं। पाठ में बताया गया है कि वृक्ष निस्वार्थ भाव से हमें फल, छाया, लकड़ी और ऑक्सीजन देते हैं। बढ़ते प्रदूषण, कटते जंगल और स्वार्थी मानवीय गतिविधियों ने पृथ्वी को संकट में डाल दिया है। नदियों का जल दूषित हो रहा है। हमें गंगा जैसी नदियों को स्वच्छ रखना चाहिए और खाली स्थानों पर पौधे लगाने चाहिए। प्रकृति बचेगी, तभी जीवन बचेगा और पूरी पृथ्वी एक सुंदर तीर्थ के समान पावन और आनंदमय बन सकेगी।   'Not only pilgrimage, the earth should also be pure!' This thought inspires us for environmental conservation. Pilgrimage sites seem pure due to their natural beauty, clean rivers, and green trees. If we want to make the entire earth as pure, we must emphasize tree plantation. Trees are true friends of humans. The lesson states that trees selflessly give us fruits, shade, wood, and oxygen. Rising pollution, cutting forests, and selfish human activities have put the earth in crisis. River waters are getting polluted. We should keep rivers like Ganga clean and plant saplings in empty spaces. Only if nature survives, life will survive, and the entire earth can become pure and joyful like a beautiful pilgrimage.",
+"keywords":[
+"पर्यावरण संरक्षण   Environmental conservation",
+"वृक्षारोपण   Tree plantation",
+"निस्वार्थ   Selfless",
+"प्रदूषण   Pollution"
+],
+"explanation":"प्रकृति के प्रति हमारा कर्तव्य केवल उसका दोहन करना नहीं, बल्कि उसका संरक्षण करना है।   Our duty towards nature is not just to exploit it, but to conserve it.",
+"page_number":"15"
+},
+{
+"id":76,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"इस पाठ में 150 वर्ष पुरानी हिंदी का प्रयोग हुआ है। वर्तमान हिंदी और पाठ की हिंदी (भाषा-शैली) में क्या मुख्य अंतर दिखाई देते हैं? उदाहरण देकर स्पष्ट करें।   150-year-old Hindi is used in this lesson. What main differences are seen between current Hindi and the Hindi (language-style) of the lesson? Explain with examples.",
+"answer":"भारतेंदु हरिश्चंद्र द्वारा रचित यह पाठ लगभग 150 वर्ष पुराना है। उस समय की हिंदी और आज की खड़ी बोली हिंदी में काफी अंतर है। पहली बात, वर्तनी (Spelling) में भिन्नता है। पाठ में 'शिखर' को 'शिषर', 'यात्रियों' को 'जात्रियों', और 'प्रकट' को 'प्रगट' लिखा गया है। दूसरी बात, वाक्यों की बनावट थोड़ी अलग है। जैसे— \"सज्जन ऐसे कि पत्थर मारने से फल देते हैं\" और \"निदान यहाँ जो कुछ है, अपूर्व है\"। आज हम इसे अधिक सरल व्याकरणिक रूप में लिखते हैं। तीसरी बात, उस समय की भाषा में संस्कृत के तत्सम शब्दों (जैसे- मनोरथ, वल्ली, विमुख, कल्लोल) का बहुत अधिक प्रयोग होता था। आधुनिक हिंदी में विदेशी और तद्भव शब्दों का प्रयोग बढ़ गया है। फिर भी, लेखक की भाषा बहुत प्रवाहमयी और चित्रात्मक है।   This lesson written by Bhartendu Harishchandra is about 150 years old. There is a lot of difference between the Hindi of that time and today's Khadi Boli Hindi. Firstly, there is a difference in spelling. In the lesson, 'Shikhar' is written as 'Shishar', 'Yatriyon' as 'Jatriyon', and 'Prakat' as 'Pragat'. Secondly, sentence structure is slightly different. Like— \"Sajjan aise ki patthar marne se phal dete hain\" and \"Nidan yahan jo kuch hai, apoorv hai\". Today we write this in a simpler grammatical form. Thirdly, Sanskrit Tatsam words (like- Manorath, Valli, Vimukh, Kallol) were used a lot in the language of that time. In modern Hindi, the use of foreign and Tadbhav words has increased. Still, the author's language is very fluent and pictorial.",
+"keywords":[
+"वर्तनी   Spelling",
+"तत्सम शब्द   Tatsam words",
+"भाषा-शैली   Language-style"
+],
+"explanation":"भाषा समय के साथ बदलती और सरल होती जाती है। पाठ की भाषा हिंदी के विकास क्रम का एक सुंदर उदाहरण है।   Language changes and becomes simpler with time. The lesson's language is a beautiful example of the evolution of Hindi.",
+"page_number":"13, 14"
+},
+{
+"id":77,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"कवि/लेखक भारतेंदु हरिश्चंद्र के जीवन और रचनाओं पर एक संक्षिप्त टिप्पणी लिखिए।   Write a brief note on the life and works of poet/author Bhartendu Harishchandra.",
+"answer":"भारतेंदु हरिश्चंद्र (1850-1885) को आधुनिक हिंदी साहित्य का पितामह (जनक) कहा जाता है। केवल 35 वर्ष के अल्प जीवन काल में उन्होंने हिंदी भाषा और साहित्य को अभूतपूर्व दिशा दी। उन्होंने कविता, नाटक, निबंध और यात्रा-वृत्तांत जैसी विधाओं में प्रचुर लेखन किया। उनकी प्रसिद्ध रचनाओं में 'सत्य हरिश्चंद्र', 'भारत-दुर्दशा', 'अंधेर नगरी' और 'सरयूपार की यात्रा' शामिल हैं। उन्होंने 'कविवचन सुधा', 'हरिश्चंद्र मैगजीन' और 'बालाबोधिनी' नामक पत्रिकाओं का संपादन किया। उनकी रचनाओं का मुख्य उद्देश्य समाज-सुधार, राष्ट्र-प्रेम, स्वाधीनता की चेतना जगाना और ब्रिटिश शासन की शोषणकारी नीतियों का विरोध करना था। उनका नारा था— 'निज भाषा उन्नति अहै सब उन्नति को मूल', जो मातृभाषा के महत्व को दर्शाता है।   Bhartendu Harishchandra (1850-1885) is called the grandfather (father) of modern Hindi literature. In a short lifespan of just 35 years, he gave an unprecedented direction to Hindi language and literature. He wrote prolifically in genres like poetry, drama, essay, and travelogue. His famous works include 'Satya Harishchandra', 'Bharat-Durdasha', 'Andher Nagari', and 'Saryupar ki Yatra'. He edited magazines named 'Kavivachan Sudha', 'Harishchandra Magazine', and 'Balabodhini'. The main purpose of his works was social reform, patriotism, awakening the consciousness of freedom, and opposing the exploitative policies of British rule. His slogan was— 'Nij bhasha unnati ahai sab unnati ko mool', which shows the importance of mother tongue.",
+"keywords":[
+"पितामह   Grandfather",
+"रचनाएँ   Works",
+"मातृभाषा   Mother tongue",
+"संपादक   Editor"
+],
+"explanation":"भारतेंदु जी का साहित्य केवल कला के लिए नहीं, बल्कि राष्ट्र निर्माण और समाज जागरण का एक सशक्त हथियार था।   Bhartendu Ji's literature was not just for art, but a powerful weapon for nation-building and social awakening.",
+"page_number":"4"
+},
+{
+"id":78,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"हरिद्वार यात्रा से लेखक ने कौन-कौन से जीवन मूल्य (Moral Values) ग्रहण किए?   What life values (Moral Values) did the author imbibe from the Haridwar journey?",
+"answer":"हरिद्वार यात्रा से लेखक ने कई महत्वपूर्ण जीवन मूल्य ग्रहण किए। पहला, प्रकृति प्रेम और परोपकार; उन्होंने वृक्षों को देखकर सीखा कि कैसे निस्वार्थ भाव से दूसरों की भलाई करनी चाहिए (सज्जनता)। दूसरा मूल्य है 'संतोष'; हरिद्वार के पण्डों को देखकर उन्होंने समझा कि धन की लिप्सा से दूर रहकर एक पैसे में भी लाख रुपये की संतुष्टि प्राप्त की जा सकती है। तीसरा मूल्य है 'सादगी'; सोने की थाल के बजाय पत्थर पर बैठकर भोजन करने में जो सुख उन्हें मिला, उसने सादा जीवन उच्च विचार के सिद्धांत को पुष्ट किया। चौथा मूल्य है 'आध्यात्मिकता और शांति'; उन्होंने जाना कि क्रोध और इच्छाओं का त्याग करके ही हृदय में सच्ची भक्ति और वैराग्य का उदय होता है।   From the Haridwar journey, the author imbibed many important life values. First, love for nature and benevolence; looking at trees, he learned how to selflessly do good for others (goodness). The second value is 'contentment'; seeing the Pandas of Haridwar, he understood that by staying away from the lust for wealth, satisfaction of a lakh rupees can be achieved even in one paisa. The third value is 'simplicity'; the joy he got in eating sitting on a stone instead of a gold plate reinforced the principle of simple living and high thinking. The fourth value is 'spirituality and peace'; he learned that true devotion and renunciation arise in the heart only by giving up anger and desires.",
+"keywords":[
+"जीवन मूल्य   Life values",
+"परोपकार   Benevolence",
+"संतोष   Contentment",
+"सादगी   Simplicity"
+],
+"explanation":"यात्राएँ केवल स्थानों का दर्शन नहीं होतीं, बल्कि हमारे चरित्र का निर्माण भी करती हैं और हमें बेहतर इंसान बनाती हैं।   Journeys are not just about sightseeing, but they also build our character and make us better humans.",
+"page_number":"1-4"
+},
+{
+"id":79,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"कल्पना कीजिए कि आप श्रवणबाधित या दृष्टिबाधित हैं। ऐसे में किसी तीर्थ यात्रा को सुगम बनाने के लिए आप क्या सुझाव देंगे?   Imagine you are hearing impaired or visually impaired. In such a case, what suggestions would you give to make a pilgrimage accessible?",
+"answer":"यदि कोई व्यक्ति श्रवणबाधित (Hearing impaired) या दृष्टिबाधित (Visually impaired) है, तो तीर्थ यात्रा को सुगम बनाने के लिए निम्नलिखित सुझाव हो सकते हैं: 1. दृष्टिबाधित लोगों के लिए ऐतिहासिक और धार्मिक स्थलों पर ब्रेल लिपि (Braille) में सूचना बोर्ड होने चाहिए। रास्ते समतल हों और सीढ़ियों पर रेलिंग की सुविधा हो। 2. श्रवणबाधित यात्रियों के लिए गाइडों को सांकेतिक भाषा (Sign Language) का ज्ञान होना चाहिए या उन्हें लिखित पर्चे/मैप दिए जाने चाहिए। 3. यात्रा के दौरान एक जिम्मेदार साथी हमेशा साथ होना चाहिए जो रास्ते और खतरे के बारे में बताता रहे। 4. मंदिरों में भीड़-भाड़ से बचने के लिए दिव्यांगों के लिए विशेष दर्शन पंक्ति (Special queue) होनी चाहिए। 5. ऐसे यात्रियों की सुरक्षा के लिए आपातकालीन सहायता (Emergency assistance) तुरंत उपलब्ध होनी चाहिए।   If a person is hearing impaired or visually impaired, the following suggestions can be made to make the pilgrimage accessible: 1. For visually impaired people, there should be information boards in Braille at historical and religious sites. Paths should be flat and stairs should have railing facilities. 2. For hearing impaired pilgrims, guides should have knowledge of Sign Language or written pamphlets/maps should be provided to them. 3. A responsible companion should always be present during the journey to inform about the route and danger. 4. To avoid crowd in temples, there should be a special queue for the disabled. 5. Emergency assistance must be readily available for the safety of such pilgrims.",
+"keywords":[
+"श्रवणबाधित   Hearing impaired",
+"दृष्टिबाधित   Visually impaired",
+"ब्रेल लिपि   Braille",
+"सांकेतिक भाषा   Sign Language"
+],
+"explanation":"समावेशी पर्यटन (Inclusive tourism) हर नागरिक का अधिकार है, इसलिए सार्वजनिक स्थलों को दिव्यांग अनुकूल बनाना आवश्यक है।   Inclusive tourism is the right of every citizen, so it is necessary to make public places disabled-friendly.",
+"page_number":"9, 17"
+},
+{
+"id":80,
+"subject":"Hindi",
+"chapter":"हरिद्वार (Haridwar)-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":120
+},
+"question":"'झरोखे से' अंश में बया पक्षी के घोंसलों का जो वर्णन किया गया है, उससे पक्षियों के जीवन संघर्ष और प्रकृति के तालमेल के बारे में क्या पता चलता है?   What does the description of the Baya bird's nests in the 'Jharokhe se' excerpt reveal about the life struggle of birds and harmony of nature?",
+"answer":"'झरोखे से' अंश में भारतेंदु जी ने पीले रंग के छोटे पक्षी 'बया' के घोंसलों का बहुत सुंदर वर्णन किया है। बया पक्षी अपने घोंसले बबूल के काँटेदार वृक्ष पर बनाते हैं और एक-एक डाल पर बीस-तीस घोंसले लटकते हैं। यह वर्णन दर्शाता है कि पक्षियों का जीवन संघर्षों से भरा है। शिकारी जानवरों से अपने अंडों और बच्चों को बचाने के लिए वे जानबूझकर काँटेदार पेड़ चुनते हैं। यह उनकी अद्भुत शिल्पविद्या, बुद्धिमत्ता और प्रकृति के साथ उनके बेहतरीन तालमेल का प्रतीक है। प्रकृति ने उन्हें घर बनाने का जो स्वाभाविक ज्ञान (चातुर्य) दिया है, वह इंसानों की किसी भी इंजीनियरिंग से कम नहीं है। काँटेदार पेड़ भी उन्हें आश्रय देकर परोपकार का संदेश देते हैं।   In the 'Jharokhe se' excerpt, Bhartendu Ji has beautifully described the nests of the small yellow bird 'Baya'. Baya birds build their nests on the thorny Babool tree, and twenty-thirty nests hang on a single branch. This description shows that the life of birds is full of struggles. To protect their eggs and chicks from predatory animals, they deliberately choose thorny trees. This is a symbol of their amazing craftsmanship, intelligence, and excellent harmony with nature. The natural knowledge (cleverness) nature has given them to build homes is no less than any human engineering. The thorny trees also give a message of benevolence by giving them shelter.",
+"keywords":[
+"जीवन संघर्ष   Life struggle",
+"तालमेल   Harmony",
+"बुद्धिमत्ता   Intelligence",
+"चातुर्य   Cleverness"
+],
+"explanation":"प्रकृति के हर जीव में स्वयं को सुरक्षित रखने की गज़ब की क्षमता होती है। पक्षियों का यह कौशल हमें प्रकृति का सम्मान करना सिखाता है।   Every creature of nature has an amazing ability to protect itself. This skill of birds teaches us to respect nature.",
+"page_number":"17"
+}
+]
