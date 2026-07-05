@@ -1,0 +1,1765 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Identify the base and the exponent in the expression 4^5.",
+    "answer": "In the exponential expression 4^5, the base is 4 and the exponent (or power) is 5.",
+    "keywords": [
+      "base",
+      "exponent",
+      "power"
+    ],
+    "explanation": "An exponential expression is written as base^exponent. The base is the number being multiplied, and the exponent shows how many times it is multiplied. This is explained on page 3 of the chapter PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What is the value of any non-zero integer raised to the power of zero?",
+    "answer": "Any non-zero integer raised to the power of zero is equal to 1. In general, a^0 = 1 where a is not equal to 0.",
+    "keywords": [
+      "power of zero",
+      "equal to 1",
+      "non-zero integer"
+    ],
+    "explanation": "The zero exponent law states that any non-zero number raised to the power of 0 evaluates to 1. This is discussed on page 10 of the chapter PDF.",
+    "page_number": "10"
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What does a negative exponent represent in mathematical terms?",
+    "answer": "A negative exponent represents the multiplicative inverse (or reciprocal) of the corresponding positive power. For example, a^-m = 1/(a^m).",
+    "keywords": [
+      "negative exponent",
+      "multiplicative inverse",
+      "reciprocal",
+      "positive power"
+    ],
+    "explanation": "A negative exponent flips the base to the denominator, effectively finding its multiplicative inverse. This concept is covered on page 5 of the chapter PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Determine the sign of the result when a negative base is raised to an even exponent.",
+    "answer": "When a negative base is raised to an even exponent, the result is always positive.",
+    "keywords": [
+      "negative base",
+      "even exponent",
+      "positive result"
+    ],
+    "explanation": "Multiplying a negative number by itself an even number of times cancels out the negative signs, resulting in a positive product. Discussed on page 4 of the chapter PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 20
+    },
+    "question": "Express the number 124 as a product of powers of its prime factors.",
+    "answer": "The prime factorization of 124 is 2 x 2 x 31, which is written in exponential form as 2^2 x 31.",
+    "keywords": [
+      "prime factors",
+      "exponential form",
+      "2^2 x 31"
+    ],
+    "explanation": "Factoring 124 yields 4 x 31, and 4 is expressed as 2 squared. This is shown in Exercise 2.1 on page 6 of the chapter PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 20
+    },
+    "question": "Calculate the exact numerical value of 2^-4.",
+    "answer": "The value of 2^-4 is 1 / (2^4), which simplifies to 1 / 16.",
+    "keywords": [
+      "2^-4",
+      "1 / 2^4",
+      "1 / 16"
+    ],
+    "explanation": "Using the law of negative exponents, 2^-4 becomes the reciprocal of 2^4, yielding 1/16. Covered in Exercise 2.1 on page 6 of the chapter PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 7,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Define the 'standard form' (scientific notation) of a number.",
+    "answer": "A number is in standard form when it is expressed as a decimal number between 1.0 and 10.0 (including 1.0) multiplied by a power of 10.",
+    "keywords": [
+      "standard form",
+      "scientific notation",
+      "decimal number",
+      "power of 10"
+    ],
+    "explanation": "Standard form provides a convenient way to represent very large or very small numbers using a coefficient between 1 and 10 and a base 10 exponent. Discussed on page 13 of the chapter PDF.",
+    "page_number": "13"
+  },
+  {
+    "id": 8,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Write the decimal number 0.00001275 in standard form.",
+    "answer": "The standard form of 0.00001275 is 1.275 x 10^-5.",
+    "keywords": [
+      "standard form",
+      "1.275 x 10^-5"
+    ],
+    "explanation": "To express in standard form, the decimal is moved 5 places to the right, resulting in a negative exponent of -5. Shown on page 16 of the chapter PDF.",
+    "page_number": "16"
+  },
+  {
+    "id": 9,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "State the law of exponents for the product of powers with the same base.",
+    "answer": "The law states that for any non-zero base 'a' and integers 'm' and 'n', a^m x a^n = a^(m + n).",
+    "keywords": [
+      "product of powers",
+      "same base",
+      "a^(m+n)"
+    ],
+    "explanation": "When multiplying two exponential terms with the same base, their exponents are added together. Discussed on page 7 of the chapter PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 10,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "State the law of exponents for the power of a power.",
+    "answer": "The law states that for any non-zero base 'a' and integers 'm' and 'n', (a^m)^n = a^(m x n).",
+    "keywords": [
+      "power of a power",
+      "a^(m x n)",
+      "multiply exponents"
+    ],
+    "explanation": "When an exponential term is raised to another power, the exponents are multiplied. Covered on page 7 of the chapter PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 11,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "The size of a hydrogen atom is 10^-10 m. Express it in millimetres in standard form.",
+    "answer": "The size is 10^-10 x 10^3 mm = 10^-7 mm in standard form.",
+    "keywords": [
+      "hydrogen atom",
+      "millimetres",
+      "10^-7 mm"
+    ],
+    "explanation": "Since 1 meter = 10^3 millimeters, multiplying 10^-10 by 10^3 gives 10^-7 mm. Answered in Exercise 2.3 on page 16 of the chapter PDF.",
+    "page_number": "16"
+  },
+  {
+    "id": 12,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What is the primary difference between linear growth and exponential growth?",
+    "answer": "Linear growth increases by a fixed amount (additive) at each step, while exponential growth multiplies by a fixed factor (multiplicative) at each step.",
+    "keywords": [
+      "linear growth",
+      "fixed amount",
+      "additive",
+      "exponential growth",
+      "fixed factor",
+      "multiplicative"
+    ],
+    "explanation": "Linear growth relies on repeated addition, whereas exponential growth relies on repeated multiplication, causing much faster increases. Discussed on page 16 of the chapter PDF.",
+    "page_number": "16"
+  },
+  {
+    "id": 13,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "State the law of exponents for the quotient of powers with the same base.",
+    "answer": "The law states that for any non-zero base 'a' and integers 'm' and 'n', (a^m) / (a^n) = a^(m - n).",
+    "keywords": [
+      "quotient of powers",
+      "same base",
+      "a^(m-n)"
+    ],
+    "explanation": "When dividing two exponential terms with the same base, the exponent of the denominator is subtracted from the numerator's exponent. Discussed on page 10 of the chapter PDF.",
+    "page_number": "10"
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 20
+    },
+    "question": "Write (-1/2)^-2 using a positive exponent.",
+    "answer": "By finding the reciprocal of the base, (-1/2)^-2 becomes (-2)^2, which evaluates to 4.",
+    "keywords": [
+      "positive exponent",
+      "reciprocal",
+      "(-2)^2",
+      "4"
+    ],
+    "explanation": "A negative exponent implies the reciprocal of the base. Thus, (-1/2)^-2 = (-2/1)^2. Discussed on page 12 of the chapter PDF.",
+    "page_number": "12"
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Simplify 2^5 x 2^8 using the laws of exponents.",
+    "answer": "Using the product law of exponents, 2^5 x 2^8 = 2^(5+8) = 2^13.",
+    "keywords": [
+      "simplify",
+      "2^13",
+      "product law"
+    ],
+    "explanation": "The bases are identical, so their exponents are added together (5 + 8 = 13). Shown in the slide presentation PDF on page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 20
+    },
+    "question": "Find the value of (-1)^100. Is it positive or negative?",
+    "answer": "The value of (-1)^100 is 1, which is positive because the exponent 100 is an even number.",
+    "keywords": [
+      "(-1)^100",
+      "1",
+      "positive",
+      "even exponent"
+    ],
+    "explanation": "Any negative base raised to an even power results in a positive value. This rule is explained on page 4 of the chapter PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 40
+    },
+    "question": "Evaluate the product of 5^-3 and the multiplicative inverse of 10^-3.",
+    "answer": "The multiplicative inverse of 10^-3 is 10^3. Multiplying gives 5^-3 x 10^3 = (1/5^3) x 1000 = 1000 / 125 = 8.",
+    "keywords": [
+      "multiplicative inverse",
+      "10^3",
+      "5^-3",
+      "8"
+    ],
+    "explanation": "The inverse of 10^-3 flips the negative sign to positive. (10/5)^3 = 2^3 = 8. Solved example 1 on page 5 of the chapter PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 30
+    },
+    "question": "Simplify the expression (2^3)^-2 using the laws of exponents.",
+    "answer": "Using the power of a power law, (2^3)^-2 = 2^(3 x -2) = 2^-6. This can also be written as 1 / 2^6 or 1 / 64.",
+    "keywords": [
+      "power of a power",
+      "2^-6",
+      "1/64"
+    ],
+    "explanation": "Applying (a^m)^n = a^(mn) directly simplifies the expression to 2^-6. Found as Solved Example 3 on page 8 of the chapter PDF.",
+    "page_number": "8"
+  },
+  {
+    "id": 19,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 30
+    },
+    "question": "Express the number 9630000000.3450 in the standard form.",
+    "answer": "Shifting the decimal point 9 places to the left gives a coefficient of 9.630000000345. Thus, the standard form is 9.630000000345 x 10^9.",
+    "keywords": [
+      "standard form",
+      "decimal shift",
+      "9.630000000345 x 10^9"
+    ],
+    "explanation": "To convert to standard form, the decimal is moved until one non-zero digit remains on the left. Illustrated in Solved Example 10 on page 14 of the chapter PDF.",
+    "page_number": "14"
+  },
+  {
+    "id": 20,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 30
+    },
+    "question": "Convert the number 12346000 into its standard form.",
+    "answer": "By moving the decimal point 7 places to the left to place it after the first digit (1), we get 1.2346. The standard form is 1.2346 x 10^7.",
+    "keywords": [
+      "standard form",
+      "1.2346 x 10^7",
+      "decimal point"
+    ],
+    "explanation": "Moving the decimal left by 7 places requires multiplying the resulting coefficient by 10^7. Solved Example 11 on page 15 of the chapter PDF.",
+    "page_number": "15"
+  },
+  {
+    "id": 21,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 30
+    },
+    "question": "Express the very small number 0.00000000005402 in standard form.",
+    "answer": "Shifting the decimal point 11 places to the right to place it after the first non-zero digit (5), we get 5.402. The standard form is 5.402 x 10^-11.",
+    "keywords": [
+      "standard form",
+      "5.402 x 10^-11",
+      "decimal right"
+    ],
+    "explanation": "For numbers less than 1, the decimal moves right, creating a negative exponent. Solved Example 12 on page 15 of the chapter PDF.",
+    "page_number": "15"
+  },
+  {
+    "id": 22,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 40
+    },
+    "question": "Write the expanded form of 23710.834 using powers of 10.",
+    "answer": "The expanded form is: 2 x 10^4 + 3 x 10^3 + 7 x 10^2 + 1 x 10^1 + 0 x 10^0 + 8 x 10^-1 + 3 x 10^-2 + 4 x 10^-3.",
+    "keywords": [
+      "expanded form",
+      "powers of 10",
+      "decimal places",
+      "negative powers"
+    ],
+    "explanation": "Each digit is multiplied by 10 raised to a power corresponding to its place value. Solved in Exercise 2.3 on page 3 of the worksheet PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 23,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Find the reciprocal of (-1296/625) and express it in exponential notation.",
+    "answer": "The reciprocal is -625/1296. Expressing as powers, 625 = 5^4 and 1296 = 6^4. Thus, the exponential notation is -(5/6)^4.",
+    "keywords": [
+      "reciprocal",
+      "exponential notation",
+      "-(5/6)^4",
+      "5^4",
+      "6^4"
+    ],
+    "explanation": "First find the reciprocal by flipping the fraction, then find the prime factorizations to write them as powers of 4. Found in Level 1 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 24,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 30
+    },
+    "question": "Calculate how many times larger 3^5 is than 3^-2.",
+    "answer": "To find how many times larger, divide 3^5 by 3^-2. Using the quotient law, 3^5 / 3^-2 = 3^(5 - (-2)) = 3^7 times larger.",
+    "keywords": [
+      "divide",
+      "quotient law",
+      "3^7 times",
+      "subtract exponents"
+    ],
+    "explanation": "Comparing values using exponents involves division and subtracting the denominator's exponent from the numerator's. Covered in Power Lines examples.",
+    "page_number": "12"
+  },
+  {
+    "id": 25,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Find the value of [4^-1 + 6^-1 + 8^-1]^0.",
+    "answer": "The sum inside the bracket evaluates to a non-zero number. By the zero exponent law, any non-zero number raised to the power of 0 equals 1. So, the value is 1.",
+    "keywords": [
+      "power of 0",
+      "non-zero number",
+      "zero exponent law",
+      "equals 1"
+    ],
+    "explanation": "There is no need to calculate the sum of the fractions because the entire expression is raised to 0, which always equals 1. Found in Level 1 worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 26,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 40
+    },
+    "question": "Find the multiplicative inverse of (3^-2)^3 / (-9)^-5.",
+    "answer": "The expression simplifies to 3^-6 / (-(3^2))^-5 = 3^-6 / -(3^-10) = -(3^(-6 - (-10))) = -3^4. The multiplicative inverse of -3^4 is 1 / (-3^4) or -3^-4.",
+    "keywords": [
+      "multiplicative inverse",
+      "simplify",
+      "-3^4",
+      "-3^-4",
+      "reciprocal"
+    ],
+    "explanation": "First, simplify the base expression using laws of exponents, ensuring signs are correctly managed, then take its reciprocal. From Level 1 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 40
+    },
+    "question": "Write the product 216 x 2500 x 300 as a product of prime factors in exponential form.",
+    "answer": "216 = 2^3 x 3^3. 2500 = 2^2 x 5^4. 300 = 2^2 x 3^1 x 5^2. Multiplying them: (2^3 x 2^2 x 2^2) x (3^3 x 3^1) x (5^4 x 5^2) = 2^7 x 3^4 x 5^6.",
+    "keywords": [
+      "prime factors",
+      "exponential form",
+      "2^7 x 3^4 x 5^6"
+    ],
+    "explanation": "Factorize each number into primes, then combine identical bases using the product law of exponents. From Level 1 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "At the end of the 20th century, the world's population was approximately 6.125 x 10^9. Express this population in usual form.",
+    "answer": "To express in usual form, shift the decimal point 9 places to the right, which gives 6,125,000,000.",
+    "keywords": [
+      "usual form",
+      "decimal shift",
+      "6,125,000,000"
+    ],
+    "explanation": "Converting from standard form to usual form requires moving the decimal point right by the number indicated by the positive exponent. Level 1 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 40
+    },
+    "question": "Find the value of 16^6 x 16^-3 / 2^11.",
+    "answer": "First simplify the numerator: 16^(6 - 3) = 16^3. Since 16 = 2^4, rewrite as (2^4)^3 = 2^12. The expression becomes 2^12 / 2^11 = 2^1 = 2.",
+    "keywords": [
+      "simplify",
+      "base 2",
+      "2^12",
+      "2^1",
+      "value is 2"
+    ],
+    "explanation": "Convert all terms to a common base (2) and apply the laws of exponents to simplify the fraction. From Level 2 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 40
+    },
+    "question": "Find the value of 2x^2 + y^3 for x = 1/3 and y = -2/3.",
+    "answer": "Substitute the values: 2(1/3)^2 + (-2/3)^3 = 2(1/9) - 8/27 = 2/9 - 8/27. Using a common denominator of 27, (6 - 8)/27 = -2/27.",
+    "keywords": [
+      "substitution",
+      "evaluate",
+      "common denominator",
+      "-2/27"
+    ],
+    "explanation": "Plug in the given fractions, evaluate the square and cube, and perform fraction subtraction. From Level 2 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "Add 1.523 x 10^6 to 15.23 x 10^2 and express the result in standard form.",
+    "answer": "Convert to the same exponent: 15.23 x 10^2 = 0.001523 x 10^6. Adding them gives (1.523 + 0.001523) x 10^6 = 1.524523 x 10^6 in standard form.",
+    "keywords": [
+      "add standard form",
+      "same exponent",
+      "1.524523 x 10^6"
+    ],
+    "explanation": "Before adding numbers in scientific notation, they must have the same exponent. We align them to 10^6 and sum the coefficients. Level 2 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "What is the area of a rectangle with length 3^3 metres and width 9^-2 metres?",
+    "answer": "Area = Length x Width = 3^3 x 9^-2. Rewrite 9 as 3^2, so 9^-2 = (3^2)^-2 = 3^-4. Area = 3^3 x 3^-4 = 3^-1 = 1/3 square metres.",
+    "keywords": [
+      "area",
+      "length x width",
+      "base 3",
+      "1/3 square metres"
+    ],
+    "explanation": "Use the formula for the area of a rectangle and simplify the product by converting both terms to the base 3. Level 2 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "Evaluate (2^-2)^3 / 10^-3 x (5/10)^-12.",
+    "answer": "Simplify: 2^-6 / 10^-3 x (1/2)^-12. This becomes 2^-6 x 10^3 x 2^12 = 2^6 x 1000 = 64 x 1000 = 64000.",
+    "keywords": [
+      "simplify",
+      "laws of exponents",
+      "64000",
+      "evaluate"
+    ],
+    "explanation": "Convert fractions and negative exponents step by step using laws of exponents, then multiply the resulting integer values. Adapted from Level 2 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "Solve for x in the equation: 81^-2 / 729^(1-x) = 9^(2x).",
+    "answer": "Convert to base 9: (9^2)^-2 / (9^3)^(1-x) = 9^(2x). This gives 9^-4 / 9^(3-3x) = 9^(2x). Therefore, -4 - (3 - 3x) = 2x, yielding -7 + 3x = 2x, so x = 7.",
+    "keywords": [
+      "solve for x",
+      "common base",
+      "base 9",
+      "x = 7"
+    ],
+    "explanation": "Convert all bases in the equation to 9 (or 3), apply the exponent laws, and equate the powers to solve for x. Level 2 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 40
+    },
+    "question": "Find the value of (12^2 - 5^3) x (-1)^20 / 19.",
+    "answer": "Evaluate terms: 12^2 = 144, 5^3 = 125. The subtraction gives 144 - 125 = 19. Also (-1)^20 = 1. So, (19 x 1) / 19 = 19 / 19 = 1.",
+    "keywords": [
+      "evaluate",
+      "12^2",
+      "5^3",
+      "(-1)^20",
+      "value 1"
+    ],
+    "explanation": "Calculate the squares and cubes directly, note that (-1) to an even power is 1, and divide the result. From Level 2 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Express the number 32400 as a product of its prime factors in exponential form.",
+    "answer": "The prime factorization of 32400 is 2 x 2 x 2 x 2 x 3 x 3 x 3 x 3 x 5 x 5. In exponential form, this is 2^4 x 3^4 x 5^2.",
+    "keywords": [
+      "prime factorization",
+      "exponential form",
+      "2^4 x 3^4 x 5^2"
+    ],
+    "explanation": "Divide the number repeatedly by primes 2, 3, and 5 to group them into powers. Found on page 4 of the textbook chapter.",
+    "page_number": "4"
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How can we write 561.903 in expanded form using powers of 10?",
+    "answer": "The expanded form is 5 x 10^2 + 6 x 10^1 + 1 x 10^0 + 9 x 10^-1 + 0 x 10^-2 + 3 x 10^-3.",
+    "keywords": [
+      "expanded form",
+      "powers of 10",
+      "decimal places",
+      "negative exponents"
+    ],
+    "explanation": "Digits before the decimal use positive exponents and zero, while digits after the decimal use negative exponents. Shown on page 12 of the textbook chapter.",
+    "page_number": "12"
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Simplify 5^2 x 5^-2 using the laws of exponents and state the final result.",
+    "answer": "Using the product law, 5^2 x 5^-2 = 5^(2 + -2) = 5^0. Any non-zero number raised to the power of 0 is 1. Thus, the result is 1.",
+    "keywords": [
+      "product law",
+      "5^0",
+      "zero exponent",
+      "1"
+    ],
+    "explanation": "Adding the exponents 2 and -2 yields 0, which verifies the zero exponent law where a^0 = 1. Discussed in Solved Example 7 on page 11.",
+    "page_number": "11"
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Solve for x in the equation 3^(x + 1) x 3^(x - 1) = 81.",
+    "answer": "Using the product law, add the exponents: 3^(x + 1 + x - 1) = 3^(2x). Since 81 = 3^4, equate the exponents: 2x = 4. Therefore, x = 2.",
+    "keywords": [
+      "solve for x",
+      "product law",
+      "equate exponents",
+      "x = 2"
+    ],
+    "explanation": "Simplify the left side by adding exponents, express 81 as a power of 3, and solve the resulting linear equation. From page 2 of the worksheet solutions.",
+    "page_number": "2"
+  },
+  {
+    "id": 40,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 30
+    },
+    "question": "Simplify the expression 10^5 / 10^-2.",
+    "answer": "Using the quotient law, subtract the denominator's exponent from the numerator's: 10^(5 - (-2)) = 10^(5 + 2) = 10^7.",
+    "keywords": [
+      "quotient law",
+      "subtract exponents",
+      "10^7"
+    ],
+    "explanation": "Dividing powers with the same base involves subtracting the exponent of the divisor from the dividend. Shown in Solved Example 6 on page 10.",
+    "page_number": "10"
+  },
+  {
+    "id": 41,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "A virus spreads such that the number of infected people doubles every day. If 8 people are infected on the first day, how many will be infected after 5 days? Write an expression for n days.",
+    "answer": "After 5 days, the number of infected people will be 8 x 2^5 = 8 x 32 = 256 people. The general expression for the number of infected people after n days is 8 x 2^n.",
+    "keywords": [
+      "virus spreads",
+      "doubles every day",
+      "8 x 2^5",
+      "256",
+      "8 x 2^n"
+    ],
+    "explanation": "Because the virus doubles daily, it follows an exponential growth pattern multiplying by 2^n. Solved in Exercise 2.4 on page 19 of the chapter.",
+    "page_number": "19"
+  },
+  {
+    "id": 42,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "The mass of Earth is 6 x 10^24 kg, and the mass of the Moon is 7.5 x 10^22 kg. Calculate their total weight and express it in standard form.",
+    "answer": "Total weight = 6 x 10^24 + 7.5 x 10^22. To add, adjust exponents: 600 x 10^22 + 7.5 x 10^22 = 607.5 x 10^22. In standard form, this is 6.075 x 10^24 kg.",
+    "keywords": [
+      "total weight",
+      "adjust exponents",
+      "add coefficients",
+      "6.075 x 10^24 kg"
+    ],
+    "explanation": "To add numbers in standard form, first make the exponents of 10 identical, then add the coefficients and revert to standard form. Worksheet page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 43,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "Using the masses of Earth (6 x 10^24 kg) and the Moon (7.5 x 10^22 kg), determine how many times heavier the Earth is compared to the Moon.",
+    "answer": "Divide Earth's mass by Moon's mass: (6 x 10^24) / (7.5 x 10^22) = (6 / 7.5) x 10^(24 - 22) = 0.8 x 10^2 = 80. The Earth is 80 times heavier.",
+    "keywords": [
+      "divide masses",
+      "heavier",
+      "80 times",
+      "ratio"
+    ],
+    "explanation": "Find the ratio by dividing the coefficients and subtracting the exponents. Worksheet page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 44,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 55
+    },
+    "question": "What number must be added to 7.29 x 10^-8 to get 9.213 x 10^-6? Express the answer in standard form.",
+    "answer": "Subtract the first number from the second: 9.213 x 10^-6 - 7.29 x 10^-8. Adjust exponents: 9.213 x 10^-6 - 0.0729 x 10^-6 = 9.1401 x 10^-6.",
+    "keywords": [
+      "subtract",
+      "adjust exponents",
+      "9.1401 x 10^-6",
+      "standard form"
+    ],
+    "explanation": "Set up an equation and solve by subtracting. Match the exponents before performing the subtraction on the coefficients. Worksheet page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 45,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "The total number of stars in the Milky Way is 2 x 10^11, and Earth's population is 8 x 10^9. Calculate the number of stars for every human on Earth.",
+    "answer": "Divide stars by population: (2 x 10^11) / (8 x 10^9) = (2 / 8) x 10^(11 - 9) = 0.25 x 10^2 = 25. There are 25 stars for every human.",
+    "keywords": [
+      "stars per human",
+      "divide",
+      "25 stars"
+    ],
+    "explanation": "Divide the two quantities expressed in scientific notation by handling coefficients and powers of 10 separately. Worksheet page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 46,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "A data centre stores 6 x 10^15 bytes of data, and a laptop stores 3 x 10^9 bytes. How many times more data does the data centre store compared to the laptop?",
+    "answer": "Divide the data centre storage by the laptop storage: (6 x 10^15) / (3 x 10^9) = (6 / 3) x 10^(15 - 9) = 2 x 10^6. It stores 2 million times more data.",
+    "keywords": [
+      "compare storage",
+      "divide",
+      "2 x 10^6",
+      "2 million times"
+    ],
+    "explanation": "Find the ratio by dividing the two values, showcasing the laws of exponents. Worksheet page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 47,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Find the lowest positive integer x such that (9 x x^-2) / (3^-1 x 12 x x^-4) is an integer.",
+    "answer": "Simplify the expression: (3^2 x x^-2) / (3^-1 x 3 x 4 x x^-4) = (3^2 x x^-2) / (4 x x^-4) = (9/4) x x^2. For this to be an integer, x^2 must be a multiple of 4. The lowest positive integer is x = 2.",
+    "keywords": [
+      "lowest positive integer",
+      "simplify expression",
+      "multiple of 4",
+      "x = 2"
+    ],
+    "explanation": "Simplify the numeric and variable parts separately. Then determine the minimum value for x that cancels out the denominator. Level 3 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 48,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 55
+    },
+    "question": "If x = [(2/3)^2]^3 x (1/3)^-2 x 3^-1 x 1/6, find the reciprocal of x.",
+    "answer": "Simplify: (2/3)^6 x 3^2 x 3^-1 x (1/2 x 3^-1) = (2^6 / 3^6) x 3^2 x 3^-1 x 2^-1 x 3^-1 = 2^5 / 3^6. The reciprocal of x is 3^6 / 2^5.",
+    "keywords": [
+      "simplify",
+      "laws of exponents",
+      "reciprocal",
+      "3^6 / 2^5"
+    ],
+    "explanation": "Break down all numbers into prime bases 2 and 3, collect terms using laws of exponents, and finally take the reciprocal. Level 3 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 49,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "Solve for x if 3^(2x) - 3^x = 80 x 3^4.",
+    "answer": "Let y = 3^x. The equation becomes y^2 - y = 6480. Factoring gives (y - 81)(y + 80) = 0. Since y must be positive, y = 81. So, 3^x = 81, which means 3^x = 3^4, giving x = 4.",
+    "keywords": [
+      "solve for x",
+      "substitution",
+      "quadratic equation",
+      "x = 4"
+    ],
+    "explanation": "This requires substituting 3^x to form a quadratic equation, factoring it, and solving the valid positive root for x. Level 3 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 50,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Evaluate [ (-1/2)^-2 x (-3/5)^-3 x (2/3)^-2 ] / [ 1/3 x (5/10)^3 ].",
+    "answer": "Simplify numerators and denominators by flipping negative exponents: [ (-2)^2 x (-5/3)^3 x (3/2)^2 ] / [ 1/3 x (1/2)^3 ]. After calculating powers and cancelling common terms, the final result simplifies to -100.",
+    "keywords": [
+      "evaluate",
+      "negative exponents",
+      "reciprocal",
+      "-100"
+    ],
+    "explanation": "Convert negative exponents to reciprocals and expand the fractions. Careful cancellation of terms leads to the integer solution. Level 3 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "If a = 2^-2 - 2^-3, b = 2^-3 - 2^-4, and c = 2^-4 - 2^-2, find the value of a^3 + b^3 + c^3.",
+    "answer": "Observe that a + b + c = (2^-2 - 2^-3) + (2^-3 - 2^-4) + (2^-4 - 2^-2) = 0. We know if a + b + c = 0, then a^3 + b^3 + c^3 = 3abc. Substitute a, b, c to compute 3abc.",
+    "keywords": [
+      "algebraic identity",
+      "a+b+c=0",
+      "3abc",
+      "substitution"
+    ],
+    "explanation": "Using the algebraic identity for sums of cubes when the sum of variables is zero vastly simplifies the calculation. Level 3 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "The size of a plant cell is 0.02 mm and a red blood cell is 0.006 mm. Express them in standard form and find their ratio.",
+    "answer": "Plant cell = 2 x 10^-2 mm. Red blood cell = 6 x 10^-3 mm. The ratio is (2 x 10^-2) / (6 x 10^-3) = (2/6) x 10^1 = (1/3) x 10 = 10/3 or 3.33.",
+    "keywords": [
+      "standard form",
+      "ratio",
+      "2 x 10^-2",
+      "6 x 10^-3",
+      "10/3"
+    ],
+    "explanation": "Convert both decimal numbers to scientific notation first, then divide them to determine the comparative ratio. Case Study Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "How many plant cells (each 0.02 mm in size) arranged one after the other in a row will measure 1 cm?",
+    "answer": "Convert 1 cm to mm: 1 cm = 10 mm. Divide total length by cell size: 10 mm / 0.02 mm = 10 / (2 x 10^-2) = (10 / 2) x 10^2 = 5 x 100 = 500 cells.",
+    "keywords": [
+      "convert units",
+      "divide",
+      "10 mm",
+      "500 cells"
+    ],
+    "explanation": "Make the units identical before division. Dividing the total length by the individual length gives the number of cells. Case Study Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "The half-life of a radioactive substance is 3 x 10^3 years. Initially, there are 8 x 10^-2 g. How much remains after 9 x 10^3 years?",
+    "answer": "Number of half-lives = (9 x 10^3) / (3 x 10^3) = 3 half-lives. The remaining amount halves 3 times: (8 x 10^-2) / 2^3 = (8 x 10^-2) / 8 = 1 x 10^-2 g.",
+    "keywords": [
+      "half-life",
+      "3 half-lives",
+      "divide by 2^3",
+      "1 x 10^-2 g"
+    ],
+    "explanation": "Determine the number of decay cycles, then divide the initial amount by 2 raised to the number of cycles. Found on Worksheet page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 55
+    },
+    "question": "The total charge of some electrons is 8 x 10^-17 units. If each electron has a charge of 1.6 x 10^-19 units, calculate the number of electrons.",
+    "answer": "Number of electrons = Total charge / Charge per electron = (8 x 10^-17) / (1.6 x 10^-19). This equals (8 / 1.6) x 10^(-17 - (-19)) = 5 x 10^2 = 500 electrons.",
+    "keywords": [
+      "divide",
+      "total charge",
+      "5 x 10^2",
+      "500 electrons"
+    ],
+    "explanation": "Dividing the total charge by the individual charge using the quotient law of exponents provides the count. Found on Worksheet page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Planet X has a mass of 1.2 x 10^22 kg, and Planet Y has a mass of 60 x 10^20 kg. Which planet has a greater mass, and by how much?",
+    "answer": "Convert Planet X to same exponent: 1.2 x 10^22 = 120 x 10^20 kg. Planet X (120 x 10^20) is heavier than Y (60 x 10^20). Difference = (120 - 60) x 10^20 = 60 x 10^20 = 6 x 10^21 kg.",
+    "keywords": [
+      "compare masses",
+      "same exponent",
+      "Planet X heavier",
+      "6 x 10^21 kg"
+    ],
+    "explanation": "Match the exponent of 10 for both numbers to directly compare and subtract their coefficients. Found on Worksheet page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "If Quantity A is 2 x 10^-4 and Quantity B is 5 x 10^2, find the value of (A/B)^2.",
+    "answer": "A/B = (2 x 10^-4) / (5 x 10^2) = 0.4 x 10^-6 = 4 x 10^-7. Squaring this gives (4 x 10^-7)^2 = 16 x 10^-14 = 1.6 x 10^-13.",
+    "keywords": [
+      "divide",
+      "square",
+      "4 x 10^-7",
+      "1.6 x 10^-13"
+    ],
+    "explanation": "Divide the quantities using exponent laws, format in scientific notation, and then square the result. Found on Worksheet page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Evaluate [ (1/2)^-1 + (2/3)^2 - (3/4)^0 ]^-2.",
+    "answer": "Simplify inside: (1/2)^-1 = 2. (2/3)^2 = 4/9. (3/4)^0 = 1. The sum is 2 + 4/9 - 1 = 1 + 4/9 = 13/9. Then, (13/9)^-2 = (9/13)^2 = 81/169.",
+    "keywords": [
+      "evaluate",
+      "zero power",
+      "negative exponent",
+      "13/9",
+      "81/169"
+    ],
+    "explanation": "Apply zero and negative exponent rules to simplify the terms inside the bracket before raising the final fraction to the outer power. Multiple Choice page 24.",
+    "page_number": "24"
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Simplify the expression: ( 3 x 3 x 2 x 2 x 5 x 3 x 5 x 5 x 7 ) / ( 77 x 55 x 66 x 66 x 75 ) by expressing it as a product of prime numbers in exponential form.",
+    "answer": "Numerator: 2^2 x 3^3 x 5^3 x 7. Denominator primes: 77=7x11, 55=5x11, 66=2x3x11 (twice), 75=3x5^2. Combine denom: 2^2 x 3^3 x 5^3 x 7 x 11^4. Canceling common terms leaves 1 / 11^4 = 11^-4.",
+    "keywords": [
+      "prime factorization",
+      "simplify",
+      "cancel terms",
+      "11^-4"
+    ],
+    "explanation": "Decompose every composite number into its prime factors, collect them using exponent laws, and divide. Worksheet page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Find the value of x if 2^(a+3) = 2^(a+1) + 12.",
+    "answer": "Rewrite as 2^a x 2^3 - 2^a x 2^1 = 12. Factoring out 2^a gives 2^a(8 - 2) = 12. So, 2^a(6) = 12, which means 2^a = 2. Therefore, a = 1.",
+    "keywords": [
+      "factor out",
+      "2^a",
+      "solve for a",
+      "a = 1"
+    ],
+    "explanation": "Split the exponents using the product law backward to factor out the common term, then solve the simple linear equation. Level 3 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 55
+    },
+    "question": "Simplify the algebraic fraction: ( 10^-1 x 5^(x-3) x 4^(x-1) ) / ( 10 x 5^(x-5) x 4^(x-2) ).",
+    "answer": "Use quotient rule for each base. Base 10: 10^(-1 - 1) = 10^-2. Base 5: 5^((x-3) - (x-5)) = 5^2. Base 4: 4^((x-1) - (x-2)) = 4^1. Result: 10^-2 x 25 x 4 = 100 / 100 = 1.",
+    "keywords": [
+      "quotient rule",
+      "algebraic fraction",
+      "simplify",
+      "result 1"
+    ],
+    "explanation": "Group identical bases and subtract their exponents. The variables cancel out perfectly leaving a numeric calculation. Level 2 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Explain the difference between linear and exponential growth using the paper folding example.",
+    "answer": "Linear growth adds a fixed thickness per step (like adding 20 cm each time). Exponential growth multiplies the thickness (doubling the previous thickness with each fold). Exponential growth increases much faster than linear.",
+    "keywords": [
+      "linear growth",
+      "additive",
+      "exponential growth",
+      "multiplicative",
+      "increases faster"
+    ],
+    "explanation": "The paper folding activity demonstrates how multiplicative growth quickly outpaces additive growth. Described on page 3 and 18 of the textbook.",
+    "page_number": "18"
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Simplify the expression (4^-3 + 4^-4) / (4^-3 - 4^-4).",
+    "answer": "Factor out 4^-4 from numerator and denominator: [4^-4(4^1 + 1)] / [4^-4(4^1 - 1)]. The 4^-4 terms cancel out. We are left with (4 + 1) / (4 - 1) = 5 / 3.",
+    "keywords": [
+      "factor out",
+      "cancel terms",
+      "simplify",
+      "5/3"
+    ],
+    "explanation": "Extracting the smallest power as a common factor from both the numerator and denominator simplifies the expression quickly. Level 2 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "If a^-2 = 0.04, determine the value of a.",
+    "answer": "Write 0.04 as a fraction: 4/100 = 1/25. So, 1/a^2 = 1/25. This means a^2 = 25. Taking the square root, a = 5 (assuming a is positive).",
+    "keywords": [
+      "fraction",
+      "1/25",
+      "a^2 = 25",
+      "a = 5"
+    ],
+    "explanation": "Convert the decimal to a fraction to easily compare it with the negative exponent expressed as a reciprocal. Level 3 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "Ananya deposits ₹100 in two plans. Plan A adds ₹100 every year, while Plan B doubles the total amount every year. Calculate her amount in both plans after 5 years. Identify which plan represents linear and exponential growth, and explain why.",
+    "answer": "In Plan A (linear growth), she adds ₹100 yearly: 100 + (5 x 100) = ₹600. In Plan B (exponential growth), the amount doubles yearly: 100 x 2^5 = ₹3200. Plan A is linear because it increases by a fixed additive amount. Plan B is exponential because it grows by a fixed multiplicative factor (2).",
+    "keywords": [
+      "Plan A",
+      "₹600",
+      "Plan B",
+      "₹3200",
+      "linear growth",
+      "additive",
+      "exponential growth",
+      "multiplicative"
+    ],
+    "explanation": "This case study contrasts arithmetic progression (linear) with geometric progression (exponential) to show how rapidly exponential values grow. Found on Worksheet page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Town A's population increases by 500 people per year. Town B's population doubles every 10 years. If both towns start with an equal population of 'x' lakhs (where x is a large number), compare their populations after 10 years and explain which will be larger.",
+    "answer": "After 10 years, Town A's population is x + (10 x 500) = x + 5000. Town B's population doubles, so it becomes 2x. Since x is in lakhs (much bigger than 5000), multiplying x by 2 yields a far greater number than simply adding 5000. Thus, Town B will have a significantly larger population.",
+    "keywords": [
+      "Town A",
+      "x + 5000",
+      "Town B",
+      "2x",
+      "exponential growth",
+      "larger population"
+    ],
+    "explanation": "This demonstrates that for large initial values, doubling (exponential) produces a much larger increase than a fixed numerical addition (linear). Worksheet page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "A viral infection starts with 1 person on day 1 and doubles every day. How many people will be infected after 10 days? Explain how wearing masks and isolating helps the community control the outbreak.",
+    "answer": "After 10 days, the number of infected people is 2^10 = 1024. Precautions like masks and isolation break the chain of infection. This slows the speed of spread, protects vulnerable people, prevents hospitals from overcrowding, and gives time for treatment, helping stop the outbreak early.",
+    "keywords": [
+      "2^10",
+      "1024",
+      "break chain of infection",
+      "protects vulnerable",
+      "prevents overcrowding"
+    ],
+    "explanation": "Calculates exponential growth of a virus and integrates value-based reasoning regarding public health measures. Worksheet page 6-7.",
+    "page_number": "6"
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "A sheet of paper has an initial thickness of 0.001 cm. Write an exponential expression for its thickness after 4 folds and after 7 folds. Explain how this growth is exponential.",
+    "answer": "After 4 folds, the thickness is 0.001 x 2^4 = 0.016 cm. After 7 folds, it is 0.001 x 2^7 = 0.128 cm. The growth is exponential because the thickness is repeatedly multiplied by a fixed factor (2) at each step, instead of adding a constant amount.",
+    "keywords": [
+      "0.001 x 2^4",
+      "0.016 cm",
+      "0.001 x 2^7",
+      "0.128 cm",
+      "multiplied by fixed factor"
+    ],
+    "explanation": "Paper folding is a classic example of powers of 2. Each fold doubles the thickness, representing multiplicative (exponential) growth. Textbook page 3.",
+    "page_number": "3"
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Evaluate the expression: [ (2/3)^3 x (2/3)^-2 x (1/2)^-2 x 1/24 ] / [ (2/3)^-5 x (3/2)^-12 ]. Detail the exponent laws used.",
+    "answer": "Numerator: (2/3)^(3-2) x 2^2 x 1/24 = 2/3 x 4/24 = 2/3 x 1/6 = 1/9. Denominator: (2/3)^-5 x (2/3)^12 = (2/3)^7. The expression becomes (1/9) / (2/3)^7 = (1/3)^2 / (2/3)^7. Expanding gives 3^5 / 2^7. Laws used: product law, negative exponent reciprocal, quotient law.",
+    "keywords": [
+      "evaluate",
+      "laws of exponents",
+      "product law",
+      "reciprocal",
+      "3^5 / 2^7"
+    ],
+    "explanation": "Requires applying multiple exponent laws step-by-step, transforming bases to match, and simplifying the final fraction. Level 3 Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "A digital locker uses a 5-character alphanumeric passcode containing any of the 26 letters and 10 digits. Explain how to find the total possible combinations using exponential notation.",
+    "answer": "There are 26 letters and 10 digits, giving 36 possible characters for each slot. Since there are 5 slots and characters can be repeated, the number of choices multiplies: 36 x 36 x 36 x 36 x 36. In exponential notation, the total possible codes is 36^5.",
+    "keywords": [
+      "26 letters",
+      "10 digits",
+      "36 characters",
+      "36^5",
+      "exponential notation"
+    ],
+    "explanation": "Combinatorics problems involving independent choices map perfectly to exponential notation, representing repeated multiplication. Textbook page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 71,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "The mass of Jupiter is roughly 1.898 x 10^27 kg, and the Sun is 1.989 x 10^30 kg. Express the mass of Jupiter in terms of the mass of the Sun in standard form.",
+    "answer": "To compare, divide Jupiter's mass by the Sun's mass: (1.898 x 10^27) / (1.989 x 10^30) = (1.898 / 1.989) x 10^(27 - 30) = 0.954 x 10^-3. To put it in standard form, shift the decimal one place right: 9.54 x 10^-4. Jupiter is 9.54 x 10^-4 times the mass of the Sun.",
+    "keywords": [
+      "divide masses",
+      "0.954 x 10^-3",
+      "9.54 x 10^-4",
+      "standard form"
+    ],
+    "explanation": "Calculates the ratio using scientific notation and quotient laws, and then adjusts the coefficient to remain strictly in standard form. Slide 17.",
+    "page_number": "17"
+  },
+  {
+    "id": 72,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "If 1 micron equals 1/1,000,000 meters, convert this value into standard form. Explain the rules for the coefficient and exponent in your answer.",
+    "answer": "1/1,000,000 can be written as 1 / 10^6, which is 10^-6 m. In standard form, this is 1.0 x 10^-6 m. The rule for standard form is that the coefficient must be greater than or equal to 1 and less than 10 (here, 1.0), and the exponent is an integer showing the decimal shifts.",
+    "keywords": [
+      "10^-6 m",
+      "1.0 x 10^-6",
+      "coefficient",
+      "exponent rule"
+    ],
+    "explanation": "Demonstrates converting fractions to negative exponents and applying the strict definition of standard form notation. Slide 24.",
+    "page_number": "24"
+  },
+  {
+    "id": 73,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Bacteria multiply by binary fission, doubling every hour. Starting with 1 bacterium, write an expression for the amount after 5 hours and after n hours. If they grow for 3 hours and then 4 more hours, express the total using exponent laws.",
+    "answer": "After 5 hours, the number is 2^5. After n hours, it is 2^n. If they grow for 3 hours, the amount is 2^3. Growing for 4 more hours multiplies this by 2^4. Using the product law of exponents: 2^3 x 2^4 = 2^(3+4) = 2^7. This shows exponential multiplication over time.",
+    "keywords": [
+      "binary fission",
+      "2^5",
+      "2^n",
+      "product law",
+      "2^7"
+    ],
+    "explanation": "Illustrates exponential growth modeling and applies the product law of exponents to sequentially occurring growth periods. Case Study Worksheet.",
+    "page_number": "2"
+  },
+  {
+    "id": 74,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "Find the value of x if 32400 = 2^x * 3^x * 5^(x-2). Explain how finding the prime factorization helps solve this equation.",
+    "answer": "The prime factorization of 32400 is 2^4 * 3^4 * 5^2. By comparing this to the given expression 2^x * 3^x * 5^(x-2), we can equate the exponents for identical bases. For base 2, x = 4. For base 5, x - 2 = 2, which also gives x = 4. Prime factorization breaks the composite number into unique prime powers for direct comparison.",
+    "keywords": [
+      "prime factorization",
+      "2^4 * 3^4 * 5^2",
+      "equate exponents",
+      "x = 4"
+    ],
+    "explanation": "Decomposing into primes ensures that bases match exactly, allowing for algebraic equations to be formed from the exponents. Textbook page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 75,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "The distance between Earth and Sun is 1.52 x 10^8 km. When Mars, Earth, and Sun align in a line, Mars is 5.46 x 10^7 km from Earth. Calculate the approximate distance of Mars from the Sun in standard form.",
+    "answer": "The total distance is Earth-Sun distance plus Earth-Mars distance: 1.52 x 10^8 + 5.46 x 10^7. To add, match the exponents: write 1.52 x 10^8 as 15.2 x 10^7. Add coefficients: (15.2 + 5.46) x 10^7 = 20.66 x 10^7. Convert back to standard form by shifting the decimal left: 2.066 x 10^8 km.",
+    "keywords": [
+      "add distances",
+      "match exponents",
+      "20.66 x 10^7",
+      "2.066 x 10^8 km"
+    ],
+    "explanation": "Demonstrates the necessity of matching powers of 10 before performing addition on scientific notation numbers, followed by standardizing the result. Slide 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 76,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "Calculate the total worldwide population of sheep and goats if the sheep population is about 10^9 and the goat population is also 10^9. Express your answer in scientific notation.",
+    "answer": "The total population is the sum of both: 10^9 + 10^9. This can be written as 1 x 10^9 + 1 x 10^9. Factoring out 10^9 gives (1 + 1) x 10^9, which equals 2 x 10^9. The total population is 2 x 10^9.",
+    "keywords": [
+      "sum of populations",
+      "10^9 + 10^9",
+      "factor out",
+      "2 x 10^9"
+    ],
+    "explanation": "Adding two identical powers of 10 is the same as multiplying that power by 2. This keeps the answer directly in scientific notation. Textbook page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 77,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Evaluate using suitable laws of exponents: 5^7 x 11^-5 x 2^2 x 22^5 x (1/10^7). State the laws used.",
+    "answer": "Decompose composite numbers: 22^5 = (2 x 11)^5 = 2^5 x 11^5. 10^7 = (2 x 5)^7 = 2^7 x 5^7. Substitute: (5^7 x 11^-5 x 2^2 x 2^5 x 11^5) / (2^7 x 5^7). Combine numerators: 5^7 x 11^0 x 2^7. Divide by denominator: (5^7/5^7) x (2^7/2^7) = 1 x 1 x 1 = 1. Laws: power of product, product law, zero exponent.",
+    "keywords": [
+      "decompose",
+      "product law",
+      "quotient law",
+      "zero exponent",
+      "result 1"
+    ],
+    "explanation": "Requires breaking bases down to prime factors, grouping them, and canceling terms out utilizing multiple exponent rules. Slide 11.",
+    "page_number": "11"
+  },
+  {
+    "id": 78,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "Compare the total possible combinations for a 3-digit lock and a 5-digit lock, assuming each digit ranges from 0-9. Express both in exponential forms and find how many times more combinations the 5-digit lock has.",
+    "answer": "A 3-digit lock has 10 x 10 x 10 = 10^3 combinations. A 5-digit lock has 10 x 10 x 10 x 10 x 10 = 10^5 combinations. To find how many times more, divide them: 10^5 / 10^3 = 10^(5-3) = 10^2 = 100. The 5-digit lock has 100 times more combinations.",
+    "keywords": [
+      "10^3",
+      "10^5",
+      "divide combinations",
+      "10^2",
+      "100 times"
+    ],
+    "explanation": "Illustrates practical combinatorics mapping to exponents, and uses quotient laws to directly compare magnitudes. Textbook page 8-9.",
+    "page_number": "8"
+  },
+  {
+    "id": 79,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Simplify the expression { (7/11)^-2 x (11/5)^3 } / (11/35)^4 showing all steps and the laws of exponents used.",
+    "answer": "Flip the negative exponent: (11/7)^2. Expression becomes [ (11^2 / 7^2) x (11^3 / 5^3) ] x (35^4 / 11^4). Combine numerator 11s: 11^5. Substitute 35 = 7 x 5, so 35^4 = 7^4 x 5^4. The expression is (11^5 x 7^4 x 5^4) / (7^2 x 5^3 x 11^4). Using quotient laws: 11^(5-4) x 7^(4-2) x 5^(4-3) = 11^1 x 7^2 x 5^1 = 11 x 49 x 5 = 2695.",
+    "keywords": [
+      "flip negative",
+      "decompose 35",
+      "quotient laws",
+      "cancel terms",
+      "2695"
+    ],
+    "explanation": "A multi-step evaluation requiring handling of fractional negative exponents, prime factorization of composite bases, and systematic term cancellation. Worksheet page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 80,
+    "subject": "Mathematics",
+    "chapter": "Power Play-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "Evaluate the statement: 'Linear growth increases faster than exponential growth.' Is this assertion true or false? Provide a reasoned explanation comparing additive and multiplicative growth.",
+    "answer": "The assertion is false. Linear growth is additive, meaning it increases by a fixed, constant amount at each step. Exponential growth is multiplicative, meaning it is multiplied by a fixed factor at each step. Over time, multiplying continually produces a much steeper and larger increase than simply adding, making exponential growth significantly faster.",
+    "keywords": [
+      "assertion is false",
+      "linear is additive",
+      "exponential is multiplicative",
+      "steeper increase",
+      "exponential faster"
+    ],
+    "explanation": "Tests the conceptual understanding of growth types. Linear grows steadily, while exponential curves upwards sharply. Slide 27.",
+    "page_number": "27"
+  }
+]
