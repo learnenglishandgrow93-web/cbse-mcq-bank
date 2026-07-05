@@ -1,0 +1,1874 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is one-to-one matching in early counting?",
+    "answer": "One-to-one matching is an early counting method where one physical object, like a stick or pebble, is used to represent exactly one object being counted.",
+    "keywords": [
+      "one-to-one matching",
+      "stick",
+      "pebble",
+      "represent"
+    ],
+    "explanation": "Early humans matched objects like sticks or pebbles directly to items they were counting. This is discussed on page 57 of the PDF.",
+    "page_number": "57"
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Name two of the oldest known bones discovered with tally marks.",
+    "answer": "The oldest known bones with tally marks are the Ishango bone and the Lebombo bone.",
+    "keywords": [
+      "Ishango bone",
+      "Lebombo bone",
+      "tally marks"
+    ],
+    "explanation": "Archaeologists discovered the Ishango and Lebombo bones, dating back thousands of years, which feature early tally marks. This is discussed on page 55.",
+    "page_number": "55"
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "List the landmark symbols used in the Roman numeral system.",
+    "answer": "The landmark symbols used in the Roman numeral system are I, V, X, L, C, D, and M.",
+    "keywords": [
+      "landmark symbols",
+      "I",
+      "V",
+      "X",
+      "L",
+      "C",
+      "D",
+      "M"
+    ],
+    "explanation": "The Roman system introduced specific landmark numbers to make writing numbers more efficient. This is found on page 58.",
+    "page_number": "58"
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Why did the Chinese alternate between Heng and Zong rods?",
+    "answer": "The Chinese alternated between Heng and Zong rods to avoid confusion between adjacent place values when reading numbers.",
+    "keywords": [
+      "alternate",
+      "Heng",
+      "Zong",
+      "avoid confusion",
+      "place values"
+    ],
+    "explanation": "To prevent numbers from blending together visually, different orientations were used for adjacent place values. This is mentioned on page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What is the base of the ancient Mesopotamian number system?",
+    "answer": "The ancient Mesopotamian number system evolved into a base-60, or sexagesimal, system.",
+    "keywords": [
+      "Mesopotamian",
+      "base-60",
+      "sexagesimal"
+    ],
+    "explanation": "The Mesopotamians utilized a base-60 system which still influences how we measure time today. This is located on page 69.",
+    "page_number": "69"
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 15
+    },
+    "question": "What shape was used as the placeholder symbol for zero in the Mayan number system?",
+    "answer": "The Mayan number system used a symbol that looked like a seashell to represent zero.",
+    "keywords": [
+      "Mayan",
+      "seashell",
+      "zero",
+      "placeholder"
+    ],
+    "explanation": "The Mayans independently developed a place value system and used a seashell-like symbol for zero. This is discussed on page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 7,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What are the landmark numbers of the Egyptian number system?",
+    "answer": "The landmark numbers in the Egyptian system are the powers of 10: 1, 10, 100, 1000, and so on.",
+    "keywords": [
+      "Egyptian",
+      "powers of 10",
+      "landmark numbers"
+    ],
+    "explanation": "The Egyptian system used groupings of 10, making its landmark numbers the successive powers of 10. Found on page 61.",
+    "page_number": "61"
+  },
+  {
+    "id": 8,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 10
+    },
+    "question": "Write the Hindu-Arabic numeral for the Roman numeral LXV.",
+    "answer": "The Hindu-Arabic numeral for the Roman numeral LXV is 65.",
+    "keywords": [
+      "Hindu-Arabic",
+      "LXV",
+      "65"
+    ],
+    "explanation": "In Roman numerals, L is 50, X is 10, and V is 5. Added together, they equal 65. Conversion rules are on page 58.",
+    "page_number": "58"
+  },
+  {
+    "id": 9,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "In which ancient manuscript is early evidence of the Indian digit zero found?",
+    "answer": "Early evidence of the Indian digit zero, notated as a dot, is found in the Bakhshali manuscript.",
+    "keywords": [
+      "Bakhshali manuscript",
+      "zero",
+      "dot",
+      "Indian digit"
+    ],
+    "explanation": "The Bakhshali manuscript, dating back to around the 3rd century CE, contains early recorded uses of zero as a dot. Page 49.",
+    "page_number": "49"
+  },
+  {
+    "id": 10,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What does the term 'sexagesimal' refer to in number systems?",
+    "answer": "The term 'sexagesimal' refers to a number system that operates on a base of 60.",
+    "keywords": [
+      "sexagesimal",
+      "base-60"
+    ],
+    "explanation": "Sexagesimal is another name for the base-60 system famously used by the ancient Mesopotamians. Mentioned on page 69.",
+    "page_number": "69"
+  },
+  {
+    "id": 11,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Which two Indian mathematicians helped formalize the arithmetic properties of zero?",
+    "answer": "The arithmetic properties of zero were developed and formalized by Aryabhata and Brahmagupta.",
+    "keywords": [
+      "Aryabhata",
+      "Brahmagupta",
+      "zero"
+    ],
+    "explanation": "Aryabhata and Brahmagupta laid the foundation for modern mathematics by establishing rules for zero. Detailed on page 75.",
+    "page_number": "75"
+  },
+  {
+    "id": 12,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "How did the indigenous Gumulgal tribe count their numbers?",
+    "answer": "The Gumulgal tribe counted in groups of twos, building larger numbers by combining the names for one and two.",
+    "keywords": [
+      "Gumulgal",
+      "groups of twos",
+      "combining"
+    ],
+    "explanation": "The Gumulgal people from Australia used a base-2 idea, creating number names up to 6 by grouping in twos. Mentioned on page 56.",
+    "page_number": "56"
+  },
+  {
+    "id": 13,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Name the two types of counting rods used in the Chinese number system.",
+    "answer": "The Chinese counting rod system used horizontal Heng rods and vertical Zong rods.",
+    "keywords": [
+      "Heng",
+      "Zong",
+      "horizontal",
+      "vertical"
+    ],
+    "explanation": "Heng and Zong rods were used in alternating positions to represent different place values in the Chinese system. Page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What is the mathematical definition of a base-n number system?",
+    "answer": "A base-n number system is one where the first landmark number is 1, and each subsequent landmark number is formed by multiplying the previous one by a fixed number n.",
+    "keywords": [
+      "base-n",
+      "landmark number",
+      "multiplying",
+      "fixed number n"
+    ],
+    "explanation": "A base system relies on powers of a fixed number, 'n', which defines the scale of grouping. Defined on page 63.",
+    "page_number": "63"
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 10
+    },
+    "question": "What numerical value does a horizontal bar represent in the Mayan system?",
+    "answer": "In the Mayan number system, a horizontal bar represents the value 5.",
+    "keywords": [
+      "Mayan",
+      "horizontal bar",
+      "value 5"
+    ],
+    "explanation": "The Mayan system used dots for 1 and horizontal bars for 5 to build digits up to 19. Mentioned on page 72.",
+    "page_number": "72"
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "In an 11th-century abacus, what does a counter placed above the horizontal line represent?",
+    "answer": "A counter placed above the horizontal line on an abacus represented a value of 5 for that specific place value.",
+    "keywords": [
+      "abacus",
+      "counter above the line",
+      "value of 5"
+    ],
+    "explanation": "To simplify counting, abacuses assigned a value of 5 to counters situated above the dividing line. Discussed on page 66.",
+    "page_number": "66"
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Write two shortcomings of the Roman numeral system.",
+    "answer": "Two major shortcomings of the Roman numeral system are that arithmetic operations are very difficult to perform, and the system lacks a symbol for zero as well as a place value system.",
+    "keywords": [
+      "arithmetic operations",
+      "difficult",
+      "no zero",
+      "no place value"
+    ],
+    "explanation": "The Roman system's reliance on additive and subtractive rules without a place value makes calculations cumbersome. Listed on page 58.",
+    "page_number": "58"
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Explain how the Roman numeral XLVII is formed.",
+    "answer": "In Roman numerals, XL represents 40 because X (10) is placed before L (50), meaning 50 - 10. VII represents 7 (5 + 1 + 1). Combining them gives 40 + 7, which is XLVII for 47.",
+    "keywords": [
+      "XL",
+      "40",
+      "VII",
+      "7",
+      "subtracted",
+      "added"
+    ],
+    "explanation": "Roman numeral rules dictate that a smaller numeral before a larger one is subtracted, while smaller numerals after are added. Page 58.",
+    "page_number": "58"
+  },
+  {
+    "id": 19,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why is each landmark number in the Egyptian number system 10 times the previous one?",
+    "answer": "The Egyptian number system is a base-10 system that uses the idea of grouping. Ten items of one landmark size are grouped together to form one item of the next larger landmark size.",
+    "keywords": [
+      "base-10",
+      "grouping",
+      "ten items",
+      "landmark size"
+    ],
+    "explanation": "Egyptians formed new landmark numbers by grouping collections of 10, naturally making each landmark 10 times the previous one. Page 61.",
+    "page_number": "61"
+  },
+  {
+    "id": 20,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Convert the number 35 from the base-10 decimal system to a base-8 number system.",
+    "answer": "To convert 35 to base-8, we divide 35 by 8. The quotient is 4 and the remainder is 3. This means 35 equals (4 × 8) + (3 × 1). Therefore, 35 in base-10 is written as 43 in base-8.",
+    "keywords": [
+      "divide by 8",
+      "quotient 4",
+      "remainder 3",
+      "43 in base-8"
+    ],
+    "explanation": "Converting a decimal number to another base involves finding how many powers of that base fit into the number. Shown on page 76.",
+    "page_number": "76"
+  },
+  {
+    "id": 21,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What role does zero play in a place value system?",
+    "answer": "In a place value system, zero acts as an essential placeholder. It indicates an empty position or missing power of the base, eliminating ambiguity when reading or writing numbers.",
+    "keywords": [
+      "zero",
+      "placeholder",
+      "empty position",
+      "ambiguity"
+    ],
+    "explanation": "Without zero, numbers like 36 and 306 would look identical or confusingly spaced. Zero ensures each digit holds its correct place value. Page 75.",
+    "page_number": "75"
+  },
+  {
+    "id": 22,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "In the Mesopotamian system, blank spaces sometimes caused confusion. How was this solved?",
+    "answer": "To resolve the ambiguity caused by inconsistent blank spaces, later Mesopotamians introduced a specific placeholder symbol to clearly denote an empty position, functioning similarly to our zero.",
+    "keywords": [
+      "ambiguity",
+      "placeholder symbol",
+      "empty position",
+      "zero"
+    ],
+    "explanation": "Before the placeholder, blank spaces were hard to interpret correctly in written text. The new symbol fixed this issue. Page 71.",
+    "page_number": "71"
+  },
+  {
+    "id": 23,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Convert the base-8 numeral 37 to a base-10 Hindu numeral.",
+    "answer": "In base-8, the number 37 means 3 groups of 8 and 7 ones. Mathematically, it is (3 × 8^1) + (7 × 8^0) = 24 + 7 = 31. So, 37 in base-8 is 31 in base-10.",
+    "keywords": [
+      "3 groups of 8",
+      "7 ones",
+      "24 + 7",
+      "31"
+    ],
+    "explanation": "By multiplying each digit by its corresponding power of 8, we convert the octal number back to decimal. Worksheet concepts.",
+    "page_number": "22"
+  },
+  {
+    "id": 24,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How were numbers represented using the Chinese rod numerals to avoid confusion?",
+    "answer": "The Chinese rod numeral system avoided confusion by alternating the orientation of the rods. Zong (vertical) rods were used for units and hundreds, while Heng (horizontal) rods were used for tens and thousands.",
+    "keywords": [
+      "alternating orientation",
+      "Zong",
+      "vertical",
+      "Heng",
+      "horizontal"
+    ],
+    "explanation": "Alternating rod directions prevented symbols from blending into one another in adjacent place values. Page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 25,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "State two limitations of the Egyptian number system.",
+    "answer": "Two limitations are that it requires an endless invention of new symbols to represent very large numbers, and it lacks a placeholder symbol like zero.",
+    "keywords": [
+      "endless invention",
+      "new symbols",
+      "large numbers",
+      "lacks placeholder"
+    ],
+    "explanation": "Because it relies purely on grouping without a positional place value system, representing a billion would require a brand new symbol. Page 67.",
+    "page_number": "67"
+  },
+  {
+    "id": 26,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Write the Hindu-Arabic equivalent of the Roman numeral CMXCIX.",
+    "answer": "CM represents 900 (1000 - 100), XC represents 90 (100 - 10), and IX represents 9 (10 - 1). Adding them together, CMXCIX equals 999.",
+    "keywords": [
+      "CM",
+      "900",
+      "XC",
+      "90",
+      "IX",
+      "9",
+      "999"
+    ],
+    "explanation": "Following Roman numeral subtractive rules, we break the numeral down into hundreds, tens, and units to evaluate it. Page 59.",
+    "page_number": "59"
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Represent the number 623 conceptually using the Chinese rod numeral rules.",
+    "answer": "In the Chinese system, 623 is split into 6 hundreds, 2 tens, and 3 units. It uses vertical Zong rods for the 6 (hundreds), horizontal Heng rods for the 2 (tens), and vertical Zong rods for the 3 (units).",
+    "keywords": [
+      "6 hundreds",
+      "2 tens",
+      "3 units",
+      "Zong",
+      "Heng"
+    ],
+    "explanation": "The alternating rule means hundreds and units get vertical rods (Zong), and tens get horizontal rods (Heng). Page 75.",
+    "page_number": "75"
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why is a place value system more efficient than earlier non-positional systems?",
+    "answer": "A place value system is more efficient because it uses a small, fixed set of symbols (digits) to represent infinitely large numbers simply by changing their positions. This structure also makes complex arithmetic calculations much easier.",
+    "keywords": [
+      "fixed set of symbols",
+      "infinitely large numbers",
+      "changing positions",
+      "arithmetic calculations"
+    ],
+    "explanation": "Earlier systems needed new symbols for larger numbers, making math difficult. Place value solves this elegantly. Page 71.",
+    "page_number": "71"
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What is a positional number system? Give one example.",
+    "answer": "A positional number system determines the value of a digit based on its specific place or position within the number. The Hindu-Arabic decimal system is a prime example.",
+    "keywords": [
+      "value of a digit",
+      "specific place",
+      "position",
+      "Hindu-Arabic"
+    ],
+    "explanation": "Positional systems reuse the same symbols, but their value changes based on where they stand (units, tens, hundreds). Page 71.",
+    "page_number": "71"
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Convert the base-5 numeral 24 to the decimal system.",
+    "answer": "The base-5 numeral 24 means 2 groups of 5 and 4 ones. Mathematically, it is evaluated as (2 × 5^1) + (4 × 5^0) = 10 + 4 = 14 in the decimal system.",
+    "keywords": [
+      "2 groups of 5",
+      "4 ones",
+      "10 + 4",
+      "14",
+      "decimal"
+    ],
+    "explanation": "Multiplying each digit by its respective power of 5 gives the base-10 value. Worksheet applications.",
+    "page_number": "63"
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Explain the counting method of the Gumulgal tribe using the example of number 3.",
+    "answer": "The Gumulgal tribe counted in groups of twos. To form the number 3, they combined their word for 2 ('ukasar') with their word for 1 ('urapon'), making the number name for 3 'ukasar-urapon'.",
+    "keywords": [
+      "groups of twos",
+      "word for 2",
+      "ukasar",
+      "word for 1",
+      "urapon"
+    ],
+    "explanation": "They used a simple additive system based on 2. For numbers larger than 6, they simply used the word 'ras'. Page 56.",
+    "page_number": "56"
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Identify the base of the Mayan number system and list its first three landmark numbers.",
+    "answer": "The Mayan number system is almost a base-20 system. Its first three landmark numbers are 1, 20, and 360 (which is 20 × 18).",
+    "keywords": [
+      "base-20",
+      "1",
+      "20",
+      "360"
+    ],
+    "explanation": "Unlike a strict base-20 system, the third landmark number is 360 instead of 400, possibly due to calendrical reasons. Page 72.",
+    "page_number": "72"
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "What is the difference between Zong and Heng rods in the Chinese system?",
+    "answer": "Zong rods are placed vertically and represent units, hundreds, and ten-thousands. Heng rods are placed horizontally and represent tens, thousands, and hundred-thousands.",
+    "keywords": [
+      "Zong",
+      "vertical",
+      "units",
+      "hundreds",
+      "Heng",
+      "horizontal",
+      "tens",
+      "thousands"
+    ],
+    "explanation": "Alternating vertical and horizontal rods made it visually clear where one place value ended and another began. Page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Evaluate the Roman numeral operation: XXII × VI.",
+    "answer": "First, convert to Hindu-Arabic numbers: XXII is 22 and VI is 6. The product of 22 and 6 is 132. Converting 132 back to Roman numerals yields CXXXII.",
+    "keywords": [
+      "XXII",
+      "22",
+      "VI",
+      "6",
+      "132",
+      "CXXXII"
+    ],
+    "explanation": "Roman arithmetic is notoriously difficult without converting to base-10 first. The final answer must be returned as a Roman numeral. Page 60.",
+    "page_number": "60"
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Explain how to represent 100000 in the Egyptian system.",
+    "answer": "The Egyptian system uses distinct symbols for powers of 10. The number 100,000 is a landmark number represented by a specific hieroglyphic symbol that resembles a tadpole or frog.",
+    "keywords": [
+      "powers of 10",
+      "landmark number",
+      "hieroglyphic",
+      "tadpole",
+      "frog"
+    ],
+    "explanation": "Since 100,000 is 10^5, it gets its own dedicated symbol in the Egyptian system, rather than repeating smaller symbols. Page 61.",
+    "page_number": "61"
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How is the number 3601 represented differently with and without a placeholder in the Mesopotamian system?",
+    "answer": "Without a placeholder, 3601 (one 3600 and one 1) simply has a physical blank space between the symbols, which can be misread. With a placeholder, a specific symbol is inserted in the 60s place to eliminate ambiguity.",
+    "keywords": [
+      "blank space",
+      "misread",
+      "placeholder",
+      "specific symbol",
+      "eliminate ambiguity"
+    ],
+    "explanation": "The placeholder symbol acts like a zero in the middle of a number, ensuring the digits align with their correct base-60 powers. Page 71.",
+    "page_number": "71"
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Represent the base-10 number 132 in a base-5 number system.",
+    "answer": "To represent 132 in base-5, divide by 5: 132 ÷ 5 = 26 (rem 2). Then 26 ÷ 5 = 5 (rem 1). Finally, 5 ÷ 5 = 1 (rem 0). Reading remainders backwards, it is 1012 in base-5.",
+    "keywords": [
+      "divide by 5",
+      "remainders",
+      "1012",
+      "base-5"
+    ],
+    "explanation": "Successive division by the target base extracts the digits from the lowest place value to the highest. Worksheet case study.",
+    "page_number": "14"
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Evaluate the sum of CCCLXXVII and CCXXXVIII in Roman numerals.",
+    "answer": "CCCLXXVII is 377 and CCXXXVIII is 238. Adding them gives 377 + 238 = 615. To express 615 in Roman numerals, we write D (500) + C (100) + X (10) + V (5), which is DCXV.",
+    "keywords": [
+      "377",
+      "238",
+      "615",
+      "DCXV"
+    ],
+    "explanation": "Roman numeral addition is done either by grouping and simplifying symbols directly or converting to decimal, adding, and converting back. Page 59.",
+    "page_number": "59"
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Describe the tally marks found on the Ishango bone.",
+    "answer": "The Ishango bone, dating back 20,000 to 35,000 years, features notches cut into it arranged in specific columns, which historians believe might indicate early calendrical or number systems.",
+    "keywords": [
+      "Ishango bone",
+      "notches",
+      "columns",
+      "calendrical",
+      "number systems"
+    ],
+    "explanation": "Tally marks on bones represent some of the earliest evidence of human mathematical thought and counting. Page 55.",
+    "page_number": "55"
+  },
+  {
+    "id": 40,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Write the Roman numeral for the number 2893.",
+    "answer": "The number 2893 is broken down as 2000 + 800 + 90 + 3. In Roman numerals, this translates to MM + DCCC + XC + III, resulting in MMDCCCXCIII.",
+    "keywords": [
+      "2000",
+      "800",
+      "90",
+      "3",
+      "MMDCCCXCIII"
+    ],
+    "explanation": "Converting large numbers to Roman numerals requires partitioning the number into thousands, hundreds, tens, and units. Page 59.",
+    "page_number": "59"
+  },
+  {
+    "id": 41,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "Compare the Roman numeral system and the Hindu-Arabic system in terms of calculation efficiency.",
+    "answer": "The Roman system uses additive and subtractive rules with symbols like I, V, X, and lacks place value and zero, making calculations very difficult. In contrast, the Hindu-Arabic system is a base-10 positional system utilizing digits 0-9. This allows for simple, standardized rules for arithmetic operations like column addition and multiplication.",
+    "keywords": [
+      "additive",
+      "subtractive",
+      "lacks place value",
+      "base-10 positional",
+      "digits 0-9",
+      "arithmetic operations"
+    ],
+    "explanation": "The efficiency of modern arithmetic relies heavily on the positional alignment of digits, a feature entirely absent in Roman numerals. Page 58, 78.",
+    "page_number": "58"
+  },
+  {
+    "id": 42,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Describe the evolution of zero from a placeholder to a number in its own right.",
+    "answer": "Initially, zero was invented purely as a placeholder symbol to denote empty spaces in positional systems (like in Mesopotamian and Mayan systems) to prevent reading errors. In ancient India, mathematicians like Aryabhata and Brahmagupta elevated zero to a numerical digit on par with others, formalizing arithmetic rules for it, which completely transformed mathematics.",
+    "keywords": [
+      "placeholder",
+      "empty spaces",
+      "reading errors",
+      "numerical digit",
+      "Aryabhata",
+      "Brahmagupta",
+      "arithmetic rules"
+    ],
+    "explanation": "Zero's dual identity as both an empty position marker and a manipulatable number was a major Indian mathematical breakthrough. Page 79.",
+    "page_number": "79"
+  },
+  {
+    "id": 43,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Explain how the Mayan number system represents numbers using dots and bars, taking 77 as an example.",
+    "answer": "The Mayan system is a base-20 positional system written vertically. It uses a dot for 1 and a horizontal bar for 5. To represent 77, we divide it by 20, yielding 3 groups of 20 and a remainder of 17. The top position has 3 dots (for 3 × 20), and the bottom position has three bars and two dots (for 17 × 1).",
+    "keywords": [
+      "base-20",
+      "vertically",
+      "dot for 1",
+      "bar for 5",
+      "3 groups of 20",
+      "remainder 17"
+    ],
+    "explanation": "Mayans built digits from 0 to 19 using dots and bars, and arranged them vertically by powers of 20. Page 76.",
+    "page_number": "76"
+  },
+  {
+    "id": 44,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "Write the steps to convert the decimal number 156 into a base-8 (octal) system.",
+    "answer": "To convert 156 to base-8, perform successive divisions by 8. First, 156 ÷ 8 gives a quotient of 19 with a remainder of 4. Next, divide 19 by 8, giving a quotient of 2 and a remainder of 3. Read the last quotient and remainders backwards to get 234 in base-8.",
+    "keywords": [
+      "successive divisions",
+      "divide by 8",
+      "quotient",
+      "remainder",
+      "234 in base-8"
+    ],
+    "explanation": "Base conversion requires extracting remainders by dividing by the new base until the quotient is zero. Case study worksheet.",
+    "page_number": "22"
+  },
+  {
+    "id": 45,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "How did the Mesopotamians apply the concept of a place value system, and what was its major flaw before the placeholder?",
+    "answer": "The Mesopotamians utilized a base-60 place value system where the position of a symbol determined its multiplier (1, 60, 3600, etc.). Before inventing a placeholder, they left blank physical spaces to indicate a missing place value. This was highly flawed because inconsistent spacing across different writers caused severe ambiguity in reading the correct numbers.",
+    "keywords": [
+      "base-60",
+      "position",
+      "multiplier",
+      "blank physical spaces",
+      "inconsistent spacing",
+      "ambiguity"
+    ],
+    "explanation": "While they invented positional notation, the lack of a zero character initially made their written records error-prone. Page 71.",
+    "page_number": "71"
+  },
+  {
+    "id": 46,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "Evaluate the Roman expression D – CDXCIX and provide the final answer in Hindu numerals.",
+    "answer": "First, evaluate the Roman numerals: D represents 500. CDXCIX breaks down to CD (400) + XC (90) + IX (9) = 499. Subtracting the two gives 500 - 499 = 1. Therefore, the final answer in Hindu numerals is 1.",
+    "keywords": [
+      "D represents 500",
+      "CDXCIX",
+      "499",
+      "subtracting",
+      "500 - 499 = 1"
+    ],
+    "explanation": "Evaluating complex Roman math is best done by converting to base-10 first, performing the arithmetic, and converting back if needed. Worksheet page.",
+    "page_number": "2"
+  },
+  {
+    "id": 47,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "Illustrate how the number 2699 is written in Roman numerals by splitting it into landmark numbers.",
+    "answer": "The number 2699 is expanded as 2000 + 600 + 90 + 9. In Roman landmark numbers, this is represented as MM (2000), DC (600), XC (90), and IX (9). Stringing them together gives MMDCXCIX.",
+    "keywords": [
+      "2000",
+      "600",
+      "90",
+      "9",
+      "MM",
+      "DC",
+      "XC",
+      "IX",
+      "MMDCXCIX"
+    ],
+    "explanation": "Roman numbers are written by combining the highest possible landmark chunks in descending order, using subtractive notation where required. Page 59.",
+    "page_number": "59"
+  },
+  {
+    "id": 48,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "A group of explorers uses a base-5 number system. The biggest vault contains 3259 stones (base-10). Represent 3259 in base-5.",
+    "answer": "To convert 3259 to base-5, divide successively by 5:\n3259 ÷ 5 = 651 (R 4)\n651 ÷ 5 = 130 (R 1)\n130 ÷ 5 = 26 (R 0)\n26 ÷ 5 = 5 (R 1)\n5 ÷ 5 = 1 (R 0)\n1 ÷ 5 = 0 (R 1)\nReading the remainders bottom to top, 3259 in base-5 is 101014.",
+    "keywords": [
+      "successively divide by 5",
+      "remainders",
+      "101014"
+    ],
+    "explanation": "Conversion requires calculating the quotient and tracking the remainder until the quotient reaches zero. Case study worksheet.",
+    "page_number": "14"
+  },
+  {
+    "id": 49,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "Describe the structure of the abacus based on the decimal system used in the 11th century.",
+    "answer": "The 11th-century decimal abacus consisted of a board with horizontal lines, where each successive line represented a higher power of 10 (units, tens, hundreds). Counters were placed on these lines to indicate the digit for that place value. Additionally, a counter placed above a line represented a value of 5 for that position.",
+    "keywords": [
+      "horizontal lines",
+      "power of 10",
+      "counters",
+      "place value",
+      "above a line",
+      "value of 5"
+    ],
+    "explanation": "The abacus served as an early calculating tool that inherently utilized place-value properties, making arithmetic faster than written Roman numerals. Page 66.",
+    "page_number": "66"
+  },
+  {
+    "id": 50,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 55
+    },
+    "question": "Convert the base-2 numeral 10110 into the base-10 Hindu numeral system.",
+    "answer": "In base-2, each position represents a power of 2 from right to left (1, 2, 4, 8, 16). The number 10110 expands to: (1 × 16) + (0 × 8) + (1 × 4) + (1 × 2) + (0 × 1). Adding these values gives 16 + 0 + 4 + 2 + 0 = 22 in base-10.",
+    "keywords": [
+      "power of 2",
+      "16, 8, 4, 2, 1",
+      "expand",
+      "16 + 4 + 2",
+      "22"
+    ],
+    "explanation": "Base-2 (binary) conversion involves multiplying each bit by 2 raised to the power of its position index. Worksheet.",
+    "page_number": "23"
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Explain the 'Idea of a Base' using the Egyptian number system as an example.",
+    "answer": "The idea of a base means grouping collections by a fixed number to form higher values. In the Egyptian system, they grouped in sets of 10. Ten 1s became a 10, ten 10s became a 100, and ten 100s became a 1000. Therefore, every landmark number is 10 times the previous one, making it a base-10 system.",
+    "keywords": [
+      "grouping collections",
+      "fixed number",
+      "sets of 10",
+      "10 times the previous",
+      "base-10 system"
+    ],
+    "explanation": "A base determines how many units are required to bundle up and move to the next landmark denomination. Page 61.",
+    "page_number": "61"
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "How would the number 3875 be represented conceptually using the Chinese rod numeral rules?",
+    "answer": "The number 3875 consists of 3 thousands, 8 hundreds, 7 tens, and 5 units. To prevent visual confusion, the Chinese system alternates orientations. The 5 units and 8 hundreds use vertical Zong rods. The 7 tens and 3 thousands use horizontal Heng rods. Placing them side-by-side forms the complete numeral.",
+    "keywords": [
+      "3 thousands",
+      "8 hundreds",
+      "7 tens",
+      "5 units",
+      "alternates orientations",
+      "Zong",
+      "Heng"
+    ],
+    "explanation": "The alternating rod rule ensured that identical parallel sticks from adjacent digits did not merge visually into one larger digit. Page 75.",
+    "page_number": "75"
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Represent the number 840 in the Mayan system and explain the grouping process.",
+    "answer": "The Mayan system groups by 1, 20, and 360. We find how many 360s fit into 840: 840 ÷ 360 = 2, with a remainder of 120. Next, 120 ÷ 20 = 6, with a remainder of 0. So, we place 2 dots in the 360s place (top), one bar and one dot (6) in the 20s place, and a shell (0) in the 1s place (bottom).",
+    "keywords": [
+      "group by 1, 20, 360",
+      "divide",
+      "2 dots",
+      "360s place",
+      "one bar one dot",
+      "20s place",
+      "shell",
+      "1s place"
+    ],
+    "explanation": "Because it is written vertically, the highest place value is on top. We calculate chunks of 360, then 20, then units. Page 72.",
+    "page_number": "72"
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "In a base-5 system, explain how to compute the product of two landmark numbers, with an example.",
+    "answer": "In any base-n system, the product of two landmark numbers is simply another landmark number, because they are all powers of the base. For example, in base-5, multiplying the landmark 5 (5^1) by the landmark 25 (5^2) yields 125 (5^3), which is the very next landmark number.",
+    "keywords": [
+      "product of two landmark numbers",
+      "another landmark number",
+      "powers of the base",
+      "multiply 5 by 25",
+      "yields 125"
+    ],
+    "explanation": "Multiplying bases adds their exponents, so multiplying b^x by b^y gives b^(x+y), cleanly mapping to higher landmarks. Page 68.",
+    "page_number": "68"
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "Explain why the Chinese number system required two different orientations of counting rods.",
+    "answer": "The Chinese rod numerals lacked a visible grid. If horizontal rods were used for adjacent digits (like tens and units), the sticks would visually run together into a single block. Alternating between vertical (Zong) and horizontal (Heng) rods visually separated the place values, preventing reading errors.",
+    "keywords": [
+      "lacked visible grid",
+      "run together",
+      "alternating",
+      "vertical",
+      "horizontal",
+      "separated place values"
+    ],
+    "explanation": "Before the concept of zero spaces was perfected, alternating rod direction was an ingenious design choice to parse numbers. Page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 55
+    },
+    "question": "Describe how ancient Indian texts like the Yajurveda Samhita demonstrated the early structure of the modern number system.",
+    "answer": "Ancient Indian texts like the Yajurveda Samhita orally listed number names structured entirely around powers of 10. They had distinct names for one (eka), ten (dasha), hundred (shata), thousand (sahasra), up to massive powers of 10. This strict base-10 linguistic structure naturally evolved into the base-10 written positional system we use today.",
+    "keywords": [
+      "Yajurveda Samhita",
+      "orally",
+      "powers of 10",
+      "eka, dasha, shata",
+      "base-10 positional"
+    ],
+    "explanation": "Linguistic structures often precede written mathematics. The Indian linguistic counting base perfectly matched their later written system. Page 49.",
+    "page_number": "49"
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "Add the Roman numerals CCXXII and CCCXIII, showing the grouping of symbols.",
+    "answer": "To add CCXXII and CCCXIII without converting to decimal, we group identical symbols. Combine the hundreds: CC + CCC = CCCCC, which simplifies to D (500). Combine the tens: XX + X = XXX (30). Combine the units: II + III = V (5). The final result is DXXXV.",
+    "keywords": [
+      "group identical symbols",
+      "CC + CCC = D",
+      "XX + X = XXX",
+      "II + III = V",
+      "DXXXV"
+    ],
+    "explanation": "Roman arithmetic involves concatenation and then consolidation of symbols (e.g., 5 Cs become a D, 5 Is become a V). Page 60.",
+    "page_number": "60"
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Evaluate the product of the Roman landmark numbers V and L, and express the result in Roman numerals.",
+    "answer": "The Roman landmark V stands for 5 and L stands for 50. The product is 5 × 50 = 250. To write 250 in Roman numerals, we use two hundreds (CC) and one fifty (L), giving the final answer CCL.",
+    "keywords": [
+      "V stands for 5",
+      "L stands for 50",
+      "5 × 50 = 250",
+      "CC",
+      "L",
+      "CCL"
+    ],
+    "explanation": "Because Roman math is non-positional, multiplying V and L requires converting to base-10 to find 250, then back to Roman. Worksheet page.",
+    "page_number": "2"
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "How does the distributive property apply to multiplication in a base-n system like the Egyptian system?",
+    "answer": "In a base-n system, multiplying a multi-digit number by a landmark number utilizes the distributive property just like in algebra: (a + b) × n = an + bn. In Egyptian numerals, multiplying a composite number by 10 means you distribute the multiplication by 10 to every individual grouped symbol, effectively shifting each symbol up to the next landmark hierarchy.",
+    "keywords": [
+      "distributive property",
+      "(a + b) × n = an + bn",
+      "distribute",
+      "every individual grouped symbol",
+      "next landmark hierarchy"
+    ],
+    "explanation": "Because Egyptian numerals are additive, multiplying the whole number by 10 requires replacing each unit with a 10, each 10 with a 100, etc. Page 67.",
+    "page_number": "67"
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Compare the representation of the number 365 in the base-10 system and the base-60 Mesopotamian system.",
+    "answer": "In base-10, 365 is represented as (3 × 100) + (6 × 10) + (5 × 1), using digits in the hundreds, tens, and units places. In the base-60 Mesopotamian system, 365 is divided by 60. It consists of 6 groups of 60 and 5 units (6 × 60 + 5). Thus, it occupies only two positional places: a 6 in the 60s place and a 5 in the 1s place.",
+    "keywords": [
+      "base-10",
+      "hundreds, tens, and units",
+      "base-60",
+      "divided by 60",
+      "6 groups of 60",
+      "5 units"
+    ],
+    "explanation": "Larger bases condense numbers into fewer physical positions because each place value scales up much faster. Page 70.",
+    "page_number": "70"
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "Outline the journey of the Indian number system to the Arab world and eventually to Europe.",
+    "answer": "The Indian number system was transmitted to the Arab world around 800 CE, popularized by mathematicians like Al-Khwarizmi. From the Arab world, it spread to Europe and Africa around 1100 CE. European mathematician Fibonacci advocated for it in 1200, though widespread European adoption took until the 17th century Renaissance.",
+    "keywords": [
+      "Arab world",
+      "800 CE",
+      "Al-Khwarizmi",
+      "Europe",
+      "Fibonacci",
+      "Renaissance"
+    ],
+    "explanation": "The global adoption of the Hindu-Arabic numerals was a slow process across several centuries and cultures. Page 49.",
+    "page_number": "49"
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "Explain the shortcomings of the Mesopotamian placeholder symbol.",
+    "answer": "While the later Mesopotamians introduced a placeholder symbol to denote empty spaces (acting like zero) to prevent ambiguity, it had a major flaw: it was primarily used in the middle of numbers. They rarely used it at the end of a number, meaning trailing zeros were still highly ambiguous and could misrepresent magnitudes.",
+    "keywords": [
+      "placeholder symbol",
+      "middle of numbers",
+      "rarely used at the end",
+      "trailing zeros",
+      "ambiguous"
+    ],
+    "explanation": "Without a placeholder at the end, a number like 60 (one 60, zero 1s) could easily be confused for just 1. Page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Calculate how to represent the decimal number 5402 in the sexagesimal system.",
+    "answer": "To represent 5402 in base-60, divide by 3600 (the 60^2 landmark): 5402 = 1 × 3600 + 1802. Then divide the remainder 1802 by 60: 1802 = 30 × 60 + 2. So, the representation requires 1 in the 3600s place, 30 in the 60s place, and 2 in the units place.",
+    "keywords": [
+      "base-60",
+      "divide by 3600",
+      "remainder 1802",
+      "divide by 60",
+      "1, 30, 2"
+    ],
+    "explanation": "Converting large numbers to base 60 requires finding how many 3600s (60 squared) and 60s fit into the number. Page 70.",
+    "page_number": "70"
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "Why is the Hindu-Arabic number system considered one of the most important inventions in human history?",
+    "answer": "It is crucial because it combined a base-10 framework with strict place value rules and elevated the placeholder zero to a fully operational mathematical digit. This created an unambiguous way to write infinitely large numbers and drastically simplified complex arithmetic and algebraic calculations, spurring global scientific progress.",
+    "keywords": [
+      "base-10",
+      "place value rules",
+      "zero",
+      "mathematical digit",
+      "infinitely large numbers",
+      "scientific progress"
+    ],
+    "explanation": "The Hindu-Arabic system solved all the major flaws of previous systems (lack of zero, endless new symbols, hard calculations). Page 79.",
+    "page_number": "79"
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 60,
+      "max": 90
+    },
+    "question": "Imagine a civilisation that counts objects in groups of 4. Design a simple number system by listing the landmark numbers, assigning symbols for 0 to 3, and showing how the number 20 (base-10) would be represented.",
+    "answer": "In a base-4 system, the landmark numbers are powers of 4: 1, 4, 16, 64, etc. Let the symbols be A=0, B=1, C=2, D=3. To represent the base-10 number 20, we find the highest landmark fitting into it, which is 16. Divide 20 by 16: quotient 1, remainder 4. Next, divide the remainder 4 by 4: quotient 1, remainder 0. Finally, the units place is 0. So, the base-4 representation is 110, which written in our symbols would be BBA.",
+    "keywords": [
+      "base-4 system",
+      "powers of 4",
+      "1, 4, 16",
+      "divide 20 by 16",
+      "remainder 4",
+      "110",
+      "BBA"
+    ],
+    "explanation": "Designing a number system requires defining the base landmarks, selecting symbols for digits up to Base-1, and applying successive division to convert base-10 numbers. Worksheet page.",
+    "page_number": "1"
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 110
+    },
+    "question": "Trace the comprehensive evolution of number systems from primitive one-to-one matching (tally marks) to the modern Hindu-Arabic place value system.",
+    "answer": "Humans began counting using one-to-one matching, marking notches on bones like the Ishango bone. As numbers grew, systems evolved to group items, seen in the Gumulgal counting by 2s or Roman grouping by specific landmark symbols (V, X, L). The Egyptians formalized a base-10 grouping system but without positional value. The Mesopotamians created a base-60 positional system but struggled with empty spaces. The Chinese improved place value using alternating rods and a blank space for zero. Finally, the Hindu system perfected place value by introducing digits 0-9, treating zero as both a placeholder and a true mathematical number, enabling efficient global mathematics.",
+    "keywords": [
+      "one-to-one matching",
+      "tally marks",
+      "grouping",
+      "Roman",
+      "Egyptian",
+      "Mesopotamians",
+      "positional",
+      "Chinese",
+      "Hindu system",
+      "zero"
+    ],
+    "explanation": "This maps the entire historical trajectory covered in the chapter, showing how each civilisation iterated on the flaws of previous systems. Page 78.",
+    "page_number": "78"
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 60,
+      "max": 100
+    },
+    "question": "Analyze the Mesopotamian (Babylonian) sexagesimal system. Discuss its base, the symbols used for 1 and 10, how position determined value, and how the ambiguity of blank spaces was eventually resolved.",
+    "answer": "The Mesopotamians utilized a sexagesimal, or base-60, number system. They used a specific wedge symbol for 1 and a different angled wedge for 10. They combined these to form digits 1-59. It was a positional system, meaning a digit's value depended on its place (1s, 60s, 3600s). Initially, they indicated a missing place value with a physical blank space, which caused massive reading ambiguity. Eventually, they resolved this by introducing a unique placeholder symbol to denote an empty column, though they rarely used it at the end of numbers.",
+    "keywords": [
+      "sexagesimal",
+      "base-60",
+      "symbol for 1",
+      "symbol for 10",
+      "positional system",
+      "blank space",
+      "reading ambiguity",
+      "placeholder symbol"
+    ],
+    "explanation": "The Mesopotamian system was a massive leap forward due to its positional nature, but its lack of a robust zero caused early struggles. Page 69, 74.",
+    "page_number": "69"
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 100
+    },
+    "question": "Detailed Case Study: A technology museum displays early computer numbers in base-8 (octal). Explain what a base-8 system is, list its landmark numbers, convert the base-8 number 325 to base-10, and convert the base-10 number 42 to base-8.",
+    "answer": "A base-8 (octal) system is a positional number system that uses only 8 digits (0-7), and groups numbers by powers of 8. Its landmark numbers are 1, 8, 64, 512, etc. To convert the base-8 number 325 to base-10: (3 × 8^2) + (2 × 8^1) + (5 × 8^0) = (3 × 64) + (2 × 8) + 5 = 192 + 16 + 5 = 213 in base-10. To convert base-10 number 42 to base-8, divide 42 by 8: quotient 5, remainder 2. Thus, 42 is written as 52 in base-8.",
+    "keywords": [
+      "base-8",
+      "powers of 8",
+      "landmark numbers",
+      "325 to base-10",
+      "213",
+      "42 to base-8",
+      "52"
+    ],
+    "explanation": "Converting back and forth between bases requires multiplying by powers of the base (to decimal) or successively dividing by the base (from decimal). Case Study Worksheet.",
+    "page_number": "2"
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 110
+    },
+    "question": "Compare and contrast the Mayan and Chinese number systems in terms of their base, representation style (vertical vs horizontal), and their respective approaches to representing the concept of zero.",
+    "answer": "The Mayan system is an almost base-20 system (grouping by 1, 20, 360), whereas the Chinese system is a strict base-10 decimal system. Structurally, Mayan numerals are written vertically, with the highest place value at the top, using dots and bars. The Chinese system is written horizontally, alternating between vertical (Zong) and horizontal (Heng) rods to distinguish places. Regarding zero, the Mayans explicitly invented a distinct placeholder symbol resembling a seashell. The Chinese initially relied on physical blank spaces to represent zero, eventually adopting a circular zero symbol much later under Indian influence.",
+    "keywords": [
+      "base-20",
+      "base-10",
+      "vertically",
+      "horizontally",
+      "alternating",
+      "seashell",
+      "blank spaces"
+    ],
+    "explanation": "Comparing different historical systems highlights how diverse cultures approached the universal problems of scaling numbers and tracking empty values. Page 74, 76.",
+    "page_number": "76"
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 100
+    },
+    "question": "Detailed Case Study: The Treasure Island uses a base-5 number system. Calculate the base-5 representation for 132 gold coins, convert the base-5 number 432 to base-10, and explain the mathematical significance of using a placeholder in such a system.",
+    "answer": "To convert 132 to base-5: 132 ÷ 5 = 26 (R 2). 26 ÷ 5 = 5 (R 1). 5 ÷ 5 = 1 (R 0). 1 ÷ 5 = 0 (R 1). Reading remainders backwards gives 1012 in base-5. To convert base-5 number 432 to base-10: (4 × 5^2) + (3 × 5^1) + (2 × 5^0) = (4 × 25) + (3 × 5) + 2 = 100 + 15 + 2 = 117. The mathematical significance of a placeholder is crucial: it explicitly marks an empty power of 5 (like the '0' in 1012), preserving the positional alignment and avoiding catastrophic reading errors.",
+    "keywords": [
+      "base-5",
+      "132 to base-5",
+      "1012",
+      "432 to base-10",
+      "117",
+      "placeholder",
+      "empty power",
+      "positional alignment"
+    ],
+    "explanation": "Calculations in non-decimal bases test core numerical logic. The placeholder discussion bridges computational mechanics with historical theory. Case Study Worksheet.",
+    "page_number": "1"
+  },
+  {
+    "id": 71,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 100
+    },
+    "question": "Explain the rules for forming numbers in the Roman numeral system. Use these rules to systematically convert the Hindu-Arabic numbers 3928 and 745 into Roman numerals.",
+    "answer": "Roman rules state: I, X, C, M can repeat up to three times; V, L, D cannot repeat. Smaller numerals following larger ones are added; smaller numerals preceding larger ones are subtracted. For 3928: Expand to 3000 + 900 + 20 + 8. 3000 is MMM. 900 is CM (100 less than 1000). 20 is XX. 8 is VIII. Combining gives MMMCMXXVIII. For 745: Expand to 700 + 40 + 5. 700 is DCC. 40 is XL (10 less than 50). 5 is V. Combining gives DCCXLV.",
+    "keywords": [
+      "rules",
+      "repeat up to three",
+      "added",
+      "subtracted",
+      "3928",
+      "MMMCMXXVIII",
+      "745",
+      "DCCXLV"
+    ],
+    "explanation": "Roman numerals rely heavily on decomposition into specific powers and subtractive logic for numbers involving 4s and 9s. Page 58, 59.",
+    "page_number": "59"
+  },
+  {
+    "id": 72,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 110
+    },
+    "question": "Evaluate the efficiency of the Egyptian number system. Discuss its base, how it represents numbers through grouping, and mathematically demonstrate how 303506 is formed. What is its biggest limitation?",
+    "answer": "The Egyptian system is a base-10 system that uses fixed symbols for powers of 10 (1, 10, 100, etc.). It represents numbers by simply grouping and repeating these symbols; it is additive, not positional. To form 303506, it requires 3 symbols for 100,000 (300,000), 3 symbols for 1,000 (3,000), 5 symbols for 100 (500), and 6 symbols for 1 (6). It skips 10,000 and 10 entirely since those are zeroes. Its biggest limitation is that it lacks a positional framework and zero, requiring an endless creation of new symbols whenever numbers grow beyond the current highest landmark.",
+    "keywords": [
+      "base-10",
+      "grouping",
+      "additive",
+      "3 symbols for 100,000",
+      "3 symbols for 1,000",
+      "5 symbols for 100",
+      "6 symbols for 1",
+      "biggest limitation",
+      "endless creation"
+    ],
+    "explanation": "The Egyptian system highlights the bridge between tally marks and true place value systems. It has a base, but lacks positionality. Page 62, 69.",
+    "page_number": "62"
+  },
+  {
+    "id": 73,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 60,
+      "max": 90
+    },
+    "question": "Elaborate on the mathematical contributions of Aryabhata and Brahmagupta regarding the concept of zero and the Hindu numeral system. How did these contributions lay the foundation for modern algebra?",
+    "answer": "Aryabhata was the first to fully explain and compute scientifically using the Indian system of 10 symbols, treating zero explicitly in operations. Later, Brahmagupta codified the mathematical laws of zero, proving it behaved as a true number (e.g., adding or multiplying by zero). By establishing zero as a number on par with positive and negative integers, Brahmagupta created what modern math calls a 'ring'—a closed system for addition, subtraction, and multiplication. This abstraction allowed equations to balance out to zero, laying the absolute foundation for modern algebra and calculus.",
+    "keywords": [
+      "Aryabhata",
+      "compute scientifically",
+      "Brahmagupta",
+      "codified",
+      "true number",
+      "ring",
+      "foundation for modern algebra"
+    ],
+    "explanation": "Indian mathematicians didn't just invent a symbol; they invented the mathematical behaviors of zero, which changed science forever. Page 79.",
+    "page_number": "79"
+  },
+  {
+    "id": 74,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 60,
+      "max": 100
+    },
+    "question": "Design a simple base-2 number system. Define its base, the required symbols, the role of the placeholder, and mathematically demonstrate how the decimal number 246 would be written in your base-2 system.",
+    "answer": "A base-2 system groups numbers by powers of 2 (1, 2, 4, 8, 16...). It requires exactly two symbols: 1 for value and 0 as a placeholder to indicate empty powers. To convert 246 to base-2, perform successive divisions by 2:\n246 ÷ 2 = 123 (R 0)\n123 ÷ 2 = 61 (R 1)\n61 ÷ 2 = 30 (R 1)\n30 ÷ 2 = 15 (R 0)\n15 ÷ 2 = 7 (R 1)\n7 ÷ 2 = 3 (R 1)\n3 ÷ 2 = 1 (R 1)\n1 ÷ 2 = 0 (R 1)\nReading remainders backwards, 246 in base-2 is 11110110.",
+    "keywords": [
+      "base-2",
+      "powers of 2",
+      "two symbols",
+      "placeholder",
+      "successive divisions",
+      "11110110"
+    ],
+    "explanation": "Creating a base-2 system requires understanding that the divisor is 2 and the only possible remainders are 0 and 1. Page 84 (competency).",
+    "page_number": "30"
+  },
+  {
+    "id": 75,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 100
+    },
+    "question": "Discuss the use of the abacus in the 11th century as a decimal calculating device. Explain how counters were placed to represent numbers, how a counter above the line functioned, and how addition (like 3534 + 2617) was performed using regrouping.",
+    "answer": "The 11th-century abacus represented a base-10 system. It used horizontal lines representing powers of 10 (1s, 10s, 100s). Counters placed on a line counted as units of that power, while a counter above the line counted as 5 of that power. To add 3534 and 2617, counters from both numbers are slid together. When a line collects 10 or more counters (e.g., 4 + 7 units = 11), regrouping occurs: 10 counters are removed from that line, and 1 single counter is carried over to the next higher power line. This mimics modern column addition with carry-overs.",
+    "keywords": [
+      "abacus",
+      "base-10",
+      "horizontal lines",
+      "above the line",
+      "counted as 5",
+      "regrouping",
+      "carry over"
+    ],
+    "explanation": "The abacus visually applied place value and regrouping logic long before Hindu-Arabic numerals were widely written in Europe. Page 68.",
+    "page_number": "68"
+  },
+  {
+    "id": 76,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 60,
+      "max": 90
+    },
+    "question": "Form a base-4 place value system. List its first four landmark numbers. Explain how you would represent the decimal number 255 in this system, showing the step-by-step division and remainders.",
+    "answer": "In a base-4 system, the first four landmark numbers are powers of 4: 1, 4, 16, and 64 (4^0, 4^1, 4^2, 4^3). To represent the decimal number 255, we perform successive division by 4:\n255 ÷ 4 = 63 with Remainder 3.\n63 ÷ 4 = 15 with Remainder 3.\n15 ÷ 4 = 3 with Remainder 3.\n3 ÷ 4 = 0 with Remainder 3.\nReading the remainders from last to first, the base-4 representation of 255 is 3333.",
+    "keywords": [
+      "base-4",
+      "landmark numbers",
+      "1, 4, 16, 64",
+      "successive division",
+      "Remainder 3",
+      "3333"
+    ],
+    "explanation": "This demonstrates understanding of generating landmarks from exponents and applying modulo arithmetic to convert base-10. Competency task.",
+    "page_number": "23"
+  },
+  {
+    "id": 77,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 60,
+      "max": 100
+    },
+    "question": "Explain the challenges humanity faced in counting large quantities using tally marks or body parts. How did the concept of 'grouping' and 'landmark numbers' solve these early challenges? Give examples from the Gumulgal and Roman systems.",
+    "answer": "Primitive counting methods like one-to-one matching (tally marks) or using body parts were extremely inefficient for large quantities; representing 100 cows meant physically making 100 marks. To solve this, humans invented 'grouping'. Instead of endless tallying, they assigned a new name or symbol to a specific group size. For instance, the Gumulgal tribe counted in groups of 2. The Roman system improved this by creating 'landmark numbers'—symbols for larger grouped milestones like V (5), X (10), L (50), and C (100). This drastically reduced the number of symbols needed to write large numbers.",
+    "keywords": [
+      "inefficient",
+      "tally marks",
+      "grouping",
+      "Gumulgal",
+      "groups of 2",
+      "Roman",
+      "landmark numbers",
+      "reduced symbols"
+    ],
+    "explanation": "Grouping was the first abstraction in mathematics, allowing humanity to compress large quantities into smaller, readable symbols. Page 56, 58.",
+    "page_number": "56"
+  },
+  {
+    "id": 78,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 100
+    },
+    "question": "Describe the Chinese rod numeral system in detail. Explain the difference between Zong and Heng rods, how they were placed to avoid confusion, and mathematically show how 3875 is formed conceptually.",
+    "answer": "The Chinese rod numeral system is a base-10 decimal system that uses physical sticks. Because they didn't use a drawn grid, placing multiple sticks horizontally for adjacent digits would blur them together. Therefore, they alternated stick orientations. Zong rods (vertical) were used for units, hundreds, and ten-thousands. Heng rods (horizontal) were used for tens and thousands. To form 3875: The 5 units use vertical Zong rods. The 7 tens use horizontal Heng rods. The 8 hundreds use vertical Zong rods. The 3 thousands use horizontal Heng rods. Placing these side by side clearly separates the 3, 8, 7, and 5.",
+    "keywords": [
+      "base-10",
+      "Zong",
+      "vertical",
+      "Heng",
+      "horizontal",
+      "alternated stick orientations",
+      "3875"
+    ],
+    "explanation": "Chinese rod numerals were a highly effective physical calculating tool that relied on positional logic. Page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 79,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 60,
+      "max": 90
+    },
+    "question": "In the context of base-n number systems, explain how multiplication of two landmark numbers always results in another landmark number. Demonstrate this property using an example in base-10 and base-5.",
+    "answer": "In any base-n system, every landmark number is a perfect power of the base (n^0, n^1, n^2...). According to the laws of exponents, multiplying two powers of the same base adds their exponents (n^x * n^y = n^(x+y)), resulting directly in another power of that base—which is another landmark number. For example, in base-10: multiplying landmark 10 (10^1) by 100 (10^2) equals 1000 (10^3). In base-5: multiplying landmark 5 (5^1) by 25 (5^2) equals 125 (5^3). This mathematical consistency makes arithmetic significantly easier than in non-base systems.",
+    "keywords": [
+      "perfect power of the base",
+      "laws of exponents",
+      "another landmark number",
+      "base-10",
+      "10 * 100 = 1000",
+      "base-5",
+      "5 * 25 = 125"
+    ],
+    "explanation": "Base mathematics simplifies multiplication into shifting place values, a property entirely missing in Roman/Tally systems. Page 68.",
+    "page_number": "68"
+  },
+  {
+    "id": 80,
+    "subject": "Mathematics",
+    "chapter": "A Story of Numbers-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 110
+    },
+    "question": "Comprehensively analyze the Hindu Number System. Highlight its base, the specific symbols used, the critical role of zero as both a placeholder and a number, and why it ultimately replaced the Roman numeral system in Europe.",
+    "answer": "The Hindu number system is a base-10 (decimal) positional system utilizing exactly ten distinct symbols: digits 0 through 9. Its revolutionary feature was the invention of zero (0). Unlike previous systems that used zero merely as a blank space placeholder (like the Mesopotamians), Indian mathematicians treated zero as a standalone number with rigorous arithmetic rules. Because of its strict place value mechanics and zero, anyone could write infinitely large numbers with just 10 symbols and perform column-based addition and multiplication effortlessly. When transmitted to Europe via Arabic scholars, its sheer efficiency for calculation made it indispensable for science and trade, rendering the clunky Roman numeral system obsolete.",
+    "keywords": [
+      "base-10",
+      "digits 0 through 9",
+      "invention of zero",
+      "standalone number",
+      "arithmetic rules",
+      "infinitely large numbers",
+      "efficiency for calculation",
+      "Roman numeral system obsolete"
+    ],
+    "explanation": "The Hindu-Arabic system is the culmination of historical numbering experiments, perfectly marrying base-10, positionality, and zero. Page 78, 79.",
+    "page_number": "78"
+  }
+]
