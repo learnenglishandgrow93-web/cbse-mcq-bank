@@ -1,0 +1,1732 @@
+[
+  {
+    "id": 1,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "'स्वदेश' कविता के कवि का क्या नाम है?   What is the name of the poet of the poem 'Swadesh'?",
+    "answer": "'स्वदेश' कविता के कवि का नाम गयाप्रसाद शुक्ल ‘सनेही’ है।   The name of the poet of the poem 'Swadesh' is Gaya Prasad Shukla 'Sanehi'.",
+    "keywords": [
+      "कवि   Poet",
+      "गयाप्रसाद शुक्ल   Gaya Prasad Shukla",
+      "सनेही   Sanehi"
+    ],
+    "explanation": "कवि का नाम कविता के अंत और पाठ के परिचय में स्पष्ट रूप से गयाप्रसाद शुक्ल ‘सनेही’ दिया गया है।   The poet's name is clearly given as Gaya Prasad Shukla 'Sanehi' at the end of the poem and in the chapter introduction.",
+    "page_number": "2"
+  },
+  {
+    "id": 2,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "कवि के अनुसार कौन सा हृदय पत्थर के समान है?   According to the poet, which heart is like a stone?",
+    "answer": "कवि के अनुसार जिस हृदय में स्वदेश के लिए प्यार नहीं है, वह पत्थर के समान है।   According to the poet, the heart that has no love for the country is like a stone.",
+    "keywords": [
+      "हृदय   Heart",
+      "पत्थर   Stone",
+      "स्वदेश   Country",
+      "प्यार   Love"
+    ],
+    "explanation": "कविता की पहली पंक्ति में बताया गया है कि स्वदेश प्रेम के बिना मनुष्य का हृदय पत्थर के समान संवेदनहीन होता है।   The first line of the poem states that without patriotism, a human's heart is as insensitive as a stone.",
+    "page_number": "1"
+  },
+  {
+    "id": 3,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "गयाप्रसाद शुक्ल जी का जन्म उत्तर प्रदेश के किस जनपद में हुआ था?   In which district of Uttar Pradesh was Gaya Prasad Shukla ji born?",
+    "answer": "गयाप्रसाद शुक्ल जी का जन्म उत्तर प्रदेश के उन्नाव जनपद में हुआ था।   Gaya Prasad Shukla ji was born in the Unnao district of Uttar Pradesh.",
+    "keywords": [
+      "जन्म   Birth",
+      "उत्तर प्रदेश   Uttar Pradesh",
+      "उन्नाव जनपद   Unnao district"
+    ],
+    "explanation": "कवि परिचय में स्पष्ट लिखा है कि उनका जन्म उत्तर प्रदेश के उन्नाव जनपद में हुआ।   It is clearly written in the author introduction that he was born in the Unnao district of Uttar Pradesh.",
+    "page_number": "3"
+  },
+  {
+    "id": 4,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "कवि ने सरकारी नौकरी के कारण 'सनेही' के अतिरिक्त कौन सा दूसरा उपनाम रखा था?   Which other pen name did the poet keep besides 'Sanehi' due to his government job?",
+    "answer": "कवि ने सरकारी नौकरी के कारण अपना दूसरा उपनाम 'त्रिशूल' रखा था।   The poet kept his second pen name 'Trishul' because of his government job.",
+    "keywords": [
+      "सरकारी नौकरी   Government job",
+      "उपनाम   Pen name",
+      "त्रिशूल   Trishul"
+    ],
+    "explanation": "कवि ने स्वयं बताया था कि सरकारी नौकरी के कारण उन्हें 'त्रिशूल' उपनाम रखना पड़ा था।   The poet himself stated that due to his government job, he had to adopt the pen name 'Trishul'.",
+    "page_number": "3"
+  },
+  {
+    "id": 5,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "कवि के अनुसार जो मनुष्य संसार के साथ नहीं चल सकता, उसका क्या होता है?   According to the poet, what happens to the person who cannot walk along with the world?",
+    "answer": "जो संसार के साथ नहीं चल सकता, उसका इस संसार में कोई अस्तित्व नहीं होता।   The one who cannot walk with the world has no existence in this world.",
+    "keywords": [
+      "संसार   World",
+      "अस्तित्व   Existence",
+      "साथ चलना   Walking along"
+    ],
+    "explanation": "कविता की पंक्तियों 'जो चल न सका संसार-संग, उसका होता संसार नहीं' में यह बताया गया है।   This is stated in the lines of the poem 'He who could not walk with the world, the world is not his'.",
+    "page_number": "1"
+  },
+  {
+    "id": 6,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "'भू' शब्द के दो समानार्थी शब्द लिखिए।   Write two synonyms for the word 'Bhu'.",
+    "answer": "'भू' शब्द के दो समानार्थी शब्द 'धरा' और 'पृथ्वी' हैं।   Two synonyms for the word 'Bhu' are 'Dhara' and 'Prithvi'.",
+    "keywords": [
+      "भू   Earth",
+      "धरा   Dhara",
+      "पृथ्वी   Prithvi"
+    ],
+    "explanation": "पाठ के व्याकरण भाग में 'भू' के समानार्थी शब्द धरा और पृथ्वी दिए गए हैं।   In the grammar section of the chapter, 'Dhara' and 'Prithvi' are given as synonyms for 'Bhu'.",
+    "page_number": "8"
+  },
+  {
+    "id": 7,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "'तलवार' शब्द के लिए पाठ में कौन से दो समानार्थी शब्द दिए गए हैं?   Which two synonyms are given in the chapter for the word 'Talwar'?",
+    "answer": "पाठ में 'तलवार' शब्द के दो समानार्थी शब्द 'असि' और 'कृपाण' दिए गए हैं।   In the chapter, the two synonyms given for the word 'Talwar' are 'Asi' and 'Kripan'.",
+    "keywords": [
+      "तलवार   Sword",
+      "असि   Asi",
+      "कृपाण   Kripan"
+    ],
+    "explanation": "भाषा की बात के अंतर्गत समानार्थी शब्दों की सूची में तलवार के लिए असि और कृपाण का उल्लेख है।   In the list of synonyms under the language section, 'Asi' and 'Kripan' are mentioned for 'Talwar'.",
+    "page_number": "8"
+  },
+  {
+    "id": 8,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "कवि के अनुसार हमारी मिट्टी में हमें क्या-क्या मिला है?   According to the poet, what all have we got in our soil?",
+    "answer": "कवि के अनुसार हमें अपनी मिट्टी में उगे-बढ़े होने का अवसर और दाना-पानी मिला है।   According to the poet, we got the opportunity to grow up and food and water in our soil.",
+    "keywords": [
+      "मिट्टी   Soil",
+      "दाना-पानी   Food and water",
+      "उगे-बढ़े   Grown up"
+    ],
+    "explanation": "कविता में लिखा है, 'जिसकी मिट्टी में उगे बढ़े, पाया जिसमें दाना-पानी।'   The poem states, 'In whose soil we grew up, in which we got food and water.'",
+    "page_number": "2"
+  },
+  {
+    "id": 9,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "किसका उद्धार नहीं हो सकता?   Whose salvation is not possible?",
+    "answer": "जिस व्यक्ति से अपनी जाति या राष्ट्र का उद्धार नहीं हुआ, उसका स्वयं का उद्धार नहीं हो सकता।   A person who could not uplift their community or nation cannot attain salvation themselves.",
+    "keywords": [
+      "जाति-उद्धार   Community upliftment",
+      "उद्धार   Salvation"
+    ],
+    "explanation": "कवि कहते हैं कि 'जिससे न जाति-उद्धार हुआ, होगा उसका उद्धार नहीं।'   The poet says that 'one who has not brought salvation to his community, will not have salvation himself.'",
+    "page_number": "1"
+  },
+  {
+    "id": 10,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "दीवानों को हरदम क्या करना पड़ता है?   What do the 'Parvano' (moths/lovers) have to do always?",
+    "answer": "कविता के अनुसार काल-दीप हमेशा जलता रहता है और परवानों (देशभक्तों) को उस पर जल जाना होता है।   According to the poem, the lamp of time always burns, and the moths (patriots) have to burn on it.",
+    "keywords": [
+      "काल-दीप   Lamp of time",
+      "परवानों   Moths/Lovers",
+      "जल जाना   To burn"
+    ],
+    "explanation": "पंक्ति 'है काल-दीप जलता हरदम, जल जाना है परवानों को' में देश के लिए बलिदान होने का भाव है।   The line 'The lamp of time burns forever, the moths have to burn' implies the sentiment of sacrificing for the country.",
+    "page_number": "2"
+  },
+  {
+    "id": 11,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "'खादी गीत' नामक कविता के रचयिता कौन हैं?   Who is the creator of the poem named 'Khadi Geet'?",
+    "answer": "'खादी गीत' नामक कविता के रचयिता सोहनलाल द्विवेदी हैं।   The creator of the poem named 'Khadi Geet' is Sohanlal Dwivedi.",
+    "keywords": [
+      "खादी गीत   Khadi Geet",
+      "रचयिता   Creator",
+      "सोहनलाल द्विवेदी   Sohanlal Dwivedi"
+    ],
+    "explanation": "झरोखे से भाग में बताया गया है कि 'खादी गीत' सोहनलाल द्विवेदी की रचना है।   In the 'Jharokhe Se' section, it is mentioned that 'Khadi Geet' is the work of Sohanlal Dwivedi.",
+    "page_number": "11"
+  },
+  {
+    "id": 12,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "तुक वाले शब्द किसे कहते हैं?   What are rhyming words (Tuk wale shabd)?",
+    "answer": "जिन शब्दों के अंत की ध्वनि एक-सी होती है, उन्हें तुक वाले शब्द कहा जाता है।   Words that have similar ending sounds are called rhyming words.",
+    "keywords": [
+      "ध्वनि   Sound",
+      "एक-सी   Similar",
+      "तुक   Rhyme"
+    ],
+    "explanation": "कविता की रचना भाग में बताया गया है कि समान अंतिम ध्वनि वाले शब्दों की विशेषता को तुक मिलाना कहते हैं।   In the poetry creation section, it is explained that the characteristic of words with the same ending sound is called rhyming.",
+    "page_number": "6"
+  },
+  {
+    "id": 13,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "योजक चिह्न (-) का मुख्य उपयोग क्या है?   What is the main use of a hyphen (Yojak Chinh)?",
+    "answer": "योजक चिह्न का उपयोग दो शब्दों के बीच परस्पर संबंध स्पष्ट करने और उन्हें जोड़कर लिखने के लिए किया जाता है।   The hyphen is used to clarify the mutual relationship between two words and to write them connected.",
+    "keywords": [
+      "योजक चिह्न   Hyphen",
+      "संबंध   Relationship",
+      "जोड़कर   Connected"
+    ],
+    "explanation": "भाषा की बात खंड में स्पष्ट किया गया है कि यह चिह्न दो शब्दों को जोड़ने और उनके संबंध को दर्शाने के काम आता है।   In the language section, it is clarified that this symbol is used to connect two words and show their relationship.",
+    "page_number": "7"
+  },
+  {
+    "id": 14,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "'निस्संशय' शब्द का क्या अर्थ है?   What is the meaning of the word 'Nissanshay'?",
+    "answer": "'निस्संशय' का अर्थ है बिना किसी संदेह के या निश्चित रूप से।   'Nissanshay' means without any doubt or certainly.",
+    "keywords": [
+      "निस्संशय   Nissanshay",
+      "संदेह   Doubt",
+      "निश्चित   Certainly"
+    ],
+    "explanation": "कविता में 'निस्संशय' का प्रयोग यह बताने के लिए किया गया है कि मृत्यु एक अटल और निश्चित सत्य है।   In the poem, 'Nissanshay' is used to express that death is an inevitable and certain truth.",
+    "page_number": "2"
+  },
+  {
+    "id": 15,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "कवि ने दुनिया को किसके प्रति दीवानी बताया है?   What did the poet say the world is crazy about?",
+    "answer": "कवि ने दुनिया को भारत (स्वदेश) देश और इसके खजाने एवं नवरत्नों के प्रति दीवानी बताया है।   The poet said that the world is crazy about India (Swadesh) and its treasures and nine gems.",
+    "keywords": [
+      "दुनिया   World",
+      "दीवानी   Crazy",
+      "स्वदेश   Swadesh"
+    ],
+    "explanation": "कवि कहते हैं 'जिस पर है दुनिया दीवानी' अर्थात् हमारे देश की महानता के कारण पूरी दुनिया इसकी प्रशंसक है।   The poet says 'about which the world is crazy', meaning the whole world admires our country due to its greatness.",
+    "page_number": "2"
+  },
+  {
+    "id": 16,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "'है जान एक दिन जाने को' पंक्ति का क्या अर्थ है?   What is the meaning of the line 'Hai jaan ek din jaane ko'?",
+    "answer": "इस पंक्ति का अर्थ है कि मनुष्य का जीवन नश्वर है और एक दिन मृत्यु निश्चित रूप से आनी है।   The meaning of this line is that human life is mortal and death is certain to come one day.",
+    "keywords": [
+      "जीवन   Life",
+      "नश्वर   Mortal",
+      "मृत्यु   Death"
+    ],
+    "explanation": "यह पंक्ति मानव जीवन की क्षणभंगुरता और मृत्यु के अटल सत्य को दर्शाती है।   This line reflects the transient nature of human life and the inevitable truth of death.",
+    "page_number": "2"
+  },
+  {
+    "id": 17,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "गयाप्रसाद शुक्ल 'सनेही' जी की तीन प्रमुख रचनाओं के नाम लिखिए।   Write the names of three major works of Gaya Prasad Shukla 'Sanehi' ji.",
+    "answer": "गयाप्रसाद शुक्ल 'सनेही' जी की तीन प्रमुख रचनाएँ हैं: त्रिशूल तरंग, राष्ट्रीय मंत्र, और कृषक क्रंदन।   The three major works of Gaya Prasad Shukla 'Sanehi' ji are: Trishul Tarang, Rashtriya Mantra, and Krishak Krandan.",
+    "keywords": [
+      "रचनाएँ   Works",
+      "त्रिशूल तरंग   Trishul Tarang",
+      "राष्ट्रीय मंत्र   Rashtriya Mantra",
+      "कृषक क्रंदन   Krishak Krandan"
+    ],
+    "explanation": "पाठ के कवि परिचय खंड में सनेही जी की इन तीन प्रमुख रचनाओं का स्पष्ट उल्लेख किया गया है।   These three major works of Sanehi ji are clearly mentioned in the poet introduction section of the chapter.",
+    "page_number": "3"
+  },
+  {
+    "id": 18,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "कवि ने 'त्रिशूल' उपनाम क्यों रखा था?   Why did the poet keep the pen name 'Trishul'?",
+    "answer": "कवि गयाप्रसाद शुक्ल सरकारी नौकरी में थे। सरकारी नौकरी के नियमों के कारण वे अपने असली नाम से नहीं लिख सकते थे, इसलिए उन्होंने 'त्रिशूल' उपनाम रखा।   The poet Gaya Prasad Shukla was in a government job. Due to government job rules, he could not write under his real name, so he adopted the pen name 'Trishul'.",
+    "keywords": [
+      "सरकारी नौकरी   Government job",
+      "उपनाम   Pen name",
+      "त्रिशूल   Trishul"
+    ],
+    "explanation": "कवि ने स्वयं कहा था कि सरकारी नौकरी के कारण उन्हें 'सनेही' के अतिरिक्त दूसरा उपनाम 'त्रिशूल' रखना पड़ा था।   The poet himself had said that due to his government job, he had to keep a second pen name 'Trishul' in addition to 'Sanehi'.",
+    "page_number": "3"
+  },
+  {
+    "id": 19,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "पंक्ति 'जो जीवित जोश जगा न सका, उस जीवन में कुछ सार नहीं' का भावार्थ क्या है?   What is the central meaning of the line 'Jo jivit josh jaga na saka, us jeevan mein kuch saar nahi'?",
+    "answer": "इस पंक्ति का भाव है कि जो मनुष्य अपने अंदर और दूसरों में देशप्रेम का जोश नहीं जगा सकता, उसका जीवन व्यर्थ और अर्थहीन है।   The meaning of this line is that a person who cannot awaken the zeal of patriotism in himself and others, his life is useless and meaningless.",
+    "keywords": [
+      "जोश   Zeal",
+      "सार   Meaning",
+      "व्यर्थ   Useless"
+    ],
+    "explanation": "कवि के अनुसार जीवन की सार्थकता देश के प्रति उत्साह और प्रेम जगाने में है, इसके बिना जीवन का कोई महत्व नहीं है।   According to the poet, the significance of life lies in arousing enthusiasm and love for the country; without this, life has no importance.",
+    "page_number": "1"
+  },
+  {
+    "id": 20,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "'जिससे न जाति-उद्धार हुआ' का आशय स्पष्ट कीजिए।   Clarify the meaning of 'Jisse na jati-uddhar hua'.",
+    "answer": "इस पंक्ति का आशय है कि यदि कोई व्यक्ति अपने देश, समाज या अपनी जाति की भलाई और उत्थान के लिए कोई कार्य नहीं करता है, तो उसका जीवन सफल नहीं है।   The meaning of this line is that if a person does not work for the welfare and upliftment of his country, society, or community, his life is not successful.",
+    "keywords": [
+      "जाति-उद्धार   Community upliftment",
+      "भलाई   Welfare",
+      "उत्थान   Upliftment"
+    ],
+    "explanation": "कवि का मानना है कि मनुष्य का कर्तव्य अपनी जाति और राष्ट्र का कल्याण करना है। जो ऐसा नहीं करता, उसका स्वयं का भी उद्धार नहीं होता।   The poet believes that a human's duty is to ensure the welfare of his community and nation. One who does not do so does not attain salvation himself.",
+    "page_number": "1"
+  },
+  {
+    "id": 21,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "कवि ने भारत को 'खजाने' और 'नवरत्न' वाला क्यों कहा है?   Why has the poet called India a place of 'treasures' and 'nine gems'?",
+    "answer": "कवि ने ऐसा इसलिए कहा है क्योंकि हमारे देश की ज्ञान-संपदा, संस्कृति और प्राकृतिक संसाधन अत्यंत समृद्ध हैं, जिन्होंने पूरे विश्व को प्रभावित किया है।   The poet said so because our country's wealth of knowledge, culture, and natural resources are extremely rich, which have influenced the entire world.",
+    "keywords": [
+      "खजाने   Treasures",
+      "नवरत्न   Nine gems",
+      "ज्ञान-संपदा   Wealth of knowledge"
+    ],
+    "explanation": "कविता में भारत की सांस्कृतिक और बौद्धिक संपदा को खजाने के रूप में वर्णित किया गया है जिस पर ज्ञानी लोग भी मोहित होते हैं।   In the poem, India's cultural and intellectual wealth is described as a treasure that even wise men are enamored with.",
+    "page_number": "2"
+  },
+  {
+    "id": 22,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "कवि ने देशवासियों को 'राजा-रानी' क्यों कहा है?   Why has the poet called the countrymen 'Raja-Rani' (Kings and Queens)?",
+    "answer": "कवि ने देशवासियों को 'राजा-रानी' इसलिए कहा है क्योंकि यह देश हम सभी का है, हम इसके स्वतंत्र नागरिक हैं और हमें इस पर पूरा अधिकार एवं गर्व है।   The poet has called the countrymen 'Raja-Rani' because this country belongs to all of us, we are its free citizens, and we have full rights and pride in it.",
+    "keywords": [
+      "राजा-रानी   Raja-Rani",
+      "स्वतंत्र नागरिक   Free citizens",
+      "अधिकार   Rights"
+    ],
+    "explanation": "स्वतंत्र राष्ट्र में हर नागरिक समान रूप से महत्वपूर्ण होता है, इसी संप्रभुता को दर्शाने के लिए कवि ने उन्हें राजा-रानी कहा है।   In a free nation, every citizen is equally important; to show this sovereignty, the poet has called them kings and queens.",
+    "page_number": "5"
+  },
+  {
+    "id": 23,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "'क्या है वह भू का भार नहीं' से कवि का क्या तात्पर्य है?   What does the poet mean by 'Kya hai vah bhu ka bhar nahi'?",
+    "answer": "कवि का तात्पर्य है कि जिस व्यक्ति के मन में देश की दुर्दशा देखकर कोई दया या करुणा नहीं जागती, वह धरती पर केवल एक बोझ (भार) के समान है।   The poet means that a person in whose heart no pity or compassion arises upon seeing the misery of the country is merely a burden on the earth.",
+    "keywords": [
+      "भू का भार   Burden on earth",
+      "करुणा   Compassion",
+      "बोझ   Burden"
+    ],
+    "explanation": "जो व्यक्ति मातृभूमि के प्रति असंवेदनशील है, उसका धरती पर जीना निरर्थक है और वह पृथ्वी पर भार मात्र है।   A person who is insensitive towards the motherland lives a meaningless life and is merely a burden on the earth.",
+    "page_number": "5"
+  },
+  {
+    "id": 24,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "'सब कुछ है अपने हाथों में' का क्या अर्थ है?   What is the meaning of 'Sab kuch hai apne hathon mein'?",
+    "answer": "इसका अर्थ है कि मनुष्य की प्रगति और सफलता उसके स्वयं के साहस, मेहनत और इच्छाशक्ति पर निर्भर करती है। उसके हाथ ही उसका सबसे बड़ा हथियार हैं।   This means that a person's progress and success depend on their own courage, hard work, and willpower. Their hands are their biggest weapon.",
+    "keywords": [
+      "हाथों में   In hands",
+      "प्रगति   Progress",
+      "साहस   Courage"
+    ],
+    "explanation": "कवि यह संदेश देते हैं कि सफलता के लिए बाहरी हथियारों (तोप-तलवार) की नहीं, बल्कि अपने हाथों की मेहनत और हिम्मत की जरूरत होती है।   The poet gives the message that success requires hard work and courage of one's own hands, not external weapons (cannon-sword).",
+    "page_number": "4"
+  },
+  {
+    "id": 25,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "कवि ने देश की तुलना माता-पिता और बंधु से क्यों की है?   Why has the poet compared the country to parents and siblings?",
+    "answer": "कवि ने ऐसा इसलिए किया है क्योंकि जिस प्रकार माता-पिता और बंधु हमारा पालन-पोषण और सुरक्षा करते हैं, उसी प्रकार हमारी मातृभूमि हमें अन्न, जल और आश्रय देती है।   The poet has done so because just as parents and siblings nurture and protect us, our motherland provides us with food, water, and shelter.",
+    "keywords": [
+      "माता-पिता   Parents",
+      "बंधु   Siblings",
+      "पालन-पोषण   Nurturing",
+      "मातृभूमि   Motherland"
+    ],
+    "explanation": "देश का हमारे जीवन में वही महत्व है जो परिवार का होता है। वह हमें जीवन जीने के सभी संसाधन उपलब्ध कराता है।   The country holds the same importance in our lives as our family. It provides us with all the resources to live.",
+    "page_number": "2"
+  },
+  {
+    "id": 26,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "दुनिया किस पर दीवानी है और क्यों?   What is the world crazy about and why?",
+    "answer": "दुनिया भारत देश पर दीवानी है क्योंकि यहाँ ज्ञानियों की कमी नहीं है और इस देश ने पूरे विश्व को ज्ञान और नए रत्नों का खजाना दिया है।   The world is crazy about the country of India because there is no shortage of wise people here and this country has given the whole world a treasure of knowledge and new gems.",
+    "keywords": [
+      "दुनिया   World",
+      "दीवानी   Crazy",
+      "ज्ञान   Knowledge"
+    ],
+    "explanation": "भारत की श्रेष्ठता, इसकी बौद्धिक संपदा और अनुपम सांस्कृतिक विरासत के कारण पूरी दुनिया इसका सम्मान करती है।   The whole world respects India because of its excellence, its intellectual wealth, and its unique cultural heritage.",
+    "page_number": "2"
+  },
+  {
+    "id": 27,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "कवि तोप और तलवार की आवश्यकता को क्यों नकारता है?   Why does the poet reject the need for cannons and swords?",
+    "answer": "कवि का मानना है कि मनुष्य की इच्छाशक्ति और उसका साहस ही सबसे बड़ा अस्त्र है। जब व्यक्ति में साहस हो, तो प्रगति के लिए तोप या तलवार की आवश्यकता नहीं होती।   The poet believes that a person's willpower and courage are the biggest weapons. When a person has courage, there is no need for a cannon or sword for progress.",
+    "keywords": [
+      "तोप   Cannon",
+      "तलवार   Sword",
+      "इच्छाशक्ति   Willpower",
+      "साहस   Courage"
+    ],
+    "explanation": "पाठ में स्पष्ट किया गया है कि जिस प्रकार युद्ध में हथियारों की आवश्यकता होती है, उसी प्रकार जीवन में प्रगति के लिए साहस और दृढ़ इच्छाशक्ति की आवश्यकता होती है।   It is clarified in the text that just as weapons are needed in war, courage and strong willpower are needed for progress in life.",
+    "page_number": "4"
+  },
+  {
+    "id": 28,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "वाक्य के आरंभ में 'है' शब्द का प्रयोग करने से कविता में क्या परिवर्तन आता है?   What change occurs in the poem by using the word 'Hai' at the beginning of a sentence?",
+    "answer": "वाक्य के आरंभ में 'है' शब्द का प्रयोग करने से कविता में लयात्मकता (rhythm) आ जाती है और वह गद्य की बजाय पद्य जैसी संगीतमय लगने लगती है।   Using the word 'Hai' at the beginning of a sentence brings rhythm to the poem and it sounds musical like poetry instead of prose.",
+    "keywords": [
+      "आरंभ   Beginning",
+      "लयात्मकता   Rhythm",
+      "पद्य   Poetry"
+    ],
+    "explanation": "व्याकरण खंड में बताया गया है कि यदि 'है' अंत में आए तो वाक्य गद्य जैसा लगता है, लेकिन इसे पहले रखने से काव्य का सौंदर्य और लय बढ़ जाती है।   The grammar section explains that if 'Hai' comes at the end, the sentence sounds like prose, but placing it first enhances the poetic beauty and rhythm.",
+    "page_number": "8"
+  },
+  {
+    "id": 29,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "'स्वदेश' शब्द से जुड़े कोई चार शब्द लिखिए जो कविता के भाव को दर्शाते हों।   Write any four words related to the word 'Swadesh' that reflect the sentiment of the poem.",
+    "answer": "'स्वदेश' शब्द से जुड़े चार शब्द हो सकते हैं: प्रेम, मिट्टी, नागरिक, और राष्ट्र-भक्ति। (छात्र अन्य उपयुक्त शब्द भी लिख सकते हैं)   Four words related to the word 'Swadesh' can be: Prem (Love), Mitti (Soil), Nagrik (Citizen), and Rashtra-bhakti (Patriotism).",
+    "keywords": [
+      "स्वदेश   Swadesh",
+      "प्रेम   Love",
+      "मिट्टी   Soil",
+      "राष्ट्र-भक्ति   Patriotism"
+    ],
+    "explanation": "भाषा की बात अभ्यास में 'स्वदेश' शब्द से जुड़े शब्द लिखने को कहा गया है, जो कविता के देशभक्ति वाले भाव को स्पष्ट करते हों।   In the 'Language practice' exercise, it is asked to write words related to 'Swadesh' that clarify the patriotic sentiment of the poem.",
+    "page_number": "7"
+  },
+  {
+    "id": 30,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "योजक चिह्न (-) के स्थान पर 'का', 'की', या 'के' लगाकर 'संसार-संग' का विस्तार कीजिए।   Expand 'Sansar-sang' by placing 'ka', 'ki', or 'ke' in place of the hyphen (-).",
+    "answer": "'संसार-संग' शब्द का विस्तार योजक चिह्न हटाकर 'संसार के संग' (संसार के साथ) होगा।   The expansion of the word 'Sansar-sang' by removing the hyphen will be 'Sansar ke sang' (along with the world).",
+    "keywords": [
+      "संसार-संग   Sansar-sang",
+      "विस्तार   Expansion",
+      "संसार के संग   Along with the world"
+    ],
+    "explanation": "पाठ में योजक चिह्न को हटाकर शब्दों का संबंध स्पष्ट करने का अभ्यास दिया गया है। 'संग' के लिए 'के' उपयुक्त कारक चिह्न है।   The chapter has an exercise to clarify the relationship between words by removing the hyphen. 'Ke' is the appropriate case marker for 'sang'.",
+    "page_number": "7"
+  },
+  {
+    "id": 31,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "योजक चिह्न हटाकर 'जाति-उद्धार' शब्द का अर्थ स्पष्ट करते हुए विस्तार करें।   Expand the word 'Jati-uddhar' by removing the hyphen and clarifying its meaning.",
+    "answer": "योजक चिह्न हटाकर 'जाति-उद्धार' का विस्तार 'जाति का उद्धार' होगा। इसका अर्थ है अपने समाज या देश की भलाई और तरक्की करना।   Expanding 'Jati-uddhar' by removing the hyphen will be 'Jati ka uddhar'. It means the welfare and progress of one's society or country.",
+    "keywords": [
+      "जाति-उद्धार   Jati-uddhar",
+      "जाति का उद्धार   Upliftment of community",
+      "भलाई   Welfare"
+    ],
+    "explanation": "योजक चिह्न दो शब्दों के बीच संबंध (यहाँ षष्ठी तत्पुरुष) को दर्शाता है, जिसे 'का' लगाकर स्पष्ट किया जा सकता है।   The hyphen shows the relationship between two words (here possessive/Genitive case), which can be clarified by adding 'ka'.",
+    "page_number": "7"
+  },
+  {
+    "id": 32,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "समानार्थी शब्द ढूँढ़कर लिखिए: 'दुनिया' और 'हृदय'।   Find and write the synonyms: 'Duniya' and 'Hriday'.",
+    "answer": "कविता के अभ्यास के अनुसार 'दुनिया' का समानार्थी शब्द 'जग' या 'संसार' है, और 'हृदय' का समानार्थी शब्द 'दिल' या 'जी' है।   According to the poem's exercise, the synonym for 'Duniya' is 'Jag' or 'Sansar', and for 'Hriday' it is 'Dil' or 'Jee'.",
+    "keywords": [
+      "दुनिया   Duniya",
+      "जग   Jag",
+      "हृदय   Hriday",
+      "दिल   Dil"
+    ],
+    "explanation": "पाठ में दी गई समानार्थी शब्दों की सूची में इन शब्दों के उपयुक्त विकल्प दिए गए हैं।   Appropriate options for these words are given in the list of synonyms in the chapter.",
+    "page_number": "8"
+  },
+  {
+    "id": 33,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "'खादी गीत' के अनुसार खादी के धागों में क्या भरा है?   According to the 'Khadi Geet', what is filled in the threads of Khadi?",
+    "answer": "'खादी गीत' के अनुसार खादी के धागों में अपनेपन का अभिमान और मातृभूमि के प्रति मान (सम्मान) भरा हुआ है।   According to the 'Khadi Geet', the pride of belongingness and respect for the motherland are filled in the threads of Khadi.",
+    "keywords": [
+      "धागों   Threads",
+      "अपनेपन का अभिमान   Pride of belongingness",
+      "मान   Respect"
+    ],
+    "explanation": "कविता 'खादी गीत' की प्रारंभिक पंक्तियों में स्पष्ट रूप से बताया गया है कि 'खादी के धागे-धागे में अपनेपन का अभिमान भरा'।   The initial lines of the poem 'Khadi Geet' clearly state that 'every thread of Khadi is filled with the pride of belongingness'.",
+    "page_number": "12"
+  },
+  {
+    "id": 34,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "'नव रत्न दिये हैं लासानी' पंक्ति में 'नव रत्न' किसे कहा गया है?   In the line 'Nav ratna diye hain lasani', what is referred to as 'Nav ratna'?",
+    "answer": "इस पंक्ति में 'नव रत्न' भारत के अमूल्य ज्ञान, संस्कृति, विद्वानों और अद्वितीय संपदा को कहा गया है जिसका दुनिया में कोई मुकाबला नहीं है।   In this line, 'Nav ratna' refers to India's invaluable knowledge, culture, scholars, and unique wealth, which has no match in the world.",
+    "keywords": [
+      "नव रत्न   Nine gems",
+      "लासानी   Incomparable",
+      "ज्ञान   Knowledge"
+    ],
+    "explanation": "भारत की महानता और उसके द्वारा विश्व को दिए गए अनुपम योगदान को 'नव रत्न' के रूप में प्रतीकात्मक रूप से दर्शाया गया है।   India's greatness and its unique contribution to the world have been symbolically depicted as 'nine gems'.",
+    "page_number": "2"
+  },
+  {
+    "id": 35,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "'सनेही' जी ने किन-किन विषयों पर प्रभावकारी कविताएँ लिखी हैं?   On which topics has 'Sanehi' ji written impactful poems?",
+    "answer": "सनेही जी ने राष्ट्र-प्रेम, किसान, मजदूर, और सामाजिक कुरीतियों जैसे विषयों पर अत्यंत प्रभावकारी कविताएँ लिखी हैं।   Sanehi ji has written highly impactful poems on topics like patriotism, farmers, laborers, and social evils.",
+    "keywords": [
+      "राष्ट्र-प्रेम   Patriotism",
+      "किसान   Farmer",
+      "मजदूर   Laborer",
+      "सामाजिक कुरीतियों   Social evils"
+    ],
+    "explanation": "कवि परिचय में बताया गया है कि उन्होंने ब्रजभाषा और खड़ी बोली में इन ज्वलंत विषयों पर साहित्य सृजन किया।   In the poet's introduction, it is mentioned that he created literature on these burning topics in Braj Bhasha and Khadi Boli.",
+    "page_number": "3"
+  },
+  {
+    "id": 36,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "'वह हृदय नहीं है पत्थर है' में 'पत्थर' शब्द का प्रयोग किस विशेषता को बताने के लिए किया गया है?   In 'Vah hriday nahi hai patthar hai', the word 'patthar' is used to show which characteristic?",
+    "answer": "यहाँ 'पत्थर' शब्द का प्रयोग संवेदनहीनता, कठोरता और भावनाओं की शून्यता को दर्शाने के लिए किया गया है।   Here the word 'stone' is used to show insensitivity, hardness, and a lack of emotions.",
+    "keywords": [
+      "पत्थर   Stone",
+      "संवेदनहीनता   Insensitivity",
+      "भावनाओं की शून्यता   Lack of emotions"
+    ],
+    "explanation": "जिस व्यक्ति के हृदय में अपने देश के प्रति प्रेम और करुणा नहीं है, उसका हृदय पत्थर के समान कठोर और मृतप्राय माना गया है।   A person in whose heart there is no love and compassion for his country, his heart is considered hard and dead like a stone.",
+    "page_number": "3"
+  },
+  {
+    "id": 37,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "कविताओं में तुक (Rhyme) मिलाने से क्या लाभ होता है?   What is the benefit of using rhymes (Tuk) in poems?",
+    "answer": "कविताओं में तुक मिलाने से उसमें संगीतात्मकता, लय और सौंदर्य बढ़ जाता है, जिससे कविता को पढ़ने और याद करने में आसानी होती है।   Using rhymes in poems increases its musicality, rhythm, and beauty, making the poem easier to read and remember.",
+    "keywords": [
+      "तुक   Rhyme",
+      "संगीतात्मकता   Musicality",
+      "सौंदर्य   Beauty"
+    ],
+    "explanation": "पाठ में बताया गया है कि अंतिम ध्वनि समान होने (तुक मिलने) से कविता का प्रभाव और आकर्षण बढ़ जाता है।   The text explains that having the same ending sound (rhyming) increases the impact and attraction of the poem.",
+    "page_number": "6"
+  },
+  {
+    "id": 38,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "योजक चिह्न हटाकर 'दाना-पानी' शब्द का विस्तार करें।   Expand the word 'Dana-pani' by removing the hyphen.",
+    "answer": "योजक चिह्न हटाकर 'दाना-पानी' का विस्तार 'दाना और पानी' होगा। इसका अर्थ है जीवन जीने के लिए आवश्यक भोजन और जल।   Expanding 'Dana-pani' by removing the hyphen will be 'Dana aur pani'. It means the essential food and water needed to live.",
+    "keywords": [
+      "दाना-पानी   Dana-pani",
+      "दाना और पानी   Food and water",
+      "भोजन   Food"
+    ],
+    "explanation": "यहाँ 'दाना-पानी' द्वंद्व समास का उदाहरण है जहाँ योजक चिह्न के स्थान पर 'और' शब्द का प्रयोग उचित होता है।   Here 'Dana-pani' is an example of a copulative compound (Dvandva Samas) where using the word 'and' in place of the hyphen is appropriate.",
+    "page_number": "7"
+  },
+  {
+    "id": 39,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "'खादी की रजत चंद्रिका' का क्या आशय है?   What is the meaning of 'Khadi ki rajat chandrika'?",
+    "answer": "इसका आशय खादी के श्वेत और उजले स्वरूप से है जो चाँदी की चाँदनी (रजत चंद्रिका) के समान पवित्र और चमकता हुआ प्रतीत होता है।   This refers to the white and bright appearance of Khadi, which seems as pure and shining as silver moonlight (rajat chandrika).",
+    "keywords": [
+      "रजत चंद्रिका   Silver moonlight",
+      "श्वेत   White",
+      "पवित्र   Pure"
+    ],
+    "explanation": "खादी के सफेद कपड़ों की तुलना यहाँ सुंदर और निर्मल चाँदनी से की गई है, जो शरीर पर आते ही नया जीवन दे देती है।   The white clothes of Khadi are compared here to beautiful and pure moonlight, which gives new life as soon as it comes on the body.",
+    "page_number": "12"
+  },
+  {
+    "id": 40,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "'सनेही' जी किस युग या भाषा के प्रमुख कवि माने जाते हैं?   'Sanehi' ji is considered a major poet of which era or language?",
+    "answer": "सनेही जी मुख्य रूप से ब्रजभाषा और खड़ी बोली हिंदी के श्रेष्ठ कवियों में अपना महत्वपूर्ण स्थान रखते हैं।   Sanehi ji primarily holds an important place among the top poets of Braj Bhasha and Khadi Boli Hindi.",
+    "keywords": [
+      "ब्रजभाषा   Braj Bhasha",
+      "खड़ी बोली   Khadi Boli",
+      "श्रेष्ठ कवि   Top poet"
+    ],
+    "explanation": "कवि परिचय में बताया गया है कि उन्होंने ब्रजभाषा में कविता लिखना प्रारंभ किया और फिर खड़ी बोली के श्रेष्ठ कवियों में अपना स्थान बनाया।   The poet introduction mentions that he started writing poetry in Braj Bhasha and then made his place among the top poets of Khadi Boli.",
+    "page_number": "3"
+  },
+  {
+    "id": 41,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "'वह हृदय नहीं है पत्थर है' में कवि ने हृदय को पत्थर क्यों कहा है?   Why has the poet called the heart a stone in 'Vah hriday nahi hai patthar hai'?",
+    "answer": "कवि ने ऐसे हृदय को पत्थर कहा है जिसमें अपने देश के प्रति प्रेम, करुणा और उत्साह की भावना नहीं है। जिस प्रकार पत्थर कठोर और संवेदनहीन होता है, उसमें कोई स्पंदन नहीं होता, उसी प्रकार देशभक्ति से रहित व्यक्ति का हृदय निर्जीव और भावनाओं से शून्य होता है।   The poet has called such a heart a stone which lacks love, compassion, and enthusiasm for its country. Just as a stone is hard and insensitive, having no pulsation, similarly the heart of a person devoid of patriotism is lifeless and empty of emotions.",
+    "keywords": [
+      "हृदय   Heart",
+      "पत्थर   Stone",
+      "संवेदनहीन   Insensitive",
+      "भावनाओं से शून्य   Empty of emotions"
+    ],
+    "explanation": "कविता का मुख्य स्वर यह है कि देशप्रेम ही मनुष्य को सजीव और भावपूर्ण बनाता है। इसके बिना वह जड़ वस्तु (पत्थर) के समान है।   The main tone of the poem is that patriotism makes a human lively and emotional. Without it, he is like an inanimate object (stone).",
+    "page_number": "1"
+  },
+  {
+    "id": 42,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "गयाप्रसाद शुक्ल 'सनेही' के जीवन और उनकी साहित्य साधना पर संक्षेप में प्रकाश डालिए।   Throw light briefly on the life and literary practice of Gaya Prasad Shukla 'Sanehi'.",
+    "answer": "गयाप्रसाद शुक्ल 'सनेही' का जन्म 1883 में उत्तर प्रदेश के उन्नाव में हुआ था। उन्होंने ब्रजभाषा और खड़ी बोली में अपनी श्रेष्ठ रचनाएँ दीं। सरकारी नौकरी के कारण उन्होंने 'त्रिशूल' उपनाम अपनाया। उन्होंने राष्ट्र-प्रेम, किसान, मजदूर और सामाजिक कुरीतियों पर अनेक प्रभावशाली कविताएँ रचीं।   Gaya Prasad Shukla 'Sanehi' was born in 1883 in Unnao, Uttar Pradesh. He delivered his excellent works in Braj Bhasha and Khadi Boli. Due to a government job, he adopted the pen name 'Trishul'. He composed many impactful poems on patriotism, farmers, laborers, and social evils.",
+    "keywords": [
+      "उन्नाव   Unnao",
+      "त्रिशूल   Trishul",
+      "ब्रजभाषा   Braj Bhasha",
+      "राष्ट्र-प्रेम   Patriotism"
+    ],
+    "explanation": "यह जानकारी पृष्ठ 3 पर दिए गए 'कवि से परिचय' से ली गई है जो उनके जीवन और योगदान का सार प्रस्तुत करती है।   This information is taken from the 'Introduction to the Poet' on page 3, which presents the essence of his life and contribution.",
+    "page_number": "3"
+  },
+  {
+    "id": 43,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "'संसार-संग' चलने का क्या अर्थ है और ऐसा न करने वाले का क्या परिणाम होता है?   What is the meaning of walking 'Sansar-sang' and what is the consequence of not doing so?",
+    "answer": "'संसार-संग' चलने का अर्थ है समय और समाज के साथ प्रगति के पथ पर आगे बढ़ना। जो व्यक्ति या राष्ट्र दुनिया के बदलते समय और प्रगति के साथ कदम से कदम मिलाकर नहीं चलता, वह पिछड़ जाता है और संसार में उसका कोई अस्तित्व या पहचान नहीं रह जाती।   Walking 'Sansar-sang' means moving forward on the path of progress with time and society. The person or nation that does not walk step by step with the changing times and progress of the world falls behind, and their existence or identity is lost in the world.",
+    "keywords": [
+      "संसार-संग   With the world",
+      "प्रगति   Progress",
+      "अस्तित्व   Existence",
+      "पिछड़ जाना   Falling behind"
+    ],
+    "explanation": "कवि यह समझाना चाहते हैं कि विकास और समय की धारा के साथ चलना आवश्यक है, अन्यथा मनुष्य एकाकी होकर नष्ट हो जाता है।   The poet wants to explain that it is necessary to walk with the flow of development and time, otherwise, a person becomes isolated and perishes.",
+    "page_number": "1"
+  },
+  {
+    "id": 44,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "साहस छोड़ देने वाले व्यक्ति की स्थिति कैसी होती है?   What is the condition of a person who gives up courage?",
+    "answer": "कविता के अनुसार, जो व्यक्ति जीवन के संघर्षों में अपना साहस और हिम्मत छोड़ देता है, वह कभी भी अपने लक्ष्य तक नहीं पहुँच सकता। वह जीवन रूपी नदी को पार नहीं कर सकता और असफल हो जाता है। साहस ही सफलता की कुंजी है।   According to the poem, a person who gives up his courage and bravery in life's struggles can never reach his goal. He cannot cross the river of life and becomes unsuccessful. Courage is the key to success.",
+    "keywords": [
+      "साहस   Courage",
+      "लक्ष्य   Goal",
+      "असफल   Unsuccessful",
+      "पार   Cross over"
+    ],
+    "explanation": "पंक्ति 'जिसने साहस को छोड़ दिया, वह पहुँच सकेगा पार नहीं' से स्पष्ट है कि साहसहीन व्यक्ति कभी सफलता प्राप्त नहीं कर सकता।   It is clear from the line 'He who gave up courage, will not be able to cross over' that a cowardly person can never achieve success.",
+    "page_number": "1"
+  },
+  {
+    "id": 45,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "कवि के अनुसार हमारे देश ने हमारा पालन-पोषण किस प्रकार किया है?   According to the poet, how has our country nurtured us?",
+    "answer": "कवि बताते हैं कि हम इसी देश की मिट्टी में जन्म लेकर पले-बढ़े हैं। इस देश ने ही हमें खाने के लिए अन्न और पीने के लिए पानी (दाना-पानी) दिया है। यह देश हमारे लिए माता, पिता और बंधु के समान है जो हमारी हर जरूरत पूरी करता है।   The poet says that we were born and raised in the soil of this country. This country alone has given us food to eat and water to drink (dana-pani). This country is like a mother, father, and brother to us, fulfilling all our needs.",
+    "keywords": [
+      "मिट्टी   Soil",
+      "पले-बढ़े   Raised",
+      "दाना-पानी   Food and water",
+      "पालन-पोषण   Nurturing"
+    ],
+    "explanation": "चौथे पद्यांश में मातृभूमि के उपकारों का वर्णन करते हुए उसे परिवार के सदस्यों की तरह पालक और रक्षक बताया गया है।   In the fourth stanza, describing the favors of the motherland, it is depicted as a nurturer and protector like family members.",
+    "page_number": "2"
+  },
+  {
+    "id": 46,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "भारत को खजाने खोलने वाला और नवरत्न देने वाला क्यों माना गया है?   Why is India considered the one that opened treasures and gave nine gems?",
+    "answer": "भारत को खजाने खोलने वाला इसलिए कहा गया है क्योंकि यहाँ अतुलनीय प्राकृतिक संपदा, ज्ञान, योग, आध्यात्म और संस्कृति का खजाना है। यहाँ ऐसे महान विद्वानों, शूरवीरों और विचारकों ने जन्म लिया है जिन्हें 'नवरत्न' कहा गया है, जिनकी दीवानी पूरी दुनिया है।   India is said to be the one that opened treasures because it has an incomparable treasure of natural wealth, knowledge, yoga, spirituality, and culture. Such great scholars, warriors, and thinkers have been born here who are called 'nine gems', about whom the whole world is crazy.",
+    "keywords": [
+      "प्राकृतिक संपदा   Natural wealth",
+      "आध्यात्म   Spirituality",
+      "नवरत्न   Nine gems",
+      "विद्वानों   Scholars"
+    ],
+    "explanation": "कवि भारत की विश्व-गुरु वाली छवि को प्रस्तुत कर रहे हैं, जहाँ भौतिक खजानों के साथ-साथ ज्ञान और चरित्र के अनमोल रत्न मौजूद हैं।   The poet is presenting India's image as a world teacher, where along with material treasures, precious gems of knowledge and character are present.",
+    "page_number": "2"
+  },
+  {
+    "id": 47,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "'उस पर है नहीं पसीजा जो' पंक्ति के माध्यम से कवि किस प्रकार के व्यक्ति की निंदा कर रहा है?   Through the line 'Us par hai nahi pasija jo', what kind of person is the poet condemning?",
+    "answer": "इस पंक्ति के माध्यम से कवि उस व्यक्ति की निंदा कर रहा है जिसका मन अपने देश की कठिनाइयों, संघर्षों या दुर्दशा को देखकर द्रवित नहीं होता (पसीजता नहीं)। ऐसे संवेदनहीन और स्वार्थी व्यक्ति को कवि ने धरती पर बोझ (भू का भार) माना है।   Through this line, the poet is condemning the person whose heart does not melt (does not feel pity) upon seeing the difficulties, struggles, or misery of his country. The poet considers such an insensitive and selfish person a burden on the earth (bhu ka bhar).",
+    "keywords": [
+      "पसीजा   Melted/Felt pity",
+      "दुर्दशा   Misery",
+      "संवेदनहीन   Insensitive",
+      "धरती पर बोझ   Burden on earth"
+    ],
+    "explanation": "देशभक्ति का मूल तत्व देश के प्रति करुणा और चिंता है। जो इससे खाली है, कवि उसे मनुष्य कहलाने योग्य नहीं मानता।   The core element of patriotism is compassion and concern for the country. The poet does not consider one who is devoid of this worthy of being called human.",
+    "page_number": "2"
+  },
+  {
+    "id": 48,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "कवि ने 'काल-दीप' और 'परवानों' के रूपक से क्या संदेश दिया है?   What message has the poet given through the metaphor of 'Kaal-deep' and 'Parvanos'?",
+    "answer": "कवि ने 'काल-दीप' को समय की मांग या देश की वेदी माना है और 'परवाने' देशभक्तों को कहा है। इसका संदेश है कि देश की रक्षा और सम्मान के लिए देशभक्तों को सदैव अपना सर्वस्व बलिदान (जल जाना) करने के लिए तत्पर रहना चाहिए।   The poet has considered 'Kaal-deep' as the call of time or the altar of the country, and 'Parvane' refers to the patriots. Its message is that patriots should always be ready to sacrifice everything (to burn) for the protection and honor of the country.",
+    "keywords": [
+      "काल-दीप   Lamp of time",
+      "परवाने   Patriots (moths)",
+      "बलिदान   Sacrifice",
+      "तत्पर   Ready"
+    ],
+    "explanation": "जिस तरह पतंगा बिना डरे दीपक की लौ पर अपना जीवन वार देता है, उसी तरह सच्चे देशभक्त मातृभूमि के लिए प्राण न्योछावर कर देते हैं।   Just as a moth sacrifices its life on the flame of a lamp without fear, similarly true patriots lay down their lives for the motherland.",
+    "page_number": "2"
+  },
+  {
+    "id": 49,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "पाठ के अनुसार देश-प्रेम केवल नारे लगाने तक सीमित नहीं है, तो फिर सच्चा देश-प्रेम क्या है?   According to the chapter, patriotism is not just limited to shouting slogans, then what is true patriotism?",
+    "answer": "सच्चा देश-प्रेम केवल नारे लगाना नहीं है, बल्कि देश के प्रति अपनी जिम्मेदारियों को निभाना है। यह अपने समाज की प्रगति में योगदान देने, प्राकृतिक संसाधनों का संरक्षण करने, और संकट के समय देश के लिए हर संभव त्याग करने की भावना है।   True patriotism is not just shouting slogans, but fulfilling one's responsibilities towards the country. It is the sentiment of contributing to the progress of society, conserving natural resources, and making every possible sacrifice for the country in times of crisis.",
+    "keywords": [
+      "जिम्मेदारियों   Responsibilities",
+      "प्रगति   Progress",
+      "संसाधनों का संरक्षण   Conservation of resources",
+      "त्याग   Sacrifice"
+    ],
+    "explanation": "सोच-विचार के लिए भाग में चर्चा की गई है कि देशभक्ति एक सक्रिय भावना है जो रचनात्मक कार्यों और देश के प्रति समर्पण में दिखाई देती है।   In the 'Think and Discuss' section, it is discussed that patriotism is an active sentiment reflected in constructive work and dedication to the country.",
+    "page_number": "5"
+  },
+  {
+    "id": 50,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "देश के प्राकृतिक संसाधनों का संरक्षण करना देशभक्ति कैसे है?   How is the conservation of the country's natural resources an act of patriotism?",
+    "answer": "देश के प्राकृतिक संसाधन (जल, जंगल, खनिज) हमारी राष्ट्रीय संपत्ति हैं जो देश के विकास और भविष्य के लिए आवश्यक हैं। जब हम इन संसाधनों का संरक्षण करते हैं, तो हम वास्तव में देश की सुरक्षा और तरक्की सुनिश्चित करते हैं, जो देशभक्ति का ही एक रूप है।   The country's natural resources (water, forests, minerals) are our national wealth, necessary for the country's development and future. When we conserve these resources, we are actually ensuring the security and progress of the country, which is a form of patriotism.",
+    "keywords": [
+      "प्राकृतिक संसाधन   Natural resources",
+      "राष्ट्रीय संपत्ति   National wealth",
+      "संरक्षण   Conservation",
+      "देशभक्ति   Patriotism"
+    ],
+    "explanation": "अनुमान और कल्पना खंड में स्पष्ट किया गया है कि देश-प्रेम केवल युद्ध में लड़ना नहीं है, बल्कि देश की धरोहर और संसाधनों को बचाना भी है।   In the 'Guess and Imagine' section, it is clarified that patriotism is not just fighting in a war, but also saving the heritage and resources of the country.",
+    "page_number": "6"
+  },
+  {
+    "id": 51,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "कविता के आधार पर बताइए कि एक अर्थहीन (व्यर्थ) जीवन के क्या लक्षण हैं?   Based on the poem, tell what are the signs of a meaningless (useless) life?",
+    "answer": "कविता के अनुसार, जो जीवन अपने अंदर और दूसरों में उत्साह नहीं जगा सकता, जो अपनी जाति का उद्धार नहीं करता, जो समय के साथ नहीं चलता, और जिसके हृदय में देशप्रेम की भावनाओं की रस-धार नहीं बहती, वह जीवन पूरी तरह अर्थहीन और व्यर्थ है।   According to the poem, a life that cannot awaken enthusiasm in itself and others, that does not uplift its community, that does not walk with time, and in whose heart the stream of patriotic emotions does not flow, that life is completely meaningless and useless.",
+    "keywords": [
+      "अर्थहीन   Meaningless",
+      "उत्साह   Enthusiasm",
+      "जाति का उद्धार   Upliftment of community",
+      "रस-धार   Stream of emotions"
+    ],
+    "explanation": "कवि ने पहले तीन पद्यांशों में उन नकारात्मक लक्षणों को गिनाया है जो एक देशभक्ति-विहीन और निष्क्रिय व्यक्ति के जीवन को निरर्थक बनाते हैं।   In the first three stanzas, the poet has listed those negative traits that make the life of a patriotism-less and inactive person meaningless.",
+    "page_number": "1"
+  },
+  {
+    "id": 52,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "एक विद्यार्थी के लिए राष्ट्र रक्षा हेतु उसका 'अस्त्र-शस्त्र' क्या हो सकता है?   For a student, what can be their 'weapon' for national defense?",
+    "answer": "एक विद्यार्थी के लिए उसका अस्त्र-शस्त्र उसकी शिक्षा, उसका ज्ञान, अच्छी सोच और उसका चरित्र है। वह अपनी पढ़ाई और अच्छे आचरण से देश का भविष्य संवार सकता है और अज्ञानता रूपी अंधकार से लड़कर देश को प्रगति के मार्ग पर ले जा सकता है।   For a student, their weapon is their education, knowledge, good thinking, and character. They can shape the country's future with their studies and good conduct, and lead the country on the path of progress by fighting the darkness of ignorance.",
+    "keywords": [
+      "विद्यार्थी   Student",
+      "शिक्षा   Education",
+      "ज्ञान   Knowledge",
+      "चरित्र   Character"
+    ],
+    "explanation": "हमारे अस्त्र-शस्त्र अभ्यास में बताया गया है कि हर नागरिक का कार्यक्षेत्र ही उसका हथियार है, विद्यार्थी के लिए यह विद्यार्जन है।   In the 'Our Weapons' exercise, it is explained that every citizen's field of work is their weapon; for a student, it is acquiring education.",
+    "page_number": "11"
+  },
+  {
+    "id": 53,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "एक किसान के लिए देशभक्ति और राष्ट्र रक्षा का 'अस्त्र' क्या है?   What is the 'weapon' of patriotism and national defense for a farmer?",
+    "answer": "एक किसान के लिए उसका अस्त्र उसका हल, उसकी मेहनत और उसके खेत हैं। वह कड़ी धूप और बारिश में अन्न उगाकर पूरे देश का पेट भरता है। देश को खाद्य सुरक्षा प्रदान करना ही एक किसान की सच्ची देशभक्ति और उसका सबसे बड़ा हथियार है।   For a farmer, their weapon is their plough, their hard work, and their fields. They feed the whole country by growing crops in harsh sun and rain. Providing food security to the country is a farmer's true patriotism and their biggest weapon.",
+    "keywords": [
+      "किसान   Farmer",
+      "हल   Plough",
+      "अन्न   Crops/Grain",
+      "खाद्य सुरक्षा   Food security"
+    ],
+    "explanation": "सैनिक सीमाओं की रक्षा करते हैं और किसान देशवासियों का पोषण करते हैं, इसलिए किसानी के उपकरण ही उनके अस्त्र हैं।   Soldiers protect the borders and farmers nourish the countrymen, hence farming tools are their weapons.",
+    "page_number": "11"
+  },
+  {
+    "id": 54,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "शिक्षक और वैज्ञानिक के 'अस्त्र-शस्त्र' राष्ट्र निर्माण में कैसे योगदान देते हैं?   How do the 'weapons' of a teacher and a scientist contribute to nation-building?",
+    "answer": "शिक्षक का अस्त्र उसका ज्ञान और उसकी कलम है, जिससे वह आदर्श नागरिक तैयार करता है। वहीं वैज्ञानिक का अस्त्र उसका शोध और अनुसंधान है, जिससे वह नई तकनीकें खोजकर देश को शक्तिशाली और आधुनिक बनाता है। दोनों ही देश को विश्व पटल पर आगे बढ़ाते हैं।   A teacher's weapon is their knowledge and pen, with which they prepare ideal citizens. Meanwhile, a scientist's weapon is their research and innovation, with which they discover new technologies to make the country powerful and modern. Both propel the country forward on the global stage.",
+    "keywords": [
+      "शिक्षक   Teacher",
+      "कलम   Pen",
+      "वैज्ञानिक   Scientist",
+      "शोध   Research"
+    ],
+    "explanation": "शिक्षा और विज्ञान किसी भी देश की प्रगति के मूल स्तंभ हैं, इसलिए इन पेशों से जुड़े लोगों के कार्य ही उनके अस्त्र हैं।   Education and science are the foundational pillars of any country's progress, hence the work of people associated with these professions are their weapons.",
+    "page_number": "11"
+  },
+  {
+    "id": 55,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "'खादी गीत' के आधार पर बताइए कि खादी पहनने से कौन से सामाजिक मूल्य मजबूत होते हैं?   Based on 'Khadi Geet', state which social values are strengthened by wearing Khadi?",
+    "answer": "खादी पहनने से स्वाभिमान (अपनेपन का अभिमान), समानता और सम्मान की भावना मजबूत होती है। यह माता-पिता का सम्मान बढ़ाता है, भाई-चारे का प्यार फैलाता है, महिलाओं (माँ-बहनों) का सत्कार करता है और बच्चों को वात्सल्य (दुलार) प्रदान करता है।   Wearing Khadi strengthens the feelings of self-respect (pride of belongingness), equality, and honor. It increases respect for parents, spreads the love of brotherhood, honors women (mothers and sisters), and provides affection to children.",
+    "keywords": [
+      "स्वाभिमान   Self-respect",
+      "सम्मान   Honor",
+      "भाई-चारे   Brotherhood",
+      "सत्कार   Hospitality/Honor"
+    ],
+    "explanation": "कविता में खादी को केवल एक वस्त्र नहीं, बल्कि सामाजिक एकता और पारस्परिक सम्मान का प्रतीक बताया गया है।   In the poem, Khadi is described not just as a fabric, but as a symbol of social unity and mutual respect.",
+    "page_number": "12"
+  },
+  {
+    "id": 56,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "खादी को 'नवजीवन की नई ज्योति' क्यों कहा गया है?   Why has Khadi been called the 'new light of new life'?",
+    "answer": "स्वतंत्रता आंदोलन के समय खादी आत्मनिर्भरता और विदेशी वस्तुओं के बहिष्कार का प्रतीक बन गई थी। इसे पहनकर भारतीयों के हृदय में स्वाधीनता, स्वाभिमान और नई ऊर्जा का संचार होता था। इसलिए इसे अंतस्तल में जगने वाली नवजीवन की नई ज्योति कहा गया है।   During the freedom movement, Khadi became a symbol of self-reliance and the boycott of foreign goods. Wearing it infused independence, self-respect, and new energy into the hearts of Indians. Therefore, it is called the new light of new life awakening in the inner soul.",
+    "keywords": [
+      "नवजीवन   New life",
+      "ज्योति   Light",
+      "आत्मनिर्भरता   Self-reliance",
+      "स्वतंत्रता आंदोलन   Freedom movement"
+    ],
+    "explanation": "सोहनलाल द्विवेदी की यह कविता बताती है कि खादी ने निराश भारतीय जनमानस में नई उम्मीद और आजादी की ज्वाला प्रज्वलित की।   This poem by Sohanlal Dwivedi explains that Khadi ignited a new hope and the flame of freedom in the despondent Indian psyche.",
+    "page_number": "12"
+  },
+  {
+    "id": 57,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "चिकित्सक और श्रमिक के 'अस्त्र-शस्त्र' क्या हैं जो राष्ट्र की सेवा करते हैं?   What are the 'weapons' of a doctor and a laborer that serve the nation?",
+    "answer": "चिकित्सक का अस्त्र उसकी सेवा-भावना, दवाइयाँ और चिकित्सा उपकरण हैं, जिनसे वह लोगों का जीवन बचाता है और समाज को स्वस्थ रखता है। श्रमिक का अस्त्र उसका पसीना और मेहनत है, जिससे वह देश के बुनियादी ढाँचे (सड़कें, इमारतें) का निर्माण कर देश को मजबूत बनाता है।   A doctor's weapon is their spirit of service, medicines, and medical equipment, with which they save people's lives and keep society healthy. A laborer's weapon is their sweat and hard work, with which they build the country's infrastructure (roads, buildings) and make the country strong.",
+    "keywords": [
+      "चिकित्सक   Doctor",
+      "सेवा-भावना   Spirit of service",
+      "श्रमिक   Laborer",
+      "बुनियादी ढाँचे   Infrastructure"
+    ],
+    "explanation": "एक स्वस्थ और विकसित राष्ट्र के लिए डॉक्टर और मजदूर दोनों का योगदान उनके अपने-अपने साधनों (अस्त्रों) के माध्यम से अमूल्य है।   For a healthy and developed nation, the contribution of both a doctor and a worker is invaluable through their respective means (weapons).",
+    "page_number": "11"
+  },
+  {
+    "id": 58,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "तिरंगा झंडा कब प्रसन्न होता है? दो उदाहरण दीजिए।   When is the Tricolor flag happy? Give two examples.",
+    "answer": "तिरंगा झंडा तब प्रसन्न होता है जब देशवासी एकजुट होकर देश की भलाई के लिए कार्य करते हैं। उदाहरण के लिए: 1. जब हम अपने आस-पास सफाई रखते हैं और पर्यावरण बचाते हैं। 2. जब कोई खिलाड़ी या वैज्ञानिक अंतरराष्ट्रीय स्तर पर देश का नाम रोशन करता है।   The Tricolor flag is happy when countrymen unite and work for the welfare of the country. For example: 1. When we keep our surroundings clean and save the environment. 2. When a sportsperson or scientist brings glory to the country internationally.",
+    "keywords": [
+      "तिरंगा झंडा   Tricolor flag",
+      "प्रसन्न   Happy",
+      "एकजुट   United",
+      "पर्यावरण   Environment"
+    ],
+    "explanation": "राष्ट्रीय ध्वज हमारी आन-बान-शान का प्रतीक है, नागरिकों के सकारात्मक और राष्ट्र-निर्माण के कार्यों से इसका सम्मान बढ़ता है।   The national flag is a symbol of our pride and glory; its honor increases with the positive and nation-building acts of citizens.",
+    "page_number": "11"
+  },
+  {
+    "id": 59,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "तिरंगा झंडा किन कार्यों से उदास हो सकता है?   By what actions might the Tricolor flag become sad?",
+    "answer": "तिरंगा झंडा तब उदास होता है जब नागरिक देश का अहित करते हैं। जैसे: 1. जब लोग सार्वजनिक संपत्ति (ट्रेन, बस) को नुकसान पहुँचाते हैं। 2. जब समाज में भेदभाव, भ्रष्टाचार या प्रदूषण फैलाया जाता है, जिससे देश की छवि खराब होती है।   The Tricolor flag becomes sad when citizens harm the country. Such as: 1. When people damage public property (trains, buses). 2. When discrimination, corruption, or pollution is spread in society, which tarnishes the country's image.",
+    "keywords": [
+      "उदास   Sad",
+      "सार्वजनिक संपत्ति   Public property",
+      "नुकसान   Damage",
+      "भ्रष्टाचार   Corruption"
+    ],
+    "explanation": "वे सभी कार्य जो राष्ट्र की प्रगति में बाधा डालते हैं या अशांति फैलाते हैं, वे हमारे राष्ट्रीय प्रतीकों का अपमान करते हैं।   All those actions that hinder the nation's progress or spread unrest insult our national symbols.",
+    "page_number": "11"
+  },
+  {
+    "id": 60,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "'स्वदेश' कविता की भाषा और शैली (तुक और चिह्न) के बारे में आप क्या कहेंगे?   What would you say about the language and style (rhymes and punctuation) of the poem 'Swadesh'?",
+    "answer": "'स्वदेश' कविता की भाषा सरल, ओजस्वी और खड़ी बोली हिंदी है। कवि ने कविता में तुकांत शब्दों (जैसे- नहीं/नहीं, पानी/रानी, हरदम/हाथों में) का प्रयोग कर लयात्मकता उत्पन्न की है। इसके अतिरिक्त, योजक चिह्नों (-) के सटीक प्रयोग से शब्दों के अर्थ और संबंध को अत्यंत प्रभावशाली बनाया है।   The language of the poem 'Swadesh' is simple, energetic, and Khadi Boli Hindi. The poet has created rhythm by using rhyming words (like nahi/nahi, pani/rani). Additionally, the precise use of hyphens (-) has made the meanings and relationships of words highly impactful.",
+    "keywords": [
+      "भाषा   Language",
+      "ओजस्वी   Energetic",
+      "तुकांत शब्द   Rhyming words",
+      "योजक चिह्न   Hyphen"
+    ],
+    "explanation": "भाषा की बात और कविता की रचना खंडों में यह बताया गया है कि भाषा की संरचना, तुक और विराम चिह्न कविता को कैसे प्रभावशाली बनाते हैं।   In the 'Language features' and 'Poetry composition' sections, it is explained how language structure, rhyming, and punctuation make a poem effective.",
+    "page_number": "7"
+  },
+  {
+    "id": 61,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "पत्रकार का 'अस्त्र' क्या है और वह राष्ट्र की सेवा कैसे करता है?   What is a journalist's 'weapon' and how does it serve the nation?",
+    "answer": "एक पत्रकार का अस्त्र उसकी लेखनी (कलम), उसकी निडरता और उसकी सच्चाई है। वह समाज की समस्याओं, भ्रष्टाचार और देश-विदेश की खबरों को जनता के सामने लाता है। सही जानकारी देकर वह नागरिकों को जागरूक करता है, जो राष्ट्र निर्माण में एक बड़ी भूमिका है।   A journalist's weapon is their pen, their fearlessness, and their truthfulness. They bring society's problems, corruption, and national-international news to the public. By providing correct information, they make citizens aware, which is a major role in nation-building.",
+    "keywords": [
+      "पत्रकार   Journalist",
+      "लेखनी   Pen",
+      "सच्चाई   Truthfulness",
+      "जागरूक   Aware"
+    ],
+    "explanation": "पत्रकारिता को लोकतंत्र का चौथा स्तंभ माना जाता है, अतः सच बोलना और लिखना ही उनका सबसे मजबूत हथियार है।   Journalism is considered the fourth pillar of democracy, hence speaking and writing the truth is their strongest weapon.",
+    "page_number": "11"
+  },
+  {
+    "id": 62,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "सार्वजनिक स्थानों (जैसे रेलवे स्टेशन, बैंक) पर अच्छा व्यवहार करना स्वदेश प्रेम कैसे है?   How is good behavior in public places (like railway stations, banks) a sign of patriotism?",
+    "answer": "सार्वजनिक स्थानों पर नियम का पालन करना, कतार में लगना, और संपत्ति को नुकसान न पहुँचाना यह दर्शाता है कि हम अपने साथी नागरिकों का सम्मान करते हैं। यह अनुशासन देश को स्वच्छ, सुरक्षित और सुव्यवस्थित बनाता है, जो सच्चे स्वदेश प्रेम की निशानी है।   Following rules, standing in a queue, and not damaging property in public places show that we respect our fellow citizens. This discipline makes the country clean, safe, and organized, which is a sign of true patriotism.",
+    "keywords": [
+      "सार्वजनिक स्थानों   Public places",
+      "अनुशासन   Discipline",
+      "सुव्यवस्थित   Organized",
+      "स्वदेश प्रेम   Patriotism"
+    ],
+    "explanation": "पृष्ठ 9 और 10 के चित्रों में दर्शाया गया है कि अच्छे नागरिक शिष्टाचार से समाज में सद्भाव बढ़ता है, जो देशभक्ति का हिस्सा है।   The pictures on pages 9 and 10 show that good civic etiquette increases harmony in society, which is a part of patriotism.",
+    "page_number": "9"
+  },
+  {
+    "id": 63,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "नदी के किनारे रखे एक पत्थर और आपके बीच संवाद की कल्पना कीजिए। आप उसे क्या कहेंगे?   Imagine a dialogue between you and a stone kept on the riverbank. What would you say to it?",
+    "answer": "मैं पत्थर से कहूँगा, 'हे पत्थर! तुमने युगों-युगों से इस नदी की धारा को देखा है। तुमने सर्दी, गर्मी और तूफानों को बिना हिले-डुले सहा है। तुम्हारी यह सहनशीलता और स्थिरता हमें सिखाती है कि जीवन के संघर्षों में हमें भी इसी तरह अडिग और मजबूत रहना चाहिए।'   I would say to the stone, 'Oh stone! You have seen the flow of this river for ages. You have endured winter, summer, and storms without moving. This endurance and stability of yours teach us that we too should remain steadfast and strong in life's struggles.'",
+    "keywords": [
+      "संवाद   Dialogue",
+      "सहनशीलता   Endurance",
+      "स्थिरता   Stability",
+      "अडिग   Steadfast"
+    ],
+    "explanation": "कल्पना शक्ति को विकसित करने के लिए अभ्यास में एक पत्थर की आत्मकथा या उससे बातचीत सोचने को कहा गया है।   To develop imagination, the exercise asks to think of an autobiography of a stone or a conversation with it.",
+    "page_number": "6"
+  },
+  {
+    "id": 64,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "कविताओं में वाक्य संरचना बदलकर ('है' का स्थान बदलकर) क्या प्रभाव उत्पन्न किया जा सकता है?   What effect can be created by changing the sentence structure (changing the position of 'Hai') in poems?",
+    "answer": "कविताओं में शब्दों का क्रम, विशेष रूप से 'है' जैसे सहायक शब्दों को वाक्य के अंत की बजाय आरंभ या बीच में रखने से, गद्य का नीरसपन दूर होता है। इससे वाक्य में एक विशेष लय, जोर और काव्यात्मक सौंदर्य उत्पन्न होता है।   By changing the order of words in poems, especially by placing auxiliary words like 'Hai' at the beginning or middle instead of the end, the dullness of prose is removed. This creates a special rhythm, emphasis, and poetic beauty in the sentence.",
+    "keywords": [
+      "वाक्य संरचना   Sentence structure",
+      "नीरसपन   Dullness",
+      "काव्यात्मक सौंदर्य   Poetic beauty",
+      "लय   Rhythm"
+    ],
+    "explanation": "व्याकरण भाग में 'है जान एक दिन जाने को' का उदाहरण देकर बताया गया है कि कैसे पद-क्रम बदलने से कविता प्रभावशाली बन जाती है।   In the grammar section, giving the example of 'Hai jaan ek din jaane ko', it is explained how changing the word order makes the poem effective.",
+    "page_number": "8"
+  },
+  {
+    "id": 65,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "गयाप्रसाद शुक्ल 'सनेही' द्वारा रचित 'स्वदेश' कविता का मूल भाव अपने शब्दों में विस्तार से लिखिए।   Write in detail the central theme of the poem 'Swadesh' composed by Gaya Prasad Shukla 'Sanehi' in your own words.",
+    "answer": "'स्वदेश' कविता का मूल भाव देशभक्ति, साहस और मातृभूमि के प्रति समर्पण है। कवि सनेही जी कहते हैं कि जिस मनुष्य के हृदय में अपने देश के लिए प्रेम नहीं है, वह इंसान नहीं बल्कि पत्थर के समान संवेदनहीन है। हमारा देश हमारे लिए माता-पिता के समान है, जिसकी मिट्टी और अन्न से हम बड़े हुए हैं। कवि आह्वान करते हैं कि हमें केवल भाग्य के भरोसे नहीं बैठना चाहिए, बल्कि अपने हाथों की मेहनत और अदम्य साहस से राष्ट्र का विकास करना चाहिए। जो व्यक्ति अपने समाज का उद्धार नहीं करता और समय के साथ कदम नहीं मिलाता, उसका जीवन व्यर्थ है। अतः हमें देश के सम्मान के लिए अपना सर्वस्व न्योछावर करने को हमेशा तैयार रहना चाहिए।   The central theme of the poem 'Swadesh' is patriotism, courage, and dedication to the motherland. Poet Sanehi ji says that a person in whose heart there is no love for his country is not human but insensitive like a stone. Our country is like our parents, by whose soil and food we have grown up. The poet calls upon us that we should not just rely on fate, but develop the nation with our hard work and indomitable courage. A person who does not uplift his society and does not keep pace with time, his life is useless. Therefore, we should always be ready to sacrifice everything for the honor of the country.",
+    "keywords": [
+      "मूल भाव   Central theme",
+      "देशभक्ति   Patriotism",
+      "समर्पण   Dedication",
+      "संवेदनहीन   Insensitive",
+      "सर्वस्व न्योछावर   Sacrifice everything"
+    ],
+    "explanation": "यह उत्तर पूरी कविता का सार प्रस्तुत करता है, जिसमें स्वदेश प्रेम, साहस, मातृभूमि का ऋण और देश के प्रति कर्तव्यों का समावेश है।   This answer presents the summary of the entire poem, which includes patriotism, courage, the debt of the motherland, and duties towards the country.",
+    "page_number": "1, 2"
+  },
+  {
+    "id": 66,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "कवि ने 'स्वदेश' की महत्ता को दर्शाने के लिए किन-किन उपमानों (खजाने, नवरत्न, माता-पिता) का प्रयोग किया है? विस्तार से समझाइए।   What metaphors (treasures, nine gems, parents) has the poet used to show the greatness of 'Swadesh'? Explain in detail.",
+    "answer": "कवि ने देश की महानता दर्शाने के लिए अत्यंत सुंदर उपमानों का प्रयोग किया है। सबसे पहले उन्होंने देश को 'माता-पिता और बंधु' कहा है क्योंकि जिस तरह परिवार हमें निस्वार्थ प्रेम, भोजन और सुरक्षा देता है, वैसे ही देश की मिट्टी हमें अन्न-जल (दाना-पानी) देती है। इसके बाद, कवि ने भारत को 'खजाने' और 'नवरत्नों' का स्रोत बताया है। यहाँ खजाने का अर्थ केवल धन-दौलत नहीं, बल्कि भारत की प्राचीन विद्या, संस्कृति, अध्यात्म और महान विचारकों से है। भारत का ज्ञान इतना श्रेष्ठ है कि पूरी दुनिया (ज्ञानी भी) इस पर मुग्ध और दीवानी है। इन उपमानों के माध्यम से कवि हर भारतीय के मन में अपने देश के प्रति असीम गर्व की भावना भरना चाहते हैं।   The poet has used very beautiful metaphors to show the greatness of the country. First, he has called the country 'parents and brothers' because just as a family gives us selfless love, food, and security, the soil of the country gives us food and water (dana-pani). After this, the poet has described India as the source of 'treasures' and 'nine gems'. Here treasure does not only mean wealth, but India's ancient knowledge, culture, spirituality, and great thinkers. India's knowledge is so superior that the whole world (even the wise) is enchanted and crazy about it. Through these metaphors, the poet wants to fill the heart of every Indian with immense pride for their country.",
+    "keywords": [
+      "उपमानों   Metaphors",
+      "अन्न-जल   Food and water",
+      "संस्कृति   Culture",
+      "मुग्ध   Enchanted",
+      "गर्व   Pride"
+    ],
+    "explanation": "कविता के चौथे और पाँचवें पद्यांश में भारतवर्ष की गरिमा, उसके पारिवारिक जुड़ाव और वैश्विक स्तर पर उसके प्रभाव का सुंदर वर्णन किया गया है।   In the fourth and fifth stanzas of the poem, the dignity of India, its familial connection, and its impact on the global level have been beautifully described.",
+    "page_number": "2"
+  },
+  {
+    "id": 67,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "यह कविता एक 'आह्वान गीत' है जो युवाओं को प्रेरित करती है। कविता के आधार पर सिद्ध कीजिए।   This poem is a 'Song of Awakening' (Aahvan Geet) that inspires the youth. Prove it based on the poem.",
+    "answer": "हाँ, 'स्वदेश' कविता पूरी तरह से एक आह्वान (पुकारने या जगाने वाला) गीत है। इसमें कवि देश के युवाओं की सोई हुई चेतना को झकझोर कर जगा रहे हैं। कवि कहते हैं कि 'जो जीवित जोश जगा न सका', अर्थात युवाओं में देश के लिए कुछ कर गुजरने का जोश होना चाहिए। वे युवाओं को याद दिलाते हैं कि सफलता तोप या तलवार से नहीं, बल्कि 'अपने हाथों' के साहस से मिलती है। वे कहते हैं कि जो समय के साथ (संसार-संग) नहीं चलता, वह नष्ट हो जाता है। कवि मृत्यु को एक निश्चित सत्य (है जान एक दिन जाने को) बताते हुए प्रेरित करते हैं कि जब मरना निश्चित है, तो क्यों न परवानों की तरह देशरूपी काल-दीप पर जलकर अमर हो जाएँ। यह सब युवाओं में उत्साह और राष्ट्रप्रेम जगाता है।   Yes, the poem 'Swadesh' is completely a song of awakening (calling or waking up). In this, the poet is shaking and awakening the dormant consciousness of the country's youth. The poet says that 'he who could not awaken living zeal', meaning the youth should have the zeal to do something for the country. He reminds the youth that success is not achieved with a cannon or sword, but with the courage of 'one's own hands'. He says that the one who does not walk with time (sansar-sang) perishes. Calling death a certain truth (hai jaan ek din jaane ko), the poet inspires that when dying is certain, why not become immortal by burning like moths on the lamp of time that is the country. All this arouses enthusiasm and patriotism in the youth.",
+    "keywords": [
+      "आह्वान गीत   Song of awakening",
+      "चेतना   Consciousness",
+      "जोश   Zeal",
+      "साहस   Courage",
+      "अमर   Immortal"
+    ],
+    "explanation": "यह कविता सिर्फ देश का गुणगान नहीं करती, बल्कि कर्म करने, साहस दिखाने और बलिदान देने का सीधा संदेश (आह्वान) देती है।   This poem does not just praise the country, but gives a direct message (call) to take action, show courage, and make sacrifices.",
+    "page_number": "1, 2, 5"
+  },
+  {
+    "id": 68,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "'खादी गीत' और 'स्वदेश' कविता में अभिव्यक्त देश-प्रेम की तुलना कीजिए।   Compare the patriotism expressed in the 'Khadi Geet' and the poem 'Swadesh'.",
+    "answer": "दोनों ही कविताएँ राष्ट्रप्रेम से ओत-प्रोत हैं, लेकिन दोनों में अभिव्यक्ति का तरीका अलग है। 'स्वदेश' कविता में गयाप्रसाद शुक्ल जी देशप्रेम को मनुष्य की आंतरिक भावना, अदम्य साहस और मातृभूमि के प्रति ऋण के रूप में देखते हैं। वे मानते हैं कि देशभक्ति के बिना हृदय पत्थर है। दूसरी ओर, सोहनलाल द्विवेदी जी का 'खादी गीत' स्वतंत्रता आंदोलन के दौरान लिखा गया था। इसमें देशप्रेम को एक ठोस वस्तु—'खादी'—के माध्यम से दर्शाया गया है। खादी केवल एक कपड़ा नहीं, बल्कि भारतीयों के स्वाभिमान, भाईचारे, समानता और विदेशी दास्ता से मुक्ति का प्रतीक है। स्वदेश कविता जहाँ वैचारिक और भावुक है, वहीं खादी गीत आत्मनिर्भरता के व्यावहारिक पहलू पर जोर देता है।   Both poems are full of patriotism, but the method of expression is different in both. In the poem 'Swadesh', Gaya Prasad Shukla ji sees patriotism as a person's inner feeling, indomitable courage, and debt to the motherland. He believes that without patriotism, the heart is a stone. On the other hand, Sohanlal Dwivedi ji's 'Khadi Geet' was written during the freedom movement. In it, patriotism is shown through a tangible object—'Khadi'. Khadi is not just a fabric, but a symbol of Indians' self-respect, brotherhood, equality, and freedom from foreign slavery. While the Swadesh poem is ideological and emotional, the Khadi Geet emphasizes the practical aspect of self-reliance.",
+    "keywords": [
+      "अभिव्यक्ति   Expression",
+      "आंतरिक भावना   Inner feeling",
+      "स्वाभिमान   Self-respect",
+      "आत्मनिर्भरता   Self-reliance"
+    ],
+    "explanation": "साझी समझ खंड में दोनों कविताओं में देशभक्ति की तुलना करने को कहा गया है। एक सैद्धांतिक साहस की बात करती है, तो दूसरी गांधीवादी आंदोलन (खादी) की।   In the 'Shared Understanding' section, it is asked to compare patriotism in both poems. One talks of theoretical courage, while the other talks of the Gandhian movement (Khadi).",
+    "page_number": "12"
+  },
+  {
+    "id": 69,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "कल्पना कीजिए कि आप एक सैनिक नहीं, बल्कि एक आम नागरिक हैं। आप अपने दैनिक जीवन में 'स्वदेश प्रेम' कैसे प्रदर्शित कर सकते हैं? किन्हीं पाँच तरीकों का वर्णन करें।   Imagine you are not a soldier but a common citizen. How can you show 'patriotism' in your daily life? Describe any five ways.",
+    "answer": "एक आम नागरिक के रूप में मैं निम्नलिखित पाँच तरीकों से अपना स्वदेश प्रेम प्रदर्शित कर सकता हूँ: 1. नियमों का पालन: यातायात और सार्वजनिक नियमों का पालन कर एक अनुशासित नागरिक बनकर। 2. स्वच्छता: अपने आस-पास और सार्वजनिक स्थानों पर कचरा न फैलाकर देश को स्वच्छ रखने में मदद करके। 3. संसाधनों की बचत: बिजली, पानी और प्राकृतिक संसाधनों का कम उपयोग कर उन्हें भविष्य के लिए बचाकर। 4. भाईचारा और समानता: सभी धर्मों और जातियों के लोगों के साथ प्रेम और सम्मान से रहकर देश की एकता को मजबूत कर। 5. ईमानदारी से कार्य: चाहे मैं छात्र हूँ या कर्मचारी, अपना काम पूरी ईमानदारी से करूँगा, क्योंकि हर व्यक्ति की तरक्की से ही देश की तरक्की होती है।   As a common citizen, I can show my patriotism in the following five ways: 1. Following rules: By following traffic and public rules and being a disciplined citizen. 2. Cleanliness: By not littering around and in public places, helping to keep the country clean. 3. Saving resources: By minimizing the use of electricity, water, and natural resources, saving them for the future. 4. Brotherhood and equality: By living with love and respect with people of all religions and castes, strengthening the country's unity. 5. Working honestly: Whether I am a student or an employee, I will do my work with full honesty, because the country's progress happens only through every individual's progress.",
+    "keywords": [
+      "आम नागरिक   Common citizen",
+      "अनुशासित   Disciplined",
+      "स्वच्छता   Cleanliness",
+      "संसाधनों की बचत   Saving resources",
+      "ईमानदारी   Honesty"
+    ],
+    "explanation": "देशभक्ति केवल सीमाओं पर लड़ना नहीं है, बल्कि देश के आंतरिक विकास और शांति में रचनात्मक योगदान देना भी है। यह पाठ के चित्रात्मक अभ्यासों से प्रेरित है।   Patriotism is not just fighting on the borders, but also contributing constructively to the internal development and peace of the country. This is inspired by the pictorial exercises in the text.",
+    "page_number": "9, 10"
+  },
+  {
+    "id": 70,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "गयाप्रसाद शुक्ल 'सनेही' जी का कवि के रूप में क्या योगदान है? 'कवि से परिचय' के आधार पर विस्तृत उत्तर दें।   What is the contribution of Gaya Prasad Shukla 'Sanehi' ji as a poet? Give a detailed answer based on 'Introduction to the Poet'.",
+    "answer": "गयाप्रसाद शुक्ल 'सनेही' हिंदी साहित्य के एक अत्यंत महत्त्वपूर्ण कवि हैं। उनका जन्म 1883 में उन्नाव, उत्तर प्रदेश में हुआ था। उन्होंने ब्रजभाषा और खड़ी बोली दोनों में उत्कृष्ट काव्य रचना की। सनेही जी का सबसे बड़ा योगदान यह है कि उन्होंने अपनी कविताओं के माध्यम से तत्कालीन समाज में देशभक्ति और राष्ट्रीय चेतना को जगाया। सरकारी नौकरी के प्रतिबंधों के बावजूद, उन्होंने 'त्रिशूल' उपनाम रखकर देश-प्रेम, किसानों, मजदूरों की दुर्दशा और सामाजिक कुरीतियों पर अपनी कलम चलाई। उनकी प्रमुख रचनाओं में 'त्रिशूल तरंग', 'राष्ट्रीय मंत्र' और 'कृषक क्रंदन' शामिल हैं। उनकी कविताएँ केवल साहित्यिक नहीं थीं, बल्कि समाज सुधार और स्वाधीनता संग्राम के लिए एक मजबूत हथियार थीं।   Gaya Prasad Shukla 'Sanehi' is a very important poet of Hindi literature. He was born in 1883 in Unnao, Uttar Pradesh. He composed excellent poetry in both Braj Bhasha and Khadi Boli. The biggest contribution of Sanehi ji is that through his poems, he awakened patriotism and national consciousness in the contemporary society. Despite the restrictions of a government job, he kept the pen name 'Trishul' and wrote on patriotism, the plight of farmers, laborers, and social evils. His major works include 'Trishul Tarang', 'Rashtriya Mantra', and 'Krishak Krandan'. His poems were not just literary, but were a strong weapon for social reform and the freedom struggle.",
+    "keywords": [
+      "योगदान   Contribution",
+      "राष्ट्रीय चेतना   National consciousness",
+      "प्रतिबंधों   Restrictions",
+      "समाज सुधार   Social reform"
+    ],
+    "explanation": "कवि परिचय खंड में उनके जीवन, उनके द्वारा चुने गए विषयों और उनकी प्रमुख पुस्तकों का स्पष्ट उल्लेख है जो उनके योगदान को दर्शाता है।   The poet introduction section clearly mentions his life, the topics he chose, and his major books, which show his contribution.",
+    "page_number": "3"
+  },
+  {
+    "id": 71,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "कवि के अनुसार साहस और इच्छाशक्ति का जीवन में क्या महत्त्व है? कविता के अंतिम दो पद्यांशों के आधार पर स्पष्ट कीजिए।   According to the poet, what is the importance of courage and willpower in life? Clarify based on the last two stanzas of the poem.",
+    "answer": "कविता के अंतिम पद्यांशों में कवि ने स्पष्ट किया है कि मनुष्य का सबसे बड़ा हथियार बाहरी अस्त्र (तोप या तलवार) नहीं, बल्कि उसके अपने हाथ, उसका साहस और उसकी दृढ़ इच्छाशक्ति है। कवि बताते हैं कि जीवन नश्वर है, 'है जान एक दिन जाने को', अर्थात् मृत्यु निश्चित है। ऐसे में डर-डर कर जीने का कोई लाभ नहीं है। व्यक्ति को अपने भीतर अदम्य साहस पैदा करना चाहिए और देशरूपी 'काल-दीप' पर परवानों की तरह अपना सर्वस्व न्योछावर करने के लिए तैयार रहना चाहिए। जब व्यक्ति ठान लेता है, तो सफलता उसी के हाथों में होती है। बिना साहस के मनुष्य जीवन की किसी भी बाधा को पार नहीं कर सकता।   In the final stanzas of the poem, the poet has clarified that a person's biggest weapon is not an external arm (cannon or sword), but their own hands, their courage, and their strong willpower. The poet explains that life is mortal, 'hai jaan ek din jaane ko', meaning death is certain. In such a case, there is no benefit in living in fear. A person should develop indomitable courage within themselves and be ready to sacrifice everything like moths on the 'lamp of time' that is the country. When a person makes up their mind, success is in their own hands. Without courage, a person cannot overcome any obstacle in life.",
+    "keywords": [
+      "इच्छाशक्ति   Willpower",
+      "नश्वर   Mortal",
+      "सर्वस्व न्योछावर   Sacrifice everything",
+      "बाधा   Obstacle"
+    ],
+    "explanation": "कवि ने मृत्यु के भय से मुक्त होकर साहसिक कार्य करने और स्वयं के सामर्थ्य (सब कुछ है अपने हाथों में) पर विश्वास करने की प्रेरणा दी है।   The poet has inspired to work courageously, free from the fear of death, and to believe in one's own capability (everything is in one's hands).",
+    "page_number": "2, 4"
+  },
+  {
+    "id": 72,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "चित्रों के माध्यम से पाठ में दिखाए गए स्वदेश प्रेम और असामाजिक कार्यों का विश्लेषण कीजिए। हम अपने देश को कैसे बेहतर बना सकते हैं?   Analyze the patriotism and anti-social activities shown in the chapter through pictures. How can we make our country better?",
+    "answer": "पाठ में पृष्ठ 9 और 10 पर दिए गए चित्रों में स्वदेश प्रेम और असामाजिक व्यवहार दोनों के उदाहरण दिए गए हैं। एक ओर पौधे लगाना, कतार में शांति से खड़े होना, सैनिक का सम्मान करना और सफाई करना देशभक्ति के चित्र हैं, जो देश को सुंदर और व्यवस्थित बनाते हैं। दूसरी ओर, ट्रेन में कचरा फैलाना, सार्वजनिक संपत्तियों को नुकसान पहुँचाना, ऐतिहासिक इमारतों पर नाम उकेरना और पानी बर्बाद करना असामाजिक और देश-विरोधी कार्य हैं। हम अपने देश को बेहतर बनाने के लिए इन गलतियों से बच सकते हैं। हमें सार्वजनिक संपत्ति को अपना समझना चाहिए, पर्यावरण का संरक्षण करना चाहिए और एक जिम्मेदार नागरिक के रूप में हर छोटे-बड़े कार्य में देश की भलाई को प्राथमिकता देनी चाहिए।   In the chapter on pages 9 and 10, examples of both patriotism and anti-social behavior are given in the pictures. On one hand, planting saplings, standing peacefully in a queue, honoring a soldier, and cleaning are pictures of patriotism, which make the country beautiful and organized. On the other hand, littering in a train, damaging public properties, engraving names on historical buildings, and wasting water are anti-social and anti-national activities. We can make our country better by avoiding these mistakes. We should consider public property as our own, conserve the environment, and as a responsible citizen, prioritize the welfare of the country in every small and big act.",
+    "keywords": [
+      "विश्लेषण   Analysis",
+      "असामाजिक   Anti-social",
+      "सार्वजनिक संपत्ति   Public property",
+      "प्राथमिकता   Priority"
+    ],
+    "explanation": "चित्र आधारित यह प्रश्न विद्यार्थियों से अपेक्षा करता है कि वे रोजमर्रा के जीवन में रचनात्मक देशभक्ति और विनाशकारी हरकतों के बीच अंतर समझें।   This picture-based question expects students to understand the difference between constructive patriotism and destructive actions in everyday life.",
+    "page_number": "9, 10"
+  },
+  {
+    "id": 73,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "'वह हृदय नहीं है, पत्थर है, जिसमें स्वदेश का प्यार नहीं।' इस पंक्ति के माध्यम से कवि ने समाज को क्या चेतावनी दी है?   'Vah hriday nahi hai, patthar hai, jismein swadesh ka pyar nahi.' What warning has the poet given to the society through this line?",
+    "answer": "इस पंक्ति के माध्यम से कवि गयाप्रसाद शुक्ल समाज को यह चेतावनी दे रहे हैं कि देशभक्ति इंसान के भीतर की सबसे पवित्र और अनिवार्य भावना है। जिस तरह पत्थर में कोई धड़कन, संवेदना या दया नहीं होती, उसी तरह जिस मनुष्य के मन में अपनी मातृभूमि के लिए प्यार नहीं है, वह जीवित होते हुए भी मृत के समान है। कवि समाज को स्वार्थी और आत्मकेंद्रित होने से रोकना चाहते हैं। वे चेतावनी देते हैं कि अगर समाज के लोग केवल अपने बारे में सोचेंगे और देश के हित, इसके संसाधनों या संकट के समय चुप रहेंगे, तो ऐसे लोगों का अस्तित्व धरती पर एक बोझ बन जाएगा। मनुष्य का सच्चा धर्म अपनी मिट्टी का कर्ज चुकाना है।   Through this line, poet Gaya Prasad Shukla is warning the society that patriotism is the purest and most essential feeling inside a human. Just as a stone has no heartbeat, sensitivity, or pity, similarly a person who has no love for his motherland in his heart is like dead despite being alive. The poet wants to stop the society from becoming selfish and self-centered. He warns that if the people of the society only think about themselves and remain silent during the country's welfare, its resources, or crisis, then the existence of such people will become a burden on the earth. The true religion of a human is to repay the debt of his soil.",
+    "keywords": [
+      "चेतावनी   Warning",
+      "अनिवार्य भावना   Essential feeling",
+      "आत्मकेंद्रित   Self-centered",
+      "कर्ज   Debt"
+    ],
+    "explanation": "कविता का यह मुखड़ा (Refrain) बार-बार आकर स्वदेश प्रेम की अनिवार्यता पर जोर देता है और संवेदनहीनता को मनुष्यता का कलंक बताता है।   This refrain of the poem appears repeatedly to emphasize the necessity of patriotism and describes insensitivity as a stigma on humanity.",
+    "page_number": "1, 2"
+  },
+  {
+    "id": 74,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "'खादी गीत' में वर्णित खादी के महत्त्व को विस्तार से समझाइए। यह किस प्रकार भारतीय समाज के विभिन्न वर्गों को जोड़ती है?   Explain in detail the importance of Khadi described in 'Khadi Geet'. How does it connect different sections of Indian society?",
+    "answer": "'खादी गीत' में सोहनलाल द्विवेदी जी ने खादी को केवल एक वस्त्र नहीं, बल्कि राष्ट्रीय स्वाभिमान और एकता के धागे के रूप में प्रस्तुत किया है। खादी का एक-एक धागा भारतीयों के अपनेपन, अभिमान और माता के सम्मान से भरा हुआ है। यह समाज के विभिन्न वर्गों और आयु के लोगों को आपस में जोड़ती है। कविता के अनुसार, खादी में भाई का प्यार, माँ-बहनों का सत्कार और बच्चों का मधुर दुलार छिपा है, जो परिवार और समाज में सद्भाव लाता है। जब व्यक्ति खादी पहनता है, तो वह श्वेत चाँदनी (रजत चंद्रिका) की तरह तन पर खिलती है और निराशा से भरे मन में नए जीवन की ज्योति जगा देती है। इस प्रकार, खादी भारत को सांस्कृतिक और भावात्मक रूप से जोड़ती है।   In 'Khadi Geet', Sohanlal Dwivedi ji has presented Khadi not just as a fabric, but as a thread of national pride and unity. Every single thread of Khadi is filled with Indians' belongingness, pride, and respect for the mother. It connects people of different sections and ages of the society. According to the poem, a brother's love, the honor of mothers and sisters, and the sweet affection of children are hidden in Khadi, which brings harmony in the family and society. When a person wears Khadi, it blossoms on the body like white moonlight (rajat chandrika) and awakens the light of new life in a mind filled with despair. Thus, Khadi connects India culturally and emotionally.",
+    "keywords": [
+      "एकता के धागे   Thread of unity",
+      "सद्भाव   Harmony",
+      "निराशा   Despair",
+      "भावात्मक   Emotionally"
+    ],
+    "explanation": "स्वतंत्रता संग्राम में खादी का उपयोग लोगों को संगठित करने के लिए किया गया था। यह कविता उसी भावनात्मक जुड़ाव और पारिवारिक सम्मान को दर्शाती है।   In the freedom struggle, the use of Khadi was meant to unite people. This poem reflects that same emotional connection and familial honor.",
+    "page_number": "12"
+  },
+  {
+    "id": 75,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "यदि आपको 'स्वदेश' कविता का शीर्षक बदलना हो, तो आप क्या नया शीर्षक देंगे और क्यों? सविस्तार तर्क दीजिए।   If you had to change the title of the poem 'Swadesh', what new title would you give and why? Give detailed reasoning.",
+    "answer": "यदि मुझे इस कविता का नया शीर्षक देना हो, तो मैं इसका शीर्षक 'देशभक्ति का मर्म' या 'मातृभूमि का कर्ज' रखूँगा। मैं यह शीर्षक इसलिए चुनूँगा क्योंकि पूरी कविता इस बात के इर्द-गिर्द घूमती है कि मातृभूमि ने हमें मिट्टी, अन्न, जल और आश्रय (खजाने, नवरत्न) दिए हैं और हमारा कर्तव्य है कि हम इसका कर्ज चुकाएँ। कविता यह स्पष्ट करती है कि देशभक्ति (मर्म) केवल कहने की बात नहीं है, बल्कि इसके लिए साहस, जोश और सर्वस्व बलिदान करने की भावना होनी चाहिए। जो व्यक्ति यह कर्ज नहीं समझता, वह संवेदनहीन पत्थर है। अतः यह नया शीर्षक कविता की मूल आत्मा और उसके द्वारा दिए गए कड़े संदेश का सटीक प्रतिनिधित्व करता है।   If I had to give a new title to this poem, I would title it 'The Essence of Patriotism' (Deshbhakti ka Marm) or 'The Debt of the Motherland' (Matribhumi ka Karz). I would choose this title because the entire poem revolves around the fact that the motherland has given us soil, food, water, and shelter (treasures, nine gems) and it is our duty to repay this debt. The poem clarifies that patriotism (essence) is not just a matter of saying, but there should be a feeling of courage, zeal, and sacrificing everything for it. The person who does not understand this debt is an insensitive stone. Therefore, this new title accurately represents the core soul of the poem and the strong message given by it.",
+    "keywords": [
+      "शीर्षक   Title",
+      "देशभक्ति का मर्म   Essence of Patriotism",
+      "कर्ज   Debt",
+      "मूल आत्मा   Core soul"
+    ],
+    "explanation": "कविता का शीर्षक अभ्यास में छात्रों से उनकी रचनात्मक सोच के आधार पर नए शीर्षक सुझाने और उसके पीछे का कारण बताने को कहा गया है।   In the 'Title of the Poem' exercise, students are asked to suggest a new title based on their creative thinking and provide the reason behind it.",
+    "page_number": "8"
+  },
+  {
+    "id": 76,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "स्वदेश प्रेम और प्रकृति संरक्षण एक दूसरे से कैसे जुड़े हैं? अनुमान और कल्पना के आधार पर विस्तार से लिखिए।   How are patriotism and nature conservation linked to each other? Write in detail based on guess and imagination.",
+    "answer": "स्वदेश प्रेम का अर्थ केवल देश की सीमाओं की रक्षा करना नहीं है, बल्कि देश के अंदर मौजूद जीवन और संसाधनों की रक्षा करना भी है। देश की भूमि, नदियाँ, जंगल और पहाड़ हमारे प्राकृतिक संसाधन हैं, जिनसे देशवासियों का जीवन चलता है। यदि हम अपने स्वार्थ के लिए पेड़ काटते हैं, नदियों को प्रदूषित करते हैं या खनिजों का दोहन करते हैं, तो हम वास्तव में अपने देश को ही कमजोर और बीमार बना रहे हैं। प्रकृति का संरक्षण करना, पेड़ लगाना, पानी बचाना और पर्यावरण को स्वच्छ रखना सच्चे स्वदेश प्रेम का हिस्सा है। एक देशभक्त नागरिक वह है जो आने वाली पीढ़ियों के लिए देश की प्राकृतिक सुंदरता और संपदा को सुरक्षित रखता है।   Patriotism does not only mean protecting the borders of the country, but also protecting the life and resources present inside the country. The country's land, rivers, forests, and mountains are our natural resources, on which the lives of the countrymen run. If we cut trees, pollute rivers, or exploit minerals for our selfishness, we are actually making our country weak and sick. Conserving nature, planting trees, saving water, and keeping the environment clean is part of true patriotism. A patriotic citizen is one who preserves the natural beauty and wealth of the country for future generations.",
+    "keywords": [
+      "प्रकृति संरक्षण   Nature conservation",
+      "प्राकृतिक संसाधन   Natural resources",
+      "पर्यावरण   Environment",
+      "आने वाली पीढ़ियों   Future generations"
+    ],
+    "explanation": "अनुमान और कल्पना खंड में देश की सुरक्षा को प्राकृतिक संसाधनों के संरक्षण से जोड़ने पर विचार करने को कहा गया है, जो राष्ट्रभक्ति का एक आधुनिक रूप है।   In the 'Guess and Imagine' section, it is asked to consider linking the country's security with the conservation of natural resources, which is a modern form of patriotism.",
+    "page_number": "6"
+  },
+  {
+    "id": 77,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "कविताओं में व्याकरणिक और ध्वन्यात्मक (Rhyme and Punctuation) सौंदर्य का क्या महत्त्व है? 'स्वदेश' कविता के उदाहरण देकर समझाइए।   What is the importance of grammatical and phonetic (Rhyme and Punctuation) beauty in poems? Explain giving examples from the poem 'Swadesh'.",
+    "answer": "किसी भी कविता को प्रभावशाली और आकर्षक बनाने में व्याकरण और ध्वनि का बड़ा महत्त्व होता है। ध्वन्यात्मक सौंदर्य (तुक मिलाना) कविता में संगीतात्मकता और लय पैदा करता है। 'स्वदेश' कविता में 'बढ़े-पानी/रानी', 'खड़े-मरते/करते' जैसे तुक वाले शब्दों के प्रयोग से कविता पढ़ने में आनंद देती है और आसानी से याद हो जाती है। व्याकरणिक स्तर पर, कवि ने योजक चिह्नों (-) का प्रयोग कर दो शब्दों को जोड़ा है (जैसे- दाना-पानी, संसार-संग), जिससे कम शब्दों में गहरा अर्थ निकलता है। इसके अलावा, वाक्य की शुरुआत 'है' से करके (जैसे- 'है जान एक दिन जाने को') कवि ने गद्य को पद्य का रूप दे दिया है, जिससे वाक्य में एक नया प्रवाह और भावपूर्ण जोर उत्पन्न होता है।   Grammar and phonetics have a great importance in making any poem effective and attractive. Phonetic beauty (rhyming) creates musicality and rhythm in the poem. In the poem 'Swadesh', the use of rhyming words like 'badhe-pani/rani', 'khade-marte/karte' makes the poem a joy to read and easy to remember. On the grammatical level, the poet has used hyphens (-) to join two words (like dana-pani, sansar-sang), which brings out a deep meaning in fewer words. Besides this, by starting the sentence with 'Hai' (like 'Hai jaan ek din jaane ko'), the poet has given prose the form of poetry, which creates a new flow and emotional emphasis in the sentence.",
+    "keywords": [
+      "ध्वन्यात्मक सौंदर्य   Phonetic beauty",
+      "संगीतात्मकता   Musicality",
+      "योजक चिह्न   Hyphen",
+      "प्रवाह   Flow"
+    ],
+    "explanation": "भाषा की बात और कविता की रचना अनुभागों में तुक, योजक चिह्न और वाक्य क्रम पर विस्तार से चर्चा की गई है, जो कविता के शिल्प सौंदर्य को उभारते हैं।   In the 'Language Features' and 'Poetry Composition' sections, rhymes, hyphens, and sentence order are discussed in detail, which highlight the craft beauty of the poem.",
+    "page_number": "6, 7, 8"
+  },
+  {
+    "id": 78,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "'जो व्यक्ति संसार के साथ नहीं चलता, उसका संसार नहीं होता।' इस विचार का वर्तमान जीवन और तकनीकी प्रगति के संदर्भ में मूल्यांकन कीजिए।   'The person who does not walk with the world, the world is not his.' Evaluate this thought in the context of modern life and technological progress.",
+    "answer": "कवि का यह कथन 'जो चल न सका संसार-संग, उसका होता संसार नहीं' आज के तेजी से बदलते समय में पूरी तरह प्रासंगिक है। वर्तमान समय में विज्ञान, तकनीक और विचारों में बहुत तेजी से बदलाव आ रहा है। यदि कोई व्यक्ति या देश नई तकनीक, नए विचारों और वैश्विक परिवर्तनों को अपनाने से इनकार कर दे, तो वह विकास की दौड़ में पिछड़ जाएगा। उदाहरण के लिए, जो देश शिक्षा और विज्ञान में दुनिया के साथ कदम मिलाकर नहीं चलते, वे आर्थिक और सामाजिक रूप से पीछे रह जाते हैं और अंततः उनकी कोई पहचान नहीं बचती। जीवन में अपनी जड़ों (स्वदेश) से जुड़े रहना आवश्यक है, लेकिन साथ ही दुनिया की प्रगति (संसार-संग) को अपनाना भी उतना ही जरूरी है।   The poet's statement 'He who could not walk with the world, the world is not his' is completely relevant in today's fast-changing times. In the present time, science, technology, and ideas are changing very rapidly. If a person or country refuses to adopt new technology, new ideas, and global changes, they will fall behind in the race for development. For example, countries that do not walk in step with the world in education and science remain economically and socially backward and eventually lose their identity. It is necessary to stay connected to one's roots (motherland) in life, but at the same time, it is equally important to adopt the progress of the world (sansar-sang).",
+    "keywords": [
+      "प्रासंगिक   Relevant",
+      "तकनीकी प्रगति   Technological progress",
+      "वैश्विक परिवर्तनों   Global changes",
+      "पहचान   Identity"
+    ],
+    "explanation": "यह प्रश्न कविता की एक गूढ़ पंक्ति को आधुनिक संदर्भों (जैसे तकनीक और वैश्वीकरण) से जोड़ने के लिए प्रेरित करता है, जो उच्च-स्तरीय चिंतन को दर्शाता है।   This question prompts to connect a profound line of the poem with modern contexts (like technology and globalization), reflecting high-order thinking.",
+    "page_number": "1, 5"
+  },
+  {
+    "id": 79,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "राष्ट्र निर्माण में विभिन्न पेशों (जैसे- कृषक, वैज्ञानिक, शिक्षक, श्रमिक) की भूमिका को 'अस्त्र-शस्त्र' के रूपक से विस्तार में समझाइए।   Explain in detail the role of various professions (like farmer, scientist, teacher, laborer) in nation-building through the metaphor of 'weapons' (Astra-shastra).",
+    "answer": "कविता में कवि बताते हैं कि सफल होने के लिए तोप या तलवार की नहीं, बल्कि अपने हाथों की मेहनत की आवश्यकता है। इसी विचार को आगे बढ़ाते हुए विभिन्न पेशे राष्ट्र की ढाल और हथियार बनते हैं। कृषक का अस्त्र उसका हल है, जिससे वह देशवासियों को भुखमरी से बचाता है। वैज्ञानिक का अस्त्र उसकी प्रयोगशाला और शोध है, जो देश को नई तकनीक और सुरक्षा (मिसाइल आदि) प्रदान करता है। शिक्षक का अस्त्र उसकी कलम और ज्ञान है, जो अज्ञानता मिटाकर देश के लिए योग्य और चरित्रवान नागरिक तैयार करता है। श्रमिक का अस्त्र उसकी शारीरिक मेहनत है, जिससे देश का बुनियादी ढाँचा (सड़कें, पुल) मजबूत होता है। ये सभी बिना किसी तोप-तलवार के, अपने कर्म रूपी अस्त्रों से देश को सुरक्षित और महान बनाते हैं।   In the poem, the poet says that to be successful, one does not need a cannon or sword, but the hard work of one's own hands. Taking this thought forward, various professions become the shield and weapons of the nation. A farmer's weapon is his plough, with which he saves the countrymen from starvation. A scientist's weapon is his laboratory and research, which provides the country with new technology and security (missiles, etc.). A teacher's weapon is his pen and knowledge, which removes ignorance and prepares worthy and characterful citizens for the country. A laborer's weapon is his physical hard work, which strengthens the country's infrastructure (roads, bridges). All these, without any cannon or sword, make the country secure and great with their weapons of action.",
+    "keywords": [
+      "राष्ट्र निर्माण   Nation-building",
+      "अस्त्र-शस्त्र   Weapons",
+      "बुनियादी ढाँचा   Infrastructure",
+      "चरित्रवान   Characterful"
+    ],
+    "explanation": "हमारे अस्त्र-शस्त्र अनुभाग में विभिन्न नागरिकों की भूमिकाओं पर विचार करने को कहा गया है। यह उत्तर उन सभी के रचनात्मक योगदान को एक सूत्र में पिरोता है।   In the 'Our Weapons' section, it is asked to consider the roles of various citizens. This answer threads their constructive contributions into one theme.",
+    "page_number": "4, 11"
+  },
+  {
+    "id": 80,
+    "subject": "Hindi",
+    "chapter": "स्वदेश (Svadesh)-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "कवि गयाप्रसाद शुक्ल 'सनेही' की भाषा शैली और रचनाओं की विविधता पर टिप्पणी कीजिए। उन्होंने समाज को क्या मुख्य संदेश दिया?   Comment on the language style and diversity of works of the poet Gaya Prasad Shukla 'Sanehi'. What main message did he give to the society?",
+    "answer": "गयाप्रसाद शुक्ल 'सनेही' की काव्य रचनाओं में बहुत विविधता देखने को मिलती है। भाषा के स्तर पर, उन्होंने शुरुआत ब्रजभाषा से की, लेकिन बाद में खड़ी बोली हिंदी के प्रमुख कवियों में अपना स्थान बनाया। उनकी भाषा सरल, ओजपूर्ण और सीधे हृदय पर प्रभाव डालने वाली है। विषयों की बात करें तो उन्होंने केवल प्रकृति या शृंगार पर नहीं लिखा, बल्कि उनका मुख्य जोर समाज के यथार्थ पर रहा। उन्होंने राष्ट्र-प्रेम जगाने के लिए 'राष्ट्रीय मंत्र' और 'त्रिशूल तरंग' जैसी रचनाएँ दीं, वहीं किसानों की पीड़ा को उजागर करने के लिए 'कृषक क्रंदन' लिखा। इसके अलावा उन्होंने समाज में व्याप्त कुरीतियों का भी विरोध किया। उनका मुख्य संदेश यह था कि प्रत्येक व्यक्ति को अपने स्वार्थ से ऊपर उठकर देश, समाज और दीन-दुखियों के उद्धार के लिए कार्य करना चाहिए।   A lot of diversity is seen in the poetic works of Gaya Prasad Shukla 'Sanehi'. On the language level, he started with Braj Bhasha, but later made his place among the prominent poets of Khadi Boli Hindi. His language is simple, energetic, and directly impactful on the heart. Talking about subjects, he did not just write on nature or romance, but his main emphasis was on the reality of society. He gave works like 'Rashtriya Mantra' and 'Trishul Tarang' to awaken patriotism, while he wrote 'Krishak Krandan' to highlight the pain of farmers. Apart from this, he also opposed the social evils prevalent in society. His main message was that every person should rise above his selfishness and work for the upliftment of the country, society, and the poor and afflicted.",
+    "keywords": [
+      "विविधता   Diversity",
+      "ओजपूर्ण   Energetic",
+      "यथार्थ   Reality",
+      "कुरीतियों   Social evils"
+    ],
+    "explanation": "यह उत्तर कवि से परिचय भाग पर आधारित है, जहाँ उनके जीवन के भाषाई सफर, उनके द्वारा छुए गए विविध विषयों और उनकी प्रमुख पुस्तकों का सारांश दिया गया है।   This answer is based on the 'Introduction to the Poet' section, which summarizes his linguistic journey, the diverse topics he touched upon, and his major books.",
+    "page_number": "3"
+  }
+]
