@@ -1,1201 +1,1693 @@
+[
 {
-  "subject": "Hindi",
-  "chapter_name": "दो गौरैया (Do Gauraiya)-QA-v2h",
-  "questions": [
-    {
-      "question_no": 1,
-      "question": "'दो गौरैया' कहानी के लेखक कौन हैं?   Who is the author of the story 'Do Gauraiya'?",
-      "model_answer": "'दो गौरैया' कहानी के लेखक भीष्म साहनी हैं।   The author of the story 'Do Gauraiya' is Bhisham Sahni.",
-      "keywords": [
-        "लेखक   Author",
-        "भीष्म साहनी   Bhisham Sahni",
-        "कहानी   Story"
-      ],
-      "marks": 1,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "लेखक परिचय",
-      "learning_outcome": "Student identifies the author of the text."
-    },
-    {
-      "question_no": 2,
-      "question": "पिताजी के अनुसार उनका घर क्या बन गया है?   What has their house become according to the father?",
-      "model_answer": "पिताजी के अनुसार उनका घर एक सराय बन गया है।   According to the father, their house has become an inn.",
-      "keywords": [
-        "सराय   Inn",
-        "पिताजी   Father",
-        "घर   House"
-      ],
-      "marks": 1,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "कहानी का आरंभ",
-      "learning_outcome": "Student recalls factual details from the beginning of the story."
-    },
-    {
-      "question_no": 3,
-      "question": "दोनों गौरैयों ने अपना घोंसला कहाँ बनाया था?   Where had the two sparrows built their nest?",
-      "model_answer": "गौरैयों ने बैठक की छत में लगे पंखे के गोले में अपना घोंसला बनाया था।   The sparrows had built their nest in the canopy of the ceiling fan in the drawing room.",
-      "keywords": [
-        "घोंसला   Nest",
-        "बैठक   Drawing room",
-        "पंखे के गोले   Canopy of the fan"
-      ],
-      "marks": 1,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "गौरैयों का प्रवेश",
-      "learning_outcome": "Student locates specific information from the text."
-    },
-    {
-      "question_no": 4,
-      "question": "विश्व गौरैया दिवस कब मनाया जाता है?   When is World Sparrow Day celebrated?",
-      "model_answer": "विश्व गौरैया दिवस हर साल 20 मार्च को मनाया जाता है।   World Sparrow Day is celebrated every year on 20 March.",
-      "keywords": [
-        "विश्व गौरैया दिवस   World Sparrow Day",
-        "20 मार्च   20 March"
-      ],
-      "marks": 1,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "विश्व गौरैया दिवस",
-      "learning_outcome": "Student states the date of World Sparrow Day."
-    },
-    {
-      "question_no": 5,
-      "question": "भीष्म साहनी को उनके किस प्रसिद्ध उपन्यास के लिए साहित्य अकादमी पुरस्कार मिला था?   For which famous novel did Bhisham Sahni receive the Sahitya Akademi Award?",
-      "model_answer": "भीष्म साहनी को उनके प्रसिद्ध उपन्यास 'तमस' के लिए साहित्य अकादमी पुरस्कार मिला था।   Bhisham Sahni received the Sahitya Akademi Award for his famous novel 'Tamas'.",
-      "keywords": [
-        "तमस   Tamas",
-        "उपन्यास   Novel",
-        "पुरस्कार   Award"
-      ],
-      "marks": 1,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "लेखक परिचय",
-      "learning_outcome": "Student recalls the literary achievements of the author."
-    },
-    {
-      "question_no": 6,
-      "question": "कौवे का क्या नाम था?   What was the name of the crow?",
-      "model_answer": "कौवे का नाम लघुपतनक था।   The name of the crow was Laghupatanak.",
-      "keywords": [
-        "कौआ   Crow",
-        "लघुपतनक   Laghupatanak"
-      ],
-      "marks": 1,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "मित्रलाभ के पात्र",
-      "learning_outcome": "Student identifies characters from the story."
-    },
-    {
-      "question_no": 7,
-      "question": "चूहे का क्या नाम था?   What was the name of the mouse?",
-      "model_answer": "चूहे का नाम हिरण्यक था।   The name of the mouse was Hiranyak.",
-      "keywords": [
-        "चूहा   Mouse",
-        "हिरण्यक   Hiranyak"
-      ],
-      "marks": 1,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "मित्रलाभ के पात्र",
-      "learning_outcome": "Student identifies characters from the story."
-    },
-    {
-      "question_no": 8,
-      "question": "कबूतरों के राजा का क्या नाम था?   What was the name of the king of the pigeons?",
-      "model_answer": "कबूतरों के राजा का नाम चित्रग्रीव था।   The name of the king of the pigeons was Chitragreev.",
-      "keywords": [
-        "कबूतरों के राजा   King of pigeons",
-        "चित्रग्रीव   Chitragreev"
-      ],
-      "marks": 1,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "मित्रलाभ के पात्र",
-      "learning_outcome": "Student identifies characters from the story."
-    },
-    {
-      "question_no": 9,
-      "question": "कछुए का क्या नाम था?   What was the name of the turtle?",
-      "model_answer": "कछुए का नाम मन्थरक था।   The name of the turtle was Mantharak.",
-      "keywords": [
-        "कछुआ   Turtle",
-        "मन्थरक   Mantharak"
-      ],
-      "marks": 1,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "मित्रलाभ के पात्र",
-      "learning_outcome": "Student identifies characters from the story."
-    },
-    {
-      "question_no": 10,
-      "question": "हिरन का क्या नाम था?   What was the name of the deer?",
-      "model_answer": "हिरन का नाम चित्रांग था।   The name of the deer was Chitrang.",
-      "keywords": [
-        "हिरन   Deer",
-        "चित्रांग   Chitrang"
-      ],
-      "marks": 1,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "मित्रलाभ के पात्र",
-      "learning_outcome": "Student identifies characters from the story."
-    },
-    {
-      "question_no": 11,
-      "question": "जब पिताजी को गुस्सा आया तो माँ ने क्या किया?   What did the mother do when the father got angry?",
-      "model_answer": "जब पिताजी को गुस्सा आया, तब माँ खिलखिलाकर हँसने लगीं।   When the father got angry, the mother started laughing heartily.",
-      "keywords": [
-        "गुस्सा   Anger",
-        "हँसने   Laughing",
-        "माँ   Mother"
-      ],
-      "marks": 1,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "माता-पिता का व्यवहार",
-      "learning_outcome": "Student describes the reactions of characters."
-    },
-    {
-      "question_no": 12,
-      "question": "'मित्रलाभ' कहानी किस प्रसिद्ध पुस्तक से ली गई है?   From which famous book is the story 'Mitralabh' taken?",
-      "model_answer": "'मित्रलाभ' कहानी 'पंचतंत्र' से ली गई है।   The story 'Mitralabh' is taken from 'Panchatantra'.",
-      "keywords": [
-        "मित्रलाभ   Mitralabh",
-        "पंचतंत्र   Panchatantra",
-        "पुस्तक   Book"
-      ],
-      "marks": 1,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "मित्रलाभ का स्रोत",
-      "learning_outcome": "Student identifies the source of the story."
-    },
-    {
-      "question_no": 13,
-      "question": "हिरण्यक के अनुसार उसका और कौवे का वैर कैसा था?   According to Hiranyak, what kind of enmity was there between him and the crow?",
-      "model_answer": "हिरण्यक के अनुसार उसका और कौवे का वैर 'सहज वैर' (स्वाभाविक) था।   According to Hiranyak, the enmity between him and the crow was a 'natural enmity'.",
-      "keywords": [
-        "वैर   Enmity",
-        "सहज   Natural",
-        "स्वाभाविक   Inherent"
-      ],
-      "marks": 1,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "मित्रता की शुरुआत",
-      "learning_outcome": "Student categorizes the types of enmity discussed."
-    },
-    {
-      "question_no": 14,
-      "question": "कौवे ने चूहे को अपनी पीठ पर क्यों बिठाया?   Why did the crow make the mouse sit on his back?",
-      "model_answer": "कौवे ने चूहे को मन्थरक कछुए के पास तालाब तक ले जाने के लिए अपनी पीठ पर बिठाया।   The crow made the mouse sit on his back to take him to the pond to meet Mantharak the turtle.",
-      "keywords": [
-        "पीठ   Back",
-        "मन्थरक   Mantharak",
-        "तालाब   Pond"
-      ],
-      "marks": 1,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "यात्रा",
-      "learning_outcome": "Student understands the context of events in the story."
-    },
-    {
-      "question_no": 15,
-      "question": "व्याध ने मन्थरक को जमीन पर क्यों रख दिया?   Why did the hunter put Mantharak on the ground?",
-      "model_answer": "व्याध ने मन्थरक को जमीन पर इसलिए रख दिया क्योंकि उसे लगा कि हिरन मर गया है और वह उसे पकड़ना चाहता था।   The hunter put Mantharak on the ground because he thought the deer was dead and he wanted to catch it.",
-      "keywords": [
-        "व्याध   Hunter",
-        "मन्थरक   Mantharak",
-        "हिरन   Deer"
-      ],
-      "marks": 1,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "मन्थरक की मुक्ति",
-      "learning_outcome": "Student explains the cause and effect of an action."
-    },
-    {
-      "question_no": 16,
-      "question": "पिताजी ने लाठी घुमाकर रोशनदान से क्या खदेड़ दिया?   What did the father chase away from the ventilator by swinging the stick?",
-      "model_answer": "पिताजी ने लाठी घुमाकर रोशनदान से गौरैयों को खदेड़ दिया।   The father chased away the sparrows from the ventilator by swinging the stick.",
-      "keywords": [
-        "रोशनदान   Ventilator",
-        "लाठी   Stick",
-        "खदेड़ना   To chase away"
-      ],
-      "marks": 1,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "गौरैयों को भगाना",
-      "learning_outcome": "Student recalls minor details of the plot."
-    },
-    {
-      "question_no": 17,
-      "question": "पिताजी ने अपने घर को सराय क्यों कहा?   Why did the father call his house an inn?",
-      "model_answer": "पिताजी ने घर को सराय इसलिए कहा क्योंकि वहाँ चूहे, चमगादड़, छिपकलियाँ और पक्षियों जैसे कई जीव अपनी मर्जी से रहते थे, मानो वे ही असली मालिक हों।   The father called the house an inn because many creatures like mice, bats, lizards, and birds lived there freely, as if they were the real owners.",
-      "keywords": [
-        "सराय   Inn",
-        "जीव   Creatures",
-        "मालिक   Owner"
-      ],
-      "marks": 2,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "कहानी का आरंभ",
-      "learning_outcome": "Student infers the reason behind a character's statement."
-    },
-    {
-      "question_no": 18,
-      "question": "गौरैयों को भगाने के पिताजी के प्रयासों पर माँ की क्या प्रतिक्रिया थी?   What was the mother's reaction to the father's efforts to shoo away the sparrows?",
-      "model_answer": "माँ पिताजी के प्रयासों पर हँसती थीं, उन पर व्यंग्य करती थीं और कहती थीं कि वे इन पक्षियों को नहीं निकाल पाएँगे।   The mother used to laugh at the father's efforts, mocked him, and said that he wouldn't be able to throw these birds out.",
-      "keywords": [
-        "प्रयास   Efforts",
-        "व्यंग्य   Satire",
-        "हँसती   Laughing"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "माता-पिता का व्यवहार",
-      "learning_outcome": "Student analyzes the dynamics between characters."
-    },
-    {
-      "question_no": 19,
-      "question": "जब गौरैयों ने घोंसला बनाया, तब पिताजी ने उन्हें भगाने के लिए सबसे पहले क्या किया?   When the sparrows built the nest, what did the father do first to drive them away?",
-      "model_answer": "पिताजी फौरन उठ खड़े हुए और पंखे के नीचे जाकर जोर से ताली बजाई और मुँह से 'श...शू' करते हुए कूदने लगे।   The father immediately stood up, went under the fan, clapped loudly, and started jumping while making a 'sh...shoo' sound with his mouth.",
-      "keywords": [
-        "ताली बजाई   Clapped",
-        "कूदने लगे   Started jumping",
-        "भगाना   Drive away"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "गौरैयों को भगाना",
-      "learning_outcome": "Student sequences the initial actions of a character."
-    },
-    {
-      "question_no": 20,
-      "question": "घोंसला टूट जाने के बाद दोनों गौरैयों की हालत कैसी लग रही थी?   How did the two sparrows look after their nest was destroyed?",
-      "model_answer": "घोंसला टूट जाने के बाद दोनों गौरैयाँ चुपचाप दीवार पर बैठी थीं, वे कुछ दुबली और काली पड़ गई थीं तथा चहक भी नहीं रही थीं।   After the nest was broken, the two sparrows sat quietly on the wall, they looked somewhat weak and black, and were not even chirping.",
-      "keywords": [
-        "चुपचाप   Quietly",
-        "दुबली   Weak",
-        "काली   Black"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "गौरैयों की स्थिति",
-      "learning_outcome": "Student interprets the physical description reflecting the mood."
-    },
-    {
-      "question_no": 21,
-      "question": "'दो गौरैया' कहानी का मुख्य विषय क्या है?   What is the main theme of the story 'Do Gauraiya'?",
-      "model_answer": "'दो गौरैया' कहानी का मुख्य विषय मानव और प्रकृति (पक्षियों) के बीच सह-अस्तित्व और पिताजी के हृदय परिवर्तन को हास्यपूर्ण तरीके से दर्शाना है।   The main theme of the story 'Do Gauraiya' is to humorously depict the coexistence between humans and nature (birds) and the change of heart in the father.",
-      "keywords": [
-        "सह-अस्तित्व   Coexistence",
-        "हृदय परिवर्तन   Change of heart",
-        "हास्यपूर्ण   Humorous"
-      ],
-      "marks": 2,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "कहानी का संदेश",
-      "learning_outcome": "Student identifies the central theme of the story."
-    },
-    {
-      "question_no": 22,
-      "question": "कहानी के अंत में पिताजी के दृष्टिकोण में क्या बदलाव आया?   What change came in the father's attitude at the end of the story?",
-      "model_answer": "अंत में पिताजी का गुस्सा शांत हो गया। उन्होंने पक्षियों को स्वीकार कर लिया और उन्हें देखकर मुस्कुराने लगे, जिससे उनका दयालु स्वभाव प्रकट हुआ।   In the end, the father's anger subsided. He accepted the birds and started smiling at them, which revealed his kind nature.",
-      "keywords": [
-        "दृष्टिकोण   Attitude",
-        "स्वीकार   Accepted",
-        "मुस्कुराने   Smiling"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "पिताजी का हृदय परिवर्तन",
-      "learning_outcome": "Student evaluates the character arc."
-    },
-    {
-      "question_no": 23,
-      "question": "गौरैयों की आबादी तेजी से क्यों लुप्त हो रही है? (कोई दो कारण बताएँ)   Why is the sparrow population disappearing rapidly? (Give any two reasons)",
-      "model_answer": "गौरैयों की आबादी कम होने के कारण हैं: 1. सीसा रहित पेट्रोल का उपयोग जिससे कीड़े जहरीले हो जाते हैं, 2. आधुनिक इमारतों में घोंसला बनाने के लिए जगह की कमी।   The reasons for the decline in sparrow population are: 1. Use of unleaded petrol which makes insects toxic, 2. Lack of space for building nests in modern buildings.",
-      "keywords": [
-        "लुप्त   Disappearing",
-        "आधुनिक इमारतें   Modern buildings",
-        "जहरीले कीड़े   Toxic insects"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "विश्व गौरैया दिवस",
-      "learning_outcome": "Student lists causes of environmental issues."
-    },
-    {
-      "question_no": 24,
-      "question": "भीष्म साहनी को भारत सरकार और साहित्य अकादमी द्वारा कौन-कौन से सम्मान दिए गए?   Which honors were given to Bhisham Sahni by the Government of India and the Sahitya Akademi?",
-      "model_answer": "भीष्म साहनी को 'तमस' के लिए साहित्य अकादमी पुरस्कार मिला और भारत सरकार ने उन्हें 'पद्म भूषण' से अलंकृत किया।   Bhisham Sahni received the Sahitya Akademi Award for 'Tamas' and the Government of India honored him with the 'Padma Bhushan'.",
-      "keywords": [
-        "साहित्य अकादमी   Sahitya Akademi",
-        "पद्म भूषण   Padma Bhushan",
-        "सम्मान   Honors"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "लेखक परिचय",
-      "learning_outcome": "Student retrieves factual bio data."
-    },
-    {
-      "question_no": 25,
-      "question": "लोभ के कारण चित्रग्रीव के कबूतरों के दल ने क्या किया?   What did Chitragreev's flock of pigeons do due to greed?",
-      "model_answer": "लोभ के कारण कबूतरों के दल ने कौवे की चेतावनी नहीं मानी और दाने चुगने के लालच में जमीन पर उतरकर जाल में फँस गए।   Due to greed, the flock of pigeons did not heed the crow's warning, flew down to peck the grains, and got trapped in the net.",
-      "keywords": [
-        "लोभ   Greed",
-        "चेतावनी   Warning",
-        "जाल   Net"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "कबूतरों का फँसना",
-      "learning_outcome": "Student explains the consequence of a negative trait."
-    },
-    {
-      "question_no": 26,
-      "question": "लघुपतनक कौवे ने अन्य पक्षियों को क्या चेतावनी दी थी?   What warning did the crow Laghupatanak give to the other birds?",
-      "model_answer": "कौवे ने चेतावनी दी कि व्याध द्वारा बिखेरे गए अनाज के दानों को जहर के समान समझें और चुगने के लालच में न फँसें।   The crow warned them to consider the grain seeds scattered by the hunter as poison and not fall into the trap of pecking them.",
-      "keywords": [
-        "चेतावनी   Warning",
-        "अनाज के दाने   Grain seeds",
-        "जहर   Poison"
-      ],
-      "marks": 2,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "व्याध का आगमन",
-      "learning_outcome": "Student understands the advice given by a character."
-    },
-    {
-      "question_no": 27,
-      "question": "चित्रग्रीव और उसके साथी जाल से कैसे उड़े?   How did Chitragreev and his companions fly with the net?",
-      "model_answer": "चित्रग्रीव की सलाह पर सभी कबूतर डरे नहीं, बल्कि एकजुट होकर पूरी शक्ति लगाकर एक साथ जाल समेत उड़ गए।   On Chitragreev's advice, all the pigeons did not panic; instead, they united and flew together with their full strength carrying the net.",
-      "keywords": [
-        "एकजुट   United",
-        "पूरी शक्ति   Full strength",
-        "उड़ गए   Flew away"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "कबूतरों की मुक्ति",
-      "learning_outcome": "Student outlines the method of escape."
-    },
-    {
-      "question_no": 28,
-      "question": "चित्रग्रीव ने चूहे से पहले अपने साथियों के बंधन काटने को क्यों कहा?   Why did Chitragreev ask the mouse to cut his companions' ties first?",
-      "model_answer": "चित्रग्रीव ने कहा कि वे उसके अनुचर हैं और उन पर आश्रित हैं, इसलिए एक राजा (नायक) के रूप में यह उसका धर्म है कि वह पहले उनकी सुख-सुविधा का ध्यान रखे।   Chitragreev said they were his followers and dependent on him, so as a king (leader), it was his duty (dharma) to ensure their well-being first.",
-      "keywords": [
-        "अनुचर   Followers",
-        "धर्म   Duty/Dharma",
-        "सुख-सुविधा   Well-being"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "मित्रता और धर्म",
-      "learning_outcome": "Student interprets the moral values of a leader."
-    },
-    {
-      "question_no": 29,
-      "question": "लघुपतनक, हिरण्यक से मित्रता क्यों करना चाहता था?   Why did Laghupatanak want to make friends with Hiranyak?",
-      "model_answer": "लघुपतनक, हिरण्यक के कौशल (जाल काटने) और उसकी सज्जनता पर मुग्ध हो गया था, इसलिए वह उससे मित्रता करना चाहता था।   Laghupatanak was mesmerized by Hiranyak's skill (cutting the net) and his nobility, so he wanted to make friends with him.",
-      "keywords": [
-        "मित्रता   Friendship",
-        "कौशल   Skill",
-        "सज्जनता   Nobility"
-      ],
-      "marks": 2,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "मित्रता की शुरुआत",
-      "learning_outcome": "Student identifies motivations for relationship building."
-    },
-    {
-      "question_no": 30,
-      "question": "शुरुआत में हिरण्यक ने कौवे की मित्रता का प्रस्ताव क्यों ठुकरा दिया?   Why did Hiranyak initially reject the crow's friendship proposal?",
-      "model_answer": "हिरण्यक ने कहा कि कौआ उसका भोजनकर्ता है और वह उसका भोजन है, अतः दो स्वाभाविक शत्रुओं (सहज-वैरी) के बीच मित्रता नहीं हो सकती।   Hiranyak said that the crow is the eater and he is the food, hence friendship cannot exist between two natural enemies (sahaj-vairi).",
-      "keywords": [
-        "प्रस्ताव   Proposal",
-        "भोजन   Food",
-        "सहज-वैरी   Natural enemies"
-      ],
-      "marks": 2,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "मित्रता की शुरुआत",
-      "learning_outcome": "Student contrasts natural instincts with proposed relationships."
-    },
-    {
-      "question_no": 31,
-      "question": "कौआ और चूहा अपनी जगह छोड़कर मन्थरक के पास क्यों गए?   Why did the crow and mouse leave their place and go to Mantharak?",
-      "model_answer": "उस देश में अनावृष्टि (सूखे) के कारण अकाल पड़ गया था, जिससे दाना-पानी नहीं मिल रहा था, इसलिए वे पेट भरने के लिए मन्थरक के पास गए।   Due to lack of rain (drought), a famine had struck that country, making food and water scarce, so they went to Mantharak to feed themselves.",
-      "keywords": [
-        "अनावृष्टि   Drought",
-        "अकाल   Famine",
-        "पेट भरने   To feed"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "यात्रा",
-      "learning_outcome": "Student infers reasons for migration."
-    },
-    {
-      "question_no": 32,
-      "question": "चित्रांग हिरन तीनों मित्रों से कैसे मिला?   How did Chitrang the deer meet the three friends?",
-      "model_answer": "चित्रांग एक व्याध (शिकारी) से अपनी जान बचाकर भागते-हाँफते हुए तालाब के पास आया, जहाँ तीनों मित्र बातें कर रहे थे।   Chitrang came panting to the pond running for his life from a hunter, where the three friends were talking.",
-      "keywords": [
-        "व्याध   Hunter",
-        "भागते-हाँफते   Running and panting",
-        "तालाब   Pond"
-      ],
-      "marks": 2,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "चित्रांग का आगमन",
-      "learning_outcome": "Student summarizes how a new character is introduced."
-    },
-    {
-      "question_no": 33,
-      "question": "जाल में फँसा चित्रांग हिरन क्यों रो रहा था?   Why was Chitrang the deer crying when caught in the net?",
-      "model_answer": "चित्रांग को लगा कि अब उसकी मृत्यु निश्चित है, लेकिन मरने से पहले अपने मित्रों के दर्शन पाकर उसे बड़ी प्रसन्नता और भावुकता हो रही थी, इसलिए उसकी आँखों में आँसू थे।   Chitrang felt his death was certain, but seeing his friends before dying brought him great joy and emotion, which is why he had tears in his eyes.",
-      "keywords": [
-        "मृत्यु   Death",
-        "दर्शन   Sight/meeting",
-        "भावुकता   Emotion"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "चित्रांग का फँसना",
-      "learning_outcome": "Student analyzes the emotional state of a character."
-    },
-    {
-      "question_no": 34,
-      "question": "हिरण्यक ने चित्रांग हिरन को व्याध के जाल से कैसे बचाया?   How did Hiranyak save Chitrang the deer from the hunter's net?",
-      "model_answer": "लघुपतनक तुरंत हिरण्यक को अपनी पीठ पर बिठाकर वहाँ लाया, और हिरण्यक ने अपने तीखे दाँतों से जाल काटकर हिरन को आजाद कर दिया।   Laghupatanak immediately brought Hiranyak sitting on his back, and Hiranyak cut the net with his sharp teeth, freeing the deer.",
-      "keywords": [
-        "पीठ   Back",
-        "तीखे दाँतों   Sharp teeth",
-        "आजाद   Free"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "चित्रांग की मुक्ति",
-      "learning_outcome": "Student describes the rescue action."
-    },
-    {
-      "question_no": 35,
-      "question": "जब मन्थरक चिंता के मारे पानी से बाहर आया, तो उसके साथ क्या हुआ?   What happened to Mantharak when he came out of the water out of concern?",
-      "model_answer": "व्याध ने खाली जाल देखकर निराश होते हुए धीमे चलने वाले मन्थरक को देख लिया और उसे अपने भोजन के लिए पकड़कर जाल में बाँध लिया।   Seeing the empty net, the disappointed hunter spotted the slow-moving Mantharak and caught him for food, tying him in the net.",
-      "keywords": [
-        "खाली जाल   Empty net",
-        "निराश   Disappointed",
-        "बाँध लिया   Tied up"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "मन्थरक का फँसना",
-      "learning_outcome": "Student explains the consequence of an ill-timed action."
-    },
-    {
-      "question_no": 36,
-      "question": "मन्थरक को बचाने के लिए कौवे ने क्या उपाय सुझाया?   What plan did the crow suggest to save Mantharak?",
-      "model_answer": "कौवे ने कहा कि हिरन तालाब के किनारे मृत होने का नाटक करे और कौआ उसे चोंच मारे, ताकि व्याध कछुए को छोड़कर हिरन के पास आए।   The crow suggested that the deer should pretend to be dead near the pond and the crow would peck him, so the hunter would leave the turtle and come to the deer.",
-      "keywords": [
-        "मृत होने का नाटक   Pretend to be dead",
-        "चोंच मारे   Peck",
-        "उपाय   Plan"
-      ],
-      "marks": 2,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "मन्थरक की मुक्ति योजना",
-      "learning_outcome": "Student evaluates tactical planning in the story."
-    },
-    {
-      "question_no": 37,
-      "question": "क्या अंत में शिकारी हिरन को पकड़ने में सफल हुआ? क्यों?   Did the hunter successfully catch the deer in the end? Why?",
-      "model_answer": "नहीं, शिकारी हिरन को नहीं पकड़ सका क्योंकि जैसे ही वह पास आया, हिरन उठकर तेजी से घने जंगल में भाग गया।   No, the hunter could not catch the deer because as soon as he came near, the deer got up and ran quickly into the dense forest.",
-      "keywords": [
-        "सफल   Successful",
-        "घने जंगल   Dense forest",
-        "भाग गया   Ran away"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "कहानी का अंत",
-      "learning_outcome": "Student concludes the outcome of the plot."
-    },
-    {
-      "question_no": 38,
-      "question": "'मित्रलाभ' कहानी से हमें क्या शिक्षा मिलती है?   What moral do we learn from the story 'Mitralabh'?",
-      "model_answer": "इस कहानी से शिक्षा मिलती है कि मित्रता में बड़ी शक्ति होती है। एकजुट रहकर और मित्रों की सहायता से हम किसी भी विपत्ति का सामना कर सकते हैं।   The moral of this story is that there is great power in friendship. By staying united and with the help of friends, we can face any adversity.",
-      "keywords": [
-        "शिक्षा   Moral/Lesson",
-        "शक्ति   Power",
-        "विपत्ति   Adversity"
-      ],
-      "marks": 2,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "कहानी का संदेश",
-      "learning_outcome": "Student deduces the moral lesson of the narrative."
-    },
-    {
-      "question_no": 39,
-      "question": "पाठ के आधार पर 'व्यंग्य' का अर्थ क्या है?   What is the meaning of 'Vyangya' (satire) based on the text?",
-      "model_answer": "व्यंग्य का अर्थ है हँसी-मज़ाक या उपहास के माध्यम से किसी की कमी, बुराई या विडंबना को उजागर करना, जिसमें बात को उलटे ढंग से कहा जाता है।   Vyangya means exposing someone's flaw, evil, or irony through humor or mockery, where things are said in an inverted manner.",
-      "keywords": [
-        "व्यंग्य   Satire",
-        "हँसी-मज़ाक   Humor",
-        "उपहास   Mockery"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "भाषा अध्ययन",
-      "learning_outcome": "Student defines literary terms used in the context."
-    },
-    {
-      "question_no": 40,
-      "question": "लेखक के घर में रहने वाले किन्हीं चार जीवों (पशु-पक्षियों) के नाम लिखिए।   Write the names of any four animals/birds living in the author's house.",
-      "model_answer": "लेखक के घर में रहने वाले जीव हैं: चूहे, चमगादड़, छिपकलियाँ और कबूतर (या गौरैया, बिल्लियाँ)।   The creatures living in the author's house are: mice, bats, lizards, and pigeons (or sparrows, cats).",
-      "keywords": [
-        "चूहे   Mice",
-        "चमगादड़   Bats",
-        "छिपकलियाँ   Lizards",
-        "कबूतर   Pigeons"
-      ],
-      "marks": 2,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "घर के प्राणी",
-      "learning_outcome": "Student lists elements from the text accurately."
-    },
-    {
-      "question_no": 41,
-      "question": "लेखक के घर में जीवों के कारण कैसा उथल-पुथल भरा माहौल रहता था?   What kind of chaotic environment prevailed in the author's house due to the creatures?",
-      "model_answer": "घर में बीसियों चूहे रात भर भागते थे, बर्तन गिरते थे। चमगादड़ कसरत करते थे, कबूतर 'गुटर-गूँ' करते थे, और छिपकलियों-चींटियों की फौज रहती थी, जिससे लोगों की नींद खराब होती थी।   Dozens of mice ran all night in the house, utensils fell. Bats exercised, pigeons cooed, and an army of lizards and ants lived there, which ruined people's sleep.",
-      "keywords": [
-        "उथल-पुथल   Chaotic",
-        "भागते   Running",
-        "नींद खराब   Ruined sleep"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "घर का माहौल",
-      "learning_outcome": "Student describes the setting in detail."
-    },
-    {
-      "question_no": 42,
-      "question": "पिताजी ने गौरैयों को कमरे से बाहर निकालने के लिए कौन-कौन से शारीरिक प्रयास किए?   What physical efforts did the father make to get the sparrows out of the room?",
-      "model_answer": "पिताजी ने लाठी लेकर गौरैयों पर हमला किया, रोशनदान में कपड़ा ठूँसा, और लाठी झुलाकर उन्हें खदेड़ने की कोशिश की। उन्होंने दरवाज़े भी बंद करवा दिए थे।   The father attacked the sparrows with a stick, stuffed cloth in the ventilator, and tried to chase them away by swinging the stick. He also had the doors closed.",
-      "keywords": [
-        "शारीरिक प्रयास   Physical efforts",
-        "लाठी   Stick",
-        "रोशनदान   Ventilator"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "गौरैयों को भगाना",
-      "learning_outcome": "Student details a character's sequential actions."
-    },
-    {
-      "question_no": 43,
-      "question": "“माँ मदद तो करती नहीं थीं, बैठी हँसे जा रही थीं।” माँ पिताजी पर क्यों हँस रही थीं?   'Mother was not helping, but laughing.' Why was the mother laughing at the father?",
-      "model_answer": "माँ को पिताजी का ताली बजाकर और 'श...शू' करके कूदना बड़ा मजाकिया लग रहा था। वे जानती थीं कि पिताजी का गुस्सा व्यर्थ है और वे इन पक्षियों को नहीं निकाल पाएँगे।   The mother found the father's clapping and jumping while saying 'sh...shoo' very funny. She knew that father's anger was useless and he wouldn't be able to remove these birds.",
-      "keywords": [
-        "मदद   Help",
-        "मजाकिया   Funny",
-        "व्यर्थ   Useless"
-      ],
-      "marks": 3,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "माता-पिता का व्यवहार",
-      "learning_outcome": "Student analyzes a character's attitude and motivation."
-    },
-    {
-      "question_no": 44,
-      "question": "पिताजी द्वारा गौरैयों का घोंसला तोड़ने के दृश्य का वर्णन कीजिए।   Describe the scene of the father destroying the sparrows' nest.",
-      "model_answer": "पिताजी ने पंखे के नीचे स्टूल रखा, उस पर चढ़कर लाठी के सिरे को घोंसले के तिनकों पर जमाया और घुमाने लगे। तिनके लाठी में लिपटते गए और अंततः घोंसला टूटकर नीचे आ गिरा।   The father placed a stool under the fan, climbed on it, fixed the tip of the stick on the nest's straws, and started rotating it. The straws wrapped around the stick and eventually the nest broke and fell down.",
-      "keywords": [
-        "स्टूल   Stool",
-        "तिनके   Straws",
-        "लिपटते   Wrapped"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "घोंसला तोड़ना",
-      "learning_outcome": "Student visualizes and describes a specific event."
-    },
-    {
-      "question_no": 45,
-      "question": "“मैंने समझ लिया कि उन्हें अक्ल आ गई होगी।” लेखक ने ऐसा क्यों सोचा और क्या वह सही था?   'I understood that they must have learned their lesson.' Why did the author think so, and was he right?",
-      "model_answer": "रात के समय आँगन में गौरैयों को न देखकर लेखक ने सोचा कि वे हार मानकर कहीं और चली गई हैं। लेकिन वह गलत था, क्योंकि वे अगले दिन फिर वापस आ गई थीं।   Not seeing the sparrows in the courtyard at night, the author thought they had accepted defeat and gone elsewhere. But he was wrong, because they returned the next day.",
-      "keywords": [
-        "अक्ल   Lesson/sense",
-        "हार मानकर   Accepting defeat",
-        "वापस   Returned"
-      ],
-      "marks": 3,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "लेखक की सोच",
-      "learning_outcome": "Student evaluates a character's assumption against the plot."
-    },
-    {
-      "question_no": 46,
-      "question": "घोंसला टूटने के बाद जब गौरैयाँ वापस पंखे पर आ गईं, तो पिताजी के व्यवहार में क्या परिवर्तन दिखा?   When the sparrows returned to the fan after the nest was destroyed, what change was seen in the father's behavior?",
-      "model_answer": "पिताजी स्तब्ध रह गए, उनके हाथ से लाठी छूट गई। वे चुपचाप स्टूल से उतरकर कुर्सी पर बैठ गए और चीं-चीं करती गौरैयों को देखकर गुस्सा करने के बजाय मुस्कुराने लगे।   The father was stunned, the stick slipped from his hands. He quietly got down from the stool, sat on the chair, and instead of getting angry, started smiling seeing the chirping sparrows.",
-      "keywords": [
-        "स्तब्ध   Stunned",
-        "मुस्कुराने   Smiling",
-        "परिवर्तन   Change"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "पिताजी का हृदय परिवर्तन",
-      "learning_outcome": "Student interprets behavioral shifts in characters."
-    },
-    {
-      "question_no": 47,
-      "question": "लेखक भीष्म साहनी के साहित्यिक योगदान और उपलब्धियों पर संक्षिप्त टिप्पणी लिखिए।   Write a short note on the literary contribution and achievements of the author Bhisham Sahni.",
-      "model_answer": "भीष्म साहनी हिंदी साहित्य के प्रसिद्ध लेखक थे। उनकी कहानियों में मानवीय मूल्यों की अभिव्यक्ति है। उन्हें 'तमस' के लिए साहित्य अकादमी और भारत सरकार से 'पद्म भूषण' मिला। बच्चों के लिए उन्होंने 'गुलेल का खेल' जैसी कहानियाँ लिखीं।   Bhisham Sahni was a famous writer of Hindi literature. His stories express human values. He received the Sahitya Akademi for 'Tamas' and 'Padma Bhushan' from the Govt of India. He wrote stories like 'Gulel Ka Khel' for children.",
-      "keywords": [
-        "योगदान   Contribution",
-        "मानवीय मूल्य   Human values",
-        "साहित्य अकादमी   Sahitya Akademi"
-      ],
-      "marks": 3,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "लेखक परिचय",
-      "learning_outcome": "Student summarizes biographical information."
-    },
-    {
-      "question_no": 48,
-      "question": "विश्व गौरैया दिवस का महत्व और गौरैयों की वर्तमान स्थिति स्पष्ट कीजिए।   Explain the importance of World Sparrow Day and the current situation of sparrows.",
-      "model_answer": "20 मार्च को मनाया जाने वाला यह दिवस गौरैयों के संरक्षण के प्रति जागरूकता बढ़ाता है। वर्तमान में शहरीकरण, कीटनाशकों और सीसा रहित पेट्रोल के कारण यह प्रजाति तेजी से लुप्त हो रही है और अब मुश्किल से दिखाई देती है।   Celebrated on March 20, this day raises awareness for the conservation of sparrows. Currently, due to urbanization, pesticides, and unleaded petrol, this species is disappearing rapidly and is now rarely seen.",
-      "keywords": [
-        "जागरूकता   Awareness",
-        "संरक्षण   Conservation",
-        "लुप्त   Disappearing"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "विश्व गौरैया दिवस",
-      "learning_outcome": "Student relates text information to real-world issues."
-    },
-    {
-      "question_no": 49,
-      "question": "जाल में फँसने के बाद चित्रग्रीव ने अपने घबराए हुए साथियों को क्या समझाया?   What did Chitragreev explain to his panicked companions after being caught in the net?",
-      "model_answer": "चित्रग्रीव ने समझाया कि डरने की जरूरत नहीं है, बल्कि एकजुट होकर पूरी शक्ति के साथ जाल समेत उड़ जाना चाहिए। एकता से ही वे शिकारी की पहुँच से दूर हो सकेंगे।   Chitragreev explained that there is no need to fear, rather they should unite and fly away with the net using full strength. Only through unity could they get out of the hunter's reach.",
-      "keywords": [
-        "घबराए   Panicked",
-        "एकजुट   Unite",
-        "शिकारी   Hunter"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "कबूतरों की मुक्ति",
-      "learning_outcome": "Student paraphrases dialogue demonstrating leadership."
-    },
-    {
-      "question_no": 50,
-      "question": "“लोभ से विवेकशक्ति नष्ट हो जाती है।” कबूतरों के संदर्भ में इस कथन को स्पष्ट कीजिए।   'Greed destroys the power of intellect.' Explain this statement in the context of the pigeons.",
-      "model_answer": "कबूतरों ने कौवे की चेतावनी को अनदेखा किया। उन्हें अनाज के दानों का ऐसा लोभ हुआ कि वे खतरे को समझ नहीं पाए और जमीन पर उतरकर जाल में फँस गए, जो उनकी नष्ट हुई विवेकशक्ति को दर्शाता है।   The pigeons ignored the crow's warning. They were so greedy for the grains that they failed to understand the danger and flew down to get trapped in the net, demonstrating their destroyed intellect.",
-      "keywords": [
-        "लोभ   Greed",
-        "विवेकशक्ति   Power of intellect",
-        "नष्ट   Destroyed"
-      ],
-      "marks": 3,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "कबूतरों का फँसना",
-      "learning_outcome": "Student justifies a moral statement using plot events."
-    },
-    {
-      "question_no": 51,
-      "question": "जाल में फँसे चित्रग्रीव और चूहे हिरण्यक के बीच क्या बातचीत हुई?   What conversation took place between the trapped Chitragreev and the mouse Hiranyak?",
-      "model_answer": "हिरण्यक ने दुखित होकर पूछा कि यह विपत्ति कैसे आई। चित्रग्रीव ने बताया कि लालच के कारण वे फँस गए हैं। जब हिरण्यक ने चित्रग्रीव का जाल काटना चाहा, तो चित्रग्रीव ने पहले अपने साथियों को मुक्त करने का आग्रह किया।   Hiranyak sadly asked how this disaster struck. Chitragreev replied that they got trapped due to greed. When Hiranyak wanted to cut Chitragreev's net, Chitragreev insisted on freeing his companions first.",
-      "keywords": [
-        "विपत्ति   Disaster",
-        "लालच   Greed",
-        "आग्रह   Insisted"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "मित्रता और धर्म",
-      "learning_outcome": "Student summarizes key dialogue exchanges."
-    },
-    {
-      "question_no": 52,
-      "question": "हिरण्यक ने सहज वैर और कृत्रिम वैर में क्या अंतर बताया?   What difference did Hiranyak state between natural enmity and artificial enmity?",
-      "model_answer": "हिरण्यक के अनुसार, जो वैर किसी कारण से होता है वह कृत्रिम होता है और कारण दूर होने पर समाप्त हो सकता है। परंतु सहज (स्वाभाविक) वैर बिना कारण होता है, जैसे चूहे और कौवे का, जो कभी समाप्त नहीं हो सकता।   According to Hiranyak, enmity caused by a reason is artificial and can end when the reason is resolved. But natural enmity is without reason, like that of a mouse and a crow, which can never end.",
-      "keywords": [
-        "कृत्रिम वैर   Artificial enmity",
-        "सहज वैर   Natural enmity",
-        "कारण   Reason"
-      ],
-      "marks": 3,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "मित्रता की शुरुआत",
-      "learning_outcome": "Student differentiates between conceptual ideas presented."
-    },
-    {
-      "question_no": 53,
-      "question": "लघुपतनक और हिरण्यक के बीच घनिष्ठ मित्रता कैसे विकसित हुई?   How did a close friendship develop between Laghupatanak and Hiranyak?",
-      "model_answer": "लघुपतनक के बार-बार अनुरोध करने और यह शपथ लेने पर कि वह बिल में प्रवेश नहीं करेगा, हिरण्यक मान गया। फिर दोनों रोज़ बातें करने लगे और एक-दूसरे को भोजन देने लगे, जिससे उनकी मित्रता गहरी हो गई।   After Laghupatanak's repeated requests and taking an oath not to enter the hole, Hiranyak agreed. Then they started talking daily and sharing food, which deepened their friendship.",
-      "keywords": [
-        "अनुरोध   Requests",
-        "शपथ   Oath",
-        "घनिष्ठ   Close"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "मित्रता की शुरुआत",
-      "learning_outcome": "Student traces the development of a relationship."
-    },
-    {
-      "question_no": 54,
-      "question": "कौआ और चूहा अपनी जगह छोड़कर कैसे और कहाँ गए?   How and where did the crow and the mouse go leaving their place?",
-      "model_answer": "अकाल के कारण वे अपना स्थान छोड़ने को मजबूर हुए। कौवे ने चूहे को अपनी पीठ पर बिठाया और उड़कर दक्षिण दिशा में एक तालाब के पास पहुँचे, जहाँ कौवे का मित्र मन्थरक कछुआ रहता था।   Due to famine, they were forced to leave their place. The crow made the mouse sit on his back and flew towards the south to a pond, where the crow's friend Mantharak the turtle lived.",
-      "keywords": [
-        "मजबूर   Forced",
-        "दक्षिण दिशा   South direction",
-        "कछुआ   Turtle"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "यात्रा",
-      "learning_outcome": "Student details plot progression logically."
-    },
-    {
-      "question_no": 55,
-      "question": "शिकारी से बचकर आए हिरन से मन्थरक ने क्या कहा?   What did Mantharak say to the deer who had escaped from the hunter?",
-      "model_answer": "मन्थरक ने हिरन को घने जंगल में जाने की सलाह दी। जब कौवे ने बताया कि शिकारी दूसरी दिशा में चला गया है, तो मन्थरक ने हिरन को सांत्वना दी और कहा कि वह डरे नहीं तथा उनके साथ ही रहे।   Mantharak advised the deer to go into the dense forest. When the crow said the hunter had gone the other way, Mantharak consoled the deer and told him not to fear and stay with them.",
-      "keywords": [
-        "सांत्वना   Consoled",
-        "घने जंगल   Dense forest",
-        "सलाह   Advice"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "चित्रांग का आगमन",
-      "learning_outcome": "Student explains character interactions."
-    },
-    {
-      "question_no": 56,
-      "question": "चित्रांग के शाम तक न लौटने पर मित्रों को क्या चिंता सताने लगी?   What worry plagued the friends when Chitrang did not return by evening?",
-      "model_answer": "जब चित्रांग शाम तक वापस नहीं आया, तो तीनों मित्रों को संदेह होने लगा कि कहीं वह शिकारी के जाल में तो नहीं फँस गया, या किसी शेर-बाघ ने उस पर हमला तो नहीं कर दिया।   When Chitrang didn't return by evening, the three friends started doubting whether he got caught in a hunter's net, or if a lion or tiger had attacked him.",
-      "keywords": [
-        "संदेह   Doubting",
-        "शिकारी के जाल   Hunter's net",
-        "हमला   Attacked"
-      ],
-      "marks": 3,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "चित्रांग का फँसना",
-      "learning_outcome": "Student expresses the empathy among characters."
-    },
-    {
-      "question_no": 57,
-      "question": "लघुपतनक ने चित्रांग को कैसे खोजा और उसे देखकर क्या किया?   How did Laghupatanak find Chitrang and what did he do upon seeing him?",
-      "model_answer": "मन्थरक की सलाह पर कौआ उड़कर खोजने गया। उसने देखा कि चित्रांग जाल में बँधा है। कौवे ने पास जाकर उसे सांत्वना दी और कहा कि घबराओ मत, मैं हिरण्यक को बुलाकर लाता हूँ जो जाल काट देगा।   On Mantharak's advice, the crow flew to search. He saw Chitrang tied in a net. The crow went near, consoled him, and said not to panic, he would fetch Hiranyak who would cut the net.",
-      "keywords": [
-        "खोजा   Found/Searched",
-        "सांत्वना   Consoled",
-        "घबराओ मत   Don't panic"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "चित्रांग का फँसना",
-      "learning_outcome": "Student outlines steps taken in a crisis."
-    },
-    {
-      "question_no": 58,
-      "question": "मन्थरक व्याध की पकड़ में कैसे आ गया?   How did Mantharak get caught by the hunter?",
-      "model_answer": "चित्रांग को बचाने के लिए मन्थरक भी चिंता में वहाँ आ गया था। जब व्याध ने देखा कि हिरन भाग गया है, तो निराश होकर उसने धीरे-धीरे चलने वाले मन्थरक को पकड़ लिया और कंधे पर डाल लिया।   Out of concern, Mantharak had also come there to save Chitrang. When the hunter saw that the deer had escaped, in disappointment, he caught the slow-moving Mantharak and put him on his shoulder.",
-      "keywords": [
-        "चिंता   Concern",
-        "निराश   Disappointment",
-        "कंधे   Shoulder"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "मन्थरक का फँसना",
-      "learning_outcome": "Student describes unintended consequences of actions."
-    },
-    {
-      "question_no": 59,
-      "question": "मन्थरक को व्याध से बचाने की योजना कैसे क्रियान्वित हुई?   How was the plan to save Mantharak from the hunter executed?",
-      "model_answer": "हिरन तालाब के पास मृत होकर लेट गया और कौआ उस पर चोंच मारने लगा। यह देखकर व्याध ने कछुए को ज़मीन पर रख दिया। तभी चूहे ने कछुए का जाल काट दिया और चारों मित्र सुरक्षित भाग निकले।   The deer lay dead near the pond and the crow started pecking him. Seeing this, the hunter put the turtle on the ground. Just then, the mouse cut the turtle's net, and all four friends escaped safely.",
-      "keywords": [
-        "क्रियान्वित   Executed",
-        "मृत   Dead",
-        "सुरक्षित   Safely"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "मन्थरक की मुक्ति योजना",
-      "learning_outcome": "Student explains a coordinated sequence of events."
-    },
-    {
-      "question_no": 60,
-      "question": "'मित्रलाभ' कहानी टीमवर्क (सामूहिक प्रयास) के महत्व को कैसे दर्शाती है?   How does the story 'Mitralabh' highlight the importance of teamwork (collective effort)?",
-      "model_answer": "कहानी दिखाती है कि जब कबूतरों ने एक साथ ज़ोर लगाया तो वे जाल लेकर उड़ गए। अंत में भी, कौवे की योजना, हिरन के नाटक, और चूहे के दाँतों के सामूहिक प्रयास से ही कछुए की जान बची।   The story shows that when the pigeons exerted force together, they flew away with the net. In the end too, it was the collective effort of the crow's plan, deer's acting, and mouse's teeth that saved the turtle's life.",
-      "keywords": [
-        "सामूहिक प्रयास   Collective effort",
-        "योजना   Plan",
-        "जान बची   Saved life"
-      ],
-      "marks": 3,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "कहानी का संदेश",
-      "learning_outcome": "Student synthesizes themes from multiple events."
-    },
-    {
-      "question_no": 61,
-      "question": "'दो गौरैया' कहानी से हास्य के तीन उदाहरण लिखिए।   Write down three examples of humor from the story 'Do Gauraiya'.",
-      "model_answer": "1. पिताजी का ताली बजाकर और 'श...शू' करके नाचना, 2. माँ का पिताजी पर व्यंग्य कसना कि 'चूहों को तो निकाल नहीं पाए, चिड़ियों को निकालेंगे', 3. लाठी घुमाते समय माँ के सिर पर लाठी लगने से बचना।   1. Father's dancing while clapping and saying 'sh..shoo', 2. Mother mocking father saying 'couldn't remove mice, will remove birds', 3. Stick nearly hitting mother's head while swinging.",
-      "keywords": [
-        "हास्य   Humor",
-        "नाचना   Dancing",
-        "लाठी लगने से बचना   Avoiding getting hit by stick"
-      ],
-      "marks": 3,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "हास्य और व्यंग्य",
-      "learning_outcome": "Student extracts evidence for literary tone."
-    },
-    {
-      "question_no": 62,
-      "question": "'दो गौरैया' कहानी में माँ और पिताजी के चरित्र की तुलना कीजिए।   Compare the characters of the mother and the father in the story 'Do Gauraiya'.",
-      "model_answer": "पिताजी गुस्सैल और अशांत दिखते हैं जो घर में अनुशासन चाहते हैं, लेकिन उनका हृदय कोमल है। दूसरी ओर, माँ शांत, समझदार और मजाकिया हैं; वे पक्षियों से सहानुभूति रखती हैं और पिताजी के क्रोध को व्यंग्य से सँभालती हैं।   The father appears short-tempered and restless, wanting discipline at home, but has a soft heart. On the other hand, the mother is calm, understanding, and humorous; she sympathizes with the birds and handles father's anger with satire.",
-      "keywords": [
-        "तुलना   Compare",
-        "अनुशासन   Discipline",
-        "सहानुभूति   Sympathizes"
-      ],
-      "marks": 3,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "चरित्र चित्रण",
-      "learning_outcome": "Student compares and contrasts central characters."
-    },
-    {
-      "question_no": 63,
-      "question": "चूहे हिरण्यक के चरित्र का विश्लेषण कीजिए।   Analyze the character of Hiranyak the mouse.",
-      "model_answer": "हिरण्यक एक चतुर, सतर्क और निष्ठावान मित्र है। वह पहले प्राकृतिक वैर के प्रति सावधान रहता है, परंतु मित्रता होने पर अपनी पूरी जान लगाकर मित्रों (कबूतरों, हिरन और कछुए) के प्राण बचाता है।   Hiranyak is a clever, alert, and loyal friend. He is initially cautious about natural enmity, but once befriended, he puts his life on the line to save his friends (pigeons, deer, and turtle).",
-      "keywords": [
-        "विश्लेषण   Analyze",
-        "निष्ठावान   Loyal",
-        "सतर्क   Alert"
-      ],
-      "marks": 3,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "मित्रलाभ के पात्र",
-      "learning_outcome": "Student writes a brief character sketch based on actions."
-    },
-    {
-      "question_no": 64,
-      "question": "शिकारी से बचने के लिए चारों मित्रों की भूमिका को संक्षेप में बताइए।   Briefly outline the roles of the four friends in escaping the hunter.",
-      "model_answer": "कौवे ने योजना बनाई और हिरन को चोंच मारी; हिरन ने शिकारी को भटकाने के लिए मरने का नाटक किया; चूहे ने तीव्रता से कछुए का जाल काटा; और आज़ाद होते ही कछुआ तुरंत पानी में खिसक गया।   The crow made the plan and pecked the deer; the deer pretended to be dead to distract the hunter; the mouse quickly cut the turtle's net; and upon being freed, the turtle slipped into the water immediately.",
-      "keywords": [
-        "भूमिका   Roles",
-        "भटकाने   Distract",
-        "तीव्रता से   Quickly"
-      ],
-      "marks": 3,
-      "difficulty": "easy",
-      "question_type": "descriptive",
-      "topic": "मन्थरक की मुक्ति योजना",
-      "learning_outcome": "Student attributes specific plot functions to characters."
-    },
-    {
-      "question_no": 65,
-      "question": "'दो गौरैया' कहानी का अपने शब्दों में सारांश लिखिए और इसकी मुख्य घटनाओं पर प्रकाश डालिए।   Summarize the story 'Do Gauraiya' in your own words highlighting the main events.",
-      "model_answer": "कहानी में दो गौरैयाँ लेखक के घर के पंखे में घोंसला बनाती हैं। पिताजी उन्हें भगाने के लिए ताली बजाते हैं, दरवाज़े बंद करते हैं और लाठी से हमला करते हैं, जबकि माँ उन पर व्यंग्य कसती हैं। अंततः पिताजी लाठी से घोंसला तोड़ देते हैं। लेकिन जब गौरैयाँ वापस पंखे पर बैठ जाती हैं, तो पिताजी की कठोरता पिघल जाती है और वे मुस्कुराते हुए उन्हें स्वीकार कर लेते हैं।   In the story, two sparrows build a nest in the fan of the author's house. Father claps, closes doors, and attacks with a stick to drive them away, while mother mocks him. Finally, father destroys the nest with a stick. But when the sparrows sit on the fan again, father's strictness melts and he accepts them with a smile.",
-      "keywords": [
-        "सारांश   Summary",
-        "व्यंग्य   Mock/Satire",
-        "कठोरता पिघल जाती है   Strictness melts"
-      ],
-      "marks": 5,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "कहानी का सारांश",
-      "learning_outcome": "Student summarizes a whole narrative accurately."
-    },
-    {
-      "question_no": 66,
-      "question": "'दो गौरैया' में पिताजी स्वभाव से क्रूर दिखते हैं, लेकिन उनका हृदय कोमल है। पाठ के आधार पर इस कथन की पुष्टि कीजिए।   The father in 'Do Gauraiya' seems cruel by nature but has a soft heart. Justify this statement based on the text.",
-      "model_answer": "पिताजी का गौरैयों पर लाठी उठाना, घोंसला तोड़ना और दरवाजे बंद करना उनके क्रोधी और क्रूर स्वभाव को दर्शाता है। लेकिन जब उन्होंने देखा कि घर टूटने के बाद भी छोटी-छोटी गौरैयाँ वापस आ गई हैं, तो उनका दिल पिघल गया। वे हँस पड़े, लाठी छोड़ दी और दरवाजे खोल दिए, जो यह सिद्ध करता है कि वे भीतर से अत्यंत कोमल और संवेदनशील हैं।   Father raising a stick at the sparrows, breaking the nest, and closing doors shows his angry and cruel nature. But when he saw that even after their home was broken, the tiny sparrows returned, his heart melted. He laughed, left the stick, and opened the doors, which proves that he is very soft and sensitive inside.",
-      "keywords": [
-        "क्रूर   Cruel",
-        "कोमल   Soft",
-        "संवेदनशील   Sensitive"
-      ],
-      "marks": 5,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "चरित्र चित्रण",
-      "learning_outcome": "Student argues a character analysis using text evidence."
-    },
-    {
-      "question_no": 67,
-      "question": "पिताजी द्वारा गौरैयों को बेदखल करने के विभिन्न प्रयासों और उनकी विफलताओं का विस्तार से वर्णन कीजिए।   Describe in detail the various attempts made by the father to evict the sparrows and how they failed.",
-      "model_answer": "पिताजी ने सबसे पहले ताली बजाई और आवाज़ें निकालकर उन्हें डराया, पर वे नहीं उड़ीं। फिर उन्होंने दरवाजे बंद किए, लेकिन रसोई का दरवाज़ा खुला छूट गया। उन्होंने लाठी चलाई, जिससे एक बार माँ बाल-बाल बचीं और रोशनदान का शीशा टूट गया। रोशनदान में कपड़ा भी ठूँसा। अंत में उन्होंने स्टूल पर चढ़कर घोंसला नोच डाला। फिर भी, उनकी सहनशीलता के बावजूद, गौरैयाँ वापस आकर पंखे पर बैठ गईं और पिताजी हार मान गए।   First, father clapped and made sounds to scare them, but they didn't fly. Then he closed the doors, but the kitchen door was left open. He swung a stick, which nearly hit the mother once and broke the ventilator's glass. He also stuffed cloth in the ventilator. Finally, he climbed a stool and pulled down the nest. Yet, despite his endurance, the sparrows came back and sat on the fan, and father accepted defeat.",
-      "keywords": [
-        "बेदखल   Evict",
-        "विफलताओं   Failures",
-        "सहनशीलता   Endurance"
-      ],
-      "marks": 5,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "गौरैयों को भगाना",
-      "learning_outcome": "Student compiles a series of events chronologically."
-    },
-    {
-      "question_no": 68,
-      "question": "'दो गौरैया' कहानी में माँ की क्या भूमिका है? उनका दृष्टिकोण पिताजी से कैसे भिन्न है?   What role does the mother play in the story 'Do Gauraiya'? How does her attitude contrast with the father's?",
-      "model_answer": "कहानी में माँ एक दर्शक और हास्य पैदा करने वाली पात्र हैं। जहाँ पिताजी पक्षियों के प्रति आक्रामक और उतावले हैं, वहीं माँ शांत और धैर्यवान हैं। माँ को मालूम है कि पक्षियों को भगाना आसान नहीं है, इसलिए वे पिताजी की हर नाकाम कोशिश पर व्यंग्य करती हैं और हँसती हैं। माँ का दृष्टिकोण प्रकृति और जीवों के प्रति सहज स्वीकृति का है, जबकि पिताजी शुरुआत में उन्हें बेदखल करना चाहते हैं।   In the story, the mother is an observer and a character who creates humor. While the father is aggressive and impatient towards the birds, the mother is calm and patient. Mother knows it's not easy to drive birds away, so she uses satire and laughs at every failed attempt of the father. Mother's attitude is one of natural acceptance of nature and creatures, whereas the father initially wants to evict them.",
-      "keywords": [
-        "भूमिका   Role",
-        "भिन्न   Contrast/Different",
-        "सहज स्वीकृति   Natural acceptance"
-      ],
-      "marks": 5,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "माता-पिता का व्यवहार",
-      "learning_outcome": "Student evaluates contrasting character perspectives."
-    },
-    {
-      "question_no": 69,
-      "question": "शहरीकरण और आधुनिक जीवनशैली गौरैयों के लिए खतरा हैं। पाठ के आधार पर इस कथन पर चर्चा कीजिए।   Urbanization and modern lifestyle are a threat to sparrows. Discuss this statement based on the information provided in the lesson.",
-      "model_answer": "आधुनिक शहरीकरण ने गौरैयों के प्राकृतिक आवास छीन लिए हैं। नई इमारतों में ऐसे स्थान नहीं होते जहाँ गौरैयाँ घोंसला बना सकें, जिससे उन्हें अपने बच्चों को पालने में कठिनाई होती है। इसके अलावा, सीसा रहित पेट्रोल और हानिकारक रसायनों के उपयोग से जहरीले यौगिक पैदा होते हैं, जो उन कीड़ों को मार देते हैं या नुकसान पहुँचाते हैं जिन पर गौरैयाँ भोजन के लिए निर्भर हैं। यही कारण है कि उनकी आबादी तेज़ी से घट रही है।   Modern urbanization has snatched away the natural habitats of sparrows. New buildings do not have places where sparrows can build nests, making it difficult for them to raise their young. Furthermore, the use of unleaded petrol and harmful chemicals creates toxic compounds that kill or harm the insects on which sparrows depend for food. This is why their population is declining rapidly.",
-      "keywords": [
-        "शहरीकरण   Urbanization",
-        "खतरा   Threat",
-        "प्राकृतिक आवास   Natural habitats"
-      ],
-      "marks": 5,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "विश्व गौरैया दिवस",
-      "learning_outcome": "Student elaborates on socio-environmental themes."
-    },
-    {
-      "question_no": 70,
-      "question": "चित्रग्रीव और उसके दल की घटना का वर्णन कीजिए। इससे हमें क्या सीख मिलती है?   Narrate the incident of Chitragreev and his flock. What lesson do we learn from it?",
-      "model_answer": "व्याध ने ज़मीन पर दाने बिखेर कर जाल बिछाया था। कौवे की चेतावनी के बावजूद, चित्रग्रीव का दल दानों के लालच में उतर कर जाल में फँस गया। घबराने के बजाय चित्रग्रीव ने उन्हें एकजुट होकर उड़ने को कहा, और वे सब जाल समेत उड़कर चूहे के पास गए, जिसने उन्हें आज़ाद किया। इससे हमें यह सीख मिलती है कि लालच बुरी बला है, और संकट के समय घबराने के बजाय एकता और बुद्धि से काम लेना चाहिए।   The hunter had spread grains on the ground and laid a net. Despite the crow's warning, Chitragreev's flock flew down out of greed for the grains and got trapped. Instead of panicking, Chitragreev asked them to fly unitedly, and they all flew with the net to the mouse, who freed them. From this we learn that greed is a curse, and in times of crisis, instead of panicking, one should act with unity and intellect.",
-      "keywords": [
-        "लालच बुरी बला है   Greed is a curse",
-        "एकता   Unity",
-        "बुद्धि   Intellect"
-      ],
-      "marks": 5,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "कबूतरों का फँसना",
-      "learning_outcome": "Student narrates an episode and extrapolates its moral."
-    },
-    {
-      "question_no": 71,
-      "question": "कौवे (लघुपतनक) और चूहे (हिरण्यक) के बीच विकसित होते रिश्ते का वर्णन कीजिए। उन्होंने अपने स्वाभाविक वैर को कैसे पार किया?   Describe the evolving relationship between the crow (Laghupatanak) and the mouse (Hiranyak). How did they overcome their natural enmity?",
-      "model_answer": "हिरण्यक द्वारा कबूतरों को बचाने का कौशल देखकर कौआ उससे मित्रता करना चाहता था। चूहे ने शुरू में यह कहकर मना कर दिया कि वे भक्षक और भक्ष्य हैं (सहज-वैरी)। लेकिन कौवे ने अपनी दृढ़ इच्छाशक्ति और कभी बिल में प्रवेश न करने की शपथ से चूहे का विश्वास जीता। दोनों रोज़ बाहर बैठकर बातें करने लगे और भोजन साझा करने लगे। इस प्रकार समझ, सम्मान और परस्पर विश्वास के माध्यम से उन्होंने अपने स्वाभाविक वैर को पार कर एक घनिष्ठ मित्रता स्थापित की।   Seeing Hiranyak's skill in saving the pigeons, the crow wanted to befriend him. The mouse initially refused saying they are predator and prey (natural enemies). But the crow won the mouse's trust with his strong willpower and taking an oath never to enter the hole. Both started sitting outside talking daily and sharing food. Thus, through understanding, respect, and mutual trust, they overcame their natural enmity and established a close friendship.",
-      "keywords": [
-        "रिश्ता   Relationship",
-        "भक्षक और भक्ष्य   Predator and prey",
-        "परस्पर विश्वास   Mutual trust"
-      ],
-      "marks": 5,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "मित्रता की शुरुआत",
-      "learning_outcome": "Student analyzes relationship dynamics and overcoming prejudices."
-    },
-    {
-      "question_no": 72,
-      "question": "चित्रांग हिरन के मित्र मंडली में शामिल होने और बाद में उसके बचाए जाने की घटनाओं का सारांश लिखिए।   Summarize the events that led to the deer Chitrang becoming a part of the friends' circle and his subsequent rescue.",
-      "model_answer": "एक दिन चित्रांग हिरन शिकारी से डरकर उस तालाब के पास आया जहाँ चूहा, कौआ और कछुआ रहते थे। कछुए ने उसे अभयदान देकर अपना मित्र बना लिया। कुछ समय बाद चित्रांग जंगल में चरते हुए शिकारी के जाल में फँस गया। शाम तक न लौटने पर कौवे ने उड़कर उसे खोजा। कौआ तुरंत चूहे को अपनी पीठ पर बिठाकर वहाँ लाया। चूहे ने अपने दाँतों से जाल काट दिया और इस प्रकार चित्रांग को बचा लिया गया।   One day, Chitrang the deer came to the pond where the mouse, crow, and turtle lived, scared of a hunter. The turtle offered him safety and made him a friend. Some time later, while grazing in the forest, Chitrang got caught in a hunter's net. Not returning by evening, the crow flew and found him. The crow immediately brought the mouse sitting on his back. The mouse cut the net with his teeth, and thus Chitrang was rescued.",
-      "keywords": [
-        "मित्र मंडली   Friends' circle",
-        "अभयदान   Safety/Protection",
-        "सारांश   Summary"
-      ],
-      "marks": 5,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "चित्रांग का आगमन और मुक्ति",
-      "learning_outcome": "Student synthesizes multiple plot threads."
-    },
-    {
-      "question_no": 73,
-      "question": "मन्थरक कछुए को शिकारी से बचाने के लिए मित्रों द्वारा बनाई गई चतुर योजना का विस्तार से वर्णन कीजिए।   Describe in detail the clever plan formulated by the friends to rescue Mantharak the turtle from the hunter.",
-      "model_answer": "कौवे ने एक चतुर योजना बनाई। चित्रांग हिरन शिकारी के रास्ते में तालाब के किनारे मृत होने का नाटक करके लेट गया और कौआ उस पर बैठकर चोंच मारने का अभिनय करने लगा। शिकारी ने सोचा कि हिरन मर गया है। हिरन को पाने के लालच में उसने कछुए को वहीं ज़मीन पर छोड़ दिया और हिरन की ओर बढ़ा। इसी बीच छुपे हुए चूहे ने कछुए का जाल काट दिया। कछुआ पानी में चला गया और हिरन उठकर भाग गया, जिससे सभी बच गए।   The crow made a clever plan. Chitrang the deer lay down near the pond on the hunter's path pretending to be dead, and the crow sat on him acting to peck him. The hunter thought the deer was dead. In the greed to get the deer, he left the turtle there on the ground and moved towards the deer. Meanwhile, the hidden mouse cut the turtle's net. The turtle went into the water and the deer got up and ran away, saving everyone.",
-      "keywords": [
-        "चतुर योजना   Clever plan",
-        "अभिनय   Acting",
-        "लालच   Greed"
-      ],
-      "marks": 5,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "मन्थरक की मुक्ति योजना",
-      "learning_outcome": "Student details the climax and resolution of the narrative."
-    },
-    {
-      "question_no": 74,
-      "question": "“मित्रता में बड़ी शक्ति है। हमें अपने मित्रों की सहायता के लिए सदैव तत्पर रहना चाहिए।” 'मित्रलाभ' कहानी की घटनाओं का उपयोग करते हुए इस कथन को सिद्ध कीजिए।   'Friendship has great power. We should always be ready to help our friends.' Prove this statement using the events of the story 'Mitralabh'.",
-      "model_answer": "पूरी कहानी इस विचार को सिद्ध करती है। चूहे ने कबूतरों को जाल से मुक्त करके उनकी सहायता की। कछुए ने अकाल के समय कौवे और चूहे को आश्रय दिया। जब हिरन जाल में फँसा, तो कौवे ने उसे ढूँढा और चूहे ने जाल काटा। अंत में, जब कछुआ फँसा, तो तीनों मित्रों ने अपनी जान जोखिम में डालकर एक शानदार योजना बनाई और उसे बचा लिया। यह साबित करता है कि सच्चे मित्र मिलकर किसी भी बड़ी मुसीबत को हरा सकते हैं।   The whole story proves this idea. The mouse helped the pigeons by freeing them from the net. The turtle gave shelter to the crow and mouse during the famine. When the deer was trapped, the crow found him and the mouse cut the net. In the end, when the turtle was caught, all three friends risked their lives, made a brilliant plan and saved him. This proves that true friends together can defeat any big trouble.",
-      "keywords": [
-        "शक्ति   Power",
-        "जोखिम   Risk",
-        "मुसीबत   Trouble"
-      ],
-      "marks": 5,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "कहानी का संदेश",
-      "learning_outcome": "Student justifies a thematic statement with comprehensive examples."
-    },
-    {
-      "question_no": 75,
-      "question": "'दो गौरैया' और 'मित्रलाभ' दोनों कहानियों में पशु-पक्षियों की उपस्थिति है, परंतु उनके मुख्य विषय अलग हैं। दोनों कहानियों के विषयों (थीम) की तुलना कीजिए।   Both stories 'Do Gauraiya' and 'Mitralabh' involve animals/birds but have different central themes. Compare the themes of both stories.",
-      "model_answer": "'दो गौरैया' का मुख्य विषय मानव और प्रकृति के बीच का संबंध, सह-अस्तित्व और मनुष्यों के हृदय परिवर्तन (जैसे पिताजी का) को हास्यपूर्ण तरीके से दर्शाना है। इसके विपरीत, 'मित्रलाभ' एक नीति कथा है जो पशु-पक्षियों का मानवीकरण करके हमें एकता, बुद्धि, और सच्ची मित्रता की शक्ति का पाठ पढ़ाती है। पहली कहानी यथार्थवादी और घरेलू है, जबकि दूसरी उपदेशात्मक और कल्पित है।   The main theme of 'Do Gauraiya' is the relationship between humans and nature, coexistence, and human change of heart (like the father's) depicted humorously. In contrast, 'Mitralabh' is a moral fable that humanizes animals/birds to teach us the lesson of unity, intellect, and the power of true friendship. The first story is realistic and domestic, while the second is didactic and fictional.",
-      "keywords": [
-        "विषय   Themes",
-        "मानवीकरण   Humanization",
-        "उपदेशात्मक   Didactic"
-      ],
-      "marks": 5,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "तुलनात्मक अध्ययन",
-      "learning_outcome": "Student critically compares themes across two distinct narratives."
-    },
-    {
-      "question_no": 76,
-      "question": "'मित्रलाभ' कहानी के आधार पर लघुपतनक (कौवे) का चरित्र चित्रण कीजिए।   Write a character sketch of Laghupatanak (the crow) based on the story 'Mitralabh'.",
-      "model_answer": "लघुपतनक एक बुद्धिमान, दूरदर्शी और वफादार मित्र है। उसने पहले ही शिकारी को देखकर पक्षियों को चेतावनी दी थी। वह गुणों का पारखी है, इसलिए चूहे की योग्यता देखकर उसने मित्रता की पहल की। वह मुसीबत में घबराता नहीं है, बल्कि कछुए को बचाने के लिए एक शानदार योजना बनाता है। उसकी तेज नज़र और उड़ने की क्षमता ने मित्रों की रक्षा में अहम भूमिका निभाई। वह मित्रता निभाने वाला एक आदर्श चरित्र है।   Laghupatanak is an intelligent, farsighted, and loyal friend. He warned the birds beforehand seeing the hunter. He appreciates virtues, which is why he initiated friendship seeing the mouse's capability. He does not panic in trouble, but makes a brilliant plan to save the turtle. His sharp eyesight and flying ability played a key role in protecting friends. He is an ideal character who upholds friendship.",
-      "keywords": [
-        "बुद्धिमान   Intelligent",
-        "पारखी   Appreciator",
-        "आदर्श चरित्र   Ideal character"
-      ],
-      "marks": 5,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "मित्रलाभ के पात्र",
-      "learning_outcome": "Student writes a comprehensive character sketch."
-    },
-    {
-      "question_no": 77,
-      "question": "यदि घोंसला टूटने के बाद गौरैयाँ वापस नहीं आतीं, तो पिताजी को कैसा महसूस होता? उनके चरित्र परिवर्तन के आधार पर चर्चा कीजिए।   If the sparrows had not returned after their nest was destroyed, how would the father have felt? Discuss based on his character transformation.",
-      "model_answer": "शुरुआत में पिताजी को शायद अपनी जीत का एहसास होता और उन्हें सुकून मिलता। परंतु अंत में उनका जो संवेदनशील हृदय सामने आया, उसे देखते हुए संभव है कि खाली जगह को देखकर उन्हें अपराधबोध या पछतावा होता। उनका अंतिम मुस्कुराना यह सिद्ध करता है कि वे वास्तव में उन जीवों से जुड़ चुके थे, इसलिए गौरैयों का न आना अंततः उन्हें उदास ही करता।   Initially, the father might have felt victorious and relieved. But seeing the sensitive heart that was revealed in the end, it is possible that seeing the empty space would have caused him guilt or regret. His final smile proves that he had actually formed a bond with those creatures, so the sparrows not returning would have ultimately made him sad.",
-      "keywords": [
-        "महसूस   Felt",
-        "अपराधबोध   Guilt",
-        "उदास   Sad"
-      ],
-      "marks": 5,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "पिताजी का हृदय परिवर्तन",
-      "learning_outcome": "Student predicts emotional outcomes based on character traits."
-    },
-    {
-      "question_no": 78,
-      "question": "शिकारी के लोभ और मूर्खता ने किस प्रकार उसे हिरन और कछुए दोनों से हाथ धोने पर मजबूर कर दिया? स्पष्ट कीजिए।   How did the hunter's greed and foolishness lead to him losing both the deer and the turtle? Explain.",
-      "model_answer": "शिकारी ने जब मृत प्रतीत होने वाले हिरन को देखा, तो उसके मन में बड़ा शिकार पाने का लोभ आ गया। मूर्खतावश, उसने यह सुनिश्चित किए बिना कि हिरन सच में मरा है या नहीं, पहले से पकड़े हुए निश्चित शिकार (कछुए) को ज़मीन पर रख दिया। उसके इस लालच और लापरवाही का फायदा उठाकर चूहे ने कछुए को आज़ाद कर दिया और हिरन भी भाग गया। इस प्रकार उसके लोभ ने उसे दोनों से वंचित कर दिया।   When the hunter saw the seemingly dead deer, greed for a bigger prey overtook his mind. Foolishly, without ensuring whether the deer was really dead, he put his already caught certain prey (the turtle) on the ground. Taking advantage of his greed and carelessness, the mouse freed the turtle and the deer also ran away. Thus, his greed deprived him of both.",
-      "keywords": [
-        "मूर्खतावश   Foolishly",
-        "लापरवाही   Carelessness",
-        "वंचित   Deprived"
-      ],
-      "marks": 5,
-      "difficulty": "difficult",
-      "question_type": "descriptive",
-      "topic": "मन्थरक की मुक्ति योजना",
-      "learning_outcome": "Student analyzes the consequences of negative traits in a character."
-    },
-    {
-      "question_no": 79,
-      "question": "पंचतंत्र की कहानी 'मित्रलाभ' में दर्शाए गए एक सच्चे मित्र के गुणों का वर्णन कीजिए।   Write down the characteristics of a true friend as depicted in the Panchatantra story 'Mitralabh'.",
-      "model_answer": "सच्चे मित्र स्वार्थी नहीं होते। वे कठिन समय में एक-दूसरे का साथ नहीं छोड़ते (जैसे चूहे ने कबूतरों का साथ दिया)। वे अपने मित्र के संकट को अपना संकट मानते हैं और बिना अपनी जान की परवाह किए उन्हें बचाने जाते हैं (जैसे कौवे और हिरन ने कछुए के लिए किया)। एक सच्चा मित्र उचित सलाह देता है, आश्रय प्रदान करता है (जैसे मन्थरक ने किया) और बिना किसी प्राकृतिक भेदभाव के स्नेह करता है।   True friends are not selfish. They do not leave each other in tough times (like the mouse stood by the pigeons). They consider their friend's crisis as their own and go to save them without caring for their own life (like the crow and deer did for the turtle). A true friend gives proper advice, provides shelter (like Mantharak did) and loves without any natural discrimination.",
-      "keywords": [
-        "स्वार्थी   Selfish",
-        "संकट   Crisis",
-        "भेदभाव   Discrimination"
-      ],
-      "marks": 5,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "कहानी का संदेश",
-      "learning_outcome": "Student abstracts ethical values from character actions."
-    },
-    {
-      "question_no": 80,
-      "question": "'मित्रलाभ' शीर्षक की सार्थकता पर उचित उदाहरणों सहित चर्चा कीजिए।   Discuss the significance of the title 'Mitralabh' with appropriate examples from the text.",
-      "model_answer": "शीर्षक 'मित्रलाभ' का अर्थ है 'मित्र प्राप्त करना'। यह शीर्षक पूर्णतः सार्थक है क्योंकि पूरी कहानी इसी पर आधारित है। कौवे ने चूहे को मित्र बनाया, फिर दोनों ने कछुए को मित्र पाया, और अंत में हिरन भी उनकी मंडली में आ गया। इन सभी मित्रों ने अपने-अपने गुणों का लाभ उठाकर (कौवे की दृष्टि, चूहे के दाँत, हिरन की दौड़) एक-दूसरे की जान बचाई। अतः मित्रों की प्राप्ति और उनका लाभ ही कहानी का मुख्य बिंदु है।   The title 'Mitralabh' means 'gaining friends'. This title is completely meaningful because the entire story is based on this. The crow made the mouse a friend, then both found the turtle as a friend, and finally the deer joined their circle. All these friends utilized their respective qualities (crow's vision, mouse's teeth, deer's speed) to save each other's lives. Hence, gaining friends and their benefits is the main point of the story.",
-      "keywords": [
-        "सार्थकता   Significance",
-        "मंडली   Circle/Group",
-        "मुख्य बिंदु   Main point"
-      ],
-      "marks": 5,
-      "difficulty": "medium",
-      "question_type": "descriptive",
-      "topic": "शीर्षक की सार्थकता",
-      "learning_outcome": "Student justifies the thematic relevance of the title."
-    }
-  ]
+"id":1,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"घर में कितने व्यक्ति रहते थे और वे कौन थे?   How many people lived in the house and who were they?",
+"answer":"घर में केवल तीन व्यक्ति रहते थे— माँ, पिताजी और लेखक।   Only three people lived in the house— Mother, Father, and the author.",
+"keywords":[
+"तीन व्यक्ति   Three people",
+"माँ   Mother",
+"पिताजी   Father",
+"लेखक   Author"
+],
+"explanation":"कहानी की शुरुआत में लेखक बताता है कि उनके घर में माँ, पिताजी और वह स्वयं रहते थे।   At the beginning of the story, the author states that Mother, Father, and he himself lived in their house.",
+"page_number":"1"
+},
+{
+"id":2,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"पिताजी घर को क्या कहकर बुलाते थे?   What did the father call the house?",
+"answer":"पिताजी घर को सराय कहकर बुलाते थे, जहाँ वे खुद को मेहमान मानते थे।   The father called the house an inn, where he considered themselves guests.",
+"keywords":[
+"सराय   Inn",
+"मेहमान   Guest",
+"पिताजी   Father"
+],
+"explanation":"पिताजी के अनुसार घर में इतने सारे पशु-पक्षी रहते थे कि वह घर कम और सराय ज्यादा लगता था।   According to the father, so many animals and birds lived in the house that it felt less like a home and more like an inn.",
+"page_number":"1"
+},
+{
+"id":3,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"लेखक के घर के आँगन में कौन सा पेड़ था?   Which tree was there in the courtyard of the author's house?",
+"answer":"लेखक के घर के आँगन में एक आम का पेड़ था।   There was a mango tree in the courtyard of the author's house.",
+"keywords":[
+"आँगन   Courtyard",
+"आम का पेड़   Mango tree"
+],
+"explanation":"कहानी में बताया गया है कि आँगन में आम का पेड़ है जिस पर तरह-तरह के पक्षी डेरा डाले रहते हैं।   The story mentions that there is a mango tree in the courtyard where various birds nest.",
+"page_number":"1"
+},
+{
+"id":4,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"घर में गौरैयों ने अपना घोंसला कहाँ बनाया था?   Where did the sparrows build their nest in the house?",
+"answer":"गौरैयों ने बैठक की छत में लगे पंखे के गोले में अपना घोंसला बनाया था।   The sparrows had built their nest in the canopy of the ceiling fan in the living room.",
+"keywords":[
+"बैठक   Living room",
+"छत का पंखा   Ceiling fan",
+"घोंसला   Nest"
+],
+"explanation":"दो गौरैयों ने घर के अंदर आकर बैठक में छत वाले पंखे के ऊपर अपना बिस्तर बिछा लिया था।   Two sparrows came inside the house and made their bed on top of the ceiling fan in the living room.",
+"page_number":"2"
+},
+{
+"id":5,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"पिताजी ने गौरैयों को भगाने के लिए कौन सी आवाज़ निकाली?   What sound did the father make to shoo away the sparrows?",
+"answer":"पिताजी ने ताली बजाते हुए मुँह से 'श...शू' की आवाज़ निकाली।   The father made 'shh...shoo' sounds from his mouth while clapping.",
+"keywords":[
+"ताली   Clap",
+"श...शू   Shh...shoo",
+"आवाज़   Sound"
+],
+"explanation":"पिताजी गौरैयों को डराने के लिए पंखे के नीचे खड़े होकर ताली बजाने और आवाज़ निकालने लगे।   To scare the sparrows, the father stood under the fan, clapped, and started making noises.",
+"page_number":"3"
+},
+{
+"id":6,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"पिताजी किस चीज़ के सहारे घोंसला गिराने लगे?   With the help of what thing did the father start pulling down the nest?",
+"answer":"पिताजी एक स्टूल पर चढ़कर लाठी के सहारे घोंसला गिराने लगे।   The father climbed on a stool and started pulling down the nest with the help of a stick.",
+"keywords":[
+"स्टूल   Stool",
+"लाठी   Stick",
+"घोंसला   Nest"
+],
+"explanation":"जब गौरैयाँ नहीं भागीं, तो पिताजी ने लाठी लेकर पंखे से उनका घोंसला गिराना शुरू कर दिया।   When the sparrows did not fly away, the father took a stick and started bringing down their nest from the fan.",
+"page_number":"5"
+},
+{
+"id":7,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"'दो गौरैया' कहानी के लेखक कौन हैं?   Who is the author of the story 'Do Gauraiya'?",
+"answer":"'दो गौरैया' कहानी के लेखक भीष्म साहनी हैं।   The author of the story 'Do Gauraiya' is Bhisham Sahni.",
+"keywords":[
+"भीष्म साहनी   Bhisham Sahni",
+"लेखक   Author"
+],
+"explanation":"पाठ के अंत में लेखक परिचय में स्पष्ट रूप से भीष्म साहनी का नाम दिया गया है।   The author's introduction at the end of the lesson clearly gives the name of Bhisham Sahni.",
+"page_number":"6"
+},
+{
+"id":8,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"विश्व गौरैया दिवस कब मनाया जाता है?   When is World Sparrow Day celebrated?",
+"answer":"विश्व गौरैया दिवस हर साल 20 मार्च को मनाया जाता है।   World Sparrow Day is celebrated every year on 20 March.",
+"keywords":[
+"20 मार्च   20 March",
+"विश्व गौरैया दिवस   World Sparrow Day"
+],
+"explanation":"गौरैयों के संरक्षण और जागरूकता के लिए 20 मार्च को विश्व गौरैया दिवस घोषित किया गया है।   March 20 has been declared World Sparrow Day for the conservation and awareness of sparrows.",
+"page_number":"16"
+},
+{
+"id":9,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"गौरैया को तमिल भाषा में क्या कहा जाता है?   What is the sparrow called in the Tamil language?",
+"answer":"गौरैया को तमिल भाषा में 'कुरुवी' कहा जाता है।   The sparrow is called 'Kuruvi' in the Tamil language.",
+"keywords":[
+"तमिल   Tamil",
+"कुरुवी   Kuruvi"
+],
+"explanation":"लेख में बताया गया है कि गौरैया को तमिल में 'कुरुवी' और उर्दू में 'चिरिया' कहते हैं।   The article states that the sparrow is called 'Kuruvi' in Tamil and 'Chiriya' in Urdu.",
+"page_number":"16"
+},
+{
+"id":10,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"वटवृक्ष पर रहने वाले कौए का क्या नाम था?   What was the name of the crow living on the banyan tree?",
+"answer":"वटवृक्ष पर रहने वाले कौए का नाम लघुपतनक था।   The name of the crow living on the banyan tree was Laghupatanak.",
+"keywords":[
+"वटवृक्ष   Banyan tree",
+"लघुपतनक   Laghupatanak",
+"कौआ   Crow"
+],
+"explanation":"कहानी की शुरुआत में बताया गया है कि विशाल वटवृक्ष पर लघुपतनक नाम का कौआ रहता था।   It is mentioned at the beginning of the story that a crow named Laghupatanak lived on a huge banyan tree.",
+"page_number":"17"
+},
+{
+"id":11,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"कबूतरों के राजा का क्या नाम था?   What was the name of the king of pigeons?",
+"answer":"कबूतरों के राजा का नाम चित्रग्रीव था।   The name of the king of pigeons was Chitragreev.",
+"keywords":[
+"कबूतरों का राजा   King of pigeons",
+"चित्रग्रीव   Chitragreev"
+],
+"explanation":"कबूतरों का राजा चित्रग्रीव अपने हज़ारों अनुचरों के साथ आकाश में उड़ रहा था।   The king of pigeons, Chitragreev, was flying in the sky with thousands of his followers.",
+"page_number":"17"
+},
+{
+"id":12,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"हिरण्यक कौन था?   Who was Hiranyak?",
+"answer":"हिरण्यक एक चूहे का नाम था जो एक हज़ार बिलों वाले दुर्ग में रहता था।   Hiranyak was the name of a mouse who lived in a fort with a thousand burrows.",
+"keywords":[
+"हिरण्यक   Hiranyak",
+"चूहा   Mouse",
+"दुर्ग   Fort"
+],
+"explanation":"हिरण्यक चूहा चित्रग्रीव का घनिष्ठ मित्र था जिसने जाल काटकर कबूतरों की मदद की।   Hiranyak the mouse was a close friend of Chitragreev who helped the pigeons by cutting the net.",
+"page_number":"17"
+},
+{
+"id":13,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"कछुए का नाम क्या था?   What was the name of the tortoise?",
+"answer":"कछुए का नाम मन्थरक था।   The name of the tortoise was Mantharak.",
+"keywords":[
+"कछुआ   Tortoise",
+"मन्थरक   Mantharak"
+],
+"explanation":"दक्षिण दिशा में तालाब के किनारे मन्थरक नाम का एक कछुआ रहता था जो कौए का मित्र था।   A tortoise named Mantharak lived by the lake in the southern direction, who was a friend of the crow.",
+"page_number":"20"
+},
+{
+"id":14,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"हिरन का क्या नाम था जो शिकारी से बचकर भागा था?   What was the name of the deer that escaped from the hunter?",
+"answer":"उस हिरन का नाम चित्रांग था।   The name of that deer was Chitrang.",
+"keywords":[
+"हिरन   Deer",
+"चित्रांग   Chitrang"
+],
+"explanation":"शिकारी से डरकर चित्रांग नाम का हिरन दौड़ता हुआ कछुए, कौए और चूहे के पास आया था।   Frightened by the hunter, a deer named Chitrang came running to the tortoise, crow, and mouse.",
+"page_number":"20"
+},
+{
+"id":15,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"कबूतरों के जाल में फँसने का मुख्य कारण क्या था?   What was the main reason for the pigeons getting caught in the net?",
+"answer":"कबूतरों के जाल में फँसने का मुख्य कारण उनका लोभ था।   The main reason for the pigeons getting caught in the net was their greed.",
+"keywords":[
+"लोभ   Greed",
+"कबूतर   Pigeons",
+"जाल   Net"
+],
+"explanation":"लोभ के कारण विवेकशक्ति नष्ट हो गई और अनाज चुगने की लालसा में कबूतर जाल में फँस गए।   Due to greed, wisdom was lost, and the pigeons got caught in the net in their desire to peck at the grains.",
+"page_number":"17"
+},
+{
+"id":16,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"चूहे के बिल में प्रवेश न करने की शपथ किसने ली?   Who took an oath not to enter the mouse's burrow?",
+"answer":"कौए (लघुपतनक) ने चूहे (हिरण्यक) के बिल में प्रवेश न करने की शपथ ली।   The crow (Laghupatanak) took an oath not to enter the mouse's (Hiranyak's) burrow.",
+"keywords":[
+"शपथ   Oath",
+"कौआ   Crow",
+"बिल   Burrow"
+],
+"explanation":"हिरण्यक के कहने पर लघुपतनक ने उसे विश्वास दिलाने के लिए शपथ ली कि वह उसके बिल में नहीं जाएगा।   At Hiranyak's request, Laghupatanak took an oath to convince him that he would not enter his burrow.",
+"page_number":"19"
+},
+{
+"id":17,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"पिताजी घर को सराय क्यों कहते थे?   Why did the father call the house an inn?",
+"answer":"पिताजी घर को सराय इसलिए कहते थे क्योंकि घर में चूहों, पक्षियों और बिल्लियों का स्वतंत्र रूप से आना-जाना लगा रहता था और वे घर के मालिकों की तरह रहते थे।   The father called the house an inn because mice, birds, and cats freely came and went in the house and lived like the owners of the house.",
+"keywords":[
+"सराय   Inn",
+"स्वतंत्र आना-जाना   Free movement",
+"मालिक   Owner"
+],
+"explanation":"घर में अनगिनत जीव-जंतुओं के बेरोकटोक रहने के कारण पिताजी को लगता था कि यह उनका घर नहीं, बल्कि कोई सराय है।   Due to the unrestricted living of countless animals in the house, the father felt that it was not their home, but an inn.",
+"page_number":"1"
+},
+{
+"id":18,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"लेखक के घर में चूहों के कारण क्या परेशानी होती थी?   What trouble was caused by the mice in the author's house?",
+"answer":"लेखक के घर में बीसियों चूहे थे जो रात-भर भागते थे। उनकी धमा-चौकड़ी से लोग सो नहीं पाते थे, बर्तन गिरते थे और प्याले टूटते थे।   There were dozens of mice in the author's house who ran around all night. People couldn't sleep due to their ruckus, utensils fell, and cups broke.",
+"keywords":[
+"धमा-चौकड़ी   Ruckus",
+"नींद   Sleep",
+"बर्तन गिरना   Falling of utensils"
+],
+"explanation":"चूहे रात में शोर मचाते और सामान गिराते थे, जिससे घर के लोगों की नींद खराब होती थी और नुकसान होता था।   The mice made noise and dropped things at night, which disturbed the sleep of the house members and caused damage.",
+"page_number":"1"
+},
+{
+"id":19,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"लेखक ने चूहों के किन दो विशेष स्थानों का वर्णन किया है?   Which two special places of the mice has the author described?",
+"answer":"लेखक ने बताया है कि एक बूढ़ा चूहा अँगीठी के पीछे बैठना पसंद करता था, जबकि दूसरा चूहा बाथरूम की टंकी पर चढ़कर बैठना पसंद करता था।   The author has mentioned that one old mouse liked to sit behind the fireplace, while the other liked to sit on top of the bathroom tank.",
+"keywords":[
+"अँगीठी   Fireplace",
+"बाथरूम की टंकी   Bathroom tank",
+"पसंद   Preference"
+],
+"explanation":"चूहों के स्वभाव के अनुसार उन्हें अलग-अलग जगहें पसंद थीं, जैसे सर्दी से बचने के लिए अँगीठी और गरमी से बचने के लिए टंकी।   According to the nature of the mice, they liked different places, such as the fireplace to escape the cold and the tank to escape the heat.",
+"page_number":"1"
+},
+{
+"id":20,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"गौरैयों ने घोंसला बनाने से पहले घर का निरीक्षण कैसे किया?   How did the sparrows inspect the house before building the nest?",
+"answer":"दो गौरैया घर के अंदर आईं और बिना पूछे उड़-उड़कर मकान देखने लगीं। वे कभी रोशनदान पर बैठतीं तो कभी खिड़की पर, जैसे यह देख रही हों कि मकान रहने योग्य है या नहीं।   Two sparrows came inside the house and started looking around without asking. They would sometimes sit on the ventilator and sometimes on the window, as if checking if the house was fit to live in.",
+"keywords":[
+"निरीक्षण   Inspection",
+"रोशनदान   Ventilator",
+"रहने योग्य   Fit to live"
+],
+"explanation":"पक्षी भी अपना घर बनाने से पहले सुरक्षित और अनुकूल जगह की तलाश करते हैं, इसलिए गौरैयों ने घर का मुआयना किया।   Birds also look for a safe and suitable place before building their nest, so the sparrows inspected the house.",
+"page_number":"2"
+},
+{
+"id":21,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"माँ ने पिताजी की हरकतों पर हँसते हुए क्या कहा?   What did the mother say while laughing at the father's antics?",
+"answer":"माँ ने हँसते हुए कहा कि चिड़ियाँ एक-दूसरे से पूछ रही होंगी कि यह आदमी कौन है और हमारे सामने यह नाच क्यों रहा है।   Laughing, the mother said that the birds must be asking each other who this man is and why he is dancing in front of us.",
+"keywords":[
+"हँसते हुए   Laughing",
+"आदमी कौन है   Who is the man",
+"नाच   Dance"
+],
+"explanation":"पिताजी का ताली बजाना और उछल-कूद करना माँ को बहुत हास्यास्पद लगा, इसलिए उन्होंने पिताजी पर व्यंग्य किया।   The father's clapping and jumping around seemed very ridiculous to the mother, so she mocked the father.",
+"page_number":"3"
+},
+{
+"id":22,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"पिताजी के दरवाजे बंद करने के बाद गौरैयाँ अंदर कैसे आ गईं?   How did the sparrows come inside after the father closed the doors?",
+"answer":"पिताजी ने सभी दरवाजे बंद कर दिए थे, लेकिन एक रोशनदान का शीशा टूटा हुआ था। गौरैयाँ उसी टूटे हुए शीशे वाले रोशनदान से वापस कमरे में आ गईं।   The father had closed all the doors, but the glass of a ventilator was broken. The sparrows came back into the room through that ventilator with the broken glass.",
+"keywords":[
+"दरवाजे बंद   Doors closed",
+"रोशनदान   Ventilator",
+"टूटा शीशा   Broken glass"
+],
+"explanation":"पक्षी बहुत छोटे होते हैं, इसलिए वे किसी भी छोटी सी दरार या टूटे हुए हिस्से से घर के अंदर प्रवेश कर सकते हैं।   Birds are very small, so they can enter the house through any small crack or broken part.",
+"page_number":"4"
+},
+{
+"id":23,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"पिताजी ने घोंसला गिराने के लिए क्या तरीका अपनाया?   What method did the father adopt to pull down the nest?",
+"answer":"पिताजी ने पंखे के नीचे स्टूल रखा और उस पर चढ़ गए। उन्होंने लाठी का सिरा घोंसले के तिनकों पर रखा और उसे घुमाने लगे जिससे तिनके लाठी में लिपट गए।   The father placed a stool under the fan and climbed on it. He placed the tip of the stick on the nest's twigs and started spinning it so the twigs got wrapped around the stick.",
+"keywords":[
+"स्टूल   Stool",
+"लाठी   Stick",
+"घुमाना   Spinning"
+],
+"explanation":"पिताजी घोंसले को पूरी तरह से नष्ट करना चाहते थे, इसलिए उन्होंने लाठी में घास और तिनकों को लपेटकर उसे नीचे गिरा दिया।   The father wanted to completely destroy the nest, so he tangled the grass and twigs in the stick and brought it down.",
+"page_number":"5"
+},
+{
+"id":24,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"घोंसला टूट जाने के बाद नन्ही गौरैयों ने क्या किया?   What did the tiny sparrows do after the nest was broken?",
+"answer":"घोंसला टूट जाने के बाद दो नन्ही गौरैयाँ पंखे के गोले से सिर निकालकर ज़ोर-ज़ोर से 'चीं-चीं' करने लगीं, मानो वे अपने माँ-बाप को बुला रही हों।   After the nest was broken, two tiny sparrows popped their heads out of the fan's canopy and started chirping loudly 'cheep-cheep', as if calling their parents.",
+"keywords":[
+"नन्ही गौरैयाँ   Tiny sparrows",
+"चीं-चीं   Cheep-cheep",
+"माँ-बाप को बुलाना   Calling parents"
+],
+"explanation":"पंखे के गोले में छिपे गौरैयों के बच्चों का घर टूट गया था, इसलिए वे घबराकर अपने माता-पिता को मदद के लिए पुकारने लगे।   The home of the baby sparrows hidden in the fan's canopy was destroyed, so in panic they started calling their parents for help.",
+"page_number":"6"
+},
+{
+"id":25,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"शहरीकरण ने गौरैयों को कैसे प्रभावित किया है?   How has urbanization affected the sparrows?",
+"answer":"शहरीकरण के कारण आधुनिक इमारतें इस तरह से बनाई जाती हैं कि उनमें गौरैयों को घोंसला बनाने और अपने बच्चों को पालने के लिए कोई जगह नहीं मिल पाती।   Due to urbanization, modern buildings are constructed in such a way that sparrows cannot find any place to build nests and raise their chicks in them.",
+"keywords":[
+"शहरीकरण   Urbanization",
+"आधुनिक इमारतें   Modern buildings",
+"घोंसला बनाने की जगह   Place to build nest"
+],
+"explanation":"पुराने घरों में छज्जे और रोशनदान होते थे जहाँ पक्षी रह सकते थे, लेकिन नए कांच और कंक्रीट के मकानों में यह संभव नहीं है।   Old houses had eaves and ventilators where birds could live, but this is not possible in new glass and concrete houses.",
+"page_number":"16"
+},
+{
+"id":26,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"लघुपतनक ने अन्य पक्षियों को क्या चेतावनी दी?   What warning did Laghupatanak give to the other birds?",
+"answer":"लघुपतनक ने पक्षियों को चेतावनी दी कि शिकारी के द्वारा फैलाए गए दानों को लालच में आकर न खाएँ, बल्कि उन्हें कालकूट (ज़हर) की तरह समझें।   Laghupatanak warned the birds not to eat the grains spread by the hunter out of greed, but to treat them like deadly poison.",
+"keywords":[
+"चेतावनी   Warning",
+"लालच   Greed",
+"कालकूट   Deadly poison"
+],
+"explanation":"कौए को पता था कि ज़मीन पर पड़े दाने शिकारी का जाल हैं, इसलिए उसने अन्य पक्षियों को वहाँ जाने से रोका।   The crow knew that the grains on the ground were a hunter's trap, so he stopped the other birds from going there.",
+"page_number":"17"
+},
+{
+"id":27,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"जाल में फँसने के बाद चित्रग्रीव ने अपने साथियों को क्या समझाया?   What did Chitragreev explain to his companions after getting caught in the net?",
+"answer":"चित्रग्रीव ने साथियों को समझाया कि वे घबराएँ नहीं, बल्कि एकजुट होकर पूरी ताकत के साथ जाल समेत उड़ जाएँ ताकि वे शिकारी की पहुँच से दूर हो सकें।   Chitragreev explained to his companions not to panic, but to unite and fly away with the net with full strength so they could get out of the hunter's reach.",
+"keywords":[
+"एकजुट   United",
+"पूरी ताकत   Full strength",
+"जाल समेत   Along with the net"
+],
+"explanation":"चित्रग्रीव एक समझदार नेता था। उसने मुसीबत के समय हिम्मत हारने के बजाय संगठन और एकता की शक्ति का प्रयोग करने की सलाह दी।   Chitragreev was a wise leader. Instead of losing heart during a crisis, he advised using the power of organization and unity.",
+"page_number":"17"
+},
+{
+"id":28,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"चूहे ने चित्रग्रीव का जाल पहले काटने से क्यों मना किया?   Why did the mouse refuse to cut Chitragreev's net first?",
+"answer":"चूहे ने कहा कि चित्रग्रीव सभी का नायक है, इसलिए उसे पहले अपने साथियों के बंधन कटवाने चाहिए, उसके बाद ही वह चित्रग्रीव का जाल काटेगा।   The mouse said that Chitragreev is the leader of all, so he should get his companions' bonds cut first, only after that he would cut Chitragreev's net.",
+"keywords":[
+"नायक   Leader",
+"साथियों के बंधन   Bonds of companions",
+"पहले   First"
+],
+"explanation":"चूहा जानता था कि एक सच्चे राजा का धर्म पहले अपनी प्रजा की रक्षा करना होता है, इसलिए उसने चित्रग्रीव के बजाय उसके सेवकों को प्राथमिकता दी।   The mouse knew that a true king's duty is to protect his subjects first, so he prioritized Chitragreev's servants over him.",
+"page_number":"18"
+},
+{
+"id":29,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"कौआ चूहे से मित्रता क्यों करना चाहता था?   Why did the crow want to make friends with the mouse?",
+"answer":"कौआ चूहे के कौशल, दूसरों की मदद करने की भावना और उसकी सज्जनता पर मुग्ध हो गया था, इसलिए वह उस चूहे को अपना मित्र बनाना चाहता था।   The crow was enchanted by the mouse's skills, his spirit of helping others, and his nobility, so he wanted to make that mouse his friend.",
+"keywords":[
+"कौशल   Skill",
+"सज्जनता   Nobility",
+"मित्रता   Friendship"
+],
+"explanation":"लघुपतनक ने देखा कि कैसे हिरण्यक ने बिना किसी स्वार्थ के कबूतरों की जान बचाई। इससे प्रभावित होकर उसने अपना स्वभाव बदल लिया।   Laghupatanak saw how Hiranyak selflessly saved the pigeons' lives. Impressed by this, he changed his nature.",
+"page_number":"18"
+},
+{
+"id":30,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"चूहे ने स्वाभाविक और कृत्रिम वैर में क्या अंतर बताया?   What difference did the mouse explain between natural and artificial enmity?",
+"answer":"चूहे ने बताया कि कृत्रिम वैर किसी कारण से होता है और कारण समाप्त होने पर खत्म हो सकता है, लेकिन स्वाभाविक वैर (जैसे शिकारी और शिकार का) कभी समाप्त नहीं होता।   The mouse explained that artificial enmity happens for a reason and can end when the reason is resolved, but natural enmity (like that of predator and prey) never ends.",
+"keywords":[
+"कृत्रिम वैर   Artificial enmity",
+"स्वाभाविक वैर   Natural enmity",
+"कभी समाप्त नहीं   Never ends"
+],
+"explanation":"चूहा कौए का प्राकृतिक भोजन है। इसलिए चूहे को लगता था कि यह जन्मजात दुश्मनी है जिसे किसी समझौते से खत्म नहीं किया जा सकता।   The mouse is the natural food of the crow. Therefore, the mouse felt that this is an innate enmity that cannot be ended by any agreement.",
+"page_number":"19"
+},
+{
+"id":31,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"लघुपतनक और हिरण्यक को अपना देश क्यों छोड़ना पड़ा?   Why did Laghupatanak and Hiranyak have to leave their country?",
+"answer":"उस देश में अनावृष्टि (सूखे) के कारण भयंकर अकाल पड़ गया था। भोजन नहीं था और पक्षियों को पकड़ने के लिए हर जगह जाल बिछे थे, इसलिए उन्हें देश छोड़ना पड़ा।   A severe famine had occurred in that country due to drought. There was no food and nets were spread everywhere to catch birds, so they had to leave the country.",
+"keywords":[
+"अनावृष्टि   Drought",
+"अकाल   Famine",
+"देश छोड़ना   Leaving the country"
+],
+"explanation":"प्राणों की रक्षा और भोजन की तलाश में दोनों मित्रों ने उस स्थान को छोड़कर सुरक्षित जगह जाने का निर्णय लिया।   To save their lives and in search of food, both friends decided to leave that place and go to a safe location.",
+"page_number":"20"
+},
+{
+"id":32,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"चित्रांग हिरन तालाब के किनारे दौड़ता हुआ क्यों आया?   Why did Chitrang the deer come running to the edge of the lake?",
+"answer":"चित्रांग हिरन के पीछे एक शिकारी पड़ा हुआ था। अपनी जान बचाने के लिए वह डर और घबराहट में दौड़ता हुआ तालाब के किनारे आया था।   A hunter was chasing Chitrang the deer. To save his life, he had come running to the edge of the lake in fear and panic.",
+"keywords":[
+"शिकारी   Hunter",
+"जान बचाना   Saving life",
+"घबराहट   Panic"
+],
+"explanation":"हिरन बहुत थका हुआ और भयभीत था क्योंकि वह मौत से बचकर भाग रहा था और उसे छिपने के लिए सुरक्षित जगह चाहिए थी।   The deer was very tired and frightened because he was running away from death and needed a safe place to hide.",
+"page_number":"20"
+},
+{
+"id":33,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"जब चित्रांग जंगल से वापस नहीं लौटा, तो मित्रों ने क्या किया?   When Chitrang did not return from the forest, what did the friends do?",
+"answer":"जब चित्रांग वापस नहीं लौटा, तो मित्रों को चिंता हुई। मन्थरक कछुए की सलाह पर लघुपतनक कौआ जंगल में हिरन को खोजने के लिए उड़ गया।   When Chitrang did not return, the friends got worried. On the advice of Mantharak the tortoise, Laghupatanak the crow flew into the forest to search for the deer.",
+"keywords":[
+"चिंता   Worry",
+"खोजने के लिए   To search",
+"सलाह   Advice"
+],
+"explanation":"सच्चे मित्र मुसीबत में एक-दूसरे का साथ नहीं छोड़ते। हिरन के न लौटने पर उन्होंने उसे ढूँढने का तुरंत प्रयास किया।   True friends do not abandon each other in trouble. When the deer did not return, they immediately tried to find him.",
+"page_number":"21"
+},
+{
+"id":34,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"मन्थरक कछुआ जाल के पास क्यों आया था और उसका क्या परिणाम हुआ?   Why did Mantharak the tortoise come near the net and what was its result?",
+"answer":"मन्थरक अपने मित्र हिरन की चिंता में वहाँ आया था, लेकिन अपनी धीमी चाल के कारण वह शिकारी से भाग नहीं सका और शिकारी ने उसे पकड़ लिया।   Mantharak had come there out of concern for his friend the deer, but due to his slow speed, he could not run away from the hunter and the hunter caught him.",
+"keywords":[
+"चिंता   Concern",
+"धीमी चाल   Slow speed",
+"पकड़ लिया   Caught"
+],
+"explanation":"कछुए को अपने मित्र से बहुत लगाव था, इसलिए वह खतरा उठाकर भी वहाँ गया, लेकिन उसकी यही भावना उसके लिए मुसीबत बन गई।   The tortoise was very attached to his friend, so he went there even taking a risk, but this very emotion became a trouble for him.",
+"page_number":"22"
+},
+{
+"id":35,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"कौए ने कछुए को बचाने के लिए क्या योजना बनाई?   What plan did the crow make to save the tortoise?",
+"answer":"कौए ने योजना बनाई कि हिरन मरने का नाटक करेगा और कौआ उसकी आँखें नोचने का दिखावा करेगा, ताकि शिकारी कछुए को छोड़कर हिरन के पास जाए।   The crow planned that the deer would pretend to be dead and the crow would pretend to peck his eyes, so that the hunter leaves the tortoise and goes to the deer.",
+"keywords":[
+"नाटक   Pretend",
+"दिखावा   Show/Fake",
+"योजना   Plan"
+],
+"explanation":"यह एक बहुत ही चतुर योजना थी जिसमें शिकारी के लालच का फायदा उठाकर कछुए को आज़ाद कराने का समय मिल सकता था।   This was a very clever plan in which, by taking advantage of the hunter's greed, time could be gained to free the tortoise.",
+"page_number":"22"
+},
+{
+"id":36,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"शिकारी अंत में निराश क्यों हो गया?   Why did the hunter get disappointed in the end?",
+"answer":"शिकारी निराश हो गया क्योंकि पहले तो मरा हुआ हिरन अचानक भाग गया और जब वह पीछे मुड़ा तो उसने देखा कि कछुआ भी जाल से निकलकर गायब हो गया था।   The hunter became disappointed because first the dead deer suddenly ran away, and when he turned back, he saw that the tortoise had also escaped from the net and disappeared.",
+"keywords":[
+"निराश   Disappointed",
+"हिरन भाग गया   Deer ran away",
+"कछुआ गायब   Tortoise disappeared"
+],
+"explanation":"शिकारी को लगा था कि उसे बहुत बड़ा शिकार मिल गया है, लेकिन मित्रों की बुद्धिमानी के कारण उसके हाथ से सब कुछ निकल गया।   The hunter thought he had caught a big prey, but due to the wisdom of the friends, everything slipped out of his hands.",
+"page_number":"23"
+},
+{
+"id":37,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"लेखक के घर में कौन-कौन से जीव रहते थे?   Which creatures lived in the author's house?",
+"answer":"लेखक के घर में चूहों, चमगादड़ों और कबूतरों के अलावा छिपकलियाँ, बर्रें, चींटियाँ और कई तरह के पक्षी (तोते, कौवे, गौरैया) रहते थे।   Apart from mice, bats, and pigeons, lizards, wasps, ants, and many types of birds (parrots, crows, sparrows) lived in the author's house.",
+"keywords":[
+"चमगादड़   Bats",
+"छिपकलियाँ   Lizards",
+"पक्षी   Birds"
+],
+"explanation":"कहानी में घर का वर्णन एक ऐसे स्थान के रूप में किया गया है जो पूरी तरह से प्रकृति और जानवरों से घिरा हुआ था।   In the story, the house is described as a place completely surrounded by nature and animals.",
+"page_number":"1"
+},
+{
+"id":38,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"पिताजी के अनुसार पक्षी उनके घर को क्या समझते थे?   According to the father, what did the birds consider their house?",
+"answer":"पिताजी के अनुसार, जो भी पक्षी पहाड़ियों से उड़कर दिल्ली आता है, वह सीधा उनके घर आ जाता है, जैसे किसी ने उन्हें घर का पता लिखवाकर दिया हो।   According to the father, whichever bird flies from the hills to Delhi, comes straight to their house, as if someone had given them the address of the house.",
+"keywords":[
+"पहाड़ियों   Hills",
+"सीधा घर   Straight home",
+"पता लिखवाकर   Given the address"
+],
+"explanation":"पिताजी झुंझलाकर यह बात कहते हैं क्योंकि उन्हें लगता है कि दुनिया भर के सारे पक्षी रहने के लिए केवल उन्हीं के घर को चुनते हैं।   The father says this in frustration because he feels that all the birds in the world choose only their house to live in.",
+"page_number":"1"
+},
+{
+"id":39,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"माँ ने पिताजी को क्या करने से मना किया जब वे रोशनदान में कपड़ा ठूँस रहे थे?   What did the mother forbid the father from doing when he was stuffing cloth in the ventilator?",
+"answer":"माँ ने गंभीरता से कहा कि अब चिड़ियों को मत निकालो क्योंकि उन्होंने अंडे दे दिए होंगे और अब वे अपना घोंसला छोड़कर नहीं जाएँगी।   The mother said seriously not to drive the birds out now because they must have laid eggs and now they will not leave their nest.",
+"keywords":[
+"गंभीरता   Seriously",
+"अंडे   Eggs",
+"नहीं जाएँगी   Will not leave"
+],
+"explanation":"माँ को पक्षियों से सहानुभूति थी और वे जानती थीं कि अंडे देने के बाद पक्षी अपने बच्चों को छोड़कर कभी नहीं जाते।   The mother had sympathy for the birds and she knew that after laying eggs, birds never leave their chicks.",
+"page_number":"4"
+},
+{
+"id":40,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"'तभी सहसा जोर की आवाज आई, चीं-चीं, चीं-चीं' - यह आवाज किसकी थी और कब आई?   'Then suddenly a loud sound came, cheep-cheep, cheep-cheep' - Whose sound was this and when did it come?",
+"answer":"यह आवाज़ गौरैया के छोटे-छोटे बच्चों की थी। यह आवाज़ तब आई जब पिताजी लाठी से उनका घोंसला गिरा चुके थे।   This sound was of the tiny chicks of the sparrow. This sound came when the father had already pulled down their nest with the stick.",
+"keywords":[
+"बच्चों की   Of the chicks",
+"आवाज़   Sound",
+"घोंसला गिरा चुके   Had pulled down the nest"
+],
+"explanation":"घोंसला टूट जाने के बाद, उसमें छिपे हुए बच्चे बेघर हो गए और डर के कारण अपने माता-पिता को पुकारने लगे।   After the nest was broken, the chicks hidden in it became homeless and started calling their parents out of fear.",
+"page_number":"6"
+},
+{
+"id":41,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"पिताजी के अनुसार घर की स्थिति कैसी थी? विस्तार से बताइए।   How was the condition of the house according to the father? Explain in detail.",
+"answer":"पिताजी के अनुसार उनका घर एक सराय बन गया था जहाँ इंसान केवल मेहमान थे और असली मालिक जीव-जंतु थे। घर में चूहों का आतंक था, आँगन में पक्षियों का डेरा था और शाम होते ही चमगादड़ कसरत करने लगते थे।   According to the father, their house had become an inn where humans were only guests and the real owners were animals. There was terror of mice in the house, birds camped in the courtyard, and bats started exercising in the evening.",
+"keywords":[
+"सराय   Inn",
+"मेहमान   Guest",
+"आतंक   Terror",
+"चमगादड़   Bats"
+],
+"explanation":"पिताजी घर में जानवरों के इस बढ़ते हुए दखल से परेशान थे। उन्हें लगता था कि घर में उनका नियंत्रण खत्म हो गया है और जानवरों ने कब्ज़ा कर लिया है।   The father was troubled by this increasing interference of animals in the house. He felt that he had lost control of the house and the animals had taken over.",
+"page_number":"1"
+},
+{
+"id":42,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"जब माँ ने व्यंग्य में कहा कि चूहों को तो निकाल नहीं पाए, चिड़ियों को निकालेंगे, तो पिताजी की क्या प्रतिक्रिया थी?   When the mother sarcastically said that you couldn't drive out the mice, you will drive out the birds, what was the father's reaction?",
+"answer":"माँ का व्यंग्य सुनकर पिताजी गुस्से से उबल पड़े। वे फौरन उठे और पंखे के नीचे खड़े होकर ज़ोर-ज़ोर से ताली बजाने लगे, 'शू-शू' की आवाज़ करने लगे और हवा में बाँहें झुलाते हुए कूदने लगे।   Hearing the mother's sarcasm, the father boiled with anger. He immediately got up, stood under the fan, started clapping loudly, making 'shoo-shoo' sounds, and jumping while swinging his arms in the air.",
+"keywords":[
+"गुस्से से उबल पड़े   Boiled with anger",
+"ताली बजाने लगे   Started clapping",
+"कूदने लगे   Started jumping"
+],
+"explanation":"पिताजी को अपना मज़ाक उड़ना बिल्कुल पसंद नहीं था। माँ की बात ने उन्हें चुनौती दी, जिसके कारण उन्होंने तुरंत चिड़ियों को भगाने का अजीबोगरीब प्रयास शुरू कर दिया।   The father did not like being mocked at all. The mother's words challenged him, due to which he immediately started a bizarre attempt to chase the birds away.",
+"page_number":"3"
+},
+{
+"id":43,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"पिताजी ने गौरैयों को घर में आने से रोकने के लिए दरवाजे और रोशनदान के साथ क्या किया?   What did the father do with the doors and the ventilator to stop the sparrows from entering the house?",
+"answer":"पिताजी ने गौरैयों को रोकने के लिए घर के सभी दरवाजे कसकर बंद कर दिए। इसके अलावा, दरवाजों के नीचे की खाली जगह और रोशनदान के टूटे हुए शीशे में पुराने कपड़े ठूँस दिए ताकि कोई छेद न बचे।   To stop the sparrows, the father tightly closed all the doors of the house. Besides this, he stuffed old clothes in the empty spaces under the doors and in the broken glass of the ventilator so that no hole remained.",
+"keywords":[
+"दरवाजे बंद   Closed doors",
+"खाली जगह   Empty space",
+"कपड़े ठूँस दिए   Stuffed clothes"
+],
+"explanation":"पिताजी हर कीमत पर चिड़ियों को बाहर रखना चाहते थे, इसलिए उन्होंने घर की हर छोटी-बड़ी दरार को बंद करने की पूरी कोशिश की।   The father wanted to keep the birds out at all costs, so he tried his best to seal every small and big crack in the house.",
+"page_number":"4"
+},
+{
+"id":44,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"रात होने पर लेखक ने क्या सोचा और वास्तविकता क्या थी?   What did the author think when night fell and what was the reality?",
+"answer":"रात होने पर लेखक ने आँगन में झाँककर देखा और चिड़ियों को न पाकर सोचा कि उन्हें अक्ल आ गई है और वे हार मानकर कहीं और चली गई हैं। लेकिन वास्तविकता यह थी कि वे अगले दिन फिर से घोंसले में मौजूद थीं।   When night fell, the author peeked into the courtyard and, not finding the birds, thought they had gained sense and accepted defeat to go somewhere else. But the reality was that they were present in the nest again the next day.",
+"keywords":[
+"अक्ल आ गई   Gained sense",
+"हार मानकर   Accepting defeat",
+"वास्तविकता   Reality"
+],
+"explanation":"लेखक को लगा कि पिताजी की सख्ती काम कर गई है, लेकिन पक्षी अपने घोंसले और अंडों से इतना प्यार करते हैं कि वे आसानी से हार नहीं मानते।   The author felt that the father's strictness had worked, but birds love their nests and eggs so much that they do not give up easily.",
+"page_number":"4"
+},
+{
+"id":45,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"घोंसला टूटते समय लेखक ने गौरैयों की क्या स्थिति देखी?   What condition of the sparrows did the author observe when the nest was being broken?",
+"answer":"लेखक ने देखा कि दोनों गौरैयाँ चुपचाप दीवार पर बैठी थीं। वे पहले से कुछ दुबली और काली पड़ गई थीं। डर और उदासी के कारण उन्होंने चहकना भी बंद कर दिया था।   The author saw that both sparrows were sitting quietly on the wall. They had become somewhat thinner and darker than before. Due to fear and sadness, they had even stopped chirping.",
+"keywords":[
+"चुपचाप   Quietly",
+"दुबली और काली   Thin and dark",
+"उदासी   Sadness"
+],
+"explanation":"बार-बार भगाए जाने और अपना घर उजड़ता हुआ देखकर पक्षी थक गए थे और तनाव में आ गए थे, जिसके कारण उनका उत्साह खत्म हो गया था।   Being chased away repeatedly and seeing their home being destroyed, the birds were tired and stressed, due to which their enthusiasm was gone.",
+"page_number":"5"
+},
+{
+"id":46,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"कहानी के अंत में कमरे का वातावरण कैसा था और पिताजी की क्या प्रतिक्रिया थी?   What was the atmosphere of the room at the end of the story and what was the father's reaction?",
+"answer":"कहानी के अंत में गौरैयों के माता-पिता अंदर आ गए और बच्चों को चुग्गा खिलाने लगे, जिससे कमरे में फिर से चीं-चीं का शोर होने लगा। लेकिन इस बार पिताजी गुस्सा नहीं हुए, बल्कि कुर्सी पर बैठकर चुपचाप मुस्कुराते रहे।   At the end of the story, the sparrow parents came inside and started feeding the chicks, which caused the room to be filled with chirping noise again. But this time the father did not get angry, instead, he sat on the chair and smiled quietly.",
+"keywords":[
+"चुग्गा खिलाने   Feeding pecks",
+"शोर   Noise",
+"मुस्कुराते रहे   Kept smiling"
+],
+"explanation":"पिताजी का हृदय परिवर्तन हो गया था। नन्हे बच्चों के प्रति माता-पिता का प्यार देखकर उनका सारा गुस्सा शांत हो गया और उन्होंने पक्षियों को स्वीकार कर लिया।   The father had a change of heart. Seeing the parents' love for the tiny chicks, all his anger subsided and he accepted the birds.",
+"page_number":"6"
+},
+{
+"id":47,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"आधुनिक इमारतों का गौरैयों के जीवन पर क्या प्रभाव पड़ा है?   What impact have modern buildings had on the lives of sparrows?",
+"answer":"आधुनिक इमारतें काँच और सपाट कंक्रीट से बनती हैं। इनमें पुराने घरों की तरह छज्जे, आलों या रोशनदानों की जगह नहीं होती। इसलिए गौरैयों को घोंसला बनाने और अपने बच्चों को सुरक्षित पालने के लिए जगह कम हो गई है।   Modern buildings are made of glass and flat concrete. They do not have space for eaves, niches, or ventilators like old houses. Therefore, space has reduced for sparrows to build nests and safely raise their chicks.",
+"keywords":[
+"आधुनिक इमारतें   Modern buildings",
+"छज्जे और रोशनदान   Eaves and ventilators",
+"घोंसला बनाने की जगह   Space to build nest"
+],
+"explanation":"पर्यावरण में आए बदलावों और शहरी ढांचे ने गौरैयों के प्राकृतिक आवास को नष्ट कर दिया है, जिससे उनकी संख्या घट रही है।   Changes in the environment and urban infrastructure have destroyed the natural habitat of sparrows, causing their numbers to decline.",
+"page_number":"16"
+},
+{
+"id":48,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"पेट्रोल का गौरैयों के लुप्त होने से क्या संबंध है?   What is the connection between petrol and the disappearance of sparrows?",
+"answer":"लेख के अनुसार, सीसा रहित पेट्रोल के उपयोग से विषैले यौगिक पैदा होते हैं। ये रसायन उन कीटों को मार देते हैं या नुकसान पहुँचाते हैं जिन पर गौरैया भोजन के लिए निर्भर होती हैं, जिससे गौरैयों को भोजन नहीं मिल पाता।   According to the article, the use of unleaded petrol produces toxic compounds. These chemicals kill or harm the insects on which sparrows depend for food, depriving the sparrows of food.",
+"keywords":[
+"सीसा रहित पेट्रोल   Unleaded petrol",
+"विषैले यौगिक   Toxic compounds",
+"कीटों को नुकसान   Harm to insects"
+],
+"explanation":"प्रदूषण केवल मनुष्यों को ही नहीं बल्कि पारिस्थितिकी तंत्र को भी बिगाड़ता है। कीड़ों की कमी होने से पक्षियों की खाद्य श्रृंखला टूट गई है।   Pollution not only harms humans but also disrupts the ecosystem. The lack of insects has broken the food chain of birds.",
+"page_number":"16"
+},
+{
+"id":49,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"शिकारी ने पक्षियों को फँसाने के लिए क्या किया और कौए ने क्या प्रतिक्रिया दी?   What did the hunter do to trap the birds and how did the crow react?",
+"answer":"शिकारी ने वटवृक्ष के नीचे ज़मीन पर अनाज के दाने बिखेर दिए और खुद झाड़ी के पीछे छिप गया। यह देखकर लघुपतनक कौए ने अन्य पक्षियों को चेतावनी दी कि वे लालच में न पड़ें क्योंकि ये दाने ज़हर के समान हैं।   The hunter spread grains of grain on the ground under the banyan tree and hid behind a bush. Seeing this, Laghupatanak the crow warned the other birds not to fall for greed as these grains are like poison.",
+"keywords":[
+"दाने बिखेर दिए   Spread grains",
+"झाड़ी के पीछे   Behind the bush",
+"चेतावनी   Warning"
+],
+"explanation":"कौआ बहुत सतर्क और बुद्धिमान था। उसने शिकारी की चाल को तुरंत समझ लिया और अपने साथियों की जान बचाने की कोशिश की।   The crow was very alert and intelligent. He immediately understood the hunter's trick and tried to save his companions' lives.",
+"page_number":"17"
+},
+{
+"id":50,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"कबूतर जाल में क्यों फँस गए? इससे हमें क्या सीख मिलती है?   Why did the pigeons get caught in the net? What lesson do we learn from this?",
+"answer":"कबूतर कौए की चेतावनी के बावजूद अनाज के दानों को देखकर अपना लालच नहीं रोक पाए और जाल में फँस गए। इससे हमें सीख मिलती है कि लोभ से बुद्धि नष्ट हो जाती है और इंसान संकट में पड़ जाता है।   Despite the crow's warning, the pigeons could not control their greed upon seeing the grains and got caught in the net. We learn from this that greed destroys wisdom and puts a person in crisis.",
+"keywords":[
+"लालच   Greed",
+"जाल में फँस गए   Got caught in the net",
+"बुद्धि नष्ट   Wisdom destroyed"
+],
+"explanation":"लोभ एक बहुत बुरी बला है। लालच में आकर अच्छे-अच्छे समझदार लोग भी सही-गलत का फैसला नहीं कर पाते और अपना नुकसान कर बैठते हैं।   Greed is a very bad affliction. Driven by greed, even sensible people fail to decide what is right and wrong and end up harming themselves.",
+"page_number":"17"
+},
+{
+"id":51,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"कबूतरों के राजा चित्रग्रीव ने जाल में फँसने के बाद क्या बुद्धिमानी दिखाई?   What wisdom did the king of pigeons, Chitragreev, show after getting caught in the net?",
+"answer":"चित्रग्रीव ने हिम्मत नहीं हारी। उसने कबूतरों को समझाया कि वे डरे नहीं बल्कि एकजुट होकर अपनी पूरी शक्ति से जाल के साथ ही उड़ जाएँ। उसकी इस योजना से सभी कबूतर जाल सहित उड़कर शिकारी की पहुँच से बाहर हो गए।   Chitragreev did not lose courage. He explained to the pigeons not to be afraid but to unite and fly with the net with all their might. With this plan, all the pigeons flew away with the net, out of the hunter's reach.",
+"keywords":[
+"हिम्मत नहीं हारी   Did not lose courage",
+"एकजुट होकर   Uniting together",
+"जाल के साथ उड़ जाएँ   Fly away with the net"
+],
+"explanation":"एक अच्छे नेता की पहचान संकट के समय ही होती है। चित्रग्रीव ने संगठन की शक्ति का प्रयोग कर अपने दल को बचा लिया।   A good leader is identified during a crisis. Chitragreev saved his flock by using the power of organization.",
+"page_number":"17"
+},
+{
+"id":52,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"चूहे ने चित्रग्रीव से पहले उसके साथियों के बंधन क्यों काटे? चित्रग्रीव का इस पर क्या विचार था?   Why did the mouse cut the bonds of Chitragreev's companions before him? What was Chitragreev's thought on this?",
+"answer":"चूहा चित्रग्रीव को मुख्य मानता था इसलिए पहले उसके बंधन काटना चाहता था। लेकिन चित्रग्रीव ने कहा कि ये उसके अनुचर हैं और एक राजा का धर्म है कि वह पहले अपनी प्रजा के सुख-दुख का ध्यान रखे, इसलिए पहले उन्हें मुक्त किया जाए।   The mouse considered Chitragreev the main person, so he wanted to cut his bonds first. But Chitragreev said that they are his followers and it is a king's duty to take care of his subjects' joys and sorrows first, hence they should be freed first.",
+"keywords":[
+"अनुचर   Followers",
+"राजा का धर्म   Duty of a king",
+"सुख-दुख   Joys and sorrows"
+],
+"explanation":"इस घटना से सिद्ध होता है कि चित्रग्रीव एक महान और निःस्वार्थ नेता था जो अपनी जान से ज्यादा अपने साथियों की परवाह करता था।   This incident proves that Chitragreev was a great and selfless leader who cared more for his companions than his own life.",
+"page_number":"18"
+},
+{
+"id":53,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"कौए और चूहे के बीच कृत्रिम और स्वाभाविक वैर को लेकर क्या बहस हुई?   What debate took place between the crow and the mouse regarding artificial and natural enmity?",
+"answer":"चूहे ने कहा कि वे जन्मजात दुश्मन हैं क्योंकि कौआ शिकारी है और चूहा शिकार (स्वाभाविक वैर)। लेकिन कौए ने कहा कि वह चूहे के गुणों से प्रभावित है और बिना किसी स्वार्थ के सच्ची मित्रता (कृत्रिम वैर समाप्त करना) चाहता है।   The mouse said they are natural enemies because the crow is the predator and the mouse is the prey (natural enmity). But the crow said he is impressed by the mouse's qualities and wants true friendship without any selfish motive (ending artificial enmity).",
+"keywords":[
+"जन्मजात दुश्मन   Natural enemies",
+"गुणों से प्रभावित   Impressed by qualities",
+"सच्ची मित्रता   True friendship"
+],
+"explanation":"प्रकृति के नियम के अनुसार चूहा और कौआ दुश्मन होते हैं, लेकिन कौए ने साबित किया कि अच्छे आचरण से जन्मजात दुश्मनी को भी भुलाया जा सकता है।   According to the law of nature, mouse and crow are enemies, but the crow proved that even innate enmity can be forgotten through good behavior.",
+"page_number":"19"
+},
+{
+"id":54,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"लघुपतनक और हिरण्यक ने अपना मूल स्थान क्यों छोड़ा और वे कहाँ गए?   Why did Laghupatanak and Hiranyak leave their original place and where did they go?",
+"answer":"उनके देश में अकाल पड़ गया था जिससे दाना-पानी मिलना मुश्किल हो गया और शिकारी भी बढ़ गए थे। इसलिए वे दोनों दक्षिण दिशा में एक तालाब के पास गए, जहाँ कौए का मित्र मन्थरक कछुआ रहता था।   A famine had struck their country making it difficult to find food and water, and hunters had also increased. Therefore, both went to a lake in the southern direction, where the crow's friend Mantharak the tortoise lived.",
+"keywords":[
+"अकाल   Famine",
+"दक्षिण दिशा   Southern direction",
+"मन्थरक कछुआ   Mantharak the tortoise"
+],
+"explanation":"संकट के समय सुरक्षित स्थान और अच्छे मित्रों की शरण लेना बुद्धिमानी है। इसलिए कौआ अपने पुराने मित्र के पास चला गया।   It is wise to seek a safe place and the refuge of good friends during a crisis. That is why the crow went to his old friend.",
+"page_number":"20"
+},
+{
+"id":55,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"तालाब के किनारे चित्रांग हिरन किस अवस्था में आया था?   In what condition did Chitrang the deer arrive at the edge of the lake?",
+"answer":"चित्रांग हिरन बहुत घबराया हुआ था और हाँफ रहा था। वह एक शिकारी से अपनी जान बचाकर भाग रहा था। डर के कारण वह बार-बार पीछे मुड़कर देख रहा था कि शिकारी आ तो नहीं रहा।   Chitrang the deer was very panicked and panting. He was running to save his life from a hunter. Due to fear, he was repeatedly looking back to see if the hunter was coming.",
+"keywords":[
+"घबराया हुआ   Panicked",
+"हाँफ रहा था   Panting",
+"जान बचाकर   Saving life"
+],
+"explanation":"हिरन को छिपने के लिए जगह चाहिए थी। उसकी यह हालत देखकर कछुए और अन्य मित्रों ने उसकी सहायता की और उसे सुरक्षित स्थान बताया।   The deer needed a place to hide. Seeing his condition, the tortoise and other friends helped him and told him a safe place.",
+"page_number":"20"
+},
+{
+"id":56,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"जाल में फँसे चित्रांग की मानसिक स्थिति कैसी थी और उसने कौए से क्या कहा?   What was the mental state of Chitrang trapped in the net and what did he say to the crow?",
+"answer":"जाल में फँसा चित्रांग बहुत निराश था और उसकी आँखों में आँसू थे। उसने सोचा कि अब उसकी मृत्यु निश्चित है। उसने कौए से कहा कि अंतिम समय में मित्र के दर्शन सुखद होते हैं और उसने अपने अपराधों के लिए क्षमा माँगी।   Chitrang trapped in the net was very disappointed and had tears in his eyes. He thought his death was now certain. He told the crow that seeing a friend in one's final moments is comforting and he asked for forgiveness for his faults.",
+"keywords":[
+"निराश   Disappointed",
+"मृत्यु निश्चित   Death certain",
+"क्षमा माँगी   Asked for forgiveness"
+],
+"explanation":"हिरन पूरी तरह से उम्मीद छोड़ चुका था। उसे लगा कि अब उसे कोई नहीं बचा सकता, इसलिए वह भावुक होकर अपने मित्र से विदा ले रहा था।   The deer had completely given up hope. He felt that no one could save him now, so he was emotionally bidding farewell to his friend.",
+"page_number":"21"
+},
+{
+"id":57,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"कछुए को जाल में फँसा देखकर कौए ने उसे बचाने की क्या चाल चली?   Seeing the tortoise trapped in the net, what trick did the crow play to save him?",
+"answer":"कौए ने हिरन को तालाब के किनारे मरे होने का नाटक करने को कहा। कौआ उस पर बैठकर उसकी आँखें नोचने का दिखावा करने लगा। शिकारी हिरन को मरा समझकर कछुए को वहीं छोड़ हिरन की तरफ बढ़ा, और तब चूहे ने कछुए के बंधन काट दिए।   The crow told the deer to pretend to be dead near the pond. The crow sat on him and pretended to peck his eyes. The hunter, thinking the deer was dead, left the tortoise there and moved towards the deer, and then the mouse cut the tortoise's bonds.",
+"keywords":[
+"नाटक   Pretend",
+"आँखें नोचने   Pecking eyes",
+"बंधन काट दिए   Cut the bonds"
+],
+"explanation":"यह कौए की सूझबूझ का बेहतरीन उदाहरण है जहाँ उसने बिना किसी हथियार के केवल बुद्धि से शिकारी को मात दे दी।   This is a great example of the crow's presence of mind where he defeated the hunter purely with his intellect without any weapons.",
+"page_number":"22"
+},
+{
+"id":58,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"अंत में जब शिकारी हिरन के पास पहुँचा, तो क्या-क्या घटनाएँ हुईं?   In the end, when the hunter reached near the deer, what events took place?",
+"answer":"जैसे ही शिकारी हिरन के पास पहुँचा, हिरन तुरंत उठकर जंगल में भाग गया। कौआ उड़कर पेड़ पर बैठ गया और चूहे ने जल्दी से कछुए का जाल काट दिया जिससे कछुआ पानी में खिसक गया। शिकारी खाली हाथ रह गया।   As soon as the hunter reached the deer, the deer immediately got up and ran into the forest. The crow flew and sat on the tree, and the mouse quickly cut the tortoise's net, allowing the tortoise to slip into the water. The hunter was left empty-handed.",
+"keywords":[
+"जंगल में भाग गया   Ran into the forest",
+"पानी में खिसक गया   Slipped into the water",
+"खाली हाथ   Empty-handed"
+],
+"explanation":"मित्रों की योजना पूरी तरह सफल रही। चारों दोस्तों ने मिलकर एक-दूसरे की जान बचा ली और शिकारी को अपनी गलती का पछतावा हुआ।   The friends' plan was completely successful. The four friends together saved each other's lives and the hunter regretted his mistake.",
+"page_number":"22"
+},
+{
+"id":59,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"इस कहानी से हमें मित्रता के विषय में क्या महत्वपूर्ण सीख मिलती है?   What important lesson do we learn about friendship from this story?",
+"answer":"कहानी सिखाती है कि सच्ची मित्रता में बड़ी शक्ति होती है। सच्चे मित्र स्वभाव में अलग होने पर भी संकट के समय एक-दूसरे के काम आते हैं और मिलकर बड़ी से बड़ी मुसीबत या शत्रु का सामना कर सकते हैं।   The story teaches that there is great power in true friendship. True friends, even if different in nature, help each other in times of crisis and together can face the biggest trouble or enemy.",
+"keywords":[
+"सच्ची मित्रता   True friendship",
+"संकट के समय   In times of crisis",
+"मुसीबत का सामना   Facing trouble"
+],
+"explanation":"कौआ, चूहा, कछुआ और हिरन चार बिल्कुल अलग जीव थे, फिर भी उनकी निस्वार्थ मित्रता ने उन्हें एक शक्तिशाली शिकारी से बचा लिया।   The crow, mouse, tortoise, and deer were four completely different creatures, yet their selfless friendship saved them from a powerful hunter.",
+"page_number":"23"
+},
+{
+"id":60,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"मन्थरक कछुए का चरित्र चित्रण संक्षेप में करें।   Briefly describe the character of Mantharak the tortoise.",
+"answer":"मन्थरक एक बहुत ही वफादार और भावुक मित्र था। वह धीमी चाल चलने वाला जीव था, लेकिन अपने मित्रों के प्रति उसका प्रेम इतना गहरा था कि वह हिरन की चिंता में अपनी जान जोखिम में डालकर जाल के पास पहुँच गया।   Mantharak was a very loyal and emotional friend. He was a slow-moving creature, but his love for his friends was so deep that out of concern for the deer, he risked his life and reached near the net.",
+"keywords":[
+"वफादार   Loyal",
+"भावुक मित्र   Emotional friend",
+"जान जोखिम में   Risked life"
+],
+"explanation":"कछुए को पता था कि वह भाग नहीं सकता, फिर भी मित्र के प्रति उसकी चिंता ने उसे सुरक्षित स्थान से बाहर आने पर मजबूर कर दिया।   The tortoise knew he couldn't run, yet his concern for his friend forced him to come out of his safe place.",
+"page_number":"22"
+},
+{
+"id":61,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"हिरण्यक चूहे ने कहानी में क्या महत्वपूर्ण भूमिका निभाई?   What important role did Hiranyak the mouse play in the story?",
+"answer":"हिरण्यक ने कहानी में संकटमोचक की भूमिका निभाई। उसने अपने तीखे दाँतों से पहले कबूतरों का जाल काटा, फिर हिरन का जाल काटा और अंत में कछुए को भी शिकारी के जाल से आज़ाद किया। उसके बिना कोई नहीं बच पाता।   Hiranyak played the role of a troubleshooter in the story. With his sharp teeth, he first cut the pigeons' net, then the deer's net, and finally freed the tortoise from the hunter's net. Without him, no one would have survived.",
+"keywords":[
+"संकटमोचक   Troubleshooter",
+"तीखे दाँतों   Sharp teeth",
+"आज़ाद किया   Freed"
+],
+"explanation":"चूहा आकार में सबसे छोटा था लेकिन उसका काम सबसे बड़ा था। उसने साबित किया कि छोटा जीव भी बड़े से बड़ा काम कर सकता है।   The mouse was the smallest in size but his work was the biggest. He proved that even a small creature can do the biggest task.",
+"page_number":"23"
+},
+{
+"id":62,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"लघुपतनक (कौए) की बुद्धिमत्ता के कोई दो उदाहरण दीजिए।   Give any two examples of the intelligence of Laghupatanak (the crow).",
+"answer":"पहला उदाहरण: उसने शिकारी को दाने डालते देख तुरंत समझ लिया कि यह जाल है और पक्षियों को सावधान किया। दूसरा उदाहरण: कछुए को बचाने के लिए उसने हिरन के मरने का झूठा नाटक रचकर शिकारी को बेवकूफ बनाया।   First example: Seeing the hunter spreading grains, he immediately understood it was a trap and warned the birds. Second example: To save the tortoise, he fooled the hunter by staging the fake death of the deer.",
+"keywords":[
+"सावधान किया   Warned",
+"झूठा नाटक   Fake drama",
+"बेवकूफ बनाया   Fooled"
+],
+"explanation":"पूरी कहानी में कौआ योजना बनाने और खतरे को पहले ही भाँप लेने में सबसे चतुर सिद्ध होता है।   Throughout the story, the crow proves to be the cleverest in planning and sensing danger in advance.",
+"page_number":"22"
+},
+{
+"id":63,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"'मित्रलाभ' कहानी किस पुस्तक से ली गई है और उसका उद्देश्य क्या है?   From which book is the story 'Mitralabh' taken and what is its purpose?",
+"answer":"यह कहानी प्राचीन भारतीय ग्रंथ 'पंचतंत्र' से ली गई है। पंचतंत्र की कहानियों का मुख्य उद्देश्य नीति (नैतिक ज्ञान), व्यवहार कुशलता और मनोरंजन के माध्यम से जीवन की महत्वपूर्ण सीख देना है।   This story is taken from the ancient Indian text 'Panchatantra'. The main purpose of Panchatantra stories is to impart important life lessons through ethics (moral knowledge), practical wisdom, and entertainment.",
+"keywords":[
+"पंचतंत्र   Panchatantra",
+"नैतिक ज्ञान   Moral knowledge",
+"व्यवहार कुशलता   Practical wisdom"
+],
+"explanation":"पंचतंत्र में जानवरों को पात्र बनाकर इंसानों को समझदारी, मित्रता और संकट से बचने की शिक्षा दी गई है।   In Panchatantra, by making animals the characters, humans are taught about wisdom, friendship, and escaping crises.",
+"page_number":"23"
+},
+{
+"id":64,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":50
+},
+"question":"माँ और पिताजी के स्वभाव में क्या मुख्य अंतर था?   What was the main difference between the nature of the mother and the father?",
+"answer":"पिताजी थोड़े क्रोधी और व्यावहारिक स्वभाव के थे, जिन्हें घर में पक्षियों का आना और गंदगी करना बिल्कुल पसंद नहीं था। वहीं माँ शांत, दयालु और विनोदी स्वभाव की थीं; वे पक्षियों से सहानुभूति रखती थीं और पिताजी का मज़ाक उड़ाती थीं।   The father was of a somewhat angry and practical nature, who did not like birds entering the house and making a mess at all. On the other hand, the mother was calm, kind, and humorous; she sympathized with the birds and made fun of the father.",
+"keywords":[
+"क्रोधी   Angry",
+"दयालु   Kind",
+"सहानुभूति   Sympathy"
+],
+"explanation":"कहानी में माँ प्रकृति और जीवों के प्रति प्रेम का प्रतीक हैं, जबकि पिताजी इंसानी दखलंदाजी और नियंत्रण का प्रतीक हैं।   In the story, the mother symbolizes love for nature and creatures, while the father symbolizes human interference and control.",
+"page_number":"3"
+},
+{
+"id":65,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"'दो गौरैया' कहानी में घर के वातावरण का जो सजीव चित्रण किया गया है, उसे अपने शब्दों में लिखिए।   Write in your own words the vivid depiction of the house's atmosphere described in the story 'Do Gauraiya'.",
+"answer":"लेखक का घर एक चिड़ियाघर या सराय के समान था। घर में केवल तीन इंसान रहते थे, लेकिन जीव-जंतुओं की भरमार थी। आँगन के आम के पेड़ पर पक्षियों का डेरा था। रात में चूहों की धमा-चौकड़ी से नींद हराम हो जाती थी। बर्तन गिरते थे और टूटते थे। शाम होते ही चमगादड़ कमरों में उड़ने लगते थे। दीवारों पर छिपकलियाँ और चींटियों की फौज रहती थी। कबूतर और गौरैया बिना रोक-टोक घर के अंदर आते थे। यह वातावरण बहुत ही शोरगुल और जीवंत था।   The author's house was like a zoo or an inn. Only three humans lived in the house, but there was an abundance of animals. Birds camped on the mango tree in the courtyard. At night, sleep was ruined by the ruckus of mice. Utensils fell and broke. As evening came, bats started flying in the rooms. Lizards and armies of ants lived on the walls. Pigeons and sparrows entered the house without any restriction. This atmosphere was very noisy and lively.",
+"keywords":[
+"सजीव चित्रण   Vivid depiction",
+"धमा-चौकड़ी   Ruckus",
+"जीवंत   Lively",
+"बिना रोक-टोक   Without restriction"
+],
+"explanation":"लेखक ने बड़े ही रोचक ढंग से बताया है कि प्रकृति और जीव-जंतु कैसे हमारे शहरी घरों का हिस्सा बन जाते हैं। इस घर में शांति की कमी थी लेकिन जीवन भरपूर था।   The author has described in a very interesting way how nature and animals become a part of our urban homes. This house lacked peace but was full of life.",
+"page_number":"1"
+},
+{
+"id":66,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"पिताजी ने गौरैयों को घर से निकालने के लिए क्या-क्या प्रयास किए और अंत में क्या हुआ?   What efforts did the father make to drive the sparrows out of the house and what happened in the end?",
+"answer":"पिताजी ने शुरुआत में पंखे के नीचे खड़े होकर ताली बजाई, आवाज़ें निकालीं और कूदे ताकि चिड़ियाँ डर जाएँ। जब वे नहीं गईं, तो उन्होंने लाठी से उन्हें डराया और सभी दरवाजे-रोशनदान कपड़े ठूँसकर बंद कर दिए। फिर भी जब चिड़ियाँ वापस आ गईं, तो पिताजी ने स्टूल पर चढ़कर लाठी से उनका घोंसला ही तोड़ गिराया। लेकिन अंत में जब नन्हे बच्चे रोने लगे और गौरैयाँ उन्हें दाना खिलाने लौटीं, तो पिताजी का हृदय पिघल गया और वे मुस्कुराने लगे।   Initially, the father stood under the fan, clapped, made noises, and jumped to scare the birds. When they didn't leave, he scared them with a stick and closed all doors and ventilators by stuffing clothes. Still, when the birds returned, the father climbed a stool and completely broke their nest with the stick. But in the end, when the tiny chicks started crying and the sparrows returned to feed them, the father's heart melted and he started smiling.",
+"keywords":[
+"प्रयास   Efforts",
+"घोंसला तोड़ गिराया   Broke the nest",
+"हृदय पिघल गया   Heart melted",
+"मुस्कुराने लगे   Started smiling"
+],
+"explanation":"पिताजी की सारी आक्रामकता बच्चों के प्रति पक्षियों का वात्सल्य देखकर खत्म हो गई। यह दर्शाता है कि कठोर से कठोर व्यक्ति भी मासूमियत के सामने झुक जाता है।   All of the father's aggressiveness vanished upon seeing the birds' affection for their chicks. This shows that even the harshest person bows down before innocence.",
+"page_number":"3-6"
+},
+{
+"id":67,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"इस कहानी में माँ की भूमिका की विवेचना कीजिए। क्या माँ वास्तव में चिड़ियों को भगाना चाहती थीं?   Discuss the role of the mother in this story. Did the mother really want to drive the birds away?",
+"answer":"कहानी में माँ एक बहुत ही दयालु, समझदार और विनोदप्रिय महिला हैं। वे वास्तव में चिड़ियों को भगाना नहीं चाहती थीं। जब पिताजी चिड़ियों को भगाने के लिए अजीब हरकतें करते, तो माँ उनका मज़ाक उड़ातीं और खूब हँसती थीं। माँ ने पिताजी को रोशनदान बंद करने से भी रोका यह कहकर कि चिड़ियों ने अंडे दे दिए हैं। वे जानबूझकर एक दरवाजा खुला रखने की बात कहतीं ताकि चिड़ियाँ आ-जा सकें। माँ का व्यवहार पक्षियों के प्रति स्नेहपूर्ण था।   In the story, the mother is a very kind, sensible, and humorous woman. She did not really want to drive the birds away. When the father did weird things to chase the birds, the mother mocked him and laughed a lot. The mother even stopped the father from closing the ventilator saying that the birds have laid eggs. She deliberately asked to keep one door open so the birds could come and go. The mother's behavior was affectionate towards the birds.",
+"keywords":[
+"दयालु   Kind",
+"विनोदप्रिय   Humorous",
+"स्नेहपूर्ण   Affectionate",
+"मज़ाक उड़ातीं   Mocked"
+],
+"explanation":"माँ की बातें भले ही व्यंग्यात्मक थीं, लेकिन उनके पीछे जीवों के प्रति गहरी करुणा छिपी थी। वे पिताजी को रोक नहीं सकती थीं, लेकिन अपने तरीके से चिड़ियों का पक्ष ले रही थीं।   Even though the mother's words were sarcastic, deep compassion for animals was hidden behind them. She couldn't stop the father, but was taking the side of the birds in her own way.",
+"page_number":"3-4"
+},
+{
+"id":68,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"'किसी को सचमुच बाहर निकालना हो, तो उसका घर तोड़ देना चाहिए' - इस कथन के आधार पर बताइए कि इंसान प्रकृति पर किस तरह हावी हो रहा है?   'If someone really needs to be thrown out, their house should be destroyed' - Based on this statement, explain how humans are dominating nature?",
+"answer":"पिताजी का यह कथन इंसानी मानसिकता को दर्शाता है। हम इंसान अपनी सुविधा के लिए प्रकृति और जानवरों के आवास को बिना सोचे-समझे नष्ट कर देते हैं। जैसे पिताजी ने अपने आराम के लिए गौरैयों का घोंसला तोड़ दिया, वैसे ही आज मनुष्य जंगलों को काटकर, पहाड़ खोदकर और कंक्रीट के शहर बसाकर जीवों के घर उजाड़ रहा है। हम यह भूल जाते हैं कि इस धरती पर उनका भी उतना ही अधिकार है जितना हमारा।   This statement of the father reflects human mentality. For our convenience, we humans destroy nature and animal habitats without a thought. Just as the father destroyed the sparrows' nest for his comfort, today man is ruining animals' homes by cutting forests, digging mountains, and building concrete cities. We forget that they have as much right to this earth as we do.",
+"keywords":[
+"इंसानी मानसिकता   Human mentality",
+"आवास नष्ट करना   Destroying habitat",
+"अधिकार   Right",
+"कंक्रीट के शहर   Concrete cities"
+],
+"explanation":"यह कहानी एक छोटे से घोंसले के माध्यम से पर्यावरण विनाश के बड़े मुद्दे की ओर इशारा करती है। मनुष्य अपनी शक्ति का प्रयोग कमज़ोर जीवों को बेघर करने में करता है।   Through a small nest, this story points towards the larger issue of environmental destruction. Humans use their power to render weaker creatures homeless.",
+"page_number":"5"
+},
+{
+"id":69,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"विश्व गौरैया दिवस क्यों मनाया जाता है और आधुनिक समय में गौरैयों की संख्या कम होने के मुख्य कारण क्या हैं?   Why is World Sparrow Day celebrated and what are the main reasons for the decline in the number of sparrows in modern times?",
+"answer":"विश्व गौरैया दिवस हर साल 20 मार्च को मनाया जाता है ताकि लोगों में गौरैयों के संरक्षण के प्रति जागरूकता फैलाई जा सके। आधुनिक समय में इनकी संख्या घटने के दो मुख्य कारण हैं- पहला, आधुनिक इमारतों में घोंसला बनाने के लिए छज्जों और आलों का अभाव। दूसरा, सीसा रहित पेट्रोल से निकलने वाले ज़हरीले रसायन, जो उन छोटे कीड़ों को नष्ट कर देते हैं जिन्हें खाकर गौरैया जीवित रहती है। इन कारणों से यह पक्षी दुर्लभ हो गया है।   World Sparrow Day is celebrated every year on March 20 to spread awareness among people towards the conservation of sparrows. There are two main reasons for their decline in modern times - first, the lack of eaves and niches in modern buildings to build nests. Second, toxic chemicals emitted from unleaded petrol, which destroy the small insects that sparrows eat to survive. Due to these reasons, this bird has become rare.",
+"keywords":[
+"जागरूकता   Awareness",
+"संरक्षण   Conservation",
+"आधुनिक इमारतें   Modern buildings",
+"ज़हरीले रसायन   Toxic chemicals"
+],
+"explanation":"लेख में स्पष्ट किया गया है कि मानव के विकास और तकनीकी प्रगति ने अनजाने में ही हमारे आस-पास रहने वाले इन मासूम पक्षियों का जीवन संकट में डाल दिया है।   The article clarifies that human development and technological progress have unknowingly endangered the lives of these innocent birds living around us.",
+"page_number":"16"
+},
+{
+"id":70,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"'मित्रलाभ' कहानी में चित्रग्रीव और उसके दल के जाल में फँसने से लेकर मुक्त होने तक की घटना का वर्णन करें।   Describe the event from Chitragreev and his flock getting caught in the net to getting freed in the story 'Mitralabh'.",
+"answer":"जंगल में शिकारी ने दाने डालकर जाल बिछाया था। कौए के मना करने पर भी चित्रग्रीव और उसके कबूतर लोभ में आकर दाने चुगने गए और फँस गए। चित्रग्रीव ने सूझबूझ से काम लिया और सबको एक साथ ज़ोर लगाकर जाल समेत उड़ने को कहा। वे उड़ते हुए चित्रग्रीव के मित्र हिरण्यक चूहे के पास पहुँचे। चूहे ने अपने तेज़ दाँतों से पहले बाकी कबूतरों के और फिर चित्रग्रीव के बंधन काट दिए, जिससे वे सब मुक्त हो गए।   In the forest, the hunter had laid a net by throwing grains. Despite the crow's refusal, Chitragreev and his pigeons went to peck the grains out of greed and got caught. Chitragreev acted wisely and asked everyone to exert force together and fly along with the net. Flying, they reached Chitragreev's friend Hiranyak the mouse. With his sharp teeth, the mouse first cut the bonds of the other pigeons and then Chitragreev's, freeing them all.",
+"keywords":[
+"जाल बिछाया   Laid a net",
+"लोभ   Greed",
+"जाल समेत उड़ने   To fly with the net",
+"बंधन काट दिए   Cut the bonds"
+],
+"explanation":"यह प्रसंग सिखाता है कि लालच मुसीबत लाता है, लेकिन अगर मुसीबत आ जाए तो घबराने के बजाय एकता और समझदारी से काम लेना चाहिए, और सच्चे मित्र हमेशा काम आते हैं।   This incident teaches that greed brings trouble, but if trouble comes, instead of panicking, one should act with unity and wisdom, and true friends are always helpful.",
+"page_number":"17-18"
+},
+{
+"id":71,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"कौए और चूहे की बातचीत के आधार पर बताइए कि एक सच्चा मित्र कैसे बनाया जा सकता है?   Based on the conversation between the crow and the mouse, explain how a true friend can be made?",
+"answer":"कौए और चूहे की बातचीत बताती है कि मित्रता केवल समान जातियों में नहीं होती। कौआ चूहे का दुश्मन था, फिर भी उसने चूहे के अच्छे गुणों (परोपकार और सज्जनता) को पहचाना। सच्चा मित्र बनाने के लिए अपना अहंकार छोड़ना पड़ता है, सामने वाले पर विश्वास जताना होता है और उसे सुरक्षा का भरोसा दिलाना पड़ता है। कौए ने शपथ ली और जिद की कि वह अच्छे गुणों वाले चूहे का मित्र बनना चाहता है, जिससे अंततः उनका प्राकृतिक वैर समाप्त हो गया।   The conversation between the crow and the mouse tells that friendship does not only happen among equal species. The crow was the mouse's enemy, yet he recognized the mouse's good qualities (benevolence and nobility). To make a true friend, one has to give up ego, show trust in the other person, and assure them of safety. The crow took an oath and insisted that he wanted to be a friend of the virtuous mouse, which eventually ended their natural enmity.",
+"keywords":[
+"गुणों को पहचाना   Recognized qualities",
+"अहंकार छोड़ना   Giving up ego",
+"विश्वास जताना   Showing trust",
+"प्राकृतिक वैर   Natural enmity"
+],
+"explanation":"मित्रता बाहरी रूप-रंग या जाति से नहीं, बल्कि आंतरिक गुणों और स्वभाव से होती है। सच्चा प्रेम और विश्वास किसी भी दुश्मनी को खत्म कर सकता है।   Friendship is not based on external appearance or caste, but on internal qualities and nature. True love and trust can end any enmity.",
+"page_number":"18-19"
+},
+{
+"id":72,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"कछुए को शिकारी के चंगुल से बचाने के लिए मित्रों ने क्या योजना बनाई और वह कैसे सफल हुई?   What plan did the friends make to save the tortoise from the clutches of the hunter and how was it successful?",
+"answer":"कछुए को बचाने के लिए कौए ने अपनी कुशाग्र बुद्धि से योजना बनाई। चित्रांग हिरन तालाब के पास जाकर मरे होने का नाटक करने लगा और कौआ उसके ऊपर बैठकर आँखें नोचने का दिखावा करने लगा। शिकारी ने जब हिरन को 'मरा' हुआ देखा, तो वह लालच में आ गया। उसने कछुए को वहीं ज़मीन पर रख दिया और हिरन को पकड़ने दौड़ा। इसी बीच, चूहे ने तेज़ी से आकर कछुए का जाल काट दिया। शिकारी के पास पहुँचते ही हिरन भाग गया और कछुआ पानी में चला गया।   To save the tortoise, the crow made a plan with his sharp intellect. Chitrang the deer went near the pond and started pretending to be dead, and the crow sat on him pretending to peck his eyes. When the hunter saw the deer 'dead', he became greedy. He put the tortoise on the ground right there and ran to catch the deer. Meanwhile, the mouse came quickly and cut the tortoise's net. As soon as the hunter reached, the deer ran away and the tortoise went into the water.",
+"keywords":[
+"योजना   Plan",
+"नाटक   Pretend",
+"लालच   Greed",
+"सफल   Successful"
+],
+"explanation":"मित्रों ने शिकारी की मनोवैज्ञानिक कमजोरी (लालच) का फायदा उठाया। उन चारों के सटीक तालमेल और समयबद्धता के कारण ही एक असहाय कछुए की जान बच सकी।   The friends took advantage of the hunter's psychological weakness (greed). Due to the precise coordination and timing of all four, the life of a helpless tortoise could be saved.",
+"page_number":"22"
+},
+{
+"id":73,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"इस कहानी में चित्रग्रीव राजा की कौन-सी विशेषताएँ सामने आती हैं?   What characteristics of king Chitragreev come out in this story?",
+"answer":"चित्रग्रीव एक आदर्श और निस्वार्थ राजा था। यद्यपि वह लालच में आकर फँस गया, लेकिन संकट के समय उसने धैर्य नहीं खोया। उसने अपने अनुचरों को हिम्मत बँधाई और एकता का महत्व समझाया जिससे वे जाल लेकर उड़ सके। इसके बाद जब वे चूहे के पास गए, तो चित्रग्रीव ने अपने बंधन कटवाने से पहले अपनी प्रजा के बंधन कटवाए। यह दर्शाता है कि एक सच्चा राजा अपनी जान की परवाह न करके पहले अपनी प्रजा की भलाई के बारे में सोचता है।   Chitragreev was an ideal and selfless king. Although he got trapped due to greed, he did not lose patience during the crisis. He encouraged his followers and explained the importance of unity so they could fly with the net. After this, when they went to the mouse, Chitragreev got his subjects' bonds cut before his own. This shows that a true king thinks about the welfare of his subjects first, without caring for his own life.",
+"keywords":[
+"आदर्श राजा   Ideal king",
+"धैर्य नहीं खोया   Did not lose patience",
+"एकता का महत्व   Importance of unity",
+"प्रजा की भलाई   Welfare of subjects"
+],
+"explanation":"चित्रग्रीव के चरित्र से यह सीख मिलती है कि पद और अधिकार के साथ भारी ज़िम्मेदारी भी आती है, जिसे उसे पूरी निष्ठा से निभाना चाहिए।   Chitragreev's character teaches that with position and authority comes heavy responsibility, which he must fulfill with full dedication.",
+"page_number":"17-18"
+},
+{
+"id":74,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"'मित्रता में बड़ी शक्ति है।' - मित्रलाभ कहानी के आधार पर इस कथन की पुष्टि कीजिए।   'There is great power in friendship.' - Justify this statement based on the story Mitralabh.",
+"answer":"'मित्रलाभ' कहानी इस बात का जीवंत उदाहरण है कि सच्ची मित्रता से बड़ी से बड़ी बाधा को पार किया जा सकता है। कहानी में एक छोटा चूहा कबूतरों और हिरन को जाल से आज़ाद करता है। एक कौआ अपनी जान की परवाह किए बिना अकाल में अपने मित्र के साथ यात्रा करता है। कछुआ अपने मित्र हिरन की चिंता में मौत के मुँह (शिकारी के सामने) चला जाता है। और अंत में, चारों मित्र अपनी बुद्धि और आपसी तालमेल से एक शक्तिशाली इंसान (शिकारी) को मूर्ख बनाकर एक-दूसरे को बचा लेते हैं। यह सिद्ध करता है कि संगठित और सच्चे मित्र अजेय होते हैं।   The story 'Mitralabh' is a living example that the biggest obstacle can be overcome with true friendship. In the story, a small mouse frees pigeons and a deer from the net. A crow travels with his friend during a famine without caring for his life. The tortoise goes into the jaws of death (in front of the hunter) out of concern for his friend deer. And finally, the four friends use their wisdom and mutual coordination to fool a powerful human (hunter) and save each other. This proves that united and true friends are invincible.",
+"keywords":[
+"बाधा पार करना   Overcoming obstacle",
+"आपसी तालमेल   Mutual coordination",
+"मूर्ख बनाकर   By fooling",
+"अजेय   Invincible"
+],
+"explanation":"यह कहानी पंचतंत्र का सार प्रस्तुत करती है जहाँ शारीरिक ताकत से ज़्यादा आपसी विश्वास, समझदारी और मित्रता की जीत होती है।   This story presents the essence of Panchatantra where mutual trust, wisdom, and friendship triumph over physical strength.",
+"page_number":"17-23"
+},
+{
+"id":75,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"लघुपतनक (कौए) और मन्थरक (कछुए) के चरित्र की तुलना कीजिए।   Compare the characters of Laghupatanak (Crow) and Mantharak (Tortoise).",
+"answer":"लघुपतनक बहुत ही चतुर, दूरदर्शी और व्यवहार कुशल है। वह शिकारी के खतरे को पहले भाँप लेता है, चूहे से कूटनीति से मित्रता करता है और कछुए को बचाने की अचूक योजना बनाता है। इसके विपरीत, मन्थरक अत्यंत भावुक और सीधा जीव है। वह दूरदर्शी नहीं है, इसीलिए हिरन की चिंता में वह अपनी धीमी चाल के बावजूद खतरे वाली जगह पहुँच जाता है और पकड़ा जाता है। यद्यपि दोनों सच्चे और वफादार मित्र हैं, लेकिन कौए में व्यावहारिक बुद्धि अधिक है जबकि कछुए में भावना की प्रधानता है।   Laghupatanak is very clever, far-sighted, and practical. He senses the hunter's danger early, diplomatically befriends the mouse, and makes a foolproof plan to save the tortoise. In contrast, Mantharak is a highly emotional and simple creature. He is not far-sighted, which is why, out of concern for the deer, he reaches the dangerous place despite his slow speed and gets caught. Although both are true and loyal friends, the crow has more practical wisdom while emotion predominates in the tortoise.",
+"keywords":[
+"चतुर और दूरदर्शी   Clever and far-sighted",
+"भावुक और सीधा   Emotional and simple",
+"व्यावहारिक बुद्धि   Practical wisdom",
+"वफादार मित्र   Loyal friend"
+],
+"explanation":"मित्रों का समूह अक्सर विविध स्वभाव वाले लोगों से बनता है। कौए का दिमाग और कछुए का दिल, दोनों मिलकर ही इस मित्रता को इतना गहरा और सफल बनाते हैं।   A group of friends is often made up of people with diverse natures. The mind of the crow and the heart of the tortoise together make this friendship so deep and successful.",
+"page_number":"19-22"
+},
+{
+"id":76,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"शिकारी की मानसिकता और लालच ने उसके पतन में क्या भूमिका निभाई?   What role did the hunter's mentality and greed play in his downfall?",
+"answer":"शिकारी अत्यंत लोभी था। पहले उसने पक्षियों को फँसाने के लिए दाने डाले। बाद में, जब उसे कछुआ मिल गया, तो वह उसे लेकर जा रहा था। लेकिन जैसे ही उसने एक बड़ा शिकार (हिरन) ज़मीन पर पड़ा देखा, उसका लालच जाग उठा। उसने सोचा कि वह कछुए और हिरन दोनों को ले जाएगा। इसी लालच में उसने पकड़े हुए कछुए को ज़मीन पर रख दिया। अंत में, हिरन भी भाग गया और कछुआ भी। लालच के कारण जो उसके हाथ में था, वह भी छिन गया।   The hunter was extremely greedy. First he threw grains to trap the birds. Later, when he got the tortoise, he was taking it away. But as soon as he saw a bigger prey (deer) lying on the ground, his greed awoke. He thought he would take both the tortoise and the deer. In this greed, he put the caught tortoise on the ground. In the end, the deer ran away and so did the tortoise. Due to greed, he lost even what was in his hands.",
+"keywords":[
+"अत्यंत लोभी   Extremely greedy",
+"बड़ा शिकार   Bigger prey",
+"लालच जाग उठा   Greed awoke",
+"हाथ में था वह भी छिन गया   Lost what was in his hands"
+],
+"explanation":"शिकारी का चरित्र दर्शाता है कि अति लालच हमेशा दुख का कारण बनता है। 'आधी छोड़ पूरी को धावै, आधी रहे न पूरी पावै' की कहावत उस पर सटीक बैठती है।   The hunter's character shows that excessive greed always causes sorrow. The proverb 'He who grasps at too much loses everything' fits him perfectly.",
+"page_number":"22-23"
+},
+{
+"id":77,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"क्या जानवरों का घरों में आना-जाना प्राकृतिक है? कहानी 'दो गौरैया' के आधार पर अपने विचार लिखिए।   Is the coming and going of animals in houses natural? Write your thoughts based on the story 'Do Gauraiya'.",
+"answer":"हाँ, जानवरों का घरों में आना-जाना प्राकृतिक है। कहानी में हम देखते हैं कि चूहे, कबूतर और गौरैया घर में इंसानों के साथ ही रहते हैं। प्रकृति ने यह दुनिया सभी जीवों के लिए बनाई है, लेकिन इंसानों ने अपने पक्के मकान बनाकर उनका प्राकृतिक आवास छीन लिया है। इसलिए, पक्षी और जानवर भोजन तथा सुरक्षित जगह की तलाश में इंसानों के घरों में आ जाते हैं। हमें उनके प्रति क्रूर होने (जैसे पिताजी) के बजाय थोड़ा सहिष्णु होना चाहिए और उनके अस्तित्व का सम्मान करना चाहिए।   Yes, the coming and going of animals in houses is natural. In the story, we see that mice, pigeons, and sparrows live in the house along with humans. Nature has made this world for all creatures, but humans have snatched their natural habitat by building concrete houses. Therefore, birds and animals come into human houses in search of food and a safe place. Instead of being cruel to them (like the father), we should be a little tolerant and respect their existence.",
+"keywords":[
+"प्राकृतिक   Natural",
+"आवास छीन लिया   Snatched habitat",
+"सहिष्णु   Tolerant",
+"अस्तित्व का सम्मान   Respect for existence"
+],
+"explanation":"यह कहानी हमें सिखाती है कि सह-अस्तित्व ही प्रकृति का नियम है। जीवों को बेघर करने का हमें कोई हक नहीं है।   This story teaches us that coexistence is the law of nature. We have no right to render creatures homeless.",
+"page_number":"1-6"
+},
+{
+"id":78,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"कहानी में नन्ही गौरैयों का क्या महत्व है और उन्होंने कहानी का अंत कैसे बदला?   What is the significance of the tiny sparrows in the story and how did they change the ending?",
+"answer":"नन्ही गौरैयाँ इस कहानी में मातृत्व, मासूमियत और आशा का प्रतीक हैं। जब पिताजी ने पूरी क्रूरता से घोंसला तोड़ दिया, तब सब कुछ खत्म सा लग रहा था। लेकिन तभी पंखे के ऊपर से नन्हे बच्चों की आवाज़ आई। उन्हें देखकर और उनके माता-पिता को उन्हें खाना खिलाते देखकर पिताजी का सारा गुस्सा हवा हो गया। बच्चों की मासूमियत ने ही पिताजी के कठोर मन को बदला और उनके अंदर दया जगाई, जिससे कहानी का अंत सुखद और शांतिपूर्ण हुआ।   The tiny sparrows in this story symbolize motherhood, innocence, and hope. When the father broke the nest with complete cruelty, everything seemed to be over. But then the voices of the tiny chicks came from above the fan. Seeing them and seeing their parents feed them, all of the father's anger vanished in thin air. It was the innocence of the chicks that changed the father's harsh mind and awakened pity in him, making the ending of the story happy and peaceful.",
+"keywords":[
+"मासूमियत   Innocence",
+"आशा का प्रतीक   Symbol of hope",
+"कठोर मन को बदला   Changed the harsh mind",
+"सुखद अंत   Happy ending"
+],
+"explanation":"कहानी का चरम बिंदु बच्चों का प्रकट होना ही है। यही वह पल है जो एक नाराज गृहस्वामी को एक संवेदनशील इंसान में बदल देता है।   The climax of the story is the appearance of the chicks. This is the moment that turns an angry homeowner into a sensitive human being.",
+"page_number":"6"
+},
+{
+"id":79,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"पंचतंत्र की कहानियाँ आज के समय में भी क्यों प्रासंगिक हैं? 'मित्रलाभ' के आधार पर बताइए।   Why are the stories of Panchatantra relevant even today? Explain based on 'Mitralabh'.",
+"answer":"पंचतंत्र की कहानियाँ आज भी प्रासंगिक हैं क्योंकि वे जीवन के वे शाश्वत मूल्य सिखाती हैं जो कभी पुराने नहीं होते। 'मित्रलाभ' सिखाती है कि एकता में बल है, सच्चे मित्र अमूल्य होते हैं, लालच हमेशा विनाश लाता है और संकट के समय बुद्धि से काम लेना चाहिए। आज की भागदौड़ भरी और स्वार्थी दुनिया में भी यही गुण इंसान को सफल बनाते हैं। जानवरों की कहानियों के माध्यम से यह हमें जीवन जीने की कला सिखाती है, जो हर युग के मनुष्य के लिए उपयोगी है।   The stories of Panchatantra are relevant even today because they teach those eternal values of life that never get old. 'Mitralabh' teaches that unity is strength, true friends are invaluable, greed always brings destruction, and one should act with wisdom during a crisis. Even in today's fast-paced and selfish world, these same qualities make a person successful. Through stories of animals, it teaches us the art of living, which is useful for humans of every era.",
+"keywords":[
+"प्रासंगिक   Relevant",
+"शाश्वत मूल्य   Eternal values",
+"एकता में बल   Unity is strength",
+"जीवन जीने की कला   Art of living"
+],
+"explanation":"भले ही ये कहानियाँ हज़ारों साल पुरानी हों, लेकिन लालच, मित्रता, समझदारी और धोखे जैसे मानवीय स्वभाव आज भी वैसे ही हैं।   Even though these stories are thousands of years old, human nature like greed, friendship, wisdom, and deceit are still the same today.",
+"page_number":"23"
+},
+{
+"id":80,
+"subject":"Hindi",
+"chapter":"दो गौरैया (Do Gauraiya)-QA-v2",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"कौए ने हिरन के बारे में कछुए को कैसे शांत किया जब वह वापस नहीं आ रहा था?   How did the crow calm the tortoise regarding the deer when he was not returning?",
+"answer":"जब चित्रांग हिरन शाम तक नहीं लौटा, तो मन्थरक कछुआ बहुत चिंतित हो गया। उसे डर था कि हिरन किसी शिकारी या जंगली जानवर (शेर, बाघ) का शिकार तो नहीं हो गया। तब लघुपतनक कौए ने उसे ढाँढस बँधाया और कहा कि वह अभी उड़कर पूरे जंगल में उसकी खोज करेगा। उसने कछुए को वही रुकने की सलाह दी और अपनी तेज़ उड़ान का फायदा उठाते हुए जंगल में गया, जहाँ उसने हिरन को जाल में फँसा पाया।   When Chitrang the deer did not return till evening, Mantharak the tortoise became very worried. He feared that the deer might have fallen prey to a hunter or a wild animal (lion, tiger). Then Laghupatanak the crow comforted him and said that he would fly right now and search for him in the whole forest. He advised the tortoise to stay there and taking advantage of his fast flight, went into the forest, where he found the deer trapped in a net.",
+"keywords":[
+"चिंतित   Worried",
+"ढाँढस बँधाया   Comforted",
+"खोज करेगा   Will search",
+"तेज़ उड़ान   Fast flight"
+],
+"explanation":"मित्रों के बीच विश्वास और एक-दूसरे की क्षमताओं का सही उपयोग (जैसे कौए का उड़ना) संकट को कम करने में मदद करता है।   Trust among friends and the correct use of each other's abilities (like the crow's flying) helps in mitigating the crisis.",
+"page_number":"21"
 }
+]
