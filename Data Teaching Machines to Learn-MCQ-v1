@@ -1,0 +1,1602 @@
+[
+{
+"id": 1,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "What is the base of Artificial Intelligence (AI)?",
+"options": [
+"Electricity",
+"Data",
+"Plastic",
+"Water"
+],
+"answer": "Data",
+"explanation": "The chapter introduces that machines become smart by learning from information. Data is specifically called the base of Artificial Intelligence. This fundamental idea is stated on page 1.",
+"page_number": "1"
+},
+{
+"id": 2,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "What does the word 'Data' mean according to the text?",
+"options": [
+"Information",
+"A type of computer",
+"A game",
+"A robot"
+],
+"answer": "Information",
+"explanation": "The text provides a direct definition of the term data. It clearly states that data means information that tells us something useful. You can find this definition on page 2.",
+"page_number": "2"
+},
+{
+"id": 3,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Which of the following is an example of data?",
+"options": [
+"Your name",
+"A blank piece of paper",
+"An empty box",
+"A clear sky"
+],
+"answer": "Your name",
+"explanation": "Data tells us useful things about people, places, or things. Examples given in the text include your name, age, height, and class. This is explained on page 2.",
+"page_number": "2"
+},
+{
+"id": 4,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Can data be in the form of pictures?",
+"options": [
+"Yes, always",
+"No, never",
+"Only in black and white",
+"Only for humans"
+],
+"answer": "Yes, always",
+"explanation": "Information can take many forms to be considered data. The chapter states that data can be in the form of pictures, numbers, words, or sounds. This is mentioned on page 2.",
+"page_number": "2"
+},
+{
+"id": 5,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Is the sound of a bell ringing considered data?",
+"options": [
+"No, it is just noise",
+"Yes, it is data",
+"Only if it is loud",
+"Only if it rings twice"
+],
+"answer": "Yes, it is data",
+"explanation": "Data is not just words or numbers; it also includes sounds. The text specifically lists the sound of music or a bell ringing as data. This concept is discussed on page 3.",
+"page_number": "3"
+},
+{
+"id": 6,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "What helps machines understand the world around them?",
+"options": [
+"Sleeping",
+"Data",
+"Eating food",
+"Watching television"
+],
+"answer": "Data",
+"explanation": "Machines need a way to perceive their environment. Data acts as this input, helping machines understand the world around them. This explanation is located on page 3.",
+"page_number": "3"
+},
+{
+"id": 7,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "What is data often called for machines?",
+"options": [
+"Water for machines",
+"Toys for machines",
+"Food for machines",
+"Clothes for machines"
+],
+"answer": "Food for machines",
+"explanation": "Just as humans need food to grow and function, machines need data. Because of its vital importance, data is often called the food for machines. This comparison is made on page 3.",
+"page_number": "3"
+},
+{
+"id": 8,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Do machines have a brain like humans?",
+"options": [
+"Yes, exactly the same",
+"No, they do not",
+"Yes, but much smaller",
+"Only smart devices have brains"
+],
+"answer": "No, they do not",
+"explanation": "Unlike humans, machines cannot think, feel, or imagine on their own. The text clearly states that machines do not have a brain like humans. This difference is highlighted on page 5.",
+"page_number": "5"
+},
+{
+"id": 9,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "How do machines learn?",
+"options": [
+"By sleeping",
+"By reading books",
+"By using large amounts of data",
+"By playing games"
+],
+"answer": "By using large amounts of data",
+"explanation": "Because machines lack a human brain, they must learn differently. They learn by being shown large amounts of data. This process, called machine learning, is explained on page 5.",
+"page_number": "5"
+},
+{
+"id": 10,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "What type of data includes photos and drawings?",
+"options": [
+"Text data",
+"Sound data",
+"Picture data",
+"Number data"
+],
+"answer": "Picture data",
+"explanation": "Data is grouped into types based on its format. Photos, drawings, images, and videos are classified as picture data. This classification is found on page 6.",
+"page_number": "6"
+},
+{
+"id": 11,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "What type of data includes letters and words?",
+"options": [
+"Picture data",
+"Sound data",
+"Text data",
+"Video data"
+],
+"answer": "Text data",
+"explanation": "Written information helps machines perform specific tasks. Letters, words, sentences, and messages are known as text data. This definition is provided on page 6.",
+"page_number": "6"
+},
+{
+"id": 12,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "What type of data includes voices and music?",
+"options": [
+"Sound data",
+"Text data",
+"Picture data",
+"Drawing data"
+],
+"answer": "Sound data",
+"explanation": "Audio information allows machines to listen and respond. Voices, music, alarms, and noises fall under the category of sound data. You can find this on page 6.",
+"page_number": "6"
+},
+{
+"id": 13,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Should data given to machines be correct?",
+"options": [
+"No, any data is fine",
+"Yes, it is very important",
+"Only for big machines",
+"Only on Sundays"
+],
+"answer": "Yes, it is very important",
+"explanation": "For a machine to function safely and effectively, it needs the right information. The text emphasizes that correct data is very important for machines to work properly. This is discussed on page 7.",
+"page_number": "7"
+},
+{
+"id": 14,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "What happens if machines get wrong data?",
+"options": [
+"They work faster",
+"They give wrong answers or make mistakes",
+"They fix it themselves",
+"They turn into humans"
+],
+"answer": "They give wrong answers or make mistakes",
+"explanation": "Machines rely entirely on the input they receive. If they are given wrong or confusing data, they will output wrong answers and make mistakes. This consequence is explained on page 7.",
+"page_number": "7"
+},
+{
+"id": 15,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Using AI in a positive way to solve problems is called what?",
+"options": [
+"AI for Bad",
+"AI for Play",
+"AI for Good",
+"AI for Sleep"
+],
+"answer": "AI for Good",
+"explanation": "Technology can be used to help society and protect people. When AI is used positively to solve problems and help humans, it is called AI for Good. This concept is introduced on page 8.",
+"page_number": "8"
+},
+{
+"id": 16,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Can AI help save time?",
+"options": [
+"Yes, it helps save time",
+"No, it wastes time",
+"Only in the morning",
+"Only for computers"
+],
+"answer": "Yes, it helps save time",
+"explanation": "AI is designed to make tasks more efficient. The text states that AI helps save time, reduce hard work, and improve services. This benefit is mentioned on page 8.",
+"page_number": "8"
+},
+{
+"id": 17,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Does AI help in the field of healthcare?",
+"options": [
+"No, it only helps in schools",
+"Yes, it plays a very helpful role",
+"Only for animals",
+"Only for building cars"
+],
+"answer": "Yes, it plays a very helpful role",
+"explanation": "AI has many applications in different parts of society. In healthcare, AI plays a very helpful role by assisting doctors, nurses, and patients. This is stated on page 9.",
+"page_number": "9"
+},
+{
+"id": 18,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Who does AI remind to take medicines on time?",
+"options": [
+"Teachers",
+"Patients",
+"Drivers",
+"Farmers"
+],
+"answer": "Patients",
+"explanation": "One of the helpful functions of AI in healthcare is keeping track of schedules. AI machines can remind patients to take their medicines on time. This fact is located on page 9.",
+"page_number": "9"
+},
+{
+"id": 19,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Does AI help teachers prepare lessons?",
+"options": [
+"Yes, teachers use AI tools for this",
+"No, teachers do not use AI",
+"Only math teachers use it",
+"Only to draw pictures"
+],
+"answer": "Yes, teachers use AI tools for this",
+"explanation": "AI is very useful in the field of education for both students and educators. Teachers use AI tools to prepare lessons and check assignments. This is explained on page 10.",
+"page_number": "10"
+},
+{
+"id": 20,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "What uses AI to control traffic smoothly?",
+"options": [
+"Airplanes",
+"Traffic lights",
+"Boats",
+"Bicycles"
+],
+"answer": "Traffic lights",
+"explanation": "AI is widely used to maintain safety and security in public spaces. The text mentions that traffic lights use AI to control traffic smoothly and reduce accidents. This example is on page 10.",
+"page_number": "10"
+},
+{
+"id": 21,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Can cameras use AI to recognize faces?",
+"options": [
+"Yes, to keep places safe",
+"No, cameras only take photos",
+"Only at night",
+"Only if the person is smiling"
+],
+"answer": "Yes, to keep places safe",
+"explanation": "Security systems use AI to identify people and monitor areas. Cameras use AI to recognize faces to keep schools, roads, and public places safe. You can find this on page 10.",
+"page_number": "10"
+},
+{
+"id": 22,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Should we share our personal information online?",
+"options": [
+"Yes, with everyone",
+"No, we should never share it",
+"Only on weekends",
+"Only with strangers"
+],
+"answer": "No, we should never share it",
+"explanation": "Safety on the internet is a key part of using technology wisely. The text warns that we should never share personal information online. This rule is stated on page 11.",
+"page_number": "11"
+},
+{
+"id": 23,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Which of these is an example of personal information?",
+"options": [
+"Your favorite color",
+"Your phone number",
+"The name of a fruit",
+"A picture of a tree"
+],
+"answer": "Your phone number",
+"explanation": "Personal information is sensitive data that identifies you. Examples given in the chapter include your name, address, or phone number. This is detailed on page 11.",
+"page_number": "11"
+},
+{
+"id": 24,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "Who gives data to machines so they can learn?",
+"options": [
+"Animals",
+"Humans",
+"Other machines",
+"Plants"
+],
+"answer": "Humans",
+"explanation": "Machines are not independent; they rely on us to function. The text points out that machines depend fully on data given by humans. This conclusion is reached on page 12.",
+"page_number": "12"
+},
+{
+"id": 25,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "What is called the 'heart of Artificial Intelligence'?",
+"options": [
+" Electricity",
+"The Monitor",
+"Data",
+"The Keyboard"
+],
+"answer": "Data",
+"explanation": "Data is essential for AI to exist and work properly. In the conclusion section, data is described as the heart of Artificial Intelligence. This powerful metaphor is on page 12.",
+"page_number": "12"
+},
+{
+"id": 26,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "According to the True or False exercise, can machines learn without data?",
+"options": [
+"Yes",
+"No",
+"Sometimes",
+"Only smart ones"
+],
+"answer": "No",
+"explanation": "The entire chapter explains that data is required for learning. The True or False exercise on page 13 confirms that machines cannot learn without data. This makes the statement false.",
+"page_number": "13"
+},
+{
+"id": 27,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "According to the Missing Words exercise, voice is a type of what data?",
+"options": [
+"Picture",
+"Sound",
+"Text",
+"Number"
+],
+"answer": "Sound",
+"explanation": "Data is categorized based on how we interact with it. The exercises reinforce that voice is a type of sound data. You can see this exercise on page 13.",
+"page_number": "13"
+},
+{
+"id": 28,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "What is AI that helps people called?",
+"options": [
+"AI for Bad",
+"AI for Fun",
+"AI for Good",
+"AI for Toys"
+],
+"answer": "AI for Good",
+"explanation": "When AI is applied to make the world better, it gets a special name. The Fill In The Blank exercise reminds us that AI that helps people is called AI for Good. This is on page 13.",
+"page_number": "13"
+},
+{
+"id": 29,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "According to the Fill In The Blank exercise, what does 'Data' mean?",
+"options": [
+"Information",
+"Computers",
+"Robots",
+"Screens"
+],
+"answer": "Information",
+"explanation": "The most basic concept in the chapter is the definition of data. The exercises test this by asking to fill in the blank: Data means information. This is found on page 13.",
+"page_number": "13"
+},
+{
+"id": 30,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "easy",
+"question": "According to the Missing Words exercise, traffic signals use AI for what?",
+"options": [
+"Education",
+"Safety",
+"Music",
+"Pictures"
+],
+"answer": "Safety",
+"explanation": "AI applications are matched with their benefits in society. The exercises on page 14 show that traffic signals use AI specifically for safety on the roads.",
+"page_number": "14"
+},
+{
+"id": 31,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "Why do machines and smart devices around us become smart?",
+"options": [
+"Because they have human brains",
+"Because they learn from data",
+"Because they sleep a lot",
+"Because they run on batteries"
+],
+"answer": "Because they learn from data",
+"explanation": "Machines are not born smart; they must acquire knowledge. They become smart because they learn from data provided to them. This core concept is explained in the introduction on page 1.",
+"page_number": "1"
+},
+{
+"id": 32,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "What three things does data tell us something useful about?",
+"options": [
+"People, places, or things",
+"Animals, space, and time",
+"Food, water, and air",
+"Computers, phones, and tablets"
+],
+"answer": "People, places, or things",
+"explanation": "Data encompasses information about almost everything around us. The text states that data tells us something useful about people, places, or things. This is detailed on page 2.",
+"page_number": "2"
+},
+{
+"id": 33,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "If you input your height and class into a computer, what are you giving it?",
+"options": [
+"A virus",
+"Data",
+"A battery",
+"A picture"
+],
+"answer": "Data",
+"explanation": "Details about yourself are forms of information. Since things like your age, height, and class are information, you are giving the computer data. Examples like this are on page 2.",
+"page_number": "2"
+},
+{
+"id": 34,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "Why do machines look at data again and again?",
+"options": [
+"To delete the data",
+"To understand patterns",
+"To change the data",
+"To draw pictures"
+],
+"answer": "To understand patterns",
+"explanation": "Machine learning requires repetition to find rules. Machines look at data again and again specifically to understand patterns in that data. This process is explained on page 3.",
+"page_number": "3"
+},
+{
+"id": 35,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "What happens if a machine does NOT have any data?",
+"options": [
+"It works perfectly fine",
+"It creates its own data",
+"It cannot recognize faces or do smart work",
+"It transforms into a robot"
+],
+"answer": "It cannot recognize faces or do smart work",
+"explanation": "Data is essential for a machine to function intelligently. Without data, a machine cannot recognize faces, understand speech, or do any smart work. This dependency is described on page 3.",
+"page_number": "3"
+},
+{
+"id": 36,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "Which of these is a method used to collect data?",
+"options": [
+"Observing",
+"Sleeping",
+"Running",
+"Eating"
+],
+"answer": "Observing",
+"explanation": "We gather information from our surroundings in several ways. Data can be collected by observing, counting, listening, measuring, or writing. These methods are listed on page 4.",
+"page_number": "4"
+},
+{
+"id": 37,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "When a teacher counts the number of students present in class, what is happening?",
+"options": [
+"The teacher is playing a game",
+"The teacher is collecting data",
+"The teacher is making a machine",
+"The teacher is taking a photo"
+],
+"answer": "The teacher is collecting data",
+"explanation": "Gathering numbers or facts from the environment is an active process. When we count students present in class, we are collecting data. This classroom example is provided on page 4.",
+"page_number": "4"
+},
+{
+"id": 38,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "If a shopkeeper notes down the items sold every day, what is he doing?",
+"options": [
+"Collecting data",
+"Building a robot",
+"Using a weather station",
+"Deleting files"
+],
+"answer": "Collecting data",
+"explanation": "Recording business activities creates a record of information. A shopkeeper collecting facts about items sold every day is an example of collecting data. This scenario is on page 4.",
+"page_number": "4"
+},
+{
+"id": 39,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "What kind of data does a weather station collect?",
+"options": [
+"Student attendance",
+"Items sold in a shop",
+"Temperature and rainfall",
+"Bag colors"
+],
+"answer": "Temperature and rainfall",
+"explanation": "Different places collect different types of data relevant to their work. A weather station specifically collects data about temperature and rainfall. This scientific example is found on page 4.",
+"page_number": "4"
+},
+{
+"id": 40,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "How does collecting data help people and machines?",
+"options": [
+"It helps them sleep better",
+"It helps them make better plans and decisions",
+"It makes them forget things",
+"It causes natural disasters"
+],
+"answer": "It helps them make better plans and decisions",
+"explanation": "The ultimate goal of gathering information is to use it wisely. Collected data helps people and machines make better plans and decisions for the future. This benefit is stated on page 4.",
+"page_number": "4"
+},
+{
+"id": 41,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "What is it called when machines learn by using large amounts of data?",
+"options": [
+"Human learning",
+"Machine learning",
+"Data deleting",
+"Picture learning"
+],
+"answer": "Machine learning",
+"explanation": "Since machines lack brains, they rely on massive amounts of examples to understand the world. This way of learning using large amounts of data is called machine learning. The definition is on page 5.",
+"page_number": "5"
+},
+{
+"id": 42,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "If a machine hears many voices, what does it eventually learn to do?",
+"options": [
+"Recognize faces",
+"Recognize speech",
+"Draw pictures",
+"Translate books"
+],
+"answer": "Recognize speech",
+"explanation": "Machines learn specific tasks based on the type of data they receive. By hearing many voices repeatedly, a machine learns to recognize speech. This example of machine learning is on page 5.",
+"page_number": "5"
+},
+{
+"id": 43,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "What happens to a machine when it gets MORE data?",
+"options": [
+"It becomes better at its work",
+"It gets confused and stops working",
+"It forgets old data",
+"It becomes worse at its work"
+],
+"answer": "It becomes better at its work",
+"explanation": "The quantity of data directly affects the performance of an AI. The text explains that the more data a machine gets, the better it becomes at its work. This rule of AI is on page 5.",
+"page_number": "5"
+},
+{
+"id": 44,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "Which type of data specifically helps machines to see and recognize faces?",
+"options": [
+"Sound data",
+"Text data",
+"Picture data",
+"Number data"
+],
+"answer": "Picture data",
+"explanation": "Visual tasks require visual information to process. Picture data, which includes photos and videos, is what helps machines see, recognize faces, and identify objects. This is detailed on page 6.",
+"page_number": "6"
+},
+{
+"id": 45,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "Which type of data helps machines to read, write, and answer questions?",
+"options": [
+"Text data",
+"Picture data",
+"Sound data",
+"Video data"
+],
+"answer": "Text data",
+"explanation": "Language processing relies on written characters and words. Text data helps machines read, write, translate languages, and answer questions. This function is described on page 6.",
+"page_number": "6"
+},
+{
+"id": 46,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "If a machine needs to understand speech and respond with sounds, it needs:",
+"options": [
+"Picture data",
+"Text data",
+"Sound data",
+"Drawing data"
+],
+"answer": "Sound data",
+"explanation": "Audio interactions require a specific type of input. Sound data helps machines listen, understand speech, and respond with their own sounds. You can find this on page 6.",
+"page_number": "6"
+},
+{
+"id": 47,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "Why is it helpful to sort data into different types?",
+"options": [
+"It makes the computer look pretty",
+"It helps machines understand information clearly and work accurately",
+"It makes the machine heavier",
+"It stops the machine from learning"
+],
+"answer": "It helps machines understand information clearly and work accurately",
+"explanation": "Organizing information is a key step in data processing. Sorting data into types helps machines understand information clearly and work more accurately. This advantage is stated on page 6.",
+"page_number": "6"
+},
+{
+"id": 48,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "If a health machine gets correct patient data, what is the result?",
+"options": [
+"It gives wrong advice",
+"It helps doctors give the right treatment",
+"It deletes the patient's record",
+"It plays music for the patient"
+],
+"answer": "It helps doctors give the right treatment",
+"explanation": "Accurate information is vital in healthcare for patient safety. If a health machine gets correct data, it can successfully help doctors give the right treatment. This positive outcome is on page 7.",
+"page_number": "7"
+},
+{
+"id": 49,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "What might happen if a health machine is given wrong data?",
+"options": [
+"It will automatically correct it",
+"It may give wrong advice",
+"It will work faster",
+"It will print a picture"
+],
+"answer": "It may give wrong advice",
+"explanation": "Machines cannot usually tell if the data they receive is a lie. If the data provided is wrong, the machine may process it and give wrong advice. This danger is highlighted on page 7.",
+"page_number": "7"
+},
+{
+"id": 50,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "How does correct data in a learning app affect students?",
+"options": [
+"It helps students learn better",
+"It makes students forget their lessons",
+"It turns the app into a game",
+"It stops the app from working"
+],
+"answer": "It helps students learn better",
+"explanation": "Educational tools rely on good information to teach properly. If a learning app gets correct data, it can help students learn better and improve their skills. This example is on page 7.",
+"page_number": "7"
+},
+{
+"id": 51,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "What is the main focus of 'AI for Good'?",
+"options": [
+"Making video games",
+"Helping society, protecting people, and improving daily life",
+"Deleting data from the internet",
+"Replacing all human teachers"
+],
+"answer": "Helping society, protecting people, and improving daily life",
+"explanation": "The term AI for Good represents the ethical use of technology. It focuses on helping society, protecting people, and improving daily life. This definition is clearly written on page 8.",
+"page_number": "8"
+},
+{
+"id": 52,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "In which of the following fields is AI NOT mentioned as helping people?",
+"options": [
+"Health",
+"Safety",
+"Cooking food",
+"Learning"
+],
+"answer": "Cooking food",
+"explanation": "The text lists specific areas where AI makes a positive impact. It mentions health, learning, travel, and safety, but it does not mention cooking food. This list is on page 8.",
+"page_number": "8"
+},
+{
+"id": 53,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "How does AI assist doctors with X-rays?",
+"options": [
+"AI prints the X-rays on paper",
+"AI checks the X-rays to find diseases early",
+"AI hides the X-rays from the patients",
+"AI deletes the X-rays"
+],
+"answer": "AI checks the X-rays to find diseases early",
+"explanation": "AI can analyze medical images very quickly and accurately. AI machines can check X-rays and read reports to help find diseases early. This medical application is on page 9.",
+"page_number": "9"
+},
+{
+"id": 54,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "Why is it important that AI helps hospitals store patient records safely?",
+"options": [
+"Because it takes up more space",
+"It saves time and reduces mistakes",
+"So the records can be sold",
+"So patients cannot see them"
+],
+"answer": "It saves time and reduces mistakes",
+"explanation": "Managing massive amounts of medical data is difficult for humans alone. AI helps store records safely, which saves time, reduces mistakes, and allows doctors to care for patients. This is explained on page 9.",
+"page_number": "9"
+},
+{
+"id": 55,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "In education, how do learning apps decide which videos and quizzes to suggest?",
+"options": [
+"By choosing them randomly",
+"Based on what the students need",
+"By asking the parents",
+"By suggesting only the longest videos"
+],
+"answer": "Based on what the students need",
+"explanation": "AI creates a personalized learning experience for every user. Learning apps use AI to suggest videos, quizzes, and activities based directly on what students need. This educational feature is on page 9.",
+"page_number": "9"
+},
+{
+"id": 56,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "How does using AI tools help both teachers and students?",
+"options": [
+"It makes them work longer hours",
+"It saves time and makes learning more interesting and enjoyable",
+"It stops them from communicating",
+"It removes the need for schools"
+],
+"answer": "It saves time and makes learning more interesting and enjoyable",
+"explanation": "AI handles repetitive tasks so humans can focus on the fun parts of education. It helps teachers and students save time and makes learning more interesting and enjoyable. This benefit is on page 10.",
+"page_number": "10"
+},
+{
+"id": 57,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "Why do cameras in public places use AI?",
+"options": [
+"To take funny photos",
+"To recognize faces and keep places safe",
+"To count the number of birds",
+"To check the weather"
+],
+"answer": "To recognize faces and keep places safe",
+"explanation": "Security cameras have evolved from just recording video to analyzing it. They use AI to recognize faces, which helps keep schools, roads, and public places safe. This security application is on page 10.",
+"page_number": "10"
+},
+{
+"id": 58,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "How does AI help during natural disasters like floods and earthquakes?",
+"options": [
+"By stopping the rain",
+"By giving early warnings to help people stay safe",
+"By rebuilding houses",
+"By hiding the water"
+],
+"answer": "By giving early warnings to help people stay safe",
+"explanation": "Predicting disasters can save many lives and protect communities. AI helps by giving early warnings about floods, storms, or earthquakes so people can stay safe. This life-saving feature is on page 10.",
+"page_number": "10"
+},
+{
+"id": 59,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "What does it mean to use AI 'kindly'?",
+"options": [
+"Using it to play games all day",
+"Using it to help others and not harm anyone",
+"Using it to trick people",
+"Using it to hide data"
+],
+"answer": "Using it to help others and not harm anyone",
+"explanation": "Because AI is powerful, it must be used with good intentions. Using AI kindly means using it to help others and making sure not to harm anyone. This ethical rule is on page 11.",
+"page_number": "11"
+},
+{
+"id": 60,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "What does it mean to use AI 'wisely'?",
+"options": [
+"Using it safely, carefully, and responsibly",
+"Using it as fast as possible",
+"Never using it at all",
+"Letting the machine make all decisions"
+],
+"answer": "Using it safely, carefully, and responsibly",
+"explanation": "Wisdom involves making smart and safe choices with technology. Using AI wisely means using it safely, carefully, and responsibly in our daily lives. This is defined on page 11.",
+"page_number": "11"
+},
+{
+"id": 61,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "Whose guidance should you seek when using smart devices?",
+"options": [
+"Only your friends",
+"Strangers on the internet",
+"Parents or teachers",
+"No one, you can do it alone"
+],
+"answer": "Parents or teachers",
+"explanation": "Children need help navigating the digital world safely. The text advises that smart devices should always be used with guidance from parents or teachers. This safety tip is on page 11.",
+"page_number": "11"
+},
+{
+"id": 62,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "What do we become when we give correct data and use technology kindly?",
+"options": [
+"Robots",
+"Responsible digital citizens",
+"Computer scientists",
+"Data collectors"
+],
+"answer": "Responsible digital citizens",
+"explanation": "Using the internet and AI properly gives us a special role in society. When we use technology kindly and responsibly, we become good digital citizens. This concept is discussed on page 12.",
+"page_number": "12"
+},
+{
+"id": 63,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "According to the Life Skills Connection, what important skills does using AI responsibly teach us?",
+"options": [
+"Cooking and cleaning",
+"Honesty, care, and safety",
+"Running and jumping",
+"Singing and dancing"
+],
+"answer": "Honesty, care, and safety",
+"explanation": "Interacting with AI is not just about technology; it builds character. Using AI responsibly teaches us important life skills such as honesty, care, and safety. This connection is on page 12.",
+"page_number": "12"
+},
+{
+"id": 64,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "What type of data always leads to good results in machines?",
+"options": [
+"Wrong data",
+"Incomplete data",
+"Good data given by humans",
+"Confusing data"
+],
+"answer": "Good data given by humans",
+"explanation": "The output of a machine is only as good as its input. The text states clearly that good data leads to good results. This conclusion is found on page 12.",
+"page_number": "12"
+},
+{
+"id": 65,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "According to the True or False exercise, do pictures, text, and sounds represent types of data?",
+"options": [
+"Yes, this is True",
+"No, this is False",
+"Only pictures are data",
+"Only text is data"
+],
+"answer": "Yes, this is True",
+"explanation": "The chapter classifies data into several interactive formats. The exercise confirms that pictures, text, and sounds are indeed types of data. This true statement is on page 13.",
+"page_number": "13"
+},
+{
+"id": 66,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "According to the Fill In The Blank exercise, machines learn using what?",
+"options": [
+"Magic",
+"Data",
+"Water",
+"Screws"
+],
+"answer": "Data",
+"explanation": "Machine learning is a process built entirely on information. The exercises reinforce the concept that machines learn using data. This exercise is located on page 13.",
+"page_number": "13"
+},
+{
+"id": 67,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "According to the Fill In The Blank exercise, photos and drawings are what kind of data?",
+"options": [
+"Text data",
+"Sound data",
+"Picture data",
+"Number data"
+],
+"answer": "Picture data",
+"explanation": "Visual representations fall into a specific category of information. The exercise tests the knowledge that photos and drawings are classified as picture data. This is found on page 13.",
+"page_number": "13"
+},
+{
+"id": 68,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "According to the Missing Words exercise, AI helps students in what?",
+"options": [
+"Sleeping",
+"Education",
+"Eating",
+"Driving"
+],
+"answer": "Education",
+"explanation": "AI has specific uses that benefit society in various fields. The missing words exercise on page 14 highlights that AI helps students specifically in education.",
+"page_number": "14"
+},
+{
+"id": 69,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "According to the True or False exercise, should AI be used in a harmful way?",
+"options": [
+"Yes",
+"No, this is False",
+"Sometimes",
+"Only by adults"
+],
+"answer": "No, this is False",
+"explanation": "The chapter strongly emphasizes ethical and kind behavior with technology. The statement 'AI should be used in a harmful way' is marked as false in the exercises. This is on page 13.",
+"page_number": "13"
+},
+{
+"id": 70,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "medium",
+"question": "What is the main purpose of the 'My Data Around Me' Mini Project?",
+"options": [
+"To build a robot",
+"To look around and list examples of picture, text, and sound data",
+"To write a long essay",
+"To delete data from a phone"
+],
+"answer": "To look around and list examples of picture, text, and sound data",
+"explanation": "The practical application of the chapter's concepts is important. The Mini Project asks students to look around and find real-life examples of picture, text, and sound data. This is on page 14.",
+"page_number": "14"
+},
+{
+"id": 71,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "Which statement best explains why data is referred to as 'food for machines'?",
+"options": [
+"Machines literally eat hard drives to survive",
+"Machines need data to recognize patterns and do smart work, just like humans need food for energy",
+"Data is usually shaped like food items",
+"Machines only learn about food recipes"
+],
+"answer": "Machines need data to recognize patterns and do smart work, just like humans need food for energy",
+"explanation": "The metaphor is used to show dependency. Without data, a machine cannot understand patterns or do any smart work, so data acts as its essential fuel or 'food'. This is explained on page 3.",
+"page_number": "3"
+},
+{
+"id": 72,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "Imagine a machine is learning to tell cats from dogs. What will happen if it is ONLY shown pictures of birds?",
+"options": [
+"It will learn to recognize cats perfectly",
+"It will learn to recognize dogs perfectly",
+"It will not learn to recognize cats or dogs because it lacks the correct data",
+"It will automatically search the internet for cats"
+],
+"answer": "It will not learn to recognize cats or dogs because it lacks the correct data",
+"explanation": "Machine learning relies strictly on the examples provided. If a machine is only shown birds, it will not understand the visual patterns of cats or dogs. This concept is drawn from page 5.",
+"page_number": "5"
+},
+{
+"id": 73,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "Which of the following scenarios is an example of collecting data by 'measuring'?",
+"options": [
+"Counting the number of windows in a classroom",
+"Noting the color of student bags",
+"Recording the daily temperature and rainfall at a weather station",
+"Listening to a bell ringing"
+],
+"answer": "Recording the daily temperature and rainfall at a weather station",
+"explanation": "Data collection takes many forms depending on the information needed. A weather station uses tools to measure temperature and rainfall, representing data collection by measuring. This example is on page 4.",
+"page_number": "4"
+},
+{
+"id": 74,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "If a smart machine needs to answer a spoken question from a human, which type of data does it rely on first?",
+"options": [
+"Picture data",
+"Sound data",
+"Number data",
+"Drawing data"
+],
+"answer": "Sound data",
+"explanation": "To process spoken words, the machine must first listen to the audio. Therefore, it relies primarily on sound data (voices) to understand speech. This classification is on page 6.",
+"page_number": "6"
+},
+{
+"id": 75,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "A machine translates a story from English to Hindi. What type of data is it mostly processing?",
+"options": [
+"Sound data",
+"Picture data",
+"Text data",
+"Video data"
+],
+"answer": "Text data",
+"explanation": "Translating written languages requires understanding letters and words. The text states that text data helps machines read, write, and translate languages. This function is explained on page 6.",
+"page_number": "6"
+},
+{
+"id": 76,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "Which scenario is an example of 'incomplete' data causing a problem, according to the chapter's context?",
+"options": [
+"A health machine getting a patient's full medical history",
+"A learning app providing all the correct videos",
+"A health machine giving wrong advice because it missed half of the patient's data",
+"A camera taking clear photos of faces"
+],
+"answer": "A health machine giving wrong advice because it missed half of the patient's data",
+"explanation": "Data must be whole and accurate for safe AI operation. If data is incomplete, a health machine may make mistakes and give wrong advice. This risk is discussed on page 7.",
+"page_number": "7"
+},
+{
+"id": 77,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "Why is 'correct and good-quality data' crucial for machine learning?",
+"options": [
+"It makes the machine's battery last longer",
+"It ensures the machine learns correctly and gives accurate, safe results",
+"It allows the machine to feel happy",
+"It prevents the machine from ever turning off"
+],
+"answer": "It ensures the machine learns correctly and gives accurate, safe results",
+"explanation": "The quality of learning depends heavily on the quality of data. Good data ensures machines learn correctly, leading to safety, trust, and good results. This principle is found on pages 5 and 7.",
+"page_number": "5"
+},
+{
+"id": 78,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "Which of the following best describes the core mission of 'AI for Good'?",
+"options": [
+"Applying AI to solve problems, help humans, and make the world a safer place",
+"Using AI to replace all human jobs",
+"Creating AI that can think and feel exactly like a human brain",
+"Using AI to collect personal information secretly"
+],
+"answer": "Applying AI to solve problems, help humans, and make the world a safer place",
+"explanation": "Technology is viewed positively when it benefits society. AI for Good focuses on using AI in a positive way to solve problems, help society, and improve daily life. This definition is on page 8.",
+"page_number": "8"
+},
+{
+"id": 79,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "How does AI make healthcare both 'faster and more accurate'?",
+"options": [
+"By making doctors run faster in the hospital",
+"By quickly checking X-rays, reading reports, and storing records without mistakes",
+"By giving patients fewer medicines",
+"By deleting old patient records to save space"
+],
+"answer": "By quickly checking X-rays, reading reports, and storing records without mistakes",
+"explanation": "AI handles large amounts of medical data efficiently. By checking X-rays, reading reports early, and storing records safely, AI reduces mistakes and speeds up healthcare. This is detailed on page 9.",
+"page_number": "9"
+},
+{
+"id": 80,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "An AI learning app suggests a specific math video to a student. How did the AI likely make this decision?",
+"options": [
+"It randomly picked a video from the internet",
+"It used data to understand what the student specifically needs to learn",
+"It suggested the longest video available",
+"It asked the student's parents to choose"
+],
+"answer": "It used data to understand what the student specifically needs to learn",
+"explanation": "AI educational tools adapt to the individual user. The app uses AI to analyze student data and suggest videos or quizzes based precisely on what the student needs. This is explained on page 9.",
+"page_number": "9"
+},
+{
+"id": 81,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "Which of the following is NOT listed in the text as a way AI helps in safety and security?",
+"options": [
+"Controlling traffic smoothly",
+"Recognizing faces to keep public places safe",
+"Giving early warnings for floods and earthquakes",
+"Building stronger houses for people"
+],
+"answer": "Building stronger houses for people",
+"explanation": "The text lists specific ways AI contributes to security. It mentions traffic control, face recognition, and natural disaster warnings, but does not mention building houses. This list is on page 10.",
+"page_number": "10"
+},
+{
+"id": 82,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "AI can provide early warnings for floods. How does this specific action help communities?",
+"options": [
+"It stops the flood from happening entirely",
+"It helps people stay safe and protects their property before the disaster strikes",
+"It cleans up the water after the flood",
+"It builds boats for everyone"
+],
+"answer": "It helps people stay safe and protects their property before the disaster strikes",
+"explanation": "Predictive AI gives people time to react to danger. Early warnings for natural disasters help people stay safe and protect their property. This benefit is outlined on page 10.",
+"page_number": "10"
+},
+{
+"id": 83,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "A student wants to share their home address on a new fun AI app. What is the wisest action based on the chapter?",
+"options": [
+"Share it so the app can send them gifts",
+"Never share personal information like an address online",
+"Share only the street name, not the house number",
+"Share it only if their friends do it too"
+],
+"answer": "Never share personal information like an address online",
+"explanation": "Digital safety requires protecting your identity. The chapter strictly warns that we should never share personal information like our name, address, or phone number online. This rule is on page 11.",
+"page_number": "11"
+},
+{
+"id": 84,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "Why does the conclusion state that 'Machines depend fully on data given by humans'?",
+"options": [
+"Because machines do not have a brain to invent their own knowledge and rely on human examples to learn",
+"Because machines are lazy",
+"Because humans are the only ones who know how to type",
+"Because machines only eat human food"
+],
+"answer": "Because machines do not have a brain to invent their own knowledge and rely on human examples to learn",
+"explanation": "Machines are entirely dependent on their creators. Because they cannot think or feel independently, they rely fully on the data given to them by humans to learn and function. This is summarized on pages 5 and 12.",
+"page_number": "12"
+},
+{
+"id": 85,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "The chapter connects using technology with kindness and wisdom to what larger outcome?",
+"options": [
+"Building a better, safer, and happier world for everyone",
+"Making humans obsolete",
+"Creating machines that can feel emotions",
+"Deleting all data on the internet"
+],
+"answer": "Building a better, safer, and happier world for everyone",
+"explanation": "Responsible use of AI has a broad positive impact on society. Using technology with kindness and wisdom helps build a better and happier world for everyone. This life skill connection is on page 12.",
+"page_number": "12"
+},
+{
+"id": 86,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "In the context of the chapter, what does being a 'responsible digital citizen' entail?",
+"options": [
+"Playing games online all day",
+"Giving correct data and using technology kindly and safely to protect nature and solve problems",
+"Never using the internet",
+"Only using AI to do homework"
+],
+"answer": "Giving correct data and using technology kindly and safely to protect nature and solve problems",
+"explanation": "Digital citizenship requires ethical behavior. A responsible digital citizen gives correct data, uses technology kindly, helps people, and protects nature. This definition is on page 12.",
+"page_number": "12"
+},
+{
+"id": 87,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "Based on the True or False section in the Exercise Corner, which of these statements is considered True?",
+"options": [
+"Machines can learn without data",
+"AI should be used in a harmful way",
+"AI can help doctors and teachers",
+"Data does not mean information"
+],
+"answer": "AI can help doctors and teachers",
+"explanation": "The exercises test the positive applications of AI learned in the chapter. The statement 'AI can help doctors and teachers' is a true fact based on pages 9, 10, and 13.",
+"page_number": "13"
+},
+{
+"id": 88,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "If a teacher wants to understand student progress better, how can AI most likely assist them based on the text?",
+"options": [
+"By analyzing data from checked assignments and lessons to show how students are doing",
+"By taking the students on a field trip",
+"By drawing pictures on the blackboard",
+"By writing the textbook"
+],
+"answer": "By analyzing data from checked assignments and lessons to show how students are doing",
+"explanation": "AI tools process educational data to provide insights. Teachers use AI to check assignments and understand student progress, saving time and improving learning. This is found on page 10.",
+"page_number": "10"
+},
+{
+"id": 89,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "When we note the color of bags or count the number of windows outside, what fundamental AI process are we mimicking?",
+"options": [
+"Machine learning",
+"Collecting data from our surroundings carefully and correctly",
+"Translating languages",
+"Recognizing speech"
+],
+"answer": "Collecting data from our surroundings carefully and correctly",
+"explanation": "Gathering details from the environment is the first step in data processing. Noting bag colors or window numbers is an example of collecting data from our surroundings. This is explained on page 4.",
+"page_number": "4"
+},
+{
+"id": 90,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "Why is a machine unable to imagine things or feel emotions like a human?",
+"options": [
+"Because its battery is too small",
+"Because machines do not have a brain like humans and rely only on data",
+"Because it does not have a screen",
+"Because it sleeps too much"
+],
+"answer": "Because machines do not have a brain like humans and rely only on data",
+"explanation": "There is a clear distinction between human intelligence and AI. Machines cannot think, feel, or imagine because they do not have a human brain; they learn solely from data. This is on page 5.",
+"page_number": "5"
+},
+{
+"id": 91,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "A smart alarm clock uses the sound of a ringing bell to wake you up. Which specific data category does this belong to?",
+"options": [
+"Picture data",
+"Text data",
+"Sound data",
+"Video data"
+],
+"answer": "Sound data",
+"explanation": "Any audio information is classified under a specific type. A ringing bell or an alarm falls under the category of sound data. This classification is detailed on pages 3 and 6.",
+"page_number": "6"
+},
+{
+"id": 92,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "Which combination correctly represents only 'text data' according to the chapter?",
+"options": [
+"Letters, words, sentences, and messages",
+"Photos, drawings, voices, and music",
+"Alarms, noises, images, and videos",
+"Numbers, photos, words, and bells"
+],
+"answer": "Letters, words, sentences, and messages",
+"explanation": "Data types are grouped by their format. Text data specifically includes written elements like letters, words, sentences, and messages. This exact list is provided on page 6.",
+"page_number": "6"
+},
+{
+"id": 93,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "A machine suddenly gives wrong medical advice to a doctor. What is the most likely cause mentioned in the text?",
+"options": [
+"The machine was feeling tired",
+"The machine was given wrong, incomplete, or confusing data",
+"The doctor asked the question too loudly",
+"The machine wanted to play a game"
+],
+"answer": "The machine was given wrong, incomplete, or confusing data",
+"explanation": "Errors in AI output usually stem from the input. If a health machine gives wrong advice, it is because it received wrong, incomplete, or confusing data. This direct consequence is on page 7.",
+"page_number": "7"
+},
+{
+"id": 94,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "What is the direct relationship between data collection and making decisions?",
+"options": [
+"Data collection makes decisions harder to make",
+"Carefully collected data helps people and machines make better plans and decisions",
+"Data collection has no effect on decisions",
+"Decisions are made first, then data is collected"
+],
+"answer": "Carefully collected data helps people and machines make better plans and decisions",
+"explanation": "Information is gathered to inform future actions. The text explains that collected data directly helps people and machines make better plans and decisions. This relationship is on page 4.",
+"page_number": "4"
+},
+{
+"id": 95,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "AI helping communities grow and making the world a safer, happier place is a direct result of using AI in what way?",
+"options": [
+"Wisely and positively, also known as 'AI for Good'",
+"Carelessly and quickly",
+"Without any data",
+"To replace all human workers"
+],
+"answer": "Wisely and positively, also known as 'AI for Good'",
+"explanation": "The impact of technology depends on how it is applied. When AI is used positively and wisely to help humans (AI for Good), communities grow and the world becomes safer. This is concluded on page 8.",
+"page_number": "8"
+},
+{
+"id": 96,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "Which of these is a direct benefit of AI helping hospitals manage patient records efficiently?",
+"options": [
+"Doctors can spend more time caring for patients instead of doing paperwork",
+"Hospitals can fire all their nurses",
+"Patients never get sick again",
+"The records become impossible to read"
+],
+"answer": "Doctors can spend more time caring for patients instead of doing paperwork",
+"explanation": "AI automation frees up human professionals to do their primary jobs. By storing records safely and saving time, AI allows doctors to spend more time caring for patients. This is on page 9.",
+"page_number": "9"
+},
+{
+"id": 97,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "In the mini-project 'My Data Around Me', identifying a colorful poster on the classroom wall would fall under which data category?",
+"options": [
+"Sound data",
+"Text data",
+"Picture data",
+"Weather data"
+],
+"answer": "Picture data",
+"explanation": "The mini-project asks students to categorize their environment. A colorful poster is a visual image or drawing, which makes it an example of picture data. This concept applies from pages 6 and 14.",
+"page_number": "14"
+},
+{
+"id": 98,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "If a smart traffic light changes based on the number of cars waiting, what kind of system is it most likely using?",
+"options": [
+"A system using AI and collected data to control traffic smoothly",
+"A system that changes colors randomly",
+"A system that only listens to car horns",
+"A system that works without any data"
+],
+"answer": "A system using AI and collected data to control traffic smoothly",
+"explanation": "Smart infrastructure relies on continuous data input to function. Traffic lights use AI and data to monitor cars, control traffic smoothly, and reduce accidents. This example is on page 10.",
+"page_number": "10"
+},
+{
+"id": 99,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "Based on the categorization in the chapter, which of the following is NOT considered 'sound data'?",
+"options": [
+"A voice speaking",
+"An alarm ringing",
+"A written message on a phone",
+"Music playing"
+],
+"answer": "A written message on a phone",
+"explanation": "Data types are distinct based on how they are perceived. Voices, alarms, and music are sound data, whereas a written message is classified as text data. This distinction is made on page 6.",
+"page_number": "6"
+},
+{
+"id": 100,
+"subject": "Artificial Intelligence",
+"chapter": "Data Teaching Machines to Learn-MCQ-v1",
+"difficulty": "hard",
+"question": "The conclusion states 'Data is the heart of Artificial Intelligence.' What does this deeply mean?",
+"options": [
+"AI has a biological heart that pumps blood",
+"AI cannot exist, function, or learn without data, just as a body needs a heart to live",
+"Data is only used by AI on Valentine's Day",
+"Data makes AI machines fall in love"
+],
+"answer": "AI cannot exist, function, or learn without data, just as a body needs a heart to live",
+"explanation": "The metaphor of a heart signifies something vital and life-giving. Calling data the 'heart' means AI absolutely depends on it to learn and function. This powerful conclusion is on page 12.",
+"page_number": "12"
+}
+]
