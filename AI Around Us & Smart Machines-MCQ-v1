@@ -1,0 +1,1603 @@
+[
+{
+"id": 1,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "What does the word 'Artificial' mean in the term AI?",
+"options": [
+"Made by humans",
+"Made by nature",
+"Made by animals",
+"Made by space"
+],
+"answer": "Made by humans",
+"explanation": "The correct answer is Made by humans. The chapter defines 'Artificial' as something that is created or made by humans rather than occurring naturally. This is the foundation of understanding Artificial Intelligence. This concept is discussed on Page 2 of the chapter.",
+"page_number": "2"
+},
+{
+"id": 2,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "What does 'Intelligence' mean for a machine?",
+"options": [
+"The ability to run fast",
+"The ability to think and learn",
+"The ability to sleep",
+"The ability to eat food"
+],
+"answer": "The ability to think and learn",
+"explanation": "The correct answer is The ability to think and learn. Intelligence is described as the capability to process information, learn from it, and think to solve problems. AI gives this ability to machines. This concept is discussed on Page 2 of the chapter.",
+"page_number": "2"
+},
+{
+"id": 3,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "What is the full form of AI?",
+"options": [
+"Active Intelligence",
+"Artificial Internet",
+"Artificial Intelligence",
+"Automated Information"
+],
+"answer": "Artificial Intelligence",
+"explanation": "The correct answer is Artificial Intelligence. AI is an abbreviation that stands for Artificial Intelligence, a technology that helps machines act smart like humans. It is widely used in our daily lives. This concept is discussed on Page 2 of the chapter.",
+"page_number": "2"
+},
+{
+"id": 4,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "Which machine answers questions when you ask it?",
+"options": [
+"A smart TV",
+"Alexa",
+"A fan",
+"A bulb"
+],
+"answer": "Alexa",
+"explanation": "The correct answer is Alexa. Alexa is cited as a prime example of a voice assistant that can listen to human queries and provide helpful answers using AI. This makes everyday tasks much easier. This concept is discussed on Page 2 of the chapter.",
+"page_number": "2"
+},
+{
+"id": 5,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "What does Google Maps show us using AI?",
+"options": [
+"Favourite cartoons",
+"Roads and routes",
+"Movie times",
+"Weather only"
+],
+"answer": "Roads and routes",
+"explanation": "The correct answer is Roads and routes. Google Maps is a navigation application that uses artificial intelligence to help people find directions and see the best roads to their destination. This concept is discussed on Page 2 of the chapter.",
+"page_number": "2"
+},
+{
+"id": 6,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "How do mobile apps unlock using a face?",
+"options": [
+"By using AI to recognise faces",
+"By taking a printout",
+"By calling someone",
+"By typing a password"
+],
+"answer": "By using AI to recognise faces",
+"explanation": "The correct answer is By using AI to recognise faces. Mobile phones use AI-powered face recognition systems to safely and quickly unlock the device by analyzing the user's facial features. This concept is discussed on Page 2 of the chapter.",
+"page_number": "2"
+},
+{
+"id": 7,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "What do Smart TVs use AI for?",
+"options": [
+"To cook food",
+"To suggest movies and cartoons",
+"To blow air",
+"To wash clothes"
+],
+"answer": "To suggest movies and cartoons",
+"explanation": "The correct answer is To suggest movies and cartoons. Smart TVs track what you enjoy watching and use AI to suggest similar movies and cartoons that you might like. This enhances the viewing experience. This concept is discussed on Page 2 of the chapter.",
+"page_number": "2"
+},
+{
+"id": 8,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "Can humans feel happy or sad?",
+"options": [
+"Yes, because they have emotions",
+"No, humans do not have emotions",
+"Only when they use AI",
+"Only when they sleep"
+],
+"answer": "Yes, because they have emotions",
+"explanation": "The correct answer is Yes, because they have emotions. Human intelligence includes the ability to feel a range of emotions, such as being happy or sad, unlike machines which do not have feelings. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 9,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "Do machines have feelings or emotions?",
+"options": [
+"Yes, they cry sometimes",
+"No, they do not have feelings",
+"Yes, they feel happy",
+"Yes, they get angry"
+],
+"answer": "No, they do not have feelings",
+"explanation": "The correct answer is No, they do not have feelings. A key difference between humans and machines is that machines lack emotions, feelings, and a brain; they only operate based on programming. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 10,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "What do machines need to work?",
+"options": [
+"Food and water",
+"Data and instructions",
+"Sleep and rest",
+"Sunlight and air"
+],
+"answer": "Data and instructions",
+"explanation": "The correct answer is Data and instructions. Machines cannot think on their own; they require specific information (data) and step-by-step commands (instructions) given by humans to perform any task. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 11,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "What does 'Data' mean in the world of computers?",
+"options": [
+"Information",
+"Toys",
+"Games",
+"Food"
+],
+"answer": "Information",
+"explanation": "The correct answer is Information. Data is defined as the information provided to a machine, which can include names, numbers, pictures, sounds, and videos that the machine uses to work. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 12,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "Who uses AI to see X-rays and reports clearly?",
+"options": [
+"Teachers",
+"Doctors",
+"Farmers",
+"Drivers"
+],
+"answer": "Doctors",
+"explanation": "The correct answer is Doctors. In the medical field, doctors use Artificial Intelligence to analyze X-rays and medical reports clearly, helping them diagnose and treat patients more accurately. This concept is discussed on Page 4 of the chapter.",
+"page_number": "4"
+},
+{
+"id": 13,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "How do parents often use AI apps?",
+"options": [
+"To play hide and seek",
+"To find routes and check weather",
+"To cook dinner directly",
+"To wash the car"
+],
+"answer": "To find routes and check weather",
+"explanation": "The correct answer is To find routes and check weather. Parents rely on AI-powered navigation apps for finding travel routes and weather apps for checking daily forecasts to plan their day. This concept is discussed on Page 4 of the chapter.",
+"page_number": "4"
+},
+{
+"id": 14,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "Do machines have a brain?",
+"options": [
+"Yes, a very big brain",
+"No, machines do not have a brain",
+"Yes, but they never use it",
+"Only smart TVs have a brain"
+],
+"answer": "No, machines do not have a brain",
+"explanation": "The correct answer is No, machines do not have a brain. Machines do not think like human beings because they lack a brain and emotions. They only follow the rules and programming set by humans. This concept is discussed on Page 5 of the chapter.",
+"page_number": "5"
+},
+{
+"id": 15,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "What part of a smart machine acts like ears to listen to people?",
+"options": [
+"The screen",
+"The voice assistant",
+"The camera",
+"The keyboard"
+],
+"answer": "The voice assistant",
+"explanation": "The correct answer is The voice assistant. Voice assistants have special abilities that allow them to 'listen' when humans speak, acting as the ears of the machine to receive spoken commands. This concept is discussed on Page 6 of the chapter.",
+"page_number": "6"
+},
+{
+"id": 16,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "What helps machines see pictures and images?",
+"options": [
+"Microphones",
+"Speakers",
+"Cameras",
+"Printers"
+],
+"answer": "Cameras",
+"explanation": "The correct answer is Cameras. Cameras and face recognition systems are the tools that help machines 'see' and process visual information, such as pictures and images, to understand their surroundings. This concept is discussed on Page 6 of the chapter.",
+"page_number": "6"
+},
+{
+"id": 17,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "What is a command?",
+"options": [
+"A type of food",
+"An action telling the machine what to perform",
+"A movie name",
+"A computer game"
+],
+"answer": "An action telling the machine what to perform",
+"explanation": "The correct answer is An action telling the machine what to perform. A command is an instruction, such as saying 'Play music' or pressing a button, that directs a machine to do a specific task. This concept is discussed on Page 7 of the chapter.",
+"page_number": "7"
+},
+{
+"id": 18,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "Which feature helps correct spelling mistakes while typing?",
+"options": [
+"Auto-correct",
+"Maps",
+"Chatbot",
+"Camera"
+],
+"answer": "Auto-correct",
+"explanation": "The correct answer is Auto-correct. Auto-correct is an AI tool that assists users by automatically fixing spelling mistakes and suggesting words while typing on a computer or mobile phone. This concept is discussed on Page 7 of the chapter.",
+"page_number": "7"
+},
+{
+"id": 19,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "What makes a machine a 'Smart Machine'?",
+"options": [
+"It uses AI",
+"It uses wood",
+"It has wheels",
+"It needs water"
+],
+"answer": "It uses AI",
+"explanation": "The correct answer is It uses AI. Machines are divided into smart and non-smart categories. Smart machines use Artificial Intelligence to listen, see, respond, and learn from data. This concept is discussed on Page 8 of the chapter.",
+"page_number": "8"
+},
+{
+"id": 20,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "Which of the following is a non-smart machine?",
+"options": [
+"Smart TV",
+"Mobile Phone",
+"Fan",
+"Computer"
+],
+"answer": "Fan",
+"explanation": "The correct answer is Fan. A fan is a non-smart machine because it does not use Artificial Intelligence. It only works when manually switched on or off by a human. This concept is discussed on Page 8 of the chapter.",
+"page_number": "8"
+},
+{
+"id": 21,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "How should smart devices be used?",
+"options": [
+"Carelessly",
+"Safely and carefully",
+"Without telling parents",
+"All day long without a break"
+],
+"answer": "Safely and carefully",
+"explanation": "The correct answer is Safely and carefully. Even though AI and smart devices are very helpful, it is important to use them safely and responsibly under the guidance of parents or teachers. This concept is discussed on Page 9 of the chapter.",
+"page_number": "9"
+},
+{
+"id": 22,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "Should you share your passwords online?",
+"options": [
+"Yes, with strangers",
+"Yes, with friends",
+"No, never",
+"Only on games"
+],
+"answer": "No, never",
+"explanation": "The correct answer is No, never. Passwords, along with your name, address, and phone number, are personal information and should never be shared online to maintain safety and privacy. This concept is discussed on Page 9 of the chapter.",
+"page_number": "9"
+},
+{
+"id": 23,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "What should we do with our screen time?",
+"options": [
+"Increase it",
+"Limit it",
+"Ignore it",
+"Watch screens in the dark"
+],
+"answer": "Limit it",
+"explanation": "The correct answer is Limit it. Limiting screen time is one of the essential safety rules when using smart devices, as it helps protect our eyes and overall health from strain. This concept is discussed on Page 9 of the chapter.",
+"page_number": "9"
+},
+{
+"id": 24,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "According to the textbook key, what does a fan do?",
+"options": [
+"Blows air",
+"Suggests shows",
+"Sees faces",
+"Listens and responds"
+],
+"answer": "Blows air",
+"explanation": "The correct answer is Blows air. In the 'Think and Match' exercise, a fan is correctly matched with its primary function, which is simply to blow air. It is a non-smart machine. This concept is discussed on Textbook Key Page 2.",
+"page_number": "2"
+},
+{
+"id": 25,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "Which of these is considered 'Personal Information'?",
+"options": [
+"Your favorite color",
+"The name of a movie",
+"Your home address",
+"A cartoon character's name"
+],
+"answer": "Your home address",
+"explanation": "The correct answer is Your home address. Personal information includes sensitive details like your name, address, phone number, and passwords, which must never be shared online. This concept is discussed on Page 9 of the chapter.",
+"page_number": "9"
+},
+{
+"id": 26,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "True or False: Artificial Intelligence helps machines act smart.",
+"options": [
+"True",
+"False",
+"Only in cars",
+"Only in factories"
+],
+"answer": "True",
+"explanation": "The correct answer is True. The core purpose of Artificial Intelligence is to enable machines to act smart, learn from data, and perform tasks that usually require human intelligence. This concept is discussed on Textbook Key Page 1.",
+"page_number": "1"
+},
+{
+"id": 27,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "Does a bulb use AI to work?",
+"options": [
+"Yes, it uses AI",
+"No, it is a non-smart machine",
+"Sometimes",
+"Only colorful bulbs use AI"
+],
+"answer": "No, it is a non-smart machine",
+"explanation": "The correct answer is No, it is a non-smart machine. A bulb is given as an example of a non-smart machine. It works only when it is switched on or off and does not possess any artificial intelligence. This concept is discussed on Page 8 of the chapter.",
+"page_number": "8"
+},
+{
+"id": 28,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "What is YouTube commonly used for according to the chapter?",
+"options": [
+"Booking tickets",
+"Showing favourite cartoons",
+"Sending emails",
+"Calculating math"
+],
+"answer": "Showing favourite cartoons",
+"explanation": "The correct answer is Showing favourite cartoons. The text mentions that children interact with AI when YouTube uses its systems to show them their favourite cartoons and videos. This concept is discussed on Page 2 of the chapter.",
+"page_number": "2"
+},
+{
+"id": 29,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "Fill in the blank: We should not share ________ information online.",
+"options": [
+"School",
+"Personal",
+"Public",
+"Book"
+],
+"answer": "Personal",
+"explanation": "The correct answer is Personal. As a crucial safety rule for using smart devices, personal information such as addresses and phone numbers must never be shared on the internet. This concept is discussed on Textbook Key Page 1.",
+"page_number": "1"
+},
+{
+"id": 30,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "easy",
+"question": "Who can think and decide on their own?",
+"options": [
+"Computers",
+"Mobile phones",
+"Humans",
+"Fans"
+],
+"answer": "Humans",
+"explanation": "The correct answer is Humans. Unlike machines, which require explicit instructions and data to function, humans have the natural intelligence to think, imagine, and make decisions independently. This concept is discussed on Textbook Key Page 1.",
+"page_number": "1"
+},
+{
+"id": 31,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "How do machines become intelligent?",
+"options": [
+"By drinking water",
+"By watching television",
+"Because humans design and program them",
+"By sleeping well"
+],
+"answer": "Because humans design and program them",
+"explanation": "The correct answer is Because humans design and program them. Machines lack natural intelligence. They are considered intelligent only because human beings write programs and feed them data to make them act smart. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 32,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Which of the following is an example of 'Instructions'?",
+"options": [
+"A picture of a cat",
+"A list of names",
+"Commands that tell the machine what to do step by step",
+"A song playing on the radio"
+],
+"answer": "Commands that tell the machine what to do step by step",
+"explanation": "The correct answer is Commands that tell the machine what to do step by step. While pictures and names are 'data', instructions are the specific step-by-step commands that guide the machine on how to process that data. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 33,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "What happens if a machine receives wrong instructions?",
+"options": [
+"It fixes the instructions itself",
+"It works correctly anyway",
+"It works incorrectly",
+"It starts crying"
+],
+"answer": "It works incorrectly",
+"explanation": "The correct answer is It works incorrectly. Machines depend entirely on clear and correct instructions. If the instructions provided are wrong, the machine will not be able to perform the task properly. This concept is discussed on Page 4 of the chapter.",
+"page_number": "4"
+},
+{
+"id": 34,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "How does AI help students?",
+"options": [
+"By eating their lunch",
+"By playing in the park for them",
+"By helping them learn online and practice lessons",
+"By hiding their books"
+],
+"answer": "By helping them learn online and practice lessons",
+"explanation": "The correct answer is By helping them learn online and practice lessons. Students benefit from AI by using it to get quick answers to questions, practice their lessons, and enhance their online learning experience. This concept is discussed on Page 4 of the chapter.",
+"page_number": "4"
+},
+{
+"id": 35,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Why do machines answer questions and suggest videos to you?",
+"options": [
+"Because they know what you are thinking",
+"Because they have feelings",
+"Because they are programmed to follow patterns and rules",
+"Because they have their own brain"
+],
+"answer": "Because they are programmed to follow patterns and rules",
+"explanation": "The correct answer is Because they are programmed to follow patterns and rules. Machines do not think like humans. They can suggest videos and answer queries purely because humans have programmed them with specific rules and patterns to follow. This concept is discussed on Page 5 of the chapter.",
+"page_number": "5"
+},
+{
+"id": 36,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "How can AI machines become better at their tasks?",
+"options": [
+"By getting more rest",
+"By receiving more correct data",
+"By being painted a new color",
+"By staying switched off"
+],
+"answer": "By receiving more correct data",
+"explanation": "The correct answer is By receiving more correct data. AI machines operate by learning from the information provided to them. The more correct data they process, the better and more accurate they become at their jobs. This concept is discussed on Page 5 of the chapter.",
+"page_number": "5"
+},
+{
+"id": 37,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "What is the purpose of chatbots?",
+"options": [
+"To show routes",
+"To take pictures",
+"To respond by giving replies to questions",
+"To measure temperature"
+],
+"answer": "To respond by giving replies to questions",
+"explanation": "The correct answer is To respond by giving replies to questions. Chatbots are a type of smart machine capability designed to understand user input and provide helpful text-based responses to their questions. This concept is discussed on Page 6 of the chapter.",
+"page_number": "6"
+},
+{
+"id": 38,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Why is it important that machines can listen, see, and respond?",
+"options": [
+"It helps them become humans",
+"It makes communication between humans and machines easier",
+"It makes them tired",
+"It helps them eat food"
+],
+"answer": "It makes communication between humans and machines easier",
+"explanation": "The correct answer is It makes communication between humans and machines easier. These special abilities allow machines to understand human commands better, leading to smoother and more effective interactions. This concept is discussed on Page 6 of the chapter.",
+"page_number": "6"
+},
+{
+"id": 39,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Which of the following describes a command correctly?",
+"options": [
+"Saying 'Play music' to an AI assistant",
+"A machine feeling sad",
+"A person sleeping",
+"Data like numbers and pictures"
+],
+"answer": "Saying 'Play music' to an AI assistant",
+"explanation": "The correct answer is Saying 'Play music' to an AI assistant. A command is an instruction that tells a machine what action to take. Saying 'Play music' is a direct command given to a voice assistant. This concept is discussed on Page 7 of the chapter.",
+"page_number": "7"
+},
+{
+"id": 40,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "How do online shopping apps use AI?",
+"options": [
+"By suggesting useful items",
+"By cleaning the house",
+"By watching cartoons",
+"By unlocking doors"
+],
+"answer": "By suggesting useful items",
+"explanation": "The correct answer is By suggesting useful items. Online shopping platforms employ AI to analyze what customers browse and buy, enabling the app to suggest other useful items the customer might like. This concept is discussed on Page 7 of the chapter.",
+"page_number": "7"
+},
+{
+"id": 41,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "What is a characteristic of non-smart machines?",
+"options": [
+"They use AI",
+"They can learn from data",
+"They work only when switched on or off",
+"They suggest movies to watch"
+],
+"answer": "They work only when switched on or off",
+"explanation": "The correct answer is They work only when switched on or off. Non-smart machines, such as fans and bulbs, do not use Artificial Intelligence. They perform a single function and operate strictly based on manual switches. This concept is discussed on Page 8 of the chapter.",
+"page_number": "8"
+},
+{
+"id": 42,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Which group of devices represents ONLY smart machines?",
+"options": [
+"Mobile phone, Fan, Switch",
+"Computer, Smart TV, Bulb",
+"Mobile phone, Smart TV, Computer",
+"Fan, Bulb, Switch"
+],
+"answer": "Mobile phone, Smart TV, Computer",
+"explanation": "The correct answer is Mobile phone, Smart TV, Computer. These three devices use AI to listen, see, respond, and learn, making them smart machines, unlike fans or bulbs. This concept is discussed on Page 8 of the chapter.",
+"page_number": "8"
+},
+{
+"id": 43,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Who should you use smart devices with?",
+"options": [
+"Only by yourself",
+"With strangers online",
+"With parents or teachers",
+"With your pets"
+],
+"answer": "With parents or teachers",
+"explanation": "The correct answer is With parents or teachers. A major safety rule for young children using smart devices is to do so under the supervision of adults like parents or teachers to ensure safe online behavior. This concept is discussed on Page 9 of the chapter.",
+"page_number": "9"
+},
+{
+"id": 44,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "What is the result of using AI wisely?",
+"options": [
+"It helps us learn better and live smarter",
+"It makes us lazy and slow",
+"It breaks our machines",
+"It causes machines to feel angry"
+],
+"answer": "It helps us learn better and live smarter",
+"explanation": "The correct answer is It helps us learn better and live smarter. The conclusion of the chapter highlights that responsible and wise use of AI technology ultimately makes our daily lives easier and aids in our learning process. This concept is discussed on Page 10 of the chapter.",
+"page_number": "10"
+},
+{
+"id": 45,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Why is a fan NOT considered a smart machine?",
+"options": [
+"It can learn from data",
+"It has a brain",
+"It just runs when switched on",
+"It can listen to your voice"
+],
+"answer": "It just runs when switched on",
+"explanation": "The correct answer is It just runs when switched on. The textbook key clarifies that a fan is false when called a smart machine because it lacks AI capabilities and simply operates when a switch is flipped. This concept is discussed on Textbook Key Page 1.",
+"page_number": "1"
+},
+{
+"id": 46,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "True or False: Humans need commands to think.",
+"options": [
+"True, humans need instructions",
+"False, humans can think independently",
+"True, humans run on batteries",
+"False, humans cannot think at all"
+],
+"answer": "False, humans can think independently",
+"explanation": "The correct answer is False, humans can think independently. Unlike machines that sit idle without commands, human beings possess natural intelligence and can think, imagine, and act completely on their own. This concept is discussed on Textbook Key Page 1.",
+"page_number": "1"
+},
+{
+"id": 47,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Fill in the blank: Smart machines work using _______ and instructions.",
+"options": [
+"Data",
+"Water",
+"Emotions",
+"Feelings"
+],
+"answer": "Data",
+"explanation": "The correct answer is Data. AI requires two main inputs to function properly: data (information) and instructions (step-by-step commands). This concept is discussed on Textbook Key Page 1.",
+"page_number": "1"
+},
+{
+"id": 48,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Choose the correct missing word: A _______ tells the machine what to do.",
+"options": [
+"Smart",
+"Listen",
+"Data",
+"Command"
+],
+"answer": "Command",
+"explanation": "The correct answer is Command. Without commands, a machine does not know what action to perform. A command acts as a trigger to tell the machine exactly what is required. This concept is discussed on Textbook Key Page 1.",
+"page_number": "1"
+},
+{
+"id": 49,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Choose the correct missing word: Machines use _______ to work correctly.",
+"options": [
+"Listen",
+"Data",
+"Smart",
+"See"
+],
+"answer": "Data",
+"explanation": "The correct answer is Data. Machines rely heavily on correct data (such as numbers, locations, and images) to process tasks accurately and become better at their functions. This concept is discussed on Textbook Key Page 1.",
+"page_number": "1"
+},
+{
+"id": 50,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "In the 'Think and Match' section, which machine matches with 'Shows routes'?",
+"options": [
+"Smart TV",
+"Camera",
+"Google Maps",
+"Alexa"
+],
+"answer": "Google Maps",
+"explanation": "The correct answer is Google Maps. Google Maps is a navigation tool powered by AI that processes location data to show the shortest and safest routes to users. This concept is discussed on Textbook Key Page 2.",
+"page_number": "2"
+},
+{
+"id": 51,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "What is the difference between how humans and machines decide?",
+"options": [
+"Humans use stored data, machines use imagination",
+"Humans use thinking and understanding, machines use stored information",
+"Both humans and machines use imagination",
+"Both humans and machines use batteries"
+],
+"answer": "Humans use thinking and understanding, machines use stored information",
+"explanation": "The correct answer is Humans use thinking and understanding, machines use stored information. Humans can analyze a situation using feelings and understanding, while machines can only make decisions based on the data and programs installed in them. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 52,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "How did people do tasks before AI was used?",
+"options": [
+"Work was easy, quick, and comfortable",
+"Many tasks were slow and difficult",
+"Machines worked by themselves",
+"Computers made all decisions"
+],
+"answer": "Many tasks were slow and difficult",
+"explanation": "The correct answer is Many tasks were slow and difficult. The chapter notes that before the advent of AI, completing daily tasks took much more human effort and time. AI has made work significantly faster and easier. This concept is discussed on Page 7 of the chapter.",
+"page_number": "7"
+},
+{
+"id": 53,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Which of the following is NOT an example of data?",
+"options": [
+"Names and numbers",
+"Pictures and sounds",
+"A command to 'Play music'",
+"Videos and locations"
+],
+"answer": "A command to 'Play music'",
+"explanation": "The correct answer is A command to 'Play music'. Names, numbers, pictures, and videos are forms of data (information). A command like 'Play music' is an instruction, not data. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 54,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "What does human intelligence allow people to do that AI cannot?",
+"options": [
+"Recognise faces",
+"Show fast routes",
+"Imagine new ideas",
+"Play music"
+],
+"answer": "Imagine new ideas",
+"explanation": "The correct answer is Imagine new ideas. While AI can recognise faces and show routes based on programming, only humans possess the intelligence to imagine completely new concepts and ideas. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 55,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Why do machines need human design and programming?",
+"options": [
+"Because they have no intelligence of their own",
+"Because they like humans",
+"Because they need to be fed",
+"Because they want to learn naturally"
+],
+"answer": "Because they have no intelligence of their own",
+"explanation": "The correct answer is Because they have no intelligence of their own. Machines are completely dependent on human intelligence to function smartly because they do not have a natural brain or the ability to think independently. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 56,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Which of these makes everyday work fast, quick, and comfortable?",
+"options": [
+"Non-smart machines",
+"Artificial Intelligence",
+"A switch",
+"A bulb"
+],
+"answer": "Artificial Intelligence",
+"explanation": "The correct answer is Artificial Intelligence. The chapter explains that AI reduces effort and saves time, transforming tasks that used to be slow and difficult into ones that are easy and fast. This concept is discussed on Page 7 of the chapter.",
+"page_number": "7"
+},
+{
+"id": 57,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "What does a machine do when it is NOT given any commands?",
+"options": [
+"It guesses what to do",
+"It asks a friend",
+"It cannot do any task",
+"It does the task anyway"
+],
+"answer": "It cannot do any task",
+"explanation": "The correct answer is It cannot do any task. Machines do not have self-drive or independent thought. Without explicit commands from a human, a machine simply sits idle and does nothing. This concept is discussed on Page 7 of the chapter.",
+"page_number": "7"
+},
+{
+"id": 58,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Which of these is a responsible use of AI?",
+"options": [
+"Sharing passwords online",
+"Using it for learning and helping others",
+"Staring at the screen all day",
+"Using it to play games in the dark"
+],
+"answer": "Using it for learning and helping others",
+"explanation": "The correct answer is Using it for learning and helping others. Responsible use means utilizing smart devices to gain knowledge and assist people, while avoiding harmful activities like sharing personal data. This concept is discussed on Page 9 of the chapter.",
+"page_number": "9"
+},
+{
+"id": 59,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Which of these devices would learn from data to become better over time?",
+"options": [
+"A smart mobile phone",
+"A ceiling fan",
+"An electric switch",
+"A glass bulb"
+],
+"answer": "A smart mobile phone",
+"explanation": "The correct answer is A smart mobile phone. Smart machines, like mobile phones, use AI to learn from information (data) to improve their performance, whereas non-smart devices just turn on and off. This concept is discussed on Page 8 of the chapter.",
+"page_number": "8"
+},
+{
+"id": 60,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "According to the Match the machine exercise, what does the Camera do?",
+"options": [
+"Suggests shows",
+"Shows routes",
+"Sees faces",
+"Blows air"
+],
+"answer": "Sees faces",
+"explanation": "The correct answer is Sees faces. In the textbook key, the camera is appropriately paired with its function to 'See faces', allowing face recognition systems to work. This concept is discussed on Textbook Key Page 2.",
+"page_number": "2"
+},
+{
+"id": 61,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "What is the primary difference between a Smart TV and a normal fan?",
+"options": [
+"A Smart TV blows air, a fan shows movies",
+"A Smart TV uses AI to suggest content, a fan only works when switched on",
+"A fan is smarter than a Smart TV",
+"They both use Artificial Intelligence"
+],
+"answer": "A Smart TV uses AI to suggest content, a fan only works when switched on",
+"explanation": "The correct answer is A Smart TV uses AI to suggest content, a fan only works when switched on. A Smart TV is an AI-powered smart machine, while a fan is a basic non-smart machine that relies entirely on a physical switch. This concept is discussed on Page 8 of the chapter.",
+"page_number": "8"
+},
+{
+"id": 62,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "If you ask a device 'What is the weather today?' and it replies, which AI feature is it using?",
+"options": [
+"Camera",
+"Voice assistant",
+"Auto-correct",
+"Screen brightness"
+],
+"answer": "Voice assistant",
+"explanation": "The correct answer is Voice assistant. Voice assistants act as the listening and speaking components of a smart machine, designed to answer spoken questions directly. This concept is discussed on Page 6 of the chapter.",
+"page_number": "6"
+},
+{
+"id": 63,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "How do machines communicate better with humans?",
+"options": [
+"By shouting loudly",
+"By ignoring commands",
+"By listening, seeing, and responding",
+"By turning themselves off"
+],
+"answer": "By listening, seeing, and responding",
+"explanation": "The correct answer is By listening, seeing, and responding. AI gives machines these special abilities so they can understand human commands effectively, making communication between humans and machines easier. This concept is discussed on Page 6 of the chapter.",
+"page_number": "6"
+},
+{
+"id": 64,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Why should we not share personal information like passwords online?",
+"options": [
+"Because machines will forget them",
+"Because it is a safety rule to protect ourselves",
+"Because parents will be happy",
+"Because computers do not need data"
+],
+"answer": "Because it is a safety rule to protect ourselves",
+"explanation": "The correct answer is Because it is a safety rule to protect ourselves. Sharing personal information online can be dangerous. The book strictly advises keeping details like passwords and addresses private to stay safe. This concept is discussed on Page 9 of the chapter.",
+"page_number": "9"
+},
+{
+"id": 65,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "According to the textbook key, how are Mobile phones categorized?",
+"options": [
+"Smart machines",
+"Non-smart machines",
+"Human intelligence",
+"Natural objects"
+],
+"answer": "Smart machines",
+"explanation": "The correct answer is Smart machines. The key explicitly circles 'Smart' for Mobile Phones, as they utilize Artificial Intelligence to perform tasks like face recognition and running smart apps. This concept is discussed on Textbook Key Page 1.",
+"page_number": "1"
+},
+{
+"id": 66,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Which of these is an example of a command?",
+"options": [
+"A picture of a dog",
+"The number 10",
+"Pressing a button on a remote",
+"A video of a car"
+],
+"answer": "Pressing a button on a remote",
+"explanation": "The correct answer is Pressing a button on a remote. A command is an action telling a machine what to perform. Pressing a button sends a direct instruction to the machine, unlike pictures or numbers which are just data. This concept is discussed on Page 7 of the chapter.",
+"page_number": "7"
+},
+{
+"id": 67,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "What is the role of AI in hospitals according to the chapter?",
+"options": [
+"To cook medicine",
+"To clean the floors",
+"To help doctors see X-rays and reports clearly",
+"To drive ambulances"
+],
+"answer": "To help doctors see X-rays and reports clearly",
+"subject": "Computer Science",
+"explanation": "The correct answer is To help doctors see X-rays and reports clearly. The chapter specifically mentions that doctors utilize AI technology to clearly analyze medical reports and X-rays, improving patient care. This concept is discussed on Page 4 of the chapter.",
+"page_number": "4"
+},
+{
+"id": 68,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Which of the following describes machine intelligence best?",
+"options": [
+"Machines acting smart only with human help",
+"Machines imagining new ideas",
+"Machines feeling happy or sad",
+"Machines making independent decisions"
+],
+"answer": "Machines acting smart only with human help",
+"explanation": "The correct answer is Machines acting smart only with human help. Machine intelligence is entirely dependent on humans designing, programming, and providing instructions to the machine; it has no independent thought. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 69,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "Fill in the blank: Humans can think and _______ on their own.",
+"options": [
+"Battery",
+"Decide",
+"Switch",
+"Data"
+],
+"answer": "Decide",
+"explanation": "The correct answer is Decide. As opposed to machines that need pre-programmed data to act, human intelligence allows people to naturally evaluate situations and make their own decisions. This concept is discussed on Textbook Key Page 1.",
+"page_number": "1"
+},
+{
+"id": 70,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "medium",
+"question": "What do we call the special abilities of smart machines to understand us?",
+"options": [
+"Cooking, cleaning, washing",
+"Listening, seeing, responding",
+"Running, jumping, playing",
+"Sleeping, eating, drinking"
+],
+"answer": "Listening, seeing, responding",
+"explanation": "The correct answer is Listening, seeing, responding. These three abilities—powered by voice assistants, cameras, and chatbots—allow AI machines to interact smoothly with humans. This concept is discussed on Page 6 of the chapter.",
+"page_number": "6"
+},
+{
+"id": 71,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "Rohan is trying to find the shortest and safest route to his friend's house. Which AI-powered app should he use and what data does it need?",
+"options": [
+"YouTube; it needs video data",
+"Auto-correct; it needs spelling data",
+"Google Maps; it needs location data",
+"A Chatbot; it needs text data"
+],
+"answer": "Google Maps; it needs location data",
+"explanation": "The correct answer is Google Maps; it needs location data. The chapter explains that Google Maps is a navigation app that specifically uses location data and instructions to show the shortest and safest routes. This concept is discussed on Page 4 of the chapter.",
+"page_number": "4"
+},
+{
+"id": 72,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "Sia's computer makes a lot of mistakes when answering her questions. Based on the chapter, what is the best way for the AI machine to become better?",
+"options": [
+"It needs to be turned off for a day",
+"It must receive more correct data",
+"It needs a new screen",
+"It should be given less information"
+],
+"answer": "It must receive more correct data",
+"explanation": "The correct answer is It must receive more correct data. AI systems learn from the information provided to them. If a machine is making errors, providing it with more accurate and correct data helps it improve over time. This concept is discussed on Page 5 of the chapter.",
+"page_number": "5"
+},
+{
+"id": 73,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "Why is saying 'Play music' to a smart speaker considered an important part of AI interaction?",
+"options": [
+"Because it gives the machine feelings",
+"Because it is a command that tells the machine what action to perform",
+"Because it is data stored inside the speaker",
+"Because it switches the speaker off completely"
+],
+"answer": "Because it is a command that tells the machine what action to perform",
+"explanation": "The correct answer is Because it is a command that tells the machine what action to perform. Machines cannot work on their own. They require explicit commands like 'Play music' to trigger the specific task they are programmed to do. This concept is discussed on Page 7 of the chapter.",
+"page_number": "7"
+},
+{
+"id": 74,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "A device in your house turns on instantly when you flip a switch, but it never learns your habits or suggests things. What kind of machine is it, and why?",
+"options": [
+"It is a smart machine because it uses electricity.",
+"It is a smart machine because it has a brain.",
+"It is a non-smart machine because it does not use AI.",
+"It is a non-smart machine because it cannot be switched off."
+],
+"answer": "It is a non-smart machine because it does not use AI.",
+"explanation": "The correct answer is It is a non-smart machine because it does not use AI.. Machines that only operate based on a physical on/off switch and cannot process data to learn are classified as non-smart machines. This concept is discussed on Page 8 of the chapter.",
+"page_number": "8"
+},
+{
+"id": 75,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "Which of the following scenarios describes human intelligence rather than machine intelligence?",
+"options": [
+"Suggesting a movie based on past viewing history",
+"Unlocking a phone by matching facial features",
+"Feeling sad after reading a tragic story and writing a completely new poem about it",
+"Calculating a math problem in one second"
+],
+"answer": "Feeling sad after reading a tragic story and writing a completely new poem about it",
+"explanation": "The correct answer is Feeling sad after reading a tragic story and writing a completely new poem about it. Unlike machines, human intelligence is characterized by the ability to experience emotions (feeling sad) and imagine new ideas (writing a poem). This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 76,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "If you are playing a game on your tablet for many hours, which safety rule are you breaking according to the chapter?",
+"options": [
+"Do not share personal information",
+"Use devices with parents",
+"Limit screen time",
+"Use AI for learning"
+],
+"answer": "Limit screen time",
+"explanation": "The correct answer is Limit screen time. Extended use of a tablet screen without breaks violates the safety rule of limiting screen time, which is essential to protect one's eyes and health. This concept is discussed on Page 9 of the chapter.",
+"page_number": "9"
+},
+{
+"id": 77,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "A robot is programmed to sort blocks by color. If a human gives it instructions in the wrong order, what will likely happen?",
+"options": [
+"The robot will sort the blocks correctly anyway by using its own brain.",
+"The robot will work incorrectly because it relies entirely on clear instructions.",
+"The robot will start imagining a new way to sort.",
+"The robot will turn into a non-smart machine."
+],
+"answer": "The robot will work incorrectly because it relies entirely on clear instructions.",
+"explanation": "The correct answer is The robot will work incorrectly because it relies entirely on clear instructions.. Machines lack the independent thought needed to fix wrong commands. They only follow the step-by-step instructions given, so incorrect instructions lead to incorrect work. This concept is discussed on Page 4 of the chapter.",
+"page_number": "4"
+},
+{
+"id": 78,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "Which combination of items correctly represents 'Data' in the context of AI?",
+"options": [
+"Pressing a switch, turning a knob, saying 'Hello'",
+"Names, numbers, pictures, sounds, and locations",
+"A ceiling fan, a light bulb, and a computer",
+"Feeling happy, being sad, making a decision"
+],
+"answer": "Names, numbers, pictures, sounds, and locations",
+"explanation": "The correct answer is Names, numbers, pictures, sounds, and locations. Data refers to the raw information that machines process. The chapter specifically lists names, numbers, pictures, sounds, videos, and locations as examples of data. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 79,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "Why is a Smart TV considered different from a standard television?",
+"options": [
+"Because a Smart TV can show moving pictures",
+"Because a Smart TV has a screen and speakers",
+"Because a Smart TV uses AI to suggest movies and cartoons you might like",
+"Because a Smart TV does not need electricity to run"
+],
+"answer": "Because a Smart TV uses AI to suggest movies and cartoons you might like",
+"explanation": "The correct answer is Because a Smart TV uses AI to suggest movies and cartoons you might like. The defining feature of a smart machine like a Smart TV is its use of AI to analyze data and provide personalized suggestions, unlike standard TVs. This concept is discussed on Page 2 of the chapter.",
+"page_number": "2"
+},
+{
+"id": 80,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "When you are typing an email and a word automatically fixes its spelling, how does this relate to AI reducing effort?",
+"options": [
+"It means the computer has a human brain inside.",
+"It is an auto-correct feature powered by AI that saves time and fixes mistakes.",
+"It means the computer is reading your thoughts.",
+"It means the keyboard is a non-smart machine."
+],
+"answer": "It is an auto-correct feature powered by AI that saves time and fixes mistakes.",
+"explanation": "The correct answer is It is an auto-correct feature powered by AI that saves time and fixes mistakes.. Auto-correct is highlighted as an AI tool that makes tasks faster and easier by automatically correcting typing errors without manual effort. This concept is discussed on Page 7 of the chapter.",
+"page_number": "7"
+},
+{
+"id": 81,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "Imagine a machine that can answer questions but cannot recognise faces. What might it be missing?",
+"options": [
+"A voice assistant",
+"A chatbot",
+"A camera or face recognition system",
+"A power switch"
+],
+"answer": "A camera or face recognition system",
+"explanation": "The correct answer is A camera or face recognition system. For a machine to have the ability to 'see' and recognize faces, it relies on cameras and specific visual AI programming. Without it, it can only 'listen' or respond via text. This concept is discussed on Page 6 of the chapter.",
+"page_number": "6"
+},
+{
+"id": 82,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "What happens when an online shopping app receives data about the toys you look at?",
+"options": [
+"It turns off your phone",
+"It uses AI rules to suggest other useful toys to you",
+"It deletes the toys from the store",
+"It shows you the shortest route to school"
+],
+"answer": "It uses AI rules to suggest other useful toys to you",
+"explanation": "The correct answer is It uses AI rules to suggest other useful toys to you. Online shopping apps utilize data on user preferences and apply AI patterns to recommend similar or useful items to enhance the shopping experience. This concept is discussed on Page 7 of the chapter.",
+"page_number": "7"
+},
+{
+"id": 83,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "Read this statement: 'Machines decide by using information stored inside them.' How does this differ from humans?",
+"options": [
+"Humans do not make decisions.",
+"Humans decide by thinking, understanding situations, and using past experience.",
+"Humans decide only when someone gives them a command.",
+"Humans decide by scanning a barcode."
+],
+"answer": "Humans decide by thinking, understanding situations, and using past experience.",
+"explanation": "The correct answer is Humans decide by thinking, understanding situations, and using past experience.. Unlike machines that depend solely on pre-programmed data to make choices, humans have the natural ability to assess a situation, feel, and decide independently. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 84,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "If you share your home address on an open internet game to win a prize, why is this a bad idea according to the chapter?",
+"options": [
+"Because you might win too many prizes",
+"Because personal information should never be shared online for safety reasons",
+"Because the game is a non-smart machine",
+"Because the game will use up all your screen time"
+],
+"answer": "Because personal information should never be shared online for safety reasons",
+"explanation": "The correct answer is Because personal information should never be shared online for safety reasons. The chapter emphasizes that maintaining privacy by not sharing details like names and addresses is a fundamental rule for safe smart device usage. This concept is discussed on Page 9 of the chapter.",
+"page_number": "9"
+},
+{
+"id": 85,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "How did AI change the way humans complete their tasks compared to the past?",
+"options": [
+"Tasks are now slower and more difficult",
+"Tasks require more physical energy now",
+"Tasks are done faster, more accurately, and with less effort",
+"Tasks can only be done by robots now"
+],
+"answer": "Tasks are done faster, more accurately, and with less effort",
+"explanation": "The correct answer is Tasks are done faster, more accurately, and with less effort. Before AI, work was slow and difficult. Now, AI supports humans by saving time, reducing manual effort, and increasing task accuracy. This concept is discussed on Pages 4 and 7 of the chapter.",
+"page_number": "4"
+},
+{
+"id": 86,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "Which of the following is true about how a voice assistant works?",
+"options": [
+"It thinks independently, forms an opinion, and then speaks.",
+"It listens to a command, processes stored data, and responds based on its programming.",
+"It turns into a camera to see your face.",
+"It operates purely as a non-smart machine."
+],
+"answer": "It listens to a command, processes stored data, and responds based on its programming.",
+"explanation": "The correct answer is It listens to a command, processes stored data, and responds based on its programming.. Voice assistants like Alexa do not have a brain or independent thought. They listen to a trigger command and use AI programming to formulate a helpful response. This concept is discussed on Pages 5 and 6 of the chapter.",
+"page_number": "6"
+},
+{
+"id": 87,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "A student uses a tablet for an online math class for 4 hours, and then watches movies on it for 3 more hours. What advice would the textbook give?",
+"options": [
+"Keep watching to learn more from the smart machine.",
+"Limit screen time to protect eyes and health.",
+"Share your passwords to access more movies.",
+"Use a fan instead of a tablet."
+],
+"answer": "Limit screen time to protect eyes and health.",
+"explanation": "The correct answer is Limit screen time to protect eyes and health.. Prolonged use of smart devices, even for learning, can be harmful. The textbook stresses limiting screen time as a key safety rule to protect physical well-being. This concept is discussed on Page 9 of the chapter.",
+"page_number": "9"
+},
+{
+"id": 88,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "In the context of AI, what role does a human play for a machine?",
+"options": [
+"The human acts as a battery.",
+"The human provides the design, data, and instructions that make the machine intelligent.",
+"The human is controlled by the machine.",
+"The human only switches the machine on and off."
+],
+"answer": "The human provides the design, data, and instructions that make the machine intelligent.",
+"explanation": "The correct answer is The human provides the design, data, and instructions that make the machine intelligent.. Machines have no natural intelligence. It is humans who program them, feed them information, and design them to act smart. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 89,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "If you command a non-smart machine to 'Play music', what will happen?",
+"options": [
+"It will play your favourite song.",
+"It will ask you which song to play.",
+"Nothing will happen, because it does not use AI to understand commands.",
+"It will turn into a smart machine."
+],
+"answer": "Nothing will happen, because it does not use AI to understand commands.",
+"explanation": "The correct answer is Nothing will happen, because it does not use AI to understand commands.. Non-smart machines lack artificial intelligence and voice recognition capabilities. They can only function through mechanical switches, not verbal commands. This concept is discussed on Page 8 of the chapter.",
+"page_number": "8"
+},
+{
+"id": 90,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "Based on the conclusion of the chapter, what is the ultimate goal of having AI present in our daily life?",
+"options": [
+"To replace humans completely",
+"To make machines feel emotions",
+"To help us learn better, work easier, save time, and live smarter",
+"To make simple tasks slower and more difficult"
+],
+"answer": "To help us learn better, work easier, save time, and live smarter",
+"explanation": "The correct answer is To help us learn better, work easier, save time, and live smarter. The conclusion summarizes that AI is meant to be a supportive tool that reduces human effort, enhances learning, and improves our overall quality of life when used wisely. This concept is discussed on Page 10 of the chapter.",
+"page_number": "10"
+},
+{
+"id": 91,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "What differentiates an AI-powered face recognition system from a normal camera?",
+"options": [
+"A normal camera takes pictures, but a face recognition system uses AI to analyze and understand whose face it is.",
+"A face recognition system only works in the dark.",
+"A normal camera uses AI, but face recognition does not.",
+"There is no difference between them."
+],
+"answer": "A normal camera takes pictures, but a face recognition system uses AI to analyze and understand whose face it is.",
+"explanation": "The correct answer is A normal camera takes pictures, but a face recognition system uses AI to analyze and understand whose face it is.. While a camera simply captures an image, AI empowers a face recognition system to process that visual data, understand it, and make a match (like unlocking a phone). This concept is discussed on Pages 2 and 6 of the chapter.",
+"page_number": "6"
+},
+{
+"id": 92,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "An AI machine learns from its mistakes. According to the text, what does it need to become better?",
+"options": [
+"More correct data",
+"More wrong instructions",
+"To be left alone",
+"To grow a human brain"
+],
+"answer": "More correct data",
+"explanation": "The correct answer is More correct data. The text explicitly states that AI machines work by learning from the information provided to them, and they become better when they receive more correct data over time. This concept is discussed on Page 5 of the chapter.",
+"page_number": "5"
+},
+{
+"id": 93,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "Why is saying that 'humans need commands to think' false?",
+"options": [
+"Because humans only need data, not commands.",
+"Because humans can think independently and make decisions on their own.",
+"Because commands only work on non-smart machines.",
+"Because humans communicate through chatbots."
+],
+"answer": "Because humans can think independently and make decisions on their own.",
+"explanation": "The correct answer is Because humans can think independently and make decisions on their own.. Human intelligence is natural and self-directed. Humans do not need to wait for a command or instruction to start thinking or feeling, unlike machines. This concept is discussed on Textbook Key Page 1.",
+"page_number": "1"
+},
+{
+"id": 94,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "If an app on a mobile phone shows you the weather forecast for your specific city, what combination of things is it primarily using?",
+"options": [
+"Location data and AI instructions",
+"A ceiling fan and a switch",
+"Human emotions and imagination",
+"Only a camera and a face"
+],
+"answer": "Location data and AI instructions",
+"explanation": "The correct answer is Location data and AI instructions. Just like Google Maps, weather applications use location data (where you are) combined with programmed instructions to fetch and display the correct weather forecast. This concept is discussed on Page 4 of the chapter.",
+"page_number": "4"
+},
+{
+"id": 95,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "In the sentence 'Machines are intelligent only because humans design and program them,' what does 'program' mean in this context?",
+"options": [
+"To feed the machine food",
+"To paint the machine's outer cover",
+"To give the machine data and set rules or instructions for it to follow",
+"To watch a cartoon on the machine"
+],
+"answer": "To give the machine data and set rules or instructions for it to follow",
+"explanation": "The correct answer is To give the machine data and set rules or instructions for it to follow. Programming refers to the process where humans provide the necessary data and step-by-step instructions (rules/patterns) that enable the machine to function intelligently. This concept is discussed on Page 3 of the chapter.",
+"page_number": "3"
+},
+{
+"id": 96,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "Which of these best summarizes the 'Responsible use of AI'?",
+"options": [
+"Using AI to do all your homework while you play games all day",
+"Sharing all your photos and passwords online to get more friends",
+"Using AI for good purposes like learning, while limiting screen time and keeping data safe",
+"Throwing away non-smart machines because they are useless"
+],
+"answer": "Using AI for good purposes like learning, while limiting screen time and keeping data safe",
+"explanation": "The correct answer is Using AI for good purposes like learning, while limiting screen time and keeping data safe. The chapter teaches that responsibility means utilizing AI to help oneself and others learn, while strictly following safety rules like protecting personal info and limiting screen exposure. This concept is discussed on Page 9 of the chapter.",
+"page_number": "9"
+},
+{
+"id": 97,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "A smart machine is given the command 'Play music', but the data for songs is missing. What will likely happen?",
+"options": [
+"It will sing a song itself using imagination.",
+"It will work incorrectly or fail to play music because it lacks the necessary data.",
+"It will turn into a camera to see your face instead.",
+"It will ignore the command and go to sleep."
+],
+"answer": "It will work incorrectly or fail to play music because it lacks the necessary data.",
+"explanation": "The correct answer is It will work incorrectly or fail to play music because it lacks the necessary data.. Machines require both commands (instructions) AND data (information) to perform a task correctly. If either is missing or wrong, the machine cannot function properly. This concept is discussed on Pages 3 and 4 of the chapter.",
+"page_number": "4"
+},
+{
+"id": 98,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "What is the primary reason machines do not feel happy when they answer a question correctly?",
+"options": [
+"Because humans tell them not to feel happy",
+"Because they do not have a brain or emotions",
+"Because the questions are too easy",
+"Because they are non-smart machines"
+],
+"answer": "Because they do not have a brain or emotions",
+"explanation": "The correct answer is Because they do not have a brain or emotions. Unlike humans, machines are entirely mechanical and programmed. They do not experience emotions like happiness or sadness because they simply do not possess a brain to feel them. This concept is discussed on Page 5 of the chapter.",
+"page_number": "5"
+},
+{
+"id": 99,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "How do chatbots differ from voice assistants?",
+"options": [
+"Chatbots listen and speak, voice assistants only see.",
+"Chatbots respond by giving text replies to questions, while voice assistants primarily listen when we speak.",
+"Chatbots are non-smart machines.",
+"There is no difference; they are exactly the same."
+],
+"answer": "Chatbots respond by giving text replies to questions, while voice assistants primarily listen when we speak.",
+"explanation": "The correct answer is Chatbots respond by giving text replies to questions, while voice assistants primarily listen when we speak.. The chapter distinguishes between abilities: voice assistants focus on listening to spoken words, while chatbots are designed to provide replies to questions, usually in text form. This concept is discussed on Page 6 of the chapter.",
+"page_number": "6"
+},
+{
+"id": 100,
+"subject": "Computer Science",
+"chapter": "AI Around Us & Smart Machines-MCQ-v1",
+"difficulty": "hard",
+"question": "If you observe a device that suggests a YouTube video, correctly autocorrects a word, and gives a weather update, what common underlying technology is it using?",
+"options": [
+"A basic electrical switch mechanism",
+"Artificial Intelligence (AI)",
+"A ceiling fan motor",
+"Human imagination"
+],
+"answer": "Artificial Intelligence (AI)",
+"explanation": "The correct answer is Artificial Intelligence (AI). The chapter uses suggesting cartoons on YouTube, autocorrecting text, and checking weather as prime examples of how Artificial Intelligence is integrated into smart devices to make daily tasks easier. This concept is discussed across Pages 2, 4, and 7 of the chapter.",
+"page_number": "7"
+}
+]
