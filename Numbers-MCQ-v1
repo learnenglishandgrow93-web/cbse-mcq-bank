@@ -1,0 +1,1122 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the smallest 4-digit number?",
+    "options": [
+      "1,000",
+      "999",
+      "1,001",
+      "9,999"
+    ],
+    "answer": "1,000",
+    "explanation": "The smallest 4-digit number is formed by adding 1 to the largest 3-digit number (999). Therefore, 999 + 1 = 1,000, making 1,000 the smallest 4-digit number. This concept is discussed on Textbook Page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the largest 3-digit number?",
+    "options": [
+      "100",
+      "989",
+      "999",
+      "1,000"
+    ],
+    "answer": "999",
+    "explanation": "The largest 3-digit number consists of the highest single digit (9) in all three of its places. Hence, the largest 3-digit number is 999. This is explained on Textbook Page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "1 thousand is equal to how many hundreds?",
+    "options": [
+      "1",
+      "10",
+      "100",
+      "1,000"
+    ],
+    "answer": "10",
+    "explanation": "In the place value system, multiplying 10 by 100 gives 1,000. Therefore, 1 thousand is exactly equal to 10 hundreds. This block-based concept is visually shown on Textbook Page 3.",
+    "page_number": "3"
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What does ascending order mean?",
+    "options": [
+      "Arranging numbers from the largest to the smallest",
+      "Arranging numbers randomly",
+      "Arranging numbers from the smallest to the largest",
+      "Keeping all numbers equal"
+    ],
+    "answer": "Arranging numbers from the smallest to the largest",
+    "explanation": "Numbers are said to be in ascending order or increasing order when they are arranged from the smallest to the largest. This definition is clearly stated on Textbook Page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What does descending order mean?",
+    "options": [
+      "Arranging numbers from the largest to the smallest",
+      "Arranging numbers from the smallest to the largest",
+      "Adding all the numbers together",
+      "Subtracting the smallest number from the largest"
+    ],
+    "answer": "Arranging numbers from the largest to the smallest",
+    "explanation": "Numbers are said to be in descending order or decreasing order when they are arranged from the largest to the smallest. This rule is provided on Textbook Page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the face value of a digit in a number?",
+    "options": [
+      "Its value based on its position",
+      "The digit itself",
+      "The number multiplied by 10",
+      "The sum of all digits"
+    ],
+    "answer": "The digit itself",
+    "explanation": "The face value of a digit in a number is the digit itself. Its value remains the same wherever the digit is placed in a number. This concept is taught on Textbook Page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 7,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "How is the place value of a digit determined?",
+    "options": [
+      "It is always the digit itself",
+      "By adding 1 to the digit",
+      "By the value of each digit based on its position",
+      "By subtracting the face value from the number"
+    ],
+    "answer": "By the value of each digit based on its position",
+    "explanation": "Place value is defined as the value of each digit in a number based on its position, such as ones, tens, hundreds, or thousands. This is defined on Textbook Page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 8,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the Roman numeral for 4?",
+    "options": [
+      "IIII",
+      "IV",
+      "VI",
+      "V"
+    ],
+    "answer": "IV",
+    "explanation": "Ancient Romans used specific letters to write numbers. According to the Roman numeral counting table, the number 4 is written as IV. This is listed on Textbook Page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 9,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the Roman numeral for 9?",
+    "options": [
+      "VIIII",
+      "XI",
+      "IX",
+      "X"
+    ],
+    "answer": "IX",
+    "explanation": "In the Roman numeral system, 10 is X and placing an I before it subtracts 1, making 9. Thus, the Roman numeral for 9 is IX. This table is found on Textbook Page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 10,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the Roman numeral for 10?",
+    "options": [
+      "I",
+      "V",
+      "X",
+      "XI"
+    ],
+    "answer": "X",
+    "explanation": "The Roman numeral system uses letters to represent numbers. The standard symbol used to represent the number 10 is X. This corresponds to the chart on Textbook Page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 11,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the Roman numeral for 5?",
+    "options": [
+      "IIIII",
+      "IV",
+      "VI",
+      "V"
+    ],
+    "answer": "V",
+    "explanation": "In the Roman numeral system, the standard symbol for the number 5 is represented by the letter V. This is shown in the Roman numeral table on Textbook Page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 12,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What was the population of elephants in the national park in 2007?",
+    "options": [
+      "351",
+      "41",
+      "805",
+      "999"
+    ],
+    "answer": "805",
+    "explanation": "According to the introductory table about animal populations in a national park in 2007, the population of elephants was 805. This data is available on Textbook Page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 13,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What was the population of red squirrels in the national park in 2007?",
+    "options": [
+      "805",
+      "351",
+      "100",
+      "41"
+    ],
+    "answer": "41",
+    "explanation": "The table outlining animal populations in a national park for the year 2007 explicitly lists the population of red squirrels as 41. This fact is stated on Textbook Page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the predecessor of 98?",
+    "options": [
+      "97",
+      "99",
+      "100",
+      "96"
+    ],
+    "answer": "97",
+    "explanation": "The predecessor of any given number is the number that comes immediately before it. We subtract 1 from the number, so 98 - 1 = 97. This example is given on Textbook Page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the successor of 99?",
+    "options": [
+      "98",
+      "100",
+      "101",
+      "90"
+    ],
+    "answer": "100",
+    "explanation": "The successor of any given number is the number that comes immediately after it. By adding 1 to 99, we get 99 + 1 = 100. This example is on Textbook Page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "How do you find the successor of a given number?",
+    "options": [
+      "Subtract 1 from the number",
+      "Add 1 to the number",
+      "Multiply the number by 10",
+      "Add 10 to the number"
+    ],
+    "answer": "Add 1 to the number",
+    "explanation": "The successor of a number is the number that comes immediately after it. We calculate it by adding 1 to the given number. This definition is located on Textbook Page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "How do you find the predecessor of a given number?",
+    "options": [
+      "Add 1 to the number",
+      "Subtract 10 from the number",
+      "Subtract 1 from the number",
+      "Multiply the number by 1"
+    ],
+    "answer": "Subtract 1 from the number",
+    "explanation": "The predecessor of a number is the number that comes immediately before it. We calculate it by subtracting 1 from the given number. This definition is located on Textbook Page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "How many places does a 4-digit number have?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Two"
+    ],
+    "answer": "Four",
+    "explanation": "A 4-digit number has exactly four places: thousands, hundreds, tens, and ones. Each place can contain only one digit. This place value structure is explained on Textbook Page 3.",
+    "page_number": "3"
+  },
+  {
+    "id": 19,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the predecessor of 630?",
+    "options": [
+      "629",
+      "631",
+      "640",
+      "600"
+    ],
+    "answer": "629",
+    "explanation": "To find the predecessor of a number, we subtract 1 from it. Therefore, 630 - 1 = 629. This corresponds to the \"Let's Recall\" section exercise solved on Textbook Page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 20,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What are counting numbers (1, 2, 3, 4, 5...) known as?",
+    "options": [
+      "Roman numerals",
+      "Face values",
+      "Natural numbers",
+      "Place values"
+    ],
+    "answer": "Natural numbers",
+    "explanation": "Counting numbers such as 1, 2, 3, 4, 5, and so on, are formally known in mathematics as \"natural numbers\". This fun fact is highlighted in the \"Did You Know?\" box on Textbook Page 21.",
+    "page_number": "21"
+  },
+  {
+    "id": 21,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which of the following is the expanded form of 5,916?",
+    "options": [
+      "5,000 + 900 + 10 + 6",
+      "5,000 + 90 + 1 + 6",
+      "500 + 900 + 10 + 6",
+      "5,000 + 900 + 16 + 0"
+    ],
+    "answer": "5,000 + 900 + 10 + 6",
+    "explanation": "The expanded form represents a number as the sum of its place values. For 5,916, it is 5 thousands + 9 hundreds + 1 ten + 6 ones, which is 5,000 + 900 + 10 + 6. This is shown on Textbook Page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 22,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the standard form of 5,000 + 900 + 10 + 6?",
+    "options": [
+      "5,906",
+      "5,916",
+      "5,096",
+      "5,196"
+    ],
+    "answer": "5,916",
+    "explanation": "When we combine the expanded place values back into a single number, we get its standard form. So, 5,000 + 900 + 10 + 6 merges to form 5,916. This is taught on Textbook Page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 23,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the largest 4-digit number that can be formed using the digits 8, 4, 7, and 9 without repeating?",
+    "options": [
+      "8,974",
+      "9,847",
+      "9,874",
+      "9,784"
+    ],
+    "answer": "9,874",
+    "explanation": "To form the largest possible number using given digits, we arrange them from largest to smallest (descending order). So, 9, 8, 7, 4 makes 9,874. This example is explained on Textbook Page 14.",
+    "page_number": "14"
+  },
+  {
+    "id": 24,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the smallest 4-digit number that can be formed using the digits 4, 9, 7, and 1 without repeating?",
+    "options": [
+      "1,749",
+      "1,479",
+      "1,497",
+      "1,974"
+    ],
+    "answer": "1,479",
+    "explanation": "To form the smallest possible number, we arrange the given digits from smallest to largest (ascending order). Using 4, 9, 7, 1, the arrangement is 1, 4, 7, 9, making 1,479. This is on Textbook Page 13.",
+    "page_number": "13"
+  },
+  {
+    "id": 25,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "How many different 4-digit numbers can be formed using four distinct digits if zero is NOT one of them?",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "30"
+    ],
+    "answer": "24",
+    "explanation": "When forming 4-digit numbers using four distinct digits without repetition, if zero is not included among the digits, exactly 24 different 4-digit numbers can be formed. This is stated on Textbook Page 14.",
+    "page_number": "14"
+  },
+  {
+    "id": 26,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What happens if '0' is placed in the thousands place of a 4-digit number (e.g., 0257)?",
+    "options": [
+      "It becomes a 5-digit number",
+      "It becomes a 3-digit number",
+      "It remains a 4-digit number",
+      "It becomes an invalid number"
+    ],
+    "answer": "It becomes a 3-digit number",
+    "explanation": "In a 4-digit number, if '0' is placed in the thousands place, it holds no value there, effectively making it a 3-digit number. For example, 0257 is read as 257. This rule is detailed on Textbook Page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the smallest 4-digit number that can be formed using the digits 7, 0, 2, and 5?",
+    "options": [
+      "0,257",
+      "2,570",
+      "2,057",
+      "2,075"
+    ],
+    "answer": "2,057",
+    "explanation": "To form the smallest 4-digit number, we arrange the digits in ascending order. However, 0 cannot be the first digit. Thus, we place the next smallest digit (2) first, followed by 0, then 5 and 7, making 2,057. This is on Textbook Page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the greatest possible 4-digit number formed using the digits 7, 0, 2, and 5?",
+    "options": [
+      "7,250",
+      "7,502",
+      "7,520",
+      "7,052"
+    ],
+    "answer": "7,520",
+    "explanation": "To form the greatest 4-digit number, we arrange the digits from largest to smallest (descending order). For the digits 7, 0, 2, 5, the order is 7, 5, 2, 0, creating 7,520. This is explained on Textbook Page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the greatest possible 3-digit number formed using the digits 7, 0, 2, and 5?",
+    "options": [
+      "752",
+      "520",
+      "725",
+      "572"
+    ],
+    "answer": "752",
+    "explanation": "To find the greatest possible 3-digit number from four given digits, we ignore the smallest digit ('0'). Arranging the remaining digits (7, 5, 2) in descending order yields 752. This is taught on Textbook Page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the smallest possible 3-digit number formed using the digits 7, 0, 2, and 5?",
+    "options": [
+      "025",
+      "205",
+      "250",
+      "257"
+    ],
+    "answer": "205",
+    "explanation": "To form the smallest 3-digit number from four digits, we ignore the largest digit ('7'). We arrange the remaining digits (0, 2, 5) with the non-zero smallest first, resulting in 205. This concept is on Textbook Page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the sum of the face values of all the digits in the number 'One thousand eight hundred and ninety' (1,890)?",
+    "options": [
+      "19",
+      "18",
+      "20",
+      "1,890"
+    ],
+    "answer": "18",
+    "explanation": "The face value of a digit is the digit itself. For the number 1,890, the face values are 1, 8, 9, and 0. Their sum is 1 + 8 + 9 + 0 = 18. This problem is showcased in Brainwaves Page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which place value determines that 4,109 is greater than 4,019?",
+    "options": [
+      "Thousand's place",
+      "Hundred's place",
+      "Ten's place",
+      "One's place"
+    ],
+    "answer": "Hundred's place",
+    "explanation": "When comparing 4,109 and 4,019, the thousands digits are identical (4). The next place value to check is the hundred's place, where 1 > 0. Thus, the hundred's place determines which is greater. This is from Brainwaves Page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the predecessor of the smallest 4-digit number that can be formed using only the digits 8, 1, and 3?",
+    "options": [
+      "1,380",
+      "1,139",
+      "1,137",
+      "1,318"
+    ],
+    "answer": "1,137",
+    "explanation": "The smallest 4-digit number formed using 8, 1, and 3 is 1,138. The predecessor is found by subtracting 1, yielding 1,138 - 1 = 1,137. This example is explicitly solved on Brainwaves Page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In a sanctuary, populations are: Parrots: 489, Bulbuls: 1250, Doves: 984, Cranes: 549. Which bird is the second least in number?",
+    "options": [
+      "Green Parrots",
+      "Cranes",
+      "Doves",
+      "Bulbuls"
+    ],
+    "answer": "Cranes",
+    "explanation": "Arranging the numbers from smallest to largest gives: 489 (Parrots) < 549 (Cranes) < 984 (Doves) < 1250 (Bulbuls). The second least is 549, which are the Cranes. This question is on Brainwaves Page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which of the following Roman numeral pairs is incorrect?",
+    "options": [
+      "5 = V",
+      "9 = IV",
+      "7 = VII",
+      "8 = VIII"
+    ],
+    "answer": "9 = IV",
+    "explanation": "In Roman numerals, 9 is correctly written as IX, not IV. IV represents the number 4. Therefore, the pair 9 = IV is incorrect. This error identification exercise is on Textbook Page 21.",
+    "page_number": "21"
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the successor of 2,000?",
+    "options": [
+      "1,999",
+      "2,001",
+      "2,010",
+      "2,100"
+    ],
+    "answer": "2,001",
+    "explanation": "The successor of a number is the number that comes right after it, calculated by adding 1. For 2,000, 2,000 + 1 = 2,001. This is found in the solutions on Answer Key Page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "If the cost of a shirt is ₹1,299 and a pair of trousers is ₹1,600, which item is costlier?",
+    "options": [
+      "Shirt",
+      "Both cost the same",
+      "Trousers",
+      "Cannot be determined"
+    ],
+    "answer": "Trousers",
+    "explanation": "We compare the numbers 1,299 and 1,600. Since they both have 4 digits, we look at thousands (both 1), then hundreds (2 < 6). Therefore, 1,600 > 1,299, making the trousers costlier. This is on Textbook Page 13.",
+    "page_number": "13"
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the result when you find 10 more than the largest 2-digit number?",
+    "options": [
+      "110",
+      "109",
+      "99",
+      "1,009"
+    ],
+    "answer": "109",
+    "explanation": "The largest 2-digit number is 99. Adding 10 to it yields 99 + 10 = 109. This exercise comes from the 'Let's Recall' section on Answer Key Page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What number is one less than 321?",
+    "options": [
+      "320",
+      "322",
+      "311",
+      "300"
+    ],
+    "answer": "320",
+    "explanation": "Finding \"one less\" is identical to finding the predecessor. Therefore, we subtract 1 from 321. 321 - 1 = 320. This is part of the 'Let's Recall' section on Answer Key Page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 40,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the standard form of 'Three hundreds + six tens + four ones'?",
+    "options": [
+      "346",
+      "364",
+      "463",
+      "634"
+    ],
+    "answer": "364",
+    "explanation": "By placing each digit in its respective place value position, we put 3 in the hundreds place, 6 in the tens place, and 4 in the ones place, resulting in the number 364. This is shown on Answer Key Page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 41,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the Roman numeral for 7?",
+    "options": [
+      "VIII",
+      "VII",
+      "VI",
+      "IX"
+    ],
+    "answer": "VII",
+    "explanation": "In the Roman numeral system, V stands for 5 and I stands for 1. Adding two I's after a V makes 5 + 2 = 7, which is written as VII. The chart is provided on Textbook Page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 42,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the Roman numeral for 6?",
+    "options": [
+      "IV",
+      "VII",
+      "VI",
+      "V"
+    ],
+    "answer": "VI",
+    "explanation": "In the Roman numeral system, 5 is V and placing an I after it adds 1, making 6. Thus, the Roman numeral for 6 is VI. The Roman numeral chart is on Textbook Page 18.",
+    "page_number": "18"
+  },
+  {
+    "id": 43,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "When comparing two numbers, which rule applies if they have an unequal number of digits?",
+    "options": [
+      "The number with fewer digits is greater",
+      "Compare digits from the leftmost side",
+      "The number with the greater number of digits is always greater",
+      "The face value of the last digit decides the larger number"
+    ],
+    "answer": "The number with the greater number of digits is always greater",
+    "explanation": "Rule 1 of comparing numbers states that if two numbers have an unequal number of digits, the one having a greater number of digits is always the greater number. This is explained on Textbook Page 9.",
+    "page_number": "9"
+  },
+  {
+    "id": 44,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the face value of the digit 9 in the number 2,976?",
+    "options": [
+      "900",
+      "90",
+      "9",
+      "9,000"
+    ],
+    "answer": "9",
+    "explanation": "The face value of a digit is always the digit itself, regardless of where it is placed within the number. Therefore, the face value of 9 in 2,976 is just 9. This example is solved on Textbook Page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 45,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the place value of the digit 9 in the number 2,976?",
+    "options": [
+      "9",
+      "90",
+      "9,000",
+      "900"
+    ],
+    "answer": "900",
+    "explanation": "The place value depends on the digit's position. In 2,976, the digit 9 is in the hundreds place. Therefore, its place value is 9 x 100 = 900. This example is detailed on Textbook Page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 46,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the correct number name for 3,478?",
+    "options": [
+      "Three thousand four hundred and seventy",
+      "Three thousand four hundred seventy-eight",
+      "Three hundred four thousand seventy-eight",
+      "Three thousand seventy-eight"
+    ],
+    "answer": "Three thousand four hundred seventy-eight",
+    "explanation": "Reading the digits in their respective periods, 3 is in thousands, 4 in hundreds, and 78 is read together in the ones period. Hence, it is Three thousand four hundred seventy-eight. Found on Textbook Page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 47,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which number comes in-between 4,998 and 5,000?",
+    "options": [
+      "4,997",
+      "4,999",
+      "5,001",
+      "4,989"
+    ],
+    "answer": "4,999",
+    "explanation": "The number that comes immediately after 4,998 is its successor (4,998 + 1 = 4,999), and it immediately precedes 5,000. Therefore, 4,999 is the in-between number. This is illustrated on Textbook Page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 48,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the standard form of '2 thousands + 2 hundreds + 2 tens + 2 ones'?",
+    "options": [
+      "2,022",
+      "2,202",
+      "2,222",
+      "2,220"
+    ],
+    "answer": "2,222",
+    "explanation": "We can write the number in standard form by placing the digit 2 in every place value slot (thousands, hundreds, tens, and ones). This constructs the number 2,222. This is from Textbook Exercise 1B solutions.",
+    "page_number": "6"
+  },
+  {
+    "id": 49,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "medium",
+    "question": "To form the largest possible number using a given set of digits without repetition, how should the digits be arranged?",
+    "options": [
+      "In ascending order",
+      "In descending order",
+      "Randomly",
+      "By placing 0 at the end"
+    ],
+    "answer": "In descending order",
+    "explanation": "To form the largest possible number, you must place the highest value digits in the highest place value positions. Thus, the digits must be arranged from largest to smallest, which is descending order. Mentioned on Textbook Page 14.",
+    "page_number": "14"
+  },
+  {
+    "id": 50,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Guess the number! The hundreds digit is 3. The tens digit is 5 more than the ones digit. The face value of the ones digit is 0. The thousands digit is 3 less than the tens digit.",
+    "options": [
+      "2,350",
+      "3,502",
+      "5,320",
+      "2,530"
+    ],
+    "answer": "2,350",
+    "explanation": "Face value of ones digit is 0, so ones = 0. Tens digit is 5 more than ones (0+5=5). Hundreds digit is given as 3. Thousands is 3 less than tens (5-3=2). The number is 2,350. This puzzle is on Textbook Page 21.",
+    "page_number": "21"
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What is the smallest 4-digit number that can be formed using ONLY the digits 9 and 0?",
+    "options": [
+      "9,009",
+      "9,900",
+      "9,000",
+      "0,009"
+    ],
+    "answer": "9,000",
+    "explanation": "A 4-digit number cannot start with 0, so the thousands digit must be 9. To make the number as small as possible, all remaining places should be filled with 0. Thus, the number is 9,000. Found in Answer Key Page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "How many different 4-digit numbers can be formed using the digits 0, 3, 7, and 8 without repeating any digits?",
+    "options": [
+      "12",
+      "18",
+      "24",
+      "30"
+    ],
+    "answer": "18",
+    "explanation": "Normally 4 digits form 24 combinations. However, since '0' cannot be placed in the thousands position (it would make it a 3-digit number), we lose 6 combinations. 24 - 6 = 18 different 4-digit numbers. Stated on Answer Key Page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Rahul used the digits 1, 0, 4, and 2 to make the number 0214. Is it considered a 4-digit number?",
+    "options": [
+      "Yes, because it uses 4 digits.",
+      "No, because the digit 0 in the thousands place holds no value, making it a 3-digit number.",
+      "Yes, because 0 has the highest value.",
+      "No, because 0 must always be at the end."
+    ],
+    "answer": "No, because the digit 0 in the thousands place holds no value, making it a 3-digit number.",
+    "explanation": "If '0' is placed in the highest place value position (thousands place), it has no value, meaning the number effectively only has three digits (214). Therefore, 0214 is a 3-digit number. This is answered on Answer Key Page 10.",
+    "page_number": "10"
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Asha collected 1,923 words, Amar collected 1,329, and Ajay collected 2,139. Who collected the words in correct descending order?",
+    "options": [
+      "Amar, Asha, Ajay",
+      "Ajay, Asha, Amar",
+      "Asha, Ajay, Amar",
+      "Ajay, Amar, Asha"
+    ],
+    "answer": "Ajay, Asha, Amar",
+    "explanation": "Descending order means highest to lowest. By comparing the numbers: 2,139 (Ajay) > 1,923 (Asha) > 1,329 (Amar). Therefore, the correct order is Ajay, Asha, Amar. Found in Answer Key Page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Use the digits 2, 4, 9, and 1 to make the smallest possible even number.",
+    "options": [
+      "1,492",
+      "1,294",
+      "1,249",
+      "2,194"
+    ],
+    "answer": "1,294",
+    "explanation": "For a number to be even, it must end in 2 or 4. To make it the smallest, we place the smallest digit (1) first. Between 1492 and 1294, 1294 is smaller and ends in an even digit (4). This is solved in Answer Key Page 9.",
+    "page_number": "9"
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Use the digits 3, 8, 7, and 0 to make the largest possible odd number.",
+    "options": [
+      "8,730",
+      "8,073",
+      "8,307",
+      "8,703"
+    ],
+    "answer": "8,703",
+    "explanation": "An odd number must end in 3 or 7. To make it the largest, we want the highest digits at the front (8). If it ends in 7, we get 8,307. If it ends in 3, we get 8,703. 8,703 is greater. Solved in Answer Key Page 9.",
+    "page_number": "9"
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Which of the following sets of numbers is arranged correctly in ascending order?",
+    "options": [
+      "345; 789; 1,023; 2,345; 4,567",
+      "4,567; 2,345; 1,023; 789; 345",
+      "345; 1,023; 789; 2,345; 4,567",
+      "789; 345; 1,023; 2,345; 4,567"
+    ],
+    "answer": "345; 789; 1,023; 2,345; 4,567",
+    "explanation": "Ascending order means arranging from smallest to largest. Checking the numbers: 345 < 789 < 1,023 < 2,345 < 4,567. This exact sequence is used as an example on Textbook Page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Which of the following sets of numbers is arranged correctly in descending order?",
+    "options": [
+      "842; 987; 1,673; 3,498; 3,865",
+      "3,865; 3,498; 1,673; 987; 842",
+      "3,865; 1,673; 3,498; 987; 842",
+      "3,498; 3,865; 1,673; 842; 987"
+    ],
+    "answer": "3,865; 3,498; 1,673; 987; 842",
+    "explanation": "Descending order means arranging from highest to lowest. By comparing the values, 3,865 is the largest, followed by 3,498, then 1,673, 987, and finally 842. This matches the example on Textbook Page 13.",
+    "page_number": "13"
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "When comparing 4,654 and 4,628, which place value's digits finally determine which number is greater?",
+    "options": [
+      "Thousands place",
+      "Hundreds place",
+      "Tens place",
+      "Ones place"
+    ],
+    "answer": "Tens place",
+    "explanation": "Both numbers have a 4 in the thousands place and a 6 in the hundreds place. Moving to the tens place, 5 is greater than 2 (5 > 2). Therefore, the tens place determines that 4,654 is greater. Explained on Textbook Page 11.",
+    "page_number": "11"
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "When comparing 5,843 and 5,849, which place value determines the outcome?",
+    "options": [
+      "Thousands place",
+      "Hundreds place",
+      "Tens place",
+      "Ones place"
+    ],
+    "answer": "Ones place",
+    "explanation": "Both numbers share identical digits in the thousands (5), hundreds (8), and tens (4) places. We must look at the ones place to find that 9 > 3, determining 5,849 is greater. Discussed on Textbook Page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What is the successor of 5,676?",
+    "options": [
+      "5,675",
+      "5,677",
+      "5,686",
+      "5,776"
+    ],
+    "answer": "5,677",
+    "explanation": "To calculate the successor, you must add 1 to the given number. Therefore, 5,676 + 1 = 5,677. This corresponds to the solution found on Answer Key Page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What is the predecessor of 3,112?",
+    "options": [
+      "3,113",
+      "3,102",
+      "3,111",
+      "3,211"
+    ],
+    "answer": "3,111",
+    "explanation": "The predecessor is the number that comes directly before a given number, found by subtracting 1. Thus, 3,112 - 1 = 3,111. This calculation is provided on Answer Key Page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What is the smallest 4-digit number that can be formed using the digits 2, 4, 9, and 1 without repetition?",
+    "options": [
+      "1,429",
+      "1,249",
+      "2,149",
+      "1,942"
+    ],
+    "answer": "1,249",
+    "explanation": "To form the smallest 4-digit number, you arrange the non-zero digits in ascending order. The digits 2, 4, 9, 1 in ascending order form 1, 2, 4, 9, which is 1,249. This is an exercise from Answer Key Page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A wildlife rescue centre has 2,456 rescued birds and 3,872 rescued animals. Which statement is correct?",
+    "options": [
+      "There are more rescued birds than rescued animals.",
+      "The number of rescued birds equals the rescued animals.",
+      "There are more rescued animals than rescued birds.",
+      "Neither birds nor animals were rescued."
+    ],
+    "answer": "There are more rescued animals than rescued birds.",
+    "explanation": "By comparing the thousands place, 3,872 (animals) has a 3 while 2,456 (birds) has a 2. Since 3 > 2, 3,872 > 2,456, meaning the rescued animals group has a greater number. Explained on Answer Key Page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "If a wildlife center with 2,456 rescued birds rescues exactly one more bird, what will be the new total?",
+    "options": [
+      "2,455",
+      "2,456",
+      "2,466",
+      "2,457"
+    ],
+    "answer": "2,457",
+    "explanation": "Adding exactly one more bird to the total is equivalent to finding the successor of 2,456. So, 2,456 + 1 = 2,457. This practical application of successors is on Answer Key Page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "In which of the following numbers does the sum of the thousands, tens, and ones digits equal the hundreds digit?",
+    "options": [
+      "1,234",
+      "3,924",
+      "4,567",
+      "5,821"
+    ],
+    "answer": "3,924",
+    "explanation": "Looking at 3,924: the thousands digit is 3, tens digit is 2, ones digit is 4. Their sum is 3 + 2 + 4 = 9, which exactly equals the hundreds digit (9). This competency logic question is found on Textbook Page 20.",
+    "page_number": "20"
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What is the predecessor of 5,100?",
+    "options": [
+      "5,099",
+      "5,101",
+      "5,000",
+      "5,090"
+    ],
+    "answer": "5,099",
+    "explanation": "To calculate the predecessor, you subtract 1 from the number. Therefore, 5,100 - 1 = 5,099. When you borrow across zeros, 100 becomes 99. Found in Answer Key Page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What is the smallest four-digit odd number?",
+    "options": [
+      "1,000",
+      "9,999",
+      "1,001",
+      "1,003"
+    ],
+    "answer": "1,001",
+    "explanation": "The absolute smallest 4-digit number is 1,000, but it is even (ends in 0). The very next number, 1,001, is odd (ends in 1), making it the smallest four-digit odd number. Answer Key Page 6 provides this solution.",
+    "page_number": "6"
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Which number comes in-between 7,999 and 8,001?",
+    "options": [
+      "7,998",
+      "8,000",
+      "8,002",
+      "7,000"
+    ],
+    "answer": "8,000",
+    "explanation": "The number that follows 7,999 is its successor (7,999 + 1 = 8,000). The number that precedes 8,001 is its predecessor (8,001 - 1 = 8,000). Hence, 8,000 is directly in-between them. Found on Answer Key Page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "chapter": "Numbers-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Which set correctly demonstrates how to write expanded form for 2,853?",
+    "options": [
+      "2 thousands + 8 hundreds + 5 tens + 3 ones",
+      "2 thousands + 80 hundreds + 5 tens + 3 ones",
+      "2 thousands + 8 hundreds + 53 tens",
+      "28 hundreds + 5 tens + 30 ones"
+    ],
+    "answer": "2 thousands + 8 hundreds + 5 tens + 3 ones",
+    "explanation": "Expanded form breaks down a number into the value of each of its digits. For 2,853, we have 2 in the thousands, 8 in the hundreds, 5 in the tens, and 3 in the ones place. Illustrated on Textbook Page 6/7.",
+    "page_number": "6"
+  }
+]
