@@ -1,0 +1,1863 @@
+[
+{
+"id":1,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What is science all about?",
+"answer":"Science is all about studying nature and understanding how things work.",
+"keywords":[
+"studying",
+"nature",
+"understanding",
+"work"
+],
+"explanation":"Science helps us understand the world around us. This definition is introduced at the very beginning of the chapter. Found on page 1.",
+"page_number":"1"
+}
+,
+{
+"id":2,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"Give one example of an everyday question science tries to answer.",
+"answer":"Science tries to answer questions like 'Why is the sky blue?'",
+"keywords":[
+"sky",
+"blue",
+"question",
+"answer"
+],
+"explanation":"Science helps solve daily mysteries. The text provides examples like rainbows and the blue sky. Found on page 1.",
+"page_number":"1"
+}
+,
+{
+"id":3,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":2,
+"max":10
+},
+"question":"Who was Galileo Galilei?",
+"answer":"Galileo Galilei was a scientist who wanted to study planets.",
+"keywords":[
+"Galileo",
+"scientist",
+"planets"
+],
+"explanation":"The text introduces Galileo as a famous scientist who studied planets and their movements. Found on page 1.",
+"page_number":"1"
+}
+,
+{
+"id":4,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":2,
+"max":10
+},
+"question":"What tool did Galileo improve to help him observe planets?",
+"answer":"Galileo improved the telescope to observe the planets.",
+"keywords":[
+"improved",
+"telescope",
+"observe"
+],
+"explanation":"Galileo needed a better tool to see the sky, so he improved the telescope. Found on page 1.",
+"page_number":"1"
+}
+,
+{
+"id":5,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What do we call a person who tries to solve a problem through experiments?",
+"answer":"A person who tries to solve a problem through experiments is called a scientist.",
+"keywords":[
+"person",
+"solve",
+"problem",
+"scientist"
+],
+"explanation":"A scientist asks questions and uses experiments to find answers. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":6,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":10
+},
+"question":"Name the three main branches of science.",
+"answer":"The three main branches of science are Physics, Chemistry, and Biology.",
+"keywords":[
+"Physics",
+"Chemistry",
+"Biology"
+],
+"explanation":"Science is a massive tree divided into three big branches to study different things. Found on page 3.",
+"page_number":"3"
+}
+,
+{
+"id":7,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What is Physics?",
+"answer":"Physics is the study of physical objects, energy, and how they work.",
+"keywords":[
+"study",
+"physical",
+"objects",
+"energy"
+],
+"explanation":"Physics helps us understand how things move and how energy works. Found on page 3.",
+"page_number":"3"
+}
+,
+{
+"id":8,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":2,
+"max":8
+},
+"question":"What are scientists who are experts in physics called?",
+"answer":"Scientists who are experts in physics are called physicists.",
+"keywords":[
+"experts",
+"physics",
+"physicists"
+],
+"explanation":"Different branches of science have experts with specific names. Found on page 3.",
+"page_number":"3"
+}
+,
+{
+"id":9,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"What is Chemistry?",
+"answer":"Chemistry is the branch of science that studies what different substances are made of.",
+"keywords":[
+"Chemistry",
+"branch",
+"substances",
+"made"
+],
+"explanation":"Chemistry is like magic; it helps us understand materials and how they change. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":10,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":2,
+"max":8
+},
+"question":"What do we call scientists who specialise in chemistry?",
+"answer":"Scientists who specialise in chemistry are called chemists.",
+"keywords":[
+"specialise",
+"chemistry",
+"chemists"
+],
+"explanation":"Experts who study chemistry and make things like medicines are chemists. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":11,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What is Biology?",
+"answer":"Biology is the branch of science that studies life and living things.",
+"keywords":[
+"Biology",
+"studies",
+"life",
+"living"
+],
+"explanation":"Biology helps us learn about plants, animals, and humans. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":12,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":2,
+"max":8
+},
+"question":"What is a scientist who studies biology called?",
+"answer":"A scientist who studies biology is called a biologist.",
+"keywords":[
+"scientist",
+"studies",
+"biology",
+"biologist"
+],
+"explanation":"Biologists are experts who find out how living things grow and survive. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":13,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":10
+},
+"question":"Name one thing designed and built using physics.",
+"answer":"Aeroplanes are designed and built using physics.",
+"keywords":[
+"Aeroplanes",
+"designed",
+"physics"
+],
+"explanation":"Physics helps us make machines like aeroplanes, cars, and computers. Found on page 3.",
+"page_number":"3"
+}
+,
+{
+"id":14,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":10
+},
+"question":"Give one area where chemistry is applied in daily life.",
+"answer":"Chemistry is applied in making medicines.",
+"keywords":[
+"Chemistry",
+"applied",
+"medicines"
+],
+"explanation":"Chemistry is very useful for everyday things like cooking and medicines. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":15,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"According to the text, do all different branches of science work alone?",
+"answer":"No, all the different branches of science are interconnected.",
+"keywords":[
+"No",
+"branches",
+"interconnected"
+],
+"explanation":"The branches of science work together to explain everything we do. Found on page 5.",
+"page_number":"5"
+}
+,
+{
+"id":16,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":4,
+"max":10
+},
+"question":"Name two devices in your home that work using electricity.",
+"answer":"Fans and televisions work using electricity.",
+"keywords":[
+"Fans",
+"televisions",
+"electricity"
+],
+"explanation":"Science gives us electrical devices that make our lives comfortable. Found on page 5.",
+"page_number":"5"
+}
+,
+{
+"id":17,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":2,
+"max":8
+},
+"question":"Which value teaches us to be thankful for the progress science brings?",
+"answer":"The value of Gratitude teaches us this.",
+"keywords":[
+"value",
+"Gratitude",
+"teaches"
+],
+"explanation":"We should show gratitude for the comfort and progress science brings. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":18,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What does 'objective' mean in a science experiment?",
+"answer":"Objective is what you want to find out or achieve.",
+"keywords":[
+"Objective",
+"find",
+"out",
+"achieve"
+],
+"explanation":"Every experiment starts with an objective, which is our main goal. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":19,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":18
+},
+"question":"What does 'observation' mean during an experiment?",
+"answer":"Observation is what you see, hear, smell, touch, or taste during an experiment.",
+"keywords":[
+"Observation",
+"see",
+"hear",
+"smell",
+"experiment"
+],
+"explanation":"We use our five senses to note down what is happening in an experiment. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":20,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":10
+},
+"question":"What is a test that tries to prove a statement called?",
+"answer":"A test that tries to prove a statement is called an experiment.",
+"keywords":[
+"test",
+"prove",
+"experiment"
+],
+"explanation":"Scientists conduct experiments to test their ideas. Found on page 5.",
+"page_number":"5"
+}
+,
+{
+"id":21,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What big question did Galileo wonder about our Solar System?",
+"answer":"He wondered whether Earth was at the centre of the Solar System.",
+"keywords":[
+"wondered",
+"Earth",
+"centre",
+"Solar System"
+],
+"explanation":"People used to think Earth was the center, but Galileo questioned this idea. Found on page 1.",
+"page_number":"1"
+}
+,
+{
+"id":22,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What did Galileo observe moving around the planets?",
+"answer":"Galileo observed that the planets had moons that moved around them.",
+"keywords":[
+"observed",
+"planets",
+"moons",
+"moved"
+],
+"explanation":"Using his telescope, he saw moons orbiting other planets. Found on page 1.",
+"page_number":"1"
+}
+,
+{
+"id":23,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":10
+},
+"question":"Which branch of science explains how our human bodies get energy from eating rice?",
+"answer":"Biology explains how we get energy when we eat rice.",
+"keywords":[
+"Biology",
+"explains",
+"energy",
+"eat"
+],
+"explanation":"Biology studies living things and how our bodies break down food. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":24,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":10
+},
+"question":"Which branch of science helps you understand that heat and pressure cook rice?",
+"answer":"Physics helps you understand that heat and pressure cook rice.",
+"keywords":[
+"Physics",
+"understand",
+"heat",
+"pressure"
+],
+"explanation":"Physics deals with energy, force, heat, and pressure. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":25,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":8
+},
+"question":"If salt is added to water and it dissolves, which branch of science studies this?",
+"answer":"This is studied in Chemistry.",
+"keywords":[
+"studied",
+"Chemistry",
+"dissolves"
+],
+"explanation":"Chemistry deals with substances and how they interact or mix with each other. Found on page 8.",
+"page_number":"8"
+}
+,
+{
+"id":26,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":15
+},
+"question":"What does the word 'conclusion' mean in science?",
+"answer":"Conclusion is what you learned or what happened based on your observations.",
+"keywords":[
+"Conclusion",
+"learned",
+"happened",
+"observations"
+],
+"explanation":"After an experiment, the final result we understand is the conclusion. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":27,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":15
+},
+"question":"According to the focus words, what is an experiment?",
+"answer":"An experiment is doing something carefully to test an idea or find an answer.",
+"keywords":[
+"experiment",
+"carefully",
+"test",
+"idea"
+],
+"explanation":"We do experiments to check if our ideas are true. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":28,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What happens when you add lemon juice to milk in the quick activity?",
+"answer":"Adding lemon juice to milk turns it into curd or makes it curdle.",
+"keywords":[
+"lemon",
+"juice",
+"milk",
+"curdle"
+],
+"explanation":"This is a simple chemical change activity mentioned in the book. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":29,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":8
+},
+"question":"If a rolling ball stops after travelling some distance, which branch of science does this represent?",
+"answer":"This represents the branch of Physics.",
+"keywords":[
+"represents",
+"branch",
+"Physics"
+],
+"explanation":"Physics is the study of physical objects and their motion. Found on page 8.",
+"page_number":"8"
+}
+,
+{
+"id":30,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":8
+},
+"question":"Spraying crops with pesticides to keep them pest-free relates to which branch of science?",
+"answer":"It relates to the branch of Chemistry.",
+"keywords":[
+"relates",
+"branch",
+"Chemistry"
+],
+"explanation":"Pesticides are chemical substances made to protect crops. Found on page 8.",
+"page_number":"8"
+}
+,
+{
+"id":31,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":8
+},
+"question":"Knowing that adult humans have 206 bones relates to which branch of science?",
+"answer":"This relates to the branch of Biology.",
+"keywords":[
+"relates",
+"branch",
+"Biology"
+],
+"explanation":"Biology is the study of living things and their bodies. Found on page 8.",
+"page_number":"8"
+}
+,
+{
+"id":32,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":8
+},
+"question":"If you mix two liquids and the mixture changes colour and becomes warm, which branch of science explains this?",
+"answer":"The branch of Chemistry explains this.",
+"keywords":[
+"branch",
+"Chemistry",
+"explains"
+],
+"explanation":"Chemistry studies how different substances interact and change. Found on page 11.",
+"page_number":"11"
+}
+,
+{
+"id":33,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"What are the four main steps of the scientific method?",
+"answer":"The four steps are Objective, Experiment, Observation, and Conclusion.",
+"keywords":[
+"Objective",
+"Experiment",
+"Observation",
+"Conclusion"
+],
+"explanation":"These four steps help scientists find answers and solve problems properly. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":34,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"Name any two things we study in physics.",
+"answer":"In physics, we study about physical objects, energy, light, sound, and electricity.",
+"keywords":[
+"physical",
+"objects",
+"energy",
+"light",
+"electricity"
+],
+"explanation":"Physics helps us understand how the non-living physical world and energy work. Found on page 3.",
+"page_number":"3"
+}
+,
+{
+"id":35,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Name any two things chemistry helps us with in daily life.",
+"answer":"Chemistry helps us make new medicines and is applied in cooking and growing food.",
+"keywords":[
+"medicines",
+"applied",
+"cooking",
+"food"
+],
+"explanation":"Chemistry is all around us, from the kitchen to the pharmacy. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":36,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"Name any two things we study in biology.",
+"answer":"In biology, we study how living things are made and how plants make their food.",
+"keywords":[
+"living",
+"things",
+"plants",
+"food"
+],
+"explanation":"Biology answers questions about life, plants, humans, and animals. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":37,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Write two ways science is a blessing to humans.",
+"answer":"Science helps us live a comfortable life and helps us understand the world around us better.",
+"keywords":[
+"comfortable",
+"life",
+"understand",
+"world"
+],
+"explanation":"Science brings progress and makes our daily tasks easier with devices and knowledge. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":38,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What do physicists do? Give an example of their work.",
+"answer":"Physicists are experts in physics. They help design and build things like aeroplanes, cars, and computers.",
+"keywords":[
+"Physicists",
+"experts",
+"design",
+"aeroplanes"
+],
+"explanation":"Physicists study motion and energy to create useful machines. Found on page 3.",
+"page_number":"3"
+}
+,
+{
+"id":39,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":25
+},
+"question":"What do chemists do? Give an example.",
+"answer":"Chemists specialise in chemistry. They help make new medicines and study how substances interact.",
+"keywords":[
+"Chemists",
+"medicines",
+"substances",
+"interact"
+],
+"explanation":"Chemists act like magicians creating medicines and understanding materials. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":40,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What do biologists study? Give an example.",
+"answer":"Biologists study life and living things. For example, they study what humans and plants have in common.",
+"keywords":[
+"Biologists",
+"life",
+"living",
+"humans",
+"plants"
+],
+"explanation":"Biologists explore nature, plants, and animals to understand life. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":41,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Why did Galileo conduct experiments instead of just stating his belief?",
+"answer":"In science, ideas must be properly tested. Galileo conducted experiments to provide proof for his idea.",
+"keywords":[
+"tested",
+"experiments",
+"provide",
+"proof"
+],
+"explanation":"Scientists don't just guess; they prove their ideas using experiments. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":42,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"How does adjusting a long school bag strap make you a scientist?",
+"answer":"When you adjust the strap, you test an idea to solve a problem, which is what a scientist does.",
+"keywords":[
+"adjust",
+"test",
+"idea",
+"solve",
+"scientist"
+],
+"explanation":"Everyone is a scientist when they solve daily problems using tests and ideas. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":43,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What happens to hard rice when it is cooked, and which branch of science explains this?",
+"answer":"Hard rice becomes soft when cooked. The branch of Chemistry explains this change.",
+"keywords":[
+"soft",
+"cooked",
+"Chemistry",
+"explains"
+],
+"explanation":"Chemistry studies how substances interact and change their form, like hard rice to soft rice. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":44,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What happens to water when it is kept in a freezer? Which branch of science studies this?",
+"answer":"Water turns into solid ice in the freezer. Chemistry studies this change in substances.",
+"keywords":[
+"ice",
+"freezer",
+"Chemistry",
+"studies"
+],
+"explanation":"Changing from liquid water to solid ice is studied in Chemistry. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":45,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Long ago, what did people believe about where living things came from?",
+"answer":"Long ago, people wrongly believed that living things could come directly from non-living things, like worms from food.",
+"keywords":[
+"believed",
+"living",
+"non-living",
+"worms"
+],
+"explanation":"This was an old belief that was later proven wrong through scientific experiments. Found on page 5.",
+"page_number":"5"
+}
+,
+{
+"id":46,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"If you water plants more often and place them in sunlight to help them grow, what scientific step are you following?",
+"answer":"You are doing an experiment to test an idea to solve the problem of plants not growing.",
+"keywords":[
+"experiment",
+"test",
+"idea",
+"solve"
+],
+"explanation":"Testing a solution to a problem is conducting an experiment. Found on page 11.",
+"page_number":"11"
+}
+,
+{
+"id":47,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Explain what an 'objective' and an 'experiment' mean in science.",
+"answer":"An objective is what you want to find out. An experiment is doing something carefully to test that idea.",
+"keywords":[
+"objective",
+"find out",
+"experiment",
+"test",
+"idea"
+],
+"explanation":"These are the first two steps of the scientific method. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":48,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Explain what 'observation' and 'conclusion' mean in science.",
+"answer":"Observation is what you see or hear during a test. Conclusion is what you learned from those observations.",
+"keywords":[
+"Observation",
+"see",
+"hear",
+"Conclusion",
+"learned"
+],
+"explanation":"These are the final steps where scientists gather data and make a final decision. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":49,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Write any two everyday mysteries mentioned in the first chapter that science answers.",
+"answer":"Science answers mysteries like 'Why do objects fall down?' and 'How are rainbows formed?'",
+"keywords":[
+"mysteries",
+"fall",
+"down",
+"rainbows"
+],
+"explanation":"Science helps us understand everyday things we see in nature. Found on page 1.",
+"page_number":"1"
+}
+,
+{
+"id":50,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"How did Galileo prove that planets move around the Sun?",
+"answer":"He used an improved telescope to observe planets and their moons, providing proof for his idea.",
+"keywords":[
+"telescope",
+"observe",
+"planets",
+"proof"
+],
+"explanation":"Galileo gathered visual evidence (observations) to prove his theory. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":51,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Why is the scientific way used to test any idea?",
+"answer":"The scientific way is used to make sure an idea is properly tested before it is accepted as a fact.",
+"keywords":[
+"scientific",
+"properly",
+"tested",
+"fact"
+],
+"explanation":"We cannot just guess; we must prove things with evidence. Found on page 1.",
+"page_number":"1"
+}
+,
+{
+"id":52,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"How are new medicines and medical equipment helping us?",
+"answer":"They are helping humans lead longer and healthier lives.",
+"keywords":[
+"medicines",
+"helping",
+"longer",
+"healthier"
+],
+"explanation":"This is one of the main benefits of science mentioned in the text. Found on page 5.",
+"page_number":"5"
+}
+,
+{
+"id":53,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What does physics help us understand about a toy cart?",
+"answer":"Physics helps us understand how the toy cart moves forward when we push it with force.",
+"keywords":[
+"Physics",
+"understand",
+"moves",
+"push"
+],
+"explanation":"Physics deals with physical objects, motion, and energy. Found on page 3.",
+"page_number":"3"
+}
+,
+{
+"id":54,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Give an example to show that chemistry is applied in our daily food.",
+"answer":"Chemistry is applied when mixing a small amount of curd with milk turns the whole milk into curd.",
+"keywords":[
+"Chemistry",
+"curd",
+"milk",
+"turns"
+],
+"explanation":"Cooking and changing substances like milk to curd is part of chemistry. Found on page 1.",
+"page_number":"1"
+}
+,
+{
+"id":55,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"In the jar experiment, why did flies lay eggs only in the open bottle?",
+"answer":"The open bottle had no cover, allowing flies to easily fly inside and reach the food to lay eggs.",
+"keywords":[
+"open",
+"bottle",
+"cover",
+"fly inside",
+"eggs"
+],
+"explanation":"The covered jar had a cork, so flies could only land on the cloth outside, not on the food. Found on page 6.",
+"page_number":"6"
+}
+,
+{
+"id":56,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":40
+},
+"question":"How can you show that air has weight using two balloons and a stick?",
+"answer":"Tie two blown-up balloons to a balanced stick. When you burst one balloon, the stick tilts, showing air has weight.",
+"keywords":[
+"balloons",
+"balanced",
+"burst",
+"tilts",
+"weight"
+],
+"explanation":"This is a simple experiment to prove that the air inside the balloon has mass or weight. Found on page 7.",
+"page_number":"7"
+}
+,
+{
+"id":57,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"If Aruni planted six different seeds to see which grew best, what step of the scientific method is she doing?",
+"answer":"She is doing an Experiment because she is carefully testing an idea to find an answer.",
+"keywords":[
+"Experiment",
+"carefully",
+"testing",
+"answer"
+],
+"explanation":"Planting seeds to test their growth is an active experiment. Found on page 10.",
+"page_number":"10"
+}
+,
+{
+"id":58,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Vinod soaked beans for two days to see if they sprout. Which step of the scientific method is this?",
+"answer":"This is an Experiment, as he is doing something carefully to test an idea.",
+"keywords":[
+"Experiment",
+"doing",
+"carefully",
+"test"
+],
+"explanation":"Setting up a condition to see what happens is an experiment. Found on page 10.",
+"page_number":"10"
+}
+,
+{
+"id":59,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Bhairab states that plants cannot grow without sunlight. Is this an observation or a conclusion? Explain.",
+"answer":"This is a Conclusion. He learned this final fact after observing plants in a dark corner.",
+"keywords":[
+"Conclusion",
+"learned",
+"fact",
+"observing"
+],
+"explanation":"A statement made after analyzing an observation is a conclusion. Found on page 10.",
+"page_number":"10"
+}
+,
+{
+"id":60,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Komal saw that cockroaches moved away from a raw cucumber. Identify this step of the scientific method and explain.",
+"answer":"This is an Observation because she used her eyes to see what happened.",
+"keywords":[
+"Observation",
+"used",
+"eyes",
+"see"
+],
+"explanation":"Noticing or seeing something happen in front of you is observing. Found on page 10.",
+"page_number":"10"
+}
+,
+{
+"id":61,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Explain what Physics is and list three things it helps to build.",
+"answer":"Physics is the study of physical objects, energy, and how they work. It is applied to build aeroplanes, cars, and computers.",
+"keywords":[
+"Physics",
+"study",
+"energy",
+"aeroplanes",
+"cars",
+"computers"
+],
+"explanation":"Physics focuses on motion and energy, leading to many modern inventions. Found on page 3.",
+"page_number":"3"
+}
+,
+{
+"id":62,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Explain what Chemistry is and give two areas where it is applied.",
+"answer":"Chemistry studies what different substances are made of and how they interact. It is applied in cooking and in making medicines.",
+"keywords":[
+"Chemistry",
+"substances",
+"interact",
+"cooking",
+"medicines"
+],
+"explanation":"Chemistry deals with chemicals and materials. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":63,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":20,
+"max":45
+},
+"question":"Explain what Biology is and give two examples of questions it tries to answer.",
+"answer":"Biology is the branch that studies living things. It tries to answer questions like 'How do plants make their own food?' and 'What is inside living things?'",
+"keywords":[
+"Biology",
+"living",
+"things",
+"plants",
+"food"
+],
+"explanation":"Biology helps us learn all about nature's living parts. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":64,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"List three ways science makes our life comfortable and helps us work better.",
+"answer":"Science gives us electricity to run fans and TVs, helps create new medicines for better health, and helps us understand nature.",
+"keywords":[
+"electricity",
+"fans",
+"medicines",
+"health",
+"understand"
+],
+"explanation":"The benefits of science include technology, medicine, and knowledge. Found on page 5.",
+"page_number":"5"
+}
+,
+{
+"id":65,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Describe the scientific way. Mention the four key steps involved.",
+"answer":"The scientific way is testing an idea before accepting it as a fact. The four steps are having an Objective, doing an Experiment, making an Observation, and reaching a Conclusion.",
+"keywords":[
+"testing",
+"fact",
+"Objective",
+"Experiment",
+"Observation",
+"Conclusion"
+],
+"explanation":"Scientists follow this strict process so they don't just guess answers. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":66,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"Tell the story of Galileo's big question and how he proved his idea.",
+"answer":"Galileo wondered if Earth was the centre of the Solar System. He used an improved telescope to observe planets. He saw moons orbiting them, proving the planets go around the Sun.",
+"keywords":[
+"Galileo",
+"Earth",
+"telescope",
+"orbiting",
+"Sun"
+],
+"explanation":"This story shows how a scientist uses observation to find the real truth. Found on page 1-2.",
+"page_number":"1"
+}
+,
+{
+"id":67,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"'Everyone is a scientist.' Explain this statement using the example of adjusting a school bag strap.",
+"answer":"Everyone is a scientist because we all solve daily problems. If your bag strap is too long, you test an idea by adjusting the buckles until it fits perfectly.",
+"keywords":[
+"scientist",
+"solve",
+"strap",
+"test",
+"buckles"
+],
+"explanation":"Science is not just in labs; we use the scientific method in daily life. Found on page 2.",
+"page_number":"2"
+}
+,
+{
+"id":68,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":55
+},
+"question":"Using the example of eating rice, explain how Physics, Chemistry, and Biology are interconnected.",
+"answer":"Physics explains that heat and pressure cook the rice. Chemistry explains how hard rice changes to soft rice. Biology explains how our body gets energy when we eat it.",
+"keywords":[
+"Physics",
+"heat",
+"Chemistry",
+"changes",
+"Biology",
+"energy"
+],
+"explanation":"This example proves that the branches of science work together to explain a single activity. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":69,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"Differentiate between Physics, Chemistry, and Biology in simple words.",
+"answer":"Physics studies motion, energy, and objects. Chemistry studies substances and how they interact. Biology studies life, living things, and how they grow.",
+"keywords":[
+"Physics",
+"motion",
+"Chemistry",
+"substances",
+"Biology",
+"living"
+],
+"explanation":"These are the simple definitions of the three main branches of science. Found on pages 3-4.",
+"page_number":"3"
+}
+,
+{
+"id":70,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Read these examples and match them to their branches: A rolling ball stops, spraying pesticides, human bones.",
+"answer":"A rolling ball stops is Physics. Spraying pesticides is Chemistry. Human bones are studied in Biology.",
+"keywords":[
+"rolling",
+"Physics",
+"pesticides",
+"Chemistry",
+"bones",
+"Biology"
+],
+"explanation":"These real-life examples belong to different scientific fields. Found on page 8.",
+"page_number":"8"
+}
+,
+{
+"id":71,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What does the value of 'Gratitude' mean in science? How do we show it?",
+"answer":"Gratitude means thankfulness for the progress and comfort science brings. We show it by appreciating medicines, electricity, and the comfortable life we have.",
+"keywords":[
+"Gratitude",
+"thankfulness",
+"progress",
+"appreciating"
+],
+"explanation":"Science gives us a good life, and we should be thankful for these blessings. Found on page 4.",
+"page_number":"4"
+}
+,
+{
+"id":72,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":55
+},
+"question":"Explain the experiment that proved worms do not come from food by themselves.",
+"answer":"Food was placed in two jars: one covered and one open. Flies laid eggs only in the open jar, so worms only grew there. This proved living things don't come from non-living food.",
+"keywords":[
+"covered",
+"open",
+"flies",
+"eggs",
+"proved"
+],
+"explanation":"This was a famous experiment to disprove an old, incorrect theory about life. Found on pages 5-6.",
+"page_number":"5"
+}
+,
+{
+"id":73,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"What were the observations in the covered jar and uncovered jar experiment?",
+"answer":"In the covered jar, flies stayed outside on the cloth. In the uncovered jar, flies went inside, laid eggs in the food, and worms were seen.",
+"keywords":[
+"covered",
+"outside",
+"uncovered",
+"inside",
+"worms"
+],
+"explanation":"Scientists note down everything they see in both setups. Found on page 6.",
+"page_number":"6"
+}
+,
+{
+"id":74,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"Imagine a friend doesn't know the branches of science. How would you explain the three branches to them?",
+"answer":"I would say: Physics tells us how toys and machines move. Chemistry tells us how cooking and mixing things works. Biology tells us how plants and animals live and grow.",
+"keywords":[
+"Physics",
+"move",
+"Chemistry",
+"cooking",
+"Biology",
+"live"
+],
+"explanation":"Explaining science using simple daily examples helps friends understand easily. Found on pages 3-4.",
+"page_number":"3"
+}
+,
+{
+"id":75,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Why is it important to study plants and animals (Biology) when talking about saving nature?",
+"answer":"Biology helps us understand how living things grow, what they eat, and how they survive. Knowing this helps us protect them and save Mother Earth.",
+"keywords":[
+"Biology",
+"understand",
+"survive",
+"protect",
+"nature"
+],
+"explanation":"We can only save what we understand. Biology gives us this knowledge. Found on page 12.",
+"page_number":"12"
+}
+,
+{
+"id":76,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":60
+},
+"question":"Describe a simple experiment to find out if plants can grow without water. Include objective, observation, and conclusion.",
+"answer":"Objective: Find out if plants need water. Experiment: Keep two similar plants, but water only one. Observation: The unwatered plant will dry up. Conclusion: Plants cannot grow without water.",
+"keywords":[
+"Objective",
+"water",
+"Experiment",
+"Observation",
+"dry",
+"Conclusion"
+],
+"explanation":"Students apply the four steps of the scientific method to a new question. Found on page 7.",
+"page_number":"7"
+}
+,
+{
+"id":77,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":60
+},
+"question":"Imagine you want to fix a broken pencil box. Explain how you will use the steps of the scientific method.",
+"answer":"Objective: Fix the pencil box. Experiment: Try using glue or tape to stick it. Observation: See which one holds the box together tightly. Conclusion: Tape works best for fixing it.",
+"keywords":[
+"Objective",
+"fix",
+"Experiment",
+"glue",
+"Observation",
+"Conclusion",
+"tape"
+],
+"explanation":"Applying scientific steps to daily problems makes us all scientists. Found on page 12.",
+"page_number":"12"
+}
+,
+{
+"id":78,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":60
+},
+"question":"In an experiment to check if air has weight using balloons, explain the objective, the experiment, and what the conclusion would be.",
+"answer":"Objective: Find if air has weight. Experiment: Tie two blown balloons to a stick to balance them, then burst one. Conclusion: The stick drops on the side with air, proving air has weight.",
+"keywords":[
+"Objective",
+"weight",
+"Experiment",
+"balance",
+"Conclusion",
+"proving"
+],
+"explanation":"This shows a clear understanding of the balloon experiment's parts. Found on page 7.",
+"page_number":"7"
+}
+,
+{
+"id":79,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"A student mixes two liquids. The mixture changes colour and becomes warm. Identify the branch of science and explain why.",
+"answer":"This is Chemistry. Chemistry studies what substances are made of and how they interact and change when mixed together.",
+"keywords":[
+"Chemistry",
+"studies",
+"substances",
+"interact",
+"mixed"
+],
+"explanation":"Color changes and heat from mixing liquids is a classic chemical reaction. Found on page 11.",
+"page_number":"11"
+}
+,
+{
+"id":80,
+"subject":"EVS",
+"chapter":"Introduction to Science-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":55
+},
+"question":"Read the actions and identify the steps of the scientific method: 1. Seeing cockroaches run from cucumber. 2. Soaking beans to test sprouting. 3. Stating plants need sunlight.",
+"answer":"1 is Observation (seeing what happens). 2 is Experiment (testing an idea carefully). 3 is Conclusion (stating a final fact learned).",
+"keywords":[
+"Observation",
+"seeing",
+"Experiment",
+"testing",
+"Conclusion",
+"fact"
+],
+"explanation":"Students must categorize real actions into formal scientific terminology. Found on page 10.",
+"page_number":"10"
+}
+]
