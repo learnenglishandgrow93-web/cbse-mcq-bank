@@ -1,0 +1,1864 @@
+[
+  {
+    "id": 1,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is food?",
+    "answer": "Food is what all living things eat or drink to grow and stay healthy.",
+    "keywords": [
+      "food",
+      "eat",
+      "drink",
+      "grow",
+      "healthy"
+    ],
+    "explanation": "This is the basic definition of food which explains why living things need it. It is discussed on Page 2 of the presentation and Page 13 of the textbook.",
+    "page_number": "Page 2 (PDF 1) / Page 13 (PDF 2)"
+  },
+  {
+    "id": 2,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Name the two main sources of our food.",
+    "answer": "The two main sources of food are plants and animals.",
+    "keywords": [
+      "plants",
+      "animals",
+      "sources"
+    ],
+    "explanation": "Our food primarily comes from two sources: plants and animals. This is detailed on Page 3 of the presentation.",
+    "page_number": "Page 3 (PDF 1)"
+  },
+  {
+    "id": 3,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Name any two foods that we get from animals.",
+    "answer": "We get milk, eggs, meat, and fish from animals.",
+    "keywords": [
+      "milk",
+      "eggs",
+      "meat",
+      "fish",
+      "animals"
+    ],
+    "explanation": "Animals provide us with important foods like milk, meat, and eggs. This is found on Page 3 of the presentation.",
+    "page_number": "Page 3 (PDF 1)"
+  },
+  {
+    "id": 4,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Name two foods that can be eaten raw.",
+    "answer": "Fresh fruits like bananas and vegetables like cucumbers can be eaten raw.",
+    "keywords": [
+      "fruits",
+      "bananas",
+      "cucumbers",
+      "raw"
+    ],
+    "explanation": "Some foods like fruits, nuts, and certain vegetables can be eaten without cooking. This is shown on Page 4 of the presentation.",
+    "page_number": "Page 4 (PDF 1)"
+  },
+  {
+    "id": 5,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Name two foods that must be cooked before eating.",
+    "answer": "Grains like rice and meat must be cooked before eating.",
+    "keywords": [
+      "grains",
+      "rice",
+      "meat",
+      "cooked"
+    ],
+    "explanation": "Foods like rice, wheat, dal, meat, and eggs need to be cooked before eating. This is on Page 4 of the presentation.",
+    "page_number": "Page 4 (PDF 1)"
+  },
+  {
+    "id": 6,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What is a toddler?",
+    "answer": "A toddler is a small child who is learning to walk, aged 1 to 3 years.",
+    "keywords": [
+      "toddler",
+      "child",
+      "learning",
+      "walk",
+      "aged"
+    ],
+    "explanation": "The textbook defines a toddler as a young child aged 1 to 3 who is learning to walk. This is found on Page 14 of the textbook.",
+    "page_number": "Page 14 (PDF 2)"
+  },
+  {
+    "id": 7,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is a balanced diet?",
+    "answer": "A balanced diet is a diet with the right quantity and variety of food needed for good health.",
+    "keywords": [
+      "diet",
+      "quantity",
+      "variety",
+      "food",
+      "health"
+    ],
+    "explanation": "A balanced diet includes different foods in the right amounts for staying healthy. This is mentioned on Page 21 of the textbook.",
+    "page_number": "Page 21 (PDF 2)"
+  },
+  {
+    "id": 8,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Name one fuel used in a Chullah.",
+    "answer": "Firewood or dung cakes are used as fuel in a Chullah.",
+    "keywords": [
+      "firewood",
+      "dung",
+      "cakes",
+      "Chullah"
+    ],
+    "explanation": "A Chullah uses natural fuels like firewood, coal, or dung cakes to generate heat. This is found on Page 18 of the textbook.",
+    "page_number": "Page 18 (PDF 2)"
+  },
+  {
+    "id": 9,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Which cooking method uses hot oil?",
+    "answer": "Frying is the cooking method that uses hot oil.",
+    "keywords": [
+      "frying",
+      "hot",
+      "oil"
+    ],
+    "explanation": "Frying involves cooking food in hot oil, like making pooris or vadas. This is discussed on Page 6 of the presentation.",
+    "page_number": "Page 6 (PDF 1)"
+  },
+  {
+    "id": 10,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 8
+    },
+    "question": "What kind of fuel does a solar cooker use?",
+    "answer": "A solar cooker uses sunlight as fuel.",
+    "keywords": [
+      "solar",
+      "cooker",
+      "sunlight"
+    ],
+    "explanation": "A solar cooker traps heat from sunlight to cook food. This is found on Page 18 of the textbook.",
+    "page_number": "Page 18 (PDF 2)"
+  },
+  {
+    "id": 11,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Which is considered the most important meal of the day?",
+    "answer": "Breakfast is the most important meal of the day.",
+    "keywords": [
+      "breakfast",
+      "important",
+      "meal"
+    ],
+    "explanation": "Breakfast gives you energy for school and play, making it the most important meal. This is on Page 8 of the presentation.",
+    "page_number": "Page 8 (PDF 1)"
+  },
+  {
+    "id": 12,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 12
+    },
+    "question": "Why is milk important for our bodies?",
+    "answer": "Milk is important because it is good for our bones.",
+    "keywords": [
+      "milk",
+      "good",
+      "bones"
+    ],
+    "explanation": "Milk provides essential nutrients that keep our bones strong. This is on Page 3 of the presentation.",
+    "page_number": "Page 3 (PDF 1)"
+  },
+  {
+    "id": 13,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 4,
+      "max": 10
+    },
+    "question": "How many glasses of water should you drink every day?",
+    "answer": "We should drink at least 6-8 glasses of water every day.",
+    "keywords": [
+      "glasses",
+      "water",
+      "day"
+    ],
+    "explanation": "Drinking plenty of water is a good food habit. 6-8 glasses are recommended daily on Page 10 of the presentation.",
+    "page_number": "Page 10 (PDF 1)"
+  },
+  {
+    "id": 14,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 15
+    },
+    "question": "Why do wrestlers drink a lot of milk?",
+    "answer": "Wrestlers are very active and require more food for energy, like milk.",
+    "keywords": [
+      "wrestlers",
+      "active",
+      "energy",
+      "milk"
+    ],
+    "explanation": "People with high physical activity, like sportspersons and wrestlers, need more food to get energy. This is on Page 15 of the textbook.",
+    "page_number": "Page 15 (PDF 2)"
+  },
+  {
+    "id": 15,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Name two yummy things made from milk.",
+    "answer": "Curd and cheese are made from milk.",
+    "keywords": [
+      "curd",
+      "cheese",
+      "milk"
+    ],
+    "explanation": "Milk is a versatile food used to make products like curd, cheese, butter, and ghee. This is on Page 3 of the presentation.",
+    "page_number": "Page 3 (PDF 1)"
+  },
+  {
+    "id": 16,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 8
+    },
+    "question": "Which fuel is used in a microwave oven?",
+    "answer": "Electricity is used as fuel in a microwave oven.",
+    "keywords": [
+      "electricity",
+      "microwave",
+      "oven"
+    ],
+    "explanation": "A microwave oven uses electricity to cook or heat food. This is detailed on Page 18 of the textbook.",
+    "page_number": "Page 18 (PDF 2)"
+  },
+  {
+    "id": 17,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 20
+    },
+    "question": "What do you mean by 'nutritious' food?",
+    "answer": "Nutritious food is food that is good for your body and helps you grow strong and healthy.",
+    "keywords": [
+      "nutritious",
+      "food",
+      "good",
+      "body",
+      "grow",
+      "strong"
+    ],
+    "explanation": "Nutritious foods contain all the essential things our body needs to stay healthy. This is defined on Page 21 of the textbook.",
+    "page_number": "Page 21 (PDF 2)"
+  },
+  {
+    "id": 18,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 18
+    },
+    "question": "Why is it important to eat breakfast?",
+    "answer": "Breakfast is important because it gives us energy for school and play.",
+    "keywords": [
+      "breakfast",
+      "energy",
+      "school",
+      "play"
+    ],
+    "explanation": "Eating breakfast is a good food habit because it provides the morning energy needed for daily activities. Discussed on Page 8 of the presentation.",
+    "page_number": "Page 8 (PDF 1)"
+  },
+  {
+    "id": 19,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Name two common food items we eat for our main meals.",
+    "answer": "We commonly eat rice, roti, and sabji for our main meals.",
+    "keywords": [
+      "rice",
+      "roti",
+      "sabji",
+      "meals"
+    ],
+    "explanation": "Main meals usually consist of heavier food items like rice, roti, and vegetables (sabji). This is on Page 14 of the textbook.",
+    "page_number": "Page 14 (PDF 2)"
+  },
+  {
+    "id": 20,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 12
+    },
+    "question": "People in which region eat a lot of fish and coconut?",
+    "answer": "People in coastal areas eat a lot of fish and coconut.",
+    "keywords": [
+      "coastal",
+      "areas",
+      "fish",
+      "coconut"
+    ],
+    "explanation": "Food habits depend on availability. Coastal areas have plenty of fish and coconuts. This is on Page 15 of the textbook.",
+    "page_number": "Page 15 (PDF 2)"
+  },
+  {
+    "id": 21,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 8
+    },
+    "question": "Where is the food item 'Kofta' famous according to the map?",
+    "answer": "Kofta is famous in Kashmir.",
+    "keywords": [
+      "Kofta",
+      "famous",
+      "Kashmir"
+    ],
+    "explanation": "The map showing regions and their famous foods indicates that Kofta is popular in Kashmir. Found on Page 20 of the textbook.",
+    "page_number": "Page 20 (PDF 2)"
+  },
+  {
+    "id": 22,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What happens if we eat too little food?",
+    "answer": "Eating too little food can make us underweight and sick.",
+    "keywords": [
+      "little",
+      "food",
+      "underweight",
+      "sick"
+    ],
+    "explanation": "Our body needs the right amount of food to stay healthy. Too little food causes sickness and low weight. Explained on Page 21 of the textbook.",
+    "page_number": "Page 21 (PDF 2)"
+  },
+  {
+    "id": 23,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What are vessels in cooking?",
+    "answer": "Vessels are containers of various shapes and sizes in which food is cooked.",
+    "keywords": [
+      "vessels",
+      "containers",
+      "food",
+      "cooked"
+    ],
+    "explanation": "Vessels like pots and pans are used to hold food while cooking. This definition is on Page 17 of the textbook.",
+    "page_number": "Page 17 (PDF 2)"
+  },
+  {
+    "id": 24,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Name any two materials used for making cooking vessels.",
+    "answer": "Cooking vessels are made of materials like steel, iron, or glass.",
+    "keywords": [
+      "steel",
+      "iron",
+      "glass",
+      "vessels"
+    ],
+    "explanation": "Vessels need to withstand heat, so they are made from materials like iron, steel, brass, and clay. This is on Page 17 of the textbook.",
+    "page_number": "Page 17 (PDF 2)"
+  },
+  {
+    "id": 25,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Give two examples of junk food that we should avoid.",
+    "answer": "We should avoid junk food like sodas, pizzas, and burgers.",
+    "keywords": [
+      "junk",
+      "food",
+      "sodas",
+      "pizzas",
+      "burgers"
+    ],
+    "explanation": "Junk foods do not provide the nutrition we need. Examples like soda and pizza are on Page 8 of the presentation.",
+    "page_number": "Page 8 (PDF 1)"
+  },
+  {
+    "id": 26,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What does the word 'obesity' mean?",
+    "answer": "Obesity means being overweight in an unhealthy way due to eating too much food.",
+    "keywords": [
+      "obesity",
+      "overweight",
+      "unhealthy",
+      "way"
+    ],
+    "explanation": "Eating too much food without burning energy leads to an unhealthy overweight condition known as obesity. This is defined on Page 21 of the textbook.",
+    "page_number": "Page 21 (PDF 2)"
+  },
+  {
+    "id": 27,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 18
+    },
+    "question": "How does cooking help make our food safe to eat?",
+    "answer": "Cooking is important because it kills harmful germs and bacteria in the food.",
+    "keywords": [
+      "cooking",
+      "kills",
+      "harmful",
+      "germs",
+      "bacteria"
+    ],
+    "explanation": "Raw food might contain germs. Heat from cooking kills these harmful germs, making food safe. Discussed on Page 5 of the presentation.",
+    "page_number": "Page 5 (PDF 1)"
+  },
+  {
+    "id": 28,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Why is soft food given to babies and elderly people?",
+    "answer": "They are given soft food because they find it difficult to bite and chew hard food.",
+    "keywords": [
+      "soft",
+      "food",
+      "difficult",
+      "bite",
+      "chew"
+    ],
+    "explanation": "Elderly people and babies have weak or no teeth, making it hard to chew. Hence, soft foods are required. This is on Page 14 of the textbook.",
+    "page_number": "Page 14 (PDF 2)"
+  },
+  {
+    "id": 29,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Give an example of a food item that uses both plant and animal sources.",
+    "answer": "Cake is an example because it uses flour from plants and eggs or milk from animals.",
+    "keywords": [
+      "cake",
+      "flour",
+      "plants",
+      "eggs",
+      "animals"
+    ],
+    "explanation": "Many dishes combine ingredients from different sources. Cake uses plant-based flour and animal-based eggs/milk. This is found in the 'Think and Reflect' section on Page 16 of the textbook.",
+    "page_number": "Page 16 (PDF 2)"
+  },
+  {
+    "id": 30,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 15
+    },
+    "question": "Why do people living in cold areas eat a lot of meat?",
+    "answer": "People in cold areas eat meat because it is easily available in those regions.",
+    "keywords": [
+      "cold",
+      "areas",
+      "meat",
+      "easily",
+      "available"
+    ],
+    "explanation": "Food habits often depend on what is easily available locally. In cold areas, meat is more available than crops. This is on Page 19 of the textbook.",
+    "page_number": "Page 19 (PDF 2)"
+  },
+  {
+    "id": 31,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 20
+    },
+    "question": "Why should we not be picky about our food?",
+    "answer": "We should not be picky so we can eat different foods and get all the energy we need.",
+    "keywords": [
+      "picky",
+      "different",
+      "foods",
+      "energy"
+    ],
+    "explanation": "Eating different kinds of foods provides a variety of nutrients required for proper growth and health. Mentioned on Page 10 of the presentation.",
+    "page_number": "Page 10 (PDF 1)"
+  },
+  {
+    "id": 32,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 4,
+      "max": 10
+    },
+    "question": "What fuel does an LPG gas stove use to cook food?",
+    "answer": "An LPG gas stove uses an LPG cylinder as fuel.",
+    "keywords": [
+      "LPG",
+      "gas",
+      "stove",
+      "cylinder"
+    ],
+    "explanation": "Different stoves use different fuels. An LPG gas stove uses liquefied petroleum gas from a cylinder. Found on Page 18 of the textbook.",
+    "page_number": "Page 18 (PDF 2)"
+  },
+  {
+    "id": 33,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Mention any two reasons why food is important for our bodies.",
+    "answer": "Food gives us energy to play and learn, and it helps our bodies grow strong and stay healthy.",
+    "keywords": [
+      "energy",
+      "play",
+      "learn",
+      "grow",
+      "healthy"
+    ],
+    "explanation": "Food acts as fuel for the body, providing energy and promoting growth and health. This is discussed on Page 2 of the presentation.",
+    "page_number": "Page 2 (PDF 1)"
+  },
+  {
+    "id": 34,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Write any two good food habits we should follow.",
+    "answer": "Two good food habits are eating a balanced diet and drinking plenty of water every day.",
+    "keywords": [
+      "balanced",
+      "diet",
+      "drinking",
+      "plenty",
+      "water"
+    ],
+    "explanation": "Good food habits include eating a balanced diet, drinking water, not skipping breakfast, and avoiding junk food. Found on Page 8 of the presentation.",
+    "page_number": "Page 8 (PDF 1)"
+  },
+  {
+    "id": 35,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What is the difference between raw and cooked food? Give one example of each.",
+    "answer": "Raw food is eaten without cooking, like a banana. Cooked food must be cooked before eating, like rice.",
+    "keywords": [
+      "raw",
+      "without",
+      "cooking",
+      "banana",
+      "cooked",
+      "rice"
+    ],
+    "explanation": "Some foods can be eaten straight away (raw), while others need heat to become soft and digestible (cooked). Examples are on Page 4 of the presentation.",
+    "page_number": "Page 4 (PDF 1)"
+  },
+  {
+    "id": 36,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Name two foods that give us energy and two foods that help us grow.",
+    "answer": "Rice and wheat give us energy. Eggs and meat help our bodies grow.",
+    "keywords": [
+      "rice",
+      "wheat",
+      "energy",
+      "eggs",
+      "meat",
+      "grow"
+    ],
+    "explanation": "The balanced diet chart shows that grains (rice/wheat) provide energy, while proteins (eggs/meat) help in growth. This is on Page 9 of the presentation.",
+    "page_number": "Page 9 (PDF 1)"
+  },
+  {
+    "id": 37,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Mention two common food items made using wheat.",
+    "answer": "Wheat is used to make food items like cakes, cookies, pasta, and pizza.",
+    "keywords": [
+      "wheat",
+      "cakes",
+      "cookies",
+      "pasta",
+      "pizza"
+    ],
+    "explanation": "Wheat is a versatile grain used in many baked and processed foods. Found in the 'Did You Know?' section on Page 14 of the textbook.",
+    "page_number": "Page 14 (PDF 2)"
+  },
+  {
+    "id": 38,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is boiling? Name two foods made by boiling.",
+    "answer": "Boiling is cooking food in hot water. Examples include rice, noodles, and potatoes.",
+    "keywords": [
+      "boiling",
+      "hot",
+      "water",
+      "rice",
+      "noodles"
+    ],
+    "explanation": "Boiling is a common cooking method using boiling water. This is described on Page 6 of the presentation and Page 19 of the textbook.",
+    "page_number": "Page 6 (PDF 1) / Page 19 (PDF 2)"
+  },
+  {
+    "id": 39,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is steaming? Name two foods made by steaming.",
+    "answer": "Steaming is cooking food using steam. Examples include idli, momos, and dhokla.",
+    "keywords": [
+      "steaming",
+      "steam",
+      "idli",
+      "momos",
+      "dhokla"
+    ],
+    "explanation": "Steaming uses hot water vapor (steam) to cook food without submerging it in water. Found on Page 6 of the presentation and Page 19 of the textbook.",
+    "page_number": "Page 6 (PDF 1) / Page 19 (PDF 2)"
+  },
+  {
+    "id": 40,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is frying? Give two examples of fried foods.",
+    "answer": "Frying means cooking food in hot oil. Examples of fried foods are pooris, cutlets, and vadas.",
+    "keywords": [
+      "frying",
+      "hot",
+      "oil",
+      "pooris",
+      "cutlets"
+    ],
+    "explanation": "Frying involves immersing food in very hot oil. Discussed on Page 6 of the presentation and Page 19 of the textbook.",
+    "page_number": "Page 6 (PDF 1) / Page 19 (PDF 2)"
+  },
+  {
+    "id": 41,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is baking? Give two examples of baked foods.",
+    "answer": "Baking means cooking food using dry heat in an oven. Examples are pizza, cakes, and biscuits.",
+    "keywords": [
+      "baking",
+      "dry",
+      "heat",
+      "oven",
+      "pizza",
+      "cakes"
+    ],
+    "explanation": "Baking uses enclosed dry heat, typically inside an oven, to cook things like breads and cakes. Found on Page 6 of the presentation and Page 19 of the textbook.",
+    "page_number": "Page 6 (PDF 1) / Page 19 (PDF 2)"
+  },
+  {
+    "id": 42,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Name any two vessels used for cooking food.",
+    "answer": "Two vessels used for cooking food are pressure cookers and pans.",
+    "keywords": [
+      "vessels",
+      "pressure",
+      "cookers",
+      "pans"
+    ],
+    "explanation": "Vessels are containers where food is cooked. Examples given are pressure cookers, pots, and pans. Found on Page 17 of the textbook.",
+    "page_number": "Page 17 (PDF 2)"
+  },
+  {
+    "id": 43,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What happens when we eat healthy food and follow good habits?",
+    "answer": "We have more energy, grow properly, and stay healthy when we eat good food and follow healthy habits.",
+    "keywords": [
+      "energy",
+      "grow",
+      "properly",
+      "stay",
+      "healthy"
+    ],
+    "explanation": "Good nutrition leads to proper growth and immunity against sickness. This conclusion is on Page 10 of the presentation.",
+    "page_number": "Page 10 (PDF 1)"
+  },
+  {
+    "id": 44,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Why should we avoid eating junk food?",
+    "answer": "We should avoid junk food because it does not give us the nutrition our body needs to stay healthy.",
+    "keywords": [
+      "avoid",
+      "junk",
+      "food",
+      "nutrition",
+      "healthy"
+    ],
+    "explanation": "Junk foods like soda and pizza lack essential nutrients needed for growth and health. This is on Page 8 of the presentation.",
+    "page_number": "Page 8 (PDF 1)"
+  },
+  {
+    "id": 45,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 28
+    },
+    "question": "How does a person's activity level decide what they eat?",
+    "answer": "People who are very active, like sportspersons, need to eat more food for extra energy compared to people who are less active.",
+    "keywords": [
+      "active",
+      "sportspersons",
+      "more",
+      "food",
+      "energy"
+    ],
+    "explanation": "Physical work requires burning energy, so active people need larger diets. This concept is on Page 7 of the presentation and Page 15 of the textbook.",
+    "page_number": "Page 7 (PDF 1) / Page 15 (PDF 2)"
+  },
+  {
+    "id": 46,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "How does the availability of food affect people's eating habits? Give an example.",
+    "answer": "People often eat what grows nearby easily. For example, people in coastal areas eat more fish and coconut.",
+    "keywords": [
+      "availability",
+      "grows",
+      "nearby",
+      "coastal",
+      "fish",
+      "coconut"
+    ],
+    "explanation": "Geography determines what crops and foods are available, shaping local diets. This is on Page 7 of the presentation and Page 15 of the textbook.",
+    "page_number": "Page 7 (PDF 1) / Page 15 (PDF 2)"
+  },
+  {
+    "id": 47,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Explain why elderly people usually eat semi-solid or soft foods.",
+    "answer": "Elderly people usually eat soft foods because they find it difficult to bite and chew hard food.",
+    "keywords": [
+      "elderly",
+      "soft",
+      "foods",
+      "difficult",
+      "bite",
+      "chew"
+    ],
+    "explanation": "Age affects eating habits. The elderly often have weaker teeth, requiring softer foods like khichdi. This is on Page 14 of the textbook.",
+    "page_number": "Page 14 (PDF 2)"
+  },
+  {
+    "id": 48,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "How do we get energy to do our day-to-day activities?",
+    "answer": "We get energy by eating enough nutritious food and having a balanced diet.",
+    "keywords": [
+      "energy",
+      "eating",
+      "nutritious",
+      "food",
+      "balanced",
+      "diet"
+    ],
+    "explanation": "Energy is the power we get from food to do things. Proper nutrition provides this. Explained on Page 21 of the textbook.",
+    "page_number": "Page 21 (PDF 2)"
+  },
+  {
+    "id": 49,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 8,
+      "max": 20
+    },
+    "question": "Mention any two things needed to cook food.",
+    "answer": "We need vessels to hold the food and fuel to provide heat for cooking.",
+    "keywords": [
+      "vessels",
+      "hold",
+      "fuel",
+      "heat",
+      "cooking"
+    ],
+    "explanation": "Cooking requires containers (vessels), a heat source (stove), and fuel to produce that heat. Mentioned on Page 17 of the textbook.",
+    "page_number": "Page 17 (PDF 2)"
+  },
+  {
+    "id": 50,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Name two famous dishes from Maharashtra and Kerala mentioned in the book.",
+    "answer": "Malvani curry is a famous dish in Maharashtra, and Moilee is famous in Kerala.",
+    "keywords": [
+      "Malvani",
+      "curry",
+      "Maharashtra",
+      "Moilee",
+      "Kerala"
+    ],
+    "explanation": "The map of Indian foods shows regional dishes like Malvani curry for Maharashtra and Moilee for Kerala. Found on Page 20 of the textbook.",
+    "page_number": "Page 20 (PDF 2)"
+  },
+  {
+    "id": 51,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "State two different ways a carrot can be eaten.",
+    "answer": "A carrot can be eaten raw in a salad, or it can be cooked to make halwa.",
+    "keywords": [
+      "carrot",
+      "raw",
+      "salad",
+      "cooked",
+      "halwa"
+    ],
+    "explanation": "The same food can be prepared in multiple ways, such as raw or cooked. This fun fact is on Page 2 of the presentation and Page 13 of the textbook.",
+    "page_number": "Page 2 (PDF 1) / Page 13 (PDF 2)"
+  },
+  {
+    "id": 52,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 28
+    },
+    "question": "List the food items commonly eaten for breakfast and main meals.",
+    "answer": "For breakfast, we usually eat khichdi, upma, or bread. For main meals, we eat rice, roti, and sabji.",
+    "keywords": [
+      "breakfast",
+      "khichdi",
+      "upma",
+      "bread",
+      "main",
+      "meals",
+      "rice",
+      "roti",
+      "sabji"
+    ],
+    "explanation": "The time of day affects our food choices, with lighter items for breakfast and heavier ones for main meals. This is on Page 14 of the textbook.",
+    "page_number": "Page 14 (PDF 2)"
+  },
+  {
+    "id": 53,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 8,
+      "max": 20
+    },
+    "question": "Name any four fuels used to produce heat for cooking.",
+    "answer": "Four fuels used for cooking are firewood, coal, LPG gas, and electricity.",
+    "keywords": [
+      "fuels",
+      "firewood",
+      "coal",
+      "LPG",
+      "electricity"
+    ],
+    "explanation": "Fuel provides the heat necessary to cook food. Various fuels like firewood, coal, kerosene, LPG, and electricity are listed on Page 17 of the textbook.",
+    "page_number": "Page 17 (PDF 2)"
+  },
+  {
+    "id": 54,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 30
+    },
+    "question": "What is a toddler? What kind of food is suitable for them?",
+    "answer": "A toddler is a child learning to walk (aged 1 to 3). They need soft, semi-solid foods like khichdi because they cannot chew hard food easily.",
+    "keywords": [
+      "toddler",
+      "child",
+      "soft",
+      "semi-solid",
+      "foods",
+      "khichdi"
+    ],
+    "explanation": "Toddlers are young children who require easily chewable, soft foods due to their age. Defined on Page 14 of the textbook.",
+    "page_number": "Page 14 (PDF 2)"
+  },
+  {
+    "id": 55,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "How do we show gratitude towards farmers?",
+    "answer": "We show gratitude to farmers by valuing their hard work and not wasting the food they grow.",
+    "keywords": [
+      "gratitude",
+      "farmers",
+      "valuing",
+      "hard",
+      "work",
+      "food"
+    ],
+    "explanation": "Farmers work hard to produce food. Valuing that food shows gratitude. Mentioned in the 'Living The Value' section on Page 16 of the textbook.",
+    "page_number": "Page 16 (PDF 2)"
+  },
+  {
+    "id": 56,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What does 'we should respect the food habits of people from other places' mean?",
+    "answer": "It means we should be polite and understanding about the different foods people eat in other regions, because their habits depend on what is available there.",
+    "keywords": [
+      "respect",
+      "polite",
+      "understanding",
+      "different",
+      "foods",
+      "regions"
+    ],
+    "explanation": "Different regions have different foods based on climate and availability. We must respect these differences. Found on Page 20 of the textbook.",
+    "page_number": "Page 20 (PDF 2)"
+  },
+  {
+    "id": 57,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "How have cooking roles in a family changed between the past and today?",
+    "answer": "In the past, cooking at home was mostly done by women. Today, many men also take part in cooking at home, and both work as professional chefs.",
+    "keywords": [
+      "past",
+      "women",
+      "today",
+      "men",
+      "both",
+      "chefs"
+    ],
+    "explanation": "Cooking roles have evolved over time to become more shared between genders at home and professionally. This is discussed on Page 20 of the textbook.",
+    "page_number": "Page 20 (PDF 2)"
+  },
+  {
+    "id": 58,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Why do people eat different types of food based on the time of the day?",
+    "answer": "Our bodies need different amounts of energy at different times. We eat light food like upma for breakfast and heavy meals like rice and sabji for main meals.",
+    "keywords": [
+      "different",
+      "amounts",
+      "energy",
+      "times",
+      "light",
+      "heavy"
+    ],
+    "explanation": "The time of day influences our diet; breakfast prepares us for the day, while main meals sustain us. This concept is on Page 14 of the textbook.",
+    "page_number": "Page 14 (PDF 2)"
+  },
+  {
+    "id": 59,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Why is drinking water an important food habit?",
+    "answer": "Drinking plenty of water keeps us hydrated and helps our body work properly throughout the day.",
+    "keywords": [
+      "drinking",
+      "water",
+      "hydrated",
+      "helps",
+      "body",
+      "work"
+    ],
+    "explanation": "Water is essential for bodily functions and staying hydrated. Discussed on Page 8 of the presentation and Page 22 of the textbook.",
+    "page_number": "Page 8 (PDF 1) / Page 22 (PDF 2)"
+  },
+  {
+    "id": 60,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Eating too much or too little food is bad. Explain why.",
+    "answer": "Eating too much food can cause unhealthy obesity. Eating too little food can make a person underweight and sick.",
+    "keywords": [
+      "too",
+      "much",
+      "obesity",
+      "little",
+      "underweight",
+      "sick"
+    ],
+    "explanation": "A balanced diet provides just the right amount of food. Extremes lead to health problems like obesity or sickness. Explained on Page 21 of the textbook.",
+    "page_number": "Page 21 (PDF 2)"
+  },
+  {
+    "id": 61,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "What are the three main factors that decide our food habits? Name them.",
+    "answer": "The three main factors that decide our food habits are Age, Activity, and Availability.",
+    "keywords": [
+      "factors",
+      "food",
+      "habits",
+      "Age",
+      "Activity",
+      "Availability"
+    ],
+    "explanation": "Our food habits depend on our age, how physically active we are, and what food is available locally. Listed on Page 7 of the presentation and Page 14 of the textbook.",
+    "page_number": "Page 7 (PDF 1) / Page 14 (PDF 2)"
+  },
+  {
+    "id": 62,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "List three reasons why we cook our food.",
+    "answer": "We cook food because it makes the food taste better, makes it easier to digest, and kills harmful germs and bacteria.",
+    "keywords": [
+      "cook",
+      "taste",
+      "better",
+      "easier",
+      "digest",
+      "kills",
+      "germs"
+    ],
+    "explanation": "Cooking serves important purposes like improving taste, aiding digestion, killing germs, and softening hard foods. Discussed on Page 5 of the presentation.",
+    "page_number": "Page 5 (PDF 1)"
+  },
+  {
+    "id": 63,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Write down any three good food habits that keep us healthy and strong.",
+    "answer": "Three good food habits are eating a balanced diet, never skipping breakfast, and drinking plenty of water every day.",
+    "keywords": [
+      "good",
+      "habits",
+      "balanced",
+      "diet",
+      "skipping",
+      "breakfast",
+      "drinking",
+      "water"
+    ],
+    "explanation": "Good food habits are essential for a healthy body and include eating right, staying hydrated, and avoiding junk food. Found on Page 8 of the presentation.",
+    "page_number": "Page 8 (PDF 1)"
+  },
+  {
+    "id": 64,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Give three examples of food we get from plants and three examples from animals.",
+    "answer": "From plants, we get rice, apples, and potatoes. From animals, we get milk, eggs, and fish.",
+    "keywords": [
+      "plants",
+      "rice",
+      "apples",
+      "potatoes",
+      "animals",
+      "milk",
+      "eggs",
+      "fish"
+    ],
+    "explanation": "Plants provide grains, fruits, and vegetables. Animals provide dairy, meat, and eggs. Found on Page 3 of the presentation and Page 15-16 of the textbook.",
+    "page_number": "Page 3 (PDF 1) / Page 15-16 (PDF 2)"
+  },
+  {
+    "id": 65,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What is a balanced diet? What are the main food groups it includes?",
+    "answer": "A balanced diet has the right quantity and variety of food for good health. It includes grains, fruits & vegetables, proteins, and dairy products.",
+    "keywords": [
+      "balanced",
+      "diet",
+      "quantity",
+      "variety",
+      "grains",
+      "fruits",
+      "proteins",
+      "dairy"
+    ],
+    "explanation": "A balanced diet provides all necessary nutrients in the correct proportions. The chart specifies four main groups. Found on Page 9 of the presentation.",
+    "page_number": "Page 9 (PDF 1)"
+  },
+  {
+    "id": 66,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "What are the ingredients used to make Idli? Where do we get them from?",
+    "answer": "Idli is made using dal and rice. We get both dal and rice from plants.",
+    "keywords": [
+      "Idli",
+      "dal",
+      "rice",
+      "plants"
+    ],
+    "explanation": "The textbook mentions that idli is made from dal and rice, which are plant-based sources. Found on Page 13 and Page 15 of the textbook.",
+    "page_number": "Page 13 (PDF 2)"
+  },
+  {
+    "id": 67,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Name any three types of stoves and the fuel used in them.",
+    "answer": "An LPG gas stove uses an LPG cylinder, a Microwave Oven uses electricity, and a Solar Cooker uses sunlight.",
+    "keywords": [
+      "stoves",
+      "LPG",
+      "cylinder",
+      "Microwave",
+      "electricity",
+      "Solar",
+      "Cooker",
+      "sunlight"
+    ],
+    "explanation": "Different stoves use specific fuels to generate heat. The table lists various combinations. Found on Page 18 of the textbook.",
+    "page_number": "Page 18 (PDF 2)"
+  },
+  {
+    "id": 68,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "Define food. Why is it called the fuel for our bodies?",
+    "answer": "Food is what living things eat or drink to grow and stay healthy. It is called fuel because it gives us the energy to play, learn, and work.",
+    "keywords": [
+      "food",
+      "living",
+      "things",
+      "grow",
+      "fuel",
+      "energy",
+      "play"
+    ],
+    "explanation": "Food provides energy just like fuel provides energy for a car. This is a foundational concept found on Page 2 of the presentation and Page 13 of the textbook.",
+    "page_number": "Page 2 (PDF 1) / Page 13 (PDF 2)"
+  },
+  {
+    "id": 69,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Explain how age affects the food we eat. Give examples for babies and the elderly.",
+    "answer": "Age decides the type of food we can digest. Babies drink only milk. Elderly people often eat soft foods like khichdi because they cannot chew hard food.",
+    "keywords": [
+      "age",
+      "digest",
+      "babies",
+      "milk",
+      "elderly",
+      "soft",
+      "khichdi",
+      "chew"
+    ],
+    "explanation": "As people grow or age, their ability to chew and digest changes, affecting their food habits. Discussed on Page 7 of the presentation and Page 14 of the textbook.",
+    "page_number": "Page 7 (PDF 1) / Page 14 (PDF 2)"
+  },
+  {
+    "id": 70,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "How does physical activity change the amount of food a person needs? Give an example.",
+    "answer": "More active people need more energy, so they eat more food. For example, wrestlers have up to five litres of milk a day for extra energy.",
+    "keywords": [
+      "active",
+      "energy",
+      "eat",
+      "more",
+      "wrestlers",
+      "milk"
+    ],
+    "explanation": "Activity level directly impacts energy requirements, meaning highly active people consume larger diets. Found on Page 15 of the textbook.",
+    "page_number": "Page 15 (PDF 2)"
+  },
+  {
+    "id": 71,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "What is the difference between baking and steaming? Give examples for each.",
+    "answer": "Baking uses dry heat in an oven to cook foods like pizza and cake. Steaming uses hot steam to cook foods like idli and momos.",
+    "keywords": [
+      "baking",
+      "dry",
+      "heat",
+      "pizza",
+      "steaming",
+      "steam",
+      "idli"
+    ],
+    "explanation": "These are two different cooking methods. Baking relies on dry air, while steaming relies on water vapor. Found on Page 6 of the presentation and Page 19 of the textbook.",
+    "page_number": "Page 6 (PDF 1) / Page 19 (PDF 2)"
+  },
+  {
+    "id": 72,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Write three different uses of milk as mentioned in the lesson.",
+    "answer": "Milk is used as a drink for babies, and to make yummy things like curd, cheese, and butter.",
+    "keywords": [
+      "milk",
+      "drink",
+      "babies",
+      "curd",
+      "cheese",
+      "butter"
+    ],
+    "explanation": "Milk is a primary animal source food used to create many dairy products. Discussed on Page 3 of the presentation and Page 16 of the textbook.",
+    "page_number": "Page 3 (PDF 1) / Page 16 (PDF 2)"
+  },
+  {
+    "id": 73,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "Mention three materials used to make vessels. Also, give examples of two vessels used for cooking.",
+    "answer": "Vessels are made from glass, iron, and steel. Examples of vessels used for cooking are pressure cookers and pots.",
+    "keywords": [
+      "glass",
+      "iron",
+      "steel",
+      "pressure",
+      "cookers",
+      "pots"
+    ],
+    "explanation": "Cooking vessels are made of heat-resistant materials and come in forms like pots, pans, and cookers. Found on Page 17 of the textbook.",
+    "page_number": "Page 17 (PDF 2)"
+  },
+  {
+    "id": 74,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "How does availability of food in a region affect what people eat there? Support your answer with two examples.",
+    "answer": "People eat what grows nearby easily. For example, tapioca is eaten in Kerala, and groundnuts are used more in Maharashtra because they are easily available there.",
+    "keywords": [
+      "grows",
+      "nearby",
+      "tapioca",
+      "Kerala",
+      "groundnuts",
+      "Maharashtra"
+    ],
+    "explanation": "Local climate and geography make certain foods more abundant, shaping local diets. This concept is on Page 15 of the textbook.",
+    "page_number": "Page 15 (PDF 2)"
+  },
+  {
+    "id": 75,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "What is obesity? How is it caused, and how can we prevent it?",
+    "answer": "Obesity is being unhealthy and overweight. It is caused by eating too much food, especially junk food. We can prevent it by eating a balanced diet and staying active.",
+    "keywords": [
+      "obesity",
+      "unhealthy",
+      "overweight",
+      "too",
+      "much",
+      "balanced",
+      "diet",
+      "active"
+    ],
+    "explanation": "Obesity results from overeating and poor habits. Good habits and a balanced diet prevent it. Found on Page 21 of the textbook and Page 10 of the presentation.",
+    "page_number": "Page 21 (PDF 2) / Page 10 (PDF 1)"
+  },
+  {
+    "id": 76,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "\"People eat different kinds of food.\" Why do food habits vary from person to person? Explain with any three points.",
+    "answer": "Food habits vary based on a person's age, their physical activity level, and the availability of food in the place where they live.",
+    "keywords": [
+      "vary",
+      "age",
+      "physical",
+      "activity",
+      "availability"
+    ],
+    "explanation": "The three main factors dictating food choices are Age, Activity, and Availability. Summarized on Page 7 of the presentation and Page 14-15 of the textbook.",
+    "page_number": "Page 7 (PDF 1) / Page 14-15 (PDF 2)"
+  },
+  {
+    "id": 77,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Imagine you have a healthy meal plate. According to the balanced diet chart, what percentage of grains, fruits & vegetables, proteins, and dairy should be on it?",
+    "answer": "A healthy meal plate should have 30% grains for energy, 30% fruits and vegetables for vitamins, 20% proteins for growth, and 20% dairy and others for bones.",
+    "keywords": [
+      "30%",
+      "grains",
+      "fruits",
+      "vegetables",
+      "20%",
+      "proteins",
+      "dairy"
+    ],
+    "explanation": "The balanced diet chart specifies exact percentages to ensure all nutritional needs are met. Found on Page 9 of the presentation.",
+    "page_number": "Page 9 (PDF 1)"
+  },
+  {
+    "id": 78,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Why is it said that 'You are what you eat'? What three things must you do to have more energy and stay healthy?",
+    "answer": "It means healthy food makes a healthy body. To stay healthy, you must eat different foods, drink 6-8 glasses of water daily, and stay active by playing and exercising.",
+    "keywords": [
+      "healthy",
+      "food",
+      "body",
+      "different",
+      "foods",
+      "water",
+      "active",
+      "exercising"
+    ],
+    "explanation": "The conclusion of the presentation emphasizes variety in diet, hydration, and exercise as the pillars of health. Found on Page 10 of the presentation.",
+    "page_number": "Page 10 (PDF 1)"
+  },
+  {
+    "id": 79,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "Write a short note on the vessels and fuel used for cooking food in our homes.",
+    "answer": "Vessels are containers like pots and pressure cookers made of steel or glass to hold food. Fuel like LPG gas, coal, or firewood provides the heat needed by the stove to cook the food.",
+    "keywords": [
+      "vessels",
+      "pots",
+      "steel",
+      "fuel",
+      "LPG",
+      "heat",
+      "stove"
+    ],
+    "explanation": "Cooking is a process combining containers (vessels) and a heat source (fuel and stoves). Discussed comprehensively on Page 17 of the textbook.",
+    "page_number": "Page 17 (PDF 2)"
+  },
+  {
+    "id": 80,
+    "subject": "EVS",
+    "chapter": "Food-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Cooking is not just a woman's job. Explain this statement based on what you have learned about cooking and gender.",
+    "answer": "While traditionally women cooked at home, today both men and women work as professional chefs in restaurants. Also, many men now take part in cooking at home.",
+    "keywords": [
+      "women",
+      "cooked",
+      "men",
+      "professional",
+      "chefs",
+      "home"
+    ],
+    "explanation": "The textbook addresses gender roles in cooking, highlighting that cooking is a shared responsibility and profession for both men and women. Found on Page 20 of the textbook.",
+    "page_number": "Page 20 (PDF 2)"
+  }
+]
