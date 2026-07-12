@@ -1,0 +1,1671 @@
+[
+{
+"id": 1,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "भाषा क्या है?   What is language?",
+"answer": "भाषा भावों और विचारों के आदान-प्रदान का साधन है।   Language is the medium for the exchange of emotions and thoughts.",
+"keywords": [
+"साधन   Medium",
+"विचार   Thoughts",
+"आदान-प्रदान   Exchange"
+],
+"explanation": "पाठ के अनुसार मनुष्य अपने मन के भावों को दूसरों तक पहुँचाने के लिए भाषा का प्रयोग करता है।   According to the lesson, humans use language to convey their inner feelings to others.",
+"page_number": "7"
+},
+{
+"id": 2,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "भाषा के दो मुख्य रूप कौन-से हैं?   What are the two main forms of language?",
+"answer": "भाषा के दो मुख्य रूप मौखिक और लिखित हैं।   The two main forms of language are oral and written.",
+"keywords": [
+"मौखिक   Oral",
+"लिखित   Written"
+],
+"explanation": "हम बोलकर या लिखकर अपने विचारों को व्यक्त करते हैं, इसलिए भाषा के ये दो रूप माने गए हैं।   We express our thoughts by speaking or writing, so these two forms of language are recognized.",
+"page_number": "7"
+},
+{
+"id": 3,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "लिपि किसे कहते हैं?   What is called script?",
+"answer": "ध्वनियों को लिखने के लिए जिन चिह्नों का प्रयोग किया जाता है, उसे लिपि कहते हैं।   The signs used to write sounds are called script.",
+"keywords": [
+"लिपि   Script",
+"चिह्न   Signs",
+"ध्वनि   Sound"
+],
+"explanation": "मौखिक ध्वनियों को लिखित रूप देने के लिए निर्धारित चिह्नों को लिपि कहा जाता है।   The signs fixed to give a written form to oral sounds are called script.",
+"page_number": "8"
+},
+{
+"id": 4,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 8,
+"max": 15
+},
+"question": "हिंदी दिवस कब मनाया जाता है?   When is Hindi Diwas celebrated?",
+"answer": "हिंदी दिवस प्रतिवर्ष 14 सितंबर को मनाया जाता है।   Hindi Diwas is celebrated every year on 14th September.",
+"keywords": [
+"हिंदी दिवस   Hindi Day",
+"14 सितंबर   14th September"
+],
+"explanation": "14 सितंबर, 1949 को हिंदी को भारत की राजभाषा का दर्जा दिया गया था, इसलिए इस दिन को हिंदी दिवस के रूप में मनाया जाता है।   On September 14, 1949, Hindi was given the status of the official language of India, so this day is celebrated as Hindi Diwas.",
+"page_number": "8"
+},
+{
+"id": 5,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "हिंदी की लिपि का नाम क्या है?   What is the name of Hindi's script?",
+"answer": "हिंदी की लिपि देवनागरी है।   The script of Hindi is Devnagari.",
+"keywords": [
+"देवनागरी   Devnagari",
+"लिपि   Script"
+],
+"explanation": "हिंदी भाषा को देवनागरी लिपि में लिखा जाता है, जिसे 'नागरी' भी कहा जाता है।   The Hindi language is written in the Devnagari script, which is also called 'Nagari'.",
+"page_number": "9"
+},
+{
+"id": 6,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "अंग्रेजी भाषा की लिपि क्या है?   What is the script of the English language?",
+"answer": "अंग्रेजी भाषा की लिपि रोमन है।   The script of the English language is Roman.",
+"keywords": [
+"अंग्रेजी   English",
+"रोमन   Roman"
+],
+"explanation": "विश्व स्तर पर बोली जाने वाली अंग्रेजी भाषा को रोमन लिपि में लिखा जाता है।   The globally spoken English language is written in the Roman script.",
+"page_number": "9"
+},
+{
+"id": 7,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "बोली किसे कहते हैं?   What is a dialect?",
+"answer": "भाषा के क्षेत्रीय रूप को बोली कहते हैं।   The regional form of a language is called a dialect.",
+"keywords": [
+"बोली   Dialect",
+"क्षेत्रीय रूप   Regional form"
+],
+"explanation": "जब कोई भाषा एक सीमित क्षेत्र में बोली जाती है, तो उसे बोली कहा जाता है।   When a language is spoken in a limited area, it is called a dialect.",
+"page_number": "7"
+},
+{
+"id": 8,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 10
+},
+"question": "व्याकरण क्या है?   What is grammar?",
+"answer": "व्याकरण भाषा के शुद्ध रूप का ज्ञान कराने वाला शास्त्र है।   Grammar is the science that provides knowledge of the correct form of language.",
+"keywords": [
+"व्याकरण   Grammar",
+"शुद्ध रूप   Correct form"
+],
+"explanation": "व्याकरण हमें भाषा के नियमों की जानकारी देता है ताकि हम उसे सही ढंग से बोल और लिख सकें।   Grammar gives us information about the rules of language so that we can speak and write it correctly.",
+"page_number": "9"
+},
+{
+"id": 9,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "भारतीय संविधान में कितनी भाषाओं को मान्यता दी गई है?   How many languages are recognized in the Indian Constitution?",
+"answer": "भारतीय संविधान में 22 भाषाओं को मान्यता दी गई है।   22 languages are recognized in the Indian Constitution.",
+"keywords": [
+"22 भाषाएँ   22 languages",
+"मान्यता   Recognition"
+],
+"explanation": "संविधान की आठवीं अनुसूची में कुल 22 भारतीय भाषाओं को आधिकारिक मान्यता प्राप्त है।   Total 22 Indian languages are officially recognized in the Eighth Schedule of the Constitution.",
+"page_number": "8"
+},
+{
+"id": 10,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "व्याकरण के कितने मुख्य विभाग हैं?   How many main divisions of grammar are there?",
+"answer": "व्याकरण के तीन मुख्य विभाग हैं।   There are three main divisions of grammar.",
+"keywords": [
+"तीन   Three",
+"विभाग   Divisions"
+],
+"explanation": "व्याकरण को वर्ण-विचार, शब्द-विचार और वाक्य-विचार नामक तीन भागों में बाँटा गया है।   Grammar is divided into three parts called Phonology, Morphology, and Syntax.",
+"page_number": "10"
+},
+{
+"id": 11,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "पंजाब में बोली जाने वाली भाषा और उसकी लिपि का नाम लिखें।   Write the name of the language spoken in Punjab and its script.",
+"answer": "पंजाब में पंजाबी भाषा बोली जाती है और इसकी लिपि गुरुमुखी है।   Punjabi is spoken in Punjab and its script is Gurmukhi.",
+"keywords": [
+"पंजाबी   Punjabi",
+"गुरुमुखी   Gurmukhi"
+],
+"explanation": "तालिका के अनुसार पंजाब क्षेत्र की मुख्य भाषा पंजाबी है जो गुरुमुखी लिपि में लिखी जाती है।   According to the table, the main language of the Punjab region is Punjabi, written in the Gurmukhi script.",
+"page_number": "9"
+},
+{
+"id": 12,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "उर्दू भाषा की लिपि क्या है?   What is the script of the Urdu language?",
+"answer": "उर्दू भाषा की लिपि फ़ारसी है।   The script of the Urdu language is Persian.",
+"keywords": [
+"उर्दू   Urdu",
+"फ़ारसी   Persian"
+],
+"explanation": "जम्मू और कश्मीर जैसे क्षेत्रों में बोली जाने वाली उर्दू भाषा फ़ारसी लिपि में लिखी जाती है।   The Urdu language spoken in regions like Jammu and Kashmir is written in the Persian script.",
+"page_number": "9"
+},
+{
+"id": 13,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "जापानी भाषा किस लिपि में लिखी जाती है?   In which script is the Japanese language written?",
+"answer": "जापानी भाषा जापानी लिपि में ही लिखी जाती है।   The Japanese language is written in the Japanese script itself.",
+"keywords": [
+"जापानी   Japanese",
+"लिपि   Script"
+],
+"explanation": "विदेशी भाषाओं की तालिका के अनुसार जापान की भाषा जापानी है और लिपि भी जापानी है।   According to the table of foreign languages, the language of Japan is Japanese and the script is also Japanese.",
+"page_number": "9"
+},
+{
+"id": 14,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 10
+},
+"question": "वर्ण-विचार में किसका अध्ययन किया जाता है?   What is studied in Phonology?",
+"answer": "इसमें वर्णों के आकार, उच्चारण और भेद का अध्ययन किया जाता है।   In this, the shape, pronunciation, and types of letters are studied.",
+"keywords": [
+"वर्ण   Letters",
+"उच्चारण   Pronunciation"
+],
+"explanation": "वर्ण-विचार व्याकरण का वह भाग है जो हमें वर्णों के सही स्वरूप की जानकारी देता है।   Phonology is the part of grammar that gives us information about the correct form of letters.",
+"page_number": "10"
+},
+{
+"id": 15,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "मैथिली भाषा के प्रसिद्ध कवि कौन थे?   Who was a famous poet of the Maithili language?",
+"answer": "विद्यापति मैथिली भाषा के महान कवि थे।   Vidyapati was a great poet of the Maithili language.",
+"keywords": [
+"विद्यापति   Vidyapati",
+"मैथिली   Maithili"
+],
+"explanation": "मैथिली बोली के विकसित होने पर विद्यापति जैसे कवियों ने इसमें साहित्य रचना की।   When the Maithili dialect developed, poets like Vidyapati created literature in it.",
+"page_number": "7"
+},
+{
+"id": 16,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "रूसी भाषा की लिपि का नाम क्या है?   What is the name of the script of the Russian language?",
+"answer": "रूसी भाषा की लिपि सिरिलिक है।   The script of the Russian language is Cyrillic.",
+"keywords": [
+"रूसी   Russian",
+"सिरिलिक   Cyrillic"
+],
+"explanation": "प्रमुख विदेशी भाषाओं की सूची के अनुसार रूस की भाषा रूसी है और इसकी लिपि सिरिलिक है।   According to the list of major foreign languages, the language of Russia is Russian and its script is Cyrillic.",
+"page_number": "9"
+},
+{
+"id": 17,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "मौखिक भाषा से क्या तात्पर्य है?   What is meant by oral language?",
+"answer": "मौखिक भाषा में हम अपने मनोभावों को बोलकर प्रकट करते हैं। नाटक, भाषण और आपसी बातचीत इसके प्रमुख उदाहरण हैं।   In oral language, we express our emotions by speaking. Drama, speeches, and mutual conversation are its major examples.",
+"keywords": [
+"मौखिक   Oral",
+"बोलकर   By speaking",
+"मनोभाव   Emotions"
+],
+"explanation": "यह भाषा का वह रूप है जिसमें वक्ता बोलकर अपनी बात कहता है और श्रोता सुनकर उसे समझता है।   This is the form of language in which the speaker says something by speaking and the listener understands it by listening.",
+"page_number": "7"
+},
+{
+"id": 18,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "लिखित भाषा किसे कहते हैं?   What is called written language?",
+"answer": "जब हम लिखकर अपने विचार दूसरों तक पहुँचाते हैं, तो उसे लिखित भाषा कहते हैं। गृहकार्य या पत्र लिखना इसके उदाहरण हैं।   When we convey our thoughts to others by writing, it is called written language. Homework or writing a letter are its examples.",
+"keywords": [
+"लिखित   Written",
+"विचार   Thoughts",
+"लिखकर   By writing"
+],
+"explanation": "लिखित भाषा के माध्यम से हम अपने विचारों को लंबे समय तक सुरक्षित रख सकते हैं।   Through written language, we can keep our thoughts safe for a long time.",
+"page_number": "7"
+},
+{
+"id": 19,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "भाषा और बोली में क्या अंतर है?   What is the difference between language and dialect?",
+"answer": "भाषा का क्षेत्र विस्तृत होता है और इसमें साहित्य रचना होती है, जबकि बोली एक सीमित क्षेत्र में बोली जाती है।   Language has a wide area and literature is created in it, whereas a dialect is spoken in a limited area.",
+"keywords": [
+"विस्तृत   Wide",
+"सीमित   Limited",
+"साहित्य   Literature"
+],
+"explanation": "बोली भाषा का एक छोटा रूप है जो किसी खास क्षेत्र तक ही सीमित रहती है।   Dialect is a smaller form of language that remains limited to a specific region.",
+"page_number": "7"
+},
+{
+"id": 20,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "हिंदी को राजभाषा कब और क्यों बनाया गया?   When and why was Hindi made the official language?",
+"answer": "14 सितंबर, 1949 को हिंदी को राजभाषा बनाया गया क्योंकि यह भारत में सबसे अधिक बोली और समझी जाने वाली भाषा है।   Hindi was made the official language on September 14, 1949, because it is the most spoken and understood language in India.",
+"keywords": [
+"राजभाषा   Official Language",
+"सर्वाधिक   Most",
+"1949   1949"
+],
+"explanation": "भारत की एकता और प्रशासन के लिए हिंदी को संघ की राजभाषा के रूप में स्वीकार किया गया था।   For India's unity and administration, Hindi was accepted as the official language of the Union.",
+"page_number": "8"
+},
+{
+"id": 21,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "व्याकरण भाषा के लिए क्यों आवश्यक है?   Why is grammar necessary for a language?",
+"answer": "व्याकरण भाषा को नियमबद्ध करता है और हमें भाषा को शुद्ध रूप में बोलना, पढ़ना और लिखना सिखाता है।   Grammar systematizes language and teaches us how to speak, read, and write language in its pure form.",
+"keywords": [
+"नियमबद्ध   Systematize",
+"शुद्ध रूप   Pure form",
+"आवश्यक   Necessary"
+],
+"explanation": "बिना व्याकरण के भाषा व्यवस्थित नहीं हो सकती और उसमें त्रुटियों की संभावना अधिक रहती है।   Without grammar, a language cannot be organized and there is a high chance of errors.",
+"page_number": "9"
+},
+{
+"id": 22,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "संकेतों को भाषा क्यों नहीं माना जा सकता?   Why cannot signs be considered as language?",
+"answer": "संकेतों (जैसे सीटी या झंडी) से भावों का संप्रेषण तो हो सकता है, परंतु हम इसे 'भाषा' नहीं मान सकते क्योंकि इसमें निश्चित ध्वनियों का अभाव होता है।   Communication of feelings can happen through signs (like whistle or flag), but we cannot consider it 'language' because it lacks definite sounds.",
+"keywords": [
+"संप्रेषण   Communication",
+"ध्वनि   Sound",
+"अभाव   Lack"
+],
+"explanation": "मानव मुख से उच्चारित सार्थक ध्वनियों का संयोजन ही भाषा का आधार बनता है, जो संकेतों में नहीं होता।   The combination of meaningful sounds uttered from the human mouth forms the basis of language, which is not present in signs.",
+"page_number": "7"
+},
+{
+"id": 23,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "किन्हीं चार भारतीय राज्यों के नाम लिखें जहाँ हिंदी राजभाषा है।   Name any four Indian states where Hindi is the official language.",
+"answer": "उत्तर प्रदेश, मध्य प्रदेश, राजस्थान और बिहार ऐसे राज्य हैं जहाँ हिंदी को राजभाषा घोषित किया गया है।   Uttar Pradesh, Madhya Pradesh, Rajasthan, and Bihar are states where Hindi has been declared the official language.",
+"keywords": [
+"उत्तर प्रदेश   Uttar Pradesh",
+"बिहार   Bihar",
+"राजभाषा   Official language"
+],
+"explanation": "भारत के कई राज्यों ने हिंदी को अपनी प्रशासनिक कार्यों की भाषा के रूप में अपनाया है।   Many states of India have adopted Hindi as the language for their administrative work.",
+"page_number": "8"
+},
+{
+"id": 24,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "देवनागरी लिपि में कौन-कौन सी भाषाएँ लिखी जाती हैं?   Which languages are written in the Devnagari script?",
+"answer": "देवनागरी लिपि में हिंदी, संस्कृत, मराठी, कोंकणी, नेपाली और मैथिली जैसी भाषाएँ लिखी जाती हैं।   Languages like Hindi, Sanskrit, Marathi, Konkani, Nepali, and Maithili are written in the Devnagari script.",
+"keywords": [
+"देवनागरी   Devnagari",
+"संस्कृत   Sanskrit",
+"मराठी   Marathi"
+],
+"explanation": "देवनागरी एक प्राचीन ब्राह्मी लिपि से विकसित हुई लिपि है जो कई भारतीय भाषाओं का आधार है।   Devnagari is a script developed from the ancient Brahmi script, which is the basis for many Indian languages.",
+"page_number": "9"
+},
+{
+"id": 25,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "बोली कब भाषा का रूप ले लेती है?   When does a dialect take the form of a language?",
+"answer": "जब कोई बोली विकसित होकर उसमें साहित्य की रचना होने लगती है, तो वह भाषा का रूप ले लेती है।   When a dialect develops and literature begins to be created in it, it takes the form of a language.",
+"keywords": [
+"विकसित   Developed",
+"साहित्य   Literature",
+"रचना   Creation"
+],
+"explanation": "खड़ी बोली, अवधी और ब्रज पहले बोलियाँ थीं, लेकिन साहित्य रचना के कारण ये भाषाएँ बन गईं।   Khadi Boli, Awadhi, and Braj were initially dialects, but due to literary creation, they became languages.",
+"page_number": "7"
+},
+{
+"id": 26,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 40
+},
+"question": "वाक्य-विचार में क्या अध्ययन किया जाता है?   What is studied in Syntax?",
+"answer": "वाक्य-विचार में वाक्य, उनके प्रकार, वाक्य-विग्रह, पद-परिचय और विराम-चिह्नों आदि के नियम पढ़े जाते हैं।   In syntax, sentences, their types, sentence analysis, part of speech identification, and punctuation marks, etc., are studied.",
+"keywords": [
+"वाक्य-विग्रह   Sentence analysis",
+"पद-परिचय   Part of speech",
+"विराम-चिह्न   Punctuation marks"
+],
+"explanation": "यह व्याकरण का वह भाग है जो हमें सही वाक्यों के गठन की जानकारी देता है।   This is the part of grammar that gives us information about the formation of correct sentences.",
+"page_number": "10"
+},
+{
+"id": 27,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "भारत के बाहर किन देशों में हिंदी बोली और समझी जाती है?   In which countries outside India is Hindi spoken and understood?",
+"answer": "भारत के बाहर मॉरीशस, फ़िजी, त्रिनिदाद, गुयाना और सूरीनाम जैसे देशों में हिंदी बड़ी संख्या में बोली जाती है।   Outside India, Hindi is spoken in large numbers in countries like Mauritius, Fiji, Trinidad, Guyana, and Suriname.",
+"keywords": [
+"मॉरीशस   Mauritius",
+"फ़िजी   Fiji",
+"सूरीनाम   Suriname"
+],
+"explanation": "हिंदी की लोकप्रियता विश्व स्तर पर बढ़ रही है और कई देशों में इसकी अच्छी खासी आबादी हिंदी बोलती है।   The popularity of Hindi is increasing globally, and a significant population in many countries speaks Hindi.",
+"page_number": "8"
+},
+{
+"id": 28,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 40
+},
+"question": "कंप्यूटर और हिंदी का क्या संबंध है?   What is the relationship between computers and Hindi?",
+"answer": "आज कंप्यूटर और इंटरनेट पर हिंदी का प्रयोग बढ़ गया है। ईमेल, वेबसाइटों और सूचनाओं के लिए हिंदी का उपयोग किया जा रहा है।   Today, the use of Hindi on computers and the internet has increased. Hindi is being used for emails, websites, and information.",
+"keywords": [
+"इंटरनेट   Internet",
+"ईमेल   Email",
+"सूचना   Information"
+],
+"explanation": "तकनीकी विकास के कारण अब हिंदी में काम करना बहुत आसान और लोकप्रिय हो गया है।   Due to technical development, working in Hindi has now become very easy and popular.",
+"page_number": "10"
+},
+{
+"id": 29,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 40
+},
+"question": "शब्द-विचार के अंतर्गत हम क्या सीखते हैं?   What do we learn under Morphology?",
+"answer": "शब्द-विचार में शब्दों के रूप, भेद और उनकी बनावट आदि के विषय में अध्ययन किया जाता है।   In morphology, the forms, types, and structure of words, etc., are studied.",
+"keywords": [
+"शब्द   Words",
+"भेद   Types",
+"अध्ययन   Study"
+],
+"explanation": "यह व्याकरण का वह भाग है जो वर्णों के मेल से बनने वाले शब्दों के नियमों को समझाता है।   This is the part of grammar that explains the rules of words formed by the combination of letters.",
+"page_number": "10"
+},
+{
+"id": 30,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "खड़ी बोली का हिंदी के विकास में क्या महत्त्व है?   What is the importance of Khadi Boli in the development of Hindi?",
+"answer": "आधुनिक हिंदी भाषा का विकास 'खड़ी बोली' से ही हुआ है। यह हिंदी का मानक और साहित्यिक रूप प्रदान करती है।   Modern Hindi language has developed from 'Khadi Boli'. It provides the standard and literary form of Hindi.",
+"keywords": [
+"आधुनिक   Modern",
+"विकास   Development",
+"खड़ी बोली   Khadi Boli"
+],
+"explanation": "पुराने समय में यह एक बोली थी जो बाद में परिष्कृत होकर राजभाषा हिंदी बनी।   In ancient times, it was a dialect that later became refined to become the official language, Hindi.",
+"page_number": "7"
+},
+{
+"id": 31,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "असम और ओड़िशा की भाषाओं और उनकी लिपियों के नाम लिखें।   Write the names of the languages and scripts of Assam and Odisha.",
+"answer": "असम में असमिया भाषा बोली जाती है जिसकी लिपि असमिया है। ओड़िशा में ओड़िया भाषा बोली जाती है जिसकी लिपि ओड़िया है।   Assamese is spoken in Assam with the Assamese script. Odia is spoken in Odisha with the Odia script.",
+"keywords": [
+"असमिया   Assamese",
+"ओड़िया   Odia",
+"लिपि   Script"
+],
+"explanation": "भारत के विभिन्न क्षेत्रों में अपनी विशिष्ट भाषाएँ और लिपियाँ प्रचलित हैं।   Different regions of India have their own specific languages and scripts prevalent.",
+"page_number": "9"
+},
+{
+"id": 32,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "तुलसीदास और सूरदास ने किन भाषाओं में साहित्य रचा?   In which languages did Tulsidas and Surdas create literature?",
+"answer": "तुलसीदास ने अवधी में रामचरितमानस लिखी और सूरदास ने ब्रज भाषा में कृष्णभक्ति साहित्य की रचना की।   Tulsidas wrote Ramcharitmanas in Awadhi, and Surdas created Krishna-devotional literature in the Braj language.",
+"keywords": [
+"तुलसीदास   Tulsidas",
+"अवधी   Awadhi",
+"ब्रज   Braj"
+],
+"explanation": "ये दोनों भाषाएँ पहले बोलियाँ थीं जो श्रेष्ठ साहित्य के कारण भाषा बन गईं।   Both of these were initially dialects that became languages due to superior literature.",
+"page_number": "7"
+},
+{
+"id": 33,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "चीनी और जापानी भाषाओं की लिपियों की विशेषता क्या है?   What is the specialty of the scripts of Chinese and Japanese languages?",
+"answer": "चीनी भाषा की लिपि 'चीनी' (चित्र लिपि) है, जबकि जापानी भाषा की लिपि 'जापानी' ही है। ये वर्णों के स्थान पर चित्रों का प्रयोग कर सकती हैं।   The script of Chinese is 'Chinese' (pictographic), while Japanese is 'Japanese'. They may use pictures instead of letters.",
+"keywords": [
+"चित्र लिपि   Pictographic script",
+"चीनी   Chinese",
+"जापानी   Japanese"
+],
+"explanation": "विश्व की विभिन्न लिपियों के अपने लिखने के अनूठे ढंग होते हैं।   Different scripts of the world have their own unique ways of writing.",
+"page_number": "9"
+},
+{
+"id": 34,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "क्या बोली में वैज्ञानिक साहित्य मिल सकता है? कारण दें।   Can scientific literature be found in a dialect? Give reasons.",
+"answer": "नहीं, बोली में वैज्ञानिक और तकनीकी साहित्य नहीं मिलता क्योंकि इसका स्वरूप मानक नहीं होता और यह एक छोटे क्षेत्र तक सीमित रहती है।   No, scientific and technical literature is not found in a dialect because its form is not standardized and it remains limited to a small area.",
+"keywords": [
+"मानक   Standard",
+"वैज्ञानिक   Scientific",
+"सीमित   Limited"
+],
+"explanation": "वैज्ञानिक साहित्य के लिए एक विस्तृत और सर्वमान्य भाषा की आवश्यकता होती है, जो केवल विकसित भाषाओं में संभव है।   Scientific literature requires a wide and universally accepted language, which is only possible in developed languages.",
+"page_number": "7"
+},
+{
+"id": 35,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि and व्याकरण",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "हिंदी को 'राष्ट्रभाषा' का गौरव किसने प्रदान किया?   Who gave the pride of 'National Language' to Hindi?",
+"answer": "महात्मा गांधी, सुभाषचंद्र बोस और बाल गंगाधर तिलक जैसे स्वतंत्रता सेनानियों ने हिंदी को 'राष्ट्रभाषा' का गौरव प्रदान किया।   Freedom fighters like Mahatma Gandhi, Subhash Chandra Bose, and Bal Gangadhar Tilak gave the pride of 'National Language' to Hindi.",
+"keywords": [
+"राष्ट्रभाषा   National Language",
+"स्वतंत्रता सेनानी   Freedom fighters",
+"गौरव   Pride"
+],
+"explanation": "स्वतंत्रता संग्राम के दौरान हिंदी ने पूरे देश को जोड़ने का काम किया था।   During the freedom struggle, Hindi worked to unite the entire country.",
+"page_number": "8"
+},
+{
+"id": 36,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 40
+},
+"question": "हिंदी भाषा की लोकप्रियता का एक मुख्य कारण क्या है?   What is one main reason for the popularity of the Hindi language?",
+"answer": "हिंदी फिल्मों और दूरदर्शन ने हिंदी की लोकप्रियता में बहुत बड़ा योगदान दिया है, जिससे इसे बोलने और समझने वाले बढ़े हैं।   Hindi films and television have contributed greatly to the popularity of Hindi, increasing those who speak and understand it.",
+"keywords": [
+"लोकप्रियता   Popularity",
+"दूरदर्शन   Television",
+"फ़िल्में   Films"
+],
+"explanation": "मनोरंजन के इन साधनों के माध्यम से हिंदी हर घर और क्षेत्र तक पहुँच गई है।   Through these means of entertainment, Hindi has reached every home and region.",
+"page_number": "8"
+},
+{
+"id": 37,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 40
+},
+"question": "फ्रांसीसी और जर्मन भाषाओं की लिपियों के नाम लिखें।   Write the names of the scripts of French and German languages.",
+"answer": "फ्रांसीसी भाषा की लिपि रोमन है और जर्मन भाषा की लिपि भी रोमन है।   The script of the French language is Roman and the script of the German language is also Roman.",
+"keywords": [
+"फ्रांसीसी   French",
+"जर्मन   German",
+"रोमन   Roman"
+],
+"explanation": "यूरोप की कई प्रमुख भाषाएँ रोमन लिपि में ही लिखी जाती हैं।   Many major languages of Europe are written in the Roman script.",
+"page_number": "9"
+},
+{
+"id": 38,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 15,
+"max": 30
+},
+"question": "विराम-चिह्नों का व्याकरण में क्या स्थान है?   What is the place of punctuation marks in grammar?",
+"answer": "विराम-चिह्न वाक्य-विचार का हिस्सा हैं, जो भाषा में अर्थ की स्पष्टता और सही ठहराव लाने में मदद करते हैं।   Punctuation marks are part of syntax, which help in bringing clarity of meaning and correct pauses in the language.",
+"keywords": [
+"विराम-चिह्न   Punctuation marks",
+"स्पष्टता   Clarity",
+"वाक्य-विचार   Syntax"
+],
+"explanation": "बिना विराम-चिह्नों के वाक्य का अर्थ बदल सकता है या वह अस्पष्ट रह सकता है।   Without punctuation marks, the meaning of a sentence can change or it may remain unclear.",
+"page_number": "10"
+},
+{
+"id": 39,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 15,
+"max": 30
+},
+"question": "आंध्र प्रदेश और कर्नाटक की भाषाओं के नाम लिखें।   Write the names of the languages of Andhra Pradesh and Karnataka.",
+"answer": "आंध्र प्रदेश की मुख्य भाषा तेलुगु है और कर्नाटक की मुख्य भाषा कन्नड़ है।   The main language of Andhra Pradesh is Telugu and the main language of Karnataka is Kannada.",
+"keywords": [
+"आंध्र प्रदेश   Andhra Pradesh",
+"तेलुगु   Telugu",
+"कन्नड़   Kannada"
+],
+"explanation": "दक्षिण भारत के इन राज्यों की अपनी समृद्ध भाषाएँ और लिपियाँ हैं।   These states of South India have their own rich languages and scripts.",
+"page_number": "9"
+},
+{
+"id": 40,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 15,
+"max": 30
+},
+"question": "केरल और बंगाल की लिपियों के नाम क्या हैं?   What are the names of the scripts of Kerala and Bengal?",
+"answer": "केरल में मलयालम लिपि का प्रयोग होता है और बंगाल में बंगाली लिपि का प्रयोग किया जाता है।   Malayalam script is used in Kerala and Bengali script is used in Bengal.",
+"keywords": [
+"मलयालम   Malayalam",
+"बंगाली   Bengali",
+"लिपि   Script"
+],
+"explanation": "ये लिपियाँ अपनी-अपनी भाषाओं के विशिष्ट ध्वनियों को व्यक्त करने के लिए विकसित की गई हैं।   These scripts have been developed to express the specific sounds of their respective languages.",
+"page_number": "9"
+},
+{
+"id": 41,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "भाषा की परिभाषा देते हुए उसके भेदों को स्पष्ट कीजिए।   Define language and clarify its types.",
+"answer": "भाषा वह साधन है जिसके द्वारा मनुष्य अपने विचारों का आदान-प्रदान करता है। इसके दो भेद हैं: १. मौखिक भाषा - बोलकर व्यक्त करना। २. लिखित भाषा - लिखकर प्रकट करना।   Language is the medium through which humans exchange their thoughts. It has two types: 1. Oral language - expressing by speaking. 2. Written language - expressing by writing.",
+"keywords": [
+"परिभाषा   Definition",
+"साधन   Medium",
+"भेद   Types"
+],
+"explanation": "भाषा मनुष्य की सामाजिक आवश्यकता है जिससे वह समाज में जुड़ता है।   Language is a social necessity of humans through which they connect with society.",
+"page_number": "7"
+},
+{
+"id": 42,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 35,
+"max": 55
+},
+"question": "हिंदी भाषा के महत्त्व पर संक्षिप्त टिप्पणी लिखिए।   Write a brief note on the importance of the Hindi language.",
+"answer": "हिंदी भारत की राजभाषा है और सबसे अधिक बोली जाने वाली भाषा है। यह एकता का सूत्र है और स्वतंत्रता सेनानियों ने इसे राष्ट्रभाषा का गौरव दिया है।   Hindi is the official language of India and is the most spoken language. It is a thread of unity and freedom fighters gave it the pride of being the national language.",
+"keywords": [
+"महत्त्व   Importance",
+"राजभाषा   Official language",
+"एकता   Unity"
+],
+"explanation": "हिंदी न केवल भारत में बल्कि अंतरराष्ट्रीय स्तर पर भी अपनी पहचान बना रही है।   Hindi is making its mark not only in India but also at the international level.",
+"page_number": "8"
+},
+{
+"id": 43,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 35,
+"max": 55
+},
+"question": "लिपि और वर्ण में क्या अंतर है?   What is the difference between script and letters?",
+"answer": "वर्ण भाषा की सबसे छोटी इकाई या ध्वनि है। इन ध्वनियों या वर्णों को लिखने के लिए जिन निश्चित चिह्नों का प्रयोग किया जाता है, उन्हें लिपि कहते हैं।   A letter is the smallest unit or sound of a language. The fixed signs used to write these sounds or letters are called script.",
+"keywords": [
+"वर्ण   Letter",
+"इकाई   Unit",
+"लिपि   Script"
+],
+"explanation": "वर्ण मौखिक ध्वनि का प्रतीक है, जबकि लिपि उस प्रतीक को लिखने का ढंग है।   A letter is a symbol of an oral sound, whereas a script is the method of writing that symbol.",
+"page_number": "8"
+},
+{
+"id": 44,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "भाषा और बोली में तीन मुख्य अंतर बताइए।   State three main differences between language and dialect.",
+"answer": "१. भाषा का क्षेत्र व्यापक होता है, बोली का सीमित। २. भाषा में साहित्य रचना होती है, बोली में लोकगीत-लोककथाएँ होती हैं। ३. भाषा का रूप मानक होता है, बोली का नहीं।   1. Language has a broad area, dialect has a limited one. 2. Literature is created in language, folk songs/stories are in dialect. 3. Language has a standard form, dialect does not.",
+"keywords": [
+"व्यापक   Broad",
+"मानक   Standard",
+"साहित्य   Literature"
+],
+"explanation": "बोली किसी भाषा का ही एक प्रारंभिक और क्षेत्रीय रूप होती है।   Dialect is an initial and regional form of a language itself.",
+"page_number": "7"
+},
+{
+"id": 45,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "व्याकरण का ज्ञान क्यों आवश्यक है? सोदाहरण स्पष्ट करें।   Why is knowledge of grammar necessary? Explain with examples.",
+"answer": "व्याकरण हमें भाषा के शुद्ध नियमों का ज्ञान कराता है। उदाहरण के लिए, 'लड़का खाती है' गलत है, व्याकरण हमें सिखाता है कि सही वाक्य 'लड़का खाता है' होगा।   Grammar gives us knowledge of the correct rules of language. For example, 'The boy eats (female form)' is wrong; grammar teaches us that the correct sentence is 'The boy eats (male form)'.",
+"keywords": [
+"शुद्ध नियम   Correct rules",
+"सोदाहरण   With example",
+"गठन   Formation"
+],
+"explanation": "बिना व्याकरण के हम शब्दों और वाक्यों का सही तालमेल नहीं बिठा सकते।   Without grammar, we cannot establish the correct harmony between words and sentences.",
+"page_number": "9"
+},
+{
+"id": 46,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "विश्व स्तर पर हिंदी की क्या स्थिति है?   What is the status of Hindi at the global level?",
+"answer": "हिंदी विश्व के कई देशों में बोली और समझी जाती है। इसे संयुक्त राष्ट्र संघ की भाषा बनाने के प्रयास किए जा रहे हैं और कई विदेशी विश्वविद्यालयों में हिंदी पढ़ाई जाती है।   Hindi is spoken and understood in many countries of the world. Efforts are being made to make it a language of the United Nations, and Hindi is taught in many foreign universities.",
+"keywords": [
+"विश्व स्तर   Global level",
+"संयुक्त राष्ट्र संघ   United Nations",
+"लोकप्रियता   Popularity"
+],
+"explanation": "आज हिंदी केवल भारत तक सीमित नहीं है बल्कि यह भारतीयता की वैश्विक पहचान बन गई है।   Today, Hindi is not limited to India but has become a global identity of Indianness.",
+"page_number": "8"
+},
+{
+"id": 47,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "व्याकरण के तीन विभागों का संक्षेप में वर्णन कीजिए।   Briefly describe the three divisions of grammar.",
+"answer": "१. वर्ण-विचार: वर्णों के आकार और उच्चारण का अध्ययन। २. शब्द-विचार: शब्दों के रूप और भेदों का अध्ययन। ३. वाक्य-विचार: वाक्यों के प्रकार और गठन का अध्ययन।   1. Phonology: Study of shape and pronunciation of letters. 2. Morphology: Study of forms and types of words. 3. Syntax: Study of types and formation of sentences.",
+"keywords": [
+"वर्ण-विचार   Phonology",
+"शब्द-विचार   Morphology",
+"वाक्य-विचार   Syntax"
+],
+"explanation": "ये तीनों विभाग मिलकर भाषा को व्यवस्थित और शुद्ध बनाते हैं।   These three divisions together make the language organized and pure.",
+"page_number": "10"
+},
+{
+"id": 48,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 35,
+"max": 55
+},
+"question": "देवनागरी लिपि की किन्हीं तीन विशेषताओं का उल्लेख कीजिए।   Mention any three characteristics of the Devnagari script.",
+"answer": "१. यह प्राचीन ब्राह्मी लिपि से विकसित हुई है। २. इसमें हिंदी के अलावा संस्कृत और मराठी जैसी भाषाएँ भी लिखी जाती हैं। ३. इसे 'नागरी' लिपि भी कहा जाता है।   1. It developed from the ancient Brahmi script. 2. Besides Hindi, languages like Sanskrit and Marathi are also written in it. 3. It is also called 'Nagari' script.",
+"keywords": [
+"ब्राह्मी   Brahmi",
+"संस्कृत   Sanskrit",
+"नागरी   Nagari"
+],
+"explanation": "देवनागरी भारत की सबसे लोकप्रिय और वैज्ञानिक लिपियों में से एक मानी जाती है।   Devnagari is considered one of the most popular and scientific scripts of India.",
+"page_number": "9"
+},
+{
+"id": 49,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "हिंदी को भारत की 'संपर्क भाषा' क्यों कहा जाता है?   Why is Hindi called the 'link language' of India?",
+"answer": "हिंदी भारत में सबसे अधिक बोली और समझी जाती है। यह अलग-अलग भाषा-भाषी लोगों के बीच बातचीत का माध्यम बनती है, इसलिए इसे संपर्क भाषा कहा जाता है।   Hindi is the most spoken and understood in India. It becomes a medium of conversation between people speaking different languages; hence, it is called the link language.",
+"keywords": [
+"संपर्क भाषा   Link language",
+"माध्यम   Medium",
+"एकता   Unity"
+],
+"explanation": "भारत जैसे बहुभाषी देश में हिंदी लोगों को जोड़ने का सबसे सशक्त माध्यम है।   In a multilingual country like India, Hindi is the most powerful medium to connect people.",
+"page_number": "8"
+},
+{
+"id": 50,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "क्या इंटरनेट पर हिंदी का प्रयोग आसान हो गया है? कैसे?   Has the use of Hindi on the internet become easy? How?",
+"answer": "हाँ, तकनीकी विकास से इंटरनेट पर हिंदी का प्रयोग बढ़ा है। अब ईमेल करना, वेबसाइटों से सूचना प्राप्त करना और सोशल मीडिया पर हिंदी में विचार व्यक्त करना बहुत आसान हो गया है।   Yes, with technical development, the use of Hindi on the internet has increased. Now, emailing, getting information from websites, and expressing thoughts on social media in Hindi has become very easy.",
+"keywords": [
+"इंटरनेट   Internet",
+"ईमेल   Email",
+"तकनीकी विकास   Technical development"
+],
+"explanation": "सूचना प्रौद्योगिकी के युग में हिंदी अब डिजिटल माध्यमों पर भी प्रमुखता से छाई हुई है।   In the age of information technology, Hindi is now prominently featured on digital media as well.",
+"page_number": "10"
+},
+{
+"id": 51,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "अवधी और ब्रज बोलियों के भाषा बनने की यात्रा स्पष्ट करें।   Explain the journey of Awadhi and Braj dialects becoming languages.",
+"answer": "अवधी और ब्रज मध्यकाल में बोलियाँ थीं। जब तुलसीदास ने अवधी में और सूरदास ने ब्रज में महान साहित्य रचा, तो ये समृद्ध होकर भाषाओं के रूप में जानी जाने लगीं।   Awadhi and Braj were dialects in the medieval period. When Tulsidas created great literature in Awadhi and Surdas in Braj, they became enriched and known as languages.",
+"keywords": [
+"मध्यकाल   Medieval period",
+"साहित्य रचना   Literary creation",
+"समृद्ध   Enriched"
+],
+"explanation": "किसी भी बोली की साहित्यिक शक्ति ही उसे भाषा का दर्जा दिलाने में सहायक होती है।   The literary power of any dialect helps it in gaining the status of a language.",
+"page_number": "7"
+},
+{
+"id": 52,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 65
+},
+"question": "किन्हीं तीन विदेशी भाषाओं और उनकी लिपियों के नाम तालिका सहित लिखें।   Write the names of any three foreign languages and their scripts with a table.",
+"answer": "१. अंग्रेजी - रोमन २. चीनी - चीनी (चित्र लिपि) ३. अरबी - अरबी। ये भाषाएँ विश्व के विभिन्न देशों में अपनी विशिष्ट लिपियों में लिखी जाती हैं।   1. English - Roman 2. Chinese - Chinese (Pictographic) 3. Arabic - Arabic. These languages are written in their specific scripts in different countries of the world.",
+"keywords": [
+"विदेशी भाषाएँ   Foreign languages",
+"रोमन   Roman",
+"चित्र लिपि   Pictographic script"
+],
+"explanation": "विश्व में विभिन्न भाषाएँ प्रचलित हैं जिनकी लिपियाँ भी विविधतापूर्ण हैं।   Various languages are prevalent in the world whose scripts are also diverse.",
+"page_number": "9"
+},
+{
+"id": 53,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "भारतीय संविधान की आठवीं अनुसूची का महत्त्व क्या है?   What is the importance of the Eighth Schedule of the Indian Constitution?",
+"answer": "आठवीं अनुसूची में भारत की २२ प्रमुख भाषाओं को आधिकारिक मान्यता दी गई है। यह भारत की भाषाई विविधता को सम्मान और संरक्षण प्रदान करती है।   In the Eighth Schedule, 22 major languages of India have been given official recognition. It provides respect and protection to India's linguistic diversity.",
+"keywords": [
+"आठवीं अनुसूची   Eighth Schedule",
+"२२ भाषाएँ   22 languages",
+"मान्यता   Recognition"
+],
+"explanation": "यह अनुसूची सुनिश्चित करती है कि देश की विभिन्न भाषाओं को उचित संवैधानिक महत्त्व मिले।   This schedule ensures that the different languages of the country get proper constitutional importance.",
+"page_number": "8"
+},
+{
+"id": 54,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "लिखित भाषा मौखिक भाषा से अधिक स्थायी क्यों होती है?   Why is written language more permanent than oral language?",
+"answer": "मौखिक भाषा बोलकर खत्म हो जाती है, जबकि लिखित भाषा को पुस्तकों और दस्तावेजों में वर्षों तक सुरक्षित रखा जा सकता है। यह आने वाली पीढ़ियों के लिए ज्ञान का स्रोत बनती है।   Oral language ends by speaking, whereas written language can be kept safe in books and documents for years. It becomes a source of knowledge for future generations.",
+"keywords": [
+"स्थायी   Permanent",
+"दस्तावेज   Documents",
+"सुरक्षित   Safe"
+],
+"explanation": "लिखित रूप ही साहित्य और इतिहास को जीवित रखने का एकमात्र साधन है।   The written form is the only medium to keep literature and history alive.",
+"page_number": "7"
+},
+{
+"id": 55,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "खड़ी बोली से आधुनिक हिंदी बनने की प्रक्रिया क्या रही?   What was the process of Khadi Boli becoming modern Hindi?",
+"answer": "खड़ी बोली पहले एक क्षेत्रीय बोली थी। मध्यकाल के बाद धीरे-धीरे यह परिष्कृत हुई और इसमें मानक साहित्य लिखा जाने लगा। अंततः इसने आधुनिक हिंदी का रूप ले लिया।   Khadi Boli was initially a regional dialect. After the medieval period, it gradually became refined and standard literature began to be written in it. Finally, it took the form of modern Hindi.",
+"keywords": [
+"परिष्कृत   Refined",
+"मानक साहित्य   Standard literature",
+"प्रक्रिया   Process"
+],
+"explanation": "किसी बोली का व्याकरण सम्मत और सर्वमान्य होना उसे भाषा बना देता है।   A dialect being grammatically correct and universally accepted makes it a language.",
+"page_number": "7"
+},
+{
+"id": 56,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 65
+},
+"question": "व्याकरण हमें अशुद्धियों के प्रति कैसे जागरूक करता है?   How does grammar make us aware of errors?",
+"answer": "व्याकरण हमें लिंग, वचन, काल और पुरुष के सही प्रयोग के नियम सिखाता है। इससे हम वाक्यों में होने वाली व्याकरणिक गलतियों को पहचान सकते हैं और भाषा को शुद्ध कर सकते हैं।   Grammar teaches us the rules for the correct use of gender, number, tense, and person. Through this, we can identify grammatical mistakes in sentences and purify the language.",
+"keywords": [
+"जागरूक   Aware",
+"नियम   Rules",
+"व्याकरणिक गलतियाँ   Grammatical mistakes"
+],
+"explanation": "व्याकरण भाषा का पहरेदार है जो उसे गलत दिशा में जाने से रोकता है।   Grammar is the guardian of language that prevents it from going in the wrong direction.",
+"page_number": "9"
+},
+{
+"id": 57,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "ईरान की मुख्य भाषा क्या है?   What is the main language of Iran?",
+"answer": "ईरान की मुख्य भाषा फ़ारसी है।   The main language of Iran is Persian.",
+"keywords": [
+"ईरान   Iran",
+"फ़ारसी   Persian"
+],
+"explanation": "विदेशी भाषाओं की तालिका के अनुसार ईरान में फ़ारसी भाषा बोली जाती है।   According to the foreign languages table, the Persian language is spoken in Iran.",
+"page_number": "9"
+},
+{
+"id": 58,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "फ्रांस की भाषा और लिपि का नाम लिखें।   Write the name of the language and script of France.",
+"answer": "फ्रांस की भाषा फ्रांसीसी है और इसकी लिपि रोमन है।   The language of France is French and its script is Roman.",
+"keywords": [
+"फ्रांसीसी   French",
+"रोमन   Roman"
+],
+"explanation": "यूरोपीय देश फ्रांस में फ्रांसीसी भाषा बोली जाती है जो रोमन लिपि में लिखी जाती है।   The French language is spoken in the European country France, which is written in the Roman script.",
+"page_number": "9"
+},
+{
+"id": 59,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "मराठी भाषा किस लिपि में लिखी जाती है?   In which script is the Marathi language written?",
+"answer": "मराठी भाषा देवनागरी लिपि में लिखी जाती है।   The Marathi language is written in the Devnagari script.",
+"keywords": [
+"मराठी   Marathi",
+"देवनागरी   Devnagari"
+],
+"explanation": "महाराष्ट्र की मुख्य भाषा मराठी के लिए देवनागरी लिपि का प्रयोग होता है।   The Devnagari script is used for Marathi, the main language of Maharashtra.",
+"page_number": "9"
+},
+{
+"id": 60,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "तमिलनाडु की प्रमुख भाषा क्या है?   What is the major language of Tamil Nadu?",
+"answer": "तमिलनाडु की प्रमुख भाषा तमिल है।   The major language of Tamil Nadu is Tamil.",
+"keywords": [
+"तमिलनाडु   Tamil Nadu",
+"तमिल   Tamil"
+],
+"explanation": "भारत के दक्षिणी राज्य तमिलनाडु में तमिल भाषा बोली जाती है।   The Tamil language is spoken in the southern Indian state of Tamil Nadu.",
+"page_number": "9"
+},
+{
+"id": 61,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "मध्य-पूर्व के देशों में कौन-सी भाषा प्रचलित है?   Which language is prevalent in the Middle-East countries?",
+"answer": "मध्य-पूर्व के देशों में अरबी भाषा प्रचलित है।   The Arabic language is prevalent in the Middle-East countries.",
+"keywords": [
+"मध्य-पूर्व   Middle-East",
+"अरबी   Arabic"
+],
+"explanation": "तालिका के अनुसार अरबी भाषा मध्य-पूर्व के कई देशों की मुख्य भाषा है।   According to the table, the Arabic language is the main language of many Middle-East countries.",
+"page_number": "9"
+},
+{
+"id": 62,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "स्पेन की भाषा और लिपि क्या है?   What is the language and script of Spain?",
+"answer": "स्पेन की भाषा स्पेनिश है और लिपि रोमन है।   The language of Spain is Spanish and the script is Roman.",
+"keywords": [
+"स्पेनिश   Spanish",
+"रोमन   Roman"
+],
+"explanation": "विदेशी भाषाओं की सूची के अनुसार स्पेन में स्पेनिश भाषा रोमन लिपि में लिखी जाती है।   According to the list of foreign languages, Spanish is written in the Roman script in Spain.",
+"page_number": "9"
+},
+{
+"id": 63,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "कोंकणी भाषा किस क्षेत्र में बोली जाती है?   In which region is the Konkani language spoken?",
+"answer": "कोंकणी भाषा कोंकण क्षेत्र (जैसे गोवा) में बोली जाती है।   The Konkani language is spoken in the Konkan region (like Goa).",
+"keywords": [
+"कोंकणी   Konkani",
+"कोंकण   Konkan"
+],
+"explanation": "भारत के कोंकण तटीय क्षेत्रों में कोंकणी भाषा का प्रयोग किया जाता है।   The Konkani language is used in the Konkan coastal regions of India.",
+"page_number": "9"
+},
+{
+"id": 64,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 10
+},
+"question": "आधुनिक युग किसका युग है?   Whose age is the modern age?",
+"answer": "आज का युग वास्तव में सूचना प्रौद्योगिकी अर्थात कंप्यूटर का युग है।   The today's age is actually the age of information technology, that is, computer.",
+"keywords": [
+"आधुनिक युग   Modern age",
+"कंप्यूटर   Computer"
+],
+"explanation": "आज के समय में तकनीक का हमारे जीवन और भाषा पर गहरा प्रभाव है।   In today's time, technology has a deep impact on our lives and language.",
+"page_number": "10"
+},
+{
+"id": 65,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 80,
+"max": 120
+},
+"question": "भाषा के महत्त्व और उसके दोनों रूपों का विस्तार से वर्णन कीजिए।   Describe the importance of language and its both forms in detail.",
+"answer": "भाषा मनुष्य के लिए अत्यंत महत्त्वपूर्ण है क्योंकि यह विचारों और भावनाओं के आदान-प्रदान का एकमात्र साधन है। इसके बिना समाज का विकास संभव नहीं है। भाषा के दो रूप हैं: १. मौखिक भाषा: इसमें हम बोलकर अपनी बात कहते हैं, जैसे आपसी बातचीत या भाषण। यह भाषा का अस्थायी रूप है। २. लिखित भाषा: इसमें हम लिखकर अपने विचार सुरक्षित रखते हैं, जैसे पत्र या पुस्तकें। यह भाषा का स्थायी रूप है और ज्ञान के प्रसार में सहायक है।   Language is extremely important for humans because it is the only medium for the exchange of thoughts and feelings. Without it, the development of society is not possible. There are two forms of language: 1. Oral language: In this, we say our point by speaking, like mutual conversation or speech. This is the temporary form of language. 2. Written language: In this, we keep our thoughts safe by writing, like letters or books. This is the permanent form of language and is helpful in the dissemination of knowledge.",
+"keywords": [
+"महत्त्व   Importance",
+"मौखिक   Oral",
+"लिखित   Written",
+"आदान-प्रदान   Exchange"
+],
+"explanation": "भाषा ही वह कड़ी है जो मनुष्यों को एक सूत्र में बांधती है और संस्कृति का संरक्षण करती है।   Language is the link that binds humans together and preserves culture.",
+"page_number": "7"
+},
+{
+"id": 66,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 80,
+"max": 120
+},
+"question": "हिंदी भाषा की वैश्विक स्थिति और उसके प्रसार के कारणों पर प्रकाश डालिए।   Highlight the global status of the Hindi language and the reasons for its spread.",
+"answer": "हिंदी आज केवल भारत तक सीमित नहीं है, बल्कि यह एक वैश्विक भाषा बन गई है। मॉरीशस, फ़िजी, त्रिनिदाद जैसे देशों में हिंदी बोलने वालों की संख्या बहुत अधिक है। इसके प्रसार के मुख्य कारण निम्नलिखित हैं: १. हिंदी फिल्में और दूरदर्शन के कार्यक्रम। २. विदेशों में बड़ी संख्या में भारतीयों का बसना। ३. इंटरनेट और सोशल मीडिया पर हिंदी का बढ़ता प्रयोग। ४. अंतरराष्ट्रीय स्तर पर संयुक्त राष्ट्र की भाषा बनाने के प्रयास। इन कारणों से हिंदी की लोकप्रियता निरंतर बढ़ रही है।   Today Hindi is not limited to India only, rather it has become a global language. The number of Hindi speakers is very high in countries like Mauritius, Fiji, Trinidad. The main reasons for its spread are as follows: 1. Hindi films and television programs. 2. A large number of Indians settling abroad. 3. Increasing use of Hindi on the internet and social media. 4. Efforts to make it a UN language at the international level. For these reasons, the popularity of Hindi is constantly increasing.",
+"keywords": [
+"वैश्विक स्थिति   Global status",
+"प्रसार   Spread",
+"लोकप्रियता   Popularity",
+"डिजिटल माध्यम   Digital media"
+],
+"explanation": "विश्व के कई विश्वविद्यालयों में हिंदी विभाग का होना इसके महत्त्व को दर्शाता है।   The presence of Hindi departments in many universities of the world shows its importance.",
+"page_number": "8"
+},
+{
+"id": 67,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 80,
+"max": 120
+},
+"question": "व्याकरण की परिभाषा देते हुए उसके तीनों अंगों को विस्तारपूर्वक समझाइए।   Define grammar and explain its three parts in detail.",
+"answer": "व्याकरण वह शास्त्र है जो भाषा के शुद्ध नियमों का बोध कराता है। इसके तीन मुख्य अंग हैं: १. वर्ण-विचार: इसमें वर्णों के आकार, उनके भेद और उच्चारण की विधि पर विचार किया जाता है। २. शब्द-विचार: इसके अंतर्गत शब्दों की बनावट, उनके रूप और उत्पत्ति का अध्ययन किया जाता है। ३. वाक्य-विचार: इसमें वाक्यों की संरचना, उनके भेद और विराम-चिह्नों के सही प्रयोग का ज्ञान प्राप्त किया जाता है। ये तीनों अंग मिलकर भाषा को अनुशासित और अर्थपूर्ण बनाते हैं।   Grammar is the science that provides knowledge of the pure rules of language. It has three main parts: 1. Phonology: In this, the shape of letters, their types, and the method of pronunciation are considered. 2. Morphology: Under this, the structure of words, their forms, and origin are studied. 3. Syntax: In this, knowledge of the structure of sentences, their types, and the correct use of punctuation marks is acquired. These three parts together make the language disciplined and meaningful.",
+"keywords": [
+"व्याकरण   Grammar",
+"वर्ण-विचार   Phonology",
+"शब्द-विचार   Morphology",
+"वाक्य-विचार   Syntax"
+],
+"explanation": "व्याकरण का अध्ययन किसी भी भाषा को सही ढंग से सीखने के लिए अनिवार्य है।   The study of grammar is mandatory for learning any language correctly.",
+"page_number": "10"
+},
+{
+"id": 68,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 80,
+"max": 120
+},
+"question": "बोली और भाषा के अंतर को सोदाहरण स्पष्ट कीजिए।   Explain the difference between dialect and language with examples.",
+"answer": "भाषा और बोली में मूलभूत अंतर है। १. क्षेत्र: भाषा का क्षेत्र बहुत बड़ा होता है, जबकि बोली एक सीमित क्षेत्र में बोली जाती है। २. साहित्य: भाषा में समृद्ध साहित्यिक भंडार होता है, जबकि बोली में केवल लोकगीत या मौखिक परंपराएँ होती हैं। ३. मानक रूप: भाषा का अपना एक मानक व्याकरण और लिखित स्वरूप होता है, बोली स्थानीय स्तर पर भिन्न हो सकती है। उदाहरण: हिंदी एक भाषा है क्योंकि इसका प्रयोग पूरे देश में होता है और इसमें वैज्ञानिक साहित्य है। ब्रज या अवधी पहले बोलियाँ थीं, लेकिन तुलसीदास और सूरदास की रचनाओं के कारण ये भाषाएँ बन गईं।   There is a fundamental difference between language and dialect. 1. Area: The area of a language is very large, while a dialect is spoken in a limited area. 2. Literature: Language has a rich literary store, while a dialect has only folk songs or oral traditions. 3. Standard form: Language has its own standard grammar and written format; a dialect may vary locally. Example: Hindi is a language because it is used across the country and has scientific literature. Braj or Awadhi were initially dialects, but they became languages due to the works of Tulsidas and Surdas.",
+"keywords": [
+"सीमित क्षेत्र   Limited area",
+"मानक   Standard",
+"साहित्यिक भंडार   Literary store",
+"लोकगीत   Folk songs"
+],
+"explanation": "बोली के विकसित होने की प्रक्रिया ही उसे भाषा की ओर ले जाती है।   The process of a dialect developing itself leads it towards becoming a language.",
+"page_number": "7"
+},
+{
+"id": 69,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 85,
+"max": 125
+},
+"question": "स्वतंत्रता आंदोलन में हिंदी की भूमिका और उसके संवैधानिक दर्जे पर एक निबंधनुमा उत्तर लिखें।   Write an essay-like answer on the role of Hindi in the freedom movement and its constitutional status.",
+"answer": "स्वतंत्रता आंदोलन के दौरान हिंदी ने पूरे भारत को एकता के सूत्र में पिरोने का काम किया। महात्मा गांधी, सुभाषचंद्र बोस और तिलक जैसे नेताओं ने हिंदी को राष्ट्र की आवाज़ बनाने पर बल दिया। स्वतंत्रता के बाद, १४ सितंबर १९४९ को भारतीय संविधान में हिंदी को संघ की राजभाषा का दर्जा दिया गया। संविधान की आठवीं अनुसूची में हिंदी के साथ २२ अन्य भाषाओं को भी मान्यता मिली। आज हिंदी भारत की राजभाषा होने के साथ-साथ करोड़ों लोगों के संवाद का सशक्त माध्यम है। प्रतिवर्ष १४ सितंबर को 'हिंदी दिवस' इसी ऐतिहासिक निर्णय की याद में मनाया जाता है।   During the freedom movement, Hindi worked to weave the whole of India into a thread of unity. Leaders like Mahatma Gandhi, Subhash Chandra Bose, and Tilak emphasized making Hindi the voice of the nation. After independence, on September 14, 1949, Hindi was given the status of official language of the Union in the Indian Constitution. Along with Hindi, 22 other languages also got recognition in the Eighth Schedule of the Constitution. Today, besides being the official language of India, Hindi is a powerful medium of communication for millions of people. Every year, September 14 is celebrated as 'Hindi Diwas' in memory of this historical decision.",
+"keywords": [
+"स्वतंत्रता आंदोलन   Freedom movement",
+"राजभाषा   Official language",
+"संविधान   Constitution",
+"एकता   Unity"
+],
+"explanation": "हिंदी ने राष्ट्र के एकीकरण में एक सेतु की भूमिका निभाई है।   Hindi has played the role of a bridge in the integration of the nation.",
+"page_number": "8"
+},
+{
+"id": 70,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 80,
+"max": 120
+},
+"question": "भारत की भाषाई विविधता और विभिन्न राज्यों की भाषाओं व लिपियों का विवरण दीजिए।   Give a description of India's linguistic diversity and the languages and scripts of different states.",
+"answer": "भारत एक भाषाई विविधता वाला देश है जहाँ हर क्षेत्र की अपनी भाषा और लिपि है। उत्तर भारत में हिंदी (देवनागरी) प्रमुख है। पंजाब में पंजाबी (गुरुमुखी), असम में असमिया (असमिया), बंगाल में बंगाली (बंगाली) और ओड़िशा में ओड़िया (ओड़िया) भाषाएँ बोली जाती हैं। दक्षिण भारत में कर्नाटक की कन्नड़ (कन्नड़), तमिलनाडु की तमिल (तमिल), आंध्र प्रदेश की तेलुगु (तेलुगु) और केरल की मलयालम (मलयालम) लिपियाँ अपनी विशिष्टता रखती हैं। उर्दू के लिए फ़ारसी लिपि का प्रयोग होता है। यह विविधता भारतीय संस्कृति की समृद्धि को दर्शाती है, जिसे संविधान ने २२ भाषाओं को मान्यता देकर संरक्षित किया है।   India is a linguistically diverse country where every region has its own language and script. Hindi (Devnagari) is prominent in North India. Punjabi (Gurmukhi) in Punjab, Assamese (Assamese) in Assam, Bengali (Bengali) in Bengal, and Odia (Odia) in Odisha are spoken. In South India, Kannada (Kannada) of Karnataka, Tamil (Tamil) of Tamil Nadu, Telugu (Telugu) of Andhra Pradesh, and Malayalam (Malayalam) of Kerala have their own uniqueness. The Persian script is used for Urdu. This diversity shows the richness of Indian culture, which the constitution has preserved by recognizing 22 languages.",
+"keywords": [
+"विविधता   Diversity",
+"लिपि   Script",
+"समृद्धि   Richness",
+"क्षेत्रीय भाषाएँ   Regional languages"
+],
+"explanation": "भारत की भाषाई विविधता इसे विश्व में एक अनूठी पहचान प्रदान करती है।   India's linguistic diversity provides it a unique identity in the world.",
+"page_number": "9"
+},
+{
+"id": 71,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 85,
+"max": 130
+},
+"question": "सूचना प्रौद्योगिकी के युग में हिंदी की प्रासंगिकता पर अपने विचार लिखें।   Write your views on the relevance of Hindi in the age of information technology.",
+"answer": "आज का युग कंप्यूटर और सूचना प्रौद्योगिकी का युग है। प्रारंभ में कंप्यूटर पर केवल अंग्रेजी का बोलबाला था, लेकिन अब हिंदी की प्रासंगिकता बहुत बढ़ गई है। इंटरनेट पर हिंदी वेबसाइटों की संख्या निरंतर बढ़ रही है। लोग पारंपरिक पत्र-लेखन के स्थान पर ईमेल और सोशल मीडिया का प्रयोग हिंदी में करने लगे हैं। ई-कॉमर्स कंपनियाँ भी अपना व्यवसाय बढ़ाने के लिए हिंदी का उपयोग कर रही हैं। यह माध्यम बहुत तेज़, किफ़ायती और सुरक्षित है। सूचना प्रौद्योगिकी के कारण हिंदी अब ज्ञान-विज्ञान की भाषा के रूप में भी उभर रही है, जिससे युवाओं के बीच इसकी लोकप्रियता बढ़ी है।   Today's era is the era of computer and information technology. Initially, English dominated the computer, but now the relevance of Hindi has increased a lot. The number of Hindi websites on the internet is constantly increasing. People have started using email and social media in Hindi instead of traditional letter writing. E-commerce companies are also using Hindi to expand their business. This medium is very fast, economical, and safe. Due to information technology, Hindi is also emerging as a language of knowledge and science, which has increased its popularity among the youth.",
+"keywords": [
+"सूचना प्रौद्योगिकी   Information technology",
+"प्रासंगिकता   Relevance",
+"डिजिटल   Digital",
+"लोकप्रियता   Popularity"
+],
+"explanation": "तकनीक ने हिंदी को एक नया वैश्विक मंच प्रदान किया है।   Technology has provided a new global platform to Hindi.",
+"page_number": "10"
+},
+{
+"id": 72,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 80,
+"max": 120
+},
+"question": "क्या लिपि के बिना भाषा का विकास संभव था? तर्कपूर्ण उत्तर दीजिए।   Was the development of language possible without script? Give a reasoned answer.",
+"answer": "लिपि के बिना भाषा केवल बोलने और सुनने तक सीमित रहती। इसका ऐतिहासिक और साहित्यिक संरक्षण संभव नहीं होता। लिपि ही वह माध्यम है जिससे मौखिक ध्वनियों को लिखित रूप मिला, जिससे ज्ञान को आने वाली पीढ़ियों तक पहुँचाया जा सका। लिपि के बिना सभ्यता का विकास, जटिल प्रशासनिक कार्य और वैज्ञानिक शोध संचित नहीं किए जा सकते थे। लिखित भाषा ही भाषा को मानक रूप और स्थायित्व प्रदान करती है। अतः भाषा के पूर्ण विकास और प्रसार के लिए लिपि का होना अनिवार्य है। इसी के कारण आज हम प्राचीन ग्रंथों और ज्ञान का अध्ययन कर पा रहे हैं।   Without script, language would have remained limited only to speaking and listening. Its historical and literary preservation would not have been possible. Script is the medium through which oral sounds got a written form, through which knowledge could be passed on to future generations. Without script, the development of civilization, complex administrative tasks, and scientific research could not have been accumulated. Written language alone provides the standard form and stability to the language. Therefore, for the complete development and spread of language, the presence of script is mandatory. It is because of this that today we are able to study ancient texts and knowledge.",
+"keywords": [
+"संरक्षण   Preservation",
+"स्थायित्व   Stability",
+"अनिवार्य   Mandatory",
+"सभ्यता   Civilization"
+],
+"explanation": "लिपि ही भाषा को आँखों से देखे जाने वाला स्वरूप प्रदान करती है।   Script provides the language a form that can be seen with the eyes.",
+"page_number": "8"
+},
+{
+"id": 73,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 80,
+"max": 120
+},
+"question": "हिंदी के प्रचार-प्रसार में स्वतंत्रता सेनानियों के योगदान की व्याख्या कीजिए।   Explain the contribution of freedom fighters in the promotion of Hindi.",
+"answer": "स्वतंत्रता सेनानियों ने महसूस किया कि भारत की विविधता को जोड़ने के लिए एक साझा भाषा की आवश्यकता है। महात्मा गांधी ने हिंदी को 'जनमानस की भाषा' कहा और इसे राष्ट्रभाषा बनाने की वकालत की। सुभाषचंद्र बोस ने आज़ाद हिंद फ़ौज में हिंदी का प्रयोग किया। बाल गंगाधर तिलक जैसे नेताओं ने भी अपने आंदोलनों में हिंदी के महत्त्व को रेखांकित किया। इन महापुरुषों के प्रयासों के कारण ही हिंदी पूरे देश की एकता का प्रतीक बनी और अंततः इसे स्वतंत्र भारत की राजभाषा के रूप में संवैधानिक दर्जा प्राप्त हुआ। उनका मानना था कि अपनी भाषा के बिना कोई भी राष्ट्र पूर्णत: स्वतंत्र नहीं हो सकता।   Freedom fighters realized that a common language was needed to connect India's diversity. Mahatma Gandhi called Hindi the 'language of the masses' and advocated making it the national language. Subhash Chandra Bose used Hindi in the Azad Hind Fauj. Leaders like Bal Gangadhar Tilak also highlighted the importance of Hindi in their movements. Due to the efforts of these great men, Hindi became a symbol of the unity of the whole country and finally it got constitutional status as the official language of independent India. They believed that no nation can be completely free without its own language.",
+"keywords": [
+"स्वतंत्रता सेनानी   Freedom fighters",
+"जनमानस   Masses",
+"एकता का प्रतीक   Symbol of unity",
+"योगदान   Contribution"
+],
+"explanation": "हिंदी ने राष्ट्रीय चेतना जगाने में एक महत्त्वपूर्ण हथियार की तरह काम किया।   Hindi worked like an important weapon in awakening national consciousness.",
+"page_number": "8"
+},
+{
+"id": 74,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 70,
+"max": 100
+},
+"question": "व्याकरण के अभाव में भाषा की क्या दशा होगी? सोदाहरण लिखिए।   What will be the condition of language in the absence of grammar? Write with examples.",
+"answer": "व्याकरण के बिना भाषा अव्यवस्थित और अस्पष्ट हो जाएगी। लोग अपनी सुविधानुसार शब्दों और वाक्यों का प्रयोग करेंगे, जिससे संप्रेषण में बाधा आएगी। उदाहरण के लिए, यदि 'कल मैं गया था' के स्थान पर कोई 'गया कल मैं' कहे, तो अर्थ समझने में कठिनाई हो सकती है। लिंग, वचन और काल के नियमों के बिना वाक्य हास्यास्पद बन सकते हैं, जैसे 'माताजी सो रहा है'। अतः व्याकरण ही वह अनुशासन है जो भाषा को सही दिशा, स्पष्टता और शुद्धता प्रदान करता है। बिना इसके भाषा का मानक रूप नष्ट हो जाएगा।   Without grammar, language will become unorganized and unclear. People will use words and sentences according to their convenience, which will hinder communication. For example, if someone says 'went yesterday I' instead of 'I went yesterday', it may be difficult to understand the meaning. Without the rules of gender, number, and tense, sentences can become ridiculous, such as 'Mother is sleeping (male form)'. Therefore, grammar is the discipline that provides correct direction, clarity, and purity to language. Without this, the standard form of language will be destroyed.",
+"keywords": [
+"अव्यवस्थित   Unorganized",
+"अस्पष्ट   Unclear",
+"अनुशासन   Discipline",
+"शुद्धता   Purity"
+],
+"explanation": "व्याकरण भाषा का वह ढांचा है जो उसे बिखरने से बचाता है।   Grammar is that framework of language which prevents it from falling apart.",
+"page_number": "9"
+},
+{
+"id": 75,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 75,
+"max": 115
+},
+"question": "विश्व की प्रमुख भाषाओं और उनकी लिपियों का तुलनात्मक विवरण दें।   Give a comparative description of the major languages of the world and their scripts.",
+"answer": "विश्व में भाषाई विविधता है और हर भाषा की अपनी लिपि है। अधिकांश पश्चिमी भाषाएँ जैसे अंग्रेजी, फ्रांसीसी, जर्मन, इतालवी और स्पेनिश 'रोमन' लिपि में लिखी जाती हैं। मध्य-पूर्व के देशों में अरबी भाषा 'अरबी' लिपि में और ईरान में 'फ़ारसी' लिपि का प्रयोग होता है। पूर्वी एशिया में चीनी भाषा 'चित्र लिपि' में लिखी जाती है, जो कि वर्णमाला से भिन्न है। रूस में 'सिरिलिक' लिपि प्रचलित है। भारत की हिंदी और संस्कृत 'देवनागरी' में लिखी जाती हैं। यह तुलना दर्शाती है कि जहाँ कुछ लिपियाँ कई भाषाओं द्वारा साझा की जाती हैं, वहीं कुछ लिपियाँ अत्यंत विशिष्ट और भौगोलिक रूप से सीमित हैं।   There is linguistic diversity in the world and every language has its own script. Most Western languages such as English, French, German, Italian, and Spanish are written in the 'Roman' script. In Middle-Eastern countries, the Arabic language uses the 'Arabic' script and in Iran the 'Persian' script is used. In East Asia, the Chinese language is written in 'Pictographic script', which is different from an alphabet. In Russia, the 'Cyrillic' script is prevalent. India's Hindi and Sanskrit are written in 'Devnagari'. This comparison shows that while some scripts are shared by many languages, some scripts are extremely specific and geographically limited.",
+"keywords": [
+"तुलनात्मक   Comparative",
+"रोमन   Roman",
+"विविधता   Diversity",
+"चित्र लिपि   Pictographic script"
+],
+"explanation": "लिपियाँ न केवल ध्वनियों को व्यक्त करती हैं बल्कि उस समाज की सांस्कृतिक पहचान भी होती हैं।   Scripts not only express sounds but are also the cultural identity of that society.",
+"page_number": "9"
+},
+{
+"id": 76,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 35,
+"max": 55
+},
+"question": "हिंदी के व्यवहार क्षेत्र का विस्तार कहाँ तक है?   To what extent is the reach of Hindi's usage?",
+"answer": "हिंदी का व्यवहार क्षेत्र भारत तक ही सीमित नहीं है। यह मॉरीशस, फ़िजी, सूरीनाम जैसे देशों में बहुतायत में बोली जाती है। पड़ोसी देशों जैसे नेपाल, श्रीलंका और पाकिस्तान में भी इसके समझने वाले बड़ी संख्या में हैं।   The field of usage of Hindi is not limited to India only. It is spoken abundantly in countries like Mauritius, Fiji, Suriname. There is also a large number of people who understand it in neighboring countries like Nepal, Sri Lanka, and Pakistan.",
+"keywords": [
+"व्यवहार क्षेत्र   Usage area",
+"पड़ोसी देश   Neighboring countries",
+"बहुतायत   Abundance"
+],
+"explanation": "आज हिंदी अंतरराष्ट्रीय मंचों पर एक सशक्त भाषा के रूप में उभर चुकी है।   Today Hindi has emerged as a powerful language on international forums.",
+"page_number": "8"
+},
+{
+"id": 77,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "क्या सभी भाषाओं की लिपियाँ अलग-अलग होती हैं? स्पष्ट कीजिए।   Do all languages have different scripts? Explain.",
+"answer": "नहीं, कई भाषाएँ एक ही लिपि को साझा कर सकती हैं। उदाहरण के लिए, हिंदी, संस्कृत, मराठी और नेपाली सभी देवनागरी लिपि में लिखी जाती हैं। इसी तरह अंग्रेजी, जर्मन और फ्रांसीसी रोमन लिपि का प्रयोग करती हैं।   No, many languages can share the same script. For example, Hindi, Sanskrit, Marathi, and Nepali are all written in the Devnagari script. Similarly, English, German, and French use the Roman script.",
+"keywords": [
+"साझा   Share",
+"देवनागरी   Devnagari",
+"रोमन   Roman"
+],
+"explanation": "एक ही लिपि विभिन्न भाषाओं की ध्वनियों को व्यक्त करने में सक्षम हो सकती है।   A single script can be capable of expressing the sounds of different languages.",
+"page_number": "9"
+},
+{
+"id": 78,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 35,
+"max": 55
+},
+"question": "भाषा के मानक रूप से आप क्या समझते हैं?   What do you understand by the standard form of a language?",
+"answer": "भाषा का वह रूप जो शिक्षित समाज द्वारा स्वीकार किया जाता है और व्याकरण सम्मत होता है, उसे मानक रूप कहते हैं। यह पुस्तकों, समाचार पत्रों और शिक्षा में प्रयुक्त होता है।   That form of language which is accepted by the educated society and is grammatically correct is called the standard form. It is used in books, newspapers, and education.",
+"keywords": [
+"मानक रूप   Standard form",
+"व्याकरण सम्मत   Grammatically correct",
+"शिक्षित समाज   Educated society"
+],
+"explanation": "मानक रूप ही भाषा में एकरूपता और स्थिरता लाता है।   The standard form brings uniformity and stability to the language.",
+"page_number": "7"
+},
+{
+"id": 79,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "हिंदी भाषा की लोकप्रियता में मीडिया की क्या भूमिका है?   What is the role of media in the popularity of the Hindi language?",
+"answer": "मीडिया ने हिंदी को जन-जन तक पहुँचाया है। हिंदी समाचार चैनल, रेडियो और समाचार पत्रों ने इसे आधुनिक और सरल बनाया है, जिससे इसकी स्वीकार्यता बढ़ी है।   Media has taken Hindi to every individual. Hindi news channels, radio, and newspapers have made it modern and simple, increasing its acceptability.",
+"keywords": [
+"मीडिया   Media",
+"समाचार चैनल   News channels",
+"लोकप्रियता   Popularity"
+],
+"explanation": "मीडिया सूचनाओं के प्रसार के साथ-साथ भाषा के विकास का भी सशक्त माध्यम है।   Along with the spread of information, media is also a powerful medium for the development of language.",
+"page_number": "8"
+},
+{
+"id": 80,
+"subject": "Hindi",
+"chapter": "भाषा, लिपि और व्याकरण-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 15,
+"max": 30
+},
+"question": "क्या सांकेतिक भाषा को व्याकरण के नियमों में बांधा जा सकता है?   Can sign language be bound by the rules of grammar?",
+"answer": "नहीं, सांकेतिक भाषा व्याकरण के अंतर्गत नहीं आती क्योंकि इसके संकेत अस्पष्ट हो सकते हैं और उनमें ध्वनियों का निश्चित तालमेल नहीं होता।   No, sign language does not come under grammar because its signs can be unclear and they do not have a fixed coordination of sounds.",
+"keywords": [
+"सांकेतिक भाषा   Sign language",
+"अस्पष्ट   Unclear",
+"व्याकरण   Grammar"
+],
+"explanation": "व्याकरण केवल उच्चारित और लिखित सार्थक ध्वनियों के नियमों पर आधारित होता है।   Grammar is based only on the rules of spoken and written meaningful sounds.",
+"page_number": "7"
+}
+]
