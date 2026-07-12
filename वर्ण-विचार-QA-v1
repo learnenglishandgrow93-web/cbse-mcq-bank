@@ -1,0 +1,1728 @@
+[
+{
+"id": 1,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 20
+},
+"question": "वर्ण किसे कहते हैं?   What is called a Varn?",
+"answer": "भाषा की उच्चरित ध्वनियों के लिखित रूप को वर्ण कहते हैं।   The written form of the spoken sounds of a language is called a Varn.",
+"keywords": [
+"उच्चरित   Spoken",
+"ध्वनि   Sound",
+"लिखित   Written",
+"वर्ण   Varn"
+],
+"explanation": "वर्ण भाषा की सबसे छोटी इकाई होती है जिसके और खंड नहीं किए जा सकते।   Varn is the smallest unit of language which cannot be further divided.",
+"page_number": "14"
+},
+{
+"id": 2,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 20
+},
+"question": "वर्णमाला की परिभाषा दीजिए।   Give the definition of Varnmala.",
+"answer": "वर्णों की निश्चित क्रमबद्ध व्यवस्था वर्णमाला कहलाती है।   A fixed and orderly arrangement of letters is called Varnmala.",
+"keywords": [
+"निश्चित   Fixed",
+"क्रमबद्ध   Systematic",
+"व्यवस्था   Arrangement",
+"वर्णमाला   Alphabet"
+],
+"explanation": "किसी भी भाषा के वर्णों के समूह को जब एक निश्चित क्रम में रखा जाता है, तो उसे वर्णमाला कहते हैं।   When the group of letters of any language is kept in a fixed order, it is called the alphabet.",
+"page_number": "14"
+},
+{
+"id": 3,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 25
+},
+"question": "स्वर कितने प्रकार के होते हैं?   How many types of vowels are there?",
+"answer": "स्वर के तीन भेद किए जाते हैं— ह्रस्व, दीर्घ और प्लुत।   Vowels are classified into three types— Hrasva, Deergh, and Pluta.",
+"keywords": [
+"ह्रस्व   Short",
+"दीर्घ   Long",
+"प्लुत   Pluta",
+"स्वर   Vowel"
+],
+"explanation": "उच्चारण में लगने वाले समय के आधार पर स्वरों को इन तीन श्रेणियों में बांटा गया है।   Based on the time taken in pronunciation, vowels are divided into these three categories.",
+"page_number": "15"
+},
+{
+"id": 4,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "हिंदी में कुल कितने स्वर हैं?   How many total vowels are there in Hindi?",
+"answer": "हिंदी में कुल 11 स्वर होते हैं।   There are a total of 11 vowels in Hindi.",
+"keywords": [
+"हिंदी   Hindi",
+"कुल   Total",
+"ग्यारह   Eleven",
+"स्वर   Vowels"
+],
+"explanation": "अ, आ, इ, ई, उ, ऊ, ऋ, ए, ऐ, ओ, औ को हिंदी के स्वर माना जाता है।   A, Aa, I, Ee, U, Oo, Ri, E, Ai, O, Au are considered vowels in Hindi.",
+"page_number": "15"
+},
+{
+"id": 5,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 25
+},
+"question": "आगत ध्वनियाँ कौन-सी हैं?   Which are the Aagat sounds?",
+"answer": "ऑ, ज़ और फ़ को आगत ध्वनियाँ कहा जाता है।   Aw, Za, and Fa are called Aagat sounds.",
+"keywords": [
+"आगत   Foreign/Adopted",
+"ध्वनियाँ   Sounds",
+"अंग्रेज़ी   English",
+"अरबी-फ़ारसी   Arabic-Persian"
+],
+"explanation": "ये ध्वनियाँ दूसरी भाषाओं (जैसे अंग्रेज़ी और अरबी-फ़ारसी) से हिंदी में आई हैं।   These sounds have come into Hindi from other languages (like English and Arabic-Persian).",
+"page_number": "18"
+},
+{
+"id": 6,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 20
+},
+"question": "अयोगवाह किन वर्णों को कहा जाता है?   Which letters are called Ayogvah?",
+"answer": "अं (अनुस्वार) तथा अ: (विसर्ग) को अयोगवाह कहा जाता है।   Am (Anusvar) and Ah (Visarg) are called Ayogvah.",
+"keywords": [
+"अनुस्वार   Anusvar",
+"विसर्ग   Visarg",
+"अयोगवाह   Ayogvah"
+],
+"explanation": "ये स्वर और व्यंजन का मिला-जुला रूप होते हैं, इसलिए इन्हें अयोगवाह कहते हैं।   They are a mixed form of vowels and consonants, which is why they are called Ayogvah.",
+"page_number": "15"
+},
+{
+"id": 7,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 20
+},
+"question": "वर्ण-विच्छेद किसे कहते हैं?   What is Varn-Vicched?",
+"answer": "शब्दों के प्रत्येक वर्ण को स्वर और व्यंजन सहित अलग-अलग लिखना वर्ण-विच्छेद कहलाता है।   Writing each letter of a word separately along with its vowel and consonant is called Varn-Vicched.",
+"keywords": [
+"वर्ण-विच्छेद   Word segmentation",
+"अलग   Separate",
+"शब्द   Word"
+],
+"explanation": "इसमें व्यंजन को अ-रहित रूप में और स्वर को अलग लिखा जाता है।   In this, the consonant is written in a vowel-less form and the vowel is written separately.",
+"page_number": "18"
+},
+{
+"id": 8,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 25
+},
+"question": "विसर्ग का उच्चारण किस ध्वनि की तरह होता है?   What sound is the Visarg pronounced like?",
+"answer": "विसर्ग के उच्चारण में 'ह' की ध्वनि निकलती है।   In the pronunciation of Visarg, the sound of 'h' comes out.",
+"keywords": [
+"विसर्ग   Visarg",
+"उच्चारण   Pronunciation",
+"ध्वनि   Sound"
+],
+"explanation": "विसर्ग का प्रयोग केवल तत्सम (संस्कृत) शब्दों में ही किया जाता है जैसे— प्रातः, अतः।   Visarg is used only in Tatsam (Sanskrit) words like— Pratah, Atah.",
+"page_number": "17"
+},
+{
+"id": 9,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 20
+},
+"question": "अंतस्थ व्यंजन कौन-से हैं?   Which are the Antastha consonants?",
+"answer": "य, र, ल और व अंतस्थ व्यंजन कहलाते हैं।   Ya, Ra, La, and Va are called Antastha consonants.",
+"keywords": [
+"अंतस्थ   Intermediate",
+"व्यंजन   Consonants",
+"उच्चारण   Pronunciation"
+],
+"explanation": "इनके उच्चारण में वायु न तो मुँह में कहीं स्पर्श करती है और न ही रगड़ खाती है।   In their pronunciation, the air neither touches anywhere in the mouth nor rubs against it.",
+"page_number": "16"
+},
+{
+"id": 10,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 20
+},
+"question": "ऊष्म व्यंजन के नाम लिखें।   Write the names of Ushma consonants.",
+"answer": "श, ष, स और ह ऊष्म व्यंजन हैं।   Sha, Sha, Sa, and Ha are Ushma consonants.",
+"keywords": [
+"ऊष्म   Sibilant/Heat",
+"व्यंजन   Consonants",
+"रगड़   Friction"
+],
+"explanation": "इनके उच्चारण में वायु किसी स्थान पर रगड़ खाकर ऊष्मा (गर्मी) उत्पन्न करती है।   In their pronunciation, air rubs against a place and generates heat.",
+"page_number": "16"
+},
+{
+"id": 11,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 20
+},
+"question": "संयुक्ताक्षर किन्हें कहते हैं?   What are Sanyuktakshar?",
+"answer": "क्ष, त्र, ज्ञ और श्र को हिंदी में संयुक्ताक्षर या संयुक्त व्यंजन कहते हैं।   Ksha, Tra, Gya, and Shra are called Sanyuktakshar or joint consonants in Hindi.",
+"keywords": [
+"संयुक्त   Joint",
+"व्यंजन   Consonants",
+"संयुक्ताक्षर   Compound letters"
+],
+"explanation": "ये दो व्यंजनों के मेल से बनते हैं।   These are formed by the combination of two consonants.",
+"page_number": "17"
+},
+{
+"id": 12,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 20
+},
+"question": "उत्क्षिप्त व्यंजन कौन-से हैं?   Which are the Utkshipt consonants?",
+"answer": "ड़ और ढ़ उत्क्षिप्त व्यंजन कहलाते हैं।   Da and Dha are called Utkshipt (special) consonants.",
+"keywords": [
+"उत्क्षिप्त   Special",
+"व्यंजन   Consonant",
+"उच्चारण   Pronunciation"
+],
+"explanation": "इनके उच्चारण में जीभ को ऊपर उठाकर आगे फेंका जाता है।   In their pronunciation, the tongue is lifted up and thrown forward.",
+"page_number": "17"
+},
+{
+"id": 13,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 5,
+"max": 15
+},
+"question": "हिंदी भाषा किस लिपि में लिखी जाती है?   In which script is the Hindi language written?",
+"answer": "हिंदी भाषा देवनागरी लिपि में लिखी जाती है।   Hindi language is written in the Devanagari script.",
+"keywords": [
+"देवनागरी   Devanagari",
+"लिपि   Script",
+"हिंदी   Hindi"
+],
+"explanation": "देवनागरी एक सुविकसित लिपि है जिसका उपयोग हिंदी के लेखन में होता है।   Devanagari is a well-developed script used in the writing of Hindi.",
+"page_number": "14"
+},
+{
+"id": 14,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 20
+},
+"question": "अनुनासिक का चिह्न क्या है?   What is the sign of Anunasik?",
+"answer": "अनुनासिक के लिए चंद्रबिंदु (ँ) का प्रयोग किया जाता है।   The Chandrabindu (ँ) sign is used for Anunasik.",
+"keywords": [
+"अनुनासिक   Nasalization",
+"चंद्रबिंदु   Chandrabindu",
+"चिह्न   Sign"
+],
+"explanation": "अनुनासिक ध्वनियों के उच्चारण में हवा नाक और मुँह दोनों से बाहर निकलती है।   In the pronunciation of nasalized sounds, air comes out from both the nose and the mouth.",
+"page_number": "17"
+},
+{
+"id": 15,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 20
+},
+"question": "भाषा के कितने कौशल होते हैं?   How many skills of language are there?",
+"answer": "भाषा के चार कौशल होते हैं— सुनना, बोलना, पढ़ना और लिखना।   There are four skills of language— listening, speaking, reading, and writing.",
+"keywords": [
+"कौशल   Skills",
+"सुनना   Listening",
+"बोलना   Speaking",
+"लिखना   Writing"
+],
+"explanation": "पहले दो मौखिक कौशल हैं और शेष दो लिखित कौशल हैं।   The first two are oral skills and the remaining two are written skills.",
+"page_number": "14"
+},
+{
+"id": 16,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 20
+},
+"question": "ह्रस्व स्वर के उदाहरण दीजिए।   Give examples of Hrasva vowels.",
+"answer": "अ, इ, उ और ऋ ह्रस्व स्वर के उदाहरण हैं।   A, I, U, and Ri are examples of Hrasva vowels.",
+"keywords": [
+"ह्रस्व स्वर   Short Vowel",
+"मूल स्वर   Root Vowel",
+"उच्चारण   Pronunciation"
+],
+"explanation": "इनके उच्चारण में बहुत कम समय लगता है, इसलिए इन्हें मूल स्वर भी कहते हैं।   They take very little time in pronunciation, hence they are also called root vowels.",
+"page_number": "15"
+},
+{
+"id": 17,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 25,
+"max": 40
+},
+"question": "ह्रस्व स्वर और दीर्घ स्वर में क्या अंतर है?   What is the difference between Hrasva and Deergh vowels?",
+"answer": "ह्रस्व स्वर के उच्चारण में बहुत कम समय लगता है, जबकि दीर्घ स्वर के उच्चारण में हस्र्व स्वर से दोगुना समय लगता है।   Hrasva vowels take very little time for pronunciation, while Deergh vowels take twice the time compared to Hrasva vowels.",
+"keywords": [
+"ह्रस्व   Short",
+"दीर्घ   Long",
+"उच्चारण   Pronunciation",
+"समय   Time"
+],
+"explanation": "ह्रस्व स्वर चार हैं (अ, इ, उ, ऋ) और दीर्घ स्वर सात हैं (आ, ई, ऊ, ए, ऐ, ओ, औ)।   There are four short vowels (a, i, u, ri) and seven long vowels (aa, ee, oo, e, ai, o, au).",
+"page_number": "15"
+},
+{
+"id": 18,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "प्लुत स्वर किसे कहते हैं?   What is called a Pluta vowel?",
+"answer": "जिन स्वरों के उच्चारण में मूल स्वर से तिगुना समय लगता है, उन्हें प्लुत स्वर कहते हैं जैसे— ओ३म्।   Vowels whose pronunciation takes thrice the time of root vowels are called Pluta vowels, such as— Om.",
+"keywords": [
+"प्लुत स्वर   Pluta vowel",
+"तिगुना समय   Thrice the time",
+"उच्चारण   Pronunciation"
+],
+"explanation": "हिंदी में प्लुत स्वर का प्रयोग बहुत कम मिलता है।   The use of Pluta vowels is very rare in Hindi.",
+"page_number": "15"
+},
+{
+"id": 19,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 25,
+"max": 45
+},
+"question": "स्वर की मात्राओं से आप क्या समझते हैं?   What do you understand by vowel signs (matras)?",
+"answer": "स्वर को जब व्यंजनों के साथ मिलाकर लिखा जाता है, तब उसको मात्रा के रूप में लिखा जाता है। 'अ' को छोड़कर सभी स्वरों की मात्राएँ होती हैं।   When vowels are written in combination with consonants, they are written in the form of matras. Except for 'a', all vowels have matras.",
+"keywords": [
+"मात्रा   Vowel sign",
+"व्यंजन   Consonant",
+"स्वर   Vowel"
+],
+"explanation": "व्यंजनों के साथ जुड़ने पर स्वर का रूप बदल जाता है, यही बदला हुआ रूप मात्रा कहलाता है।   When joined with consonants, the form of the vowel changes; this changed form is called a matra.",
+"page_number": "15"
+},
+{
+"id": 20,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "व्यंजन की परिभाषा लिखिए।   Write the definition of a consonant.",
+"answer": "जिन ध्वनियों के उच्चारण में हवा कंठ से निकलकर मुँह में कहीं स्पर्श करती है या रगड़ खाकर बाहर निकलती है, उन्हें व्यंजन कहते हैं।   Sounds during whose pronunciation air comes out of the throat and touches somewhere in the mouth or comes out with friction are called consonants.",
+"keywords": [
+"व्यंजन   Consonant",
+"स्पर्श   Touch",
+"कंठ   Throat",
+"घर्षण   Friction"
+],
+"explanation": "व्यंजनों का उच्चारण स्वतंत्र रूप से संभव नहीं होता, इन्हें स्वरों की सहायता से बोला जाता है।   Pronunciation of consonants is not possible independently; they are spoken with the help of vowels.",
+"page_number": "16"
+},
+{
+"id": 21,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 25,
+"max": 40
+},
+"question": "अनुस्वार और पंचम वर्ण में क्या संबंध है?   What is the relation between Anusvar and the fifth letter (Pancham Varn)?",
+"answer": "अनुस्वार जिस व्यंजन से पहले आता है, उसी व्यंजन वर्ग के पंचम वर्ण के रूप में बोला जाता है जैसे गंगा में ग-वर्ग का ङ।   Anusvar is spoken as the fifth letter of the same consonant group before which it appears, like 'ng' of 'ga-varg' in 'Ganga'.",
+"keywords": [
+"अनुस्वार   Anusvar",
+"पंचम वर्ण   Fifth letter",
+"व्यंजन वर्ग   Consonant group"
+],
+"explanation": "यह स्वर के बाद आने वाली नासिक्य ध्वनि है जो व्यंजनों के उच्चारण को प्रभावित करती है।   It is a nasal sound appearing after a vowel that affects the pronunciation of consonants.",
+"page_number": "16"
+},
+{
+"id": 22,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 25,
+"max": 45
+},
+"question": "द्वित्व व्यंजन किसे कहते हैं? सोदाहरण स्पष्ट करें।   What are double consonants (Dvitva Vyanjan)? Explain with examples.",
+"answer": "समान व्यंजनों के गुच्छ को द्वित्व व्यंजन कहते हैं जैसे— चक्का, सुग्गा, कच्चा, लज्जा आदि।   A cluster of identical consonants is called a double consonant, for example— chakka, sugga, kachha, lajja, etc.",
+"keywords": [
+"द्वित्व व्यंजन   Double consonant",
+"समान व्यंजन   Identical consonants",
+"गुच्छ   Cluster"
+],
+"explanation": "जब एक ही व्यंजन दो बार लगातार आता है, जहाँ पहला स्वर-रहित होता है, उसे द्वित्व व्यंजन कहते हैं।   When the same consonant appears twice in succession, where the first is vowel-less, it is called a double consonant.",
+"page_number": "17"
+},
+{
+"id": 23,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 30,
+"max": 50
+},
+"question": "'र' के साथ 'उ' और 'ऊ' की मात्रा लगाने के नियम बताइए।   Explain the rules for applying the marks of 'u' and 'oo' with 'ra'.",
+"answer": "'र' के साथ 'उ' और 'ऊ' की मात्रा अन्य व्यंजनों की तरह नीचे नहीं, बल्कि बीच में लगती है। र + उ = रु (रुचि) और र + ऊ = रू (रूप)।   The marks of 'u' and 'oo' with 'ra' are not applied at the bottom like other consonants, but in the middle. Ra + u = ru (ruchi) and Ra + oo = roo (roop).",
+"keywords": [
+"मात्रा   Vowel sign",
+"नियम   Rule",
+"उच्चारण   Pronunciation"
+],
+"explanation": "यह 'र' व्यंजन की एक विशिष्ट लिखावट शैली है जो हिंदी वर्तनी में महत्वपूर्ण है।   This is a specific writing style of the consonant 'ra' which is important in Hindi spelling.",
+"page_number": "16"
+},
+{
+"id": 24,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 25,
+"max": 40
+},
+"question": "खड़ी पाई हटाकर व्यंजन कैसे जोड़े जाते हैं?   How are consonants joined by removing the vertical stem (Khadi Pai)?",
+"answer": "खड़ी पाई वाले व्यंजन जब किसी दूसरे व्यंजन के साथ मिलते हैं तो उनकी पाई हटा दी जाती है जैसे— ग+य=ग्य (ग्यारह), म+ल=म्ल (अम्ल)।   When consonants with a vertical stem meet another consonant, their stem is removed, for example— ga+ya=gya (gyarah), ma+la=mla (amla).",
+"keywords": [
+"खड़ी पाई   Vertical stem",
+"नियम   Rule",
+"व्यंजन   Consonant"
+],
+"explanation": "ऐसे कुल 22 व्यंजन हैं जिन्हें जोड़ने के लिए इस नियम का पालन किया जाता है।   There are a total of 22 such consonants for which this rule is followed to join them.",
+"page_number": "18"
+},
+{
+"id": 25,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "अनुनासिक का प्रयोग शिरोरेखा के ऊपर कब बदल जाता है?   When does the use of Anunasik change above the headline (Shirorekha)?",
+"answer": "जिन स्वरों की मात्रा शिरोरेखा के ऊपर लगती है, उनमें चंद्रबिंदु (ँ) के स्थान पर बिंदु (ं) का प्रयोग किया जाता है जैसे— धौंस, सिंचाई।   For vowels whose marks are placed above the headline, a dot (.) is used instead of the Chandrabindu (ँ), such as— dhauns, sinchai.",
+"keywords": [
+"शिरोरेखा   Headline",
+"अनुनासिक   Anunasik",
+"बिंदु   Dot"
+],
+"explanation": "यह लेखन की सुविधा और स्पष्टता के लिए किया जाता है।   This is done for the convenience and clarity of writing.",
+"page_number": "17"
+},
+{
+"id": 26,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 40
+},
+"question": "व्यंजन गुच्छ किसे कहते हैं? उदाहरण दें।   What are consonant clusters (Vyanjan Guch)? Give examples.",
+"answer": "जब दो या दो से अधिक अलग-अलग व्यंजन एक साथ मिलते हैं, तो उन्हें व्यंजन गुच्छ कहते हैं जैसे— उज्ज्वल, स्वास्थ्य, ज्योत्स्ना।   When two or more different consonants come together, they are called consonant clusters, such as— ujjval, swasthya, jyotsna.",
+"keywords": [
+"व्यंजन गुच्छ   Consonant cluster",
+"संयोग   Combination",
+"उदाहरण   Example"
+],
+"explanation": "इनमें स्वर-रहित व्यंजन दूसरे व्यंजनों के साथ जुड़कर नए शब्द बनाते हैं।   In these, vowel-less consonants join with other consonants to form new words.",
+"page_number": "17"
+},
+{
+"id": 27,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "स्पर्श व्यंजन की क्या विशेषता है?   What is the characteristic of Sparsh consonants?",
+"answer": "इनके उच्चारण में वायु कंठ से निकलकर मुँह के किसी भाग का स्पर्श करते हुए बाहर निकलती है। ये पाँच वर्गों में बँटे हैं।   In their pronunciation, air comes out of the throat touching some part of the mouth. They are divided into five groups.",
+"keywords": [
+"स्पर्श   Touch",
+"उच्चारण   Pronunciation",
+"वर्ग   Groups/Classes"
+],
+"explanation": "क-वर्ग से प-वर्ग तक के 25 व्यंजन स्पर्श व्यंजन कहलाते हैं।   The 25 consonants from the Ka-group to the Pa-group are called Sparsh consonants.",
+"page_number": "16"
+},
+{
+"id": 28,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 25,
+"max": 45
+},
+"question": "बिना पाई वाले व्यंजनों को स्वर-रहित कैसे बनाया जाता है?   How are consonants without a vertical stem made vowel-less?",
+"answer": "बिना पाई वाले व्यंजन जैसे ट, ठ, ड, द, ह आदि को स्वर-रहित बनाने के लिए उनके नीचे हलंत (्) लगाया जाता है जैसे— खट्टा, शुद्ध।   To make consonants without a vertical stem like Ta, Tha, Da, Da, Ha, etc., vowel-less, a Halant (्) is placed under them, such as— khatta, shuddh.",
+"keywords": [
+"बिना पाई   Without stem",
+"हलंत   Halant",
+"स्वर-रहित   Vowel-less"
+],
+"explanation": "इन वर्णों में कोई खड़ी रेखा नहीं होती जिसे हटाया जा सके, इसलिए हलंत का उपयोग होता है।   There is no vertical line in these letters that can be removed, so Halant is used.",
+"page_number": "18"
+},
+{
+"id": 29,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 40
+},
+"question": "आगत ध्वनियों 'ज़' और 'फ़' का प्रयोग किन शब्दों में होता है?   In which words are the Aagat sounds 'Za' and 'Fa' used?",
+"answer": "ये ध्वनियाँ अरबी-फ़ारसी और अंग्रेज़ी के शब्दों में मिलती हैं जैसे— ज़ालिम, फ़ौरन, जज़बात, ज़रूर, फिक्र आदि।   These sounds are found in Arabic-Persian and English words such as— zaalim, fauran, jazbaat, zaroor, fikr, etc.",
+"keywords": [
+"आगत   Adopted",
+"अरबी-फ़ारसी   Arabic-Persian",
+"शब्द   Words"
+],
+"explanation": "हिंदी ने अन्य भाषाओं के प्रभाव के कारण इन ध्वनियों को अपनाया है।   Hindi has adopted these sounds due to the influence of other languages.",
+"page_number": "18"
+},
+{
+"id": 30,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 30,
+"max": 50
+},
+"question": "स्वर और व्यंजन में मुख्य अंतर स्पष्ट कीजिए।   Explain the main difference between vowels and consonants.",
+"answer": "स्वरों का उच्चारण बिना किसी रुकावट के स्वतंत्र रूप से होता है, जबकि व्यंजनों के उच्चारण में हवा मुँह में स्पर्श करती है और इन्हें स्वरों की सहायता से बोला जाता है।   Vowels are pronounced independently without any obstruction, whereas in the pronunciation of consonants, air touches the mouth and they are spoken with the help of vowels.",
+"keywords": [
+"स्वतंत्र   Independent",
+"सहायता   Help",
+"रुकावट   Obstruction",
+"उच्चारण   Pronunciation"
+],
+"explanation": "बिना स्वर के व्यंजन का उच्चारण संभव नहीं है।   Pronunciation of a consonant without a vowel is not possible.",
+"page_number": "15, 16"
+},
+{
+"id": 31,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 25,
+"max": 45
+},
+"question": "'ऋ' स्वर के बारे में विशेष टिप्पणी लिखें।   Write a special note on the vowel 'Ri'.",
+"answer": "हिंदी में 'ऋ' का उच्चारण 'रि' के रूप में किया जाता है। उच्चारण के अनुसार इसे स्वर नहीं माना जा सकता किंतु मात्रा के आधार पर इसे स्वरों में शामिल किया गया है।   In Hindi, 'Ri' is pronounced as 'Ri'. According to pronunciation, it cannot be considered a vowel, but it is included in vowels based on its matra (mark).",
+"keywords": [
+"ऋ   Ri",
+"उच्चारण   Pronunciation",
+"मात्रा   Vowel sign"
+],
+"explanation": "यह स्वर संस्कृत से आया है और तत्सम शब्दों में प्रयुक्त होता है।   This vowel comes from Sanskrit and is used in Tatsam words.",
+"page_number": "15"
+},
+{
+"id": 32,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 40
+},
+"question": "संयुक्त व्यंजन 'क्ष' और 'ज्ञ' किन वर्णों के मेल से बने हैं?   From which letters are the joint consonants 'Ksha' and 'Gya' formed?",
+"answer": "क्ष = क् + ष (जैसे— कक्षा) और ज्ञ = ज् + ञ (जैसे— ज्ञान)। मानक हिंदी में ज्ञ का उच्चारण 'ग् + य' की तरह भी होता है।   Ksha = k + sh (e.g., kaksha) and Gya = j + n (e.g., gyan). In standard Hindi, Gya is also pronounced like 'g + y'.",
+"keywords": [
+"संयुक्त व्यंजन   Joint consonant",
+"मेल   Combination",
+"मानक   Standard"
+],
+"explanation": "ये दो अलग-अलग व्यंजनों के योग से एक नई ध्वनि बनाते हैं।   These form a new sound by the combination of two different consonants.",
+"page_number": "17"
+},
+{
+"id": 33,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 30,
+"max": 50
+},
+"question": "'र' के रेफ रूप के प्रयोग का नियम क्या है?   What is the rule for using the Reph form of 'ra'?",
+"answer": "'र्' के बाद कोई व्यंजन आए तो 'र्' अपने बाद आने वाले वर्ण पर रेफ के रूप में लगता है जैसे— र् + म = र्म (धर्म), र् + ष = र्ष (वर्ष)।   If a consonant comes after 'r', the 'r' is applied as a Reph on the letter following it, such as— r + ma = rma (dharm), r + sha = rsha (varsh).",
+"keywords": [
+"रेफ   Reph",
+"नियम   Rule",
+"व्यंजन   Consonant"
+],
+"explanation": "इसमें 'र' स्वर-रहित होता है और अगले वर्ण के शिरोरेखा के ऊपर बैठता है।   In this, 'r' is vowel-less and sits above the headline of the next letter.",
+"page_number": "18"
+},
+{
+"id": 34,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 15,
+"max": 30
+},
+"question": "हिंदी की देवनागरी लिपि की क्या विशेषता है?   What is the characteristic of the Devanagari script of Hindi?",
+"answer": "देवनागरी एक सुविकसित संपर्क भाषा, राजभाषा और राष्ट्रभाषा की लिपि है। पहले यह टाइपराइटरों और अब कंप्यूटरों पर मानकीकृत रूप में प्रयोग की जाती है।   Devanagari is the script of a well-developed contact language, official language, and national language. Formerly used on typewriters, it is now used in standardized form on computers.",
+"keywords": [
+"देवनागरी   Devanagari",
+"राजभाषा   Official language",
+"मानकीकरण   Standardization"
+],
+"explanation": "यह लिपि वैज्ञानिक है और इसके लेखन व उच्चारण में समानता है।   This script is scientific and has consistency between writing and pronunciation.",
+"page_number": "14"
+},
+{
+"id": 35,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 40
+},
+"question": "'घूँडी' हटाकर व्यंजनों का संयोग कैसे किया जाता है?   How is the combination of consonants done by removing the 'Ghundi' (loop)?",
+"answer": "क और फ/फ़ जब अन्य व्यंजनों के साथ मिलते हैं तब उनकी घूँडी हटा दी जाती है जैसे— क् + त = क्त (रक्त), फ़् + त = फ़्त (रफ़्तार)।   When 'Ka' and 'Pha/Fa' meet other consonants, their loop (ghundi) is removed, for example— k + t = kt (rakt), f + t = ft (raftaar).",
+"keywords": [
+"घूँडी   Loop",
+"संयोग   Combination",
+"व्यंजन   Consonant"
+],
+"explanation": "इन वर्णों के दाईं ओर की मुड़ी हुई रेखा को हटाकर इन्हें अगले वर्ण से जोड़ा जाता है।   The curved line on the right side of these letters is removed to join them with the next letter.",
+"page_number": "18"
+},
+{
+"id": 36,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 40
+},
+"question": "वर्ण-विच्छेद सीखने का क्या लाभ है?   What is the benefit of learning Varn-Vicched?",
+"answer": "वर्ण-विच्छेद के सही ज्ञान से शब्दकोश में शब्द ढूँढ़ने और शुद्ध लिखने में आसानी होती है।   Correct knowledge of Varn-Vicched makes it easier to find words in a dictionary and to write correctly.",
+"keywords": [
+"शब्दकोश   Dictionary",
+"शुद्ध लेखन   Correct writing",
+"ज्ञान   Knowledge"
+],
+"explanation": "यह वर्तनी की गलतियों को कम करने में मदद करता है।   It helps in reducing spelling mistakes.",
+"page_number": "18"
+},
+{
+"id": 37,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 25,
+"max": 45
+},
+"question": "पदेन 'र' का प्रयोग कब किया जाता है?   When is Paden 'ra' used?",
+"answer": "'र' से पूर्व कोई भी स्वर रहित व्यंजन हो तो 'र' उस व्यंजन के पैर में लगाया जाता है जैसे— क् + र = क्र (क्रमिक), प् + र = प्र (प्रवीण)।   If there is any vowel-less consonant before 'r', 'r' is applied at the foot of that consonant, such as— k + r = kr (kramik), p + r = pr (praveen).",
+"keywords": [
+"पदेन   At the foot",
+"स्वर रहित   Vowel-less",
+"नियम   Rule"
+],
+"explanation": "इसे पदेन रूप कहा जाता है क्योंकि यह अक्षर के निचले हिस्से में लगता है।   It is called the Paden form because it is attached to the lower part of the letter.",
+"page_number": "18"
+},
+{
+"id": 38,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "हलंत (्) का प्रयोग किसलिए किया जाता है?   For what purpose is the Halant (्) used?",
+"answer": "किसी व्यंजन को स्वर-रहित दिखाने के लिए उसके नीचे हलंत लगाया जाता है। जैसे क के नीचे हलंत लगाने पर वह 'क्' बन जाता है।   To show a consonant as vowel-less, a Halant is placed under it. For example, by putting a Halant under 'ka', it becomes 'k'.",
+"keywords": [
+"हलंत   Halant",
+"स्वर-रहित   Vowel-less",
+"व्यंजन   Consonant"
+],
+"explanation": "यह इंगित करता है कि व्यंजन के साथ 'अ' स्वर नहीं जुड़ा है।   It indicates that the vowel 'a' is not attached to the consonant.",
+"page_number": "15"
+},
+{
+"id": 39,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 40
+},
+"question": "संयुक्त व्यंजन 'त्र' और 'श्र' किन वर्णों से बनते हैं?   From which letters are the joint consonants 'Tra' and 'Shra' formed?",
+"answer": "त्र = त् + र (जैसे— पत्र, मित्र) और श्र = श् + र (जैसे— श्रम, श्री)।   Tra = t + r (e.g., patra, mitra) and Shra = sh + r (e.g., shram, shree).",
+"keywords": [
+"त्र   Tra",
+"श्र   Shra",
+"संयुक्त व्यंजन   Joint consonant"
+],
+"explanation": "ये हिंदी वर्णमाला के वे चार विशेष अक्षर हैं जो दो व्यंजनों के मेल से विकसित हुए हैं।   These are the four special letters of the Hindi alphabet that have developed from the combination of two consonants.",
+"page_number": "17"
+},
+{
+"id": 40,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 25,
+"max": 45
+},
+"question": "'ड' और 'ढ' वर्णों के प्रयोग का विशेष नियम क्या है?   What is the special rule for using the letters 'Da' and 'Dha'?",
+"answer": "कोई भी शब्द 'ड़' और 'ढ़' से आरंभ नहीं होता। ये हमेशा शब्द के बीच में या अंत में आते हैं।   No word starts with 'Da' or 'Dha'. They always appear in the middle or at the end of a word.",
+"keywords": [
+"उत्क्षिप्त   Special",
+"नियम   Rule",
+"आरंभ   Start"
+],
+"explanation": "ये विशेष व्यंजन ध्वनियाँ हैं जिन्हें उत्क्षिप्त व्यंजन कहा जाता है।   These are special consonant sounds called Utkshipt consonants.",
+"page_number": "17"
+},
+{
+"id": 41,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "उच्चारण स्थान के आधार पर स्पर्श व्यंजनों के वर्गों का विवरण दें।   Give the details of the groups of Sparsh consonants based on the place of articulation.",
+"answer": "स्पर्श व्यंजन पाँच वर्गों में हैं: 1. क-वर्ग (कंठ), 2. च-वर्ग (तालु), 3. ट-वर्ग (मूर्धा), 4. त-वर्ग (दंत), और 5. प-वर्ग (ओष्ठ/ओठ)।   Sparsh consonants are in five groups: 1. Ka-varg (Throat), 2. Cha-varg (Palate), 3. Ta-varg (Cerebrum), 4. Ta-varg (Teeth), and 5. Pa-varg (Lips).",
+"keywords": [
+"उच्चारण स्थान   Place of articulation",
+"कंठ   Throat",
+"तालु   Palate",
+"मूर्धा   Cerebrum",
+"दंत   Teeth",
+"ओष्ठ   Lips"
+],
+"explanation": "प्रत्येक वर्ग में पाँच व्यंजन होते हैं और वे मुँह के एक विशिष्ट हिस्से को स्पर्श करके बोले जाते हैं।   Each group has five consonants and they are spoken by touching a specific part of the mouth.",
+"page_number": "16"
+},
+{
+"id": 42,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 50,
+"max": 75
+},
+"question": "'र' के विभिन्न रूपों (रेफ, पदेन, हलंत के साथ) को उदाहरण सहित समझाइए।   Explain the different forms of 'ra' (Reph, Paden, with Halant) with examples.",
+"answer": "1. रेफ: र् + म = र्म (धर्म)। 2. पदेन: क् + र = क्र (क्रम)। 3. 'द' और 'ह' के बाद: द्र (ट्रेन), ड्र (ड्रम)। 4. स्वरों के साथ: र + उ = रु (रुचि), र + ऊ = रू (रूप)।   1. Reph: r + ma = rma (dharm). 2. Paden: k + r = kr (kram). 3. After 'da' and 'ha': dra (train), dra (drum). 4. With vowels: ra + u = ru (ruchi), ra + oo = roo (roop).",
+"keywords": [
+"रेफ   Reph",
+"पदेन   Paden",
+"विविध रूप   Various forms",
+"उदाहरण   Example"
+],
+"explanation": "हिंदी लेखन में 'र' एक ऐसा व्यंजन है जिसके सर्वाधिक रूप देखने को मिलते हैं।   In Hindi writing, 'ra' is a consonant that has the most forms seen.",
+"page_number": "16, 18"
+},
+{
+"id": 43,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 45,
+"max": 65
+},
+"question": "स्वर के तीन भेदों की परिभाषा और एक-एक उदाहरण दें।   Give the definition and one example each of the three types of vowels.",
+"answer": "1. ह्रस्व स्वर: कम समय लगता है (अ)। 2. दीर्घ स्वर: ह्रस्व से दोगुना समय लगता है (आ)। 3. प्लुत स्वर: मूल स्वर से तिगुना समय लगता है (ओ३म्)।   1. Hrasva: Takes less time (a). 2. Deergh: Takes twice the time of Hrasva (aa). 3. Pluta: Takes thrice the time of root vowel (Om).",
+"keywords": [
+"ह्रस्व   Hrasva",
+"दीर्घ   Deergh",
+"प्लुत   Pluta",
+"समय   Time"
+],
+"explanation": "यह वर्गीकरण पूर्णतः उच्चारण में लगने वाले समय पर आधारित है।   This classification is entirely based on the time taken in pronunciation.",
+"page_number": "15"
+},
+{
+"id": 44,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "अनुस्वार और अनुनासिक के बीच अंतर स्पष्ट कीजिए।   Explain the difference between Anusvar and Anunasik.",
+"answer": "अनुस्वार नासिक्य ध्वनि है जिसका चिह्न बिंदु (ं) है। अनुनासिक में हवा नाक और मुँह दोनों से निकलती है, इसका चिह्न चंद्रबिंदु (ँ) है।   Anusvar is a nasal sound whose sign is a dot (.). In Anunasik, air comes out of both the nose and mouth, its sign is the Chandrabindu (ँ).",
+"keywords": [
+"अनुस्वार   Anusvar",
+"अनुनासिक   Anunasik",
+"नाक   Nose",
+"मुँह   Mouth"
+],
+"explanation": "अनुस्वार का उच्चारण पंचम वर्ण के समान होता है जबकि अनुनासिक एक स्वतंत्र स्वर गुण है।   Anusvar is pronounced like the fifth letter, while Anunasik is an independent vowel quality.",
+"page_number": "16, 17"
+},
+{
+"id": 45,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 50,
+"max": 80
+},
+"question": "व्यंजनों के मेल के प्रमुख नियमों का वर्णन करें।   Describe the major rules for the combination of consonants.",
+"answer": "1. खड़ी पाई हटाकर (ग्य)। 2. घूँडी हटाकर (क्त)। 3. बिना पाई वाले व्यंजनों में हलंत लगाकर (ट्ट)। 4. 'र' के विशेष संयोग (क्र, र्म, ट्र)।   1. By removing vertical stem (gya). 2. By removing the loop (kt). 3. By putting Halant in consonants without stem (tta). 4. Special combinations of 'ra' (kra, rma, tra).",
+"keywords": [
+"नियम   Rules",
+"संयोग   Combination",
+"व्यंजन   Consonants",
+"खड़ी पाई   Vertical stem"
+],
+"explanation": "ये नियम हिंदी वर्तनी को व्यवस्थित और मानक बनाने के लिए आवश्यक हैं।   These rules are necessary to make Hindi spelling systematic and standardized.",
+"page_number": "18"
+},
+{
+"id": 46,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 45,
+"max": 70
+},
+"question": "आगत ध्वनियाँ क्या हैं? ये हिंदी में क्यों शामिल की गई हैं?   What are Aagat sounds? Why are they included in Hindi?",
+"answer": "ऑ, ज़ और फ़ आगत ध्वनियाँ हैं। ये अंग्रेज़ी और अरबी-फ़ारसी भाषाओं से आई हैं। अन्य भाषाओं के शब्दों का सही उच्चारण करने के लिए इन्हें शामिल किया गया है जैसे— कॉलेज, ज़ालिम।   Aw, Za, and Fa are Aagat sounds. They have come from English and Arabic-Persian languages. They are included to correctly pronounce words from other languages like— College, Zaalim.",
+"keywords": [
+"आगत   Adopted/Foreign",
+"भाषा   Language",
+"प्रभाव   Influence",
+"उच्चारण   Pronunciation"
+],
+"explanation": "हिंदी एक ग्रहणशील भाषा है जिसने विदेशी शब्दों के साथ उनकी ध्वनियों को भी अपनाया है।   Hindi is a receptive language that has adopted the sounds along with foreign words.",
+"page_number": "18"
+},
+{
+"id": 47,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 50,
+"max": 80
+},
+"question": "वर्ण-विच्छेद के तीन उदाहरण देकर स्पष्ट कीजिए।   Explain by giving three examples of Varn-Vicched.",
+"answer": "1. काम = क् + आ + म् + अ 2. सेब = स् + ए + ब् + अ 3. शांति = श् + आ + न् + त् + इ   1. Kaam = k + aa + m + a 2. Seb = s + e + b + a 3. Shanti = sh + aa + n + t + i",
+"keywords": [
+"वर्ण-विच्छेद   Word segmentation",
+"उदाहरण   Example",
+"स्वर   Vowel",
+"व्यंजन   Consonant"
+],
+"explanation": "इसमें प्रत्येक अक्षर को उसके मूल रूप में तोड़कर दिखाया जाता है।   In this, each letter is broken down and shown in its root form.",
+"page_number": "18, 20"
+},
+{
+"id": 48,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 65
+},
+"question": "संयुक्त व्यंजन और द्वित्व व्यंजन में क्या अंतर है?   What is the difference between joint consonants and double consonants?",
+"answer": "संयुक्त व्यंजन में दो अलग-अलग व्यंजन मिलते हैं (क्ष = क् + ष)। द्वित्व व्यंजन में एक ही व्यंजन दो बार मिलता है जहाँ पहला स्वर-रहित होता है (पत्ता = त् + त)।   In joint consonants, two different consonants meet (ksha = k + sh). In double consonants, the same consonant meets twice where the first is vowel-less (patta = t + t).",
+"keywords": [
+"संयुक्त   Joint",
+"द्वित्व   Double",
+"समान   Identical",
+"भिन्न   Different"
+],
+"explanation": "दोनों ही व्यंजनों के गुच्छ हैं, लेकिन उनके निर्माण की प्रक्रिया अलग है।   Both are clusters of consonants, but their construction process is different.",
+"page_number": "17"
+},
+{
+"id": 49,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 45,
+"max": 75
+},
+"question": "अंतस्थ और ऊष्म व्यंजन के बीच के अंतर को स्पष्ट करें।   Explain the difference between Antastha and Ushma consonants.",
+"answer": "अंतस्थ व्यंजनों (य, र, ल, व) के उच्चारण में वायु मुँह में कहीं स्पर्श नहीं करती। ऊष्म व्यंजनों (श, ष, स, ह) में वायु रगड़ खाकर ऊष्मा पैदा करती है।   In the pronunciation of Antastha consonants (ya, ra, la, va), air doesn't touch anywhere in the mouth. In Ushma consonants (sha, sha, sa, ha), air creates heat through friction.",
+"keywords": [
+"अंतस्थ   Antastha",
+"ऊष्म   Ushma",
+"वायु   Air",
+"रगड़   Friction"
+],
+"explanation": "इनका वर्गीकरण उच्चारण के समय मुँह के भीतर वायु की स्थिति पर निर्भर करता है।   Their classification depends on the status of air inside the mouth during pronunciation.",
+"page_number": "16"
+},
+{
+"id": 50,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "नासिक्य व्यंजन क्या हैं? वे अनुस्वार से कैसे संबंधित हैं?   What are nasal consonants? How are they related to Anusvar?",
+"answer": "ङ, ञ, ण, न, म नासिक्य व्यंजन हैं। अनुस्वार इन्हीं पंचम वर्णों का प्रतिनिधित्व करता है और उनके स्थान पर बिंदु (ं) के रूप में प्रयोग किया जाता है।   Ng, n, n, n, m are nasal consonants. Anusvar represents these fifth letters and is used in their place as a dot (.).",
+"keywords": [
+"नासिक्य   Nasal",
+"पंचम वर्ण   Fifth letter",
+"अनुस्वार   Anusvar",
+"प्रतिनिधित्व   Representation"
+],
+"explanation": "मानक हिंदी में पंचम वर्ण के स्थान पर प्रायः अनुस्वार का प्रयोग किया जाता है।   In standard Hindi, Anusvar is mostly used instead of the fifth letter.",
+"page_number": "16, 17"
+},
+{
+"id": 51,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 45,
+"max": 70
+},
+"question": "हिंदी वर्तनी के मानकीकरण में देवनागरी लिपि का क्या योगदान है?   What is the contribution of Devanagari script in the standardization of Hindi spelling?",
+"answer": "देवनागरी लिपि के प्रयोग से हिंदी लेखन में एकरूपता आई है। कंप्यूटर और टाइपराइटर के प्रयोग ने इसके संकेतों और वर्तनी को और अधिक स्पष्ट और मानक बनाया है।   The use of Devanagari script has brought uniformity to Hindi writing. The use of computers and typewriters has made its signs and spellings more clear and standard.",
+"keywords": [
+"मानकीकरण   Standardization",
+"एकरूपता   Uniformity",
+"लिपि   Script",
+"कंप्यूटर   Computer"
+],
+"explanation": "एक वैज्ञानिक लिपि होने के कारण यह हिंदी को वैश्विक पहचान दिलाने में सहायक है।   Being a scientific script, it is helpful in giving Hindi a global identity.",
+"page_number": "14"
+},
+{
+"id": 52,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 50,
+"max": 75
+},
+"question": "'द' और 'ड' के साथ 'र' के संयोग के नियम क्या हैं?   What are the rules for the combination of 'ra' with 'da' and 'da'?",
+"answer": "'द' और 'ड' के बाद 'र' आने पर इसका रूप इस प्रकार हो जाता है: द + र = द्र (ट्रेन), ड + र = ड्र (ड्रम)। इसे उल्टे 'v' के आकार में लगाया जाता है।   When 'r' comes after 'da' and 'da', its form becomes like this: da + r = dra (train), da + r = dra (drum). It is applied in the shape of an inverted 'v'.",
+"keywords": [
+"नियम   Rule",
+"संयोग   Combination",
+"आकार   Shape",
+"व्यंजन   Consonant"
+],
+"explanation": "यह नियम विशेष रूप से गोल पेंदे वाले अक्षरों पर लागू होता है।   This rule applies specifically to letters with rounded bottoms.",
+"page_number": "18"
+},
+{
+"id": 53,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 65
+},
+"question": "अयोगवाह को स्वर और व्यंजन का मिला-जुला रूप क्यों कहा जाता है?   Why is Ayogvah called a mixed form of vowel and consonant?",
+"answer": "अयोगवाह (अं, अ:) न तो पूरी तरह स्वर हैं और न ही व्यंजन। ये स्वरों के बाद आते हैं और व्यंजनों की तरह उच्चारण में सहायक होते हैं।   Ayogvah (Am, Ah) are neither fully vowels nor fully consonants. They come after vowels and are helpful in pronunciation like consonants.",
+"keywords": [
+"अयोगवाह   Ayogvah",
+"मिश्रित   Mixed",
+"उच्चारण   Pronunciation",
+"सहायक   Helpful"
+],
+"explanation": "ये हिंदी वर्णमाला की एक विशेष श्रेणी हैं जो लेखन और ध्वनि दोनों में अलग महत्व रखते हैं।   They are a special category of the Hindi alphabet that hold separate importance in both writing and sound.",
+"page_number": "15"
+},
+{
+"id": 54,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 40,
+"max": 60
+},
+"question": "विसर्ग का प्रयोग हिंदी में कहाँ और कैसे होता है?   Where and how is Visarg used in Hindi?",
+"answer": "विसर्ग (:) का प्रयोग केवल तत्सम शब्दों में होता है। इसका उच्चारण 'ह' की तरह होता है। उदाहरण: प्रातः, अतः, प्रायः, संभवतः आदि।   Visarg (:) is used only in Tatsam words. It is pronounced like 'h'. Examples: Pratah, Atah, Prayah, Sambhavtah, etc.",
+"keywords": [
+"विसर्ग   Visarg",
+"तत्सम   Tatsam",
+"उच्चारण   Pronunciation",
+"उदाहरण   Example"
+],
+"explanation": "हिंदी में तद्भव शब्दों में विसर्ग का प्रयोग लगभग लुप्त हो गया है।   The use of Visarg has almost vanished in Tadbhav words in Hindi.",
+"page_number": "17"
+},
+{
+"id": 55,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 35,
+"max": 55
+},
+"question": "व्यंजन के तीन मुख्य प्रकारों के नाम और विशेषताएँ लिखें।   Write the names and characteristics of the three main types of consonants.",
+"answer": "1. स्पर्श व्यंजन: मुँह के भागों को छूते हैं। 2. अंतस्थ व्यंजन: स्वर और व्यंजन के बीच के। 3. ऊष्म व्यंजन: घर्षण से ऊष्मा पैदा करते हैं।   1. Sparsh: Touch parts of the mouth. 2. Antastha: Between vowel and consonant. 3. Ushma: Produce heat through friction.",
+"keywords": [
+"प्रकार   Types",
+"विशेषता   Characteristic",
+"स्पर्श   Touch",
+"ऊष्म   Ushma"
+],
+"explanation": "यह व्यंजनों का पारंपरिक और सबसे महत्वपूर्ण वर्गीकरण है।   This is the traditional and most important classification of consonants.",
+"page_number": "16"
+},
+{
+"id": 56,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 3,
+"expected_word_count": {
+"min": 45,
+"max": 75
+},
+"question": "'ज्ञ' व्यंजन के उच्चारण में समय के साथ क्या परिवर्तन आया है?   What change has come over time in the pronunciation of the 'Gya' consonant?",
+"answer": "'ज्ञ' का निर्माण 'ज् + ञ' से हुआ है, किंतु आधुनिक हिंदी में इसका उच्चारण 'ग् + य' की तरह अधिक प्रचलित हो गया है। इसे मानक मान लिया गया है।   'Gya' was formed from 'j + n', but in modern Hindi its pronunciation like 'g + y' has become more popular. It has been accepted as standard.",
+"keywords": [
+"ज्ञ   Gya",
+"परिवर्तन   Change",
+"मानक   Standard",
+"उच्चारण   Pronunciation"
+],
+"explanation": "भाषा के विकास के साथ कुछ ध्वनियों के उच्चारण के तरीकों में बदलाव आता है।   With the development of language, the ways of pronouncing some sounds change.",
+"page_number": "17"
+},
+{
+"id": 57,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 80,
+"max": 120
+},
+"question": "वर्ण-विचार (Orthography) की विस्तृत व्याख्या करें। इसमें किन विषयों का अध्ययन किया जाता है?   Give a detailed explanation of Orthography (Varn-Vichar). Which subjects are studied in it?",
+"answer": "वर्ण-विचार व्याकरण का वह भाग है जिसमें वर्णों के आकार, उनके उच्चारण और उनके मेल से शब्द बनाने के नियमों का अध्ययन किया जाता है। इसके अंतर्गत स्वर, व्यंजन, वर्णमाला, अयोगवाह, आगत ध्वनियाँ, संयुक्ताक्षर और वर्ण-विच्छेद जैसे महत्वपूर्ण विषयों पर चर्चा की जाती है। यह भाषा की शुद्धता और उसके लिखित रूप को मानकीकृत करने के लिए आधार प्रदान करता है।   Varn-Vichar is that part of grammar in which the shape of letters, their pronunciation, and the rules of forming words by combining them are studied. Under this, important topics like vowels, consonants, alphabet, Ayogvah, adopted sounds, joint consonants, and word segmentation are discussed. It provides the basis for the purity of language and standardizing its written form.",
+"keywords": [
+"व्याकरण   Grammar",
+"शुद्धता   Purity",
+"नियम   Rules",
+"मानकीकरण   Standardization"
+],
+"explanation": "यह भाषा सीखने का प्राथमिक चरण है जो पढ़ने और लिखने की नींव रखता है।   It is the primary stage of language learning that lays the foundation for reading and writing.",
+"page_number": "14"
+},
+{
+"id": 58,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"long_answer": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 80,
+"max": 110
+},
+"question": "स्वरों का वर्गीकरण किन आधारों पर किया गया है? विस्तार से समझाएं।   On what bases are vowels classified? Explain in detail.",
+"answer": "स्वरों का वर्गीकरण मुख्य रूप से उच्चारण में लगने वाले समय के आधार पर किया गया है: 1. ह्रस्व स्वर (अ, इ, उ, ऋ): सबसे कम समय। 2. दीर्घ स्वर (आ, ई, ऊ, ए, ऐ, ओ, औ): ह्रस्व से दोगुना समय। 3. प्लुत स्वर (ओ३म्): मूल स्वर से तिगुना समय। इसके अतिरिक्त, लेखन में इन्हें स्वतंत्र रूप में या मात्राओं के रूप में व्यंजनों के साथ प्रयोग किया जाता है।   Vowels are mainly classified based on the time taken for pronunciation: 1. Hrasva vowels (a, i, u, ri): minimum time. 2. Deergh vowels (aa, ee, oo, e, ai, o, au): twice the time of Hrasva. 3. Pluta vowels (Om): thrice the time of root vowel. Additionally, in writing, they are used either independently or as matras with consonants.",
+"keywords": [
+"वर्गीकरण   Classification",
+"उच्चारण समय   Pronunciation time",
+"ह्रस्व   Hrasva",
+"दीर्घ   Deergh",
+"प्लुत   Pluta"
+],
+"explanation": "स्वरों का सही ज्ञान ही हिंदी व्याकरण और वर्तनी की शुद्धता का मुख्य आधार है।   Correct knowledge of vowels is the main basis for the purity of Hindi grammar and spelling.",
+"page_number": "15"
+},
+{
+"id": 59,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 90,
+"max": 130
+},
+"question": "व्यंजन संधि या व्यंजनों के परस्पर मेल के नियमों को उदाहरणों के साथ स्पष्ट करें।   Explain the rules of consonant combinations or mutual merging of consonants with examples.",
+"answer": "व्यंजनों के मेल के चार प्रमुख नियम हैं: 1. खड़ी पाई हटाकर (ग्य— ग्यारह)। 2. घूँडी हटाकर (क्त— रक्त)। 3. बिना पाई वाले अक्षरों में हलंत लगाकर (ट्ट— खट्टा)। 4. 'र' के विभिन्न संयोग जैसे रेफ (र्म— धर्म), पदेन (प्र— प्रवीण) और द/ड के साथ (ट्र— ट्रेन)। इन नियमों का पालन करने से ही शब्दों का सही लिखित स्वरूप तैयार होता है और वे अर्थपूर्ण बनते हैं।   There are four major rules for merging consonants: 1. By removing vertical stem (gya— gyarah). 2. By removing loop (kt— rakt). 3. By putting Halant in non-stem letters (tta— khatta). 4. Different combinations of 'r' like Reph (rma— dharm), Paden (pra— praveen) and with da/da (tra— train). Only by following these rules, the correct written form of words is prepared and they become meaningful.",
+"keywords": [
+"संयोग   Combination",
+"नियम   Rules",
+"खड़ी पाई   Vertical stem",
+"रेफ   Reph",
+"पदेन   Paden"
+],
+"explanation": "व्यंजनों का मेल हिंदी वर्तनी का एक जटिल किंतु अत्यंत महत्वपूर्ण अंग है।   The combination of consonants is a complex but extremely important part of Hindi spelling.",
+"page_number": "18"
+},
+{
+"id": 60,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 85,
+"max": 120
+},
+"question": "हिंदी वर्णमाला के विभिन्न अंगों का विस्तृत परिचय दें।   Give a detailed introduction to the different parts of the Hindi alphabet.",
+"answer": "हिंदी वर्णमाला में निम्नलिखित अंग हैं: 1. स्वर (11): स्वतंत्र ध्वनियाँ। 2. अयोगवाह (2): अं, अ:। 3. व्यंजन: जिसमें स्पर्श (25), अंतस्थ (4) और ऊष्म (4) शामिल हैं। 4. संयुक्ताक्षर (4): क्ष, त्र, ज्ञ, श्र। 5. विशेष व्यंजन (2): ड़, ढ़। 6. आगत ध्वनियाँ (3): ऑ, ज़, फ़। इन सभी के योग से एक व्यवस्थित वर्णमाला का निर्माण होता है जो देवनागरी लिपि का आधार है।   The Hindi alphabet has the following parts: 1. Vowels (11): Independent sounds. 2. Ayogvah (2): Am, Ah. 3. Consonants: Including Sparsh (25), Antastha (4), and Ushma (4). 4. Sanyuktakshar (4): Ksha, Tra, Gya, Shra. 5. Special Consonants (2): Da, Dha. 6. Aagat sounds (3): Aw, Za, Fa. The combination of all these forms a systematic alphabet which is the basis of Devanagari script.",
+"keywords": [
+"अंग   Parts",
+"वर्णमाला   Alphabet",
+"अयोगवाह   Ayogvah",
+"संयुक्ताक्षर   Compound letters"
+],
+"explanation": "वर्णमाला के प्रत्येक अंग का अपना विशिष्ट उच्चारण और लेखन नियम है।   Each part of the alphabet has its specific pronunciation and writing rules.",
+"page_number": "14, 15, 17"
+},
+{
+"id": 61,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 90,
+"max": 140
+},
+"question": "अनुनासिक और अनुस्वार के प्रयोग के सूक्ष्म नियमों को उदाहरणों सहित समझाइए।   Explain the subtle rules for using Anunasik and Anusvar with examples.",
+"answer": "अनुस्वार एक नासिक्य ध्वनि है जिसका प्रयोग पंचम वर्णों के स्थान पर बिंदु (ं) के रूप में होता है (गंगा, अंत)। अनुनासिक में हवा नाक और मुँह दोनों से निकलती है, इसका चिह्न चंद्रबिंदु (ँ) है (आँख, चाँद)। एक महत्वपूर्ण नियम यह है कि यदि स्वर की मात्रा शिरोरेखा के ऊपर हो, तो चंद्रबिंदु के स्थान पर सुविधा के लिए बिंदु लगाया जाता है (धौंस, सिंचाई)। यह अंतर शब्दों के सही अर्थ और उच्चारण के लिए अनिवार्य है।   Anusvar is a nasal sound used as a dot (.) in place of the fifth letters (Ganga, Ant). In Anunasik, air comes out of both the nose and mouth, its sign is the Chandrabindu (ँ) (Aankh, Chand). An important rule is that if the vowel mark is above the headline, a dot is used instead of Chandrabindu for convenience (Dhauns, Sinchai). This difference is mandatory for the correct meaning and pronunciation of words.",
+"keywords": [
+"सूक्ष्म नियम   Subtle rules",
+"अनुस्वार   Anusvar",
+"अनुनासिक   Anunasik",
+"शिरोरेखा   Headline"
+],
+"explanation": "लेखन की शुद्धता के लिए इन ध्वनियों के प्रयोग के समय बहुत सावधानी की आवश्यकता होती है।   Great care is required when using these sounds for written purity.",
+"page_number": "16, 17"
+},
+{
+"id": 62,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 80,
+"max": 120
+},
+"question": "वर्ण-विच्छेद की प्रक्रिया को उदाहरणों के साथ विस्तार से समझाएं।   Explain the process of Varn-Vicched in detail with examples.",
+"answer": "वर्ण-विच्छेद में शब्द के प्रत्येक वर्ण को अलग किया जाता है। व्यंजन को हमेशा हलंत के साथ दिखाया जाता है और उसके बाद जुड़ा हुआ स्वर स्वतंत्र रूप में लिखा जाता है। उदाहरण: 1. दुर्लभ = द् + उ + र् + ल् + अ + भ् + अ। 2. उज्ज्वल = उ + ज् + ज् + व् + अ + ल् + अ। 3. स्वास्थ्य = स् + व् + आ + स् + थ् + य् + अ। यह प्रक्रिया शब्दों की बनावट को समझने और शुद्ध वर्तनी के लिए अत्यंत सहायक है।   In Varn-Vicched, each letter of the word is separated. The consonant is always shown with a Halant and the attached vowel following it is written independently. Examples: 1. Durlabh = d + u + r + l + a + bh + a. 2. Ujjval = u + j + j + v + a + l + a. 3. Swasthya = s + v + aa + s + th + y + a. This process is very helpful for understanding the structure of words and for correct spelling.",
+"keywords": [
+"प्रक्रिया   Process",
+"वर्ण-विच्छेद   Word segmentation",
+"हलंत   Halant",
+"शुद्ध वर्तनी   Correct spelling"
+],
+"explanation": "यह अभ्यास छात्रों को शब्द के वास्तविक ध्वन्यात्मक स्वरूप को पहचानने में मदद करता है।   This practice helps students recognize the actual phonetic form of the word.",
+"page_number": "18, 21"
+},
+{
+"id": 63,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 85,
+"max": 125
+},
+"question": "स्पर्श व्यंजनों के वर्गों और उनके उच्चारण स्थानों पर एक विस्तृत लेख लिखें।   Write a detailed article on the groups of Sparsh consonants and their places of articulation.",
+"answer": "स्पर्श व्यंजन 25 हैं, जिन्हें पाँच वर्गों में बाँटा गया है। प्रत्येक वर्ग का नाम उसके पहले अक्षर पर है। 1. क-वर्ग (क, ख, ग, घ, ङ) - कंठ। 2. च-वर्ग (च, छ, ज, झ, ञ) - तालु। 3. ट-वर्ग (ट, ठ, ड, ढ, ण) - मूर्धा। 4. त-वर्ग (त, थ, द, ध, न) - दंत। 5. प-वर्ग (प, फ, ब, भ, म) - ओष्ठ। ये मुँह के विभिन्न अवयवों के स्पर्श से बोले जाते हैं, इसलिए इन्हें स्पर्श व्यंजन कहते हैं।   Sparsh consonants are 25, divided into five groups. Each group is named after its first letter. 1. Ka-group (ka, kha, ga, gha, ng) - Throat. 2. Cha-group (cha, chha, ja, jha, n) - Palate. 3. Ta-group (ta, tha, da, dha, na) - Cerebrum. 4. Ta-group (ta, tha, da, dha, na) - Teeth. 5. Pa-group (pa, pha, ba, bha, ma) - Lips. These are spoken through the touch of different parts of the mouth, hence they are called Sparsh consonants.",
+"keywords": [
+"स्पर्श व्यंजन   Sparsh consonant",
+"वर्ग   Groups",
+"उच्चारण स्थान   Place of articulation",
+"कंठ   Throat"
+],
+"explanation": "यह वर्गीकरण वैज्ञानिक है और भाषा के ध्वन्यात्मक आधार को स्पष्ट करता है।   This classification is scientific and clarifies the phonetic basis of the language.",
+"page_number": "16"
+},
+{
+"id": 64,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 90,
+"max": 140
+},
+"question": "संयुक्ताक्षर और संयुक्त व्यंजन की संरचना को उदाहरणों सहित विस्तार से समझाएं।   Explain the structure of संयुक्ताक्षर (Sanyuktakshar) and संयुक्त व्यंजन (Sanyukt Vyanjan) in detail with examples.",
+"answer": "संयुक्ताक्षर वे हैं जो दो अलग व्यंजनों के मेल से नए वर्ण के रूप में स्थापित हुए हैं: क्ष (क्+ष), त्र (त्+र), ज्ञ (ज्+ञ), श्र (श्+र)। इनके अतिरिक्त हिंदी में व्यंजनों का अन्य संयोग भी प्रचलित है जैसे क्+य (क्यारी), क्+त (भक्त), र्+म (धर्म)। जब दो या दो से अधिक अलग व्यंजन एक साथ मिलते हैं तो वे व्यंजन गुच्छ भी कहलाते हैं। यह हिंदी की लेखन क्षमता को बढ़ाते हैं और नए शब्दों के निर्माण में सहायक होते हैं।   Sanyuktakshar are those that have been established as new letters by the merging of two different consonants: Ksha (k+sh), Tra (t+r), Gya (j+n), Shra (sh+r). Besides these, other combinations of consonants are also prevalent in Hindi like k+ya (kyari), k+t (bhakt), r+m (dharm). When two or more different consonants come together, they are also called consonant clusters. These enhance the writing capacity of Hindi and are helpful in the creation of new words.",
+"keywords": [
+"संरचना   Structure",
+"संयुक्ताक्षर   Compound letters",
+"व्यंजन गुच्छ   Consonant clusters",
+"निर्माण   Creation"
+],
+"explanation": "संयुक्ताक्षरों का सही विच्छेद ही वर्तनी की शुद्धता की कुंजी है।   Correct segmentation of compound letters is the key to correct spelling.",
+"page_number": "17"
+},
+{
+"id": 65,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 75,
+"max": 110
+},
+"question": "हिंदी भाषा में 'वर्ण' के महत्व पर प्रकाश डालिए।   Highlight the importance of 'Varn' in the Hindi language.",
+"answer": "वर्ण भाषा की सबसे छोटी और अविभाज्य इकाई है। यह भाषा का वह लिखित आधार है जिस पर संपूर्ण व्याकरण टिका है। उच्चरित ध्वनियों को सुरक्षित रखने के लिए वर्णों की आवश्यकता होती है। वर्णों के सार्थक मेल से शब्द और शब्दों से वाक्य बनते हैं। बिना वर्णों के ज्ञान के भाषा को न तो पढ़ा जा सकता है और न ही लिखा जा सकता है। इसलिए वर्ण-विचार का अध्ययन भाषा सीखने का सबसे महत्वपूर्ण कदम है।   Varn is the smallest and indivisible unit of language. It is that written basis on which the entire grammar rests. Letters are needed to preserve spoken sounds. Meaningful combination of letters makes words and words make sentences. Without the knowledge of letters, language can neither be read nor written. Therefore, the study of orthography is the most important step in language learning.",
+"keywords": [
+"महत्व   Importance",
+"इकाई   Unit",
+"आधार   Basis",
+"सार्थक मेल   Meaningful combination"
+],
+"explanation": "वर्ण ही वह बीज है जिससे भाषा रूपी वृक्ष पल्लवित होता है।   Varn is the seed from which the tree of language flourishes.",
+"page_number": "14"
+},
+{
+"id": 66,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 85,
+"max": 125
+},
+"question": "आगत ध्वनियों के हिंदी में समावेश के सामाजिक और भाषाई कारणों पर चर्चा करें।   Discuss the social and linguistic reasons for the inclusion of Aagat sounds in Hindi.",
+"answer": "सामाजिक रूप से अंग्रेज़ी और अरबी-फ़ारसी बोलने वालों के संपर्क में आने से कई शब्द हिंदी में घुल-मिल गए। भाषाई रूप से इन शब्दों के शुद्ध उच्चारण को बनाए रखने के लिए आगत ध्वनियाँ (ऑ, ज़, फ़) अपनाई गईं। उदाहरण के लिए 'हॉल' को 'हाल' से अलग करने के लिए 'ऑ' का प्रयोग आवश्यक है। यह हिंदी की उदारता और उसके विकासशील स्वभाव को दर्शाता है।   Socially, many words merged into Hindi by coming into contact with English and Arabic-Persian speakers. Linguistically, Aagat sounds (Aw, Za, Fa) were adopted to maintain the pure pronunciation of these words. For example, to differentiate 'Hall' from 'Haal', the use of 'Aw' is necessary. This shows the generosity and developing nature of Hindi.",
+"keywords": [
+"समावेश   Inclusion",
+"उदारता   Generosity",
+"विकासशील   Developing",
+"प्रभाव   Influence"
+],
+"explanation": "भाषा समय के साथ बदलती है और नए प्रभावों को स्वीकार करती है।   Language changes over time and accepts new influences.",
+"page_number": "18"
+},
+{
+"id": 67,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 80,
+"max": 115
+},
+"question": "विसर्ग और अयोगवाह का संक्षिप्त किंतु व्यापक परिचय दें।   Give a brief but comprehensive introduction to Visarg and Ayogvah.",
+"answer": "अयोगवाह (अं और अ:) वे वर्ण हैं जो न पूरी तरह स्वर हैं और न व्यंजन। अनुस्वार (अं) एक नासिक्य ध्वनि है। विसर्ग (अ:) का प्रयोग केवल संस्कृत के शब्दों में होता है और इसका उच्चारण 'ह' की तरह किया जाता है। इन्हें स्वरों के साथ गिना जाता है क्योंकि इनके उच्चारण में स्वरों की सहायता ली जाती है। ये हिंदी लेखन में ध्वन्यात्मकता और अर्थ की विशिष्टता लाने के लिए महत्वपूर्ण हैं।   Ayogvah (Am and Ah) are letters that are neither fully vowels nor consonants. Anusvar (Am) is a nasal sound. Visarg (Ah) is used only in Sanskrit words and is pronounced like 'h'. They are counted with vowels because vowels help in their pronunciation. They are important for bringing phonetics and uniqueness of meaning to Hindi writing.",
+"keywords": [
+"अयोगवाह   Ayogvah",
+"विसर्ग   Visarg",
+"नासिक्य   Nasal",
+"विशिष्टता   Uniqueness"
+],
+"explanation": "ये वर्णमाला की ऐसी कड़ी हैं जो स्वर और व्यंजन के बीच के पुल का काम करते हैं।   These letters are a link in the alphabet that act as a bridge between vowels and consonants.",
+"page_number": "15, 17"
+},
+{
+"id": 68,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 90,
+"max": 130
+},
+"question": "हिंदी की मानक वर्णमाला के विकास में कंप्यूटर के प्रभाव का वर्णन करें।   Describe the influence of computers on the development of standard Hindi alphabet.",
+"answer": "कंप्यूटर और आधुनिक तकनीक ने देवनागरी लिपि के मानकीकरण में बड़ी भूमिका निभाई है। फोंट और कीबोर्ड की सीमाओं के कारण कुछ अक्षरों के संयुक्त रूपों को सरल बनाया गया है। संयुक्ताक्षरों और वर्तनी के नियमों को डिजिटल रूप में व्यवस्थित करने से हिंदी लेखन अधिक सुगम और व्यापक हुआ है। इससे दुनिया भर में हिंदी के शुद्ध स्वरूप का प्रचार-प्रसार आसान हुआ है और टाइपिंग की गलतियाँ कम हुई हैं।   Computers and modern technology have played a big role in the standardization of the Devanagari script. Due to font and keyboard limitations, combined forms of some letters have been simplified. By digitally organizing Sanyuktakshar and spelling rules, Hindi writing has become easier and broader. This has made the propagation of the pure form of Hindi easier across the world and reduced typing errors.",
+"keywords": [
+"प्रभाव   Influence",
+"मानकीकरण   Standardization",
+"सुगम   Easy/Accessible",
+"डिजिटल   Digital"
+],
+"explanation": "तकनीकी विकास ने हिंदी को आधुनिक युग की आवश्यकताओं के अनुरूप ढालने में मदद की है।   Technological development has helped mold Hindi to the requirements of the modern era.",
+"page_number": "14"
+},
+{
+"id": 69,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 80,
+"max": 120
+},
+"question": "ह्रस्व और दीर्घ स्वरों का तुलनात्मक अध्ययन प्रस्तुत करें।   Present a comparative study of Hrasva and Deergh vowels.",
+"answer": "ह्रस्व स्वर चार हैं (अ, इ, उ, ऋ) जबकि दीर्घ स्वर सात हैं (आ, ई, ऊ, ए, ऐ, ओ, औ)। मुख्य अंतर उच्चारण के समय का है; ह्रस्व में बहुत कम समय लगता है और दीर्घ में उसका दोगुना। 'ऋ' स्वर एक विशेष स्थिति में है जिसका उच्चारण 'रि' जैसा होता है। दीर्घ स्वरों का निर्माण अक्सर दो समान ह्रस्व स्वरों के मेल से होता है। यह तुलना भाषा के लय और उच्चारण की शुद्धता को समझने के लिए आवश्यक है।   Hrasva vowels are four (a, i, u, ri) while Deergh vowels are seven (aa, ee, oo, e, ai, o, au). The main difference is of pronunciation time; Hrasva takes very little time and Deergh takes twice of that. 'Ri' vowel is in a special status whose pronunciation is like 'ri'. Deergh vowels are often formed by the combination of two identical short vowels. This comparison is necessary to understand the rhythm and purity of pronunciation of the language.",
+"keywords": [
+"तुलनात्मक   Comparative",
+"समय   Time",
+"लय   Rhythm",
+"शुद्धता   Purity"
+],
+"explanation": "स्वरों के इस अंतर को समझे बिना वर्तनी की मात्राओं का सही प्रयोग संभव नहीं है।   Correct use of spelling marks is not possible without understanding this difference in vowels.",
+"page_number": "15"
+},
+{
+"id": 70,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 85,
+"max": 125
+},
+"question": "स्पर्श, अंतस्थ और ऊष्म व्यंजनों का वर्गीकरण किन वैज्ञानिक सिद्धांतों पर आधारित है?   On what scientific principles is the classification of Sparsh, Antastha, and Ushma consonants based?",
+"answer": "यह वर्गीकरण मुँह के भीतर वायु के प्रवाह और स्पर्श के स्थान पर आधारित है। स्पर्श व्यंजन में वायु मुँह के किसी अंग को पूरी तरह छूती है। अंतस्थ व्यंजन में स्पर्श बहुत हल्का या न के बराबर होता है और वे स्वर-व्यंजन के मध्य की स्थिति में होते हैं। ऊष्म व्यंजन में वायु रगड़ खाकर बाहर निकलती है जिससे गर्मी पैदा होती है। यह पूर्णतः एक ध्वनि-वैज्ञानिक दृष्टिकोण है जो भाषा की वैज्ञानिकता को सिद्ध करता है।   This classification is based on the flow of air inside the mouth and the place of touch. In Sparsh consonants, air fully touches some organ of the mouth. In Antastha consonants, the touch is very light or negligible and they are in the position between vowel and consonant. In Ushma consonants, air comes out with friction creating heat. This is a complete phonoscientific perspective that proves the scientific nature of the language.",
+"keywords": [
+"वैज्ञानिक सिद्धांत   Scientific principles",
+"ध्वनि-विज्ञान   Phonology",
+"वायु प्रवाह   Air flow",
+"स्पर्श   Touch"
+],
+"explanation": "यह वर्गीकरण सिद्ध करता है कि हिंदी वर्णमाला दुनिया की सबसे तर्कसंगत वर्णमालाओं में से एक है।   This classification proves that the Hindi alphabet is one of the most logical alphabets in the world.",
+"page_number": "16"
+},
+{
+"id": 71,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 90,
+"max": 135
+},
+"question": "वर्ण-विच्छेद के अभ्यास से वर्तनी की त्रुटियों को कैसे सुधारा जा सकता है?   How can spelling errors be improved through the practice of Varn-Vicched?",
+"answer": "वर्ण-विच्छेद छात्र को शब्द के भीतर छिपे प्रत्येक स्वर और व्यंजन की सटीक पहचान कराता है। जब छात्र शब्दों को उनके मूल वर्णों में तोड़ता है, तो उसे मात्राओं की स्थिति, आधे अक्षरों (स्वर-रहित व्यंजन) और संयुक्ताक्षरों की बनावट का स्पष्ट ज्ञान होता है। उदाहरण के लिए 'उज्ज्वल' में दो बार आधे 'ज' का प्रयोग विच्छेद से स्पष्ट हो जाता है। यह सूक्ष्म निरीक्षण छात्र की स्मरण शक्ति और लेखन की शुद्धता को बढ़ाता है।   Varn-Vicched makes the student accurately recognize each vowel and consonant hidden within a word. When a student breaks words into their root letters, they gain clear knowledge of the position of marks, half letters (vowel-less consonants), and the structure of compound letters. For example, the use of two half 'j's in 'Ujjval' becomes clear through segmentation. This subtle inspection increases the student's memory power and writing purity.",
+"keywords": [
+"त्रुटियाँ   Errors",
+"सुधार   Improvement",
+"सूक्ष्म निरीक्षण   Subtle inspection",
+"सटीक पहचान   Accurate recognition"
+],
+"explanation": "लगातार अभ्यास से छात्र कठिन से कठिन शब्दों की वर्तनी को आसानी से याद रख सकते हैं।   With constant practice, students can easily remember the spellings of the most difficult words.",
+"page_number": "18"
+},
+{
+"id": 72,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "long_answer",
+"marks": 5,
+"expected_word_count": {
+"min": 80,
+"max": 110
+},
+"question": "हिंदी भाषा के विकास में लिपि और वर्तनी के मानकीकरण की आवश्यकता पर टिप्पणी करें।   Comment on the need for standardization of script and spelling in the development of the Hindi language.",
+"answer": "किसी भी भाषा के वैश्विक प्रसार के लिए उसकी लिपि और वर्तनी का एक समान होना आवश्यक है। मानकीकरण से भ्रम दूर होता है और संवाद अधिक प्रभावशाली बनता है। हिंदी को राजभाषा और राष्ट्रभाषा के रूप में प्रतिष्ठित करने के लिए देवनागरी लिपि के नियमों को स्थिर करना जरूरी था। टाइपराइटर और कंप्यूटर के दौर में यह आवश्यकता और भी बढ़ गई ताकि तकनीक के साथ भाषा कदम से कदम मिलाकर चल सके।   For the global spread of any language, it is necessary for its script and spelling to be uniform. Standardization removes confusion and makes communication more effective. To establish Hindi as the official and national language, it was necessary to stabilize the rules of the Devanagari script. In the era of typewriters and computers, this need increased even more so that language could walk step by step with technology.",
+"keywords": [
+"मानकीकरण   Standardization",
+"संवाद   Communication",
+"स्थिर   Stable",
+"वैश्विक प्रसार   Global spread"
+],
+"explanation": "मानकीकरण भाषा की अखंडता और उसकी वैज्ञानिकता को बनाए रखने का एक साधन है।   Standardization is a means of maintaining the integrity and scientific nature of the language.",
+"page_number": "14"
+},
+{
+"id": 73,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 15
+},
+"question": "अक्षर किसे कहते हैं?   What is called an Akshar (syllable/letter)?",
+"answer": "वर्णों के सार्थक संयोजन से बने रूप को अक्षर भी कहा जाता है।   The form made by the meaningful combination of letters is also called Akshar.",
+"keywords": [
+"अक्षर   Letter",
+"सार्थक   Meaningful",
+"संयोजन   Combination"
+],
+"explanation": "प्रत्येक शब्द वर्णों के सार्थक मेल से बनता है।   Each word is formed by the meaningful combination of letters.",
+"page_number": "14"
+},
+{
+"id": 74,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 20
+},
+"question": "'ऋ' का उच्चारण हिंदी में कैसा होता है?   What is the pronunciation of 'Ri' like in Hindi?",
+"answer": "हिंदी में 'ऋ' का उच्चारण 'रि' के रूप में किया जाता है।   In Hindi, 'Ri' is pronounced as 'Ri'.",
+"keywords": [
+"उच्चारण   Pronunciation",
+"स्वर   Vowel",
+"विशेष   Special"
+],
+"explanation": "यद्यपि यह एक स्वर है, इसका उच्चारण व्यंजन 'र' और स्वर 'इ' के मेल जैसा है।   Although it is a vowel, its pronunciation is like a combination of the consonant 'r' and the vowel 'i'.",
+"page_number": "15"
+},
+{
+"id": 75,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 30
+},
+"question": "स्वर-रहित व्यंजन को कैसे दर्शाया जाता है?   How is a vowel-less consonant shown?",
+"answer": "स्वर-रहित व्यंजन को दर्शाने के लिए उसके नीचे हलंत (्) लगाया जाता है।   To show a vowel-less consonant, a Halant (्) is placed under it.",
+"keywords": [
+"स्वर-रहित   Vowel-less",
+"हलंत   Halant",
+"चिह्न   Sign"
+],
+"explanation": "यह संकेत देता है कि व्यंजन के साथ 'अ' का उच्चारण नहीं जुड़ा है।   This indicates that the pronunciation of 'a' is not attached to the consonant.",
+"page_number": "15"
+},
+{
+"id": 76,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 40
+},
+"question": "हिंदी की चार संयुक्ताक्षर ध्वनियाँ कौन-सी हैं?   Which are the four joint consonant sounds of Hindi?",
+"answer": "क्ष, त्र, ज्ञ और श्र हिंदी की चार संयुक्ताक्षर ध्वनियाँ हैं।   Ksha, Tra, Gya, and Shra are the four joint consonant sounds of Hindi.",
+"keywords": [
+"संयुक्ताक्षर   Compound letters",
+"संयुक्त व्यंजन   Joint consonants",
+"ध्वनि   Sound"
+],
+"explanation": "इन्हें हिंदी वर्णमाला के अंत में रखा जाता है।   They are placed at the end of the Hindi alphabet.",
+"page_number": "17"
+},
+{
+"id": 77,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "hard",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 30,
+"max": 50
+},
+"question": "अनुस्वार 'गंगा' और 'अंजाम' में अलग-अलग क्यों बोला जाता है?   Why is Anusvar pronounced differently in 'Ganga' and 'Anjam'?",
+"answer": "अनुस्वार अपने बाद आने वाले व्यंजन वर्ग के पंचम वर्ण की तरह बोला जाता है। गंगा में ग-वर्ग (ङ) और अंजाम में ज-वर्ग (ञ) का उच्चारण होता है।   Anusvar is pronounced like the fifth letter of the consonant group following it. In Ganga, the Ka-group (ng) and in Anjam, the Cha-group (n) is pronounced.",
+"keywords": [
+"पंचम वर्ण   Fifth letter",
+"व्यंजन वर्ग   Consonant group",
+"अनुस्वार   Anusvar"
+],
+"explanation": "यह अनुस्वार के प्रयोग का एक महत्वपूर्ण ध्वनि-वैज्ञानिक नियम है।   This is an important phonetic rule for the use of Anusvar.",
+"page_number": "16"
+},
+{
+"id": 78,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 20,
+"max": 35
+},
+"question": "'ऑ' ध्वनि का प्रयोग किन शब्दों में अधिक होता है?   In which words is the 'Aw' sound used more often?",
+"answer": "'ऑ' अंग्रेज़ी से आई स्वर ध्वनि है। इसका प्रयोग हॉल, डॉक्टर, कॉलेज आदि शब्दों में अधिक होता है।   'Aw' is a vowel sound that came from English. It is mostly used in words like Hall, Doctor, College, etc.",
+"keywords": [
+"ऑ   Aw",
+"अंग्रेज़ी   English",
+"आगत   Adopted"
+],
+"explanation": "यह ध्वनि 'आ' और 'ओ' के बीच की ध्वनि है।   This sound is between 'aa' and 'o'.",
+"page_number": "18"
+},
+{
+"id": 79,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "easy",
+"question_type": "short_answer",
+"marks": 1,
+"expected_word_count": {
+"min": 10,
+"max": 15
+},
+"question": "हिंदी वर्णमाला में कितने वर्ग हैं?   How many groups are there in the Hindi alphabet?",
+"answer": "व्यंजनों के लिए मुख्य रूप से पाँच वर्ग हैं— क, च, ट, त, प।   There are mainly five groups for consonants— ka, cha, ta, ta, pa.",
+"keywords": [
+"वर्ग   Groups",
+"व्यंजन   Consonants",
+"क्रम   Order"
+],
+"explanation": "इन पाँचों वर्गों के नाम उनके पहले वर्ण पर रखे गए हैं।   The names of these five groups are based on their first letter.",
+"page_number": "14"
+},
+{
+"id": 80,
+"subject": "Hindi",
+"chapter": "वर्ण-विचार-QA-v1",
+"difficulty": "medium",
+"question_type": "short_answer",
+"marks": 2,
+"expected_word_count": {
+"min": 25,
+"max": 40
+},
+"question": "भाषा के मौखिक और लिखित कौशलों में क्या अंतर है?   What is the difference between oral and written skills of language?",
+"answer": "मौखिक कौशल (सुनना, बोलना) ध्वनियों के उच्चारण पर आधारित हैं। लिखित कौशल (पढ़ना, लिखना) उन ध्वनियों को लिपि-चिह्नों या वर्णों के माध्यम से व्यक्त करते हैं।   Oral skills (listening, speaking) are based on the pronunciation of sounds. Written skills (reading, writing) express those sounds through script-signs or letters.",
+"keywords": [
+"मौखिक   Oral",
+"लिखित   Written",
+"कौशल   Skills",
+"उच्चारण   Pronunciation"
+],
+"explanation": "उच्चरित ध्वनियों को लिखकर व्यक्त करने के लिए लेखन-चिह्नों की आवश्यकता होती है।   Writing signs are needed to express spoken sounds in writing.",
+"page_number": "14"
+}
+]
