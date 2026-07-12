@@ -1,0 +1,1737 @@
+[
+  {
+    "id": 1,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "विशेषण की परिभाषा लिखिए।   Write the definition of an adjective.",
+    "answer": "संज्ञा या सर्वनाम की विशेषता बताने वाले शब्द विशेषण कहलाते हैं।   Words that tell the characteristics of a noun or pronoun are called adjectives.",
+    "keywords": [
+      "विशेषण   Adjective",
+      "संज्ञा   Noun",
+      "सर्वनाम   Pronoun",
+      "विशेषता   Characteristic"
+    ],
+    "explanation": "विशेषण वे शब्द हैं जो किसी व्यक्ति, वस्तु या स्थान की विशेषता प्रकट करते हैं।   Adjectives are words that reveal the characteristics of a person, object, or place.",
+    "page_number": "87"
+  },
+  {
+    "id": 2,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "विशेष्य किसे कहते हैं?   What is a 'Visheshya' (the noun modified by an adjective)?",
+    "answer": "विशेषण शब्द जिसकी विशेषता बताते हैं, उसे विशेष्य कहा जाता है।   The word whose characteristic an adjective describes is called 'Visheshya'.",
+    "keywords": [
+      "विशेष्य   Modified noun",
+      "विशेषण   Adjective",
+      "विशेषता   Characteristic"
+    ],
+    "explanation": "जिस संज्ञा या सर्वनाम की विशेषता बताई जाती है, व्याकरण में उसे विशेष्य कहते हैं।   The noun or pronoun whose characteristic is described is called 'Visheshya' in grammar.",
+    "page_number": "87"
+  },
+  {
+    "id": 3,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "विशेषण के कितने भेद हैं?   How many types of adjectives are there?",
+    "answer": "विशेषण के चार भेद होते हैं।   There are four types of adjectives.",
+    "keywords": [
+      "विशेषण   Adjective",
+      "भेद   Types",
+      "चार   Four"
+    ],
+    "explanation": "पाठ के अनुसार विशेषण को मुख्य रूप से चार श्रेणियों में बाँटा गया है।   According to the lesson, adjectives are mainly divided into four categories.",
+    "page_number": "87"
+  },
+  {
+    "id": 4,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "गुणवाचक विशेषण क्या बताते हैं?   What do qualitative adjectives describe?",
+    "answer": "ये किसी विशेष्य के गुण, दोष, आकार, रंग, दशा, स्वाद आदि की विशेषता बताते हैं।   These describe the qualities, defects, shape, color, condition, taste, etc., of a modified noun.",
+    "keywords": [
+      "गुणवाचक   Qualitative",
+      "गुण   Quality",
+      "आकार   Shape",
+      "दशा   Condition"
+    ],
+    "explanation": "गुणवाचक विशेषण संज्ञा के गुणों या स्वभाव का बोध कराते हैं।   Qualitative adjectives provide information about the qualities or nature of a noun.",
+    "page_number": "87"
+  },
+  {
+    "id": 5,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "संख्यावाचक विशेषण से किसका ज्ञान होता है?   What does a numeral adjective indicate?",
+    "answer": "संख्यावाचक विशेषण से संज्ञा की संख्या का ज्ञान होता है।   A numeral adjective provides knowledge about the number of the noun.",
+    "keywords": [
+      "संख्या   Number",
+      "संख्यावाचक   Numeral adjective",
+      "ज्ञान   Knowledge"
+    ],
+    "explanation": "यह विशेषण बताता है कि संज्ञा की गिनती कितनी है।   This adjective tells the count of the noun.",
+    "page_number": "87"
+  },
+  {
+    "id": 6,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "परिमाणवाचक विशेषण से आप क्या समझते हैं?   What do you understand by quantitative adjectives?",
+    "answer": "जो विशेषण संज्ञा शब्दों की माप-तोल या मात्रा का बोध कराते हैं।   Adjectives that provide knowledge of the measurement or quantity of noun words.",
+    "keywords": [
+      "परिमाणवाचक   Quantitative",
+      "माप-तोल   Measurement",
+      "मात्रा   Quantity"
+    ],
+    "explanation": "यह विशेषण उन वस्तुओं के लिए प्रयोग होता है जिन्हें गिना नहीं जा सकता, केवल तोला जा सकता है।   This adjective is used for items that cannot be counted, only weighed or measured.",
+    "page_number": "87"
+  },
+  {
+    "id": 7,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "सार्वनामिक विशेषण कब कहलाते हैं?   When are words called pronominal adjectives?",
+    "answer": "जब सर्वनाम किसी संज्ञा शब्द की विशेषता बताने के लिए प्रयोग किए जाते हैं।   When pronouns are used to describe the characteristics of a noun word.",
+    "keywords": [
+      "सार्वनामिक   Pronominal",
+      "संज्ञा   Noun",
+      "सर्वनाम   Pronoun"
+    ],
+    "explanation": "संज्ञा से पहले आकर उसकी विशेषता बताने वाले सर्वनाम सार्वनामिक विशेषण बन जाते हैं।   Pronouns that appear before a noun to describe its characteristic become pronominal adjectives.",
+    "page_number": "88"
+  },
+  {
+    "id": 8,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "प्रविशेषण किसे कहते हैं?   What is a 'Pra-visheshan'?",
+    "answer": "विशेषण शब्दों की विशेषता बताने वाले शब्दों को प्रविशेषण कहते हैं।   Words that describe the characteristics of adjectives are called 'Pra-visheshan' (adverbs modifying adjectives).",
+    "keywords": [
+      "प्रविशेषण   Modifier of adjective",
+      "विशेषण   Adjective",
+      "विशेषता   Characteristic"
+    ],
+    "explanation": "जब कोई शब्द किसी दूसरे विशेषण की ही विशेषता बताए, तो उसे प्रविशेषण कहा जाता है।   When a word describes the characteristic of another adjective, it is called 'Pra-visheshan'.",
+    "page_number": "88"
+  },
+  {
+    "id": 9,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "विशेषण की तुलना की कितनी अवस्थाएँ मानी जाती हैं?   How many stages of comparison of adjectives are considered?",
+    "answer": "तुलना की तीन अवस्थाएँ मानी जाती हैं - मूलावस्था, उत्तरावस्था और उत्तमावस्था।   Three stages of comparison are considered - positive, comparative, and superlative.",
+    "keywords": [
+      "तुलना   Comparison",
+      "अवस्थाएँ   Stages",
+      "मूलावस्था   Positive degree"
+    ],
+    "explanation": "व्यक्तियों या वस्तुओं के गुणों की तुलना करने के लिए तीन स्तर निर्धारित हैं।   Three levels are set for comparing the qualities of people or objects.",
+    "page_number": "88"
+  },
+  {
+    "id": 10,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "'प्रकृति' शब्द से बना विशेषण क्या है?   What is the adjective formed from the word 'Prakriti'?",
+    "answer": "'प्रकृति' से बना विशेषण 'प्राकृतिक' है।   The adjective formed from 'Prakriti' is 'Prakritik'.",
+    "keywords": [
+      "प्रकृति   Nature",
+      "प्राकृतिक   Natural",
+      "विशेषण   Adjective"
+    ],
+    "explanation": "संज्ञा शब्दों में प्रत्यय जोड़कर विशेषण बनाए जाते हैं।   Adjectives are formed by adding suffixes to noun words.",
+    "page_number": "89"
+  },
+  {
+    "id": 11,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "तत्सम शब्दों में उत्तरावस्था के लिए क्या प्रत्यय लगाया जाता है?   What suffix is added to Tatsam words for the comparative degree?",
+    "answer": "तत्सम शब्दों में उत्तरावस्था के लिए 'तर' प्रत्यय लगाया जाता है।   The suffix 'tar' is added to Tatsam words for the comparative degree.",
+    "keywords": [
+      "तत्सम   Tatsam",
+      "उत्तरावस्था   Comparative stage",
+      "प्रत्यय   Suffix",
+      "तर   Tar"
+    ],
+    "explanation": "संस्कृत निष्ठ शब्दों में तुलना प्रकट करने के लिए 'तर' का प्रयोग होता है।   'Tar' is used in Sanskrit-based words to express comparison.",
+    "page_number": "89"
+  },
+  {
+    "id": 12,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "तत्सम शब्दों में उत्तमावस्था के लिए कौन-सा प्रत्यय लगता है?   Which suffix is used for the superlative degree in Tatsam words?",
+    "answer": "तत्सम शब्दों में उत्तमावस्था के लिए 'तम' प्रत्यय लगाया जाता है।   The suffix 'tam' is added to Tatsam words for the superlative degree.",
+    "keywords": [
+      "उत्तमावस्था   Superlative stage",
+      "प्रत्यय   Suffix",
+      "तम   Tam"
+    ],
+    "explanation": "सर्वश्रेष्ठता दर्शाने के लिए 'तम' प्रत्यय का प्रयोग किया जाता है।   The suffix 'tam' is used to show excellence over all.",
+    "page_number": "89"
+  },
+  {
+    "id": 13,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "'प्यासा' शब्द किस मूल शब्द से बना विशेषण है?   From which root word is the adjective 'Pyasa' formed?",
+    "answer": "'प्यासा' विशेषण 'प्यास' शब्द से बना है।   The adjective 'Pyasa' is formed from the word 'Pyas'.",
+    "keywords": [
+      "प्यास   Thirst",
+      "प्यासा   Thirsty",
+      "मूल शब्द   Root word"
+    ],
+    "explanation": "प्यास संज्ञा है, जिससे प्यासा विशेषण बनता है।   Thirst is a noun, from which thirsty is formed as an adjective.",
+    "page_number": "93"
+  },
+  {
+    "id": 14,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "क्रिया द्वारा बने किसी एक विशेषण का उदाहरण दीजिए।   Give one example of an adjective formed by a verb.",
+    "answer": "'पठ' क्रिया से 'पठित' विशेषण बनता है।   The adjective 'Pathit' is formed from the verb 'Path'.",
+    "keywords": [
+      "क्रिया   Verb",
+      "पठ   Read",
+      "पठित   Read (adjective)"
+    ],
+    "explanation": "क्रिया के मूल रूप में प्रत्यय लगाकर विशेषण बनाए जा सकते हैं।   Adjectives can be formed by adding suffixes to the root form of verbs.",
+    "page_number": "90"
+  },
+  {
+    "id": 15,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "'बाहरी' शब्द किस प्रकार का विशेषण है?   What kind of adjective is the word 'Bahari'?",
+    "answer": "यह 'बाहर' अव्यय से बना विशेषण है।   This is an adjective formed from the indeclinable word 'Bahar'.",
+    "keywords": [
+      "अव्यय   Indeclinable",
+      "बाहर   Outside",
+      "बाहरी   Outer"
+    ],
+    "explanation": "अव्यय शब्दों में 'ई' प्रत्यय जोड़कर बाहरी विशेषण बना है।   The adjective 'Bahari' is formed by adding the 'ee' suffix to an indeclinable word.",
+    "page_number": "90"
+  },
+  {
+    "id": 16,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "क्या अकारांत विशेषणों में लिंग के अनुसार परिवर्तन होता है?   Do non-A-karanti adjectives change according to gender?",
+    "answer": "नहीं, अकारांत, ईकारांत और उकारांत विशेषणों में लिंग के अनुसार कोई परिवर्तन नहीं होता।   No, adjectives ending in short 'a', 'ee', or 'u' do not change according to gender.",
+    "keywords": [
+      "परिवर्तन   Change",
+      "लिंग   Gender",
+      "अकारांत   Ending in short 'a'"
+    ],
+    "explanation": "सुंदर, श्रद्धालु जैसे शब्द लड़का और लड़की दोनों के लिए समान रहते हैं।   Words like beautiful or faithful remain the same for both boy and girl.",
+    "page_number": "90"
+  },
+  {
+    "id": 17,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "उदाहरण सहित विशेषण और विशेष्य में अंतर स्पष्ट कीजिए।   Explain the difference between an adjective and a modified noun with examples.",
+    "answer": "जो शब्द विशेषता बताते हैं वे विशेषण हैं, जैसे 'काला' घोड़ा। यहाँ 'काला' विशेषण है और 'घोड़ा' विशेष्य है।   Words that describe qualities are adjectives, e.g., 'black' horse. Here 'black' is the adjective and 'horse' is the modified noun.",
+    "keywords": [
+      "विशेषण   Adjective",
+      "विशेष्य   Modified noun",
+      "अंतर   Difference",
+      "काला   Black"
+    ],
+    "explanation": "वाक्य में जिसकी विशेषता बताई जाए वह विशेष्य और जो विशेषता हो वह विशेषण कहलाता है।   In a sentence, the one whose characteristic is described is the modified noun, and the characteristic itself is the adjective.",
+    "page_number": "87"
+  },
+  {
+    "id": 18,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "गुणवाचक विशेषण के चार उदाहरण लिखिए।   Write four examples of qualitative adjectives.",
+    "answer": "परिश्रमी विद्यार्थी, विशाल महासागर, क्रोधी भीड़ और भारतीय लोग।   Hardworking student, vast ocean, angry crowd, and Indian people.",
+    "keywords": [
+      "परिश्रमी   Hardworking",
+      "विशाल   Vast",
+      "क्रोधी   Angry",
+      "भारतीय   Indian"
+    ],
+    "explanation": "ये शब्द संज्ञा के स्वभाव, गुण या पहचान को स्पष्ट करते हैं।   These words clarify the nature, quality, or identity of the noun.",
+    "page_number": "87"
+  },
+  {
+    "id": 19,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "निश्चित संख्यावाचक विशेषण के दो उदाहरण दीजिए।   Give two examples of definite numeral adjectives.",
+    "answer": "1. चित्र में तीन गुलाब हैं। 2. दो मोर नाच रहे हैं।   1. There are three roses in the picture. 2. Two peacocks are dancing.",
+    "keywords": [
+      "निश्चित   Definite",
+      "संख्या   Number",
+      "तीन   Three",
+      "दो   Two"
+    ],
+    "explanation": "यहाँ 'तीन' और 'दो' वस्तुओं की एक निश्चित संख्या को दर्शाते हैं।   Here 'three' and 'two' represent a fixed number of objects.",
+    "page_number": "87"
+  },
+  {
+    "id": 20,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "निश्चित परिमाणवाचक विशेषण क्या होते हैं? उदाहरण दें।   What are definite quantitative adjectives? Give examples.",
+    "answer": "जो निश्चित मात्रा या माप का बोध कराते हैं, जैसे- दो लीटर दूध, तीन मीटर कपड़ा।   Those that provide knowledge of a definite quantity or measure, like two liters of milk, three meters of cloth.",
+    "keywords": [
+      "निश्चित   Definite",
+      "मात्रा   Quantity",
+      "दो लीटर   Two liters",
+      "तीन मीटर   Three meters"
+    ],
+    "explanation": "इसमें वस्तु की मात्रा एकदम स्पष्ट और निश्चित होती है।   In this, the quantity of the object is very clear and fixed.",
+    "page_number": "87"
+  },
+  {
+    "id": 21,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "अनिश्चित परिमाणवाचक विशेषण के उदाहरण लिखिए।   Write examples of indefinite quantitative adjectives.",
+    "answer": "दाल में नमक कम है और पिताजी कुछ सामान लाए हैं।   The salt is less in the lentils and father has brought some items.",
+    "keywords": [
+      "अनिश्चित   Indefinite",
+      "कम   Less",
+      "कुछ   Some",
+      "सामान   Items"
+    ],
+    "explanation": "यहाँ 'कम' और 'कुछ' से मात्रा का सही-सही पता नहीं चलता।   Here, the exact quantity is not known through 'less' and 'some'.",
+    "page_number": "87-88"
+  },
+  {
+    "id": 22,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "सर्वनाम और सार्वनामिक विशेषण में अंतर का एक उदाहरण दें।   Give one example of the difference between a pronoun and a pronominal adjective.",
+    "answer": "सर्वनाम: वह खाना खा रहा है। सार्वनामिक विशेषण: वह लड़का बहुत बुद्धिमान है।   Pronoun: He is eating food. Pronominal Adjective: That boy is very intelligent.",
+    "keywords": [
+      "सर्वनाम   Pronoun",
+      "सार्वनामिक   Pronominal",
+      "लड़का   Boy",
+      "बुद्धिमान   Intelligent"
+    ],
+    "explanation": "सर्वनाम संज्ञा के स्थान पर आता है, जबकि सार्वनामिक विशेषण संज्ञा से पहले आता है।   A pronoun replaces a noun, whereas a pronominal adjective appears before a noun.",
+    "page_number": "88"
+  },
+  {
+    "id": 23,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "प्रविशेषण का वाक्यों में प्रयोग करके दिखाइए।   Demonstrate the use of 'Pra-visheshan' in sentences.",
+    "answer": "कुली बहुत ज़्यादा पैसे माँग रहा था। उसने कुछ ज़्यादा ही गड़बड़ की है।   The porter was asking for too much money. He has made quite a lot of mess.",
+    "keywords": [
+      "बहुत   Very",
+      "ज़्यादा   More",
+      "कुछ   Some",
+      "प्रविशेषण   Modifier of adjective"
+    ],
+    "explanation": "इन वाक्यों में 'बहुत' और 'कुछ' विशेषणों की विशेषता बता रहे हैं।   In these sentences, 'very' and 'some' are describing the characteristics of adjectives.",
+    "page_number": "88"
+  },
+  {
+    "id": 24,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "विशेषण की 'मूलावस्था' क्या है? उदाहरण दें।   What is the positive stage ('Mulavastha') of an adjective? Give an example.",
+    "answer": "इसमें विशेषण विशेष्य की सामान्य अवस्था बताता है, जैसे- मैं गरम दूध पीना पसंद करता हूँ।   In this, the adjective tells the normal state of the modified noun, e.g., I like to drink hot milk.",
+    "keywords": [
+      "मूलावस्था   Positive degree",
+      "सामान्य   Normal",
+      "गरम   Hot",
+      "पसंद   Like"
+    ],
+    "explanation": "इसमें किसी के साथ तुलना नहीं की जाती, केवल गुण बताया जाता है।   In this, no comparison is made with anyone; only the quality is stated.",
+    "page_number": "88"
+  },
+  {
+    "id": 25,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "विशेषण की 'उत्तरावस्था' के दो उदाहरण लिखिए।   Write two examples of the comparative stage ('Uttaravastha') of adjectives.",
+    "answer": "1. गीता राधा से अधिक चालाक है। 2. छोटू मोनू से कम बुद्धू है।   1. Geeta is cleverer than Radha. 2. Chhotu is less foolish than Monu.",
+    "keywords": [
+      "उत्तरावस्था   Comparative stage",
+      "तुलना   Comparison",
+      "अधिक   More",
+      "कम   Less"
+    ],
+    "explanation": "दो व्यक्तियों या वस्तुओं की तुलना के लिए 'से अधिक' या 'से कम' का प्रयोग होता है।   For comparing two people or objects, 'more than' or 'less than' is used.",
+    "page_number": "88"
+  },
+  {
+    "id": 26,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "विशेषण की 'उत्तमावस्था' का अर्थ स्पष्ट करें।   Explain the meaning of the superlative stage ('Uttamavastha') of an adjective.",
+    "answer": "जब किसी व्यक्ति या वस्तु को सबसे अच्छा या बुरा बताया जाता है, जैसे- ब्रह्मपुत्र सबसे बड़ी नदी है।   When a person or object is declared the best or worst, e.g., Brahmaputra is the largest river.",
+    "keywords": [
+      "उत्तमावस्था   Superlative stage",
+      "सबसे   Most",
+      "बड़ी   Big",
+      "नदी   River"
+    ],
+    "explanation": "इसमें विशेषण से पहले सबसे अधिक, सबसे ज़्यादा आदि जोड़ा जाता है।   In this, 'most', 'maximum', etc., are added before the adjective.",
+    "page_number": "89"
+  },
+  {
+    "id": 27,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "'सरल' शब्द की तीनों अवस्थाएँ लिखिए।   Write all three stages of the word 'Saral' (Simple).",
+    "answer": "मूलावस्था: सरल, उत्तरावस्था: सरलतर, उत्तमावस्था: सरलतम।   Positive: Saral, Comparative: Saraltar, Superlative: Saraltam.",
+    "keywords": [
+      "सरल   Simple",
+      "सरलतर   Simpler",
+      "सरलतम   Simplest"
+    ],
+    "explanation": "तत्सम शब्दों में 'तर' और 'तम' प्रत्यय लगाकर अवस्थाएँ बदलती हैं।   In Tatsam words, stages change by adding 'tar' and 'tam' suffixes.",
+    "page_number": "89"
+  },
+  {
+    "id": 28,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "'गुरु' और 'प्रिय' शब्दों की उत्तमावस्था क्या होगी?   What will be the superlative stage of the words 'Guru' and 'Priya'?",
+    "answer": "'गुरु' की उत्तमावस्था 'गुरुतम' और 'प्रिय' की 'प्रियतम' होगी।   The superlative of 'Guru' will be 'Gurutam' and 'Priya' will be 'Priyatam'.",
+    "keywords": [
+      "गुरुतम   Heaviest/Greatest",
+      "प्रियतम   Dearest",
+      "उत्तमावस्था   Superlative"
+    ],
+    "explanation": "इन तत्सम शब्दों के अंत में 'तम' प्रत्यय जोड़कर उत्तमावस्था बनाई गई है।   The superlative stage is formed by adding the 'tam' suffix to the end of these Tatsam words.",
+    "page_number": "89"
+  },
+  {
+    "id": 29,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "संज्ञा से विशेषण बनाने के दो उदाहरण 'इक' प्रत्यय के साथ दें।   Give two examples of forming adjectives from nouns using the 'ik' suffix.",
+    "answer": "1. पुराण - पौराणिक 2. प्रकृति - प्राकृतिक   1. Puran - Pauranik 2. Prakriti - Prakritik",
+    "keywords": [
+      "इक   Suffix 'ik'",
+      "पुराण   Mythology",
+      "पौराणिक   Mythological",
+      "प्राकृतिक   Natural"
+    ],
+    "explanation": "संज्ञा शब्दों के अंत में 'इक' प्रत्यय लगने से विशेषण बन जाते हैं।   By adding the 'ik' suffix to the end of noun words, they become adjectives.",
+    "page_number": "89"
+  },
+  {
+    "id": 30,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "'ई' प्रत्यय लगाकर बने दो विशेषण शब्द लिखिए।   Write two adjective words formed by adding the 'ee' suffix.",
+    "answer": "1. ज्ञान - ज्ञानी 2. शहर - शहरी   1. Gyan - Gyani 2. Shahar - Shahari",
+    "keywords": [
+      "ई   Suffix 'ee'",
+      "ज्ञानी   Knowledgeable",
+      "शहरी   Urban"
+    ],
+    "explanation": "संज्ञा शब्दों के साथ 'ई' प्रत्यय जोड़ने से वे विशेषण रूप ले लेते हैं।   By adding the 'ee' suffix to noun words, they take an adjective form.",
+    "page_number": "89"
+  },
+  {
+    "id": 31,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "'वाला' और 'ईला' प्रत्यय से बने एक-एक विशेषण बताइए।   State one adjective each formed with 'wala' and 'eela' suffixes.",
+    "answer": "घड़ी + वाला = गाड़ीवाला (घड़ीवाला); पत्थर + ईला = पथरीला।   Clock + wala = clock-seller; stone + eela = stony.",
+    "keywords": [
+      "वाला   Suffix 'wala'",
+      "ईला   Suffix 'eela'",
+      "घड़ीवाला   Watchman/Clock seller",
+      "पथरीला   Stony"
+    ],
+    "explanation": "ये प्रत्यय संज्ञा के साथ मिलकर उसकी विशेषता बताते हैं।   These suffixes combine with nouns to describe their characteristics.",
+    "page_number": "89"
+  },
+  {
+    "id": 32,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "सर्वनाम 'यह' और 'मैं' से विशेषण बनाइए।   Form adjectives from the pronouns 'Yah' (this) and 'Main' (I).",
+    "answer": "'यह' से 'ऐसा' और 'मैं' से 'मेरा' विशेषण बनता है।   'Aisa' is formed from 'Yah' and 'Mera' is formed from 'Main'.",
+    "keywords": [
+      "यह   This",
+      "ऐसा   Such",
+      "मैं   I",
+      "मेरा   My"
+    ],
+    "explanation": "सर्वनाम शब्दों का रूप बदलकर विशेषण की तरह प्रयोग किया जाता है।   The form of pronoun words is changed to be used as adjectives.",
+    "page_number": "90"
+  },
+  {
+    "id": 33,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "क्रिया 'बिक' और 'उदय' से विशेषण बनाइए।   Form adjectives from the verbs 'Bik' (sell) and 'Uday' (rise).",
+    "answer": "'बिक' से 'बिकाऊ' और 'उदय' से 'उदित' विशेषण बनते हैं।   'Bikau' is formed from 'Bik' and 'Udit' is formed from 'Uday'.",
+    "keywords": [
+      "बिक   Sell",
+      "बिकाऊ   Salable",
+      "उदय   Rise",
+      "उदित   Risen"
+    ],
+    "explanation": "क्रिया के विभिन्न रूपों से विशेषणों की रचना की जाती है।   Adjectives are created from various forms of verbs.",
+    "page_number": "90"
+  },
+  {
+    "id": 34,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "अव्यय 'नीचे' और 'अंदर' से विशेषण बनाइए।   Form adjectives from the indeclinables 'Neeche' (below) and 'Andar' (inside).",
+    "answer": "'नीचे' से 'निचला' और 'अंदर' से 'अंदरूनी' विशेषण बनते हैं।   'Nichla' is formed from 'Neeche' and 'Androoni' is formed from 'Andar'.",
+    "keywords": [
+      "नीचे   Below",
+      "निचला   Lower",
+      "अंदर   Inside",
+      "अंदरूनी   Internal"
+    ],
+    "explanation": "अव्यय शब्दों में प्रत्यय लगाकर उन्हें विशेषण बनाया जाता है।   Indeclinables are made into adjectives by adding suffixes.",
+    "page_number": "90"
+  },
+  {
+    "id": 35,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "आकारांत विशेषणों में परिवर्तन का एक उदाहरण दीजिए।   Give one example of change in 'A-karanti' adjectives.",
+    "answer": "पुल्लिंग में 'पीला' लड़का, लेकिन स्त्रीलिंग में 'पीली' लड़की हो जाता है।   In masculine it is 'Peela' boy, but in feminine it becomes 'Peeli' girl.",
+    "keywords": [
+      "आकारांत   Ending in long 'aa'",
+      "पीला   Yellow (masculine)",
+      "पीली   Yellow (feminine)",
+      "लिंग   Gender"
+    ],
+    "explanation": "आकारांत विशेषण विशेष्य के लिंग के अनुसार बदल जाते हैं।   'A-karanti' adjectives change according to the gender of the modified noun.",
+    "page_number": "90"
+  },
+  {
+    "id": 36,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "विशेषण कभी-कभी संज्ञा की तरह कैसे प्रयुक्त होते हैं?   How are adjectives sometimes used as nouns?",
+    "answer": "उदाहरण के लिए- 'अच्छों को सभी चाहते हैं।' यहाँ 'अच्छों' संज्ञा की तरह प्रयुक्त है।   For example- 'Everyone likes good ones.' Here 'good ones' is used like a noun.",
+    "keywords": [
+      "संज्ञा   Noun",
+      "अच्छों   Good people/ones",
+      "प्रयोग   Usage"
+    ],
+    "explanation": "जब विशेषण बिना संज्ञा के आता है, तो वह संज्ञा का कार्य करता है।   When an adjective appears without a noun, it performs the function of a noun.",
+    "page_number": "91"
+  },
+  {
+    "id": 37,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "'गुलाब' और 'भूख' शब्दों से विशेषण बनाइए।   Form adjectives from the words 'Gulab' (rose) and 'Bhukh' (hunger).",
+    "answer": "'गुलाब' से 'गुलाबी' और 'भूख' से 'भूखा' विशेषण बनता है।   'Gulabi' is formed from 'Gulab' and 'Bhukha' is formed from 'Bhukh'.",
+    "keywords": [
+      "गुलाबी   Pink/Rosy",
+      "भूखा   Hungry",
+      "विशेषण   Adjective"
+    ],
+    "explanation": "प्रत्यय जोड़कर संज्ञाओं को विशेषण में बदला गया है।   Nouns have been converted into adjectives by adding suffixes.",
+    "page_number": "92"
+  },
+  {
+    "id": 38,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "'जहर' और 'परिवार' के विशेषण रूप क्या होंगे?   What will be the adjective forms of 'Zahar' (poison) and 'Parivar' (family)?",
+    "answer": "'जहर' का 'जहरीला' और 'परिवार' का 'पारिवारिक' विशेषण होगा।   The adjective for 'Zahar' will be 'Zaharila' and for 'Parivar' it will be 'Parivarik'.",
+    "keywords": [
+      "जहरीला   Poisonous",
+      "पारिवारिक   Familial",
+      "विशेषण   Adjective"
+    ],
+    "explanation": "क्रमशः 'ईला' और 'इक' प्रत्यय का प्रयोग किया गया है।   The suffixes 'eela' and 'ik' have been used respectively.",
+    "page_number": "92"
+  },
+  {
+    "id": 39,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "'बीस ग्राम मिर्च डालना' वाक्य में विशेषण और उसका भेद बताइए।   State the adjective and its type in the sentence 'Put twenty grams of chili'.",
+    "answer": "विशेषण: बीस ग्राम; भेद: निश्चित परिमाणवाचक विशेषण।   Adjective: Twenty grams; Type: Definite quantitative adjective.",
+    "keywords": [
+      "बीस ग्राम   Twenty grams",
+      "निश्चित   Definite",
+      "परिमाणवाचक   Quantitative"
+    ],
+    "explanation": "मिर्च की मात्रा निश्चित (बीस ग्राम) बताई गई है।   The quantity of chili is specified as definite (twenty grams).",
+    "page_number": "92"
+  },
+  {
+    "id": 40,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "उचित प्रत्यय जोड़कर 'दुख' और 'रोग' का विशेषण बनाइए।   Form adjectives for 'Dukh' and 'Rog' by adding appropriate suffixes.",
+    "answer": "'दुख' से 'दुखी' और 'रोग' से 'रोगी' विशेषण बनते हैं।   'Dukhi' is formed from 'Dukh' and 'Rogi' from 'Rog'.",
+    "keywords": [
+      "दुखी   Sad",
+      "रोगी   Sick/Patient",
+      "प्रत्यय   Suffix"
+    ],
+    "explanation": "संज्ञा शब्दों के साथ 'ई' प्रत्यय जोड़ा गया है।   The 'ee' suffix has been added to the noun words.",
+    "page_number": "93"
+  },
+  {
+    "id": 41,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "संज्ञा या सर्वनाम की विशेषता बताने वाले शब्दों को क्या कहते हैं? उदाहरण सहित समझाइए।   What are words that tell the characteristics of a noun or pronoun called? Explain with examples.",
+    "answer": "उन्हें विशेषण कहते हैं। जैसे- 'सुंदर' फूल, 'चार' किलो चीनी। यहाँ 'सुंदर' गुण और 'चार किलो' मात्रा बता रहे हैं।   They are called adjectives. E.g., 'beautiful' flower, 'four' kg sugar. Here 'beautiful' tells quality and 'four kg' tells quantity.",
+    "keywords": [
+      "विशेषण   Adjective",
+      "सुंदर   Beautiful",
+      "चार किलो   Four kg",
+      "विशेषता   Characteristic"
+    ],
+    "explanation": "विशेषण शब्द संज्ञा की गुणवत्ता या संख्या का विवरण देते हैं।   Adjective words provide details about the quality or number of the noun.",
+    "page_number": "87"
+  },
+  {
+    "id": 42,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 60
+    },
+    "question": "गुणवाचक विशेषण के किन्हीं तीन क्षेत्रों (गुण, आकार, रंग) के उदाहरण वाक्य लिखिए।   Write example sentences for any three areas (quality, shape, color) of qualitative adjectives.",
+    "answer": "गुण: परिश्रमी विद्यार्थी सफल होते हैं। आकार: आप त्रिकोनी मेज़ ले लीजिए। रंग: उसकी काली करतूतें सबको मालूम हैं।   Quality: Hardworking students succeed. Shape: You take the triangular table. Color: Everyone knows his black deeds.",
+    "keywords": [
+      "परिश्रमी   Hardworking",
+      "त्रिकोनी   Triangular",
+      "काली   Black",
+      "गुणवाचक   Qualitative"
+    ],
+    "explanation": "ये विशेषण संज्ञा की बनावट, रंग और चरित्र को दर्शाते हैं।   These adjectives show the structure, color, and character of the noun.",
+    "page_number": "87"
+  },
+  {
+    "id": 43,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "संख्यावाचक और परिमाणवाचक विशेषणों में मुख्य अंतर क्या है?   What is the main difference between numeral and quantitative adjectives?",
+    "answer": "संख्यावाचक का प्रयोग गणनीय वस्तुओं (जिन्हें गिना जा सके) के साथ होता है, जबकि परिमाणवाचक का प्रयोग तोलने या मापने वाली वस्तुओं के साथ होता है।   Numeral adjectives are used with countable items, while quantitative adjectives are used with items that are weighed or measured.",
+    "keywords": [
+      "गणनीय   Countable",
+      "मापने वाली   Measurable",
+      "संख्यावाचक   Numeral",
+      "परिमाणवाचक   Quantitative"
+    ],
+    "explanation": "गणनीय वस्तुओं के लिए 'संख्या' और अगणनीय माप-तोल वाली वस्तुओं के लिए 'परिमाण' शब्द का प्रयोग होता है।   The word 'number' is used for countable objects, and 'quantity' is used for uncountable measurable objects.",
+    "page_number": "88"
+  },
+  {
+    "id": 44,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "सार्वनामिक विशेषण की पहचान कैसे की जा सकती है? उदाहरण दें।   How can a pronominal adjective be identified? Give an example.",
+    "answer": "जब सर्वनाम संज्ञा से पहले आकर उसकी विशेषता बताए। उदाहरण: 'उस लड़की को यहाँ बुलाओ'। यहाँ 'उस' लड़की (संज्ञा) की ओर संकेत कर रहा है।   When a pronoun appears before a noun and describes it. Example: 'Call that girl here'. Here 'that' points to the girl (noun).",
+    "keywords": [
+      "सार्वनामिक   Pronominal",
+      "पहचान   Identification",
+      "संकेत   Pointer/Indication",
+      "लड़की   Girl"
+    ],
+    "explanation": "इन्हें संकेतवाचक विशेषण भी कहते हैं क्योंकि ये संज्ञा की ओर इशारा करते हैं।   They are also called demonstrative adjectives because they point towards the noun.",
+    "page_number": "88"
+  },
+  {
+    "id": 45,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "विशेषण की तीनों अवस्थाओं (मूल, उत्तर, उत्तम) के उदाहरण 'तीव्र' शब्द के साथ लिखिए।   Write examples of all three stages of adjectives (positive, comparative, superlative) with the word 'Tivra' (Fast).",
+    "answer": "मूलावस्था: तीव्र (हवा तीव्र है), उत्तरावस्था: तीव्रतर (यह उससे तीव्रतर है), उत्तमावस्था: तीव्रतम (यह तीव्रतम गति है)।   Positive: Fast, Comparative: Faster, Superlative: Fastest.",
+    "keywords": [
+      "तीव्र   Fast",
+      "तीव्रतर   Faster",
+      "तीव्रतम   Fastest",
+      "अवस्थाएँ   Stages"
+    ],
+    "explanation": "ये अवस्थाएँ तीव्रता के स्तर को बढ़ती हुई श्रेणी में दर्शाती हैं।   These stages show the levels of intensity in an increasing order.",
+    "page_number": "89"
+  },
+  {
+    "id": 46,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "संज्ञा से विशेषण बनाने के लिए 'मान' और 'वान' प्रत्ययों का प्रयोग करके दो-दो शब्द लिखिए।   Write two words each using 'maan' and 'vaan' suffixes to form adjectives from nouns.",
+    "answer": "'मान' से: बुद्धिमान, विद्यामान (विद्यमान); 'वान' से: गुणवान, धनवान (नाशवान)।   From 'maan': intelligent, present; From 'vaan': virtuous, wealthy (destructive).",
+    "keywords": [
+      "मान   Suffix 'maan'",
+      "वान   Suffix 'vaan'",
+      "बुद्धिमान   Intelligent",
+      "गुणवान   Virtuous"
+    ],
+    "explanation": "ये प्रत्यय व्यक्ति के गुणों या स्थिति को दर्शाने के लिए जोड़े जाते हैं।   These suffixes are added to indicate a person's qualities or status.",
+    "page_number": "90"
+  },
+  {
+    "id": 47,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "विशेषणों के लिंग और वचन संबंधी नियमों को संक्षेप में समझाइए।   Briefly explain the rules regarding the gender and number of adjectives.",
+    "answer": "आकारांत विशेषणों में लिंग और वचन के अनुसार परिवर्तन होता है (जैसे- पीला/पीली), लेकिन अन्य विशेषण (जैसे- सुंदर) अपरिवर्तित रहते हैं।   A-karanti adjectives change according to gender and number (e.g., yellow-M/yellow-F), but other adjectives (e.g., beautiful) remain unchanged.",
+    "keywords": [
+      "लिंग   Gender",
+      "वचन   Number",
+      "नियम   Rules",
+      "अपरिवर्तित   Unchanged"
+    ],
+    "explanation": "विशेषण का रूप विशेष्य के अनुसार बदलता है, बशर्ते वह आकारांत हो।   The form of the adjective changes according to the modified noun, provided it is 'A-karanti'.",
+    "page_number": "90"
+  },
+  {
+    "id": 48,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question_type": "short_answer",
+    "marks": 3,
+    "question": "अव्यय से विशेषण बनाने की प्रक्रिया को तीन उदाहरणों के साथ समझाइए।   Explain the process of forming adjectives from indeclinables with three examples.",
+    "answer": "अव्यय में प्रत्यय जोड़कर विशेषण बनते हैं। 1. बाहर - बाहरी 2. आगे - अगला 3. भीतर - भीतरी   Adjectives are formed by adding suffixes to indeclinables. 1. Outside - Outer 2. Front - Next 3. Inside - Inner",
+    "keywords": [
+      "अव्यय   Indeclinable",
+      "बाहरी   Outer",
+      "अगला   Next",
+      "भीतरी   Inner"
+    ],
+    "explanation": "स्थान या दिशा सूचक अव्यय शब्दों से विशेषण बनाए जाते हैं।   Adjectives are formed from indeclinable words indicating place or direction.",
+    "page_number": "90"
+  },
+  {
+    "id": 49,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 60
+    },
+    "question": "इन वाक्यों में विशेषण छाँटिए: 1. मृदुला भली लड़की है। 2. अगले साल तुम कहाँ जाओगे? 3. बीस ग्राम मिर्च।   Identify the adjectives in these sentences: 1. Mridula is a good girl. 2. Where will you go next year? 3. Twenty grams of chili.",
+    "answer": "1. भली (गुणवाचक) 2. अगले (सार्वनामिक/संख्यावाचक) 3. बीस ग्राम (परिमाणवाचक)।   1. Good (Qualitative) 2. Next (Numeral/Pronominal) 3. Twenty grams (Quantitative).",
+    "keywords": [
+      "भली   Good",
+      "अगले   Next",
+      "बीस ग्राम   Twenty grams"
+    ],
+    "explanation": "प्रत्येक वाक्य में संज्ञा की विशेषता बताने वाले शब्द को विशेषण के रूप में पहचाना गया है।   In each sentence, the word describing the noun has been identified as an adjective.",
+    "page_number": "92"
+  },
+  {
+    "id": 50,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "तुलना के आधार पर उत्तरावस्था और उत्तमावस्था में क्या अंतर है?   What is the difference between comparative and superlative stages based on comparison?",
+    "answer": "उत्तरावस्था में दो के बीच तुलना होती है (जैसे- राम श्याम से अधिक बुद्धिमान है), जबकि उत्तमावस्था में सबको पीछे छोड़ते हुए सर्वश्रेष्ठ बताया जाता है (जैसे- राम सबसे बुद्धिमान है)।   In the comparative stage, comparison is between two, while in the superlative stage, one is declared the best of all.",
+    "keywords": [
+      "तुलना   Comparison",
+      "दो   Two",
+      "सर्वश्रेष्ठ   Best of all",
+      "अंतर   Difference"
+    ],
+    "explanation": "उत्तरावस्था सापेक्ष तुलना है, जबकि उत्तमावस्था परम तुलना है।   Comparative is relative comparison, while superlative is absolute comparison.",
+    "page_number": "88-89"
+  },
+  {
+    "id": 51,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "'ईय' और 'इत' प्रत्यय लगाकर बने दो-दो विशेषण शब्द लिखिए।   Write two adjective words each formed by adding the 'eeya' and 'it' suffixes.",
+    "answer": "'ईय' से: शास्त्रीय, स्मरणीय; 'इत' से: चर्चित, नियमित।   From 'eeya': classical, memorable; From 'it': discussed, regular.",
+    "keywords": [
+      "ईय   Suffix 'eeya'",
+      "इत   Suffix 'it'",
+      "शास्त्रीय   Classical",
+      "नियमित   Regular"
+    ],
+    "explanation": "शास्त्र और नियम संज्ञाओं में प्रत्यय जोड़कर ये विशेषण बने हैं।   These adjectives are formed by adding suffixes to the nouns Shastra and Niyam.",
+    "page_number": "89"
+  },
+  {
+    "id": 52,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "'सा' और 'रा' प्रत्यय से बने विशेषणों के सर्वनाम मूल रूप बताइए।   State the original pronoun forms of adjectives made with 'sa' and 'ra' suffixes.",
+    "answer": "'सा' प्रत्यय के लिए मूल सर्वनाम 'यह' है (ऐसा), और 'रा' प्रत्यय के लिए मूल सर्वनाम 'तू' (तेरा) और 'मैं' (मेरा) हैं।   The root pronoun for 'sa' suffix is 'Yah' (aisa), and for 'ra' suffix are 'Tu' (tera) and 'Main' (mera).",
+    "keywords": [
+      "यह   This",
+      "तू   You",
+      "मैं   I",
+      "मूल रूप   Root form"
+    ],
+    "explanation": "सर्वनामों के विकृत रूप विशेषण के रूप में कार्य करते हैं।   Inflected forms of pronouns function as adjectives.",
+    "page_number": "90"
+  },
+  {
+    "id": 53,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 60
+    },
+    "question": "क्रिया से विशेषण बनाने के 'आऊ' और 'वाला' प्रत्यय के उदाहरण दीजिए।   Give examples of 'aau' and 'wala' suffixes for forming adjectives from verbs.",
+    "answer": "'आऊ' से: बिकाऊ, टिकाऊ; 'वाला' से: बोलनेवाला, गानेवाला।   From 'aau': salable, durable; From 'wala': speaker, singer.",
+    "keywords": [
+      "बिकाऊ   Salable",
+      "टिकाऊ   Durable",
+      "बोलनेवाला   Speaker",
+      "गानेवाला   Singer"
+    ],
+    "explanation": "ये शब्द क्रिया करने वाले या क्रिया की विशेषता प्रकट करने वाले विशेषण हैं।   These words are adjectives that reveal the doer of the verb or the characteristic of the verb.",
+    "page_number": "90"
+  },
+  {
+    "id": 54,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "आकारांत विशेषणों में 'वचन' के अनुसार बदलाव कैसे होता है? उदाहरण दें।   How does change according to 'number' occur in A-karanti adjectives? Give an example.",
+    "answer": "एकवचन में 'आधा' फल, लेकिन बहुवचन में 'आधे' फल हो जाता है। इसी तरह 'पीला' से 'पीले' हो जाता है।   In singular it is 'half' fruit, but in plural it becomes 'halves' fruits. Similarly, 'yellow' changes to 'yellows' (peele).",
+    "keywords": [
+      "आधा   Half",
+      "आधे   Halves",
+      "वचन   Number",
+      "परिवर्तन   Change"
+    ],
+    "explanation": "बहुवचन होने पर विशेषण का अंतिम 'आ' स्वर 'ए' में बदल जाता है।   In the plural, the final 'aa' vowel of the adjective changes to 'ae'.",
+    "page_number": "90"
+  },
+  {
+    "id": 55,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "विशेषणों की रचना किन चार प्रकार के शब्द-रूपों से की जाती है?   From which four types of word-forms are adjectives constructed?",
+    "answer": "1. संज्ञा से 2. सर्वनाम से 3. क्रिया द्वारा 4. अव्यय द्वारा।   1. From Nouns 2. From Pronouns 3. By Verbs 4. By Indeclinables.",
+    "keywords": [
+      "संज्ञा   Noun",
+      "सर्वनाम   Pronoun",
+      "क्रिया   Verb",
+      "अव्यय   Indeclinable"
+    ],
+    "explanation": "पाठ के अनुसार विशेषण इन चारों आधारों पर निर्मित किए जा सकते हैं।   According to the lesson, adjectives can be constructed on these four bases.",
+    "page_number": "89"
+  },
+  {
+    "id": 56,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "'चमक' और 'वर्ष' शब्दों से विशेषण बनाइए और प्रत्यय बताइए।   Form adjectives from the words 'Chamak' and 'Varsh' and state the suffix.",
+    "answer": "चमक + ईला = चमकीला (प्रत्यय: ईला); वर्ष + इक = वार्षिक (प्रत्यय: इक)।   Chamak + eela = shiny (suffix: eela); Varsh + ik = yearly (suffix: ik).",
+    "keywords": [
+      "चमकीला   Shiny",
+      "वार्षिक   Yearly",
+      "प्रत्यय   Suffix"
+    ],
+    "explanation": "संज्ञा में उचित प्रत्यय जोड़कर विशेषण शब्द प्राप्त किए गए हैं।   Adjective words have been obtained by adding appropriate suffixes to nouns.",
+    "page_number": "93"
+  },
+  {
+    "id": 57,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "'स्थान' और 'भय' से विशेषण बनाकर वाक्य में प्रयोग कीजिए।   Form adjectives from 'Sthan' and 'Bhay' and use them in sentences.",
+    "answer": "स्थान - स्थानीय (स्थानीय लोग अच्छे हैं); भय - भयानक (वह भयानक दृश्य था)।   Place - local (Local people are good); Fear - terrible (That was a terrible sight).",
+    "keywords": [
+      "स्थानीय   Local",
+      "भयानक   Terrible/Scary",
+      "वाक्य प्रयोग   Sentence usage"
+    ],
+    "explanation": "स्थानीय और भयानक शब्द यहाँ संज्ञाओं की विशेषता बता रहे हैं।   The words 'local' and 'scary' are describing the characteristics of nouns here.",
+    "page_number": "93"
+  },
+  {
+    "id": 58,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "विशेषण और प्रविशेषण का संबंध एक उदाहरण देकर स्पष्ट करें।   Explain the relationship between an adjective and a 'Pra-visheshan' with an example.",
+    "answer": "वाक्य: 'दूध बहुत गरम है'। यहाँ 'गरम' विशेषण है और 'बहुत' प्रविशेषण है क्योंकि वह विशेषण की भी विशेषता बता रहा है।   Sentence: 'The milk is very hot'. Here 'hot' is an adjective and 'very' is a 'Pra-visheshan' because it describes the characteristic of the adjective too.",
+    "keywords": [
+      "विशेषण   Adjective",
+      "प्रविशेषण   Modifier of adjective",
+      "गरम   Hot",
+      "बहुत   Very"
+    ],
+    "explanation": "प्रविशेषण विशेषण की मात्रा या तीव्रता को बढ़ाता या घटाता है।   'Pra-visheshan' increases or decreases the quantity or intensity of the adjective.",
+    "page_number": "88"
+  },
+  {
+    "id": 59,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "'अव्यय' से विशेषण बनाने के 'ला' और 'ऊनी' प्रत्यय के उदाहरण दें।   Give examples of 'la' and 'oonee' suffixes for forming adjectives from 'Avyay'.",
+    "answer": "'ला' से: निचला, अगला; 'ऊनी' से: अंदरूनी।   From 'la': lower, next; From 'oonee': internal.",
+    "keywords": [
+      "निचला   Lower",
+      "अगला   Next",
+      "अंदरूनी   Internal"
+    ],
+    "explanation": "ये प्रत्यय अव्यय शब्दों को विशेषण का रूप प्रदान करते हैं।   These suffixes provide the adjective form to indeclinable words.",
+    "page_number": "90"
+  },
+  {
+    "id": 60,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 60
+    },
+    "question": "निश्चित और अनिश्चित संख्यावाचक विशेषणों का एक-एक उदाहरण दीजिए।   Give one example each of definite and indefinite numeral adjectives.",
+    "answer": "निश्चित: मेरे पास दो कलम हैं। अनिश्चित: मैदान में कुछ बच्चे खेल रहे हैं।   Definite: I have two pens. Indefinite: Some children are playing in the ground.",
+    "keywords": [
+      "निश्चित   Definite",
+      "दो   Two",
+      "अनिश्चित   Indefinite",
+      "कुछ   Some"
+    ],
+    "explanation": "निश्चित में संख्या ज्ञात होती है, जबकि अनिश्चित में केवल अनुमान होता है।   In definite, the number is known, whereas in indefinite, there is only an estimation.",
+    "page_number": "87"
+  },
+  {
+    "id": 61,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "'भारत' शब्द से बना विशेषण क्या है? इससे संबंधित सही विकल्प का चुनाव पाठ के आधार पर करें।   What is the adjective formed from the word 'Bharat'? Choose the correct option based on the text.",
+    "answer": "'भारत' शब्द से बना विशेषण 'भारतीय' है। पाठ में 'भारतीय लोग' उदाहरण दिया गया है।   The adjective formed from 'Bharat' is 'Bharatiya'. The example 'Bharatiya log' is given in the text.",
+    "keywords": [
+      "भारत   India",
+      "भारतीय   Indian",
+      "विशेषण   Adjective"
+    ],
+    "explanation": "देश के नाम से व्यक्ति की राष्ट्रीयता बताने वाला विशेषण बना है।   An adjective indicating a person's nationality has been formed from the name of the country.",
+    "page_number": "87-93"
+  },
+  {
+    "id": 62,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 60
+    },
+    "question": "इन संज्ञा शब्दों के विशेषण रूप लिखिए: प्रमाण, मान, श्री।   Write the adjective forms of these noun words: Praman, Maan, Shri.",
+    "answer": "प्रमाण: प्रामाणिक; मान: मानवान (मान्य); श्री: श्रीमान/श्रीमती।   Praman: Pramanik; Maan: Maanvan (Manya); Shri: Shriman/Shrimati.",
+    "keywords": [
+      "प्रामाणिक   Authentic",
+      "श्रीमान   Mr./Respected",
+      "श्रीमती   Mrs."
+    ],
+    "explanation": "संज्ञाओं के साथ विभिन्न प्रत्यय जोड़कर उनके विशेषण रूप तैयार किए गए हैं।   Adjective forms have been prepared by adding various suffixes to nouns.",
+    "page_number": "89-92"
+  },
+  {
+    "id": 63,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "'इम' और 'इया' प्रत्यय के दो-दो विशेषण उदाहरण लिखिए।   Write two adjective examples each for 'im' and 'iya' suffixes.",
+    "answer": "'इम' से: अंतरिम, अंतिम; 'इया' से: कोलकतिया, रामपुरिया।   From 'im': interim, final; From 'iya': of Kolkata, of Rampur.",
+    "keywords": [
+      "अंतिम   Final",
+      "रामपुरिया   Of Rampur",
+      "प्रत्यय   Suffix"
+    ],
+    "explanation": "ये प्रत्यय समय या स्थान से संबंधित विशेषण बनाने में सहायक हैं।   These suffixes are helpful in making adjectives related to time or place.",
+    "page_number": "90"
+  },
+  {
+    "id": 64,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "'जापान' और 'इज्जत' से विशेषण बनाकर उनका अर्थ स्पष्ट कीजिए।   Form adjectives from 'Japan' and 'Izzat' and clarify their meaning.",
+    "answer": "जापान: जापानी (जापान का); इज्जत: इज्जतदार (सम्मानित)।   Japan: Japanese (belonging to Japan); Izzat: Respectable (honored).",
+    "keywords": [
+      "जापानी   Japanese",
+      "इज्जतदार   Respectable",
+      "अर्थ   Meaning"
+    ],
+    "explanation": "जापानी स्थानवाचक और इज्जतदार गुणवाचक विशेषण के रूप में कार्य करते हैं।   Japanese acts as a place-related adjective and respectable as a qualitative adjective.",
+    "page_number": "93"
+  },
+  {
+    "id": 65,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "विशेषण के चारों भेदों की सोदाहरण व्याख्या कीजिए।   Explain the four types of adjectives with examples.",
+    "answer": "विशेषण के चार मुख्य भेद हैं: 1. गुणवाचक: जो गुण-दोष बताते हैं, जैसे- 'ईमानदार' बालक। 2. संख्यावाचक: जो संख्या बताते हैं, जैसे- 'चार' आम। 3. परिमाणवाचक: जो माप-तोल बताते हैं, जैसे- 'दो किलो' चीनी। 4. सार्वनामिक: जो सर्वनाम होकर विशेषण का कार्य करते हैं, जैसे- 'वह' लड़का। ये चारों भेद संज्ञा की अलग-अलग विशेषताओं को प्रकट करते हैं।   The four main types of adjectives are: 1. Qualitative: that tell qualities/defects, e.g., 'honest' boy. 2. Numeral: that tell numbers, e.g., 'four' mangoes. 3. Quantitative: that tell measurement, e.g., 'two kg' sugar. 4. Pronominal: that are pronouns but act as adjectives, e.g., 'that' boy. These four types reveal different characteristics of the noun.",
+    "keywords": [
+      "गुणवाचक   Qualitative",
+      "संख्यावाचक   Numeral",
+      "परिमाणवाचक   Quantitative",
+      "सार्वनामिक   Pronominal"
+    ],
+    "explanation": "यह उत्तर चारों भेदों को उनके कार्य और उदाहरण के साथ परिभाषित करता है।   This answer defines all four types with their functions and examples.",
+    "page_number": "87-88"
+  },
+  {
+    "id": 66,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 130
+    },
+    "question": "सर्वनाम और सार्वनामिक विशेषण के बीच के अंतर को उदाहरणों सहित विस्तार से समझाइए।   Explain the difference between a pronoun and a pronominal adjective in detail with examples.",
+    "answer": "सर्वनाम का प्रयोग संज्ञा के स्थान पर होता है, जबकि सार्वनामिक विशेषण संज्ञा से पहले आकर उसकी विशेषता बताता है। उदाहरण: 1. सर्वनाम: 'वह' जा रहा है। यहाँ 'वह' किसी व्यक्ति के लिए आया है। 2. सार्वनामिक विशेषण: 'वह' लड़का जा रहा है। यहाँ 'वह' 'लड़का' संज्ञा की विशेषता बता रहा है। इसी प्रकार 'कोई' और 'बाहर कोई आदमी' में भी यही अंतर है।   A pronoun is used in place of a noun, while a pronominal adjective appears before a noun and describes it. Examples: 1. Pronoun: 'He' is going. Here 'He' stands for a person. 2. Pronominal Adjective: 'That' boy is going. Here 'That' describes the noun 'boy'. Similarly, the difference exists between 'someone' and 'some man outside'.",
+    "keywords": [
+      "सर्वनाम   Pronoun",
+      "सार्वनामिक विशेषण   Pronominal Adjective",
+      "अंतर   Difference",
+      "संज्ञा   Noun"
+    ],
+    "explanation": "एक ही शब्द अपने स्थान और कार्य के आधार पर सर्वनाम या विशेषण हो सकता है।   The same word can be a pronoun or an adjective based on its position and function.",
+    "page_number": "88"
+  },
+  {
+    "id": 67,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 150
+    },
+    "question": "विशेषण की तुलना की तीनों अवस्थाओं को उदाहरण और प्रत्ययों के साथ स्पष्ट करें।   Explain the three stages of comparison of adjectives with examples and suffixes.",
+    "answer": "विशेषण की तीन अवस्थाएँ हैं: 1. मूलावस्था: सामान्य गुण बताना, जैसे- 'सरल'। 2. उत्तरावस्था: दो में तुलना करना। तत्सम शब्दों में 'तर' प्रत्यय लगता है, जैसे- 'सरलतर'। वाक्य: 'यह काम उससे सरलतर है'। 3. उत्तमावस्था: सबसे श्रेष्ठ बताना। तत्सम शब्दों में 'तम' प्रत्यय लगता है, जैसे- 'सरलतम'। वाक्य: 'यह सरलतम तरीका है'। अन्य शब्दों में 'सबसे' का प्रयोग होता है।   The three stages of adjectives are: 1. Positive: telling normal quality, e.g., 'simple'. 2. Comparative: comparing two. In Tatsam words, 'tar' suffix is used, e.g., 'simpler'. Sentence: 'This work is simpler than that'. 3. Superlative: telling the best. In Tatsam words, 'tam' suffix is used, e.g., 'simplest'. Sentence: 'This is the simplest way'. In other words, 'most' is used.",
+    "keywords": [
+      "मूलावस्था   Positive stage",
+      "उत्तरावस्था   Comparative stage",
+      "उत्तमावस्था   Superlative stage",
+      "तर   Tar",
+      "तम   Tam"
+    ],
+    "explanation": "तुलना के स्तर को स्पष्ट करने के लिए ये तीन अवस्थाएँ व्याकरण में महत्त्वपूर्ण हैं।   These three stages are important in grammar to clarify the level of comparison.",
+    "page_number": "88-89"
+  },
+  {
+    "id": 68,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 130
+    },
+    "question": "संज्ञा शब्दों से विशेषण बनाने की किन्हीं पाँच विधियों (प्रत्ययों) का सोदाहरण वर्णन करें।   Describe any five methods (suffixes) of forming adjectives from noun words with examples.",
+    "answer": "संज्ञा से विशेषण बनाने के पाँच प्रत्यय इस प्रकार हैं: 1. 'इक': इतिहास - ऐतिहासिक। 2. 'इत': चर्चा - चर्चित। 3. 'ई': पंजाब - पंजाबी। 4. 'ईला': चमक - चमकीला। 5. 'वान': गुण - गुणवान। ये प्रत्यय संज्ञा के अर्थ में विशेषता जोड़कर उसे विशेषण का रूप देते हैं जिससे वाक्य में संज्ञा की गुणवत्ता स्पष्ट होती है।   Five suffixes to form adjectives from nouns are as follows: 1. 'ik': history - historical. 2. 'it': discussion - discussed. 3. 'ee': Punjab - Punjabi. 4. 'eela': shine - shiny. 5. 'vaan': quality - virtuous. These suffixes add characteristics to the meaning of the noun and give it an adjective form, clarifying the quality of the noun in the sentence.",
+    "keywords": [
+      "इक   Suffix 'ik'",
+      "इत   Suffix 'it'",
+      "ई   Suffix 'ee'",
+      "ईला   Suffix 'eela'",
+      "वान   Suffix 'vaan'"
+    ],
+    "explanation": "संज्ञा में प्रत्यय लगाकर नए विशेषणों का निर्माण भाषा को समृद्ध बनाता है।   Constructing new adjectives by adding suffixes to nouns enriches the language.",
+    "page_number": "89"
+  },
+  {
+    "id": 69,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 140
+    },
+    "question": "विशेषणों के विकार (लिंग, वचन और कारक के अनुसार परिवर्तन) के नियमों की विस्तृत व्याख्या करें।   Provide a detailed explanation of the inflection of adjectives (changes according to gender, number, and case).",
+    "answer": "नियम: 1. आकारांत विशेषणों (जैसे- पीला) में विशेष्य के लिंग, वचन और कारक के अनुसार विकार होता है। जैसे- 'पीला' लड़का, 'पीली' लड़की, 'पीले' लड़के। 2. अकारांत, ईकारांत और उकारांत विशेषणों (जैसे- सुंदर, प्रभावशाली, श्रद्धालु) में कोई परिवर्तन नहीं होता। जैसे- 'सुंदर' लड़का और 'सुंदर' लड़की। 3. सार्वनामिक विशेषणों में भी सर्वनाम की तरह विकार होता है।   Rules: 1. In A-karanti adjectives (like yellow), inflection occurs according to the gender, number, and case of the modified noun. E.g., 'peela' boy, 'peeli' girl, 'peele' boys. 2. Non-A-karanti adjectives (like beautiful, influential, faithful) do not change. E.g., 'beautiful' boy and 'beautiful' girl. 3. In pronominal adjectives, inflection occurs like pronouns.",
+    "keywords": [
+      "विकार   Inflection/Decline",
+      "आकारांत   Ending in 'aa'",
+      "अपरिवर्तित   Unchanged",
+      "लिंग   Gender"
+    ],
+    "explanation": "विशेषण का रूप विशेष्य की व्याकरणिक स्थिति पर निर्भर करता है, विशेषकर आकारांत शब्दों में।   The form of the adjective depends on the grammatical status of the modified noun, especially in A-karanti words.",
+    "page_number": "90-91"
+  },
+  {
+    "id": 70,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 110
+    },
+    "question": "प्रविशेषण और उसके महत्त्व को उदाहरणों के माध्यम से स्पष्ट कीजिए।   Explain 'Pra-visheshan' and its importance through examples.",
+    "answer": "प्रविशेषण वे शब्द हैं जो विशेषण की भी विशेषता बताते हैं। इनका महत्त्व विशेषण की तीव्रता या सीमा को स्पष्ट करने में है। उदाहरण: 1. 'कुली बहुत ज़्यादा पैसे माँग रहा था।' यहाँ 'ज़्यादा' विशेषण है और 'बहुत' उसकी तीव्रता बता रहा है। 2. 'उसने कुछ ज़्यादा ही गड़बड़ की है।' यहाँ 'कुछ' प्रविशेषण है। ये शब्द भाषा में सूक्ष्म अर्थ प्रकट करने में सहायक होते हैं।   'Pra-visheshan' are words that describe the characteristics of adjectives too. Their importance lies in clarifying the intensity or limit of the adjective. Examples: 1. 'The porter was asking for too much money.' Here 'much' is the adjective and 'very' (bahut) shows its intensity. 2. 'He has made quite a lot of mess.' Here 'quite' (kuch) is the 'Pra-visheshan'. These words help in expressing subtle meanings in language.",
+    "keywords": [
+      "प्रविशेषण   Modifier of adjective",
+      "तीव्रता   Intensity",
+      "बहुत   Very",
+      "ज़्यादा   More"
+    ],
+    "explanation": "प्रविशेषण के बिना विशेषण का प्रभाव सीमित रह सकता है, यह उसे और अधिक स्पष्ट बनाता है।   Without 'Pra-visheshan', the impact of the adjective might remain limited; it makes it much clearer.",
+    "page_number": "88"
+  },
+  {
+    "id": 71,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "परिमाणवाचक और संख्यावाचक विशेषणों के भेदों (निश्चित और अनिश्चित) की तुलना सोदाहरण कीजिए।   Compare the types (definite and indefinite) of quantitative and numeral adjectives with examples.",
+    "answer": "संख्यावाचक: 1. निश्चित: 'चार' लड़के (गिनी जाने वाली संख्या निश्चित है)। 2. अनिश्चित: 'कुछ' लोग (संख्या निश्चित नहीं है)। परिमाणवाचक: 1. निश्चित: 'दो मीटर' कपड़ा (माप निश्चित है)। 2. अनिश्चित: 'कम' चीनी (मात्रा का केवल अनुमान है)। मुख्य अंतर यह है कि संख्यावाचक गणना के लिए और परिमाणवाचक माप-तोल के लिए उपयोग होते हैं, और दोनों में निश्चितता का स्तर अलग-अलग हो सकता है।   Numeral: 1. Definite: 'four' boys (the number being counted is fixed). 2. Indefinite: 'some' people (number is not fixed). Quantitative: 1. Definite: 'two meters' cloth (measure is fixed). 2. Indefinite: 'less' sugar (only an estimate of quantity). The main difference is that numeral is used for counting and quantitative for measuring, and the level of certainty can vary in both.",
+    "keywords": [
+      "निश्चित   Definite",
+      "अनिश्चित   Indefinite",
+      "गणना   Counting",
+      "माप-तोल   Measurement"
+    ],
+    "explanation": "यह उत्तर छात्र को मात्रा और संख्या के बीच के सूक्ष्म अंतर और उनकी निश्चितता को समझने में मदद करता है।   This answer helps the student understand the subtle difference between quantity and number and their certainty.",
+    "page_number": "87-88"
+  },
+  {
+    "id": 72,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 75,
+      "max": 120
+    },
+    "question": "क्रिया और अव्यय से विशेषण बनाने की प्रक्रिया को उदाहरण सहित विस्तार से समझाइए।   Explain the process of forming adjectives from verbs and indeclinables in detail with examples.",
+    "answer": "1. क्रिया से: क्रिया के मूल रूप में प्रत्यय जोड़े जाते हैं, जैसे 'टिक' से 'टिकाऊ', 'पठ' से 'पठित', 'बोल' से 'बोलनेवाला'। यह क्रिया की विशेषता बताता है। 2. अव्यय से: अव्यय शब्दों में प्रत्यय लगाकर उन्हें विशेषण बनाया जाता है, जैसे 'बाहर' (अव्यय) से 'बाहरी', 'नीचे' से 'निचला', 'अंदर' से 'अंदरूनी'। ये शब्द संज्ञा के स्थान या स्थिति की विशेषता बताते हैं।   1. From Verbs: Suffixes are added to the root form of verbs, e.g., 'tik' to 'durable', 'path' to 'read', 'bol' to 'speaker'. This describes the verb's characteristic. 2. From Indeclinables: Adjectives are made by adding suffixes to indeclinable words, e.g., 'outside' to 'outer', 'below' to 'lower', 'inside' to 'internal'. These words describe the characteristic of a noun's place or position.",
+    "keywords": [
+      "क्रिया   Verb",
+      "अव्यय   Indeclinable",
+      "टिकाऊ   Durable",
+      "अंदरूनी   Internal"
+    ],
+    "explanation": "भाषा में विशेषणों की विविधता के लिए क्रिया और अव्यय का प्रयोग अत्यंत उपयोगी है।   The use of verbs and indeclinables is extremely useful for the variety of adjectives in language.",
+    "page_number": "90"
+  },
+  {
+    "id": 73,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "पाठ में दिए गए 'विशेषणों की रचना' के आधार पर किन्हीं पाँच तत्सम शब्दों की तुलनात्मक अवस्थाएँ लिखिए।   Based on the 'Composition of Adjectives' in the text, write the comparative stages of any five Tatsam words.",
+    "answer": "1. तीव्र: तीव्रतर, तीव्रतम। 2. सरल: सरलतर, सरलतम। 3. प्रिय: प्रियतर, प्रियतम। 4. गुरु: गुरुतर, गुरुतम। 5. उच्च: उच्चतर, उच्चतम। तत्सम शब्दों में 'तर' प्रत्यय उत्तरावस्था और 'तम' प्रत्यय उत्तमावस्था को दर्शाने के लिए उपयोग किया जाता है।   1. Fast: Faster, Fastest. 2. Simple: Simpler, Simplest. 3. Dear: Dearer, Dearest. 4. Great: Greater, Greatest. 5. High: Higher, Highest. In Tatsam words, the 'tar' suffix is used for the comparative stage and the 'tam' suffix for the superlative stage.",
+    "keywords": [
+      "तीव्रतर   Faster",
+      "सरलतम   Simplest",
+      "प्रियतम   Dearest",
+      "गुरुतर   Greater"
+    ],
+    "explanation": "ये उदाहरण दिखाते हैं कि संस्कृत के प्रभाव से हिंदी में तुलना कैसे की जाती है।   These examples show how comparison is made in Hindi under the influence of Sanskrit.",
+    "page_number": "89"
+  },
+  {
+    "id": 74,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 130
+    },
+    "question": "गुणवाचक विशेषण के अंतर्गत आने वाले विभिन्न उप-श्रेणियों (गुण, दोष, आकार, रंग, दशा) का विवरण दीजिए।   Provide details of various sub-categories (quality, defect, shape, color, condition) coming under qualitative adjectives.",
+    "answer": "गुणवाचक विशेषण कई रूपों में विशेषता बताते हैं: 1. गुण: 'परिश्रमी' बालक। 2. दोष: 'बुरा' आदमी। 3. आकार: 'विशाल' महासागर, 'त्रिकोनी' मेज़। 4. रंग: 'काली' करतूतें, 'लाल' फूल। 5. दशा: 'बीमार' व्यक्ति, 'बूढ़ा' आदमी। 6. स्वाद: 'नमकीन' लस्सी। ये सभी शब्द संज्ञा के स्वभाव और बाहरी या आंतरिक स्थिति का परिचय देते हैं।   Qualitative adjectives describe characteristics in several forms: 1. Quality: 'hardworking' boy. 2. Defect: 'bad' man. 3. Shape: 'vast' ocean, 'triangular' table. 4. Color: 'black' deeds, 'red' flower. 5. Condition: 'sick' person, 'old' man. 6. Taste: 'salty' lassi. All these words introduce the nature and external or internal state of the noun.",
+    "keywords": [
+      "गुण   Quality",
+      "दोष   Defect",
+      "आकार   Shape",
+      "रंग   Color",
+      "दशा   Condition"
+    ],
+    "explanation": "गुणवाचक विशेषण सबसे विस्तृत श्रेणी है जो संज्ञा के हर पहलू को कवर करती है।   Qualitative adjective is the widest category covering every aspect of the noun.",
+    "page_number": "87"
+  },
+  {
+    "id": 75,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "विशेषण पाठ के 'अब हम जान गए' अनुभाग के मुख्य बिंदुओं का सारांश लिखिए।   Write a summary of the main points from the 'Now we know' section of the Adjective lesson.",
+    "answer": "सारांश: 1. संज्ञा या सर्वनाम की विशेषता बताने वाले शब्द विशेषण हैं। 2. विशेषण के चार भेद हैं- गुणवाचक, संख्यावाचक, परिमाणवाचक और सार्वनामिक। 3. प्रविशेषण विशेषणों की भी विशेषता बताते हैं। 4. विशेषणों की रचना संज्ञा, सर्वनाम, क्रिया और अव्यय से विभिन्न प्रत्ययों द्वारा होती है। 5. आकारांत विशेषणों के लिंग, वचन और कारक बदलते हैं, जबकि अन्य में कोई परिवर्तन नहीं होता।   Summary: 1. Words describing nouns or pronouns are adjectives. 2. There are four types of adjectives- Qualitative, Numeral, Quantitative, and Pronominal. 3. 'Pra-visheshan' describe adjectives too. 4. Adjectives are composed from nouns, pronouns, verbs, and indeclinables using various suffixes. 5. 'A-karanti' adjectives change by gender, number, and case, while others do not change.",
+    "keywords": [
+      "सारांश   Summary",
+      "विशेषण   Adjective",
+      "प्रत्यय   Suffix",
+      "अपरिवर्तित   Unchanged"
+    ],
+    "explanation": "यह अनुभाग पूरे अध्याय का निचोड़ प्रस्तुत करता है जो परीक्षा की दृष्टि से अत्यंत महत्त्वपूर्ण है।   This section presents the essence of the entire chapter, which is very important from an exam perspective.",
+    "page_number": "91"
+  },
+  {
+    "id": 76,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 70,
+      "max": 110
+    },
+    "question": "वाक्यों में प्रयोग करके निश्चित और अनिश्चित परिमाणवाचक विशेषणों को स्पष्ट कीजिए।   Clarify definite and indefinite quantitative adjectives by using them in sentences.",
+    "answer": "निश्चित परिमाणवाचक: 'बेटा, दो लीटर दूध लेते आना।' यहाँ 'दो लीटर' दूध की एक निश्चित और मापी हुई मात्रा है। अनिश्चित परिमाणवाचक: 'पिताजी कुछ सामान लाए हैं।' यहाँ 'कुछ' से सामान की सही मात्रा का बोध नहीं हो रहा है, केवल एक अनुमान है। इन दोनों का प्रयोग तोलने वाली वस्तुओं के लिए ही किया जाता है।   Definite Quantitative: 'Son, bring two liters of milk.' Here 'two liters' is a definite and measured quantity of milk. Indefinite Quantitative: 'Father has brought some items.' here 'some' does not provide the correct quantity of items, it's just an estimate. Both of these are used only for items that are weighed.",
+    "keywords": [
+      "दो लीटर   Two liters",
+      "कुछ   Some",
+      "परिमाणवाचक   Quantitative",
+      "निश्चित   Definite"
+    ],
+    "explanation": "वाक्य प्रयोग से छात्र को मात्रा की निश्चितता और अनिश्चितता का अंतर स्पष्ट हो जाता है।   Through sentence usage, the difference between the certainty and uncertainty of quantity becomes clear to the student.",
+    "page_number": "87"
+  },
+  {
+    "id": 77,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 85,
+      "max": 130
+    },
+    "question": "तत्सम और तद्भव विशेषणों के निर्माण में प्रत्ययों की भूमिका पर प्रकाश डालिए।   Shed light on the role of suffixes in the construction of Tatsam and Tadbhav adjectives.",
+    "answer": "प्रत्यय विशेषण निर्माण में मूल भूमिका निभाते हैं। तत्सम शब्दों में 'इक' (ऐतिहासिक), 'इत' (चर्चित), और तुलना के लिए 'तर' व 'तम' का प्रयोग होता है। तद्भव या सामान्य हिंदी शब्दों में 'वाला' (गाड़ीवाला), 'ईला' (पथरीला), 'ई' (शहरी) जैसे प्रत्यय प्रयुक्त होते हैं। ये प्रत्यय संज्ञा के मूल अर्थ को विस्तारित कर उसे विशेषण का गुण प्रदान करते हैं।   Suffixes play a primary role in adjective construction. In Tatsam words, 'ik' (historical), 'it' (discussed), and for comparison 'tar' and 'tam' are used. In Tadbhav or common Hindi words, suffixes like 'wala' (vehicle-owner), 'eela' (stony), 'ee' (urban) are used. These suffixes expand the root meaning of the noun and provide it the quality of an adjective.",
+    "keywords": [
+      "तत्सम   Tatsam",
+      "तद्भव   Tadbhav",
+      "प्रत्यय   Suffix",
+      "निर्माण   Construction"
+    ],
+    "explanation": "शब्दों का मूल रूप प्रत्यय पाकर भाषा की अभिव्यक्ति की क्षमता को बढ़ाता है।   The root form of words, upon receiving suffixes, increases the expressive capacity of the language.",
+    "page_number": "89-90"
+  },
+  {
+    "id": 78,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 75,
+      "max": 120
+    },
+    "question": "अभ्यास कार्य के आधार पर किन्हीं पाँच संज्ञा शब्दों से विशेषण बनाकर वाक्य लिखिए।   Based on the exercise, form adjectives from any five noun words and write sentences.",
+    "answer": "1. चमक - चमकीला: यह हीरा बहुत चमकीला है। 2. प्यास - प्यासा: प्यासा कौआ पानी की तलाश में था। 3. रोग - रोगी: डॉक्टर रोगी की जाँच कर रहे हैं। 4. परिवार - पारिवारिक: हमें पारिवारिक समारोह में जाना है। 5. भारत - भारतीय: हम सब भारतीय नागरिक हैं। ये विशेषण वाक्यों को अधिक वर्णनात्मक बनाते हैं।   1. Shine - Shiny: This diamond is very shiny. 2. Thirst - Thirsty: The thirsty crow was looking for water. 3. Disease - Sick: The doctor is examining the sick person. 4. Family - Familial: We have to go to a familial function. 5. India - Indian: We are all Indian citizens. These adjectives make the sentences more descriptive.",
+    "keywords": [
+      "चमकीला   Shiny",
+      "प्यासा   Thirsty",
+      "रोगी   Sick/Patient",
+      "पारिवारिक   Familial",
+      "भारतीय   Indian"
+    ],
+    "explanation": "अभ्यास के माध्यम से विशेषणों का व्यावहारिक प्रयोग सिद्ध होता है।   The practical use of adjectives is proven through exercises.",
+    "page_number": "92-93"
+  },
+  {
+    "id": 79,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 125
+    },
+    "question": "विशेषणों की अवस्थाओं में 'सबसे' और प्रत्ययों ('तर', 'तम') के प्रयोग के नियमों की तुलना कीजिए।   Compare the rules of using 'sabse' (most) and suffixes ('tar', 'tam') in the stages of adjectives.",
+    "answer": "तुलना के दो तरीके हैं: 1. प्रत्ययों द्वारा: यह मुख्य रूप से तत्सम शब्दों में होता है। 'तर' तुलना के लिए (तीव्रतर) और 'तम' सर्वश्रेष्ठ के लिए (तीव्रतम) लगाया जाता है। 2. 'सबसे' द्वारा: यह सामान्य हिंदी वाक्यों में प्रयुक्त होता है। उत्तमावस्था दर्शाने के लिए विशेषण से पहले 'सबसे' (सबसे बड़ी नदी) या 'सबसे अधिक' लगाया जाता है। दोनों का उद्देश्य तुलना के स्तर को स्पष्ट करना है।   There are two ways of comparison: 1. By Suffixes: This occurs mainly in Tatsam words. 'Tar' is added for comparison (faster) and 'tam' for the best (fastest). 2. By 'Sabse': This is used in common Hindi sentences. To show the superlative stage, 'sabse' (biggest river) or 'sabse adhik' is added before the adjective. The purpose of both is to clarify the level of comparison.",
+    "keywords": [
+      "सबसे   Most",
+      "तर   Tar",
+      "तम   Tam",
+      "तुलना   Comparison"
+    ],
+    "explanation": "हिंदी भाषा में संस्कृत और लोकभाषा दोनों के प्रभावों के कारण तुलना की ये दो विधियाँ प्रचलित हैं।   In the Hindi language, these two methods of comparison are prevalent due to the influences of both Sanskrit and the folk language.",
+    "page_number": "88-89"
+  },
+  {
+    "id": 80,
+    "subject": "Hindi",
+    "chapter": "विशेषण-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "विशेषण और विशेष्य की पहचान करने की क्या विधि है? पाँच उदाहरणों से समझाइए।   What is the method to identify an adjective and its modified noun? Explain with five examples.",
+    "answer": "पहचान की विधि: वाक्य में संज्ञा की क्या, कैसा या कितनी विशेषता है, वह शब्द विशेषण है और जिसकी विशेषता बताई जा रही है वह विशेष्य है। उदाहरण: 1. 'कई' (वि) लोग (व्य)। 2. 'दो' (वि) मोर (व्य)। 3. 'नमकीन' (वि) लस्सी (व्य)। 4. 'विशाल' (वि) महासागर (व्य)। 5. 'तीन मीटर' (वि) कपड़ा (व्य)। यहाँ (वि) विशेषण है और (व्य) विशेष्य है।   Method of Identification: In a sentence, the word that tells what, how, or how much characteristic a noun has is the adjective, and the one whose characteristic is being told is the modified noun. Examples: 1. 'Several' (Adj) people (Noun). 2. 'Two' (Adj) peacocks (Noun). 3. 'Salty' (Adj) lassi (Noun). 4. 'Vast' (Adj) ocean (Noun). 5. 'Three meters' (Adj) cloth (Noun). Here (Adj) is adjective and (Noun) is the modified noun.",
+    "keywords": [
+      "विशेषण   Adjective",
+      "विशेष्य   Modified noun",
+      "पहचान   Identification",
+      "उदाहरण   Example"
+    ],
+    "explanation": "विशेषण और विशेष्य का जोड़ा वाक्य की संरचना को पूर्ण और स्पष्ट बनाता है।   The pair of adjective and modified noun makes the structure of the sentence complete and clear.",
+    "page_number": "87"
+  }
+]
