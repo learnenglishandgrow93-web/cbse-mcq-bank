@@ -1,0 +1,2638 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Every square is a rectangle.\nReason (R): A square is a quadrilateral in which all angles are 90° and opposite sides are equal.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "A rectangle is defined as a quadrilateral where all angles are right angles and opposite sides are equal. Since a square possesses all these properties alongside having all equal sides, every square is indeed a special type of rectangle. This classification is discussed on Page 92 of the document.",
+    "page_number": "92"
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The diagonals of a square bisect its interior angles.\nReason (R): A square is a special type of rhombus, and all rhombuses have diagonals that bisect their interior angles.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Every square is a rhombus because all its sides are equal in length. One of the fundamental properties of a rhombus is that its diagonals bisect its interior angles, which naturally applies to squares as well. This geometric relationship is covered on Page 93.",
+    "page_number": "93"
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The sum of the exterior angles of any quadrilateral is 360°.\nReason (R): The sum of the interior angles of any quadrilateral is 360°.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, but R is not the correct explanation of A.",
+    "explanation": "It is a mathematical fact that the sum of the exterior angles of any polygon, including quadrilaterals, is always 360°. Similarly, the interior angles of a quadrilateral also sum to 360°. However, the interior angle sum is not the reason for the exterior angle sum being 360°. This property is detailed on Page 9.",
+    "page_number": "9"
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A tangram is a traditional Chinese puzzle consisting of seven pieces.\nReason (R): A tangram typically consists of geometric shapes cut from a single square.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, but R is not the correct explanation of A.",
+    "explanation": "The assertion correctly identifies a tangram as a traditional 7-piece Chinese puzzle, and the reason correctly describes how it is made from a single square. Both statements provide independent facts about tangrams, meaning the reason does not directly explain the assertion. This case study is found on Page 106.",
+    "page_number": "106"
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The diagonals of a rhombus are perpendicular bisectors of each other.\nReason (R): A rhombus has all sides equal, and its diagonals divide the rhombus into four congruent right-angled triangles.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "In a rhombus, the property of having all equal sides ensures that the diagonals bisect each other at exactly 90 degrees. This intersection forms four identical right-angled triangles within the shape, making the reason the correct justification. This is explained on Page 109.",
+    "page_number": "109"
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A kite has exactly one pair of opposite angles equal.\nReason (R): A kite has exactly one pair of equal opposite sides.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "A kite does indeed have exactly one pair of equal opposite angles, formed where the unequal sides meet. However, a kite does not have equal opposite sides; rather, it has two distinct pairs of equal adjacent sides. This concept is explored on Page 109.",
+    "page_number": "109"
+  },
+  {
+    "id": 7,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The sum of the interior angles of a quadrilateral is 360°.\nReason (R): The sum of adjacent angles of a quadrilateral is always 180°.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "The sum of the interior angles of any quadrilateral is always 360°, making the assertion true. However, adjacent angles are only supplementary (summing to 180°) in specific quadrilaterals like parallelograms and trapeziums, making the reason universally false. This is noted on Page 109.",
+    "page_number": "109"
+  },
+  {
+    "id": 8,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): An isosceles trapezium has equal non-parallel sides.\nReason (R): The diagonals of an isosceles trapezium are equal in length.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, but R is not the correct explanation of A.",
+    "explanation": "An isosceles trapezium is defined by having its non-parallel sides equal in length. While it is also a property that its diagonals are equal, the equality of the diagonals is a result of the shape's symmetry, not the defining reason for its non-parallel sides being equal. This property is seen on Page 99.",
+    "page_number": "99"
+  },
+  {
+    "id": 9,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The adjacent pairs of angles of a parallelogram add up to 180°.\nReason (R): Adjacent angles are the interior angles on the same side of a transversal to a pair of parallel lines.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Because opposite sides of a parallelogram are parallel, any adjacent side acts as a transversal. According to the properties of parallel lines, interior angles on the same side of a transversal are supplementary, perfectly explaining the assertion. This deduction is found on Page 108.",
+    "page_number": "108"
+  },
+  {
+    "id": 10,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If the diagonals of a quadrilateral are equal and bisect each other, the quadrilateral is a rectangle.\nReason (R): Equal diagonals alone are sufficient to prove a quadrilateral is a rectangle.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "A quadrilateral whose diagonals are both equal and bisect each other is definitely a rectangle. However, simply having equal diagonals is not enough; an isosceles trapezium has equal diagonals but is not a rectangle. This makes the reason false, as discussed on Page 109.",
+    "page_number": "109"
+  },
+  {
+    "id": 11,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A parallelogram with one right angle must be a rectangle.\nReason (R): In a parallelogram, consecutive angles are supplementary and opposite angles are equal.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "If one angle of a parallelogram is 90°, the opposite angle is also 90°. The adjacent angles must be 180° - 90° = 90°. Therefore, all four angles become 90°, defining a rectangle. The geometric reasoning justifies the assertion perfectly, detailed on Page 89.",
+    "page_number": "89"
+  },
+  {
+    "id": 12,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The diagonals of a kite bisect each other.\nReason (R): One diagonal of a kite bisects the other diagonal at an angle of 90 degrees.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "In a kite, the diagonals do not bisect each other mutually. Only the longer diagonal (the main axis of symmetry) bisects the shorter diagonal. Therefore, the assertion is false, but the reason provides the accurate geometric property, as explained on Page 97.",
+    "page_number": "97"
+  },
+  {
+    "id": 13,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "A polygon is defined as a simple closed curve made up of only ___?",
+    "options": [
+      "Curves",
+      "Line segments",
+      "Intersecting lines",
+      "Parallel lines"
+    ],
+    "answer": "Line segments",
+    "explanation": "In geometry, a polygon is strictly defined as a simple closed curve that is constructed entirely using line segments, without any open ends or crossed lines. This foundational definition is provided on Page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "A quadrilateral is a polygon with exactly how many sides?",
+    "options": [
+      "Three",
+      "Four",
+      "Five",
+      "Six"
+    ],
+    "answer": "Four",
+    "explanation": "The term 'quadrilateral' is derived from the Latin words 'quadri' meaning four, and 'latus' referring to sides. Thus, it is a polygon with exactly four sides, as introduced on Page 89.",
+    "page_number": "89"
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "In a rectangle, what is the exact measure of each interior angle?",
+    "options": [
+      "60°",
+      "90°",
+      "120°",
+      "180°"
+    ],
+    "answer": "90°",
+    "explanation": "By geometric definition, a rectangle is a specific type of quadrilateral in which all four interior angles are perfectly equal to 90 degrees. This fundamental property is clearly stated on Page 89.",
+    "page_number": "89"
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "Which of the following is a primary property of the opposite sides of a rectangle?",
+    "options": [
+      "They intersect at 90°",
+      "They are unequal in length",
+      "They are parallel and equal",
+      "They are perpendicular"
+    ],
+    "answer": "They are parallel and equal",
+    "explanation": "In a rectangle, the opposite sides are not only of equal length but are also strictly parallel to each other. This ensures the shape maintains its uniform rectangular structure, as noted on Page 89.",
+    "page_number": "89"
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "The diagonals of a rectangle are known to bisect each other. What does the term 'bisect' mean?",
+    "options": [
+      "Intersect at 90°",
+      "Divide into two equal parts",
+      "Extend infinitely",
+      "Form acute angles"
+    ],
+    "answer": "Divide into two equal parts",
+    "explanation": "In geometry, bisecting a quantity or a line segment simply means dividing it precisely into two equal parts. When diagonals bisect each other, they cross at their exact midpoints. This is detailed on Page 85.",
+    "page_number": "85"
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "What is the sum of the interior angles of any quadrilateral?",
+    "options": [
+      "180°",
+      "270°",
+      "360°",
+      "540°"
+    ],
+    "answer": "360°",
+    "explanation": "By dividing a quadrilateral into two triangles using a diagonal, we can sum the angles of the two triangles (180° + 180°). This proves the sum of interior angles is always 360°, as explained on Page 93.",
+    "page_number": "93"
+  },
+  {
+    "id": 19,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "What is the sum of the exterior angles of a quadrilateral, taken in an order?",
+    "options": [
+      "180°",
+      "270°",
+      "360°",
+      "720°"
+    ],
+    "answer": "360°",
+    "explanation": "Like any simple polygon, the exterior angles of a quadrilateral, when traversed in a consistent order (clockwise or counter-clockwise), will always add up to a full rotation, which is 360°. This property is stated on Page 9.",
+    "page_number": "9"
+  },
+  {
+    "id": 20,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "A square is considered a special type of rectangle in which all sides are ___.",
+    "options": [
+      "Parallel",
+      "Equal",
+      "Perpendicular",
+      "Intersecting"
+    ],
+    "answer": "Equal",
+    "explanation": "A square meets all the requirements of a rectangle (all angles are 90° and opposite sides are equal), but it has the additional special condition that all four of its sides are equal in length. This is highlighted on Page 92.",
+    "page_number": "92"
+  },
+  {
+    "id": 21,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "A parallelogram is defined as a quadrilateral in which opposite sides are ___.",
+    "options": [
+      "Equal only",
+      "Parallel",
+      "Perpendicular",
+      "Adjacent"
+    ],
+    "answer": "Parallel",
+    "explanation": "The fundamental defining property of a parallelogram is that both pairs of its opposite sides are parallel to each other. Equal length is a consequence of this parallelism. This definition is given on Page 93.",
+    "page_number": "93"
+  },
+  {
+    "id": 22,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "In any parallelogram, what is the geometric relationship between adjacent angles?",
+    "options": [
+      "They are equal",
+      "They add up to 90°",
+      "They add up to 180°",
+      "They add up to 360°"
+    ],
+    "answer": "They add up to 180°",
+    "explanation": "Adjacent angles in a parallelogram are essentially consecutive interior angles lying on the same side of a transversal intersecting parallel lines. Therefore, they are supplementary, meaning they add up to 180°, as shown on Page 94.",
+    "page_number": "94"
+  },
+  {
+    "id": 23,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "What is a quadrilateral with all four sides of equal length called?",
+    "options": [
+      "Rectangle",
+      "Trapezium",
+      "Rhombus",
+      "Kite"
+    ],
+    "answer": "Rhombus",
+    "explanation": "A rhombus is specifically defined as a quadrilateral in which all four sides share the exact same length. While a square also fits this description, 'rhombus' is the general term for this property. This definition appears on Page 95.",
+    "page_number": "95"
+  },
+  {
+    "id": 24,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "A kite is a quadrilateral that has two distinct pairs of equal ___ sides.",
+    "options": [
+      "Opposite",
+      "Parallel",
+      "Adjacent",
+      "Diagonal"
+    ],
+    "answer": "Adjacent",
+    "explanation": "Unlike parallelograms where opposite sides are equal, a kite is uniquely characterized by having two distinct pairs of equal adjacent sides (sides that meet at a common vertex). This is detailed on Page 97.",
+    "page_number": "97"
+  },
+  {
+    "id": 25,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "A trapezium is a quadrilateral that must have at least one pair of ___ opposite sides.",
+    "options": [
+      "Equal",
+      "Parallel",
+      "Perpendicular",
+      "Adjacent"
+    ],
+    "answer": "Parallel",
+    "explanation": "The defining characteristic of a trapezium is that it has at least one pair of opposite sides that are strictly parallel. This sets it apart from general quadrilaterals, as explained on Page 99.",
+    "page_number": "99"
+  },
+  {
+    "id": 26,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "In an isosceles trapezium, what special property do the non-parallel sides have?",
+    "options": [
+      "They are parallel",
+      "They are perpendicular",
+      "They are equal in length",
+      "They intersect at 90°"
+    ],
+    "answer": "They are equal in length",
+    "explanation": "A trapezium becomes an 'isosceles trapezium' specifically when its two non-parallel sides have the exact same length. This grants the shape bilateral symmetry. The property is highlighted on Page 99.",
+    "page_number": "99"
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "A single diagonal drawn across a quadrilateral divides the shape into how many triangles?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "None"
+    ],
+    "answer": "Two",
+    "explanation": "By connecting two opposite vertices with a diagonal line, any simple quadrilateral is instantly split into exactly two triangles. This is the basis for proving the 360° angle sum property, seen on Page 9.",
+    "page_number": "9"
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "Which specific geometric shape is formed by joining two identical equilateral triangles along one of their sides?",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Rhombus",
+      "Trapezium"
+    ],
+    "answer": "Rhombus",
+    "explanation": "When two identical equilateral triangles are joined along a common edge, the resulting quadrilateral has four outer sides that are all equal in length, forming a classic rhombus shape. This is explored on Page 104.",
+    "page_number": "104"
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "What is the name of the traditional Chinese puzzle consisting of exactly seven flat geometric pieces?",
+    "options": [
+      "Sudoku",
+      "Tangram",
+      "Origami",
+      "Tessellation"
+    ],
+    "answer": "Tangram",
+    "explanation": "A tangram is a well-known traditional Chinese geometric puzzle made from a square divided into exactly seven flat pieces, known as tans. This case study is discussed on Page 106.",
+    "page_number": "106"
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "Which of the following statements is mathematically true based on quadrilateral properties?",
+    "options": [
+      "Every parallelogram is a square.",
+      "Every rectangle is a square.",
+      "Every square is a parallelogram.",
+      "Every trapezium is a kite."
+    ],
+    "answer": "Every square is a parallelogram.",
+    "explanation": "A square has opposite sides that are parallel and equal, fulfilling all the necessary requirements to be classified as a parallelogram. Thus, every square is inherently a parallelogram, as visualized in the Venn diagram on Page 101.",
+    "page_number": "101"
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "Which of the following specific quadrilaterals has exactly one pair of parallel sides?",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Parallelogram",
+      "Trapezium"
+    ],
+    "answer": "Trapezium",
+    "explanation": "While squares, rectangles, and parallelograms possess two pairs of parallel opposite sides, a basic trapezium is defined by having only one pair of parallel opposite sides. This distinction is made on Page 99.",
+    "page_number": "99"
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "In any rectangle, the lengths of the two diagonals are always ___.",
+    "options": [
+      "Unequal",
+      "Perpendicular",
+      "Equal",
+      "Parallel"
+    ],
+    "answer": "Equal",
+    "explanation": "A key geometric property of all rectangles is that their diagonals are exactly equal in length. This can be proven using the congruence of the right-angled triangles formed inside. This property is covered on Page 90.",
+    "page_number": "90"
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "If three angles of a quadrilateral measure 85°, 95°, and 100°, what is the measure of the fourth angle?",
+    "options": [
+      "70°",
+      "80°",
+      "90°",
+      "100°"
+    ],
+    "answer": "80°",
+    "explanation": "The sum of all four interior angles in any quadrilateral must be 360°. Summing the given angles gives 85° + 95° + 100° = 280°. Subtracting this from 360° yields 80° for the fourth angle. This relies on the angle sum property from Page 9.",
+    "page_number": "9"
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "If one angle of a parallelogram measures 65°, what is the exact measure of its adjacent angle?",
+    "options": [
+      "65°",
+      "115°",
+      "125°",
+      "180°"
+    ],
+    "answer": "115°",
+    "explanation": "In a parallelogram, adjacent angles are supplementary, meaning they must add up to 180°. Therefore, if one angle is 65°, the adjacent angle is calculated as 180° - 65° = 115°. This is demonstrated on Page 105.",
+    "page_number": "105"
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "The adjacent sides of which of the following special quadrilaterals are always equal in length?",
+    "options": [
+      "Rectangle",
+      "Parallelogram",
+      "Rhombus",
+      "Trapezium"
+    ],
+    "answer": "Rhombus",
+    "explanation": "By definition, a rhombus is a quadrilateral where all four sides share the exact same length. Consequently, any two adjacent sides will always be equal. This property is listed on Page 105.",
+    "page_number": "105"
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "If the diagonals of a quadrilateral bisect each other at right angles, but are NOT equal in length, the shape is most likely a:",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Rhombus",
+      "Isosceles Trapezium"
+    ],
+    "answer": "Rhombus",
+    "explanation": "While both squares and rhombuses have diagonals intersecting at 90°, a square also requires the diagonals to be equal. Since the diagonals here are explicitly unequal, the shape must be a rhombus, as seen on Page 105.",
+    "page_number": "105"
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a rhombus ABCD, if angle ABC is given as 110°, what is the precise measure of angle ACD?",
+    "options": [
+      "35°",
+      "55°",
+      "70°",
+      "110°"
+    ],
+    "answer": "35°",
+    "explanation": "Adjacent angles in a rhombus sum to 180°, so angle BCD is 180° - 110° = 70°. The diagonal AC bisects angle BCD, meaning angle ACD is exactly half of 70°, which equals 35°. This problem is solved on Page 96.",
+    "page_number": "96"
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a parallelogram PQRS, angle P = 3x° and the consecutive angle Q = (x + 40)°. What is the numerical value of x?",
+    "options": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "answer": "35",
+    "explanation": "Consecutive angles in a parallelogram are supplementary. Therefore, 3x + (x + 40) = 180. Simplifying this gives 4x + 40 = 180, leading to 4x = 140, which means x = 35. This algebraic application is shown on Page 107.",
+    "page_number": "107"
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "A tangram set is typically constructed by cutting seven geometric shapes from a single larger ___.",
+    "options": [
+      "Rectangle",
+      "Triangle",
+      "Square",
+      "Circle"
+    ],
+    "answer": "Square",
+    "explanation": "A traditional tangram puzzle is designed by dissecting a single large square into seven specific geometric flat pieces (five triangles, a square, and a parallelogram). This fun fact is found in the case study on Page 106.",
+    "page_number": "106"
+  },
+  {
+    "id": 40,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a symmetric kite WXYZ, the unequal opposite angles are W = 40° and Y = 80°. If angle X = 120°, what is the measure of angle Z?",
+    "options": [
+      "40°",
+      "80°",
+      "120°",
+      "140°"
+    ],
+    "answer": "120°",
+    "explanation": "A kite has exactly one pair of equal opposite angles, which are located where the unequal adjacent sides meet. Since X and Z represent these symmetric points, angle Z must exactly equal angle X, which is 120°. This reflects the diagram on Page 102.",
+    "page_number": "102"
+  },
+  {
+    "id": 41,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In an isosceles trapezium, if one base angle is 110°, what is the measure of the adjacent interior angle on the same non-parallel side?",
+    "options": [
+      "70°",
+      "80°",
+      "110°",
+      "180°"
+    ],
+    "answer": "70°",
+    "explanation": "In any trapezium, the consecutive interior angles formed along the non-parallel transversal lines between the parallel bases are supplementary. Thus, 180° - 110° = 70°. This concept is applied in Worksheet Level 1, Page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 42,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "The diagonals of a specific quadrilateral bisect each other at 90°, dividing it into four congruent right-angled triangles. What quadrilateral is it?",
+    "options": [
+      "Rectangle",
+      "Parallelogram",
+      "Rhombus",
+      "Trapezium"
+    ],
+    "answer": "Rhombus",
+    "explanation": "Because the diagonals of a rhombus bisect each other at perfectly right angles, they divide the entire shape into four completely congruent right-angled triangles. This defining property is discussed on Page 109.",
+    "page_number": "109"
+  },
+  {
+    "id": 43,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "A group of boys marks the exact midpoints of the four sides of a rectangular court and joins them sequentially. What type of quadrilateral is formed inside?",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Rhombus",
+      "Kite"
+    ],
+    "answer": "Rhombus",
+    "explanation": "When you join the midpoints of adjacent sides of any rectangle, the resulting inner quadrilateral has four sides of equal length due to the symmetry of the rectangle's diagonals, thus creating a rhombus. This is presented in Case Study 1, Page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 44,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "If a carpenter measures one diagonal of a rectangular wooden frame to be 12 cm, what must be the length of the second diagonal for it to be a true rectangle?",
+    "options": [
+      "6 cm",
+      "12 cm",
+      "24 cm",
+      "It depends on the sides"
+    ],
+    "answer": "12 cm",
+    "explanation": "A defining structural property of all true rectangles is that both of their diagonals are exactly equal in length. Therefore, the second diagonal must also be 12 cm. This practical application is found on Page 90.",
+    "page_number": "90"
+  },
+  {
+    "id": 45,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a kite ABCD, the two diagonals intersect at point O. At what specific angle do these diagonals cross?",
+    "options": [
+      "45°",
+      "60°",
+      "90°",
+      "180°"
+    ],
+    "answer": "90°",
+    "explanation": "Due to the bilateral symmetry of a kite—having two pairs of equal adjacent sides—the main diagonal acts as a perpendicular bisector to the cross diagonal, meaning they always intersect exactly at 90°. This property is stated on Page 97.",
+    "page_number": "97"
+  },
+  {
+    "id": 46,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "Which congruence criterion can be used to prove that the diagonals of a parallelogram bisect each other using alternate interior angles?",
+    "options": [
+      "SSS",
+      "SAS",
+      "ASA",
+      "RHS"
+    ],
+    "answer": "ASA",
+    "explanation": "By utilizing the alternate interior angles created by the parallel sides and recognizing the opposite sides are equal, the Angle-Side-Angle (ASA) congruence condition effectively proves that the two triangles formed by the diagonals are congruent, meaning the diagonals bisect. This deduction is on Page 99.",
+    "page_number": "99"
+  },
+  {
+    "id": 47,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a rhombus ABCD, the diagonals bisect the vertex angles. If angle DAB is 60°, what is the total measure of the opposite angle BCD?",
+    "options": [
+      "30°",
+      "60°",
+      "120°",
+      "180°"
+    ],
+    "answer": "60°",
+    "explanation": "Because every rhombus is technically a parallelogram, its opposite interior angles are perfectly equal. Thus, if angle DAB measures 60°, the opposite angle BCD must also measure exactly 60°. This property is utilized on Page 100.",
+    "page_number": "100"
+  },
+  {
+    "id": 48,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "A quadrilateral has all four sides equal to 5 cm, and its diagonals measure 6 cm and 8 cm. What is the most accurate classification for it?",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Rhombus",
+      "Trapezium"
+    ],
+    "answer": "Rhombus",
+    "explanation": "Having all four sides equal means it must be a rhombus or a square. Since the lengths of the diagonals (6 cm and 8 cm) are distinctly unequal, the angles are not 90°, ruling out a square and leaving it firmly as a rhombus. This is covered on Page 2, Level 3.",
+    "page_number": "2"
+  },
+  {
+    "id": 49,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a trapezium ABCD with base AB parallel to base DC, if angle A is 60°, what is the necessary measure of angle D?",
+    "options": [
+      "60°",
+      "90°",
+      "120°",
+      "180°"
+    ],
+    "answer": "120°",
+    "explanation": "For any trapezium, the consecutive interior angles located on the same transversal between the two parallel sides are supplementary. Therefore, angle D is calculated as 180° - 60° = 120°. This calculation is seen on Page 97.",
+    "page_number": "97"
+  },
+  {
+    "id": 50,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "Which specific quadrilateral has diagonals that are equal in length and bisect each other, but generally do NOT intersect at 90°?",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Rhombus",
+      "Kite"
+    ],
+    "answer": "Rectangle",
+    "explanation": "A rectangle features diagonals that are strictly equal and bisect each other. However, unlike squares or rhombuses, the angle of their intersection is not 90° unless the rectangle also happens to have all equal sides (a square). This distinction is made on Page 109.",
+    "page_number": "109"
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "If a given quadrilateral has all four sides equal and contains at least one right angle, what must it definitively be classified as?",
+    "options": [
+      "Rhombus only",
+      "Rectangle only",
+      "Square",
+      "Parallelogram"
+    ],
+    "answer": "Square",
+    "explanation": "A quadrilateral with all equal sides is a rhombus. If a rhombus contains even one right angle (90°), consecutive and opposite angles force all four angles to become 90°, making it a perfect square. This is stated on Page 1, Level 3.",
+    "page_number": "1"
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "Two isosceles triangles with side dimensions of 5 cm, 5 cm, and 4 cm are joined exactly along their 5 cm sides. What polygon shape is formed?",
+    "options": [
+      "Square",
+      "Rhombus",
+      "Kite",
+      "Trapezium"
+    ],
+    "answer": "Kite",
+    "explanation": "Joining the triangles along the 5 cm side results in an outer boundary comprising two sides of 5 cm meeting at one end, and two sides of 4 cm meeting at the other. This creates two distinct pairs of equal adjacent sides, perfectly defining a kite. This exercise is on Page 101.",
+    "page_number": "101"
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "A photo frame is designed such that its opposite sides are parallel and equal, and one of its interior angles is exactly 40°. What shape is it?",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Parallelogram",
+      "Rhombus"
+    ],
+    "answer": "Parallelogram",
+    "explanation": "Having parallel and equal opposite sides ensures the shape is a parallelogram. Since the angle is 40° and not 90°, it cannot be classified as a rectangle or a square, leaving parallelogram as the most precise general answer. Found on Worksheet Level 2, Page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a parallelogram LMNO, the measure of angle O is 70°. What is the exact measure of the opposite angle M?",
+    "options": [
+      "70°",
+      "90°",
+      "110°",
+      "180°"
+    ],
+    "answer": "70°",
+    "explanation": "A defining property of all parallelograms is that their opposite interior angles are perfectly equal to each other. Therefore, if angle O is 70°, angle M must also be precisely 70°. This property is applied on Page 1, Level 3.",
+    "page_number": "1"
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a rhombus, one specific vertex angle measures 68°. What is the exact measure of its adjacent interior angle?",
+    "options": [
+      "68°",
+      "90°",
+      "112°",
+      "180°"
+    ],
+    "answer": "112°",
+    "explanation": "Since every rhombus is fundamentally a parallelogram, its adjacent interior angles are supplementary, meaning they add up to 180°. Calculating 180° - 68° provides the adjacent angle measure of 112°. This is tested on Worksheet Level 1, Page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "The diagonals of a rectangle ABCD cross at point O. If angle BOC measures 120°, what is the measure of angle OAB?",
+    "options": [
+      "30°",
+      "60°",
+      "90°",
+      "120°"
+    ],
+    "answer": "60°",
+    "explanation": "Angles BOC and AOB lie on a straight line, making angle AOB = 180° - 120° = 60°. Since diagonals of a rectangle bisect and are equal, triangle AOB is isosceles (OA=OB). Therefore, angles OAB and OBA are equal, each being (180°-60°)/2 = 60°. Seen on Page 85.",
+    "page_number": "85"
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "A carpenter joins two identical wooden strips of 8 cm firmly at their midpoints. If the strips do not meet at 90°, what shape is formed by connecting their endpoints?",
+    "options": [
+      "Square",
+      "Rhombus",
+      "Rectangle",
+      "Parallelogram"
+    ],
+    "answer": "Rectangle",
+    "explanation": "Because the two 'diagonals' are equal (8 cm) and bisect each other (joined at midpoints), the resulting connected shape is guaranteed to be a rectangle. The lack of a 90° intersection merely ensures it isn't a square. This is the Carpenter's Problem on Page 83.",
+    "page_number": "83"
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a perfect square ABCD, what is the exact measure of the angle formed between the diagonal AC and the side AB?",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "answer": "45°",
+    "explanation": "A square has vertex angles of 90°. Since a square is also a rhombus, its diagonals perfectly bisect these vertex angles. Therefore, the angle formed between any diagonal and a side is exactly 90° / 2 = 45°. This is demonstrated on Page 93.",
+    "page_number": "93"
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "What is a distinctive property regarding the two diagonals of an isosceles trapezium?",
+    "options": [
+      "They are perpendicular",
+      "They bisect each other",
+      "They are unequal",
+      "They are equal in length"
+    ],
+    "answer": "They are equal in length",
+    "explanation": "Because an isosceles trapezium possesses bilateral symmetry with its equal non-parallel sides, the two internal diagonals drawn across the shape are forced to be perfectly equal in length. This additional feature is highlighted on Page 99.",
+    "page_number": "99"
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "Which hands-on educational tool is frequently used with rubber bands to physically construct and explore the properties of quadrilaterals?",
+    "options": [
+      "Compass",
+      "Protractor",
+      "Geoboard",
+      "Set-square"
+    ],
+    "answer": "Geoboard",
+    "subject": "Mathematics",
+    "explanation": "A geoboard features a grid of pegs on which students can stretch rubber bands to form various geometric shapes, making it an excellent tactile tool for exploring the side and diagonal properties of quadrilaterals. Mentioned on Page 103.",
+    "page_number": "103"
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "The angle between the altitude drawn from an obtuse vertex of a parallelogram and one adjacent side is 30°. What are all the interior angles of the parallelogram?",
+    "options": [
+      "30°, 150°, 30°, 150°",
+      "60°, 120°, 60°, 120°",
+      "45°, 135°, 45°, 135°",
+      "90°, 90°, 90°, 90°"
+    ],
+    "answer": "60°, 120°, 60°, 120°",
+    "explanation": "If the altitude creates a right triangle with an angle of 30°, the acute base angle of the parallelogram must be 180° - (90° + 30°) = 60°. Since consecutive angles are supplementary, the adjacent obtuse angle is 180° - 60° = 120°. This example is on Page 94.",
+    "page_number": "94"
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a given rectangle PQRS, the diagonal PR creates an angle of exactly 45° with the side RS. What does this specific angle prove about the shape PQRS?",
+    "options": [
+      "It is a rhombus only",
+      "It is a standard rectangle",
+      "It is a square",
+      "It is a trapezium"
+    ],
+    "answer": "It is a square",
+    "explanation": "Since the shape is already a rectangle, the corner angle PSR is 90°. If the diagonal PR makes a 45° angle with RS, it perfectly bisects the corner angle. A rectangle where diagonals bisect the vertex angles has equal adjacent sides, making it a square. This proof is on Page 93.",
+    "page_number": "93"
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a kite labeled WXYZ, if vertices W and Y represent the unequal opposite angles, what is the geometric relationship between the other two angles X and Z?",
+    "options": [
+      "They add up to 90°",
+      "Angle X = Angle Z",
+      "They are supplementary",
+      "They are unequal"
+    ],
+    "answer": "Angle X = Angle Z",
+    "explanation": "A kite is symmetrical along its main diagonal. The angles formed between the unequal adjacent sides (in this case, vertices X and Z) are perfectly mirrored and therefore always mathematically equal to each other. Explored on Page 102.",
+    "page_number": "102"
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "Are diagonal lengths of 12 cm and 14 cm sufficient information to uniquely construct a specific kite?",
+    "options": [
+      "Yes, always",
+      "No, the point of intersection is also needed",
+      "Yes, if they intersect at 60°",
+      "No, the perimeter is strictly required"
+    ],
+    "answer": "No, the point of intersection is also needed",
+    "explanation": "While we know the diagonals of a kite must intersect at 90° and the longer one bisects the shorter one, we do not know exactly where the shorter diagonal crosses the longer one. Without this intersection ratio, infinite unique kites can be drawn. Discussed on Page 107.",
+    "page_number": "107"
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In quadrilateral ABCD, sides AB = AD, BC = CD. The internal angles satisfy ABC = BAD = 90°. What classification properly fits this shape?",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Rhombus",
+      "Kite"
+    ],
+    "answer": "Kite",
+    "explanation": "Having two distinct pairs of equal adjacent sides (AB=AD and BC=CD) defines the shape fundamentally as a kite. The 90° interior angles are simply specific numerical values that do not override the defining adjacent side property of a kite. Analyzed on Page 107.",
+    "page_number": "107"
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a parallelogram ABCD, the internal angle bisectors of consecutive angles A and B meet at a point X. What is the exact measure of angle AXB?",
+    "options": [
+      "45°",
+      "60°",
+      "90°",
+      "120°"
+    ],
+    "answer": "90°",
+    "explanation": "Consecutive angles A and B in a parallelogram add up to 180°. Their bisectors halve these angles, meaning the sum of the two bisected angles in triangle AXB is 180° / 2 = 90°. Therefore, the third angle, AXB, must be 180° - 90° = 90°. Addressed on Page 1, Level 3.",
+    "page_number": "1"
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "If the diagonals of an unknown quadrilateral are proven to be equal and they mutually bisect each other, the shape is definitively classified as a:",
+    "options": [
+      "Trapezium",
+      "Rectangle",
+      "Kite",
+      "Rhombus"
+    ],
+    "answer": "Rectangle",
+    "explanation": "A quadrilateral whose diagonals bisect each other must be a parallelogram. A parallelogram whose diagonals are strictly equal in length is mathematically constrained to have 90° angles, making it definitively a rectangle. Outlined on Page 109.",
+    "page_number": "109"
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "ABCD is given as a rhombus with the vertex angle ABC measuring 126°. What is the precise measure of angle CAB?",
+    "options": [
+      "27°",
+      "54°",
+      "63°",
+      "126°"
+    ],
+    "answer": "27°",
+    "explanation": "In rhombus ABCD, consecutive angles sum to 180°, so angle DAB is 180° - 126° = 54°. The diagonal AC bisects angle DAB, meaning angle CAB is exactly half of 54°, resulting in a measure of 27°. This problem is on Page 97.",
+    "page_number": "97"
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "A student incorrectly claims that 'every quadrilateral with equal diagonals is a square.' Which of the following provides a valid counterexample?",
+    "options": [
+      "A rhombus with unequal diagonals",
+      "A standard rectangle with unequal adjacent sides",
+      "A parallelogram",
+      "A kite"
+    ],
+    "answer": "A standard rectangle with unequal adjacent sides",
+    "explanation": "A standard non-square rectangle acts as a perfect counterexample. It has diagonals that are perfectly equal in length, yet its adjacent sides are unequal and its diagonals do not cross at 90°, proving it is not a square. Discussed on Page 108.",
+    "page_number": "108"
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "Consider a circle with center O. Line segments PL and AM are drawn as two perpendicular diameters. What exact geometric figure does quadrilateral APML form?",
+    "options": [
+      "Rectangle only",
+      "Rhombus only",
+      "Square",
+      "Parallelogram only"
+    ],
+    "answer": "Square",
+    "explanation": "The diameters are the diagonals of the quadrilateral APML. Since they are diameters of the same circle, they are equal and bisect each other. Because they are also drawn perpendicularly, the figure possesses equal, perpendicular, bisecting diagonals, making it a square. Mentioned on Page 94.",
+    "page_number": "94"
+  },
+  {
+    "id": 71,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a Venn diagram classifying quadrilaterals, how is the relationship between parallelograms, rectangles, and squares correctly visually represented?",
+    "options": [
+      "They are distinct circles",
+      "Squares enclose rectangles, which enclose parallelograms",
+      "Squares are a subset of rectangles, which are a subset of parallelograms",
+      "Rectangles and parallelograms intersect to form squares"
+    ],
+    "answer": "Squares are a subset of rectangles, which are a subset of parallelograms",
+    "explanation": "Because a square possesses all the properties of a rectangle, it is entirely a subset of rectangles. Similarly, because a rectangle possesses all properties of a parallelogram, it is entirely a subset of parallelograms. Illustrated on Page 101.",
+    "page_number": "101"
+  },
+  {
+    "id": 72,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "Two cardboard cutouts of a scalene triangle (sides 6 cm, 9 cm, 12 cm) are joined together exactly along their 12 cm sides. What is the most precise classification for the resulting quadrilateral?",
+    "options": [
+      "Trapezium",
+      "Rectangle",
+      "Kite",
+      "Square"
+    ],
+    "answer": "Kite",
+    "explanation": "If joined back-to-back along the 12 cm side such that the 6 cm sides are adjacent and the 9 cm sides are adjacent, the shape has two distinct pairs of equal adjacent sides, which strictly defines a kite shape. Depicted on Page 105.",
+    "page_number": "105"
+  },
+  {
+    "id": 73,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a specific parallelogram, the adjacent angles are given algebraically as (2x + 10)° and (3x - 20)°. What is the numerical value of x?",
+    "options": [
+      "38",
+      "40",
+      "45",
+      "50"
+    ],
+    "answer": "38",
+    "explanation": "Adjacent angles in any parallelogram are supplementary. Therefore, (2x + 10) + (3x - 20) = 180. Simplifying yields 5x - 10 = 180, so 5x = 190. Dividing by 5 gives x = 38. This type of algebraic reasoning is shown on Page 107.",
+    "page_number": "107"
+  },
+  {
+    "id": 74,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "What is the common geometric property relied upon by carpenters and farmers when they cross two lengths of string to lay out perfectly rectangular bases?",
+    "options": [
+      "Ensuring adjacent sides are equal",
+      "Ensuring diagonals are equal and bisect each other",
+      "Ensuring the diagonals cross at 90°",
+      "Ensuring one pair of sides is parallel"
+    ],
+    "answer": "Ensuring diagonals are equal and bisect each other",
+    "explanation": "To practically construct a true rectangle without measuring 90° angles, one can simply ensure that two diagonal strings of identical length are pinned exactly at their midpoints. This forces the resulting bounding box to be a rectangle, noted on Page 88.",
+    "page_number": "88"
+  },
+  {
+    "id": 75,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "Let ABCD be a parallelogram with diagonals intersecting at O. If triangle AOB is proven congruent to triangle COD via ASA, which geometric property does this directly prove?",
+    "options": [
+      "Opposite angles are equal",
+      "Diagonals are perpendicular",
+      "Diagonals bisect each other",
+      "All sides are equal"
+    ],
+    "answer": "Diagonals bisect each other",
+    "explanation": "The congruence of the vertically opposite triangles AOB and COD implies that corresponding parts are equal, specifically OA = OC and OB = OD. This geometric proof demonstrates that the diagonals effectively bisect each other. Detailed on Page 99.",
+    "page_number": "99"
+  },
+  {
+    "id": 76,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In an isosceles trapezium ABCD where AB is parallel to DC and AD = BC, if the base angle A is 80°, what is the measure of the opposite top angle C?",
+    "options": [
+      "80°",
+      "100°",
+      "120°",
+      "180°"
+    ],
+    "answer": "100°",
+    "explanation": "In an isosceles trapezium, the base angles are equal (angle A = angle B = 80°). Because AB is parallel to DC, interior angles on the same side of transversal BC sum to 180°. Therefore, angle C = 180° - 80° = 100°. Found in Worksheet Level 1, Page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 77,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a kite, drawing the main central diagonal divides the kite into two completely congruent triangles. Which standard congruence rule directly justifies this?",
+    "options": [
+      "SAS congruence rule",
+      "SSS congruence rule",
+      "ASA congruence rule",
+      "RHS congruence rule"
+    ],
+    "answer": "SSS congruence rule",
+    "explanation": "A kite has two pairs of equal adjacent sides. The main diagonal acts as a common side shared by the two formed triangles. Having three corresponding equal sides (Side-Side-Side) proves the triangles are congruent, as shown on Page 98.",
+    "page_number": "98"
+  },
+  {
+    "id": 78,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a rectangular frame PQRS, the diagonals meet at point O. If the angle PSQ is measured as 30°, what must be the measure of the adjacent angle SQR?",
+    "options": [
+      "30°",
+      "60°",
+      "90°",
+      "120°"
+    ],
+    "answer": "60°",
+    "explanation": "In rectangle PQRS, the corner angle PQR is 90°. Since PS is parallel to QR, the alternate interior angle SQR forms a right triangle PQS. If angle PSQ is 30°, then the remaining part of the 90° corner PQR is 90° - 30° = 60°. Derived from Worksheet Level 2, Page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 79,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "A quadrilateral features two pairs of consecutive angles that are supplementary, where each supplementary pair lies along the same side. However, all four angles are completely unequal. What is it?",
+    "options": [
+      "Rectangle",
+      "Rhombus",
+      "Trapezium",
+      "Kite"
+    ],
+    "answer": "Trapezium",
+    "explanation": "Having consecutive angles supplementary along the same side proves the lines forming the top and bottom are parallel. Because all four angles are strictly unequal, the shape cannot be an isosceles trapezium or a parallelogram, leaving it as a general trapezium. Worksheet Level 2, Page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 80,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a rhombus labeled GAME, the diagonals intersect at point O. What geometric congruence condition conclusively proves that triangle GEO is congruent to triangle MEO?",
+    "options": [
+      "ASA condition",
+      "SAS condition",
+      "SSS condition",
+      "AAS condition"
+    ],
+    "answer": "SSS condition",
+    "explanation": "Since all sides of a rhombus are equal, GE = ME. The diagonals bisect each other, meaning GO = MO. Finally, EO is a common side to both triangles. Thus, Side-Side-Side (SSS) proves their congruence, confirming a 90° intersection on Page 102.",
+    "page_number": "102"
+  },
+  {
+    "id": 81,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Every rectangle is a parallelogram.\nReason (R): A rectangle has both pairs of opposite sides parallel and equal.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "A parallelogram is defined as a quadrilateral where opposite sides are parallel. Since a rectangle naturally has parallel and equal opposite sides alongside 90-degree angles, it perfectly satisfies the definition of a parallelogram. This relationship is illustrated on Page 96.",
+    "page_number": "96"
+  },
+  {
+    "id": 82,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The sum of the interior angles of a pentagon is 360°.\nReason (R): The sum of the interior angles of any quadrilateral is always 360°.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The sum of the interior angles of a pentagon is 540°, not 360°, making the assertion false. However, the reason correctly states the angle sum property of a quadrilateral, which is always 360°. This property is explained on Page 95.",
+    "page_number": "95"
+  },
+  {
+    "id": 83,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A rhombus is always a regular polygon.\nReason (R): All four sides of a rhombus are equal in length.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "A regular polygon must have both equal sides and equal angles. While a rhombus does have all four sides equal (which makes the reason true), its interior angles are not necessarily all equal, so it is not a regular polygon unless it is a square. This is inferred from Page 95.",
+    "page_number": "95"
+  },
+  {
+    "id": 84,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Consecutive angles between the parallel sides of a trapezium sum to 180°.\nReason (R): These angles act as co-interior angles between two parallel lines intersected by a transversal.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "In a trapezium, the non-parallel sides act as transversals cutting across the parallel bases. According to transversal properties, co-interior angles on the same side of a transversal are supplementary, logically explaining the assertion. This property is on Page 99.",
+    "page_number": "99"
+  },
+  {
+    "id": 85,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "From which classical language is the geometric term 'quadrilateral' derived?",
+    "options": [
+      "Greek",
+      "Latin",
+      "Arabic",
+      "Sanskrit"
+    ],
+    "answer": "Latin",
+    "explanation": "The term 'quadrilateral' originates from the Latin language. It combines the words 'quadri', meaning four, and 'latus', referring to sides. This origin is introduced at the very beginning of the chapter on Page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 86,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "In the term 'quadrilateral', what does the Latin root 'latus' translate to?",
+    "options": [
+      "Angles",
+      "Vertices",
+      "Sides",
+      "Diagonals"
+    ],
+    "answer": "Sides",
+    "explanation": "The word quadrilateral is broken down into 'quadri' and 'latus'. 'Quadri' stands for four, while 'latus' is the Latin word specifically referring to sides. This etymology is explained on Page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 87,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "A quadrilateral features exactly 4 right angles, but its adjacent sides are distinctly unequal. What is the correct classification for this shape?",
+    "options": [
+      "Square",
+      "Rhombus",
+      "Rectangle",
+      "Kite"
+    ],
+    "answer": "Rectangle",
+    "explanation": "A shape with four 90-degree angles is a rectangle. Because the adjacent sides are explicitly stated to be unequal, it cannot be classified as a square. Thus, it remains a standard rectangle. This is covered on Page 89.",
+    "page_number": "89"
+  },
+  {
+    "id": 88,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "A single diagonal drawn across a parallelogram divides it into two triangles. What is the geometric relationship between these two triangles?",
+    "options": [
+      "They are similar but not congruent",
+      "They are fully congruent",
+      "They are isosceles",
+      "They are equilateral"
+    ],
+    "answer": "They are fully congruent",
+    "explanation": "When a diagonal is drawn in a parallelogram, it splits the shape into two triangles that are exactly identical in shape and size. They can be proven congruent using the ASA or SSS congruence rules, as shown on Page 97.",
+    "page_number": "97"
+  },
+  {
+    "id": 89,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "In geometric Venn diagrams, what visual element is traditionally used to represent a set of objects like 'squares' or 'rectangles'?",
+    "options": [
+      "A straight line",
+      "An open curve",
+      "A closed curve like a circle or oval",
+      "A dotted angle"
+    ],
+    "answer": "A closed curve like a circle or oval",
+    "explanation": "Venn diagrams use simple closed curves, typically circles or ovals, to visually group items that share common properties. For instance, the set of all squares is enclosed in a circle inside the rectangle circle. This visual tool is shown on Page 91.",
+    "page_number": "91"
+  },
+  {
+    "id": 90,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "Which of the following properties is NOT a requirement for a quadrilateral to be classified as a parallelogram?",
+    "options": [
+      "Opposite sides are equal",
+      "Opposite angles are equal",
+      "Diagonals bisect each other",
+      "Diagonals intersect at 90°"
+    ],
+    "answer": "Diagonals intersect at 90°",
+    "explanation": "While the diagonals of a parallelogram must bisect each other, they do not need to intersect at 90°. Perpendicular diagonals are a specific property reserved for rhombuses, squares, and kites. This is detailed on Page 98.",
+    "page_number": "98"
+  },
+  {
+    "id": 91,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "If you take any two triangles and sum up all of their internal angles together, what will be the total sum?",
+    "options": [
+      "180°",
+      "270°",
+      "360°",
+      "720°"
+    ],
+    "answer": "360°",
+    "explanation": "The sum of the interior angles of a single triangle is always 180°. Therefore, summing the angles of two separate triangles results in 180° + 180° = 360°, which is the foundational proof for the quadrilateral angle sum, found on Page 95.",
+    "page_number": "95"
+  },
+  {
+    "id": 92,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "If you draw two line segments of equal length that bisect each other at any non-90° angle, and join their four endpoints, what specific shape is formed?",
+    "options": [
+      "Rhombus",
+      "Square",
+      "Rectangle",
+      "Kite"
+    ],
+    "answer": "Rectangle",
+    "explanation": "When diagonals are equal in length and bisect each other, the resulting quadrilateral is always a rectangle. If the angle isn't 90°, it won't be a square, remaining a standard rectangle. This concept is explored in the Carpenter's Problem on Page 88.",
+    "page_number": "88"
+  },
+  {
+    "id": 93,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "Is it mathematically possible to draw a quadrilateral where all four interior angles are acute (less than 90°)?",
+    "options": [
+      "Yes, in a kite",
+      "Yes, in a trapezium",
+      "No, because the sum must be exactly 360°",
+      "No, because they must all be exactly 90°"
+    ],
+    "answer": "No, because the sum must be exactly 360°",
+    "explanation": "If all four angles were strictly acute (less than 90°), their total sum would necessarily be less than 360° (e.g., 89 x 4 = 356). Since every quadrilateral's angles must sum to exactly 360°, this scenario is mathematically impossible, as noted on Page 95.",
+    "page_number": "95"
+  },
+  {
+    "id": 94,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "Does a standard kite inherently have any parallel sides?",
+    "options": [
+      "Yes, both pairs are parallel",
+      "Yes, one pair is parallel",
+      "No, a kite generally has no parallel sides",
+      "Yes, only the diagonals are parallel"
+    ],
+    "answer": "No, a kite generally has no parallel sides",
+    "explanation": "A kite is defined by having two pairs of equal adjacent sides. Unlike trapeziums or parallelograms, this structural definition does not require, nor generally result in, any of the opposite sides being parallel to each other. This is seen on Page 105.",
+    "page_number": "105"
+  },
+  {
+    "id": 95,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "How many pairs of parallel opposite sides must a quadrilateral have to be officially classified as a trapezium?",
+    "options": [
+      "None",
+      "Exactly two",
+      "At least one",
+      "All four"
+    ],
+    "answer": "At least one",
+    "explanation": "A trapezium is formally defined as a quadrilateral possessing at least one pair of parallel opposite sides. This single pair of parallel lines gives the trapezium its distinctive shape, distinguishing it from general quadrilaterals, as defined on Page 106.",
+    "page_number": "106"
+  },
+  {
+    "id": 96,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "In an isosceles trapezium, what is true about the angles located at the same base?",
+    "options": [
+      "They add up to 90°",
+      "They are perfectly equal",
+      "They add up to 360°",
+      "They are always acute"
+    ],
+    "answer": "They are perfectly equal",
+    "explanation": "Because an isosceles trapezium has non-parallel sides of equal length, it is bilaterally symmetrical. This symmetry forces the interior angles located along the same parallel base to be exactly equal in measure. This property is taught on Page 107.",
+    "page_number": "107"
+  },
+  {
+    "id": 97,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "When a diagonal is drawn to split a quadrilateral into two triangles, what role does the diagonal serve for both triangles?",
+    "options": [
+      "It acts as a perpendicular bisector",
+      "It acts as an external boundary",
+      "It acts as a common shared side",
+      "It forms a right angle for both"
+    ],
+    "answer": "It acts as a common shared side",
+    "explanation": "Drawing a diagonal across a quadrilateral connects two opposite vertices, slicing the interior into two distinct triangles. The diagonal itself serves as a common, shared edge or side for both of the newly formed triangles. This is evident in proofs on Page 97.",
+    "page_number": "97"
+  },
+  {
+    "id": 98,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "Which standard geometric triangle congruence rule involves proving two sides and their included angle are identical?",
+    "options": [
+      "SSS",
+      "ASA",
+      "RHS",
+      "SAS"
+    ],
+    "answer": "SAS",
+    "explanation": "The SAS (Side-Angle-Side) congruence rule dictates that if two sides and the angle exactly between them (the included angle) in one triangle match the corresponding parts of another triangle, the triangles are fully congruent. This is applied in proofs on Page 84.",
+    "page_number": "84"
+  },
+  {
+    "id": 99,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "A polygon that is constructed using exactly 5 line segments is properly termed a?",
+    "options": [
+      "Quadrilateral",
+      "Hexagon",
+      "Pentagon",
+      "Octagon"
+    ],
+    "answer": "Pentagon",
+    "explanation": "In geometry, polygons are named based on their number of sides. A polygon with three sides is a triangle, four is a quadrilateral, and exactly five straight sides form a pentagon. This is referenced in the 'Previous Knowledge' section.",
+    "page_number": "88"
+  },
+  {
+    "id": 100,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "multiple_choice",
+    "question": "What is the specific geometric term for a line segment that connects two non-consecutive vertices of a polygon?",
+    "options": [
+      "Altitude",
+      "Median",
+      "Diagonal",
+      "Transversal"
+    ],
+    "answer": "Diagonal",
+    "explanation": "By definition, a diagonal is a straight line segment drawn between any two vertices of a polygon that are not directly next to each other (non-consecutive). In quadrilaterals, they stretch from opposite corners. This is reviewed in 'Previous Knowledge'.",
+    "page_number": "88"
+  },
+  {
+    "id": 101,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A square is the only quadrilateral that is simultaneously both a rectangle and a rhombus.\nReason (R): A square combines the 4 right angles of a rectangle with the 4 equal sides of a rhombus.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "A rectangle is defined by having four right angles, while a rhombus is defined by having four equal sides. A square naturally possesses both of these defining characteristics, making it the perfect intersection of the two shapes. This is verified by the Venn diagram on Page 101.",
+    "page_number": "101"
+  },
+  {
+    "id": 102,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The diagonals of an isosceles trapezium perfectly bisect each other.\nReason (R): The diagonals of an isosceles trapezium are strictly equal in length.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "While it is a true geometric fact that the diagonals of an isosceles trapezium are equal in length due to symmetry, they do NOT bisect each other. Diagonals that bisect each other are a property exclusive to parallelograms. This concept is explored on Page 99.",
+    "page_number": "99"
+  },
+  {
+    "id": 103,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): In a given parallelogram ABCD, side AB = CD and side AD = BC.\nReason (R): A fundamental property of parallelograms is that their opposite sides are equal in length.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The defining feature of a parallelogram is that its opposite sides are parallel. A direct mathematical consequence of this parallelism (provable via congruent triangles) is that the opposite sides are strictly equal in length, making the reason correct. Explained on Page 98.",
+    "page_number": "98"
+  },
+  {
+    "id": 104,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A quadrilateral with internal angles measuring 90°, 90°, 80°, and 100° is classified as a rectangle.\nReason (R): For a quadrilateral to be a rectangle, all four of its interior angles must measure exactly 90°.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The assertion is false because the presence of 80° and 100° angles prevents the shape from being a rectangle. The reason is a true factual statement: the strict definition of a rectangle demands that all four interior angles must be 90°. Found on Page 89.",
+    "page_number": "89"
+  },
+  {
+    "id": 105,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a rhombus labeled PQRS, the two diagonals PR and QS intersect at a center point O. What is the exact measure of angle POQ?",
+    "options": [
+      "45°",
+      "60°",
+      "90°",
+      "180°"
+    ],
+    "answer": "90°",
+    "explanation": "A hallmark property of all rhombuses is that their diagonals intersect and bisect each other at perfectly right angles (perpendicular bisectors). Therefore, the angle formed at the intersection point O (angle POQ) must be 90°. This is proven on Page 102.",
+    "page_number": "102"
+  },
+  {
+    "id": 106,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "Two adjacent interior angles of a parallelogram are given in the ratio 4:5. What are the numerical measures of these two angles?",
+    "options": [
+      "40° and 50°",
+      "80° and 100°",
+      "100° and 125°",
+      "120° and 150°"
+    ],
+    "answer": "80° and 100°",
+    "explanation": "Adjacent angles in a parallelogram are supplementary. So, 4x + 5x = 180°, meaning 9x = 180°, which gives x = 20°. Multiplying the ratio parts by 20 gives 4(20) = 80° and 5(20) = 100°. The concept of supplementary adjacent angles is on Page 97.",
+    "page_number": "97"
+  },
+  {
+    "id": 107,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In rectangle ABCD, diagonals cross at O. If segment OA is represented by (2x + 3) and segment OD by (3x - 1), what is the value of x?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4",
+    "explanation": "In any rectangle, diagonals are equal and bisect each other, meaning all four half-segments from the center are equal. Thus, OA = OD. Setting up the equation 2x + 3 = 3x - 1 results in x = 4. Diagonal bisection is covered on Page 85.",
+    "page_number": "85"
+  },
+  {
+    "id": 108,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "An isosceles trapezium has base angles measuring 45° each. What are the measures of the remaining two upper angles?",
+    "options": [
+      "45° and 45°",
+      "90° and 90°",
+      "135° and 135°",
+      "180° and 180°"
+    ],
+    "answer": "135° and 135°",
+    "explanation": "In a trapezium, interior angles on the same side of a transversal between parallel bases are supplementary. So, the upper angle on one side is 180° - 45° = 135°. Because it is an isosceles trapezium, the upper angles are equal, both being 135°. Discussed on Page 107.",
+    "page_number": "107"
+  },
+  {
+    "id": 109,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "If the diagonals of an unidentified quadrilateral are known to be perpendicular to each other, which two shapes could it potentially be?",
+    "options": [
+      "Rectangle or Trapezium",
+      "Rhombus or Kite",
+      "Parallelogram or Rectangle",
+      "Square or Trapezium"
+    ],
+    "answer": "Rhombus or Kite",
+    "explanation": "Perpendicular diagonals are a specific property reserved for a select few quadrilaterals. Specifically, kites, rhombuses, and squares feature diagonals that cross at 90°. (A square is a type of rhombus). This narrows the options to Rhombus or Kite. Mentioned on Pages 97 and 102.",
+    "page_number": "102"
+  },
+  {
+    "id": 110,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a kite ABCD where side AB = AD and CB = CD, which specific diagonal serves as the perpendicular bisector of the other?",
+    "options": [
+      "Diagonal AC bisects BD",
+      "Diagonal BD bisects AC",
+      "They mutually bisect each other",
+      "Neither bisects the other"
+    ],
+    "answer": "Diagonal AC bisects BD",
+    "explanation": "In a kite, the diagonal connecting the vertices where the equal sides meet (A and C) forms the axis of symmetry. This longer main diagonal perpendicularly bisects the cross diagonal (BD). This property is detailed on Page 105.",
+    "page_number": "105"
+  },
+  {
+    "id": 111,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "A student identifies a quadrilateral where both pairs of opposite sides are equal, but verifies there are absolutely NO right angles. What shape is it?",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Parallelogram",
+      "Kite"
+    ],
+    "answer": "Parallelogram",
+    "explanation": "Having both pairs of opposite sides equal forces the shape to be a parallelogram. The explicit lack of 90-degree right angles rules out both rectangles and squares, leaving a standard parallelogram as the correct classification. Identified from Page 98.",
+    "page_number": "98"
+  },
+  {
+    "id": 112,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a rectangle, one diagonal is measured to be 10 cm and one side is 6 cm. Using geometric principles, what is the length of the adjacent side?",
+    "options": [
+      "6 cm",
+      "8 cm",
+      "10 cm",
+      "12 cm"
+    ],
+    "answer": "8 cm",
+    "explanation": "A rectangle's diagonal forms a right-angled triangle with two adjacent sides. Using the Pythagorean theorem (a² + b² = c²), we have 6² + b² = 10², so 36 + b² = 100. Thus, b² = 64, making the other side 8 cm. This relies on rectangle right angle properties from Page 89.",
+    "page_number": "89"
+  },
+  {
+    "id": 113,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "The four interior angles of a quadrilateral are given algebraically as x, 2x, 3x, and 4x. What is the numerical value of x?",
+    "options": [
+      "18",
+      "36",
+      "72",
+      "144"
+    ],
+    "answer": "36",
+    "explanation": "The sum of the interior angles of any quadrilateral is 360°. Therefore, x + 2x + 3x + 4x = 360°, which simplifies to 10x = 360°. Dividing by 10 yields x = 36. This utilizes the angle sum property proven on Page 95.",
+    "page_number": "95"
+  },
+  {
+    "id": 114,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "Which of the following statements regarding the properties of a standard rhombus is fundamentally FALSE?",
+    "options": [
+      "All four sides are equal",
+      "Opposite angles are equal",
+      "Diagonals bisect each other at 90°",
+      "Diagonals are always equal in length"
+    ],
+    "answer": "Diagonals are always equal in length",
+    "explanation": "While a rhombus has equal sides and perpendicular bisecting diagonals, its diagonals are generally NOT equal in length. If the diagonals of a rhombus were equal, the shape would be forced to be a perfect square. This distinction is found on Page 101.",
+    "page_number": "101"
+  },
+  {
+    "id": 115,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a parallelogram PQRS, the measure of vertex angle P is 75°. What is the exact measure of the adjacent vertex angle Q?",
+    "options": [
+      "75°",
+      "90°",
+      "105°",
+      "180°"
+    ],
+    "answer": "105°",
+    "explanation": "In any parallelogram, the interior adjacent angles are supplementary because they act as co-interior angles between parallel lines. Therefore, angle Q is calculated as 180° - 75° = 105°. This is demonstrated on Page 97.",
+    "page_number": "97"
+  },
+  {
+    "id": 116,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a rhombus, it is observed that one diagonal is exactly equal in length to its sides (6 cm). What is the measure of the obtuse angle in this rhombus?",
+    "options": [
+      "90°",
+      "100°",
+      "120°",
+      "150°"
+    ],
+    "answer": "120°",
+    "explanation": "If a diagonal equals the side length, it divides the rhombus into two identical equilateral triangles. Each angle in an equilateral triangle is 60°. The obtuse angle of the rhombus is formed by joining two 60° angles, resulting in 120°. Based on Worksheet Level 1.",
+    "page_number": "100"
+  },
+  {
+    "id": 117,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "A student constructs a parallelogram with adjacent sides of 4 cm and 5 cm, and the angle between them is 30°. What will be the measure of the opposite angle?",
+    "options": [
+      "30°",
+      "60°",
+      "150°",
+      "180°"
+    ],
+    "answer": "30°",
+    "explanation": "A defining property of all parallelograms is that their opposite interior angles are perfectly equal to each other. Thus, if one angle is constructed as 30°, the angle directly opposite to it will also measure exactly 30°. This construction is on Page 96.",
+    "page_number": "96"
+  },
+  {
+    "id": 118,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "When a transversal intersects two parallel lines, what is the geometric sum of the co-interior angles on the same side?",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "answer": "180°",
+    "explanation": "A core theorem of parallel lines cut by a transversal is that the interior angles on the same side (co-interior angles) are supplementary, meaning they always add up to exactly 180°. This fact justifies parallelogram properties on Page 97.",
+    "page_number": "97"
+  },
+  {
+    "id": 119,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a rectangle ABCD, the angle ADB is measured as 40°. What must be the exact measure of the adjacent angle BDC?",
+    "options": [
+      "40°",
+      "50°",
+      "90°",
+      "140°"
+    ],
+    "answer": "50°",
+    "explanation": "The defining feature of a rectangle is that all vertex angles (like angle ADC) are exactly 90°. Since angle ADB and angle BDC form the complete corner angle ADC, angle BDC is simply 90° - 40° = 50°. Relies on rectangle definitions from Page 89.",
+    "page_number": "89"
+  },
+  {
+    "id": 120,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "A kite has two intersecting diagonals measuring 10 cm and 12 cm. Which of the following statements correctly describes their bisection?",
+    "options": [
+      "They mutually bisect each other",
+      "Neither diagonal bisects the other",
+      "Only one diagonal bisects the other",
+      "They bisect at 45°"
+    ],
+    "answer": "Only one diagonal bisects the other",
+    "explanation": "In a kite, the symmetry dictates that only the main diagonal (connecting vertices between equal sides) acts as a perpendicular bisector to the other cross diagonal. They do not mutually bisect. This structural property is outlined on Page 105.",
+    "page_number": "105"
+  },
+  {
+    "id": 121,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In quadrilateral ABCD, base AB is parallel to DC and the non-parallel sides AD = BC. If angle A is 70°, what is the measure of angle B?",
+    "options": [
+      "70°",
+      "110°",
+      "140°",
+      "180°"
+    ],
+    "answer": "70°",
+    "explanation": "This shape is an isosceles trapezium because it has one pair of parallel sides and equal non-parallel sides. A key property of an isosceles trapezium is that angles on the same base are equal, so angle B must equal angle A (70°). Refer to Page 107.",
+    "page_number": "107"
+  },
+  {
+    "id": 122,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "A student measures the diagonals of a parallelogram to be 10 cm and 14 cm. Do these diagonals intersect each other at an exact 90° angle?",
+    "options": [
+      "Yes, always",
+      "No, generally not",
+      "Yes, because they are unequal",
+      "Yes, if it's a rectangle"
+    ],
+    "answer": "No, generally not",
+    "explanation": "In a general parallelogram, while the diagonals always bisect each other, they do not intersect at 90° unless the shape is specifically a rhombus or a square. Thus, generally, they do not cross at right angles. This is discussed on Page 98.",
+    "page_number": "98"
+  },
+  {
+    "id": 123,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "Is it geometrically possible for a parallelogram to have diagonals that do NOT bisect each other?",
+    "options": [
+      "Yes, in irregular parallelograms",
+      "Yes, if the sides are unequal",
+      "No, it is a defining property",
+      "No, except in rectangles"
+    ],
+    "answer": "No, it is a defining property",
+    "explanation": "One of the absolute, proven geometric properties of every parallelogram is that its diagonals must cross at their exact midpoints, meaning they always bisect each other. This is proven using congruent triangles on Page 99.",
+    "page_number": "99"
+  },
+  {
+    "id": 124,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "If you calculate the sum of the exterior angles of a perfect square, taking them in order, what will the total be?",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "answer": "360°",
+    "explanation": "Regardless of whether a polygon is a square, rectangle, or irregular shape, the sum of its exterior angles, when taken in a consistent order, will always equal one full rotation, which is 360°. This applies to all quadrilaterals, as stated on Page 9.",
+    "page_number": "9"
+  },
+  {
+    "id": 125,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "If a rhombus happens to be constructed such that its adjacent interior angles are perfectly equal, what more specific shape does it become?",
+    "options": [
+      "Kite",
+      "Rectangle",
+      "Square",
+      "Trapezium"
+    ],
+    "answer": "Square",
+    "explanation": "Adjacent angles in a rhombus sum to 180°. If they are also forced to be equal, each must be 180° / 2 = 90°. A rhombus with 90° angles is the strict geometric definition of a square. Deduced from properties on Page 92.",
+    "page_number": "92"
+  },
+  {
+    "id": 126,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "A student attempts to draw a quadrilateral with interior angles measuring 100°, 110°, 70°, and 90°. Is this geometrically possible?",
+    "options": [
+      "Yes, it forms a trapezium",
+      "Yes, it forms a kite",
+      "No, the sum is less than 360°",
+      "No, the sum exceeds 360°"
+    ],
+    "answer": "No, the sum exceeds 360°",
+    "explanation": "By definition, the four interior angles of any quadrilateral must sum to exactly 360°. Summing the given angles (100+110+70+90) equals 370°, making this construction mathematically impossible. Referenced from the angle sum property on Page 95.",
+    "page_number": "95"
+  },
+  {
+    "id": 127,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "If a quadrilateral is constructed such that three of its interior angles are exactly 90°, what must the measure of the fourth angle be?",
+    "options": [
+      "45°",
+      "90°",
+      "180°",
+      "Cannot be determined"
+    ],
+    "answer": "90°",
+    "explanation": "Since the sum of interior angles in any quadrilateral is exactly 360°, three 90° angles total 270°. The remaining fourth angle must be 360° - 270° = 90°. This effectively forces the shape to be a rectangle. Addressed on Page 94.",
+    "page_number": "94"
+  },
+  {
+    "id": 128,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "If ONLY two adjacent angles of an unknown quadrilateral add up to exactly 180°, what can be concluded about its opposite sides?",
+    "options": [
+      "Both pairs are parallel",
+      "Only one pair is parallel",
+      "Neither pair is parallel",
+      "All sides are equal"
+    ],
+    "answer": "Only one pair is parallel",
+    "explanation": "If only one pair of adjacent angles are supplementary, it means only one transversal cuts across a pair of parallel lines. Therefore, only one pair of opposite sides is parallel, making the shape a trapezium. Deduced from transversal properties on Page 96.",
+    "page_number": "96"
+  },
+  {
+    "id": 129,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a perfect square, if the diagonals are both 8 cm long, at what exact angle do they bisect the square's vertex corners?",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "answer": "45°",
+    "explanation": "Regardless of diagonal length, a square's corner angles are always exactly 90°. A unique property of squares (and rhombuses) is that their diagonals perfectly bisect these vertex angles, cutting them into two equal 45° angles. This is confirmed on Page 93.",
+    "page_number": "93"
+  },
+  {
+    "id": 130,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "Two identical isosceles triangles have side lengths of 5 cm, 5 cm, and 4 cm. If you join them seamlessly along their 4 cm sides, what quadrilateral shape is formed?",
+    "options": [
+      "Square",
+      "Rectangle",
+      "Rhombus",
+      "Kite"
+    ],
+    "answer": "Rhombus",
+    "explanation": "Joining the triangles along their equal 4 cm bases results in an outer perimeter made entirely of the four 5 cm sides. A quadrilateral with four equal sides is the strict geometric definition of a rhombus. This visualization is taught on Page 104.",
+    "page_number": "104"
+  },
+  {
+    "id": 131,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "multiple_choice",
+    "question": "In a trapezium ABCD where AB is parallel to DC, if angle A is 50° and angle C is 110°, what are the measures of angles B and D respectively?",
+    "options": [
+      "50° and 110°",
+      "70° and 130°",
+      "130° and 70°",
+      "110° and 50°"
+    ],
+    "answer": "70° and 130°",
+    "explanation": "Because AB || DC, angles on the same transversal are supplementary. Thus, angle A + angle D = 180°, so D = 180° - 50° = 130°. Similarly, angle B + angle C = 180°, so B = 180° - 110° = 70°. This relies on parallel line rules on Page 97.",
+    "page_number": "97"
+  },
+  {
+    "id": 132,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A parallelogram with equal diagonals must definitively be a rectangle.\nReason (R): The congruent triangles formed by the diagonals and the sides geometrically prove that the vertex angles must be 90°.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "In a parallelogram, if the diagonals are equal, triangles formed by the sides and diagonals (e.g., DAB and CBA) are congruent by SSS. This means angle DAB = angle CBA. Since they are supplementary adjacent angles, each must be 90°, proving it's a rectangle. Found on Page 89.",
+    "page_number": "89"
+  },
+  {
+    "id": 133,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If the diagonals of a quadrilateral intersect perpendicularly, the quadrilateral must be a rhombus.\nReason (R): Kites also feature diagonals that intersect exactly at 90 degrees.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The assertion is false because perpendicular diagonals are not exclusive to rhombuses; a kite also has perpendicular diagonals but unequal opposite sides. The reason correctly points out that a kite is a valid counterexample. This distinction is drawn on Page 109.",
+    "page_number": "109"
+  },
+  {
+    "id": 134,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): An isosceles trapezium has exactly one internal line of symmetry.\nReason (R): The straight line joining the midpoints of the parallel bases forms its perfect line of symmetry.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Due to its equal non-parallel sides and equal base angles, folding an isosceles trapezium down a vertical axis perfectly aligns its left and right sides. This axis is formed by joining the midpoints of the parallel sides, correctly explaining the symmetry. Explored on Page 99.",
+    "page_number": "99"
+  },
+  {
+    "id": 135,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The sum of angles in a quadrilateral is 360°, which can be proven by dividing it into two triangles.\nReason (R): A single diagonal logically divides a quadrilateral into two triangles, each containing an internal angle sum of 180°.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The foundational proof for the quadrilateral angle sum relies on drawing a diagonal, splitting the shape into two triangles. Summing the 180° from each triangle perfectly yields 360°, making the reason the correct mathematical explanation. This proof is on Page 95.",
+    "page_number": "95"
+  },
+  {
+    "id": 136,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "A carpenter takes two 10 cm wooden strips and pegs them together at their exact midpoints, but sets the angle between them to 60°. What shape is formed when a string connects the four endpoints?",
+    "options": [
+      "Parallelogram",
+      "Square",
+      "Rectangle",
+      "Rhombus"
+    ],
+    "answer": "Rectangle",
+    "explanation": "The two wooden strips act as diagonals. Because they are equal in length (10 cm) and bisect each other (joined at midpoints), the resulting bounding shape is definitively a rectangle, regardless of the 60° intersection angle. Explained via the Carpenter's Problem on Page 88.",
+    "page_number": "88"
+  },
+  {
+    "id": 137,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a parallelogram ABCD, an altitude AX is dropped from vertex A onto base DC. If vertex angle D is 120° and angle DAX measures 30°, what is the precise measure of vertex angle C?",
+    "options": [
+      "30°",
+      "60°",
+      "90°",
+      "120°"
+    ],
+    "answer": "60°",
+    "explanation": "In a parallelogram, consecutive angles sum to 180°. Therefore, angle C is supplementary to angle D (120°). Calculating 180° - 120° yields exactly 60° for angle C. The altitude information is extraneous context for this specific angle. This scenario relates to Page 94.",
+    "page_number": "94"
+  },
+  {
+    "id": 138,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a kite ABCD, adjacent sides AB = AD = 6 cm, and CB = CD = 10 cm. If the vertex angle A measures exactly 90°, what is the length of the cross diagonal BD?",
+    "options": [
+      "6 cm",
+      "6√2 cm",
+      "10 cm",
+      "12 cm"
+    ],
+    "answer": "6√2 cm",
+    "explanation": "Since angle A is 90° and sides AB and AD are both 6 cm, triangle ABD forms a right-angled isosceles triangle. Using the Pythagorean theorem to find hypotenuse BD: 6² + 6² = BD², so 36 + 36 = 72. Therefore, BD = √72 = 6√2 cm. Relates to diagonal properties on Page 98.",
+    "page_number": "98"
+  },
+  {
+    "id": 139,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a trapezium PQRS where base PQ is parallel to base RS, angle P is represented as (2x - 10)° and angle S as (3x + 40)°. What is the numerical value of x?",
+    "options": [
+      "20",
+      "30",
+      "40",
+      "50"
+    ],
+    "answer": "30",
+    "explanation": "Angles P and S lie on the same transversal (PS) connecting the parallel bases, meaning they are supplementary. Therefore, (2x - 10) + (3x + 40) = 180. Simplifying gives 5x + 30 = 180, so 5x = 150, resulting in x = 30. This calculation mirrors examples on Page 100.",
+    "page_number": "100"
+  },
+  {
+    "id": 140,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "The two diagonals of an unknown quadrilateral divide it internally into four distinct, congruent triangles. If these triangles are specifically NOT isosceles, what is the shape?",
+    "options": [
+      "Rectangle",
+      "Square",
+      "Kite",
+      "Rhombus"
+    ],
+    "answer": "Rhombus",
+    "explanation": "In a rhombus, diagonals bisect each other perpendicularly, creating four right-angled triangles. If the diagonals are unequal, these triangles are not isosceles, but they remain congruent by SSS. (If they were isosceles, the shape would be a square). Identified from Worksheet Level 1, Page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 141,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "A perfect square ABCD has points U, V, W, X located exactly at the midpoints of its four sides. If these midpoints are joined sequentially, what specific shape is UVWX?",
+    "options": [
+      "Rhombus",
+      "Rectangle",
+      "Square",
+      "Parallelogram"
+    ],
+    "answer": "Square",
+    "explanation": "Joining the midpoints of a square forms a quadrilateral with four equal sides (a rhombus). Due to the symmetry and 90° corners of the outer square, the inner angles of UVWX also mathematically prove to be 90°, making the inner shape a square as well. Solved on Page 108.",
+    "page_number": "108"
+  },
+  {
+    "id": 142,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a parallelogram ABCD, the internal angle bisectors for consecutive angles A and B are drawn and meet at point P. What specific type of triangle is APB?",
+    "options": [
+      "Equilateral triangle",
+      "Isosceles triangle",
+      "Right-angled triangle",
+      "Obtuse triangle"
+    ],
+    "answer": "Right-angled triangle",
+    "explanation": "Consecutive angles A and B sum to 180°. Their bisectors create base angles in triangle APB that sum to exactly half of 180°, which is 90°. Since the interior sum of a triangle is 180°, the remaining apex angle APB must be 90°, making it a right-angled triangle. Derived from Page 1, Level 3.",
+    "page_number": "1"
+  },
+  {
+    "id": 143,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a rectangle, the two diagonals are observed intersecting at an acute angle of 50°. What is the measure of the angle formed between a diagonal and the longer side of the rectangle?",
+    "options": [
+      "25°",
+      "40°",
+      "50°",
+      "65°"
+    ],
+    "answer": "25°",
+    "explanation": "Diagonals of a rectangle are equal and bisect each other, forming an isosceles triangle with the longer side. If the vertex angle is 130° (supplementary to 50°), the base angles are (180°-130°)/2 = 25°. This geometric relationship is explored on Page 85.",
+    "page_number": "85"
+  },
+  {
+    "id": 144,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a rhombus ABCD, the lengths of the two perpendicular diagonals are measured as 16 cm and 12 cm. What is the total perimeter of this rhombus?",
+    "options": [
+      "20 cm",
+      "28 cm",
+      "40 cm",
+      "48 cm"
+    ],
+    "answer": "40 cm",
+    "explanation": "The diagonals bisect each other at 90°, forming four right triangles with leg lengths 8 cm and 6 cm. Using the Pythagorean theorem (8² + 6² = c²), the hypotenuse (the rhombus side) is 10 cm. Therefore, the perimeter is 4 x 10 cm = 40 cm. Relies on rhombus properties from Page 102.",
+    "page_number": "102"
+  },
+  {
+    "id": 145,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a kite, the main axis of symmetry diagonal (AC) perpendicularly bisects the cross diagonal (BD). Which geometric proof accurately describes the two large triangles formed (ADC and ABC)?",
+    "options": [
+      "They are similar but not congruent",
+      "They are congruent isosceles triangles",
+      "They are perfectly congruent",
+      "They are right-angled triangles"
+    ],
+    "answer": "They are perfectly congruent",
+    "explanation": "Because a kite has two pairs of equal adjacent sides, drawing the main diagonal AC creates two triangles (ABC and ADC) that share side AC and have corresponding equal sides (AB=AD, BC=DC). By the SSS rule, they are completely congruent. Outlined on Page 98.",
+    "page_number": "98"
+  },
+  {
+    "id": 146,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "If quadrilaterals act as the universal set in a Venn diagram, what specific shape occupies the exact intersection region between 'Rectangles' and 'Rhombuses'?",
+    "options": [
+      "Parallelogram",
+      "Square",
+      "Kite",
+      "Trapezium"
+    ],
+    "answer": "Square",
+    "explanation": "A shape that belongs to both the 'Rectangles' set (having four 90° angles) and the 'Rhombuses' set (having four equal sides) is by geometric definition a square. Therefore, squares sit exactly in the intersection of these sets. Visualized on Page 101.",
+    "page_number": "101"
+  },
+  {
+    "id": 147,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In any general isosceles trapezium, what critical relationship exists between the interior base angles along the same parallel side?",
+    "options": [
+      "They are supplementary",
+      "They are perfectly equal",
+      "They are acute",
+      "They add up to 90°"
+    ],
+    "answer": "They are perfectly equal",
+    "explanation": "An isosceles trapezium is characterized by having non-parallel sides of equal length. This grants the shape bilateral vertical symmetry, ensuring that the interior angles positioned along the same parallel base are always geometrically equal. Covered on Page 107.",
+    "page_number": "107"
+  },
+  {
+    "id": 148,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "A student attempts to define a quadrilateral as having EXACTLY three sides equal and EXACTLY two right angles. Is it possible for this shape to be a square?",
+    "options": [
+      "Yes, the fourth side and angles must adapt to be equal/90°",
+      "No, it will form a kite",
+      "No, the third angle will be acute",
+      "Yes, but only if it's drawn unevenly"
+    ],
+    "answer": "Yes, the fourth side and angles must adapt to be equal/90°",
+    "explanation": "If a quadrilateral has three equal sides meeting at two 90° angles, constructing it geometrically forces the fourth side to precisely connect the open ends at exactly the same length and at 90° angles. Thus, it inherently forms a square. Analyzed on Page 108.",
+    "page_number": "108"
+  },
+  {
+    "id": 149,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "The diagonals of an unknown quadrilateral are measured as 6 cm and 8 cm, and they bisect each other at a perfect 90° angle. What is the length of the sides of this shape?",
+    "options": [
+      "5 cm",
+      "7 cm",
+      "10 cm",
+      "14 cm"
+    ],
+    "answer": "5 cm",
+    "explanation": "Diagonals that bisect each other perpendicularly form four right-angled triangles. The half-diagonals are legs measuring 3 cm and 4 cm. Using the Pythagorean theorem (3² + 4² = c²), the hypotenuse (which is the side of the rhombus) calculates to exactly 5 cm. Deduced from Page 102.",
+    "page_number": "102"
+  },
+  {
+    "id": 150,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In an isosceles trapezium labeled PQRS, base PQ is parallel to base RS. If the length of internal diagonal PR is 15 cm, what is the length of diagonal QS?",
+    "options": [
+      "7.5 cm",
+      "15 cm",
+      "30 cm",
+      "Cannot be determined"
+    ],
+    "answer": "15 cm",
+    "explanation": "A defining geometric property of every isosceles trapezium is that its two internal diagonals are perfectly equal in length due to the shape's bilateral symmetry. Therefore, if PR is 15 cm, QS must also be exactly 15 cm. Confirmed on Page 99.",
+    "page_number": "99"
+  },
+  {
+    "id": 151,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a parallelogram ABCD, opposite angles A and C are given algebraically as (3x - 20)° and (x + 40)°. What is the numerical measure of the adjacent angle B?",
+    "options": [
+      "30°",
+      "70°",
+      "110°",
+      "180°"
+    ],
+    "answer": "110°",
+    "explanation": "Opposite angles in a parallelogram are equal. So, 3x - 20 = x + 40, leading to 2x = 60, meaning x = 30. Plugging this in, angle A = 70°. Since adjacent angles are supplementary, angle B = 180° - 70° = 110°. This algebraic application is similar to Page 107.",
+    "page_number": "107"
+  },
+  {
+    "id": 152,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "Two identical isosceles triangles each have dimensions of 8 cm, 8 cm, and 6 cm. If you attach them back-to-back exactly along their 6 cm sides, what quadrilateral is formed?",
+    "options": [
+      "Kite",
+      "Rhombus",
+      "Rectangle",
+      "Square"
+    ],
+    "answer": "Rhombus",
+    "explanation": "By joining the two triangles along their equal 6 cm bases, the resulting outer boundary of the quadrilateral is composed entirely of the four identical 8 cm sides. A quadrilateral bounded by four equal sides is by definition a rhombus. Explored on Page 104.",
+    "page_number": "104"
+  },
+  {
+    "id": 153,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "In a standard rectangle, if the acute angle at which the diagonals intersect is exactly 60°, what specific type of triangles are formed between the diagonals and the shorter sides?",
+    "options": [
+      "Scalene triangles",
+      "Right-angled triangles",
+      "Equilateral triangles",
+      "Obtuse triangles"
+    ],
+    "answer": "Equilateral triangles",
+    "explanation": "Diagonals of a rectangle bisect each other and are equal, creating isosceles triangles. If the vertex angle of this isosceles triangle is 60°, the base angles must be (180-60)/2 = 60° each. Since all three angles are 60°, it is an equilateral triangle. Extrapolated from Page 85.",
+    "page_number": "85"
+  },
+  {
+    "id": 154,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "A quadrilateral has vertices ordered A, B, C, D. If the sum of adjacent angles A + B = 180° and the sum of B + C = 180°, what specific type of quadrilateral must it be?",
+    "options": [
+      "Trapezium",
+      "Parallelogram",
+      "Kite",
+      "Rhombus"
+    ],
+    "answer": "Parallelogram",
+    "explanation": "If angles A and B sum to 180°, lines AD and BC are parallel. If angles B and C sum to 180°, lines AB and DC are parallel. A quadrilateral with both pairs of opposite sides proven parallel is the definition of a parallelogram. Mentioned in deductions on Page 97.",
+    "page_number": "97"
+  },
+  {
+    "id": 155,
+    "subject": "Mathematics",
+    "chapter": "Quadrilaterals-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "multiple_choice",
+    "question": "The crossing diagonals of a symmetrical kite WXYZ intersect at point O. If the angle WXO is given as 40°, what is the precise measure of the mirrored angle WZO?",
+    "options": [
+      "40°",
+      "50°",
+      "80°",
+      "90°"
+    ],
+    "answer": "40°",
+    "explanation": "A kite features a main axis of symmetry down its longer diagonal, meaning the two halves are perfectly congruent mirror images. Therefore, the angle formed on one side (WXO) is perfectly matched by the corresponding angle on the other side (WZO), making it 40°. This reflects properties on Page 102.",
+    "page_number": "102"
+  }
+]
