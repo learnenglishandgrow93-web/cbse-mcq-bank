@@ -1,0 +1,1740 @@
+[
+  {
+    "id": 1,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is the alternative name for a full stop as mentioned in the text?",
+    "answer": "A full stop is also known as a period (.) and is used at the end of a statement.",
+    "keywords": [
+      "period",
+      "full stop",
+      "statement"
+    ],
+    "explanation": "The text explicitly states that a full stop is also known as a period. This is a basic definition found on page 31.",
+    "page_number": "31"
+  },
+  {
+    "id": 2,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "When is a question mark used in English writing?",
+    "answer": "A question mark (?) is used after an interrogative sentence to indicate a direct question.",
+    "keywords": [
+      "question mark",
+      "interrogative sentence",
+      "direct question"
+    ],
+    "explanation": "According to the document, the question mark follows sentences that ask something, known as interrogative sentences. This is discussed on page 31.",
+    "page_number": "31"
+  },
+  {
+    "id": 3,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "State the primary use of quotation marks.",
+    "answer": "Quotation marks (“ ”) are used for direct quotations or speech in English.",
+    "keywords": [
+      "quotation marks",
+      "direct quotations",
+      "speech"
+    ],
+    "explanation": "Quotation marks surround the exact words spoken by someone, as explained with the example of Sherin on page 31.",
+    "page_number": "31"
+  },
+  {
+    "id": 4,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "What does an ellipsis represent in a sentence?",
+    "answer": "An ellipsis (…) is used to show that letters or words have been omitted from a sentence.",
+    "keywords": [
+      "ellipsis",
+      "omission",
+      "words",
+      "letters"
+    ],
+    "explanation": "The document defines ellipsis as a mark showing an omission, often used in phrases like 'To be continued...'. This is found on page 35.",
+    "page_number": "35"
+  },
+  {
+    "id": 5,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Identify the punctuation mark used to indicate a range or connection.",
+    "answer": "The en dash (–) is the symbol used to indicate a range or connection.",
+    "keywords": [
+      "en dash",
+      "range",
+      "connection"
+    ],
+    "explanation": "The text distinguishes the en dash as a symbol specifically for ranges, such as years (2000–2010), on page 33.",
+    "page_number": "33"
+  },
+  {
+    "id": 6,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "Which punctuation mark is used to set off words like 'yes' and 'no'?",
+    "answer": "A comma (,) is used to set off the words 'yes' and 'no' from the rest of the sentence.",
+    "keywords": [
+      "comma",
+      "yes",
+      "no",
+      "set off"
+    ],
+    "explanation": "The document lists setting off 'yes' and 'no' as a specific rule for using commas on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 7,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What is another name for the slash (/) character?",
+    "answer": "The slash (/) is also called a forward slash or a virgule.",
+    "keywords": [
+      "slash",
+      "forward slash",
+      "virgule"
+    ],
+    "explanation": "The definition of slash on page 35 includes its technical names: forward slash and virgule.",
+    "page_number": "35"
+  },
+  {
+    "id": 8,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "How is a comma used in a direct address?",
+    "answer": "A comma is used to indicate a direct address, separating the name from the statement.",
+    "keywords": [
+      "comma",
+      "direct address",
+      "name"
+    ],
+    "explanation": "Direct address involves speaking to someone by name, and the text shows this use of comma on page 33.",
+    "page_number": "33"
+  },
+  {
+    "id": 9,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What punctuation is used to link prefixes to words?",
+    "answer": "A hyphen (-) is used to link prefixes to words, such as in 'ex-boyfriend'.",
+    "keywords": [
+      "hyphen",
+      "prefix",
+      "link"
+    ],
+    "explanation": "The hyphen's role in connecting prefixes is mentioned as a specific rule on page 33.",
+    "page_number": "33"
+  },
+  {
+    "id": 10,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Where are parentheses placed in a sentence?",
+    "answer": "Parentheses () are used to surround information of a technical nature that can be omitted.",
+    "keywords": [
+      "parentheses",
+      "technical information",
+      "omitted"
+    ],
+    "explanation": "Parentheses enclose extra info that isn't essential to the sentence structure, as described on page 35.",
+    "page_number": "35"
+  },
+  {
+    "id": 11,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Mention one use of a slash in measurements.",
+    "answer": "A slash is used to show the word 'per' in measurements, like miles/hour.",
+    "keywords": [
+      "slash",
+      "per",
+      "measurements"
+    ],
+    "explanation": "The document notes that a slash can replace 'per' in measurement units on page 36.",
+    "page_number": "36"
+  },
+  {
+    "id": 12,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "When is a comma used with dates?",
+    "answer": "A comma is used to separate different parts of the date, like the day and year.",
+    "keywords": [
+      "comma",
+      "date",
+      "separate"
+    ],
+    "explanation": "Separating parts of a date is a standard rule for comma usage listed on page 33.",
+    "page_number": "33"
+  },
+  {
+    "id": 13,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "What mark is used to set off a tag question?",
+    "answer": "A comma (,) is used to set off a tag question from the rest of the sentence.",
+    "keywords": [
+      "comma",
+      "tag question",
+      "set off"
+    ],
+    "explanation": "Tag questions (like 'hasn't she?') require a comma before them for clarity, according to page 33.",
+    "page_number": "33"
+  },
+  {
+    "id": 14,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is the purpose of an em dash?",
+    "answer": "The em dash (—) is used to separate words into statements for clarity or emphasis.",
+    "keywords": [
+      "em dash",
+      "separate",
+      "statements"
+    ],
+    "explanation": "While the en dash is for ranges, the em dash is defined generally as separating words into statements on page 33.",
+    "page_number": "33"
+  },
+  {
+    "id": 15,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What punctuation mark is used for fractions?",
+    "answer": "A slash (/) is used to represent fractions, such as in 2/3.",
+    "keywords": [
+      "slash",
+      "fractions",
+      "2/3"
+    ],
+    "explanation": "The text lists fractions as a common use case for the slash on page 35.",
+    "page_number": "35"
+  },
+  {
+    "id": 16,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "How are abbreviations like 'w/o' formed using punctuation?",
+    "answer": "Abbreviations are formed using a slash (/), where 'w/o' stands for 'without'.",
+    "keywords": [
+      "slash",
+      "abbreviations",
+      "w/o"
+    ],
+    "explanation": "Using slashes to form abbreviations is one of the seven rules for slashes listed on page 36.",
+    "page_number": "36"
+  },
+  {
+    "id": 17,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Explain the two primary uses of an apostrophe (') as per the text.",
+    "answer": "An apostrophe is used for two purposes: to show that letters have been omitted in contractions (like I'm) and to indicate the possessive form of a noun (like mug's handle).",
+    "keywords": [
+      "apostrophe",
+      "contractions",
+      "possession",
+      "omitted letters"
+    ],
+    "explanation": "The text categorizes apostrophe usage into contractions and possession on page 32, providing clear examples for both.",
+    "page_number": "32"
+  },
+  {
+    "id": 18,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Describe the use of commas in a series of words.",
+    "answer": "Commas are used when several words in a series need to be separated. For example: 'The cellar was dingy, damp, dark and scary.'",
+    "keywords": [
+      "comma",
+      "series",
+      "separated",
+      "list"
+    ],
+    "explanation": "Using commas to separate items in a list or series is a fundamental rule described on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 19,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What is the rule for using a comma with independent clauses?",
+    "answer": "A comma is used when two independent clauses are joined by a coordinating conjunction such as and, but, or, or so. For example: 'We ran up the hill, and then we ate sandwiches.'",
+    "keywords": [
+      "independent clauses",
+      "coordinating conjunction",
+      "comma",
+      "joined"
+    ],
+    "explanation": "This rule helps in connecting two full sentences that are linked by specific conjunctions, as detailed on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 20,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How does the text define a hyphen and its uses in words?",
+    "answer": "A hyphen (-) is used in compound words (like eighty-year-old) and to link words to prefixes (like ex-boyfriend).",
+    "keywords": [
+      "hyphen",
+      "compound words",
+      "prefixes",
+      "link"
+    ],
+    "explanation": "The hyphen is shown as a tool for joining word elements together, found on page 33.",
+    "page_number": "33"
+  },
+  {
+    "id": 21,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "Differentiate between an en dash and an em dash based on their functions.",
+    "answer": "The en dash (–) is slightly wider than a hyphen and indicates a range or connection. In contrast, the em dash (—) is used to separate words into statements.",
+    "keywords": [
+      "en dash",
+      "em dash",
+      "range",
+      "separate statements"
+    ],
+    "explanation": "The text provides distinct definitions for both types of dashes on page 33, emphasizing their different widths and uses.",
+    "page_number": "33"
+  },
+  {
+    "id": 22,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Explain the use of a comma with an introductory element.",
+    "answer": "A comma is used to separate an introductory element from the rest of the sentence. For example: 'As the toffee finished, the child started howling again.'",
+    "keywords": [
+      "introductory element",
+      "comma",
+      "separate",
+      "sentence"
+    ],
+    "explanation": "Introductory phrases or clauses require a comma to signal the start of the main sentence body, as seen on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 23,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "How are slashes used in poetry as per the uploaded document?",
+    "answer": "A slash is used to separate lines of a poem when they are written in a single line. It is also used in regular text to show breaks between poem lines or rhymes.",
+    "keywords": [
+      "slash",
+      "poetry",
+      "single line",
+      "separate"
+    ],
+    "explanation": "Rules i and vi for the slash (pages 35-36) explain its role in formatting poetry within prose or single-line text.",
+    "page_number": "35"
+  },
+  {
+    "id": 24,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Explain how slashes are used for web addresses and computer files.",
+    "answer": "Slashes are used to separate different parts of internet (web) addresses and file names in some computer programs. Example: https://www.wikipedia.org/",
+    "keywords": [
+      "slash",
+      "web address",
+      "file names",
+      "separate"
+    ],
+    "explanation": "The text notes that the forward slash is a standard separator for URLs and technical paths on page 35.",
+    "page_number": "35"
+  },
+  {
+    "id": 25,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Give two examples where a slash indicates an alternative or choice.",
+    "answer": "A slash can be used in place of the word 'or' or to show alternatives. Example: 'Take the escalator/moving staircase to the floor above.'",
+    "keywords": [
+      "slash",
+      "alternative",
+      "or",
+      "choice"
+    ],
+    "explanation": "Slashes often indicate that either option provided is applicable, which is listed as rule vii on page 36.",
+    "page_number": "36"
+  },
+  {
+    "id": 26,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Punctuate this sentence: 'why are you eating curd and whey'",
+    "answer": "Why are you eating curd and whey?",
+    "keywords": [
+      "Why",
+      "question mark",
+      "curd and whey"
+    ],
+    "explanation": "The sentence is a direct question requiring a capital letter at the start and a question mark at the end. Found in Exercise 3 on page 39.",
+    "page_number": "39"
+  },
+  {
+    "id": 27,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Punctuate this sentence: 'i need cheese bread eggs and milk'",
+    "answer": "I need cheese, bread, eggs, and milk.",
+    "keywords": [
+      "I",
+      "commas",
+      "series",
+      "milk"
+    ],
+    "explanation": "This requires capitalization of 'I' and commas to separate the series of food items, as per the rules on pages 32 and 37.",
+    "page_number": "37"
+  },
+  {
+    "id": 28,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "Explain the use of full stops with abbreviations, as mentioned on page 31.",
+    "answer": "A full stop is used following an abbreviation to indicate that the word has been shortened. Example: 'Mrs. Gupta is a teacher.'",
+    "keywords": [
+      "full stop",
+      "abbreviation",
+      "shortened",
+      "Mrs."
+    ],
+    "explanation": "Apart from ending statements, full stops are essential for marking abbreviations like 'Mrs.', as shown on page 31.",
+    "page_number": "31"
+  },
+  {
+    "id": 29,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Correct the punctuation: 'yes jim said ill be home by ten'",
+    "answer": "Yes, Jim said, \"I'll be home by ten.\"",
+    "keywords": [
+      "Yes",
+      "commas",
+      "quotation marks",
+      "I'll"
+    ],
+    "explanation": "This requires a comma after 'Yes', an apostrophe in 'I'll', and quotation marks for the direct speech. Found on page 37.",
+    "page_number": "37"
+  },
+  {
+    "id": 30,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How are slashes used in dates? Provide an example from the text.",
+    "answer": "Slashes are used to separate the day, month, and year in a numeric date format. Example: 12/05/2085.",
+    "keywords": [
+      "slash",
+      "date",
+      "day",
+      "month",
+      "year"
+    ],
+    "explanation": "Rule iii for slashes on page 35 shows the standard way to write dates using this punctuation mark.",
+    "page_number": "35"
+  },
+  {
+    "id": 31,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "What is the function of parentheses as explained in Chapter 7?",
+    "answer": "Parentheses are used to show information of a technical nature. Even if this information is removed, the sentence would still make sense.",
+    "keywords": [
+      "parentheses",
+      "technical nature",
+      "make sense",
+      "omitted"
+    ],
+    "explanation": "Parentheses enclose non-essential technical details, helping provide context without disrupting the main sentence, as described on page 35.",
+    "page_number": "35"
+  },
+  {
+    "id": 32,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Punctuate the sentence: 'melanies bags strap broke'",
+    "answer": "Melanie's bag's strap broke.",
+    "keywords": [
+      "Melanie's",
+      "bag's",
+      "apostrophe",
+      "possession"
+    ],
+    "explanation": "This sentence requires two apostrophes to show possession: Melanie owns the bag, and the bag has a strap. Found on page 37.",
+    "page_number": "37"
+  },
+  {
+    "id": 33,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Identify and explain the mark used in '2/3 = two-thirds'.",
+    "answer": "The mark is a slash (/), and it is used here to represent a fraction, indicating two parts out of three.",
+    "keywords": [
+      "slash",
+      "fraction",
+      "two-thirds"
+    ],
+    "explanation": "The text uses fractions as an example for slash usage on page 35.",
+    "page_number": "35"
+  },
+  {
+    "id": 34,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Punctuate: 'there was only one way to cross the valley walk through it'",
+    "answer": "There was only one way to cross the valley—walk through it.",
+    "keywords": [
+      "valley",
+      "em dash",
+      "statement"
+    ],
+    "explanation": "An em dash is suitable here to separate the statement and add emphasis to the second part. Found on page 38.",
+    "page_number": "38"
+  },
+  {
+    "id": 35,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What does the text say about commas and coordinating conjunctions?",
+    "answer": "Commas are used when two independent clauses are joined by a coordinating conjunction such as and, but, or, so.",
+    "keywords": [
+      "comma",
+      "independent clauses",
+      "coordinating conjunction"
+    ],
+    "explanation": "This rule is listed as the first comma usage guideline on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 36,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Explain the use of 'w/o' and 'N/A' as given in the text.",
+    "answer": "'w/o' stands for 'without' and 'N/A' stands for 'not applicable or not available'. Both use slashes to form abbreviations.",
+    "keywords": [
+      "w/o",
+      "N/A",
+      "slash",
+      "abbreviations"
+    ],
+    "explanation": "Rule iv for the slash on page 36 explains how it is used to form these common abbreviations.",
+    "page_number": "36"
+  },
+  {
+    "id": 37,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How is the en dash used with cities or locations?",
+    "answer": "An en dash (–) is used to indicate a connection between two places, such as 'Delhi–Mumbai trains'.",
+    "keywords": [
+      "en dash",
+      "connection",
+      "Delhi–Mumbai"
+    ],
+    "explanation": "The text provides 'Delhi-Mumbai trains' as an example of the en dash showing a connection on page 33.",
+    "page_number": "33"
+  },
+  {
+    "id": 38,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Punctuate this sentence: 'our classes start at 800 am'",
+    "answer": "Our classes start at 8:00 a.m.",
+    "keywords": [
+      "8:00",
+      "a.m.",
+      "colon",
+      "full stop"
+    ],
+    "explanation": "Standard time formatting requires a colon, and abbreviations like a.m. need full stops. Found in Exercise 2 on page 38.",
+    "page_number": "38"
+  },
+  {
+    "id": 39,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Why is a comma used in the phrase: 'No, thank you.'?",
+    "answer": "A comma is used here because it is a rule to set off the word 'no' from the rest of the sentence.",
+    "keywords": [
+      "comma",
+      "no",
+      "set off"
+    ],
+    "explanation": "Setting off 'yes' and 'no' is rule iv for comma usage on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 40,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "What is the punctuation rule for tag questions? Provide an example.",
+    "answer": "Use a comma to set off a tag question from the rest of the sentence. Example: 'Shelly has come, hasn’t she?'",
+    "keywords": [
+      "comma",
+      "tag question",
+      "Shelly"
+    ],
+    "explanation": "Rule v on page 33 illustrates how a comma introduces a question tagged onto a statement.",
+    "page_number": "33"
+  },
+  {
+    "id": 41,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 55
+    },
+    "question": "Compare and contrast the use of hyphens and slashes in showing connections or abbreviations.",
+    "answer": "A hyphen links words to prefixes or joins compound words (e.g., self-expression). A slash forms common abbreviations (e.g., N/A) and shows 'per' in measurements (e.g., miles/hour). Both help condense information but function differently in word structure.",
+    "keywords": [
+      "hyphen",
+      "slash",
+      "prefixes",
+      "abbreviations",
+      "connections"
+    ],
+    "explanation": "This question requires synthesis of rules from pages 33 and 36, comparing how these marks contribute to word formation.",
+    "page_number": "33, 36"
+  },
+  {
+    "id": 42,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 50
+    },
+    "question": "Explain the significance of using commas for introductory elements and series, with one example for each.",
+    "answer": "Commas for introductory elements separate the opening phrase from the main sentence (e.g., 'As the toffee finished, ...'). In a series, they separate multiple items to prevent confusion (e.g., 'dingy, damp, dark and scary').",
+    "keywords": [
+      "comma",
+      "introductory element",
+      "series",
+      "clarity"
+    ],
+    "explanation": "Rules ii and iii on page 32 describe these uses, which are vital for readability and logical flow in sentences.",
+    "page_number": "32"
+  },
+  {
+    "id": 43,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Summarize how slashes are utilized in academic or technical writing based on Chapter 7.",
+    "answer": "In technical writing, slashes separate parts of URLs, represent fractions (e.g., 2/3), and form abbreviations (N/A). They also show measurements per unit (miles/hour) and denote choices or alternatives in a sentence.",
+    "keywords": [
+      "slash",
+      "technical writing",
+      "URLs",
+      "fractions",
+      "abbreviations"
+    ],
+    "explanation": "This covers rules i, ii, iv, v, and vii for slashes from pages 35-36, which are common in formal or technical contexts.",
+    "page_number": "35, 36"
+  },
+  {
+    "id": 44,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 55
+    },
+    "question": "Describe three different rules for using commas from the uploaded text.",
+    "answer": "Three rules include: 1. Separating words in a series. 2. Setting off 'yes' and 'no' from a sentence. 3. Indicating a direct address, such as using a comma before or after a person's name.",
+    "keywords": [
+      "comma",
+      "series",
+      "yes and no",
+      "direct address"
+    ],
+    "explanation": "These rules are drawn from the comprehensive list of comma functions on pages 32 and 33.",
+    "page_number": "32, 33"
+  },
+  {
+    "id": 45,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "What are parentheses used for? Provide the specific definition and the example given in the text.",
+    "answer": "Parentheses () show technical information that can be omitted without changing the sentence's basic meaning. Example: 'Did they (the police) arrest the thief?' Here, 'the police' is technical detail.",
+    "keywords": [
+      "parentheses",
+      "technical",
+      "omitted",
+      "police"
+    ],
+    "explanation": "The text on page 35 provides a clear definition and an illustrative example showing how non-essential info is bracketed.",
+    "page_number": "35"
+  },
+  {
+    "id": 46,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Explain the role of the en dash and how it differs from a regular hyphen.",
+    "answer": "An en dash (–) is slightly wider than a hyphen. It is specifically used to show a range of numbers (e.g., 2000–2010) or a connection between places. A hyphen is shorter and primarily joins compound words or prefixes.",
+    "keywords": [
+      "en dash",
+      "hyphen",
+      "wider",
+      "range",
+      "connection"
+    ],
+    "explanation": "Page 33 contrasts these two marks, which look similar but have distinct grammatical functions.",
+    "page_number": "33"
+  },
+  {
+    "id": 47,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 50
+    },
+    "question": "Punctuate: 'joanne hates homework jack loves it'",
+    "answer": "Joanne hates homework; Jack loves it. (Or: Joanne hates homework, but Jack loves it.)",
+    "keywords": [
+      "Joanne",
+      "Jack",
+      "semicolon",
+      "independent clauses"
+    ],
+    "explanation": "The text lists semicolons (page 31) and rules for independent clauses (page 32). Using a semicolon or a comma with a conjunction correctly joins these sentences. Found on page 39.",
+    "page_number": "31, 32, 39"
+  },
+  {
+    "id": 48,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "List and explain four distinct uses of the slash (/) mentioned in the chapter.",
+    "answer": "Four uses are: 1. Separating lines in a poem. 2. Showing fractions like 1/3. 3. Separating day/month/year in dates. 4. Representing 'per' in measurements like 60 miles/hour.",
+    "keywords": [
+      "slash",
+      "poem",
+      "fractions",
+      "dates",
+      "per"
+    ],
+    "explanation": "Rules i, ii, iii, and v for slashes on pages 35-36 provide a variety of functions for this mark.",
+    "page_number": "35, 36"
+  },
+  {
+    "id": 49,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 50
+    },
+    "question": "How are quotation marks and full stops used together in a sentence? Provide an example.",
+    "answer": "Quotation marks enclose direct speech, and the full stop or comma is placed inside the closing mark. Example: “I have a stomach ache. I cannot go to school,” said Sherin.",
+    "keywords": [
+      "quotation marks",
+      "full stop",
+      "direct quotations",
+      "inside"
+    ],
+    "explanation": "The example on page 31 shows how terminal punctuation interacts with quotation marks.",
+    "page_number": "31"
+  },
+  {
+    "id": 50,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 45
+    },
+    "question": "What is an ellipsis? Give an example of its use from the document.",
+    "answer": "An ellipsis (…) shows that words have been omitted. The document provides the example: 'To be continued…' which suggests more text exists but is not shown.",
+    "keywords": [
+      "ellipsis",
+      "omission",
+      "To be continued"
+    ],
+    "explanation": "The definition and example on page 35 explain how this mark is used to represent missing parts of text.",
+    "page_number": "35"
+  },
+  {
+    "id": 51,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 55
+    },
+    "question": "Explain how apostrophes are used differently in 'I'm' and 'mug's'.",
+    "answer": "In 'I'm', the apostrophe is for contraction, showing omitted letters (I am). In 'mug's', it indicates possession, showing that the handle belongs to the mug.",
+    "keywords": [
+      "apostrophe",
+      "contraction",
+      "possession",
+      "omitted"
+    ],
+    "explanation": "This illustrates the two main rules for apostrophes from page 32: contractions and possessives.",
+    "page_number": "32"
+  },
+  {
+    "id": 52,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Describe the three comma usage rules related to direct address, tag questions, and dates.",
+    "answer": "1. Direct Address: Set off names with a comma. 2. Tag Questions: Use a comma before the tag (e.g., ', hasn't she?'). 3. Dates: Separate day, date, and year using commas.",
+    "keywords": [
+      "direct address",
+      "tag question",
+      "dates",
+      "comma"
+    ],
+    "explanation": "Rules v, vi, and vii on page 33 list these social and organizational uses of commas.",
+    "page_number": "33"
+  },
+  {
+    "id": 53,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 55
+    },
+    "question": "Punctuate: 'the bengaluru chennai train is running with a ten minute delay'",
+    "answer": "The Bengaluru–Chennai train is running with a ten-minute delay.",
+    "keywords": [
+      "Bengaluru–Chennai",
+      "en dash",
+      "ten-minute",
+      "hyphen"
+    ],
+    "explanation": "Requires an en dash for the city connection and a hyphen for the compound adjective 'ten-minute'. Found on pages 33 and 39.",
+    "page_number": "33, 39"
+  },
+  {
+    "id": 54,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 50
+    },
+    "question": "According to page 36, how does a slash function in poetry?",
+    "answer": "A slash separates lines of poetry or rhymes when they are typed out as regular, continuous text rather than separate lines.",
+    "keywords": [
+      "slash",
+      "poetry",
+      "rhyme",
+      "regular text"
+    ],
+    "explanation": "Rule vi on page 36 provides an example using 'Baa baa black sheep' to show how slashes mark line breaks.",
+    "page_number": "36"
+  },
+  {
+    "id": 55,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "What are the rules for using hyphens in compound words and with prefixes?",
+    "answer": "Hyphens join two or more words to form compound words (e.g., eighty-year-old, self-expression). They also link specific prefixes to words (e.g., ex-boyfriend, all-encompassing).",
+    "keywords": [
+      "hyphen",
+      "compound words",
+      "prefixes",
+      "link"
+    ],
+    "explanation": "Page 33 details these two primary functions of the hyphen with multiple examples.",
+    "page_number": "33"
+  },
+  {
+    "id": 56,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 50
+    },
+    "question": "Punctuate: 'choose one of the following the red ball the blue bat or the green cap'",
+    "answer": "Choose one of the following: the red ball, the blue bat, or the green cap.",
+    "keywords": [
+      "colon",
+      "commas",
+      "series",
+      "following"
+    ],
+    "explanation": "A colon introduces the list, and commas separate the items in the series. Found on pages 31, 32, and 38.",
+    "page_number": "31, 32, 38"
+  },
+  {
+    "id": 57,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 45
+    },
+    "question": "Punctuate: 'for heavens sake clean your room roonie'",
+    "answer": "For heaven's sake, clean your room, Roonie!",
+    "keywords": [
+      "heaven's",
+      "Roonie",
+      "comma",
+      "apostrophe"
+    ],
+    "explanation": "Requires an apostrophe for 'heaven's', a comma for direct address 'Roonie', and capitalization. Found on page 38.",
+    "page_number": "38"
+  },
+  {
+    "id": 58,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 45
+    },
+    "question": "List all symbols mentioned in the 'Common punctuation marks' table on page 31.",
+    "answer": "Symbols include Full Stop (.), Question Mark (?), Quotation Marks (“”), Apostrophe (’), Comma (,), Hyphen (-), Dash (–/—), Exclamation Mark (!), Colon (:), Semicolon (;), Parentheses (), Brackets [], Ellipsis (…), and Slash (/).",
+    "keywords": [
+      "punctuation marks",
+      "symbols",
+      "table"
+    ],
+    "explanation": "The table on page 31 lists 14 different punctuation marks commonly used in English.",
+    "page_number": "31"
+  },
+  {
+    "id": 59,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question_type": "short_answer",
+    "marks": 3,
+    "question": "Analyze the sentence 'I have a stomach ache. I cannot go to school,' said Sherin. and identify the punctuation marks used.",
+    "answer": "This sentence uses: 1. Quotation Marks to enclose speech. 2. A Full Stop to end the first statement. 3. A Comma to separate the speech from the speaker's attribution. 4. A Full Stop at the final end.",
+    "keywords": [
+      "quotation marks",
+      "full stop",
+      "comma",
+      "speech"
+    ],
+    "explanation": "The example on page 31 is a classic demonstration of multiple punctuation marks working together in a dialogue sentence.",
+    "page_number": "31"
+  },
+  {
+    "id": 60,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 50
+    },
+    "question": "What is the difference between how commas and slashes separate items in a text?",
+    "answer": "Commas separate items in a series within a standard sentence (e.g., A, B, and C). Slashes are used to separate alternatives (A/B), poetic lines, or parts of a technical path (web/file).",
+    "keywords": [
+      "comma",
+      "slash",
+      "series",
+      "alternatives"
+    ],
+    "explanation": "Comparing these two marks shows the difference between grouping items (comma) and offering choices or structural breaks (slash).",
+    "page_number": "32, 35, 36"
+  },
+  {
+    "id": 61,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Explain the punctuation in 'Friday, 12 November 2021, was the day he returned.'",
+    "answer": "Commas are used to separate the parts of the date: one after the day of the week ('Friday,') and one after the year ('2021,') to set the whole date off from the rest of the sentence.",
+    "keywords": [
+      "comma",
+      "date",
+      "Friday",
+      "separate"
+    ],
+    "explanation": "Rule vii on page 33 explains the specific placement of commas in complex date phrases.",
+    "page_number": "33"
+  },
+  {
+    "id": 62,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 50
+    },
+    "question": "Punctuate: 'she is planning to take two subjects english and maths'",
+    "answer": "She is planning to take two subjects: English and Maths.",
+    "keywords": [
+      "She",
+      "colon",
+      "English",
+      "Maths"
+    ],
+    "explanation": "A colon is used to introduce the list of subjects, and proper nouns like 'English' must be capitalized. Found on pages 31 and 39.",
+    "page_number": "31, 39"
+  },
+  {
+    "id": 63,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 45
+    },
+    "question": "Explain how the slash shows measurements with an example.",
+    "answer": "A slash is used to indicate the word 'per' in measurements. For example, '60 miles/hour' is read as '60 miles per hour'.",
+    "keywords": [
+      "slash",
+      "per",
+      "miles/hour",
+      "measurement"
+    ],
+    "explanation": "Rule v on page 36 explains this shorthand method for expressing units of measure.",
+    "page_number": "36"
+  },
+  {
+    "id": 64,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "Describe the example provided for quotation marks on page 31.",
+    "answer": "The example is: “I have a stomach ache. I cannot go to school,” said Sherin. It shows a direct quote enclosed in marks and separated from the speaker by a comma.",
+    "keywords": [
+      "quotation marks",
+      "Sherin",
+      "direct quotation"
+    ],
+    "explanation": "This specific example on page 31 demonstrates the standard layout for direct speech in fiction or reporting.",
+    "page_number": "31"
+  },
+  {
+    "id": 65,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "Punctuate and rewrite: 'the teachers of class three are jennie williams maria and shelby'",
+    "answer": "The teachers of Class Three are Jennie Williams, Maria, and Shelby.",
+    "keywords": [
+      "The",
+      "Class Three",
+      "Jennie Williams",
+      "Maria",
+      "commas",
+      "Shelby"
+    ],
+    "explanation": "This requires: 1. Capitalizing the start of the sentence. 2. Capitalizing names (Jennie Williams, Maria, Shelby). 3. Using commas in a series. 4. Adding a full stop. Found on page 36.",
+    "page_number": "36"
+  },
+  {
+    "id": 66,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "Punctuate and rewrite: 'have belgium india america and brazil donated for the cause'",
+    "answer": "Have Belgium, India, America, and Brazil donated for the cause?",
+    "keywords": [
+      "Have",
+      "Belgium",
+      "India",
+      "America",
+      "Brazil",
+      "question mark"
+    ],
+    "explanation": "This requires: 1. Capitalizing the start and all proper noun countries. 2. Using commas to separate the list. 3. Adding a question mark at the end. Found on page 36.",
+    "page_number": "36"
+  },
+  {
+    "id": 67,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Punctuate and rewrite: 'there is no space in the red box she said'",
+    "answer": "“There is no space in the red box,” she said.",
+    "keywords": [
+      "quotation marks",
+      "There",
+      "comma",
+      "she said"
+    ],
+    "explanation": "This requires: 1. Quotation marks for the direct speech. 2. Capitalization of the first word inside quotes. 3. A comma inside the closing quote mark. Found on page 36.",
+    "page_number": "36"
+  },
+  {
+    "id": 68,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Punctuate and rewrite: 'michael the boy from the third floor has a guitar'",
+    "answer": "Michael, the boy from the third floor, has a guitar.",
+    "keywords": [
+      "Michael",
+      "commas",
+      "appositive",
+      "guitar"
+    ],
+    "explanation": "Requires capitalizing 'Michael' and using commas to set off the descriptive phrase 'the boy from the third floor' which explains who Michael is. Found on page 37.",
+    "page_number": "37"
+  },
+  {
+    "id": 69,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 60,
+      "max": 90
+    },
+    "question": "Punctuate and rewrite: 'my mothers brother his wife their daughter and their son are coming home today'",
+    "answer": "My mother's brother, his wife, their daughter, and their son are coming home today.",
+    "keywords": [
+      "mother's",
+      "commas",
+      "series",
+      "today"
+    ],
+    "explanation": "Requires: 1. Apostrophe for 'mother's' (possession). 2. Commas to separate the series of family members. 3. Final full stop. Found on page 37.",
+    "page_number": "37"
+  },
+  {
+    "id": 70,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Punctuate and rewrite: 'why do you like him'",
+    "answer": "Why do you like him?",
+    "keywords": [
+      "Why",
+      "question mark"
+    ],
+    "explanation": "A simple interrogative sentence needing capitalization and a question mark. Found on page 37.",
+    "page_number": "37"
+  },
+  {
+    "id": 71,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Punctuate and rewrite: 'the goat was head butting the car'",
+    "answer": "The goat was head-butting the car.",
+    "keywords": [
+      "The",
+      "head-butting",
+      "hyphen"
+    ],
+    "explanation": "Requires capitalization and a hyphen for the compound verb 'head-butting'. Found on page 37.",
+    "page_number": "37"
+  },
+  {
+    "id": 72,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 55,
+      "max": 85
+    },
+    "question": "Punctuate and rewrite: 'i have to visit st annes school today'",
+    "answer": "I have to visit St. Anne's School today.",
+    "keywords": [
+      "I",
+      "St.",
+      "Anne's",
+      "School",
+      "capitalization"
+    ],
+    "explanation": "Requires: 1. Capitalizing 'I'. 2. Capitalizing and punctuating the abbreviation 'St.'. 3. Possession and capitalization for 'Anne's School'. Found on page 38.",
+    "page_number": "38"
+  },
+  {
+    "id": 73,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "Punctuate and rewrite: 'coming back from the temple we saw an elephant'",
+    "answer": "Coming back from the temple, we saw an elephant.",
+    "keywords": [
+      "Coming",
+      "comma",
+      "introductory phrase"
+    ],
+    "explanation": "This follows the rule for separating an introductory element from the main sentence with a comma. Found on page 38.",
+    "page_number": "38"
+  },
+  {
+    "id": 74,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Punctuate and rewrite: 'i need nails not snails'",
+    "answer": "I need nails, not snails.",
+    "keywords": [
+      "I",
+      "comma",
+      "contrast"
+    ],
+    "explanation": "A comma is used to show contrast between 'nails' and 'snails', alongside capitalization and a full stop. Found on page 38.",
+    "page_number": "38"
+  },
+  {
+    "id": 75,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 55,
+      "max": 85
+    },
+    "question": "Punctuate and rewrite: 'he said he saw a ufo unidentified flying object'",
+    "answer": "He said he saw a UFO (unidentified flying object).",
+    "keywords": [
+      "UFO",
+      "parentheses",
+      "technical information"
+    ],
+    "explanation": "Requires capitalization for 'He' and 'UFO', plus parentheses to enclose the technical explanation of the abbreviation. Found on pages 35 and 39.",
+    "page_number": "35, 39"
+  },
+  {
+    "id": 76,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 60,
+      "max": 90
+    },
+    "question": "Punctuate and rewrite: 'she reported harry is dancing on top of the desk'",
+    "answer": "She reported, “Harry is dancing on top of the desk.”",
+    "keywords": [
+      "She",
+      "Harry",
+      "quotation marks",
+      "comma"
+    ],
+    "explanation": "Requires a comma after 'reported', quotation marks for the direct report, and capitalization for 'Harry'. Found on pages 31 and 39.",
+    "page_number": "31, 39"
+  },
+  {
+    "id": 77,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Punctuate and rewrite: 'the blue fishs fin is a beautiful pink'",
+    "answer": "The blue fish's fin is a beautiful pink.",
+    "keywords": [
+      "The",
+      "fish's",
+      "possession",
+      "full stop"
+    ],
+    "explanation": "Requires capitalizing 'The', adding an apostrophe for 'fish's' to show possession, and a final full stop. Found on page 39.",
+    "page_number": "39"
+  },
+  {
+    "id": 78,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Punctuate and rewrite: 'such a cute baby'",
+    "answer": "Such a cute baby!",
+    "keywords": [
+      "Such",
+      "exclamation mark"
+    ],
+    "explanation": "While the rule isn't detailed, the symbol table (page 31) identifies the Exclamation Mark (!), which fits this emotive expression. Found on page 39.",
+    "page_number": "31, 39"
+  },
+  {
+    "id": 79,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 60,
+      "max": 90
+    },
+    "question": "Punctuate and rewrite: 'stop shouting she screamed'",
+    "answer": "“Stop shouting!” she screamed.",
+    "keywords": [
+      "quotation marks",
+      "Stop",
+      "exclamation mark",
+      "screamed"
+    ],
+    "explanation": "Requires quotation marks, a capital 'S' for 'Stop', an exclamation mark inside the quotes to reflect 'screamed', and a final full stop. Found on page 39.",
+    "page_number": "39"
+  },
+  {
+    "id": 80,
+    "subject": "English Grammar",
+    "chapter": "Punctuation-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 55,
+      "max": 85
+    },
+    "question": "Punctuate and rewrite: 'he loved collecting nineteenth century clothes'",
+    "answer": "He loved collecting nineteenth-century clothes.",
+    "keywords": [
+      "He",
+      "nineteenth-century",
+      "hyphen",
+      "clothes"
+    ],
+    "explanation": "Requires capitalization and a hyphen to form the compound adjective 'nineteenth-century'. Found on pages 33 and 38.",
+    "page_number": "33, 38"
+  }
+]
