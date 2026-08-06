@@ -1,0 +1,1899 @@
+[
+  {
+    "id": 1,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is a question tag?",
+    "answer": "A question tag is a statement followed by a brief question that asks for confirmation.",
+    "keywords": [
+      "statement",
+      "brief question",
+      "confirmation"
+    ],
+    "explanation": "A question tag defines a short question added to the end of a declarative sentence to ask for confirmation. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 2,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What is the main purpose of using a question tag?",
+    "answer": "The main purpose of a question tag is to ask for confirmation about a statement.",
+    "keywords": [
+      "purpose",
+      "ask",
+      "confirmation"
+    ],
+    "explanation": "The text clearly states that question tags are primarily used to ask for confirmation from the listener. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 3,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What kind of question tag is added to a positive statement?",
+    "answer": "A negative question tag is added to a positive statement.",
+    "keywords": [
+      "positive statement",
+      "negative tag"
+    ],
+    "explanation": "According to the structural rules of question tags, a positive statement always takes a negative tag. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 4,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What kind of question tag is added to a negative statement?",
+    "answer": "A positive question tag is added to a negative statement.",
+    "keywords": [
+      "negative statement",
+      "positive tag"
+    ],
+    "explanation": "The structural rules state that a negative statement requires a positive question tag to seek confirmation. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 5,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 10
+    },
+    "question": "Add a suitable question tag to the statement: 'Nandini has slept'.",
+    "answer": "Nandini has slept, hasn't she?",
+    "keywords": [
+      "Nandini",
+      "has slept",
+      "hasn't she"
+    ],
+    "explanation": "The statement is positive and uses the auxiliary 'has', so the negative tag 'hasn't she?' is used. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 6,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Add a suitable question tag to the statement: 'Mrs. Tony doesn't enjoy shopping'.",
+    "answer": "Mrs. Tony doesn't enjoy shopping, does she?",
+    "keywords": [
+      "doesn't enjoy",
+      "shopping",
+      "does she"
+    ],
+    "explanation": "The statement is negative ('doesn't'), so it requires a positive tag ('does she?'). Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 7,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Identify three negative adverbs mentioned in the text.",
+    "answer": "Three negative adverbs are no longer, rarely, and seldom.",
+    "keywords": [
+      "negative adverbs",
+      "no longer",
+      "rarely",
+      "seldom"
+    ],
+    "explanation": "The text lists several negative adverbs including no longer, rarely, seldom, never, barely ever, and scarcely. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 8,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Give an example of a same-way question tag for a positive statement.",
+    "answer": "So, you like George, do you? That's nice.",
+    "keywords": [
+      "like George",
+      "do you",
+      "nice"
+    ],
+    "explanation": "A same-way positive tag uses a positive tag for a positive statement, showing interest or surprise. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 9,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What type of tag is used for sentences asking for help?",
+    "answer": "When asking for help, tags like 'would you?' are typically used, following a negative statement.",
+    "keywords": [
+      "asking for help",
+      "would you",
+      "negative statement"
+    ],
+    "explanation": "The example 'You wouldn't be able to lend me some money, would you?' illustrates this pattern. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 10,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Why do sentences containing negative adverbs take a positive question tag?",
+    "answer": "A negative adverb gives the sentence a negative meaning, which requires a positive tag according to the rules.",
+    "keywords": [
+      "negative adverb",
+      "negative meaning",
+      "positive tag"
+    ],
+    "explanation": "Words like 'never' or 'seldom' make the core meaning of the sentence negative, triggering a positive question tag. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 11,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What feelings do same-way question tags express?",
+    "answer": "Same-way question tags express interest, surprise, or anger, rather than asking for confirmation.",
+    "keywords": [
+      "express",
+      "interest",
+      "surprise",
+      "anger"
+    ],
+    "explanation": "Unlike regular tags that seek confirmation, same-way tags are used strictly for expressing emotion. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 12,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Add an appropriate tag to the invitation: 'Please come to the party'.",
+    "answer": "Please come to the party, won't you?",
+    "keywords": [
+      "invitation",
+      "won't you"
+    ],
+    "explanation": "For invitations that are imperative sentences, the standard question tag to use is 'won't'. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 13,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "State the auxiliary word used for creating tags for negative imperatives.",
+    "answer": "The auxiliary word 'will' is used for negative imperatives.",
+    "keywords": [
+      "will",
+      "negative imperatives"
+    ],
+    "explanation": "The text specifies that 'will' should be used when adding tags to negative imperative statements. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 14,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Add a suitable question tag to the negative imperative: 'Don't hit your sister'.",
+    "answer": "Don't hit your sister, will you?",
+    "keywords": [
+      "Don't hit",
+      "sister",
+      "will you"
+    ],
+    "explanation": "Since it is a negative imperative expressing a firm order, it takes the tag 'will you?'. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 15,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "State the formula to answer if you agree with a positive statement.",
+    "answer": "The answer is 'yes' or 'yes + pronoun + auxiliary verb'.",
+    "keywords": [
+      "yes",
+      "pronoun",
+      "auxiliary verb"
+    ],
+    "explanation": "When agreeing with a positive statement, the standard response follows the 'Yes, I can' format. Discussed on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 16,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "State the formula to answer if you disagree with a negative statement.",
+    "answer": "The answer is 'yes + pronoun + auxiliary verb'.",
+    "keywords": [
+      "yes",
+      "pronoun",
+      "auxiliary verb",
+      "disagree"
+    ],
+    "explanation": "To contradict a negative statement, you use the positive structure 'yes + pronoun + auxiliary verb'. Discussed on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 17,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Explain how the auxiliary verb is used to form a question tag with an example.",
+    "answer": "The tag repeats the auxiliary verb from the statement. For example, in 'Dave hasn't eaten', the auxiliary verb is 'has', making the tag 'has he?'.",
+    "keywords": [
+      "repeats",
+      "auxiliary verb",
+      "statement",
+      "Dave hasn't eaten",
+      "has he"
+    ],
+    "explanation": "Question tags are formed by extracting the auxiliary verb from the main sentence and changing its polarity. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 18,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "What tag is used for the sentence 'Dave hasn't eaten', and why?",
+    "answer": "The tag used is 'has he?'. This is because the statement is negative ('hasn't'), so it requires a positive tag containing the same auxiliary verb.",
+    "keywords": [
+      "has he",
+      "negative",
+      "positive tag",
+      "auxiliary verb"
+    ],
+    "explanation": "Following the negative statement + positive tag rule, 'hasn't' converts to 'has he?'. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 19,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "Contrast the rule for positive statements and negative statements with examples.",
+    "answer": "A positive statement takes a negative tag (e.g., 'You are coming, aren't you?'), whereas a negative statement takes a positive tag (e.g., 'Nandini hasn't slept, has she?').",
+    "keywords": [
+      "positive statement",
+      "negative tag",
+      "negative statement",
+      "positive tag",
+      "examples"
+    ],
+    "explanation": "These two foundational rules show the inverse relationship between the statement's polarity and its tag. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 20,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Add appropriate tags to: 1. You are coming. 2. Nandini hasn't slept.",
+    "answer": "1. You are coming, aren't you? \n2. Nandini hasn't slept, has she?",
+    "keywords": [
+      "aren't you",
+      "has she",
+      "appropriate tags"
+    ],
+    "explanation": "The first is positive requiring a negative tag, the second is negative requiring a positive tag. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 21,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Describe how to form a tag when asking for help, giving the example from the text.",
+    "answer": "When asking for help, you usually use a negative statement followed by a positive tag. Example: 'You wouldn't be able to lend me some money, would you?'.",
+    "keywords": [
+      "asking for help",
+      "negative statement",
+      "positive tag",
+      "lend money",
+      "would you"
+    ],
+    "explanation": "This specific sentence structure uses the auxiliary 'would' in negative form to politely ask for assistance. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 22,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "List six negative adverbs mentioned in the text.",
+    "answer": "Six negative adverbs are no longer, rarely, seldom, barely ever, hardly ever, and never.",
+    "keywords": [
+      "no longer",
+      "rarely",
+      "seldom",
+      "barely ever",
+      "hardly ever",
+      "never"
+    ],
+    "explanation": "These words inherently carry a negative meaning and influence the polarity of the question tag. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 23,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Add tags to: 1. Erika seldom goes to parties. 2. Farida never lived in Mumbai.",
+    "answer": "1. Erika seldom goes to parties, does she?\n2. Farida never lived in Mumbai, did she?",
+    "keywords": [
+      "does she",
+      "did she",
+      "seldom",
+      "never"
+    ],
+    "explanation": "Both sentences contain negative adverbs, giving them a negative meaning, which requires positive tags. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 24,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why does the sentence 'Farida never lived in Mumbai' take a positive tag? Explain.",
+    "answer": "It takes a positive tag because the word 'never' is a negative adverb. It gives the entire sentence a negative meaning, and negative statements take positive tags.",
+    "keywords": [
+      "positive tag",
+      "never",
+      "negative adverb",
+      "negative meaning"
+    ],
+    "explanation": "The presence of a negative adverb behaves exactly like a 'not' in the sentence. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 25,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Explain the concept of same-way question tags. Do they ask for confirmation?",
+    "answer": "Same-way question tags consist of a positive statement with a positive tag, or a negative statement with a negative tag. They do not ask for confirmation but express interest, surprise, or anger.",
+    "keywords": [
+      "positive statement",
+      "positive tag",
+      "negative statement",
+      "negative tag",
+      "confirmation",
+      "interest",
+      "surprise",
+      "anger"
+    ],
+    "explanation": "These tags deviate from the standard polarity rules to express emotional reactions rather than seeking facts. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 26,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Form same-way tags for: 1. So, you like George. 2. Henry didn't want to come.",
+    "answer": "1. So, you like George, do you? That's nice.\n2. Henry didn't want to come, didn't he?",
+    "keywords": [
+      "do you",
+      "didn't he",
+      "same-way tags"
+    ],
+    "explanation": "These sentences maintain the same polarity between the statement and the tag to show surprise or interest. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 27,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Explain the rules for adding tags to imperative sentences used for invitations and negative imperatives.",
+    "answer": "For invitations that are imperative sentences, the tag 'won't' is used. For negative imperatives, the tag 'will' is used to form a firm order.",
+    "keywords": [
+      "invitations",
+      "won't",
+      "negative imperatives",
+      "will",
+      "firm order"
+    ],
+    "explanation": "Imperative sentences use specific auxiliary verbs depending on their purpose (invitation vs. negative command). Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 28,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Add appropriate tags to: 1. Have coffee with me. 2. Hold the bag (very polite).",
+    "answer": "1. Have coffee with me, won't you?\n2. Hold the bag, can you?",
+    "keywords": [
+      "won't you",
+      "can you",
+      "very polite"
+    ],
+    "explanation": "The first is an invitation using 'won't'. The second is a very polite request using 'can'. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 29,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What is the difference in tags between a very polite request and an irritated polite request using 'Hold the bag'?",
+    "answer": "A very polite request uses a positive tag: 'Hold the bag, can you?'. A polite but irritated request uses a negative tag: 'Hold the bag, can't you?'.",
+    "keywords": [
+      "very polite request",
+      "can you",
+      "irritated request",
+      "can't you"
+    ],
+    "explanation": "The choice of auxiliary verb polarity in imperatives changes the tone of the request. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 30,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "How do you answer a question tag if you agree with the positive statement 'You can cook, can't you?'",
+    "answer": "You can answer by saying 'Yes' or using the format 'Yes, I can'. This shows agreement with the positive statement.",
+    "keywords": [
+      "agree",
+      "positive statement",
+      "Yes",
+      "Yes, I can"
+    ],
+    "explanation": "To agree with a positive statement, simply affirm it using a positive response structure. Discussed on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 31,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "How do you answer a question tag if you do not agree with the positive statement 'You can cook, can't you?'",
+    "answer": "If you do not agree, you answer with 'No + pronoun + auxiliary verb', which is 'No, I can't'.",
+    "keywords": [
+      "do not agree",
+      "positive statement",
+      "No",
+      "pronoun",
+      "auxiliary verb",
+      "No, I can't"
+    ],
+    "explanation": "To disagree with a positive statement, you must negate the auxiliary verb in your response. Discussed on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 32,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Explain the response if you agree with the negative statement 'You can't cook, can you?'",
+    "answer": "To agree with the negative statement, the answer is 'No' or 'No, I can't'. This confirms that you indeed cannot cook.",
+    "keywords": [
+      "agree",
+      "negative statement",
+      "No",
+      "No, I can't"
+    ],
+    "explanation": "When agreeing with a negative premise, the response format is negative. Discussed on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 33,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Explain the response if you do not agree with the negative statement 'You can't cook, can you?'",
+    "answer": "To disagree with the negative statement, you use 'Yes + pronoun + auxiliary verb', resulting in the answer 'Yes, I can'.",
+    "keywords": [
+      "disagree",
+      "negative statement",
+      "Yes",
+      "Yes, I can"
+    ],
+    "explanation": "Disagreeing with a negative statement requires a positive affirmation. Discussed on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 34,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Add tags to these sentences from Exercise 1: 1. He exercises every day. 2. They aren't coming today.",
+    "answer": "1. He exercises every day, doesn't he?\n2. They aren't coming today, are they?",
+    "keywords": [
+      "doesn't he",
+      "are they",
+      "exercises"
+    ],
+    "explanation": "Sentence 1 is positive simple present, using 'doesn't he'. Sentence 2 is negative present continuous, using 'are they'. Discussed on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 35,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Formulate tags for the following: 1. We do our homework. 2. I am not the pink sheep.",
+    "answer": "1. We do our homework, don't we?\n2. I am not the pink sheep, am I?",
+    "keywords": [
+      "don't we",
+      "am I",
+      "homework",
+      "pink sheep"
+    ],
+    "explanation": "'We do' is positive, so it takes 'don't we'. 'I am not' is negative, so it takes 'am I'. Discussed on pages 27-28.",
+    "page_number": "27"
+  },
+  {
+    "id": 36,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Formulate tags for the following sentences: 1. The dress looks beautiful. 2. The room is not dirty.",
+    "answer": "1. The dress looks beautiful, doesn't it?\n2. The room is not dirty, is it?",
+    "keywords": [
+      "doesn't it",
+      "is it",
+      "beautiful",
+      "not dirty"
+    ],
+    "explanation": "'Looks' implies simple present singular 'does', hence 'doesn't it'. 'Is not' becomes 'is it'. Discussed on page 28.",
+    "page_number": "28"
+  },
+  {
+    "id": 37,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Formulate tags for the following sentences: 1. He studies well. 2. They aren't in their house.",
+    "answer": "1. He studies well, doesn't he?\n2. They aren't in their house, are they?",
+    "keywords": [
+      "doesn't he",
+      "are they",
+      "studies well",
+      "aren't in"
+    ],
+    "explanation": "Positive statement 'studies' takes 'doesn't he'. Negative statement 'aren't' takes 'are they'. Discussed on page 28.",
+    "page_number": "28"
+  },
+  {
+    "id": 38,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Formulate tags for the following sentences: 1. You are from Asia. 2. She should be studying now.",
+    "answer": "1. You are from Asia, aren't you?\n2. She should be studying now, shouldn't she?",
+    "keywords": [
+      "aren't you",
+      "shouldn't she",
+      "Asia",
+      "studying now"
+    ],
+    "explanation": "Both statements are positive and require negative tags matching their respective auxiliary verbs. Discussed on page 28.",
+    "page_number": "28"
+  },
+  {
+    "id": 39,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Add suitable tags to these sentences: 1. She likes fruits. 2. She doesn't know Chinese.",
+    "answer": "1. She likes fruits, doesn't she?\n2. She doesn't know Chinese, does she?",
+    "keywords": [
+      "doesn't she",
+      "does she",
+      "likes fruits",
+      "Chinese"
+    ],
+    "explanation": "These follow the standard positive-to-negative and negative-to-positive transformation rules based on the auxiliary 'does'. Discussed on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 40,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 40
+    },
+    "question": "Add suitable tags to these sentences: 1. They don't need the yellow cup. 2. We should put the peas in the fridge.",
+    "answer": "1. They don't need the yellow cup, do they?\n2. We should put the peas in the fridge, shouldn't we?",
+    "keywords": [
+      "do they",
+      "shouldn't we",
+      "yellow cup",
+      "fridge"
+    ],
+    "explanation": "Negative sentence 'don't need' takes 'do they'. Positive sentence 'should put' takes 'shouldn't we'. Discussed on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 41,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "Describe the basic structure of a question tag. How does it treat positive and negative statements?",
+    "answer": "A question tag repeats the auxiliary verb or the main verb 'be' from the preceding statement. It changes the polarity of the statement: a positive statement takes a negative tag, while a negative statement takes a positive tag. This structure is used to ask for confirmation.",
+    "keywords": [
+      "repeats auxiliary verb",
+      "main verb be",
+      "changes polarity",
+      "positive statement",
+      "negative tag",
+      "negative statement",
+      "positive tag",
+      "confirmation"
+    ],
+    "explanation": "This describes the fundamental definition and dual-rule structure of question tags for declarative sentences. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 42,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "Identify the tags for the following and explain the rule: 1. Nandini has slept. 2. Mrs. Tony doesn't enjoy shopping.",
+    "answer": "1. Nandini has slept, hasn't she? 2. Mrs. Tony doesn't enjoy shopping, does she? The rule applied is that a positive statement gets a negative tag, and a negative statement gets a positive tag, reusing the auxiliary verbs 'has' and 'does'.",
+    "keywords": [
+      "hasn't she",
+      "does she",
+      "rule applied",
+      "positive statement",
+      "negative tag",
+      "auxiliary verbs"
+    ],
+    "explanation": "By providing the tags and stating the rule, the core concept of statement-tag polarity is demonstrated. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 43,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "What are negative adverbs? Give examples and explain their effect on question tags.",
+    "answer": "Negative adverbs are words like no longer, rarely, seldom, never, and barely ever. A sentence with a negative adverb carries a negative meaning. Therefore, such sentences require a positive question tag, acting just like a negative statement.",
+    "keywords": [
+      "Negative adverbs",
+      "rarely",
+      "seldom",
+      "never",
+      "negative meaning",
+      "positive question tag"
+    ],
+    "explanation": "Negative adverbs alter the polarity of a seemingly positive sentence, forcing the use of a positive tag. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 44,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "Write three sentences using negative adverbs and provide their correct question tags based on the rules.",
+    "answer": "1. Erika seldom goes to parties, does she? \n2. Farida never lived in Mumbai, did she?\n3. We rarely eat out, do we?\nThese take positive tags because the adverbs give them a negative meaning.",
+    "keywords": [
+      "seldom",
+      "never",
+      "rarely",
+      "positive tags",
+      "negative meaning"
+    ],
+    "explanation": "Creating examples with negative adverbs shows understanding that words like 'seldom', 'never', and 'rarely' demand positive tags. Discussed on pages 26, 29.",
+    "page_number": "26"
+  },
+  {
+    "id": 45,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "Explain same-way question tags with one positive and one negative example.",
+    "answer": "Same-way question tags share the same polarity as the statement and show interest or surprise instead of asking for confirmation. Positive example: 'So, you like George, do you?'. Negative example: 'Henry didn't want to come, didn't he?'.",
+    "keywords": [
+      "same polarity",
+      "interest",
+      "surprise",
+      "positive example",
+      "negative example",
+      "George",
+      "Henry"
+    ],
+    "explanation": "Same-way tags break the standard rules to convey emotion. Both matching positive and negative examples are required. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 46,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 55
+    },
+    "question": "What are the different auxiliary verbs that can be used for requests/orders in imperative sentences? Give two examples.",
+    "answer": "For requests or orders, we can use the auxiliary verbs can, can't, will, shall, could, and would. Examples include: 'Hold the bag, can you?' (very polite) and 'Hold the bag, can't you?' (polite but irritated).",
+    "keywords": [
+      "requests",
+      "orders",
+      "can",
+      "can't",
+      "will",
+      "shall",
+      "could",
+      "would",
+      "examples"
+    ],
+    "explanation": "Imperative sentences acting as requests have a flexible list of auxiliary tags depending on the desired tone. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 47,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Differentiate between the tags used for a firm order (negative imperative) and an invitation, with examples.",
+    "answer": "For an invitation, the tag 'won't' is used. For example, 'Please come to the party, won't you?'. In contrast, a firm order given as a negative imperative uses the tag 'will'. For example, 'Don't hit your sister, will you?'. The auxiliary verbs differ based on sentence purpose.",
+    "keywords": [
+      "invitation",
+      "won't",
+      "firm order",
+      "negative imperative",
+      "will",
+      "purpose"
+    ],
+    "explanation": "Different types of imperative sentences require specific auxiliary verbs for their tags to convey the correct tone. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 48,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Detail the two ways to answer when you agree or disagree with a positive statement, with examples.",
+    "answer": "To agree with a positive statement (e.g., 'You can cook, can't you?'), answer 'Yes' or 'Yes, I can'. To disagree with the same positive statement, you use 'No + pronoun + auxiliary verb', resulting in 'No, I can't'.",
+    "keywords": [
+      "agree",
+      "positive statement",
+      "Yes, I can",
+      "disagree",
+      "No",
+      "pronoun",
+      "auxiliary verb",
+      "No, I can't"
+    ],
+    "explanation": "Explaining both the positive affirmation and negative contradiction response structures for a positive premise. Discussed on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 49,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Detail the two ways to answer when you agree or disagree with a negative statement, with examples.",
+    "answer": "When agreeing with a negative statement (e.g., 'You can't cook, can you?'), you answer negatively: 'No' or 'No, I can't'. When disagreeing with it, you answer positively: 'Yes + pronoun + auxiliary verb', which is 'Yes, I can'.",
+    "keywords": [
+      "agree",
+      "negative statement",
+      "No, I can't",
+      "disagree",
+      "Yes",
+      "pronoun",
+      "auxiliary verb",
+      "Yes, I can"
+    ],
+    "explanation": "Explaining the response format when the initial premise is negative. Agreement confirms the negative; disagreement asserts the positive. Discussed on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 50,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Add appropriate tags and explain the rule: 1. The Guptas no longer travel abroad. 2. We rarely eat out.",
+    "answer": "1. The Guptas no longer travel abroad, do they?\n2. We rarely eat out, do we?\nThe rule is that sentences containing negative adverbs like 'no longer' and 'rarely' have a negative meaning. Therefore, they must take a positive question tag.",
+    "keywords": [
+      "do they",
+      "do we",
+      "negative adverbs",
+      "no longer",
+      "rarely",
+      "negative meaning",
+      "positive question tag"
+    ],
+    "explanation": "Applying the negative adverb rule to sentences from Exercise 3 to justify the positive tags. Discussed on pages 26, 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 51,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Provide the appropriate tags and explain the reason: 1. Shelly hardly ever attends meetings after five. 2. I never eat meat.",
+    "answer": "1. Shelly hardly ever attends meetings after five, does she?\n2. I never eat meat, do I?\nThe reason is that 'hardly ever' and 'never' are negative adverbs. They give the sentence a negative meaning, requiring a positive question tag.",
+    "keywords": [
+      "does she",
+      "do I",
+      "hardly ever",
+      "never",
+      "negative adverbs",
+      "positive question tag"
+    ],
+    "explanation": "Applying the rule for negative adverbs to specific exercise sentences to deduce their positive tags. Discussed on pages 26, 29, 30.",
+    "page_number": "29"
+  },
+  {
+    "id": 52,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Add question tags to these imperatives and state their purpose: 1. Please come for the wedding. 2. Don't look away.",
+    "answer": "1. Please come for the wedding, won't you? (This acts as an invitation).\n2. Don't look away, will you? (This is a negative imperative used as a firm order).\nImperatives use specific tags depending on their context.",
+    "keywords": [
+      "won't you",
+      "invitation",
+      "will you",
+      "negative imperative",
+      "firm order"
+    ],
+    "explanation": "Differentiating between types of imperatives (invitations vs negative orders) to assign correct tags. Discussed on pages 26, 30.",
+    "page_number": "30"
+  },
+  {
+    "id": 53,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "How would you answer the following: 'The eagle is a bird, isn't it?' if you agree, and 'A monkey isn't a reptile, is it?' if you agree.",
+    "answer": "For 'The eagle is a bird, isn't it?', agreeing with the positive statement gives: 'Yes, it is.'\nFor 'A monkey isn't a reptile, is it?', agreeing with the negative statement gives: 'No, it isn't.'",
+    "keywords": [
+      "eagle",
+      "Yes, it is",
+      "agreeing",
+      "positive statement",
+      "monkey",
+      "No, it isn't",
+      "negative statement"
+    ],
+    "explanation": "Applying the answering formulas correctly to factual statements from Exercise 3. Discussed on pages 27, 30.",
+    "page_number": "30"
+  },
+  {
+    "id": 54,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "Supply tags for the following sentences: 1. She was in school. 2. Delphine runs faster than Julia. 3. I should not be going to her place.",
+    "answer": "1. She was in school, wasn't she?\n2. Delphine runs faster than Julia, doesn't she?\n3. I should not be going to her place, should I?",
+    "keywords": [
+      "wasn't she",
+      "doesn't she",
+      "should I",
+      "tags"
+    ],
+    "explanation": "Adding suitable tags to standard positive and negative statements from Exercise 2 based on basic rules. Discussed on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 55,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "Supply tags for the following: 1. It is a shady tree. 2. She is washing the clothes. 3. We don't play like roughly.",
+    "answer": "1. It is a shady tree, isn't it?\n2. She is washing the clothes, isn't she?\n3. We don't play like roughly, do we?",
+    "keywords": [
+      "isn't it",
+      "isn't she",
+      "do we",
+      "shady tree",
+      "washing"
+    ],
+    "explanation": "Identifying the correct auxiliary verb (is, do) and flipping its polarity to form the tag. Discussed on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 56,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Analyze the sentence 'You wouldn't be able to lend me some money, would you?'. What type of sentence is this and what is the rule?",
+    "answer": "This sentence is used when 'asking for help'. The rule demonstrated is that when making a polite request for help, a negative statement ('wouldn't be able') is followed by a positive tag ('would you?').",
+    "keywords": [
+      "asking for help",
+      "polite request",
+      "negative statement",
+      "positive tag",
+      "wouldn't",
+      "would you"
+    ],
+    "explanation": "Analyzing the specific structure provided in the text for asking for help. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 57,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Explain the error in the tag for the sentence 'Erika seldom goes to parties, doesn't she?' and correct it.",
+    "answer": "The error is that a negative tag ('doesn't she?') is used. Because 'seldom' is a negative adverb, it gives the entire sentence a negative meaning. The correct rule dictates a positive tag, making the correct sentence: 'Erika seldom goes to parties, does she?'.",
+    "keywords": [
+      "error",
+      "doesn't she",
+      "seldom",
+      "negative adverb",
+      "negative meaning",
+      "positive tag",
+      "does she"
+    ],
+    "explanation": "Testing the application of the negative adverb rule by asking the student to spot and correct a common mistake. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 58,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "Why do same-way tags not follow the standard positive-negative rule? What do they express instead?",
+    "answer": "Same-way tags intentionally break the positive-negative rule because they are not used to ask for confirmation or factual verification. Instead, by keeping the same polarity (positive+positive or negative+negative), they are used strictly to express emotions like interest, surprise, or anger.",
+    "keywords": [
+      "same-way tags",
+      "break standard rule",
+      "not for confirmation",
+      "same polarity",
+      "express emotions",
+      "interest",
+      "surprise",
+      "anger"
+    ],
+    "explanation": "Explaining the functional difference between regular tags and same-way tags to justify their structure. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 59,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Construct three sentences based on the text: one asking for help, one invitation, and one firm order, adding appropriate tags to each.",
+    "answer": "1. Asking for help: You wouldn't be able to help me, would you?\n2. Invitation: Please come inside, won't you?\n3. Firm order: Don't touch that, will you?\nThese follow the specific auxiliary verb rules for their respective sentence types.",
+    "keywords": [
+      "asking for help",
+      "would you",
+      "invitation",
+      "won't you",
+      "firm order",
+      "will you"
+    ],
+    "explanation": "The student must generate their own sentences mimicking the specific grammatical structures taught in the chapter. Discussed on pages 25, 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 60,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "Based on Exercise 1, deduce the tags for: 1. He exercises every day. 2. I am not the pink sheep. 3. You are from Asia. Explain the auxiliary verbs chosen.",
+    "answer": "1. He exercises every day, doesn't he? (Uses 'does' for present tense singular).\n2. I am not the pink sheep, am I? (Uses 'am' for first-person singular negative).\n3. You are from Asia, aren't you? (Uses 'are' for second-person plural positive).",
+    "keywords": [
+      "doesn't he",
+      "does",
+      "am I",
+      "am",
+      "aren't you",
+      "are",
+      "auxiliary verbs"
+    ],
+    "explanation": "Deducing the correct tags from Exercise 1 and explaining the grammatical reasoning for the auxiliary choices. Discussed on pages 27, 28.",
+    "page_number": "28"
+  },
+  {
+    "id": 61,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "Deduce and explain the tags for: 1. The dress looks beautiful. 2. He studies well. 3. They aren't in their house.",
+    "answer": "1. The dress looks beautiful, doesn't it? (Positive statement, uses 'does' for singular object).\n2. He studies well, doesn't he? (Positive statement, uses 'does' for third-person singular).\n3. They aren't in their house, are they? (Negative statement, uses positive 'are' for plural).",
+    "keywords": [
+      "doesn't it",
+      "doesn't he",
+      "are they",
+      "singular object",
+      "third-person",
+      "plural"
+    ],
+    "explanation": "Solving exercise questions and justifying the tags using standard polarity rules. Discussed on page 28.",
+    "page_number": "28"
+  },
+  {
+    "id": 62,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "Evaluate the imperative 'Hold the bag'. How can the tag change the tone from very polite to polite but irritated?",
+    "answer": "For imperative requests, auxiliary verbs modify the tone. Using the positive tag 'can you?' makes the request 'Hold the bag, can you?' very polite. However, switching to the negative tag 'can't you?' creates 'Hold the bag, can't you?', which sounds polite but irritated.",
+    "keywords": [
+      "imperative",
+      "Hold the bag",
+      "modify tone",
+      "can you",
+      "very polite",
+      "can't you",
+      "irritated"
+    ],
+    "explanation": "Analyzing how polarity choices in imperative tags subtly shift the emotional tone of the speaker. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 63,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "What is the tag for 'Please accept this gift'? Why are there multiple options available for requests/orders?",
+    "answer": "The tag can be 'will you?' or 'won't you?'. For requests or orders, grammar rules allow the use of multiple auxiliary verbs like can, can't, will, shall, could, and would. This flexibility helps speakers adjust the politeness, tone, or urgency of their request.",
+    "keywords": [
+      "Please accept this gift",
+      "will you",
+      "won't you",
+      "requests",
+      "orders",
+      "auxiliary verbs",
+      "politeness",
+      "tone"
+    ],
+    "explanation": "Addressing an exercise question that has multiple valid answers due to the flexible rule for imperatives. Discussed on pages 26, 30.",
+    "page_number": "30"
+  },
+  {
+    "id": 64,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Create a dialogue where person A uses a negative statement with a tag, and person B answers disagreeing with it, following the text's rules.",
+    "answer": "Person A: 'You can't cook, can you?' (Negative statement + positive tag).\nPerson B: 'Yes, I can.' (Disagreeing with the negative statement by using 'Yes + pronoun + auxiliary verb').\nThis demonstrates correctly applying both statement and response rules.",
+    "keywords": [
+      "dialogue",
+      "Person A",
+      "negative statement",
+      "can you",
+      "Person B",
+      "disagreeing",
+      "Yes, I can"
+    ],
+    "explanation": "Requiring the student to synthesize statement rules and answering rules to form a correct conversational exchange. Discussed on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 65,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 130
+    },
+    "question": "Write a detailed note on the structure of question tags for normal positive and negative statements. Provide two examples for each from the text.",
+    "answer": "A question tag is a brief question added to a statement to ask for confirmation. The fundamental rule relies on contrasting polarity. \nIf the main sentence is a positive statement, it must take a negative question tag. The tag repeats the auxiliary verb or 'be' from the statement. Examples: 'You are coming, aren't you?' and 'Nandini has slept, hasn't she?'. \nConversely, if the main sentence is a negative statement, it requires a positive question tag. Examples: 'Dave hasn't eaten, has he?' and 'Mrs. Tony doesn't enjoy shopping, does she?'. By maintaining this opposite relationship, the speaker correctly seeks confirmation.",
+    "keywords": [
+      "structure",
+      "confirmation",
+      "contrasting polarity",
+      "positive statement",
+      "negative question tag",
+      "negative statement",
+      "positive question tag",
+      "auxiliary verb",
+      "examples"
+    ],
+    "explanation": "A comprehensive explanation of the most basic rules of question tags, supported by exact textbook examples. Discussed on page 25.",
+    "page_number": "25"
+  },
+  {
+    "id": 66,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 130
+    },
+    "question": "Explain the concept of Negative Adverbs in relation to question tags. List the adverbs provided in the text and give three examples of such sentences with their correct tags.",
+    "answer": "Negative adverbs are words that inherently carry a negative meaning. The text lists adverbs such as no longer, rarely, seldom, barely ever, hardly ever, never, and scarcely. \nWhen a sentence contains one of these negative adverbs, the entire statement is considered to have a negative meaning, even if there is no explicit 'not'. Because the statement is structurally negative, the rule dictates that the question tag must be positive. \nThree examples are:\n1. Erika seldom goes to parties, does she?\n2. Farida never lived in Mumbai, did she?\n3. We rarely eat out, do we?",
+    "keywords": [
+      "Negative Adverbs",
+      "negative meaning",
+      "no longer",
+      "rarely",
+      "seldom",
+      "barely ever",
+      "hardly ever",
+      "never",
+      "scarcely",
+      "positive tag",
+      "examples"
+    ],
+    "explanation": "Provides a full breakdown of the negative adverb rule, listing the vocabulary, and applying it to three clear examples. Discussed on pages 26, 29.",
+    "page_number": "26"
+  },
+  {
+    "id": 67,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 85,
+      "max": 130
+    },
+    "question": "Provide a comprehensive explanation of Same-way Question Tags. How do they differ from regular tags in structure and purpose? Include both positive and negative examples.",
+    "answer": "Same-way question tags differ significantly from regular question tags in both structure and purpose. \nStructurally, instead of alternating polarity, they maintain the same polarity as the statement: a positive statement takes a positive tag, and a negative statement takes a negative tag. \nIn terms of purpose, while regular tags ask for factual confirmation, same-way tags do not. They are used exclusively to show emotion, such as interest, surprise, or anger. \nFor instance, a positive same-way tag is 'So, you like George, do you? That's nice', showing interest. A negative same-way tag is 'Henry didn't want to come, didn't he?', which might express surprise or annoyance.",
+    "keywords": [
+      "Same-way Question Tags",
+      "differ",
+      "structure",
+      "purpose",
+      "same polarity",
+      "emotion",
+      "interest",
+      "surprise",
+      "anger",
+      "positive example",
+      "negative example"
+    ],
+    "explanation": "Contrasts normal tags with same-way tags on two vectors (structure and purpose) and provides the required textbook examples. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 68,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Summarize the rules for adding question tags to Imperative sentences (Invitations, Requests/Orders, and Negative imperatives), providing an example for each category.",
+    "answer": "Imperative sentences use different question tags based on their function.\nFirst, for invitations, the tag 'won't' is typically used. For example: 'Please come to the party, won't you?'.\nSecond, for requests or orders, there is a variety of auxiliary verbs allowed, including can, can't, will, shall, could, and would. The choice changes the tone. For example, 'Hold the bag, can you?' is very polite, whereas 'Hold the bag, can't you?' is polite but irritated.\nThird, for negative imperatives, which often function as firm orders, the auxiliary verb 'will' is strictly used. For example: 'Don't hit your sister, will you?'.",
+    "keywords": [
+      "Imperative sentences",
+      "invitations",
+      "won't",
+      "requests",
+      "orders",
+      "can",
+      "can't",
+      "tone",
+      "negative imperatives",
+      "firm orders",
+      "will"
+    ],
+    "explanation": "Summarizes the three sub-rules for imperatives outlined in the text, ensuring each function gets its specific auxiliary rule and example. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 69,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Describe in detail the rules for answering question tags. Cover all four scenarios: agreeing/disagreeing with a positive statement, and agreeing/disagreeing with a negative statement.",
+    "answer": "Answering question tags depends on whether the original statement is positive or negative, and whether you agree or disagree. \n1. Agreeing with a positive statement: Answer 'yes' or 'yes + pronoun + auxiliary verb' (e.g., Q: You can cook, can't you? A: Yes, I can).\n2. Disagreeing with a positive statement: Answer 'no + pronoun + auxiliary verb' (e.g., A: No, I can't).\n3. Agreeing with a negative statement: Answer 'no' or 'no + pronoun + auxiliary verb', confirming the negative premise (e.g., Q: You can't cook, can you? A: No, I can't).\n4. Disagreeing with a negative statement: Answer 'yes + pronoun + auxiliary verb', asserting the positive (e.g., A: Yes, I can).",
+    "keywords": [
+      "answering",
+      "agreeing",
+      "disagreeing",
+      "positive statement",
+      "negative statement",
+      "Yes, I can",
+      "No, I can't",
+      "pronoun",
+      "auxiliary verb"
+    ],
+    "explanation": "Covers the four matrix possibilities of answering tags explicitly as detailed on page 27 of the textbook. Discussed on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 70,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "Add appropriate question tags to the following five sentences from the exercises: 1. He exercises every day. 2. They aren't coming today. 3. We do our homework. 4. I am not the pink sheep. 5. The dress looks beautiful.",
+    "answer": "Applying the rules of positive and negative polarity to the sentences gives the following tags:\n1. He exercises every day, doesn't he? (Positive statement takes negative 'does').\n2. They aren't coming today, are they? (Negative statement takes positive 'are').\n3. We do our homework, don't we? (Positive statement takes negative 'do').\n4. I am not the pink sheep, am I? (Negative statement takes positive 'am').\n5. The dress looks beautiful, doesn't it? (Positive statement takes negative 'does' for a singular object).",
+    "keywords": [
+      "doesn't he",
+      "are they",
+      "don't we",
+      "am I",
+      "doesn't it",
+      "polarity",
+      "positive statement",
+      "negative statement"
+    ],
+    "explanation": "Solves five sentences from Exercise 1, acting as a comprehensive test of basic tag polarity. Discussed on pages 27, 28.",
+    "page_number": "27"
+  },
+  {
+    "id": 71,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "Add appropriate question tags to the following five sentences from the exercises: 1. The room is not dirty. 2. He studies well. 3. They aren't in their house. 4. You are from Asia. 5. She should be studying now.",
+    "answer": "Using the rules for auxiliary verbs and changing the statement's polarity, the answers are:\n1. The room is not dirty, is it? (Negative 'is not' becomes positive 'is').\n2. He studies well, doesn't he? (Positive 'studies' takes 'does not').\n3. They aren't in their house, are they? (Negative 'aren't' becomes positive 'are').\n4. You are from Asia, aren't you? (Positive 'are' becomes negative 'aren't').\n5. She should be studying now, shouldn't she? (Positive 'should' becomes negative 'shouldn't').",
+    "keywords": [
+      "is it",
+      "doesn't he",
+      "are they",
+      "aren't you",
+      "shouldn't she",
+      "polarity",
+      "auxiliary verbs"
+    ],
+    "explanation": "Solves the second half of Exercise 1, demonstrating mastery over various auxiliary verbs like is, does, are, and should. Discussed on page 28.",
+    "page_number": "28"
+  },
+  {
+    "id": 72,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "Add appropriate question tags to the following five sentences from the exercises: 1. She likes fruits. 2. She doesn't know Chinese. 3. They don't need the yellow cup. 4. We should put the peas in the fridge. 5. She was in school.",
+    "answer": "By identifying the correct auxiliary verb and reversing the polarity, the tags are:\n1. She likes fruits, doesn't she? (Present positive takes 'doesn't').\n2. She doesn't know Chinese, does she? (Present negative takes 'does').\n3. They don't need the yellow cup, do they? (Plural negative takes 'do').\n4. We should put the peas in the fridge, shouldn't we? (Modal 'should' positive becomes negative 'shouldn't').\n5. She was in school, wasn't she? (Past tense 'was' positive becomes 'wasn't').",
+    "keywords": [
+      "doesn't she",
+      "does she",
+      "do they",
+      "shouldn't we",
+      "wasn't she",
+      "auxiliary verb",
+      "polarity"
+    ],
+    "explanation": "Provides solutions for the first half of Exercise 2, testing present, past, and modal auxiliary verbs. Discussed on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 73,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "Add appropriate question tags to the following five sentences from the exercises: 1. Delphine runs faster than Julia. 2. I should not be going to her place. 3. It is a shady tree. 4. She is washing the clothes. 5. We don't play like roughly.",
+    "answer": "Following the rule of changing statement polarity for the tag:\n1. Delphine runs faster than Julia, doesn't she? (Present positive singular takes 'doesn't').\n2. I should not be going to her place, should I? (Negative modal takes positive 'should').\n3. It is a shady tree, isn't it? (Positive 'is' takes 'isn't').\n4. She is washing the clothes, isn't she? (Present continuous positive takes 'isn't').\n5. We don't play like roughly, do we? (Present negative plural takes positive 'do').",
+    "keywords": [
+      "doesn't she",
+      "should I",
+      "isn't it",
+      "isn't she",
+      "do we",
+      "statement polarity",
+      "tag"
+    ],
+    "explanation": "Solves the second half of Exercise 2, requiring identification of the auxiliary verb to form the correct tag. Discussed on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 74,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Analyze the use of negative adverbs by adding correct tags to these five sentences: 1. The Guptas no longer travel abroad. 2. We rarely eat out. 3. Shelly hardly ever attends meetings after five. 4. I never eat meat. 5. Erika seldom goes to parties.",
+    "answer": "All five sentences contain negative adverbs, giving them a negative meaning. Thus, they all require positive question tags.\n1. The Guptas no longer travel abroad, do they? (Negative adverb 'no longer').\n2. We rarely eat out, do we? (Negative adverb 'rarely').\n3. Shelly hardly ever attends meetings after five, does she? (Negative adverb 'hardly ever').\n4. I never eat meat, do I? (Negative adverb 'never').\n5. Erika seldom goes to parties, does she? (Negative adverb 'seldom'). \nThis demonstrates that negative adverbs bypass the standard positive-sentence appearance rule.",
+    "keywords": [
+      "negative adverbs",
+      "negative meaning",
+      "positive question tags",
+      "do they",
+      "do we",
+      "does she",
+      "do I",
+      "does she",
+      "seldom",
+      "never"
+    ],
+    "explanation": "Tests the complex negative adverb rule repeatedly across five distinct exercise sentences to ensure concept mastery. Discussed on pages 26, 29, 30.",
+    "page_number": "29"
+  },
+  {
+    "id": 75,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Analyze the use of imperative tags by solving these five sentences: 1. Please come for the wedding. 2. Please accept this gift. 3. Don't look away. 4. Write neatly. 5. Don't hit your sister.",
+    "answer": "Imperative sentences take specific tags based on function:\n1. Please come for the wedding, won't you? (Treated as an invitation, uses 'won't').\n2. Please accept this gift, will you/won't you? (Treated as a polite request, can use will/won't/can).\n3. Don't look away, will you? (Negative imperative firm order, uses 'will').\n4. Write neatly, can you? (Request/order, uses 'can' or 'will' depending on politeness).\n5. Don't hit your sister, will you? (Negative imperative firm order, uses 'will').\nThese show that imperatives rely on context rather than standard polarity rules.",
+    "keywords": [
+      "imperative tags",
+      "won't you",
+      "will you",
+      "can you",
+      "invitation",
+      "polite request",
+      "negative imperative",
+      "firm order",
+      "context"
+    ],
+    "explanation": "Applies the complex imperative rules to five exercise sentences, requiring context evaluation to pick the right auxiliary. Discussed on pages 26, 30.",
+    "page_number": "30"
+  },
+  {
+    "id": 76,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 150
+    },
+    "question": "Compare and contrast standard question tags, same-way question tags, and tags for negative adverbs. Give one example of each to illustrate the differences in their structural rules.",
+    "answer": "Standard question tags invert the polarity of the statement to ask for confirmation. A positive statement takes a negative tag (e.g., 'You are coming, aren't you?').\nSame-way question tags, however, keep the polarity identical to show emotion like surprise, rather than asking for confirmation. A positive statement takes a positive tag (e.g., 'So, you like George, do you?').\nTags for negative adverbs involve sentences that look positive but contain words like 'never' or 'seldom'. Because these adverbs give the sentence a negative meaning, they must take a positive tag, following the rule for negative statements (e.g., 'Farida never lived in Mumbai, did she?').",
+    "keywords": [
+      "Standard question tags",
+      "invert polarity",
+      "Same-way question tags",
+      "identical polarity",
+      "emotion",
+      "negative adverbs",
+      "negative meaning",
+      "positive tag",
+      "examples",
+      "differences"
+    ],
+    "explanation": "Synthesizes three different rule sets taught in the chapter, demanding comparison and specific textbook examples for each. Discussed on pages 25, 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 77,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Explain how the tone of a request or order can be modified using different question tags. Refer to the examples of invitations, polite requests, irritated requests, and firm orders given in the text.",
+    "answer": "In imperative sentences, the choice of the question tag modifies the speaker's tone.\nFor an invitation, using 'won't' makes it sound welcoming: 'Please come to the party, won't you?'.\nWhen giving a request or order, using positive auxiliaries like 'can' makes it very polite: 'Hold the bag, can you?'. However, switching to a negative auxiliary like 'can't' changes the tone to polite but irritated: 'Hold the bag, can't you?'.\nFinally, for a firm order phrased as a negative imperative, using 'will' establishes strict authority: 'Don't hit your sister, will you?'. Thus, tags are vital for tonal nuance.",
+    "keywords": [
+      "tone",
+      "imperative sentences",
+      "invitation",
+      "won't",
+      "polite",
+      "can you",
+      "irritated",
+      "can't you",
+      "firm order",
+      "will",
+      "tonal nuance"
+    ],
+    "explanation": "Analyzes the pragmatic function of tags in imperative sentences, showing how grammar affects emotional delivery. Discussed on page 26.",
+    "page_number": "26"
+  },
+  {
+    "id": 78,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Provide the short answers for the following situations based on the text rules: 1. Agreeing that 'You can cook, can't you?'. 2. Disagreeing that 'You can cook, can't you?'. 3. Agreeing that 'You can't cook, can you?'. 4. Disagreeing that 'You can't cook, can you?'.",
+    "answer": "Based on the answering rules:\n1. Agreeing with the positive statement 'You can cook': Answer is 'Yes' or 'Yes, I can'.\n2. Disagreeing with the positive statement 'You can cook': Answer is 'No, I can't' (No + pronoun + negative auxiliary).\n3. Agreeing with the negative statement 'You can't cook': Answer is 'No' or 'No, I can't' (Confirming the negative truth).\n4. Disagreeing with the negative statement 'You can't cook': Answer is 'Yes, I can' (Asserting the positive truth). \nThis covers all matrix responses for statement agreement.",
+    "keywords": [
+      "Agreeing",
+      "Disagreeing",
+      "positive statement",
+      "negative statement",
+      "Yes, I can",
+      "No, I can't",
+      "matrix responses",
+      "answering rules"
+    ],
+    "explanation": "A practical application of the four-way response matrix provided on page 27, ensuring mastery of conversational tags. Discussed on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 79,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 85,
+      "max": 130
+    },
+    "question": "Answer the following tags correctly based on facts, applying the answer format rules: 1. The eagle is a bird, isn't it? 2. A monkey isn't a reptile, is it? Explain the structure of your answers.",
+    "answer": "1. The eagle is a bird, isn't it? Answer: 'Yes, it is.' (This agrees with a factual positive statement, using 'Yes + pronoun + auxiliary verb').\n2. A monkey isn't a reptile, is it? Answer: 'No, it isn't.' (This agrees with a factual negative statement, using 'No + pronoun + auxiliary verb').\nThe structure shows that when facts align with the statement's premise, we agree using the respective positive response for positive statements and negative response for negative statements.",
+    "keywords": [
+      "eagle",
+      "Yes, it is",
+      "monkey",
+      "No, it isn't",
+      "agrees",
+      "factual positive statement",
+      "factual negative statement",
+      "structure",
+      "pronoun",
+      "auxiliary verb"
+    ],
+    "explanation": "Evaluates factual knowledge paired with grammatical answering formats from Exercise 3. Discussed on pages 27, 30.",
+    "page_number": "30"
+  },
+  {
+    "id": 80,
+    "subject": "English Grammar",
+    "chapter": "Question Tags-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 145
+    },
+    "question": "Based on the chapter, formulate a comprehensive rulebook (5 points) on how to determine the correct auxiliary verb and sign (positive/negative) for any given statement or imperative.",
+    "answer": "1. Standard Rule: Reverse the polarity. A positive statement takes a negative tag, and a negative statement takes a positive tag.\n2. Auxiliary Copying: Always repeat the auxiliary verb (has, is, do) from the main statement in the tag.\n3. Negative Adverbs: Words like 'seldom', 'never', and 'rarely' make a statement negative, meaning it must take a positive tag.\n4. Same-way Exceptions: To show emotion (surprise/anger), keep the polarity identical (positive+positive or negative+negative).\n5. Imperatives: Tone dictates the verb. Use 'won't' for invitations, 'will' for negative orders, and 'can/can't' to adjust politeness in requests.",
+    "keywords": [
+      "Rulebook",
+      "Standard Rule",
+      "Reverse polarity",
+      "Auxiliary Copying",
+      "Negative Adverbs",
+      "Same-way Exceptions",
+      "emotion",
+      "Imperatives",
+      "Tone dictates"
+    ],
+    "explanation": "A high-level synthesis task requiring the student to summarize the entire PDF's grammatical rules into a concise 5-point guide. Discussed across pages 25-27.",
+    "page_number": "25"
+  }
+]
