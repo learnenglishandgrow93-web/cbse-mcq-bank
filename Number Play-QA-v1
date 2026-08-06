@@ -1,0 +1,1891 @@
+[
+{
+"id":1,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is the parity of the sum of two even numbers?",
+"answer":"The sum of two even numbers is always an even number. This means its parity is even.",
+"keywords":[
+"sum",
+"two even numbers",
+"always",
+"even number",
+"parity"
+],
+"explanation":"When two even numbers are added, their sum retains the factor of 2, making the resulting parity even. Discussed in the 'Breaking Even' section.",
+"page_number":"116"
+},
+{
+"id":2,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is the parity of the product of two odd numbers?",
+"answer":"The product of two odd numbers always results in an odd number. Therefore, its parity is odd.",
+"keywords":[
+"product",
+"two odd numbers",
+"always results",
+"odd number",
+"parity"
+],
+"explanation":"An odd number multiplied by another odd number does not introduce a factor of 2, so the product remains odd.",
+"page_number":"116"
+},
+{
+"id":3,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Write an algebraic expression to represent an even number.",
+"answer":"An even number can be represented algebraically by the expression 2n, where n is any integer.",
+"keywords":[
+"algebraic expression",
+"even number",
+"2n",
+"integer"
+],
+"explanation":"Since all even numbers are multiples of 2, they can be denoted as 2 times any integer n.",
+"page_number":"114"
+},
+{
+"id":4,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":30
+},
+"question":"Write an algebraic expression to represent a number that leaves a remainder of 3 when divided by 5.",
+"answer":"A number that leaves a remainder of 3 when divided by 5 can be represented algebraically as 5k + 3, where k is an integer.",
+"keywords":[
+"algebraic expression",
+"remainder of 3",
+"divided by 5",
+"5k + 3"
+],
+"explanation":"Multiples of 5 are written as 5k. A remainder of 3 means the number is 3 more than a multiple of 5.",
+"page_number":"121"
+},
+{
+"id":5,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"State the divisibility rule for 5.",
+"answer":"A number is divisible by 5 if its units digit is either 0 or 5.",
+"keywords":[
+"divisible by 5",
+"units digit",
+"0 or 5"
+],
+"explanation":"In the Indian number system, any number ending in 0 or 5 is a multiple of 5.",
+"page_number":"119"
+},
+{
+"id":6,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"State the divisibility rule for 10.",
+"answer":"A number is divisible by 10 if and only if its units digit is 0.",
+"keywords":[
+"divisible by 10",
+"units digit",
+"0"
+],
+"explanation":"All multiples of 10 end with a 0 in the units place, as every other place value is already a multiple of 10.",
+"page_number":"119"
+},
+{
+"id":7,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"State the divisibility rule for 2.",
+"answer":"A number is divisible by 2 if its units digit is an even number (0, 2, 4, 6, or 8).",
+"keywords":[
+"divisible by 2",
+"units digit",
+"even number"
+],
+"explanation":"Numbers ending in even digits are multiples of 2. Higher place values like tens and hundreds are inherently divisible by 2.",
+"page_number":"119"
+},
+{
+"id":8,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Define the digital root of a number.",
+"answer":"The digital root of a number is the single digit obtained by repeatedly adding the digits of the number until only one digit remains.",
+"keywords":[
+"digital root",
+"single digit",
+"repeatedly adding",
+"digits"
+],
+"explanation":"It is a mathematical concept used in divisibility checks, where digits are summed continuously to find a single-digit value.",
+"page_number":"124"
+},
+{
+"id":9,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is the remainder when a power of 10 is divided by 9?",
+"answer":"Every power of 10 leaves a remainder of 1 when divided by 9.",
+"keywords":[
+"power of 10",
+"remainder of 1",
+"divided by 9"
+],
+"explanation":"Numbers like 10, 100, and 1000 can be written as 9+1, 99+1, and 999+1. Thus, they always leave a remainder of 1.",
+"page_number":"120"
+},
+{
+"id":10,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is the remainder when a power of 10 is divided by 3?",
+"answer":"Every power of 10 leaves a remainder of 1 when divided by 3.",
+"keywords":[
+"power of 10",
+"remainder of 1",
+"divided by 3"
+],
+"explanation":"Since every power of 10 is one more than a multiple of 9, and 9 is a multiple of 3, the remainder is always 1.",
+"page_number":"120"
+},
+{
+"id":11,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"How many different expressions can be formed by inserting '+' and '-' signs between four consecutive numbers?",
+"answer":"Eight different expressions can be formed by inserting '+' and '-' signs in all possible ways between four consecutive numbers.",
+"keywords":[
+"eight",
+"different expressions",
+"inserting signs",
+"four consecutive numbers"
+],
+"explanation":"Using combinations of addition and subtraction signs between four items yields 8 unique mathematical expressions.",
+"page_number":"112"
+},
+{
+"id":12,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"If the digital root of a product code is 9, what does it indicate in the supermarket verification system?",
+"answer":"If the digital root of a product code is 9, the code is considered valid and correctly entered in the billing system.",
+"keywords":[
+"digital root",
+"9",
+"valid",
+"correctly entered",
+"billing system"
+],
+"explanation":"The case study mentions that the digital root method is used for quick barcode verification to reduce billing errors.",
+"page_number":"2"
+},
+{
+"id":13,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Find the digital root of the number 34234.",
+"answer":"The sum of digits is 3 + 4 + 2 + 3 + 4 = 16. Summing again, 1 + 6 = 7. The digital root is 7.",
+"keywords":[
+"sum of digits",
+"16",
+"7",
+"digital root"
+],
+"explanation":"By repeatedly adding the digits until a single digit is achieved, we arrive at the digital root.",
+"page_number":"124"
+},
+{
+"id":14,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Can all odd numbers be written as the sum of two consecutive numbers?",
+"answer":"Yes, all odd numbers can be written as the sum of two consecutive numbers.",
+"keywords":[
+"yes",
+"odd numbers",
+"sum",
+"two consecutive numbers"
+],
+"explanation":"Any odd number (2n + 1) can be split into two consecutive integers: n and (n + 1).",
+"page_number":"112"
+},
+{
+"id":15,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"State the rule for a number to be divisible by 4.",
+"answer":"A number is divisible by 4 if the number formed by its last two digits (tens and units place) is divisible by 4.",
+"keywords":[
+"divisible by 4",
+"number formed",
+"last two digits",
+"tens and units"
+],
+"explanation":"Place values of hundred and above are already multiples of 4, so only the last two digits need to be checked.",
+"page_number":"119"
+},
+{
+"id":16,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is the digital root of a number that is 1 less than a multiple of 9?",
+"answer":"The digital root of a number that is 1 less than a multiple of 9 is always 8.",
+"keywords":[
+"digital root",
+"1 less",
+"multiple of 9",
+"8"
+],
+"explanation":"Multiples of 9 have a digital root of 9. Subtracting 1 from the number decreases its digital root by 1.",
+"page_number":"127"
+},
+{
+"id":17,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"Explain why the sum of two consecutive numbers is always odd.",
+"answer":"Two consecutive numbers always consist of one even and one odd number. According to parity rules, the sum of an even number and an odd number is always an odd number.",
+"keywords":[
+"two consecutive numbers",
+"one even",
+"one odd",
+"parity rules",
+"sum",
+"odd number"
+],
+"explanation":"Consecutive integers alternate between even and odd. Adding an even and an odd integer inherently results in an odd parity.",
+"page_number":"116"
+},
+{
+"id":18,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"Explain with an example why x^2 + 2 is not always even.",
+"answer":"The expression x^2 + 2 depends on the parity of x. If x is an odd number, like 3, then 3^2 + 2 = 9 + 2 = 11, which is odd. Hence, it is not always even.",
+"keywords":[
+"parity of x",
+"odd number",
+"example",
+"not always even"
+],
+"explanation":"The square of an odd number is odd. Adding 2 to an odd number yields another odd number.",
+"page_number":"116"
+},
+{
+"id":19,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"Check whether the number 39464 is divisible by 9.",
+"answer":"To check divisibility by 9, find the sum of digits: 3 + 9 + 4 + 6 + 4 = 26. Since 26 is not divisible by 9, 39464 is not divisible by 9.",
+"keywords":[
+"sum of digits",
+"26",
+"not divisible by 9"
+],
+"explanation":"The divisibility rule for 9 requires the sum of all digits to be a multiple of 9.",
+"page_number":"120"
+},
+{
+"id":20,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"Check whether 3456 is divisible by 12.",
+"answer":"A number is divisible by 12 if it is divisible by both 3 and 4. For 3456, sum of digits is 18 (divisible by 3), and last two digits are 56 (divisible by 4). Thus, 3456 is divisible by 12.",
+"keywords":[
+"divisible by 12",
+"divisible by 3 and 4",
+"sum of digits",
+"last two digits"
+],
+"explanation":"12 is a composite number made of co-prime factors 3 and 4. Testing for both determines divisibility for 12.",
+"page_number":"123"
+},
+{
+"id":21,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"Write four consecutive numbers whose sum is 46.",
+"answer":"Let the numbers be x, x+1, x+2, and x+3. Their sum is 4x + 6 = 46. Solving gives 4x = 40, so x = 10. The numbers are 10, 11, 12, and 13.",
+"keywords":[
+"consecutive numbers",
+"sum",
+"4x + 6 = 46",
+"10, 11, 12, 13"
+],
+"explanation":"Using algebra to define consecutive numbers helps set up an equation to find the starting number.",
+"page_number":"Worksheet Level 2"
+},
+{
+"id":22,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":45
+},
+"question":"A number has a digital root of 6. Can it be divisible by 3? Explain with an example.",
+"answer":"Yes. A digital root of 6 implies the sum of the digits is a multiple of 3 (since 6 is divisible by 3). For example, 15 has a digital root of 6 (1+5=6) and is divisible by 3.",
+"keywords":[
+"Yes",
+"digital root 6",
+"multiple of 3",
+"divisible by 3",
+"example 15"
+],
+"explanation":"If the digital root is 3, 6, or 9, the number's digit sum is a multiple of 3, fulfilling the divisibility rule for 3.",
+"page_number":"127"
+},
+{
+"id":23,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"Check whether the expression 2n + 3 is even or odd, and give a reason.",
+"answer":"The term 2n is always an even number for any integer n. Adding an odd number (3) to an even number always results in an odd number. Hence, 2n + 3 is always odd.",
+"keywords":[
+"2n is even",
+"adding odd number",
+"always odd"
+],
+"explanation":"Parity rules dictate that Even + Odd = Odd.",
+"page_number":"Worksheet Level 2"
+},
+{
+"id":24,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Check whether the expression n(n+1) is even or odd, and give a reason.",
+"answer":"The expression n(n+1) represents the product of two consecutive integers. Since one of them must be even, their product will always be an even number.",
+"keywords":[
+"product of two consecutive integers",
+"one must be even",
+"always even number"
+],
+"explanation":"In any pair of consecutive integers, one is odd and one is even. Odd × Even = Even.",
+"page_number":"Worksheet Level 2"
+},
+{
+"id":25,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"Find the digital root of 9876 and explain what it tells about its divisibility by 9.",
+"answer":"The sum of digits is 9+8+7+6 = 30. Summing again gives 3+0 = 3. The digital root is 3. Since the digital root is not 9, the number 9876 is not divisible by 9.",
+"keywords":[
+"sum of digits 30",
+"digital root 3",
+"not 9",
+"not divisible by 9"
+],
+"explanation":"For a number to be perfectly divisible by 9, its digital root must be 9.",
+"page_number":"Worksheet Level 2"
+},
+{
+"id":26,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"If a number is divisible by 8, what can you say about its divisibility by 2 and 4?",
+"answer":"If a number is divisible by 8, it must also be divisible by all the factors of 8. Therefore, the number is definitely divisible by both 2 and 4.",
+"keywords":[
+"divisible by factors",
+"factors of 8",
+"divisible by 2 and 4"
+],
+"explanation":"A mathematical property states that if a number is divisible by k, it is divisible by all factors of k.",
+"page_number":"120"
+},
+{
+"id":27,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What is the digital root of the expression 9x + 9y - 2?",
+"answer":"The expression can be factored as 9(x + y) - 2. This is 2 less than a multiple of 9. A number that is 2 less than a multiple of 9 has a digital root of 7.",
+"keywords":[
+"9(x + y) - 2",
+"2 less",
+"multiple of 9",
+"digital root 7"
+],
+"explanation":"Multiples of 9 have a digital root of 9. Subtracting 2 gives a digital root of 7.",
+"page_number":"127"
+},
+{
+"id":28,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Are numbers with a digital root of 6 always 3 less than a multiple of 9? Give a reason.",
+"answer":"Yes, this statement is always true. A digital root of 6 means the number leaves a remainder of 6 when divided by 9, which is mathematically equivalent to being 3 less than the next multiple of 9.",
+"keywords":[
+"always true",
+"remainder of 6",
+"divided by 9",
+"3 less",
+"multiple of 9"
+],
+"explanation":"Remainders and negative remainders are related. A remainder of +6 modulo 9 is the same as -3.",
+"page_number":"127"
+},
+{
+"id":29,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"Check if the algebraic expression 6x + 4y gives an even number for any integer values of variables.",
+"answer":"Yes, 6x + 4y can be factored as 2(3x + 2y). Since 2 is a factor of the entire expression, the parity of the expression is always even for any integer values of x and y.",
+"keywords":[
+"factored as 2(3x + 2y)",
+"2 is a factor",
+"parity is always even"
+],
+"explanation":"Any algebraic expression that can be fully factored by 2 represents an even number.",
+"page_number":"114"
+},
+{
+"id":30,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"Check if the algebraic expression 3x - 7y always gives an even number for any integer values.",
+"answer":"No, it does not. The parity depends on x and y. If both x and y are odd, 3x (odd) - 7y (odd) results in an even number. But if x is even and y is odd, Even - Odd results in an odd number.",
+"keywords":[
+"parity depends",
+"odd - odd = even",
+"even - odd = odd",
+"not always even"
+],
+"explanation":"The coefficients 3 and 7 are odd. Multiplying them by integers changes the parity based on the variable's parity.",
+"page_number":"114"
+},
+{
+"id":31,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Solve the cryptarithm AB + AC = 97, where B > C.",
+"answer":"The units column is B + C. The tens column is A + A. A + A cannot equal 9, so there must be a carry-over of 1. Thus, A + A = 8, meaning A = 4. With a carry, B + C = 17. Since B > C, B = 9 and C = 8.",
+"keywords":[
+"carry-over",
+"A = 4",
+"B + C = 17",
+"B = 9",
+"C = 8"
+],
+"explanation":"Cryptarithms require logical deduction. Odd sums in even-addition columns indicate a carry from the previous place value.",
+"page_number":"125"
+},
+{
+"id":32,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Check whether 43023 is divisible by 11.",
+"answer":"Sum of digits in odd positions (units, hundreds, ten-thousands) = 3 + 0 + 4 = 7. Sum of digits in even positions (tens, thousands) = 2 + 3 = 5. Difference = 7 - 5 = 2. Since the difference is not 0 or a multiple of 11, it is not divisible by 11.",
+"keywords":[
+"odd positions sum",
+"even positions sum",
+"difference",
+"not 0 or multiple",
+"not divisible"
+],
+"explanation":"The divisibility test for 11 checks the difference between alternating digit sums.",
+"page_number":"122"
+},
+{
+"id":33,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"Without actually dividing, find the remainder when 39489 is divided by 9.",
+"answer":"Find the digital root of 39489. Sum of digits = 3 + 9 + 4 + 8 + 9 = 33. Sum again: 3 + 3 = 6. Since the digital root is 6, the remainder when divided by 9 is 6.",
+"keywords":[
+"digital root",
+"sum of digits",
+"33",
+"6",
+"remainder is 6"
+],
+"explanation":"The digital root of a number directly corresponds to its remainder when divided by 9.",
+"page_number":"123"
+},
+{
+"id":34,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"Classify the statement: \"If a number is divisible by 5, then it is divisible by 10\" as always, sometimes, or never true.",
+"answer":"This statement is sometimes true. A number like 20 is divisible by both 5 and 10. However, a number like 15 is divisible by 5 but not by 10.",
+"keywords":[
+"sometimes true",
+"divisible by both",
+"divisible by 5",
+"not by 10"
+],
+"explanation":"Only multiples of 5 that end in 0 are divisible by 10. Those ending in 5 are not.",
+"page_number":"Worksheet Level 2"
+},
+{
+"id":35,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Determine if \"the sum of two even numbers is always a multiple of 4\" is always, sometimes, or never true.",
+"answer":"This statement is sometimes true. For example, 4 + 8 = 12 (multiple of 4), which is true. But 2 + 4 = 6 (not a multiple of 4), which makes it false in some cases.",
+"keywords":[
+"sometimes true",
+"example",
+"multiple of 4",
+"not a multiple"
+],
+"explanation":"Sum of two even numbers is always even, but it only forms a multiple of 4 if the sum of their remainders when divided by 4 equals 0 or 4.",
+"page_number":"117"
+},
+{
+"id":36,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Classify: \"A number that leaves a remainder of 2 when divided by 5 is always even.\"",
+"answer":"This statement is sometimes true. Numbers that leave a remainder of 2 when divided by 5 are of the form 5k + 2 (e.g., 7, 12, 17, 22). It includes both odd (7, 17) and even (12, 22) numbers.",
+"keywords":[
+"sometimes true",
+"5k + 2",
+"both odd and even"
+],
+"explanation":"The parity depends on the value of k in 5k + 2.",
+"page_number":"Worksheet Level 2"
+},
+{
+"id":37,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"Find the value of letters A, B, and C if ABC + CBA = 443 and C > A.",
+"answer":"Since C + A ends in 3, and A + C in the hundreds place is 4, there is no carry over to the hundreds place. So A + C = 3. Since C > A, the possible values are C=2, A=1. The tens column is B + B = 4, so B = 2. Thus A=1, B=2, C=2.",
+"keywords":[
+"A + C = 3",
+"no carry over",
+"C = 2",
+"A = 1",
+"B = 2"
+],
+"explanation":"By evaluating the units and hundreds columns, we deduce A and C. Then solving for B in the tens column completes the cryptarithm.",
+"page_number":"Worksheet Level 2"
+},
+{
+"id":38,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"Find the remainder when 4628 is divided by 9.",
+"answer":"Find the digital root of 4628: 4 + 6 + 2 + 8 = 20. Sum again: 2 + 0 = 2. The digital root is 2, so the remainder is 2.",
+"keywords":[
+"digital root",
+"sum of digits",
+"20",
+"remainder is 2"
+],
+"explanation":"The remainder obtained by dividing a number by 9 is exactly its digital root.",
+"page_number":"131"
+},
+{
+"id":39,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"Write the general form of numbers that leave a remainder of 4 when divided by 7.",
+"answer":"Multiples of 7 are expressed as 7k. A number leaving a remainder of 4 is 4 more than a multiple of 7. Thus, the general form is 7k + 4.",
+"keywords":[
+"multiples of 7",
+"7k",
+"4 more",
+"7k + 4"
+],
+"explanation":"Using algebra, expressing remainders requires adding the remainder to the general multiple expression.",
+"page_number":"118"
+},
+{
+"id":40,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"Solve the cryptarithm EF * E = GGG.",
+"answer":"A 2-digit number EF multiplied by E gives a 3-digit number with identical digits GGG. Trying values for E: if E=3, EF * 3 = GGG. If F=7, 37 * 3 = 111. Thus, E = 3, F = 7, and G = 1.",
+"keywords":[
+"cryptarithm",
+"37 * 3 = 111",
+"E = 3",
+"F = 7",
+"G = 1"
+],
+"explanation":"Finding a factor that multiplies to a repdigit (111, 222, etc.) helps solve this quickly. 111 is 37 * 3.",
+"page_number":"133"
+},
+{
+"id":41,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Explain algebraically why adding two even numbers that are not multiples of 4 will always give a multiple of 4.",
+"answer":"Even numbers that are not multiples of 4 leave a remainder of 2 when divided by 4. They can be written algebraically as (4p + 2) and (4q + 2). Adding them gives: (4p + 2) + (4q + 2) = 4p + 4q + 4 = 4(p + q + 1). Since 4 is a common factor, their sum is always a multiple of 4.",
+"keywords":[
+"remainder of 2",
+"4p + 2",
+"4q + 2",
+"4p + 4q + 4",
+"4(p + q + 1)",
+"multiple of 4"
+],
+"explanation":"Algebraic representation allows us to factor out the number 4, proving that the sum of the remainders (2+2) creates another multiple of 4.",
+"page_number":"115"
+},
+{
+"id":42,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Prove using algebra that if 8 exactly divides two numbers separately, it must exactly divide their sum.",
+"answer":"Let the two numbers be multiples of 8, which can be represented as 8a and 8b, where a and b are integers. Their sum is 8a + 8b. By taking 8 as a common factor, we get 8(a + b). Since (a + b) is an integer, the sum is a multiple of 8, meaning 8 exactly divides their sum.",
+"keywords":[
+"multiples of 8",
+"8a and 8b",
+"8(a + b)",
+"common factor",
+"exactly divides"
+],
+"explanation":"This demonstrates the distributive property of multiplication over addition, proving that the sum of two multiples of a number is also a multiple of that number.",
+"page_number":"116"
+},
+{
+"id":43,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Prove that if a number is divisible by both 4 and 9, it must be divisible by 36.",
+"answer":"If a number A is divisible by 4, it is a multiple of 4. If it is also divisible by 9, it is a multiple of 9. Since 4 and 9 are co-prime (they share no common factors other than 1), their least common multiple (LCM) is 36. Any number divisible by co-prime factors is divisible by their product (LCM), so it must be divisible by 36.",
+"keywords":[
+"co-prime",
+"multiple of 4",
+"multiple of 9",
+"least common multiple",
+"LCM is 36",
+"product"
+],
+"explanation":"A rule of divisibility states that if a number is divisible by two co-prime numbers, it is also divisible by their product.",
+"page_number":"117"
+},
+{
+"id":44,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Find the smallest number that leaves a remainder of 1 when divided by 2, 3, and 4. Explain your reasoning.",
+"answer":"First, find the Least Common Multiple (LCM) of 2, 3, and 4. The LCM of 2, 3, and 4 is 12, meaning 12 is perfectly divisible by all three. To find a number that leaves a remainder of 1, we add 1 to the LCM. 12 + 1 = 13. Thus, 13 is the smallest number that leaves a remainder of 1 when divided by 2, 3, and 4.",
+"keywords":[
+"Least Common Multiple",
+"LCM",
+"12",
+"add 1",
+"13"
+],
+"explanation":"Finding a common remainder requires finding the common multiple first, then shifting it by the desired remainder.",
+"page_number":"Worksheet Level 3"
+},
+{
+"id":45,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Explain how the digital root helps in checking divisibility by 9. Illustrate with an example.",
+"answer":"The digital root of a number is exactly the remainder obtained when the number is divided by 9. If the digital root is 9, the remainder is 0, indicating the number is divisible by 9. For example, for 342, the sum of digits is 3+4+2=9. Its digital root is 9, so 342 is fully divisible by 9 with no remainder.",
+"keywords":[
+"digital root",
+"remainder",
+"divided by 9",
+"digital root is 9",
+"divisible by 9",
+"example"
+],
+"explanation":"Digital roots simplify divisibility checks for 9 by reducing any large number to a single digit that mirrors its divisibility properties.",
+"page_number":"124"
+},
+{
+"id":46,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"If two numbers have digital roots 4 and 5, what will be the digital root of their sum? Verify with an example. Will the sum be divisible by 9?",
+"answer":"The digital root of their sum will be the sum of their individual digital roots, adjusted if it exceeds 9. Here, 4 + 5 = 9. So, the digital root of the sum is 9. Yes, because the digital root is 9, the sum will be divisible by 9. Example: 13 (digital root 4) + 14 (digital root 5) = 27. The digital root of 27 is 2+7=9. 27 is divisible by 9.",
+"keywords":[
+"sum of digital roots",
+"4 + 5 = 9",
+"divisible by 9",
+"example",
+"27"
+],
+"explanation":"Digital roots possess additive properties. The sum of remainders equals the remainder of the sum.",
+"page_number":"Worksheet Level 3"
+},
+{
+"id":47,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":80
+},
+"question":"The sum of six consecutive numbers is always divisible by a certain number. Identify the number and justify using algebra.",
+"answer":"Let the six consecutive numbers be n, n+1, n+2, n+3, n+4, and n+5. Their sum is (n) + (n+1) + (n+2) + (n+3) + (n+4) + (n+5) = 6n + 15. We can factor out 3 to get 3(2n + 5). Since 3 is a factor of the algebraic sum, the sum of any six consecutive numbers is always divisible by 3.",
+"keywords":[
+"six consecutive numbers",
+"6n + 15",
+"factor out 3",
+"3(2n + 5)",
+"divisible by 3"
+],
+"explanation":"Algebra helps generalize patterns. The sum reduces to a form where 3 is a definitive factor.",
+"page_number":"Worksheet Level 3"
+},
+{
+"id":48,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"Solve the cryptarithm JK * 6 = KKK.",
+"answer":"The units digit of the product KKK is K, so K * 6 must end in K. Possible values for K are 2, 4, 6, 8. This makes the product 222, 444, 666, or 888. Dividing by 6, JK would be 37, 74, 111, or 148. Since JK is a 2-digit number, K=6 or 8 are impossible. If K=2, 222/6 = 37 (J=3, but 7!=2, false). If K=4, 444/6 = 74. Here J=7, K=4 matches perfectly.",
+"keywords":[
+"K * 6 must end in K",
+"444",
+"dividing by 6",
+"74",
+"J=7",
+"K=4"
+],
+"explanation":"Cryptarithm multiplication relies on finding a digit that multiplied by 6 ends in itself, then verifying constraints.",
+"page_number":"126"
+},
+{
+"id":49,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":80
+},
+"question":"Justify why the shortcut for divisibility by 4 works, using the expanded form of a 4-digit number.",
+"answer":"A 4-digit number 'dcba' in expanded form is d*1000 + c*100 + b*10 + a. Since 100 and 1000 are perfectly divisible by 4, the terms d*1000 and c*100 are always multiples of 4, regardless of the digits c and d. The divisibility of the entire number then solely depends on the remaining part, which is b*10 + a (the last two digits).",
+"keywords":[
+"expanded form",
+"d*1000 + c*100 + b*10 + a",
+"100 and 1000 perfectly divisible",
+"multiples of 4",
+"last two digits",
+"b*10 + a"
+],
+"explanation":"Higher place values are inherently multiples of 4, leaving only tens and units to determine overall divisibility.",
+"page_number":"119"
+},
+{
+"id":50,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":80
+},
+"question":"Evaluate the divisibility of 37298 by 11. If it is not divisible, find the remainder.",
+"answer":"Sum the alternating digits. Sum of digits in odd positions (units, hundreds, ten thousands) = 8 + 2 + 3 = 13. Sum of digits in even positions (tens, thousands) = 9 + 7 = 16. The difference is 16 - 13 = 3. Since the difference is not 0 or a multiple of 11, 37298 is not divisible by 11. The remainder is 11 - 3 = 8.",
+"keywords":[
+"alternating digits",
+"odd positions",
+"even positions",
+"difference",
+"not divisible",
+"remainder is 8"
+],
+"explanation":"If the difference is negative (13-16 = -3), the remainder is calculated by adding the divisor (11 - 3 = 8).",
+"page_number":"123"
+},
+{
+"id":51,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":80
+},
+"question":"Explain the divisibility shortcut for 11 using the alternating pattern of place values.",
+"answer":"Powers of 10 alternately give a remainder of +1 and -1 when divided by 11. For example, 1 is 1 more than 0. 10 is 1 less than 11. 100 is 1 more than 99 (a multiple of 11). 1000 is 1 less than 1001. Because of this alternating pattern (+1, -1, +1, -1), checking divisibility by 11 requires adding the digits in alternating positions and finding the difference.",
+"keywords":[
+"powers of 10",
+"alternately give a remainder",
+"+1 and -1",
+"divided by 11",
+"alternating pattern",
+"difference"
+],
+"explanation":"This explains why we subtract the sum of even place digits from the sum of odd place digits to find multiples of 11.",
+"page_number":"121"
+},
+{
+"id":52,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":80
+},
+"question":"Determine whether the statement \"The sum of three consecutive even numbers will be divisible by 6\" is always true, sometimes true, or never true, and explain.",
+"answer":"This statement is always true. Let the three consecutive even numbers be 2n, 2n+2, and 2n+4. Their sum is 2n + 2n+2 + 2n+4 = 6n + 6. This can be factored as 6(n + 1). Since the sum yields an expression with 6 as a common factor, the result will always be divisible by 6 for any integer n.",
+"keywords":[
+"always true",
+"consecutive even numbers",
+"2n, 2n+2, 2n+4",
+"sum is 6n + 6",
+"factored as 6(n + 1)",
+"divisible by 6"
+],
+"explanation":"Algebra proves that adding three consecutive steps of two always forms a multiple of 6.",
+"page_number":"133"
+},
+{
+"id":53,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Determine whether the product of a multiple of 6 and a multiple of 3 is always a multiple of 9, and explain.",
+"answer":"This statement is always true. Let the multiple of 6 be 6x and the multiple of 3 be 3y. Their product is (6x) * (3y) = 18xy. Since 18 is a multiple of 9, the product 18xy can be written as 9(2xy). Because 9 is a factor of the product, it is always a multiple of 9.",
+"keywords":[
+"always true",
+"6x",
+"3y",
+"product",
+"18xy",
+"9(2xy)",
+"factor of 9"
+],
+"explanation":"Multiplying algebraic terms reveals the hidden factors. 6*3 creates 18, which is divisible by 9.",
+"page_number":"133"
+},
+{
+"id":54,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"Find the missing letters in the cryptarithm: L2N * 2 = 2NP.",
+"answer":"Let's analyze column by column. Units: N * 2 ends in P. Tens: 2 * 2 + carry = N. Hundreds: L * 2 + carry = 2. Since the product is 200-something, L must be 1. So 12N * 2 = 2NP. Looking at the tens digit, 2*2 = 4, so N could be 4 or 5 (with carry). If N=5, 125 * 2 = 250. This gives P=0. This matches L=1, N=5, P=0 perfectly.",
+"keywords":[
+"cryptarithm",
+"L must be 1",
+"12N * 2",
+"N could be 4 or 5",
+"125 * 2 = 250",
+"L=1, N=5, P=0"
+],
+"explanation":"Solving left to right restricts L to 1, which in turn limits N to 4 or 5, guiding the final calculation.",
+"page_number":"132"
+},
+{
+"id":55,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"If 31z5 is a multiple of 9, where z is a digit, find the value of z and explain why there are two answers.",
+"answer":"For a number to be a multiple of 9, the sum of its digits must be a multiple of 9. Sum = 3 + 1 + z + 5 = 9 + z. For 9 + z to be a multiple of 9, z can be 0 (9+0 = 9) or 9 (9+9 = 18). Both 0 and 9 are valid single digits. Thus, there are two answers: z = 0 or z = 9.",
+"keywords":[
+"sum of digits",
+"3 + 1 + z + 5",
+"9 + z",
+"multiple of 9",
+"z = 0",
+"z = 9",
+"valid single digits"
+],
+"explanation":"The sum forms 9 + z. Both 0 and 9 yield sums that are divisible by 9, providing two distinct valid digit solutions.",
+"page_number":"132"
+},
+{
+"id":56,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":80
+},
+"question":"When divided by 7, the number 661 leaves a remainder of 3, and 4779 leaves a remainder of 5. Without calculating, what remainder does 4779 + 661 leave when divided by 7?",
+"answer":"We can represent the numbers algebraically: 4779 = 7p + 5 and 661 = 7q + 3. Adding them gives (7p + 5) + (7q + 3) = 7p + 7q + 8. We can rewrite 8 as 7 + 1. So, 7p + 7q + 7 + 1 = 7(p + q + 1) + 1. The remainder left when the sum is divided by 7 is 1.",
+"keywords":[
+"algebraically",
+"7p + 5",
+"7q + 3",
+"7p + 7q + 8",
+"7 + 1",
+"remainder is 1"
+],
+"explanation":"The sum of remainders (5+3=8) forms a new multiple of 7 with a remainder of 1 (8-7=1).",
+"page_number":"123"
+},
+{
+"id":57,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":75
+},
+"question":"Sreelatha says, \"I have a number that is divisible by 9. If I reverse its digits, it will still be divisible by 9.\" Is this conjecture true? Justify.",
+"answer":"Yes, the conjecture is true for any multiple of 9. A number is divisible by 9 if the sum of its digits is a multiple of 9. Reversing or shuffling the order of the digits does not change the sum of the digits. Therefore, the new number formed will always retain the same sum and remain divisible by 9.",
+"keywords":[
+"conjecture is true",
+"sum of digits",
+"multiple of 9",
+"reversing",
+"does not change",
+"remain divisible"
+],
+"explanation":"Addition is commutative. Changing the order of digits doesn't change their sum, so divisibility rules relying on digit sums remain valid.",
+"page_number":"132"
+},
+{
+"id":58,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"The middle number in a sequence of 5 consecutive even numbers is 5p. Express the other four numbers in the sequence in terms of p.",
+"answer":"Since the numbers are consecutive even numbers, they differ by 2. If the middle number is 5p, the two numbers before it are (5p - 2) and (5p - 4). The two numbers after it are (5p + 2) and (5p + 4). So the sequence is 5p - 4, 5p - 2, 5p, 5p + 2, 5p + 4.",
+"keywords":[
+"consecutive even numbers",
+"differ by 2",
+"5p - 2",
+"5p - 4",
+"5p + 2",
+"5p + 4"
+],
+"explanation":"Consecutive even numbers are separated by a step of 2. Applying this sequentially forward and backward solves the problem.",
+"page_number":"133"
+},
+{
+"id":59,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Classify the statement: \"The sum of a multiple of 5 and a multiple of 10 is always a multiple of 5.\" Justify your answer.",
+"answer":"This statement is always true. Let the multiple of 5 be 5a and the multiple of 10 be 10b. Their sum is 5a + 10b. We can factor out 5 to get 5(a + 2b). Since 5 is a factor of the resulting expression, the sum is always a multiple of 5.",
+"keywords":[
+"always true",
+"5a",
+"10b",
+"5a + 10b",
+"factor out 5",
+"5(a + 2b)",
+"multiple of 5"
+],
+"explanation":"Both 5 and 10 share a factor of 5. Factoring algebraically proves the overall sum is divisible by 5.",
+"page_number":"119"
+},
+{
+"id":60,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Explain algebraically why any number of the form 4m + 2n will always evaluate to an even number for any integer values of m and n.",
+"answer":"The expression 4m + 2n can be factored by extracting the common factor of 2. It becomes 2(2m + n). Because 2 is a multiplier of the entire bracketed expression, the result will always have a factor of 2. By definition, any integer multiplied by 2 is an even number.",
+"keywords":[
+"4m + 2n",
+"factored",
+"common factor of 2",
+"2(2m + n)",
+"multiplier",
+"even number"
+],
+"explanation":"Factoring reveals hidden multiples. A factor of 2 means the number complies with the rule for even parity.",
+"page_number":"116"
+},
+{
+"id":61,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"Determine the digital root of 10 more than an 8-digit number whose digital root is 5.",
+"answer":"The digital root of a number behaves like remainder addition. The digital root of 10 is 1+0 = 1. If the original number has a digital root of 5, adding 10 to the number adds 1 to its digital root. Thus, the new digital root will be 5 + 1 = 6.",
+"keywords":[
+"digital root",
+"remainder addition",
+"digital root of 10",
+"5 + 1 = 6"
+],
+"explanation":"Adding numbers causes their digital roots to add together. 10 adds 1 to the digital root sequence.",
+"page_number":"131"
+},
+{
+"id":62,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":80
+},
+"question":"What is the digital root of the number 9a + 36b + 13? Show your steps.",
+"answer":"First, rewrite the expression by grouping multiples of 9: 9a + 36b + 9 + 4. Factoring out 9 gives 9(a + 4b + 1) + 4. The part 9(a + 4b + 1) is a multiple of 9, which always has a digital root of 9. Adding 4 shifts the digital root by 4. So, 9 + 4 = 13. Summing digits again: 1 + 3 = 4. The digital root is 4.",
+"keywords":[
+"grouping multiples of 9",
+"9(a + 4b + 1) + 4",
+"multiple of 9",
+"digital root of 9",
+"shifts by 4",
+"13",
+"digital root is 4"
+],
+"explanation":"By isolating multiples of 9, we isolate the base digital root 9, then just add the remainder to find the final root.",
+"page_number":"131"
+},
+{
+"id":63,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":80
+},
+"question":"Is the product of three consecutive integers always a multiple of 6? Why or why not?",
+"answer":"Yes, the product of three consecutive integers is always a multiple of 6. In any set of three consecutive integers, there is at least one even number (multiple of 2) and exactly one multiple of 3. Since the product contains both 2 and 3 as factors, it must be divisible by their product, which is 6.",
+"keywords":[
+"Yes",
+"three consecutive integers",
+"multiple of 6",
+"even number",
+"multiple of 2",
+"multiple of 3",
+"divisible by their product"
+],
+"explanation":"The inherent structure of number sequences guarantees factors of 2 and 3 in any three consecutive steps.",
+"page_number":"133"
+},
+{
+"id":64,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"Write a 6-digit number that is divisible by 15, such that when the digits are reversed, it is divisible by 6. Show how you arrived at this.",
+"answer":"Divisible by 15 means it ends in 0 or 5. Let the number be 'abcdef'. If it ends in 0, the reversed number '0edcba' isn't a 6-digit number. So 'f' must be 5. Divisible by 6 when reversed means it must be even and divisible by 3. So 'a' must be even (e.g., 2). Sum of digits must be a multiple of 3. Example: 200025. Reversed is 520002. Sum is 9. It is divisible by 2 and 3. Thus, 200025 works.",
+"keywords":[
+"divisible by 15",
+"ends in 0 or 5",
+"reversed number",
+"f must be 5",
+"divisible by 6",
+"even",
+"divisible by 3",
+"200025"
+],
+"explanation":"Multiple divisibility rules act as constraints. By logically satisfying one rule after another, we can construct the desired number.",
+"page_number":"133"
+},
+{
+"id":65,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":150
+},
+"question":"Explain in detail why all eight expressions formed by taking four consecutive numbers and placing '+' and '-' signs between them in all possible ways will always yield an even number (have even parity). Use algebraic representation.",
+"answer":"Let the four consecutive numbers be represented as a, b, c, and d. According to parity rules, switching a plus sign to a minus sign (or vice versa) changes the total value of an expression by an even number. For instance, changing a + b + c + d to a - b + c + d changes the sum by a difference of exactly 2b. Since 2b is inherently an even number, adding or subtracting it does not alter the parity of the expression. Therefore, since a + b + c + d and a - b + c + d share the same parity, this logic extends to all 8 possible combinations of plus and minus signs (a ± b ± c ± d). Because the sum of two evens and two odds is even, all 8 combinations remain invariably even.",
+"keywords":[
+"four consecutive numbers",
+"parity rules",
+"switching a plus sign",
+"minus sign",
+"changes the total value",
+"even number",
+"difference of 2b",
+"does not alter the parity",
+"8 possible combinations",
+"invariably even"
+],
+"explanation":"Algebra allows us to prove that alternating signs only shifts the value by multiples of 2, thus preserving the parity state unconditionally.",
+"page_number":"112"
+},
+{
+"id":66,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":140
+},
+"question":"A warehouse stores items such as 1200 fruits, 940 vegetables, 600 dairy products, 740 frozen foods, 500 meat/fish, and 300 medicines. Can all items be packed into three equal packets? Can they be packed into four equal packets? Give reasons for your answers.",
+"answer":"First, find the total number of items: 1200 + 940 + 600 + 740 + 500 + 300 = 4280. To check if they can be packed into three equal packets, we test divisibility by 3. Sum of digits: 4 + 2 + 8 + 0 = 14. Since 14 is not divisible by 3, they cannot be packed into three equal packets. \nTo check if they can be packed into four equal packets, we test divisibility by 4. The last two digits are 80. Since 80 is perfectly divisible by 4, the number 4280 is divisible by 4. Therefore, yes, they can be packed into four equal packets.",
+"keywords":[
+"total number of items",
+"4280",
+"divisibility by 3",
+"sum of digits",
+"14",
+"not divisible by 3",
+"divisibility by 4",
+"last two digits",
+"80",
+"divisible by 4",
+"four equal packets"
+],
+"explanation":"Summing the inventory gives the total quantity. Applying divisibility rules for 3 and 4 determines if equal grouping is mathematically possible.",
+"page_number":"1"
+},
+{
+"id":67,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":150
+},
+"question":"A supermarket uses the digital root method to verify barcodes. The product codes are: Milk – 5684343255, Eggs – 2718321345, Bread – 8451324144, Ghee – 7236233312. Find the digital root of each product code and state which ones are valid (digital root = 9).",
+"answer":"To find the digital root, repeatedly add the digits.\nMilk (5684343255): 5+6+8+4+3+4+3+2+5+5 = 45. Then 4+5 = 9. Digital root = 9.\nEggs (2718321345): 2+7+1+8+3+2+1+3+4+5 = 36. Then 3+6 = 9. Digital root = 9.\nBread (8451324144): 8+4+5+1+3+2+4+1+4+4 = 36. Then 3+6 = 9. Digital root = 9.\nGhee (7236233312): 7+2+3+6+2+3+3+3+1+2 = 32. Then 3+2 = 5. Digital root = 5.\nAccording to the verification rule, Milk, Eggs, and Bread are valid product codes. Ghee is invalid.",
+"keywords":[
+"digital root",
+"repeatedly add the digits",
+"Milk 45 9",
+"Eggs 36 9",
+"Bread 36 9",
+"Ghee 32 5",
+"valid product codes",
+"invalid"
+],
+"explanation":"By repeatedly summing digits, we find the digital roots. The case study indicates valid items must have a root of 9.",
+"page_number":"2"
+},
+{
+"id":68,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":140
+},
+"question":"Using the digital root verification system (valid code = digital root 9), if the first digit of the barcode of ghee (7236233312) was entered incorrectly, what could be the correct digit? Write a valid product code for a newly added item.",
+"answer":"The current sum of digits for Ghee (7236233312) is 32, giving a digital root of 5. For the code to be valid, the digital root must be 9. This means the sum of digits needs to increase by 4 (to reach 36, so 3+6=9). If the first digit '7' is incorrect, increasing it by 4 gives 7 + 4 = 11, which isn't a single digit. Since we need to reach a multiple of 9, we could decrease the sum to 27 (decrease by 5). If we subtract 5 from the first digit 7, we get 2. So the correct first digit could be 2.\nA new valid product code can be any sequence where digits sum to a multiple of 9, e.g., 111111111 (sum is 9).",
+"keywords":[
+"sum of digits",
+"32",
+"digital root 5",
+"must be 9",
+"decrease by 5",
+"subtract 5 from 7",
+"first digit 2",
+"new valid product code",
+"111111111"
+],
+"explanation":"Manipulating a single digit to force the total sum to align with a multiple of 9 corrects the barcode error.",
+"page_number":"2"
+},
+{
+"id":69,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":140
+},
+"question":"Mayank labels the prices of items using cryptarithms. The price of a doll + 1 = C00. The cost of two dolls is DD98. Decode the letters C and D and find the exact cost of the doll.",
+"answer":"Let the price of the doll be 'd'. We are given: d + 1 = C00, meaning 'd' must end in 99 (e.g., 99, 199, 299). We are also given 2*d = DD98. Let's test values for C.\nIf C=1, d = 099 = 99. 2*d = 198 (Doesn't match DD98 format).\nIf C=2, d = 199. 2*d = 398 (No match).\nIf C=3, d = 299. 2*d = 598 (No match).\nIf C=4, d = 399. 2*d = 798 (No match).\nIf C=5, d = 499. 2*d = 998. This perfectly matches the format DD98, where D = 9.\nThus, C = 5, D = 9, and the exact cost of the doll is 499.",
+"keywords":[
+"price of the doll",
+"d + 1 = C00",
+"end in 99",
+"2*d = DD98",
+"C=5",
+"d = 499",
+"2*d = 998",
+"D = 9"
+],
+"explanation":"Using algebraic equations to set constraints allows us to test possibilities systematically until all cryptarithm rules are satisfied.",
+"page_number":"23"
+},
+{
+"id":70,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":150
+},
+"question":"Solve the cryptarithm: X X multiplied by Y 6 gives 3 5 Y 2. Detail the logical steps taken to deduce the values of X and Y.",
+"answer":"We have the equation XX * Y6 = 35Y2. First, look at the units digit. X multiplied by 6 ends in 2. Therefore, X can be either 2 (2*6=12) or 7 (7*6=42). \nCase 1: Let X = 2. The equation is 22 * Y6 = 35Y2. The maximum value for Y is 9, and 22 * 96 = 2112, which is way smaller than 3500. So X cannot be 2.\nCase 2: Let X = 7. The equation is 77 * Y6 = 35Y2. We can estimate Y by dividing 3500 / 77, which is roughly 45. Let's test Y = 4. \n77 * 46 = 3542. This perfectly matches the format 35Y2 where Y = 4.\nTherefore, X = 7 and Y = 4.",
+"keywords":[
+"cryptarithm",
+"units digit",
+"X * 6 ends in 2",
+"X can be 2 or 7",
+"22 * 96 = 2112",
+"X = 7",
+"77 * Y6 = 35Y2",
+"Y = 4",
+"77 * 46 = 3542"
+],
+"explanation":"By evaluating constraints on the units digit, we limit the possibilities of X, then estimate magnitude to quickly identify Y.",
+"page_number":"133"
+},
+{
+"id":71,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":140
+},
+"question":"Snehal claims, \"I take a number that leaves a remainder of 8 when divided by 12. I take another number which is 4 short of a multiple of 12. Their sum will always be a multiple of 8.\" Formulate algebraic expressions, examine his claim, and justify your conclusion.",
+"answer":"Let the first number be a = 12n + 8. Let the second number be b = 12m - 4. \nAdding them together gives: a + b = (12n + 8) + (12m - 4) = 12n + 12m + 4. \nWe can factor out 4 to get: a + b = 4(3n + 3m + 1) = 12k + 4. \nFor the sum to be a multiple of 8, it must be divisible by 8. However, 12k + 4 is not always a multiple of 8. For example, if k = 1, the sum is 12(1) + 4 = 16 (multiple of 8). But if k = 2, the sum is 12(2) + 4 = 28 (not a multiple of 8). \nThus, Snehal's claim is false.",
+"keywords":[
+"algebraic expressions",
+"12n + 8",
+"12m - 4",
+"12n + 12m + 4",
+"12k + 4",
+"multiple of 8",
+"not always",
+"k = 2",
+"claim is false"
+],
+"explanation":"Translating word statements into algebra proves that the result is 4 more than a multiple of 12, which only sometimes aligns with multiples of 8.",
+"page_number":"132"
+},
+{
+"id":72,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":140
+},
+"question":"Find a number that leaves a remainder of 2 when divided by 3, a remainder of 3 when divided by 4, and a remainder of 4 when divided by 5. What is the smallest such number, and explain why it is the smallest?",
+"answer":"Notice the pattern in the remainders: \n3 - 2 = 1\n4 - 3 = 1\n5 - 4 = 1.\nIn each case, the remainder is exactly 1 less than the divisor. This means the required number is exactly 1 less than a common multiple of the divisors 3, 4, and 5. \nTo find the smallest such number, we calculate the Least Common Multiple (LCM) of 3, 4, and 5. \nThe LCM of 3, 4, and 5 is 3 * 4 * 5 = 60. \nSubtracting 1 from the LCM gives 60 - 1 = 59. \nTherefore, 59 is the smallest number because 60 is the smallest common multiple of the divisors, and subtracting 1 satisfies all the remainder conditions.",
+"keywords":[
+"pattern in the remainders",
+"1 less than the divisor",
+"common multiple",
+"Least Common Multiple",
+"LCM",
+"3 * 4 * 5 = 60",
+"subtracting 1",
+"59",
+"smallest number"
+],
+"explanation":"When remainders exhibit a consistent negative offset from their divisors, finding the LCM and applying that offset yields the solution.",
+"page_number":"123"
+},
+{
+"id":73,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":150
+},
+"question":"If 48a23b is a multiple of 18, list all possible pairs of values for the digits 'a' and 'b'. Explain the divisibility rules applied.",
+"answer":"A number is a multiple of 18 if it is divisible by both 2 and 9. \nFor divisibility by 2, the units digit 'b' must be an even number. So, b can be 0, 2, 4, 6, or 8.\nFor divisibility by 9, the sum of all digits must be a multiple of 9. \nSum = 4 + 8 + a + 2 + 3 + b = 17 + a + b.\nNow test each value of b:\nIf b = 0, sum = 17 + a. For this to be a multiple of 9 (which is 18 or 27), a must be 1. Pair: (1,0)\nIf b = 2, sum = 19 + a. To reach 27, a = 8. Pair: (8,2)\nIf b = 4, sum = 21 + a. To reach 27, a = 6. Pair: (6,4)\nIf b = 6, sum = 23 + a. To reach 27, a = 4. Pair: (4,6)\nIf b = 8, sum = 25 + a. To reach 27, a = 2. Pair: (2,8).\nThe pairs are (1,0), (8,2), (6,4), (4,6), and (2,8).",
+"keywords":[
+"multiple of 18",
+"divisible by 2 and 9",
+"even number",
+"b = 0, 2, 4, 6, 8",
+"sum of digits",
+"17 + a + b",
+"multiple of 9",
+"possible pairs",
+"(1,0), (8,2), (6,4), (4,6), (2,8)"
+],
+"explanation":"Breaking composite divisors into co-prime rules (2 and 9) allows for step-by-step constraint elimination.",
+"page_number":"132"
+},
+{
+"id":74,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":150
+},
+"question":"If the number 3p7q8 is divisible by 44, list all possible pairs of values for the digits 'p' and 'q'.",
+"answer":"A number is divisible by 44 if it is divisible by both 4 and 11. \nFor divisibility by 4, the last two digits 'q8' must be divisible by 4. So q can be 0, 2, 4, 6, or 8. \nFor divisibility by 11, the difference between the sum of odd-placed digits and even-placed digits must be 0 or a multiple of 11.\nOdd places: 3 + 7 + 8 = 18.\nEven places: p + q.\nDifference: 18 - (p + q) = 0 or 11.\nIf 18 - (p + q) = 0, then p + q = 18. Since p and q are single digits, the only solution is p=9, q=9. But q must be even, so this is impossible.\nIf 18 - (p + q) = 11, then p + q = 7.\nTest valid q values: \nIf q=0, p=7. \nIf q=2, p=5. \nIf q=4, p=3. \nIf q=6, p=1. \nIf q=8, p=-1 (not a digit).\nThe possible pairs for (p,q) are (7,0), (5,2), (3,4), and (1,6).",
+"keywords":[
+"divisible by 44",
+"divisible by 4 and 11",
+"last two digits",
+"q8",
+"q = 0, 2, 4, 6, 8",
+"odd places",
+"even places",
+"difference",
+"p + q = 7",
+"(7,0), (5,2), (3,4), (1,6)"
+],
+"explanation":"Co-prime factoring of 44 into 4 and 11 helps test trailing digits first, mapping valid constraints onto the alternating digit sum rule.",
+"page_number":"133"
+},
+{
+"id":75,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":90,
+"max":150
+},
+"question":"Solve the cryptarithm WOW * 5 = MEOW. Explain the logical reasoning and constraints used to find the values of W, O, M, and E.",
+"answer":"We have WOW * 5 = MEOW. \nFirst, looking at the units digit, W * 5 ends in W. The only digits that multiply by 5 and end in themselves are 0 and 5. Since W is the leading digit of WOW, W cannot be 0. Thus, W = 5.\nThe equation becomes 5O5 * 5 = MEO5. \nLet's test possible values for O (0 to 9).\nIf O = 0, 505 * 5 = 2525. Here M=2, E=5. But W is already 5, so E cannot be 5.\nIf O = 1, 515 * 5 = 2575. Here E=5 (clashes with W=5).\nIf O = 2, 525 * 5 = 2625. Here O=2, but the product has 2 in the tens place. This works so far. M=2, E=6, O=2. But wait, O is 2 and M is 2! Clashes.\nIf O = 7, 575 * 5 = 2875. Here M=2, E=8, O=7, W=5. All digits are unique! \nThus, W=5, O=7, M=2, E=8.",
+"keywords":[
+"cryptarithm",
+"units digit",
+"W * 5 ends in W",
+"W = 5",
+"5O5 * 5",
+"unique digits",
+"O = 7",
+"575 * 5 = 2875",
+"M=2, E=8, O=7, W=5"
+],
+"explanation":"Using single-digit multiplication properties (multiples of 5 end in 0 or 5) severely limits variables, allowing for rapid substitution testing.",
+"page_number":"133"
+},
+{
+"id":76,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":140
+},
+"question":"During a school charity drive, students collected 26,390 books for donation, to be shared equally among three charity organisations. Without actually dividing, Arjun remarked, \"If we add one more book, the books can be divided equally.\" Explain how Arjun arrived at this conclusion using divisibility rules. What value do the students show?",
+"answer":"Arjun used the divisibility rule for 3 to arrive at this conclusion. A number is divisible by 3 if the sum of its digits is a multiple of 3. \nThe sum of digits of 26,390 is 2 + 6 + 3 + 9 + 0 = 20. \nThe number 20 is not divisible by 3. The nearest multiple of 3 greater than 20 is 21. \nSince 21 is exactly 1 more than 20, adding 1 to the sum of digits implies adding 1 to the total number of books. \nSo, 26,390 + 1 = 26,391, whose digit sum is 21. Therefore, 26,391 is perfectly divisible by 3. \nThe students display values of generosity, mathematical awareness, and a desire for fair distribution.",
+"keywords":[
+"divisibility rule for 3",
+"sum of its digits",
+"20",
+"nearest multiple of 3",
+"21",
+"adding 1",
+"26,391",
+"fair distribution",
+"generosity"
+],
+"explanation":"Divisibility tests can be used in practical scenarios to compute remainders and deficits for equitable sharing.",
+"page_number":"135"
+},
+{
+"id":77,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":140
+},
+"question":"Explain how the process of repeatedly adding the digits of a number until a single digit is obtained works for finding the remainder when dividing by 9, and why this method does not work for division by 6.",
+"answer":"Repeatedly adding the digits of a number calculates its digital root. This works for 9 because of our base-10 number system. Every power of 10 (10, 100, 1000) leaves a remainder of 1 when divided by 9 (e.g., 10 = 9+1). Thus, a number in expanded form, like 400 + 20 + 7, leaves a remainder equal to the sum of its digits (4+2+7). Continually summing these digits yields the exact remainder modulo 9. \nThis method does not work for division by 6 because powers of 10 do not leave a consistent remainder of 1 when divided by 6. For example, 10 / 6 leaves a remainder of 4, 100 / 6 leaves a remainder of 4. Since the remainders aren't 1, you cannot simply add the place value digits.",
+"keywords":[
+"digital root",
+"base-10",
+"power of 10",
+"remainder of 1",
+"divided by 9",
+"sum of its digits",
+"division by 6",
+"remainder of 4",
+"not consistent"
+],
+"explanation":"The trick for 9 relies entirely on the fact that 10-1 = 9. Other bases or divisors don't share this remainder property.",
+"page_number":"120"
+},
+{
+"id":78,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":140
+},
+"question":"Examine the digital roots of multiples of 6 and identify any repeating pattern. If 21 multiples of 6 lie between two numbers, determine how many of them are also divisible by 9.",
+"answer":"Let's find the digital roots of the first few multiples of 6: 6, 12, 18, 24, 30, 36, 42, 48, 54. \nSumming their digits gives the sequence: 6, 3, 9, 6, 3, 9, 6, 3, 9. \nThe digital roots of multiples of 6 follow a repeating pattern of 6, 3, 9. \nA number is divisible by 9 if its digital root is 9. In the repeating cycle of 6, 3, 9, exactly one out of every three multiples of 6 has a digital root of 9. \nIf there are 21 multiples of 6 between two numbers, we divide 21 by the cycle length of 3. \n21 / 3 = 7. \nTherefore, exactly 7 of those multiples of 6 will also be divisible by 9.",
+"keywords":[
+"digital roots",
+"multiples of 6",
+"repeating pattern",
+"6, 3, 9",
+"divisible by 9",
+"digital root is 9",
+"one out of every three",
+"21 / 3 = 7"
+],
+"explanation":"Digital roots of multiples repeat in cycles. Analyzing the cycle length helps predict frequency of divisibility constraints over large intervals.",
+"page_number":"133"
+},
+{
+"id":79,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":140
+},
+"question":"Let a number have a digital root of 8. Determine the digital root of: a) the number + 9, and b) the number + 18. Explain your reasoning using the properties of digital roots.",
+"answer":"a) The digital root of the number + 9 is 8. \nb) The digital root of the number + 18 is 8. \nReasoning: The digital root of a number represents its remainder when divided by 9. Adding 9 to a number is essentially adding a multiple of 9. This does not change the remainder obtained when the new number is divided by 9. Because 9 has a digital root of 9 (which acts like 0 in digital root addition), adding 9 or any multiple of 9 (like 18) to a number will never change its digital root. Thus, the digital root remains 8 in both scenarios.",
+"keywords":[
+"digital root",
+"number + 9",
+"8",
+"number + 18",
+"remainder when divided by 9",
+"multiple of 9",
+"never change its digital root"
+],
+"explanation":"Adding multiples of 9 is equivalent to adding 0 in terms of mod 9 arithmetic. It cycles completely back to the original remainder.",
+"page_number":"134"
+},
+{
+"id":80,
+"subject":"Mathematics",
+"chapter":"Number Play-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":5,
+"expected_word_count":{
+"min":80,
+"max":140
+},
+"question":"Justify the statement \"If A is divisible by k, then all multiples of A are divisible by k\" using an algebraic explanation and a visual rows-based reasoning example (like 12 and its multiples).",
+"answer":"Algebraic Explanation: If A is divisible by k, then A = c * k for some integer c. Any multiple of A can be written as m * A. Substituting A gives m * (c * k) = (m * c) * k. Since (m * c) is an integer, the multiple is clearly divisible by k.\nVisual Explanation: Think of arranging items in rows of length k. If A is divisible by k, it means A items perfectly form full rows of length k with no remainders (e.g., 12 items form exactly 3 rows of 4). Any multiple of A means taking multiple sets of A. Since each set of A already forms perfect rows of k, combining them will just create more perfect rows of length k. Thus, the total is always divisible by k.",
+"keywords":[
+"divisible by k",
+"A = c * k",
+"m * A",
+"(m * c) * k",
+"integer",
+"rows of length k",
+"full rows",
+"no remainders",
+"perfect rows"
+],
+"explanation":"Proof techniques utilize both symbolic algebra (factor substitution) and geometric visual aids (rectangular arrays/rows) to confirm mathematical truths.",
+"page_number":"120"
+}
+]
