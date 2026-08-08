@@ -1,0 +1,1793 @@
+[
+  {
+    "id": 1,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What are the smallest units that make up a substance called?",
+    "answer": "The smallest particles that make up a substance are called its constituent particles.",
+    "keywords": [
+      "constituent particles",
+      "smallest particles",
+      "substance"
+    ],
+    "explanation": "The text defines constituent particles as the basic units that make up larger pieces of matter. This is introduced in the section about breaking chalk on page 100 of the Curiosity textbook.",
+    "page_number": "100"
+  },
+  {
+    "id": 2,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "Define interparticle spaces.",
+    "answer": "Interparticle spaces are the empty spaces available between the particles that make up matter.",
+    "keywords": [
+      "empty spaces",
+      "between particles",
+      "available spaces"
+    ],
+    "explanation": "Interparticle spaces are the gaps between constituent particles, as explained during the sugar dissolution activity on page 101 of the Curiosity textbook.",
+    "page_number": "101"
+  },
+  {
+    "id": 3,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "What is the force that holds the particles of matter together called?",
+    "answer": "The forces that are attractive in nature and hold constituent particles together are called interparticle attractions.",
+    "keywords": [
+      "attractive forces",
+      "hold particles",
+      "interparticle attractions"
+    ],
+    "explanation": "Interparticle attraction is the binding force between particles that determines the state of matter, discussed on page 101 of the Curiosity textbook.",
+    "page_number": "101"
+  },
+  {
+    "id": 4,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Who was the ancient Indian philosopher to first propose the idea of 'Parmanu'?",
+    "answer": "Acharya Kanad was the ancient Indian philosopher who first spoke about the idea of a Parmanu (atom).",
+    "keywords": [
+      "Acharya Kanad",
+      "Parmanu",
+      "atom"
+    ],
+    "explanation": "Acharya Kanad proposed that matter is made of tiny, indivisible eternal particles called Parmanu in his work Vaisheshika Sutras (Curiosity textbook, page 101).",
+    "page_number": "101"
+  },
+  {
+    "id": 5,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What happens to the movement of particles when they are heated?",
+    "answer": "When particles are heated, they gain thermal energy and begin to move or vibrate more vigorously and faster.",
+    "keywords": [
+      "vibrate",
+      "vigorously",
+      "faster",
+      "thermal energy"
+    ],
+    "explanation": "Heating increases the kinetic/thermal energy of particles, causing increased movement. This concept is found on page 102 of the Curiosity textbook.",
+    "page_number": "102"
+  },
+  {
+    "id": 6,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "Define the term 'Melting Point'.",
+    "answer": "The minimum temperature at which a solid melts to become a liquid at atmospheric pressure is called its melting point.",
+    "keywords": [
+      "minimum temperature",
+      "solid melts",
+      "liquid",
+      "atmospheric pressure"
+    ],
+    "explanation": "Melting point is the temperature threshold for the phase change from solid to liquid, as defined on page 103 of the Curiosity textbook.",
+    "page_number": "103"
+  },
+  {
+    "id": 7,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "Define the term 'Boiling Point'.",
+    "answer": "The temperature at which a liquid boils and turns into vapour at atmospheric pressure is called its boiling point.",
+    "keywords": [
+      "temperature",
+      "liquid boils",
+      "vapour",
+      "atmospheric pressure"
+    ],
+    "explanation": "Boiling point is the temperature at which a liquid undergoes a rapid phase change to gas, as defined on page 105 of the Curiosity textbook.",
+    "page_number": "105"
+  },
+  {
+    "id": 8,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What is diffusion?",
+    "answer": "Diffusion is the spreading and mixing of particles of a substance on their own due to their continuous motion.",
+    "keywords": [
+      "spreading",
+      "mixing",
+      "own",
+      "continuous motion"
+    ],
+    "explanation": "Diffusion is the spontaneous mixing of particles, demonstrated by the potassium permanganate and incense stick activities (Learning Resource Key, page 2).",
+    "page_number": "2"
+  },
+  {
+    "id": 9,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Why are liquids and gases together called fluids?",
+    "answer": "Liquids and gases can both flow and do not retain a fixed shape, so they are classified as fluids.",
+    "keywords": [
+      "can flow",
+      "no fixed shape",
+      "fluids"
+    ],
+    "explanation": "The ability to flow distinguishes fluids from solids. This classification is mentioned on page 106 of the Curiosity textbook.",
+    "page_number": "106"
+  },
+  {
+    "id": 10,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What is 'Suspended Particulate Matter' (SPM)?",
+    "answer": "SPM refers to tiny dust particles suspended in the air, which are visible to the eye, unlike constituent particles.",
+    "keywords": [
+      "dust particles",
+      "suspended",
+      "visible",
+      "air"
+    ],
+    "explanation": "The term 'particle' has different meanings in different contexts; in air pollution, SPM refers to visible dust (Curiosity textbook, page 109).",
+    "page_number": "109"
+  },
+  {
+    "id": 11,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "In which state of matter is interparticle attraction maximum?",
+    "answer": "Interparticle attraction is maximum in the solid state because the particles are very closely packed.",
+    "keywords": [
+      "maximum",
+      "solid",
+      "closely packed"
+    ],
+    "explanation": "Strong attractive forces in solids keep particles in fixed positions (Learning Resource Key, page 1).",
+    "page_number": "1"
+  },
+  {
+    "id": 12,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "In which state of matter is interparticle spacing maximum?",
+    "answer": "Interparticle spacing is maximum in the gaseous state because gas particles are very far apart.",
+    "keywords": [
+      "maximum spacing",
+      "gaseous state",
+      "far apart"
+    ],
+    "explanation": "Large distances between gas particles result in maximum interparticle space (Learning Resource Key, page 4).",
+    "page_number": "4"
+  },
+  {
+    "id": 13,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Give one example of diffusion occurring in liquids.",
+    "answer": "The spreading of a drop of ink or the purple color from potassium permanganate crystals in water are examples of diffusion in liquids.",
+    "keywords": [
+      "ink",
+      "potassium permanganate",
+      "water",
+      "liquid"
+    ],
+    "explanation": "Activities involving substances mixing in water demonstrate liquid diffusion (Case Study Worksheet, page 1).",
+    "page_number": "1"
+  },
+  {
+    "id": 14,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Give one example of diffusion occurring in gases.",
+    "answer": "The smell of food from the kitchen spreading throughout a house or the fragrance of an incense stick in a room are examples of gas diffusion.",
+    "keywords": [
+      "smell of food",
+      "incense stick",
+      "gas",
+      "air"
+    ],
+    "explanation": "Fragrances traveling through air demonstrate the movement of gas particles (Curiosity textbook, page 111).",
+    "page_number": "111"
+  },
+  {
+    "id": 15,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What is the smallest unit of chalk that still retains its properties?",
+    "answer": "Each tiny grain of chalk obtained after grinding is still a speck of chalk, and its constituent particles are the smallest units that retain its properties.",
+    "keywords": [
+      "constituent particles",
+      "grain",
+      "chalk properties"
+    ],
+    "explanation": "Grinding chalk is a physical change where each tiny unit remains chalk (Curiosity textbook, page 99).",
+    "page_number": "99"
+  },
+  {
+    "id": 16,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Which state of matter is highly compressible?",
+    "answer": "The gaseous state of matter is highly compressible.",
+    "keywords": [
+      "gaseous state",
+      "highly compressible"
+    ],
+    "explanation": "Gases can be compressed because of the large empty spaces between their particles (Learning Resource Key, page 2).",
+    "page_number": "2"
+  },
+  {
+    "id": 17,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why does a stick of chalk remain the same substance even after being ground into a fine powder?",
+    "answer": "Grinding chalk is a physical change. While the size and shape of the chalk change, its chemical composition remains the same because the powder still consists of the same constituent particles of chalk.",
+    "keywords": [
+      "physical change",
+      "chemical composition",
+      "constituent particles",
+      "same substance"
+    ],
+    "explanation": "The identity of matter depends on its particles. Changing size through grinding doesn't change the particles themselves (Curiosity textbook, page 99).",
+    "page_number": "99"
+  },
+  {
+    "id": 18,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Explain why sugar disappears when it is dissolved in water.",
+    "answer": "When sugar dissolves, it breaks down into millions of tiny constituent particles. These particles occupy the available interparticle spaces between the water particles, making them invisible to the naked eye.",
+    "keywords": [
+      "breaks down",
+      "occupy",
+      "interparticle spaces",
+      "invisible"
+    ],
+    "explanation": "Dissolution involves particles of the solute fitting into gaps between particles of the solvent (Curiosity textbook, page 101).",
+    "page_number": "101"
+  },
+  {
+    "id": 19,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "In the experiment of adding sugar to water, why does the water level decrease slightly after stirring?",
+    "answer": "Initially, the water level rises when sugar is added as it occupies space. After stirring, the sugar particles break down and fit into the interparticle spaces of the water, making the final volume less than the sum of separate volumes.",
+    "keywords": [
+      "occupies space",
+      "break down",
+      "fit into",
+      "interparticle spaces"
+    ],
+    "explanation": "Stirring facilitates the distribution of solute particles into the solvent's gaps, as explained in Activity 7.7 on page 108 of the Curiosity textbook.",
+    "page_number": "108"
+  },
+  {
+    "id": 20,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why do solids have a definite shape and volume?",
+    "answer": "In solids, constituent particles are tightly packed and held by very strong interparticle attractions. This prevents them from moving freely, keeping them in fixed positions which results in a definite shape and volume.",
+    "keywords": [
+      "tightly packed",
+      "strong attraction",
+      "fixed positions",
+      "definite shape"
+    ],
+    "explanation": "Particle arrangement and force strength dictate the physical properties of solids (Curiosity textbook, page 102).",
+    "page_number": "102"
+  },
+  {
+    "id": 21,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why do liquids take the shape of the container they are poured into?",
+    "answer": "Liquid particles have weaker interparticle attractions than solids, allowing them to move freely and slide past each other. Therefore, they flow and take the shape of whichever container they occupy.",
+    "keywords": [
+      "weaker attraction",
+      "move freely",
+      "slide past",
+      "flow"
+    ],
+    "explanation": "Liquids are fluids because their particles can move within a limited space (Curiosity textbook, page 104).",
+    "page_number": "104"
+  },
+  {
+    "id": 22,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "Differentiate between the melting process and the boiling process in terms of particle movement.",
+    "answer": "In melting, particles vibrate vigorously until they leave fixed positions and slide past each other. In boiling, movement becomes so vigorous that particles move far apart and escape into the gaseous state.",
+    "keywords": [
+      "vibrate",
+      "slide past",
+      "escape",
+      "gaseous state"
+    ],
+    "explanation": "Phase transitions occur when energy overrides interparticle forces. Melting is solid to liquid, boiling is liquid to gas (Curiosity textbook, page 102, 105).",
+    "page_number": "105"
+  },
+  {
+    "id": 23,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why does the smell of hot food reach us much faster than that of cold food?",
+    "answer": "Particles of matter move faster at higher temperatures due to increased kinetic energy. Therefore, the particles of the smell of hot food diffuse through the air more quickly than those from cold food.",
+    "keywords": [
+      "higher temperature",
+      "move faster",
+      "kinetic energy",
+      "diffuse"
+    ],
+    "explanation": "Temperature is directly related to particle speed and diffusion rate (Case Study Worksheet, page 1).",
+    "page_number": "1"
+  },
+  {
+    "id": 24,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "How does the syringe experiment prove that air is highly compressible while water is not?",
+    "answer": "In a syringe, the plunger moves inward easily when filled with air because gas particles have large interparticle spaces. When filled with water, the plunger hardly moves because liquid particles are closely packed with little space.",
+    "keywords": [
+      "plunger moves",
+      "large spaces",
+      "closely packed",
+      "little space"
+    ],
+    "explanation": "Activity 7.6 demonstrates that large interparticle spaces allow for significant volume reduction (Curiosity textbook, page 107).",
+    "page_number": "107"
+  },
+  {
+    "id": 25,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why is it impossible to move a finger through a solid wood block, but easy through water?",
+    "answer": "Solid particles have very strong interparticle attractions and are tightly packed in fixed positions. Liquid particles have weaker attractions and can be displaced or moved past each other as you push your finger through.",
+    "keywords": [
+      "strong attraction",
+      "fixed positions",
+      "weaker attraction",
+      "displaced"
+    ],
+    "explanation": "The ease of displacement depends on how strongly particles are held together (Curiosity textbook, page 105).",
+    "page_number": "105"
+  },
+  {
+    "id": 26,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "How does thermal energy influence the physical state of a substance?",
+    "answer": "Thermal energy determines the speed of particles. High thermal energy allows particles to move faster and overcome attractive forces, changing solids into liquids or liquids into gases. Low thermal energy keeps them close as solids.",
+    "keywords": [
+      "speed of particles",
+      "overcome forces",
+      "physical state",
+      "thermal energy"
+    ],
+    "explanation": "Phase of matter is a result of the balance between interparticle attraction and thermal energy (Learning Resource Key, page 1).",
+    "page_number": "1"
+  },
+  {
+    "id": 27,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why does spilled water on a floor disappear over time even without being boiled?",
+    "answer": "This happens due to evaporation. Energetic particles at the surface of the liquid escape into the air and turn into vapour even at temperatures below the boiling point.",
+    "keywords": [
+      "evaporation",
+      "surface",
+      "escape",
+      "vapour"
+    ],
+    "explanation": "Evaporation is a surface phenomenon that occurs at all temperatures (Curiosity textbook, page 105).",
+    "page_number": "105"
+  },
+  {
+    "id": 28,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Explain why gases occupy the entire available space of a container.",
+    "answer": "Gas particles have negligible interparticle attractions and move freely and rapidly in all directions. Consequently, they spread out to occupy every part of the container they are placed in.",
+    "keywords": [
+      "negligible attraction",
+      "move freely",
+      "all directions",
+      "spread out"
+    ],
+    "explanation": "High kinetic energy and low attraction allow gases to expand indefinitely (Curiosity textbook, page 106).",
+    "page_number": "106"
+  },
+  {
+    "id": 29,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why are sand and clay not considered the smallest units of rocks?",
+    "answer": "Sand and clay grains are still relatively large and can be further broken down into smaller constituent particles called minerals. These minerals themselves are made of chemical elements.",
+    "keywords": [
+      "further broken down",
+      "minerals",
+      "chemical elements",
+      "constituent particles"
+    ],
+    "explanation": "Geological units like sand are aggregates of smaller chemical units (Curiosity textbook, page 100).",
+    "page_number": "100"
+  },
+  {
+    "id": 30,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Describe the motion of constituent particles in a solid substance.",
+    "answer": "In a solid, particles cannot move from one place to another. They can only vibrate or oscillate to and fro about their fixed positions due to strong interparticle attractions.",
+    "keywords": [
+      "vibrate",
+      "oscillate",
+      "fixed positions",
+      "cannot move"
+    ],
+    "explanation": "Particle motion in solids is highly restricted (Curiosity textbook, page 102).",
+    "page_number": "102"
+  },
+  {
+    "id": 31,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "What happens to interparticle attraction when a solid reaches its melting point?",
+    "answer": "At the melting point, the particles gain enough energy to vibrate so vigorously that they leave their fixed positions. The interparticle forces of attraction weaken, allowing the solid to transition into a liquid.",
+    "keywords": [
+      "gain energy",
+      "vibrate vigorously",
+      "leave fixed positions",
+      "weaken"
+    ],
+    "explanation": "Thermal energy overcomes the lattice forces during melting (Curiosity textbook, page 102).",
+    "page_number": "102"
+  },
+  {
+    "id": 32,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why does salt dissolve easily in water but sand does not?",
+    "answer": "Salt dissolves because its particles can break apart and fit into the interparticle spaces of water. Sand particles are too large to fit and their constituent particles are held together too strongly for water to pull them apart.",
+    "keywords": [
+      "break apart",
+      "fit into spaces",
+      "too large",
+      "held strongly"
+    ],
+    "explanation": "Solubility depends on particle size and the ability to overcome internal forces (Curiosity textbook, page 110).",
+    "page_number": "110"
+  },
+  {
+    "id": 33,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "Explain why gases are much more compressible than solids or liquids.",
+    "answer": "Gases have maximum interparticle spacing with large empty gaps between particles. Solids and liquids have particles packed closely with very little space, making it impossible to push them much closer together.",
+    "keywords": [
+      "maximum spacing",
+      "empty gaps",
+      "closely packed",
+      "little space"
+    ],
+    "explanation": "Compressibility is directly related to existing interparticle space (Learning Resource Key, page 2).",
+    "page_number": "2"
+  },
+  {
+    "id": 34,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Compare interparticle spacing in liquids and gases.",
+    "answer": "Interparticle spacing in liquids is small, though slightly more than in solids. In gases, interparticle spacing is maximum as particles are very far apart from each other.",
+    "keywords": [
+      "small",
+      "maximum",
+      "far apart",
+      "liquids and gases"
+    ],
+    "explanation": "The distance between particles varies significantly between states (Curiosity textbook, page 112).",
+    "page_number": "112"
+  },
+  {
+    "id": 35,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "What role do soap particles play in cleaning oily stains from clothes?",
+    "answer": "One end of a soap particle attaches to the oil/grease, while the other end mixes with water. Numerous soap particles surround the oil and help lift it off the fabric and wash it away.",
+    "keywords": [
+      "attaches to oil",
+      "mixes with water",
+      "surround",
+      "lift off"
+    ],
+    "explanation": "Soap acts as a bridge between oil and water due to its particulate properties (Curiosity textbook, page 111).",
+    "page_number": "111"
+  },
+  {
+    "id": 36,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why do LPG cylinders carry warning labels like 'Highly Inflammable'?",
+    "answer": "LPG is a gas which can catch fire very easily. Because gas particles diffuse rapidly and spread out to fill any space, even a small leak can lead to a dangerous accident.",
+    "keywords": [
+      "catch fire",
+      "diffuse rapidly",
+      "spread out",
+      "small leak"
+    ],
+    "explanation": "The rapid diffusion of gases makes flammable substances particularly hazardous (Learning Resource Key, page 4).",
+    "page_number": "4"
+  },
+  {
+    "id": 37,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Is dissolving sugar in water a physical change or a chemical change? Give one reason.",
+    "answer": "It is a physical change because no new substance is formed. The sugar can be recovered back in its original form by evaporating the water.",
+    "keywords": [
+      "physical change",
+      "no new substance",
+      "recovered",
+      "evaporating"
+    ],
+    "explanation": "Changes that don't alter chemical identity and are reversible are physical (Learning Resource Key, page 1).",
+    "page_number": "1"
+  },
+  {
+    "id": 38,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why are constituent particles of matter not visible to the naked eye?",
+    "answer": "Constituent particles are extremely small. Each tiny grain (like a speck of chalk) contains millions and millions of such particles, which are even smaller than what an ordinary microscope can see.",
+    "keywords": [
+      "extremely small",
+      "millions",
+      "ordinary microscope",
+      "invisible"
+    ],
+    "explanation": "Matter is composed of particles on a sub-microscopic scale (Curiosity textbook, page 101).",
+    "page_number": "101"
+  },
+  {
+    "id": 39,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "What happens when a crystal of potassium permanganate is dropped into water?",
+    "answer": "Initially, streaks of pink colour spread from the grain. Over time, the water particles hit and pull out the permanganate particles, spreading them uniformly due to their constant motion until all water turns pink.",
+    "keywords": [
+      "streaks of pink",
+      "pull out",
+      "constant motion",
+      "uniformly"
+    ],
+    "explanation": "Water particles in motion facilitate the dissolution and diffusion of the crystal (Curiosity textbook, page 110).",
+    "page_number": "110"
+  },
+  {
+    "id": 40,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why does ocean water taste salty even though salt is not visible in it?",
+    "answer": "Salt dissolves in water by breaking into tiny constituent particles that occupy the interparticle spaces of water. These particles are too small to be seen but their presence is detected by taste.",
+    "keywords": [
+      "dissolves",
+      "constituent particles",
+      "interparticle spaces",
+      "taste"
+    ],
+    "explanation": "Solute visibility is lost during dissolution, but identity is maintained through properties like taste (Curiosity textbook, page 117).",
+    "page_number": "117"
+  },
+  {
+    "id": 41,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Describe the arrangement and movement of particles in the solid state.",
+    "answer": "In a solid, particles are very tightly packed in a fixed arrangement. The interparticle spaces are minimum and interparticle attractions are very strong. Consequently, particles cannot move from place to place; they only vibrate about their fixed positions.",
+    "keywords": [
+      "tightly packed",
+      "fixed arrangement",
+      "minimum space",
+      "vibrate",
+      "strong attraction"
+    ],
+    "explanation": "The structural rigidity of solids is due to high attraction and close packing (Curiosity textbook, page 112).",
+    "page_number": "112"
+  },
+  {
+    "id": 42,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Describe an activity that proves matter is made of extremely small particles.",
+    "answer": "Take a stick of chalk and break it till it's hard to break. Grind the pieces into a fine powder. Observe with a magnifying glass to see tiny grains. Each grain is still chalk and is made of millions of constituent particles too small to be seen individually.",
+    "keywords": [
+      "grind",
+      "powder",
+      "magnifying glass",
+      "millions",
+      "constituent particles"
+    ],
+    "explanation": "Activity 7.1 demonstrates that physical breakdown eventually leads to tiny units (Curiosity textbook, page 99).",
+    "page_number": "99"
+  },
+  {
+    "id": 43,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "How does the strength of interparticle attraction decide the physical state of a substance?",
+    "answer": "Strong interparticle attractions keep particles close and fixed, forming solids. Moderate attractions allow particles to stay close but slide past each other, forming liquids. Negligible attractions allow particles to move freely and far apart, forming gases.",
+    "keywords": [
+      "strong attraction",
+      "moderate attraction",
+      "negligible",
+      "fixed",
+      "move freely"
+    ],
+    "explanation": "The physical state is essentially a battle between attractive forces and thermal energy (Curiosity textbook, page 101, 112).",
+    "page_number": "112"
+  },
+  {
+    "id": 44,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "Explain the process of melting in terms of particulate movement and energy change.",
+    "answer": "When a solid is heated, particles gain thermal energy and vibrate more vigorously. At the melting point, this energy overcomes the strong interparticle attractions. Particles leave their fixed positions and begin to slide past each other, transitioning into a liquid state.",
+    "keywords": [
+      "gain thermal energy",
+      "vibrate vigorously",
+      "overcomes attraction",
+      "slide past",
+      "liquid state"
+    ],
+    "explanation": "Melting is the disruption of the solid lattice structure by thermal energy (Curiosity textbook, page 102).",
+    "page_number": "102"
+  },
+  {
+    "id": 45,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Explain why the volume of a solution does not increase significantly when sugar is dissolved in water.",
+    "answer": "Water is composed of particles with empty spaces between them called interparticle spaces. When sugar dissolves, its tiny constituent particles occupy these available spaces rather than adding to the total bulk volume significantly.",
+    "keywords": [
+      "empty spaces",
+      "interparticle spaces",
+      "occupy",
+      "bulk volume"
+    ],
+    "explanation": "The mixing of solute and solvent particles into gaps minimizes total volume change (Curiosity textbook, page 108).",
+    "page_number": "108"
+  },
+  {
+    "id": 46,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "On what factors does the strength of interparticle attraction depend?",
+    "answer": "The strength of interparticle attraction depends on the nature of the substance and the interparticle distance. Even a slight increase in distance between particles decreases the attractive forces drastically, which can change the substance's state.",
+    "keywords": [
+      "nature of substance",
+      "interparticle distance",
+      "decreases drastically",
+      "state"
+    ],
+    "explanation": "Proximity and chemical identity are key to the magnitude of attractive forces (Curiosity textbook, page 101).",
+    "page_number": "101"
+  },
+  {
+    "id": 47,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Compare the properties of solids, liquids, and gases based on particle packing.",
+    "answer": "In solids, particles are closely packed with minimum space. In liquids, particles are a little more loosely packed than in solids. In gases, particles are free and very far apart with maximum interparticle spacing.",
+    "keywords": [
+      "closely packed",
+      "loosely packed",
+      "far apart",
+      "spacing"
+    ],
+    "explanation": "Packing density determines compressibility and rigidity (Curiosity textbook, page 112).",
+    "page_number": "112"
+  },
+  {
+    "id": 48,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Using an incense stick as an example, explain diffusion in gases.",
+    "answer": "When an incense stick is burnt, its fragrance particles mix with the constantly moving particles of air. These air particles hit the fragrance particles and carry them throughout the room until they fill the entire available space.",
+    "keywords": [
+      "mix",
+      "moving air particles",
+      "hit",
+      "fill entire space"
+    ],
+    "explanation": "Gas particles collide and disperse other substances through diffusion (Curiosity textbook, page 111).",
+    "page_number": "111"
+  },
+  {
+    "id": 49,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "Why can we compress air in a syringe but not water or a solid block?",
+    "answer": "Gases like air have large interparticle spaces that can be reduced by applying external pressure, pushing particles closer. In liquids and solids, particles are already very close with negligible space, making them practically incompressible.",
+    "keywords": [
+      "large interparticle spaces",
+      "external pressure",
+      "negligible space",
+      "incompressible"
+    ],
+    "explanation": "Compressibility is the ability to reduce the volume by decreasing the space between particles (Curiosity textbook, page 107).",
+    "page_number": "107"
+  },
+  {
+    "id": 50,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "Describe the transition from liquid to gaseous state using the concept of thermal energy.",
+    "answer": "Heating a liquid increases the movement of its particles. At the boiling point, the particles gain enough energy to move apart and overcome interparticle attractions. Eventually, constituent particles escape from the liquid state and convert into vapour.",
+    "keywords": [
+      "movement",
+      "boiling point",
+      "overcome attraction",
+      "escape",
+      "vapour"
+    ],
+    "explanation": "Thermal energy provides the kinetic boost needed for particles to break free from liquid attractions (Curiosity textbook, page 105).",
+    "page_number": "105"
+  },
+  {
+    "id": 51,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Grains of rice take the shape of the container they are placed in. Are they solids or liquids? Explain.",
+    "answer": "Rice grains are solids. Each individual grain has a fixed shape and volume. The collection of grains flows and takes the container's shape only because the grains are small enough to slide over each other like tiny solid blocks.",
+    "keywords": [
+      "solids",
+      "individual grain",
+      "fixed shape",
+      "slide over"
+    ],
+    "explanation": "Macroscopic behavior of bulk solids (like powders/grains) can mimic liquids, but individual units remain solid (Curiosity textbook, page 117).",
+    "page_number": "117"
+  },
+  {
+    "id": 52,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "Imagine that particles of matter stopped moving completely. What changes would occur in nature?",
+    "answer": "If particles stopped moving, processes like diffusion, evaporation, and dissolution would cease. Fragrances wouldn't spread, water wouldn't evaporate, and matter might lose its ability to change states or react, as thermal energy depends on motion.",
+    "keywords": [
+      "diffusion",
+      "evaporation",
+      "dissolution",
+      "thermal energy",
+      "motion"
+    ],
+    "explanation": "Life and physical processes depend on the kinetic energy of particles (Case Study Worksheet, page 3).",
+    "page_number": "3"
+  },
+  {
+    "id": 53,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Explain the historical idea of 'Parmanu' as proposed by Acharya Kanad.",
+    "answer": "Acharya Kanad was an ancient Indian philosopher who proposed that matter is not continuous but made of tiny, indivisible, eternal particles called Parmanu. This concept was documented in his work Vaisheshika Sutras thousands of years ago.",
+    "keywords": [
+      "not continuous",
+      "indivisible",
+      "eternal",
+      "Parmanu",
+      "Vaisheshika Sutras"
+    ],
+    "explanation": "Early Indian philosophy anticipated the modern atomic theory (Curiosity textbook, page 101).",
+    "page_number": "101"
+  },
+  {
+    "id": 54,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "Compare interparticle attraction in iron, urea, and ice based on their melting points.",
+    "answer": "Iron has the highest melting point (1538°C), indicating very strong interparticle attractions. Urea (133°C) has moderate attractions. Ice (0°C) has the weakest attractions among the three, requiring the least energy to transition to a liquid.",
+    "keywords": [
+      "iron",
+      "highest",
+      "urea",
+      "ice",
+      "melting point",
+      "strong attractions"
+    ],
+    "explanation": "Melting point is a direct measure of how strongly particles are held together (Curiosity textbook, page 103).",
+    "page_number": "103"
+  },
+  {
+    "id": 55,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "How do soap particles interact with oil and water to clean clothes?",
+    "answer": "Matter is made of particles that can interact. Soap particles have two ends; one attaches to oil particles and the other mixes with water particles. This interaction helps pull the oil off the fabric and disperse it into the water.",
+    "keywords": [
+      "soap particles",
+      "attaches to oil",
+      "mixes with water",
+      "pull off",
+      "interact"
+    ],
+    "explanation": "Cleaning is a molecular-level particulate interaction (Curiosity textbook, page 111).",
+    "page_number": "111"
+  },
+  {
+    "id": 56,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Distinguish between evaporation and boiling as processes of changing state.",
+    "answer": "Boiling is a fast process occurring throughout the entire liquid at a fixed temperature called the boiling point. Evaporation is a slow process occurring only at the surface at all temperatures below the boiling point.",
+    "keywords": [
+      "throughout",
+      "surface",
+      "fixed temperature",
+      "all temperatures"
+    ],
+    "explanation": "While both turn liquid to gas, they differ in speed and location of occurrence (Curiosity textbook, page 105).",
+    "page_number": "105"
+  },
+  {
+    "id": 57,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "Explain why gas particles move much faster than liquid particles at the same temperature.",
+    "answer": "At any temperature, gas particles have negligible interparticle attractions compared to liquids. Without these strong forces holding them back, gas particles can use their thermal energy to move freely and rapidly in all directions.",
+    "keywords": [
+      "negligible attractions",
+      "strong forces",
+      "move freely",
+      "all directions"
+    ],
+    "explanation": "Weak attraction in gases allows for higher translational velocity compared to liquids (Learning Resource Key, page 4).",
+    "page_number": "4"
+  },
+  {
+    "id": 58,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "Describe what happens to gas particles when pressure is released from a compressed syringe.",
+    "answer": "When pressure is released, the particles of gas, which were forced closer together, quickly spread out again to occupy the available space. This causes the plunger to move back to its original position.",
+    "keywords": [
+      "forced closer",
+      "spread out",
+      "available space",
+      "plunger moves back"
+    ],
+    "explanation": "Gases are elastic due to the constant motion of particles and lack of fixed volume (Curiosity textbook, page 107).",
+    "page_number": "107"
+  },
+  {
+    "id": 59,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "Why does hammering a solid change its shape but not let particles move from one place to another?",
+    "answer": "Hammering provides enough force to displace the closely packed particles slightly, changing the macroscopic shape. However, the interparticle attractions remain strong enough to keep the particles in their new fixed positions, preventing them from flowing like a fluid.",
+    "keywords": [
+      "displace",
+      "closely packed",
+      "strong attractions",
+      "fixed positions"
+    ],
+    "explanation": "Solids are hard because their particles resist translational motion even under stress (Learning Resource Key, page 1).",
+    "page_number": "1"
+  },
+  {
+    "id": 60,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Explain why diffusion is significantly faster in gases than in liquids.",
+    "answer": "Diffusion is faster in gases because gas particles move very rapidly and have maximum interparticle space to move into. In liquids, particles move slower and are closer together, so there is more resistance to the mixing process.",
+    "keywords": [
+      "rapidly",
+      "maximum space",
+      "slower",
+      "resistance"
+    ],
+    "explanation": "Rate of diffusion depends on particle velocity and available gap size (Learning Resource Key, page 5).",
+    "page_number": "5"
+  },
+  {
+    "id": 61,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "How does the interparticle distance affect the strength of interparticle forces?",
+    "answer": "The strength of interparticle forces depends on the distance between particles. A small increase in distance leads to a drastic decrease in the force of attraction. This is why heating, which increases distance, can weaken solids and turn them into liquids.",
+    "keywords": [
+      "distance",
+      "drastic decrease",
+      "force of attraction",
+      "weaken"
+    ],
+    "explanation": "Inverse relationship between distance and force strength is a fundamental concept (Curiosity textbook, page 101).",
+    "page_number": "101"
+  },
+  {
+    "id": 62,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "What is the significance of the term 'Suspended Particulate Matter' in the context of air?",
+    "answer": "In air pollution, SPM refers to visible dust and smoke particles. This term 'particle' is different from the constituent particles (atoms/molecules) which are extremely small and invisible. Even these dust particles are made of millions of constituent particles.",
+    "keywords": [
+      "visible dust",
+      "smoke",
+      "constituent particles",
+      "invisible",
+      "context"
+    ],
+    "explanation": "Context matters in science; macroscopic particles (SPM) differ from microscopic ones (Curiosity textbook, page 109).",
+    "page_number": "109"
+  },
+  {
+    "id": 63,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Explain why liquids have a fixed volume but no fixed shape.",
+    "answer": "Liquids have fixed volume because their particles are close together due to sufficient attraction. They have no fixed shape because the attraction is weak enough to let particles slide past each other, allowing them to flow and take the shape of any container.",
+    "keywords": [
+      "close together",
+      "sufficient attraction",
+      "slide past",
+      "flow"
+    ],
+    "explanation": "Fluidity and fixed volume result from moderate particle spacing and attraction (Curiosity textbook, page 112).",
+    "page_number": "112"
+  },
+  {
+    "id": 64,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "Using the particulate nature of matter, explain why the smell of perfume spreads in a room.",
+    "answer": "Perfume particles turn into gas and mix with the air. Since both perfume and air are made of particles in constant random motion, they hit each other. This motion spreads the perfume particles throughout the room until they reach our nose.",
+    "keywords": [
+      "mix",
+      "constant random motion",
+      "hit",
+      "spreads throughout"
+    ],
+    "explanation": "Gas diffusion is driven by the inherent kinetic energy of particles (Learning Resource Key, page 2).",
+    "page_number": "2"
+  },
+  {
+    "id": 65,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "Discuss the particulate nature of matter with two supporting examples from daily life.",
+    "answer": "Matter is not continuous but made of extremely small constituent particles with spaces between them. Example 1: Dissolving sugar in water. The sugar disappears because its particles break down and fit into the interparticle spaces of water particles. Example 2: Smell of food spreading. Particles of the aroma mix with air and spread throughout the house because particles are constantly moving. These examples prove that matter is composed of particles that move and have gaps between them.",
+    "keywords": [
+      "not continuous",
+      "constituent particles",
+      "sugar",
+      "interparticle spaces",
+      "smell of food",
+      "constantly moving"
+    ],
+    "explanation": "The particulate theory is validated by common observations of mixing and spreading (Curiosity textbook, page 101, 111).",
+    "page_number": "111"
+  },
+  {
+    "id": 66,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 75,
+      "max": 115
+    },
+    "question": "Compare the three states of matter based on packing, interparticle attraction, and movement.",
+    "answer": "1. Solids: Particles are closely packed in a fixed arrangement, interparticle attraction is maximum, and movement is minimum (only vibrations). 2. Liquids: Particles are a little more loosely packed, attraction is moderate (weaker than solids), and movement is restricted to a limited space (sliding past each other). 3. Gases: Particles are free and far apart with maximum spacing, interparticle attraction is minimum (negligible), and particles move freely and rapidly in all available space.",
+    "keywords": [
+      "solids",
+      "liquids",
+      "gases",
+      "packing",
+      "attraction",
+      "movement"
+    ],
+    "explanation": "A summary of states based on their microscopic characteristics (Curiosity textbook, page 112).",
+    "page_number": "112"
+  },
+  {
+    "id": 67,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 130
+    },
+    "question": "Explain the effect of heating on the three states of matter in terms of kinetic energy and attraction.",
+    "answer": "Heating provides thermal energy, which increases the kinetic energy and speed of particles. In solids, particles vibrate more vigorously until they overcome attractions and melt into liquids. In liquids, particles move faster until they overcome moderate attractions at the boiling point and escape to become gas. In gases, heating makes particles move even more rapidly. Thus, temperature determines state by acting against the attractive forces that hold particles together.",
+    "keywords": [
+      "thermal energy",
+      "kinetic energy",
+      "vibrate",
+      "overcome attractions",
+      "escape",
+      "temperature"
+    ],
+    "explanation": "Thermal energy provides the force to change the arrangement of matter (Learning Resource Key, page 1).",
+    "page_number": "1"
+  },
+  {
+    "id": 68,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 85,
+      "max": 125
+    },
+    "question": "Describe the activities involving chalk and sugar that prove matter is made of tiny particles and has spaces.",
+    "answer": "Activity 1 (Chalk): Grinding a chalk stick into powder shows it is made of tiny grains, and these grains are made of even smaller constituent particles. This proves matter is particulate. Activity 2 (Sugar): Adding sugar to water initially increases the level, but after stirring, the level decreases slightly as sugar particles fit into interparticle spaces of water. This proves that not only is matter made of particles, but there are also empty spaces available between them.",
+    "keywords": [
+      "chalk",
+      "grinding",
+      "sugar",
+      "stirring",
+      "interparticle spaces"
+    ],
+    "explanation": "Activities 7.1 and 7.2 from the textbook form the basis for particulate theory (Curiosity textbook, page 99, 101).",
+    "page_number": "101"
+  },
+  {
+    "id": 69,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 95,
+      "max": 140
+    },
+    "question": "Discuss the 'tug-of-war' between interparticle attraction and thermal energy in determining the state of matter.",
+    "answer": "The physical state of matter is a result of the balance between interparticle attraction and thermal energy. Interparticle attraction tries to pull particles closer and keep them trapped in a solid state. Thermal (heat) energy provides the kinetic force for particles to push apart and move. If attraction wins, it's a solid. If they are tied, particles stay close but can flow as a liquid. If thermal energy wins, particles break free from attraction and move rapidly as a gas.",
+    "keywords": [
+      "tug-of-war",
+      "attraction",
+      "thermal energy",
+      "trapped",
+      "flow",
+      "break free"
+    ],
+    "explanation": "State of matter is a dynamic balance of opposing forces (Curiosity textbook, page 112).",
+    "page_number": "112"
+  },
+  {
+    "id": 70,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 130
+    },
+    "question": "Explain the concept of diffusion, and why temperature affects its rate.",
+    "answer": "Diffusion is the spontaneous mixing of particles due to their constant motion. For example, perfume spreading in air or KMnO4 spreading in water. Temperature affects this process because heat energy makes particles move faster. In hot water, KMnO4 spreads quickly because the water particles have more energy to hit and disperse the solute particles. Therefore, diffusion occurs faster at higher temperatures as particles move more rapidly across spaces.",
+    "keywords": [
+      "diffusion",
+      "spontaneous mixing",
+      "constant motion",
+      "heat energy",
+      "faster",
+      "KMnO4"
+    ],
+    "explanation": "Diffusion rate depends on the kinetic energy provided by temperature (Curiosity textbook, page 110, 111).",
+    "page_number": "111"
+  },
+  {
+    "id": 71,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 135
+    },
+    "question": "Describe the syringe experiment to compare the compressibility of air and water. What are the conclusions?",
+    "answer": "A syringe is first filled with air, the nozzle blocked, and the plunger pushed. The plunger moves inward significantly, showing air is highly compressible. When repeated with water, the plunger hardly moves, showing water is practically incompressible. Conclusion: Gases like air have large interparticle spaces that can be reduced under pressure, forcing particles closer. Liquids like water have particles already packed closely with minimal space between them, making it impossible to compress them further.",
+    "keywords": [
+      "syringe",
+      "plunger",
+      "air",
+      "water",
+      "compressible",
+      "interparticle spaces"
+    ],
+    "explanation": "Volume changes under pressure depend on the amount of available free space between particles (Curiosity textbook, page 107).",
+    "page_number": "107"
+  },
+  {
+    "id": 72,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 125
+    },
+    "question": "Describe melting and boiling points. How do these relate to interparticle forces?",
+    "answer": "Melting point is the temperature at which a solid turns into a liquid, while boiling point is when a liquid turns into gas. Both involve overcoming interparticle attractions. A substance like iron has a high melting point (1538°C) because its particles are held by very strong attractions. In contrast, urea or ice have lower melting points because their attractive forces are weaker. Thus, the specific temperature required for these phase changes indicates the strength of the forces holding the particles together.",
+    "keywords": [
+      "melting point",
+      "boiling point",
+      "overcoming attractions",
+      "iron",
+      "ice",
+      "strength of forces"
+    ],
+    "explanation": "Phase change temperatures are macroscopic indicators of microscopic binding strength (Curiosity textbook, page 103, 105).",
+    "page_number": "105"
+  },
+  {
+    "id": 73,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 85,
+      "max": 130
+    },
+    "question": "Explain the washing with soap process using the particulate nature of matter.",
+    "answer": "Washing involves interactions between particles of soap, oil, and water. Soap particles have two distinct ends. One end is attracted to and attaches to the oil particles on the fabric. The other end of the soap particle interacts with and mixes with the water particles. As more soap particles surround the oil, they eventually lift the oil stain off the fabric into the water. This particulate cooperation allows water to wash away oil that it normally cannot mix with.",
+    "keywords": [
+      "soap particles",
+      "attaches to oil",
+      "mixes with water",
+      "surround",
+      "lift off"
+    ],
+    "explanation": "Soap enables cleaning by acting as a molecular bridge between immiscible substances (Curiosity textbook, page 111).",
+    "page_number": "111"
+  },
+  {
+    "id": 74,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Why is gas the only state that is highly compressible? Explain with reference to spaces and pressure.",
+    "answer": "Compressibility is the ability to reduce volume by reducing the distance between particles. In solids and liquids, particles are already closely packed with very small interparticle spaces. Applying external pressure cannot push them much closer. In gases, the interparticle spacing is maximum, meaning there are vast empty gaps between particles. When external pressure is applied, these particles are forced into the empty gaps, significantly reducing the total volume. Thus, large spaces make gases highly compressible.",
+    "keywords": [
+      "reduce distance",
+      "closely packed",
+      "maximum spacing",
+      "empty gaps",
+      "external pressure",
+      "compressible"
+    ],
+    "explanation": "The macroscopic property of compressibility is defined by the microscopic interparticle void (Curiosity textbook, page 107).",
+    "page_number": "107"
+  },
+  {
+    "id": 75,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 125
+    },
+    "question": "Summarize the key characteristics of particles of matter as discussed in the text.",
+    "answer": "1. Matter is made of extremely small particles called constituent particles. 2. These particles are invisible to the naked eye. 3. There are empty spaces between particles called interparticle spaces. 4. Particles are held together by attractive forces called interparticle attractions. 5. Particles are in constant motion, which increases with temperature. 6. The arrangement and strength of forces between these particles determine whether a substance is a solid, liquid, or gas.",
+    "keywords": [
+      "small particles",
+      "invisible",
+      "spaces",
+      "attractive forces",
+      "constant motion",
+      "arrangement"
+    ],
+    "explanation": "The particulate theory of matter is defined by these core properties (Curiosity textbook, page 112).",
+    "page_number": "112"
+  },
+  {
+    "id": 76,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 95,
+      "max": 145
+    },
+    "question": "Explain the transition of ice to water and then to water vapour using the particulate theory.",
+    "answer": "In ice (solid), particles are in fixed positions, vibrating slightly. As heat is added, the vibrations increase until particles overcome strong attractions at 0°C (melting point) and start sliding past each other as liquid water. Continued heating increases the movement further. At 100°C (boiling point), the particles gain enough energy to completely overcome moderate attractions and move far apart as vapour (gas). This shows that thermal energy changes state by altering particle arrangement and attraction strength.",
+    "keywords": [
+      "ice",
+      "vibrating",
+      "overcome attractions",
+      "sliding",
+      "move far apart",
+      "vapour"
+    ],
+    "explanation": "Phase transitions are physical changes in particle distance and movement (Curiosity textbook, page 102, 105).",
+    "page_number": "105"
+  },
+  {
+    "id": 77,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 85,
+      "max": 130
+    },
+    "question": "Explain how the fragrance of an incense stick spreads and the role of air particles in this.",
+    "answer": "When an incense stick burns, it releases fragrance particles. These particles mix with the air. Air is composed of gas particles that move freely and rapidly in all directions. These air particles constantly hit the fragrance particles, pushing and carrying them throughout the room. This shows that both the fragrance and air particles are moving constantly. Eventually, the fragrance spreads to occupy all available space in the room so we can smell it from a distance.",
+    "keywords": [
+      "mix",
+      "move freely",
+      "hit",
+      "carrying",
+      "moving constantly",
+      "all available space"
+    ],
+    "explanation": "Fragrance travel is a macroscopic result of microscopic collisions (Curiosity textbook, page 111).",
+    "page_number": "111"
+  },
+  {
+    "id": 78,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 120
+    },
+    "question": "Elaborate on the historical contribution of Acharya Kanad to the particulate theory.",
+    "answer": "Long before modern science, the Indian philosopher Acharya Kanad proposed that matter is not continuous. In his work Vaisheshika Sutras, he spoke about 'Parmanu', describing them as tiny, indivisible, and eternal particles that make up all matter. He believed that everything we see is a result of these particles combining. This early idea of 'atoms' or constituent particles shows that the concept of the particulate nature of matter existed in India thousands of years ago.",
+    "keywords": [
+      "Acharya Kanad",
+      "not continuous",
+      "Parmanu",
+      "indivisible",
+      "eternal",
+      "Vaisheshika Sutras"
+    ],
+    "explanation": "Kanad's 'Parmanu' is the ancient precursor to the modern atomic model (Curiosity textbook, page 101).",
+    "page_number": "101"
+  },
+  {
+    "id": 79,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Discuss why some solids have very high melting points while others have low melting points.",
+    "answer": "The melting point of a solid depends on the strength of its interparticle attractions. Substances like iron have extremely strong attractive forces holding their particles in a fixed grid, requiring massive thermal energy (1538°C) to break them free. Other solids like urea or ice have relatively weaker interparticle forces, so their particles can leave their positions with less heating. Therefore, melting point serves as a direct indicator of how strongly constituent particles are pulled together in a specific solid.",
+    "keywords": [
+      "strength",
+      "interparticle attractions",
+      "iron",
+      "ice",
+      "thermal energy",
+      "indicator"
+    ],
+    "explanation": "Molecular binding energy dictates thermal stability (Curiosity textbook, page 103).",
+    "page_number": "103"
+  },
+  {
+    "id": 80,
+    "subject": "Science",
+    "chapter": "Particulate Nature of Matter-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 85,
+      "max": 130
+    },
+    "question": "Analyze why liquids are called fluids and explain how their particle arrangement allows them to flow.",
+    "answer": "Liquids are called fluids because they have the ability to flow. This is due to their particulate arrangement where particles are slightly more loose than in solids. The interparticle attractions are moderate—strong enough to keep particles close (fixed volume), but weak enough to allow them to slide past one another. Because particles can shift positions and are not trapped in a fixed grid, the liquid can change shape easily to match its container and flow from one place to another.",
+    "keywords": [
+      "fluids",
+      "flow",
+      "loose",
+      "moderate attraction",
+      "slide past",
+      "shift positions"
+    ],
+    "explanation": "Fluidity is a result of mobile particles that maintain close contact (Curiosity textbook, page 112).",
+    "page_number": "112"
+  }
+]
