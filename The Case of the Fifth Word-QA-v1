@@ -1,0 +1,1715 @@
+[
+  {
+    "id": 1,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What is the real name of the boy known as 'Encyclopedia'?",
+    "answer": "His real name is Leroy Brown.",
+    "keywords": [
+      "Leroy Brown",
+      "real name"
+    ],
+    "explanation": "The text mentions that only his parents and teachers call him by his real name, Leroy. This is found on page 2 of the story PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 2,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Define the term 'anagram' as explained in the text.",
+    "answer": "An anagram is a word or phrase made by rearranging the letters of another word or phrase.",
+    "keywords": [
+      "rearranging",
+      "letters",
+      "new word"
+    ],
+    "explanation": "The document defines an anagram in the pre-reading activities. This is found on page 1 of the story PDF.",
+    "page_number": "1"
+  },
+  {
+    "id": 3,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 15
+    },
+    "question": "What was Tim Nolan's business in Idaville?",
+    "answer": "Tim Nolan ran a small palm-tree nursery.",
+    "keywords": [
+      "palm-tree",
+      "nursery"
+    ],
+    "explanation": "The text states that after being released from prison, Nolan started a small palm-tree nursery. This is found on page 3 of the story PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 4,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What does the grammar connector 'although' show in a sentence?",
+    "answer": "The connector 'although' is used to show contrast between two ideas.",
+    "keywords": [
+      "contrast",
+      "connector"
+    ],
+    "explanation": "In the Grammar Corner section, 'although' is identified as a connector showing contrast. This is found on page 2 of the Learning Resource Answer Key.",
+    "page_number": "2"
+  },
+  {
+    "id": 5,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Who was the Chief of Police in Idaville?",
+    "answer": "Leroy's father, Chief Brown, was the Chief of Police.",
+    "keywords": [
+      "Chief Brown",
+      "Leroy's father"
+    ],
+    "explanation": "The introduction of the story identifies Encyclopedia's father as the Chief of Police. This is found on page 2 of the story PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 6,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 15
+    },
+    "question": "What amount of jewellery was stolen in the Diamond Mart heist?",
+    "answer": "Jewellery worth one million dollars was stolen.",
+    "keywords": [
+      "one million",
+      "jewellery"
+    ],
+    "explanation": "Chief Brown mentions that the masked men got away with a million dollars worth of jewellery. This is found on page 3 of the story PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 7,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is a 'spoonerism'?",
+    "answer": "A spoonerism is a slip of the tongue where the initial sounds of two words are swapped.",
+    "keywords": [
+      "initial sounds",
+      "swapped",
+      "slip of the tongue"
+    ],
+    "explanation": "The Detective's Toolkit section explains spoonerisms with examples like 'wrong load' for 'long road'. This is found on page 12 of the story PDF.",
+    "page_number": "12"
+  },
+  {
+    "id": 8,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is an 'alibi' according to the vocabulary list?",
+    "answer": "An alibi is an excuse or a defense used to show a person was elsewhere during a crime.",
+    "keywords": [
+      "excuse",
+      "defense",
+      "elsewhere"
+    ],
+    "explanation": "The vocabulary section lists 'excuse' and 'defence' as synonyms for alibi. This is found on page 2 of the Learning Resource Answer Key.",
+    "page_number": "2"
+  },
+  {
+    "id": 9,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Where did Tim Nolan place his will before he died?",
+    "answer": "He placed his will on the kitchen table.",
+    "keywords": [
+      "kitchen table",
+      "will"
+    ],
+    "explanation": "Chief Brown explains that Nolan managed to put his will on the kitchen table with his last strength. This is found on page 4 of the story PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 10,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What does the word 'hunch' mean in the context of the story?",
+    "answer": "A hunch is a strong feeling about something without having absolute proof.",
+    "keywords": [
+      "feeling",
+      "proof",
+      "suspicion"
+    ],
+    "explanation": "The glossary defines a hunch as a feeling without proof. This is found on page 10 of the Investigation File.",
+    "page_number": "10"
+  },
+  {
+    "id": 11,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 12,
+      "max": 25
+    },
+    "question": "What was 'Nom' an anagram of in Nolan's code?",
+    "answer": "'Nom' was an anagram of the first three letters of 'Monday' (Mon).",
+    "keywords": [
+      "Monday",
+      "Mon",
+      "rearranged"
+    ],
+    "explanation": "The cipher explanation shows that Nolan took 'Monday', dropped 'day', and rearranged 'Mon' to 'Nom'. This is found on page 7 of the story PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 12,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Who was Tim Nolan’s suspected partner in the robbery?",
+    "answer": "His suspected partner was Daniel Davenport.",
+    "keywords": [
+      "Daniel Davenport",
+      "partner"
+    ],
+    "explanation": "Chief Brown mentions he believed Nolan and a friend named Daniel Davenport pulled the hold-up. This is found on page 3 of the story PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 13,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 18
+    },
+    "question": "What is the definition of 'loot'?",
+    "answer": "Loot refers to stolen goods or money.",
+    "keywords": [
+      "stolen",
+      "goods",
+      "money"
+    ],
+    "explanation": "The glossary in the Investigation File defines loot as stolen goods. This is found on page 10 of the Investigation File.",
+    "page_number": "10"
+  },
+  {
+    "id": 14,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What specific illness caused Tim Nolan's death?",
+    "answer": "Tim Nolan died after suffering a stroke.",
+    "keywords": [
+      "stroke"
+    ],
+    "explanation": "The text states Nolan suffered from a bad heart and eventually had a stroke. This is found on page 4 of the story PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 15,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What does the connector 'because' indicate in a sentence?",
+    "answer": "The connector 'because' is used to provide a reason for an action.",
+    "keywords": [
+      "reason"
+    ],
+    "explanation": "In the Grammar Corner, 'because' is mapped to 'reason'. This is found on page 2 of the Learning Resource Answer Key.",
+    "page_number": "2"
+  },
+  {
+    "id": 16,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 18
+    },
+    "question": "What does 'testify' mean in a legal context?",
+    "answer": "To testify means to make a statement in court to prove something is true.",
+    "keywords": [
+      "statement",
+      "court",
+      "prove"
+    ],
+    "explanation": "The definition is provided in the vocabulary margin of the story. This is found on page 4 of the story PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 17,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Why did people call Leroy 'Encyclopedia'?",
+    "answer": "People called him Encyclopedia because his head was filled with facts from A to Z, just like a set of books. He read more books than anyone else in Idaville.",
+    "keywords": [
+      "facts",
+      "A to Z",
+      "read books"
+    ],
+    "explanation": "The text explains the origin of his nickname based on his vast knowledge and reading habits. This is found on page 2 of the story PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 18,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Why did Chief Brown never tell anyone that his son solved his cases?",
+    "answer": "Chief Brown kept it a secret because he felt no one would believe that an eighth grader was the best detective alive. He wanted to protect his son's privacy.",
+    "keywords": [
+      "eighth grader",
+      "believe",
+      "secret"
+    ],
+    "explanation": "The story mentions Chief Brown's pride but also his concern about people's disbelief regarding Leroy's age. This is found on page 2 of the story PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 19,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "How did Tim Nolan and Daniel Davenport meet?",
+    "answer": "They met while they were both serving time in prison in South Carolina. They became friends because they shared similar interests.",
+    "keywords": [
+      "prison",
+      "South Carolina",
+      "shared interests"
+    ],
+    "explanation": "Chief Brown explains the background of the two suspects and where their association began. This is found on page 3 of the story PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 20,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Why was the clerk's recognition of Nolan considered insufficient proof for arrest?",
+    "answer": "The clerk thought she recognized Nolan when his mask slipped, but she was not absolutely sure. Because she refused to testify definitively against him, the police could not make an arrest.",
+    "keywords": [
+      "mask slipped",
+      "not sure",
+      "refused to testify"
+    ],
+    "explanation": "The text explains the legal difficulty Chief Brown faced due to the witness's uncertainty. This is found on page 4 of the story PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 21,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "What was suspicious about the calendar sheet clipped to Nolan's will?",
+    "answer": "The sheet contained four strange words—'Nom Utes Sweden Hurts'—written under Davenport's name. It seemed to be a coded message rather than just a scrap of paper.",
+    "keywords": [
+      "calendar sheet",
+      "coded message",
+      "four words"
+    ],
+    "explanation": "Chief Brown points out that while the will was normal, the attached calendar sheet with coded words was suspicious. This is found on page 5 of the story PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 22,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Why did Encyclopedia close his eyes before answering his father's question?",
+    "answer": "Encyclopedia closed his eyes because that was how he did his hardest thinking. It helped him focus and solve the mystery before dessert.",
+    "keywords": [
+      "hardest thinking",
+      "focus"
+    ],
+    "explanation": "The author describes this specific habit of Encyclopedia when he is mentally processing clues. This is found on page 5 of the story PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 23,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "How did Encyclopedia know there was a fir tree at the nursery?",
+    "answer": "He deduced it from Nolan's code. He realized the words followed the sequence of days, and the fifth word (Friday) would lead to the word 'Fir'.",
+    "keywords": [
+      "deduced",
+      "Friday",
+      "Fir",
+      "sequence"
+    ],
+    "explanation": "Leroy explains the logic of the days of the week and how the fifth day points to the tree. This is found on page 7 of the story PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 24,
+    "subject": "English",
+    "chapter": "Grammar",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "What is the main rule for changing tense from Direct to Reported Speech for a 'Present' verb?",
+    "answer": "In Reported Speech, a verb in the Present tense usually shifts to the Past tense. For example, 'I find' becomes 'he found'.",
+    "keywords": [
+      "Present to Past",
+      "tense shift"
+    ],
+    "explanation": "The grammar guide explicitly lists 'Present -> Past' as a primary rule for time shift. This is found on page 14 of the story PDF.",
+    "page_number": "14"
+  },
+  {
+    "id": 25,
+    "subject": "English",
+    "chapter": "Grammar",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "Combine these sentences using 'where': 'We went to a place. The incident occurred there.'",
+    "answer": "We went to a place where the incident occurred.",
+    "keywords": [
+      "where",
+      "connector"
+    ],
+    "explanation": "This is a grammar exercise on combining sentences using connectors. This is found on page 14 of the story PDF.",
+    "page_number": "14"
+  },
+  {
+    "id": 26,
+    "subject": "English",
+    "chapter": "Vocabulary",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Explain the meaning of the phrasal verb 'figure out' with an example.",
+    "answer": "To 'figure out' means to solve a problem or understand something. Example: 'The detective tried to figure out the coded message.'",
+    "keywords": [
+      "solve",
+      "understand",
+      "problem"
+    ],
+    "explanation": "The matching exercise defines 'figure out' as solving a problem. This is found on page 11 of the story PDF.",
+    "page_number": "11"
+  },
+  {
+    "id": 27,
+    "subject": "English",
+    "chapter": "Vocabulary",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Give two synonyms for the word 'culprit' found in the text.",
+    "answer": "Two synonyms for 'culprit' are 'offender' and 'wrongdoer'.",
+    "keywords": [
+      "offender",
+      "wrongdoer"
+    ],
+    "explanation": "The learning resource answer key lists these two terms as appropriate synonyms. This is found on page 2 of the Learning Resource Answer Key.",
+    "page_number": "2"
+  },
+  {
+    "id": 28,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Why did Nolan specifically write his code on a calendar sheet?",
+    "answer": "He used the calendar sheet to provide a 'key' to the code. The calendar implies that the words are linked to days of the week.",
+    "keywords": [
+      "key",
+      "calendar sheet",
+      "days of the week"
+    ],
+    "explanation": "Encyclopedia realizes the calendar is the essential context for understanding the word sequence. This is found on page 6 of the story PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 29,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "What is the difference between a fact and an opinion according to the text?",
+    "answer": "A fact is something that can be proven true or false and is not based on beliefs. An opinion is a belief or feeling that varies between people.",
+    "keywords": [
+      "proven",
+      "true or false",
+      "belief",
+      "feeling"
+    ],
+    "explanation": "The 'Let us discuss' section provides these definitions for analysis. This is found on page 7 of the story PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 30,
+    "subject": "English",
+    "chapter": "Grammar",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What are the steps to report a 'Wh-' question in Reported Speech?",
+    "answer": "First, use a reporting verb like 'asked'. Then, place the Wh- word immediately after it and convert the interrogative form into a declarative sentence with a tense shift.",
+    "keywords": [
+      "reporting verb",
+      "Wh- word",
+      "declarative",
+      "tense shift"
+    ],
+    "explanation": "The grammar rules on page 15 detail the 7 steps for reporting interrogative sentences. This is found on page 15 of the story PDF.",
+    "page_number": "15"
+  },
+  {
+    "id": 31,
+    "subject": "English",
+    "chapter": "Grammar",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Identify the connector and its type in: 'Riya hesitated to speak although she knew the truth.'",
+    "answer": "The connector is 'although'. It shows contrast.",
+    "keywords": [
+      "although",
+      "contrast"
+    ],
+    "explanation": "This sentence is part of an exercise identifying connectors. This is found on page 3 of the Exercises PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 32,
+    "subject": "English",
+    "chapter": "Grammar",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Change into reported speech: Inspector Mehra said to the witness, 'Where did you find this notebook?'",
+    "answer": "Inspector Mehra asked the witness where he had found that notebook.",
+    "keywords": [
+      "asked",
+      "where",
+      "had found"
+    ],
+    "explanation": "The answer requires shifting 'did find' to 'had found' and 'this' to 'that'. This is found on page 2 of the Learning Resource Answer Key.",
+    "page_number": "2"
+  },
+  {
+    "id": 33,
+    "subject": "English",
+    "chapter": "Values",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What does 'integrity' mean according to the 'Living the Value' section?",
+    "answer": "Integrity means doing what is right even when it is difficult or when no one is watching. It helps us stay honest and trustworthy.",
+    "keywords": [
+      "doing right",
+      "difficult",
+      "no one watching",
+      "trustworthy"
+    ],
+    "explanation": "The text provides a dedicated section on the value of integrity and its importance. This is found on page 7 of the Exercises PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 34,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Why is a fir tree considered an anomaly in Nolan's nursery?",
+    "answer": "Nolan's business was specifically a palm-tree nursery. Finding a young fir tree among palm trees is unusual and acts as a hidden marker for the loot.",
+    "keywords": [
+      "palm-tree",
+      "fir tree",
+      "unusual",
+      "marker"
+    ],
+    "explanation": "The 'Detective's Lesson' in the Investigation File notes that knowledge of the specific business makes the fir tree an anomaly. This is found on page 8 of the Investigation File.",
+    "page_number": "8"
+  },
+  {
+    "id": 35,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What happened to Daniel Davenport immediately after the robbery?",
+    "answer": "Daniel Davenport vanished immediately after the hold-up and was not seen for five years.",
+    "keywords": [
+      "vanished",
+      "disappeared",
+      "hold-up"
+    ],
+    "explanation": "Chief Brown notes that Davenport hasn't been seen since the jewellery store robbery. This is found on page 4 of the story PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 36,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "How does an encyclopedia differ from a dictionary based on the text?",
+    "answer": "An encyclopedia provides a collection of facts from A to Z on various topics, while a dictionary primarily focuses on word meanings and definitions.",
+    "keywords": [
+      "facts",
+      "A to Z",
+      "meanings"
+    ],
+    "explanation": "The 'Let us explore' activity asks students to check the library to find the difference. This is found on page 21 of the story PDF.",
+    "page_number": "21"
+  },
+  {
+    "id": 37,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why did Mrs. Brown think the word 'Nom' referred to grammar?",
+    "answer": "Mrs. Brown had taught English in high school, so she logically associated 'Nom' with 'nominative', which is a grammatical term.",
+    "keywords": [
+      "English teacher",
+      "nominative",
+      "grammar"
+    ],
+    "explanation": "Mrs. Brown uses her personal background to interpret the code literally. This is found on page 6 of the story PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 38,
+    "subject": "English",
+    "chapter": "Composition",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "What is the purpose of a report according to the 'Let us write' section?",
+    "answer": "The purpose of a report is to provide first-hand details of an incident or event that has already occurred, presenting information in proper sequence.",
+    "keywords": [
+      "first-hand",
+      "incident",
+      "sequence"
+    ],
+    "explanation": "The text explains the functional purpose and structure of report writing. This is found on page 19 of the story PDF.",
+    "page_number": "19"
+  },
+  {
+    "id": 39,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What was Encyclopedia’s 'vital question' to his father?",
+    "answer": "He asked, 'Is there a young fir tree in Mr. Nolan’s palm-tree nursery?'. This question confirmed his solution to the code.",
+    "keywords": [
+      "fir tree",
+      "palm-tree nursery",
+      "vital question"
+    ],
+    "explanation": "Leroy asks this single question to confirm his deduction from the fifth word 'Fir'. This is found on page 5 of the story PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 40,
+    "subject": "English",
+    "chapter": "Vocabulary",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Give two synonyms for the word 'motive'.",
+    "answer": "Two synonyms for motive are 'reason' and 'intention'.",
+    "keywords": [
+      "reason",
+      "intention"
+    ],
+    "explanation": "The synonyms are provided in the Learning Resource Answer Key. This is found on page 2 of the Answer Key PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 41,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Explain the 'Cracking the Calendar Cipher' process used by Nolan to hide the message.",
+    "answer": "Nolan used a three-step process: First, he wrote the days of the week. Second, he subtracted the letters 'D-A-Y'. Third, he anagrammed the remaining letters. For example, 'Monday' became 'Mon', then 'Nom'.",
+    "keywords": [
+      "subtract D-A-Y",
+      "anagram",
+      "days of the week"
+    ],
+    "explanation": "The Investigation File provides a visual step-by-step breakdown of how the cipher was created. This is found on page 6 of the Investigation File.",
+    "page_number": "6"
+  },
+  {
+    "id": 42,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "How did the fifth word 'Fir' lead to the recovery of the stolen jewellery?",
+    "answer": "The four words in the code corresponded to Monday through Thursday. The fifth word would be for Friday: 'Fri' minus 'day' rearranged to 'Fir'. This word identified a fir tree at the nursery, where the jewellery was buried.",
+    "keywords": [
+      "Friday",
+      "Fir",
+      "buried",
+      "nursery"
+    ],
+    "explanation": "The text explains how the logical sequence of days points to the specific tree used as a hiding spot. This is found on page 7 of the story PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 43,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Describe Encyclopedia’s character traits based on textual evidence from the story.",
+    "answer": "Encyclopedia is knowledgeable, with a memory like a library. He is humble, solving cases at the dinner table without seeking credit. He is also highly observant and patient, using logic over guesswork.",
+    "keywords": [
+      "knowledgeable",
+      "humble",
+      "observant",
+      "logic"
+    ],
+    "explanation": "The investigator profile in the Investigation File lists these traits alongside textual evidence. This is found on page 3 of the Investigation File.",
+    "page_number": "3"
+  },
+  {
+    "id": 44,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Why was the timing of Daniel Davenport's disappearance considered highly suspicious?",
+    "answer": "Davenport vanished immediately after the hold-up where his partner Nolan was almost recognized. Since they were close friends and ex-convicts, disappearing exactly when the loot was hidden suggested his involvement.",
+    "keywords": [
+      "immediately after",
+      "suspicious timing",
+      "involvement"
+    ],
+    "explanation": "The 'Diamond Mart Heist' sequence identifies the timing of his disappearance as a key piece of evidence. This is found on page 2 of the Investigation File.",
+    "page_number": "2"
+  },
+  {
+    "id": 45,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "Explain the relationship between 'The Literal Fact' and 'The Logical Inference' in the context of this case.",
+    "answer": "A literal fact is something observed, like Davenport disappearing. The logical inference is the conclusion drawn from it, such as he is hiding from police. Facts provide evidence, while inferences provide the detective's theory.",
+    "keywords": [
+      "observed",
+      "conclusion",
+      "inference",
+      "theory"
+    ],
+    "explanation": "The Investigation File has a dedicated section teaching detectives how to bridge facts and inferences. This is found on page 5 of the Investigation File.",
+    "page_number": "5"
+  },
+  {
+    "id": 46,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "How does the story demonstrate that 'A code is useless without context'?",
+    "answer": "Finding the word 'Fir' meant nothing alone. It became significant only because Encyclopedia knew Nolan ran a palm nursery. Knowing a fir tree didn't belong there provided the physical location for the code's solution.",
+    "keywords": [
+      "context",
+      "physical location",
+      "fir tree",
+      "nursery"
+    ],
+    "explanation": "The 'Insight' section on page 7 of the Investigation File explains why context is vital for decoding. This is found on page 7 of the Investigation File.",
+    "page_number": "7"
+  },
+  {
+    "id": 47,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Describe Chief Brown's routine when he encountered a case he could not solve.",
+    "answer": "When he faced a tough case, he didn't worry at his desk. He cleared it at once, put on his hat, and went home to dinner. He then discussed the facts with Encyclopedia and his wife over the soup.",
+    "keywords": [
+      "cleared his desk",
+      "home to dinner",
+      "soup"
+    ],
+    "explanation": "The text describes the habit of Chief Brown bringing his unsolvable mysteries home to his secret weapon, Leroy. This is found on page 2 of the story PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 48,
+    "subject": "English",
+    "chapter": "Grammar",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "What modifications are made to pronouns when reporting direct speech? Provide three examples.",
+    "answer": "Pronouns change to match the speaker's perspective. Examples: 'I' changes to 'he/she', 'my' changes to 'his/her', and 'we' changes to 'they'. This ensures the reported sentence makes sense to the listener.",
+    "keywords": [
+      "pronoun changes",
+      "perspective",
+      "he/she",
+      "they"
+    ],
+    "explanation": "The grammar chart on page 14 of the story PDF lists various pronoun shifts for reporting speech. This is found on page 14 of the story PDF.",
+    "page_number": "14"
+  },
+  {
+    "id": 49,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Explain the character intent of Nolan: What he did, why he did it, and what it shows about him.",
+    "answer": "Nolan left a coded message using a calendar sheet. He did this because he wanted the stolen jewellery’s location to be discovered by Davenport after his death. This shows he was thoughtful but secretive.",
+    "keywords": [
+      "coded message",
+      "jewellery",
+      "thoughtful",
+      "secretive"
+    ],
+    "explanation": "The character-intent chart in the Learning Resource analyzes Nolan's motivations. This is found on page 3 of the Answer Key PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 50,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Analyze the role of the four-word coded message in the story.",
+    "answer": "The coded message ('Nom Utes Sweden Hurts') is the central clue. It functions as a puzzle that requires both linguistic analysis (anagrams) and logical sequencing (days of the week) to uncover the final word and the loot.",
+    "keywords": [
+      "central clue",
+      "anagrams",
+      "logical sequencing"
+    ],
+    "explanation": "This question addresses the core mystery device as mentioned in the composition and summary sections. This is found on page 10 of the story PDF.",
+    "page_number": "10"
+  },
+  {
+    "id": 51,
+    "subject": "English",
+    "chapter": "Vocabulary",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 55
+    },
+    "question": "Solve these anagrams and write a sentence for each: (a) R E L C K (b) Z P D U Z E L.",
+    "answer": "(a) Clerk: The clerk at the store helped the customer. (b) Puzzled: The detective was puzzled by the strange note.",
+    "keywords": [
+      "clerk",
+      "puzzled"
+    ],
+    "explanation": "These are vocabulary exercises focused on rearranging jumbled letters to form meaningful words. This is found on page 2 of the Exercises PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 52,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "Describe the specific location and container where the jewellery was found.",
+    "answer": "The stolen jewellery was found buried inside a twenty-gallon jug of earth. This jug was on the south side of the house and contained the young fir tree at Nolan’s nursery.",
+    "keywords": [
+      "buried",
+      "twenty-gallon jug",
+      "south side",
+      "fir tree"
+    ],
+    "explanation": "The discovery is detailed at the end of the story, linking the code to the physical evidence. This is found on page 7 of the story PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 53,
+    "subject": "English",
+    "chapter": "Values",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "How did the value of 'Integrity' relate to the resolution of the mystery?",
+    "answer": "Integrity involves choosing honesty and fairness. Encyclopedia used his intellectual gifts with integrity to help his father solve a crime, ensuring that the stolen loot was returned to justice rather than being left for criminals.",
+    "keywords": [
+      "honesty",
+      "justice",
+      "intellectual gifts"
+    ],
+    "explanation": "The Learning Value section connects logical thinking and integrity to the solving of difficult problems. This is found on page 4 of the Answer Key PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 54,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "What was the 'unique dilemma' faced by Chief Brown regarding his son?",
+    "answer": "Chief Brown was proud of Leroy being the smartest detective, but he knew an eighth grader being better than adults would seem unbelievable. His dilemma was wanting to share the truth while knowing people would not accept it.",
+    "keywords": [
+      "pride",
+      "unbelievable",
+      "eighth grader"
+    ],
+    "explanation": "This point is highlighted in the 'Let us think and reflect' section of the workbook. This is found on page 9 of the story PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 55,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Illustrate the concept of Spoonerisms with two examples provided in the text.",
+    "answer": "A spoonerism is swapping the first sounds of words. Examples from the text include 'blarm wanket' for 'warm blanket' and 'mardon me padam' for 'pardon me madam'.",
+    "keywords": [
+      "swapping",
+      "blarm wanket",
+      "mardon me"
+    ],
+    "explanation": "The text defines spoonerisms and provides several playful examples for practice. This is found on page 12 of the story PDF.",
+    "page_number": "12"
+  },
+  {
+    "id": 56,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "Why did the four coded words seem like random names/places to the parents?",
+    "answer": "Mrs. Brown interpreted the words literally: 'Nom' as grammar, 'Utes' as a tribe, 'Sweden' as a country, and 'Hurts' as pain. Without the 'calendar' context, they could not see the linguistic pattern Nolan had used.",
+    "keywords": [
+      "literal",
+      "grammar",
+      "tribe",
+      "country"
+    ],
+    "explanation": "The story contrasts Mrs. Brown's literal academic knowledge with Leroy's logical pattern recognition. This is found on page 6 of the story PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 57,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "Discuss the importance of 'Observation over Guesswork' as a detective's lesson.",
+    "answer": "Leroy didn't guess the tree's location; he observed a familiar calendar sheet used in an unfamiliar way. By observing the pattern instead of guessing at the word meanings, he found the truth. This shows that careful observation leads to logic.",
+    "keywords": [
+      "observation",
+      "pattern",
+      "unfamiliar way",
+      "logic"
+    ],
+    "explanation": "The Investigation File concludes with this key lesson for student detectives. This is found on page 8 of the Investigation File.",
+    "page_number": "8"
+  },
+  {
+    "id": 58,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "How does the 'Character-Intent Chart' help in understanding the mystery?",
+    "answer": "It maps out what each character did and why. For example, it explains that Davenport disappeared to avoid suspicion, which helps the reader understand that he was likely waiting for a sign from Nolan about the loot.",
+    "keywords": [
+      "maps out",
+      "motivation",
+      "suspicion"
+    ],
+    "explanation": "The chart is an assessment tool used to ensure students understand the motivations behind character actions. This is found on page 3 of the Answer Key PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 59,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "Summarize the 'Diamond Mart Heist' sequence of events.",
+    "answer": "Two masked men stole $1M in jewellery. Nolan was suspected because a clerk saw his face. Davenport, his partner, disappeared immediately. The loot remained hidden for five years until Nolan’s death and his final coded message.",
+    "keywords": [
+      "masked men",
+      "suspected",
+      "vanished",
+      "five years"
+    ],
+    "explanation": "The sequence of events is visually outlined in the Investigation File to give context to the mystery. This is found on page 2 of the Investigation File.",
+    "page_number": "2"
+  },
+  {
+    "id": 60,
+    "subject": "English",
+    "chapter": "Grammar",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Match three phrasal verbs from the text with their meanings and use one in a sentence.",
+    "answer": "1. Put on: to wear. 2. Turned up: appeared. 3. Make of: to understand. Sentence: 'I do not know what to make of his strange behavior.'",
+    "keywords": [
+      "put on",
+      "turned up",
+      "make of"
+    ],
+    "explanation": "This activity tests the students' ability to link idiomatic phrasal verbs to their literal definitions. This is found on page 11 of the story PDF.",
+    "page_number": "11"
+  },
+  {
+    "id": 61,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "What does the text say about why Leroy never spoke of the help he gave his father?",
+    "answer": "He never spoke of it because he didn't want to seem different from other boys. He preferred to solve cases quietly at the dinner table and stay a normal eighth grader among his peers.",
+    "keywords": [
+      "different",
+      "quietly",
+      "normal"
+    ],
+    "explanation": "The narrative emphasizes Leroy's modesty and his desire for a normal social life despite his genius. This is found on page 2 of the story PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 62,
+    "subject": "English",
+    "chapter": "Grammar",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "How do 'Time and Place' words change in Reported Speech? Give three examples.",
+    "answer": "Words that show nearness change to words showing distance. 'Now' becomes 'then', 'here' becomes 'there', and 'yesterday' becomes 'the day before'.",
+    "keywords": [
+      "then",
+      "there",
+      "day before"
+    ],
+    "explanation": "The 'Time and Place Changes' table on page 15 lists standard transformations for indirect speech. This is found on page 15 of the story PDF.",
+    "page_number": "15"
+  },
+  {
+    "id": 63,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "Describe the clues Encyclopedia used to reach the correct logical sequence of events.",
+    "answer": "First, Nolan placed his will on the table. Second, Chief Brown discovered the calendar sheet. Third, Chief Brown read the four-word code. Fourth, Encyclopedia realized the fifth word was 'Fir'. Finally, he asked about the fir tree.",
+    "keywords": [
+      "logical sequence",
+      "will",
+      "calendar sheet",
+      "fir tree"
+    ],
+    "explanation": "The comprehension exercise in the Learning Resource requires students to order these specific events. This is found on page 4 of the Answer Key PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 64,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "What is the lesson to be learned from the 'Case File Glossary' terms in this story?",
+    "answer": "The glossary shows that solving a mystery requires understanding legal terms like 'testify', gut feelings like a 'hunch', and the physical object of the crime, the 'loot'. Together, these elements form a complete investigation.",
+    "keywords": [
+      "testify",
+      "hunch",
+      "loot",
+      "investigation"
+    ],
+    "explanation": "The glossary provides case-specific context for general vocabulary terms to deepen comprehension. This is found on page 10 of the Investigation File.",
+    "page_number": "10"
+  },
+  {
+    "id": 65,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 150
+    },
+    "question": "Write a character sketch of Leroy 'Encyclopedia' Brown using specific examples from the story.",
+    "answer": "Leroy Brown, nicknamed 'Encyclopedia', is an exceptional eighth grader who acts as his father's secret weapon. He is intellectually curious and possesses a library-like memory, having read more books than anyone in Idaville. Despite his genius, he is humble and patient, solving cases at the dinner table without seeking public credit. He prefers to blend in with other children, which is why he never speaks of his detective work. His method relies on careful observation and logical thinking rather than guesswork. For instance, in this case, he noticed the context of the calendar sheet to crack a code his father couldn't, proving that his knowledge is truly 'user-friendly' and effective.",
+    "keywords": [
+      "character sketch",
+      "library-like memory",
+      "humble",
+      "secret weapon",
+      "logic"
+    ],
+    "explanation": "This requires synthesizing character traits and evidence from both the story and the investigator profile. This is found on page 3 of the Investigation File.",
+    "page_number": "3"
+  },
+  {
+    "id": 66,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 120,
+      "max": 180
+    },
+    "question": "Explain the complete logic behind 'The Case of the Fifth Word', from the calendar sheet to the discovery of the loot.",
+    "answer": "The logic began with the clue that the four words were written on a sheet from a desk calendar. Encyclopedia realized the words were anagrams of days of the week. By dropping 'D-A-Y' from the names of the days, Nolan was left with 'Mon', 'Tues', 'Wednes', and 'Thurs'. He rearranged these to form 'Nom', 'Utes', 'Sweden', and 'Hurts'. Following this logical sequence (Monday to Thursday), Encyclopedia deduced the unwritten fifth word for Friday. Removing 'day' from 'Friday' leaves 'Fri', which Nolan rearranged into 'Fir'. Recognizing that a fir tree is an anomaly in a palm-tree nursery, Encyclopedia asked his father about its presence. The jewellery was finally found buried in a jug beneath that very tree.",
+    "keywords": [
+      "calendar sheet",
+      "anagrams",
+      "Friday",
+      "Fir",
+      "buried",
+      "nursery"
+    ],
+    "explanation": "This is a comprehensive explanation of the entire plot's resolution as detailed in the 'Cracking the Cipher' and 'The Deduction' sections. This is found on page 7 of the story PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 67,
+    "subject": "English",
+    "chapter": "Grammar",
+    "difficulty": "medium",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 80,
+      "max": 130
+    },
+    "question": "Provide a guide on 'Connectors', including four types and an example sentence for each from the text.",
+    "answer": "Connectors link ideas and show relationships between parts of a sentence. 1. Reason: 'Because' shows why something happened. Example: 'He solved the case because he was observant.' 2. Contrast: 'Although' shows conflicting ideas. Example: 'The witness was nervous although she answered clearly.' 3. Time: 'When' or 'While' shows timing. Example: 'The team reached the scene when it was getting dark.' 4. Place: 'Where' identifies a location. Example: 'This is the street where the robbery occurred.' Using these connectors helps in creating meaningful and complex sentences.",
+    "keywords": [
+      "Connectors",
+      "Reason",
+      "Contrast",
+      "Time",
+      "Place"
+    ],
+    "explanation": "The Grammar Corner section in the Answer Key and Exercises provides the structure for this response. This is found on page 2 of the Answer Key PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 68,
+    "subject": "English",
+    "chapter": "Values",
+    "difficulty": "hard",
+    "essay": "long_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 150
+    },
+    "question": "Analyze the theme of 'Integrity' in the context of solving problems and making decisions.",
+    "answer": "Integrity is the quality of being honest and having strong moral principles. In the story, it is shown as choosing to do what is right even when it's difficult. In problem-solving, integrity means seeking the truth through logical thinking rather than taking shortcuts or making up answers. People who act with integrity can be trusted to make fair decisions, even when others are not being truthful. For Encyclopedia, his integrity is demonstrated by his selfless use of his knowledge to help the community and support his father's work in law enforcement, without the need for fame or glory.",
+    "keywords": [
+      "Integrity",
+      "honesty",
+      "trustworthy",
+      "logical thinking",
+      "selfless"
+    ],
+    "explanation": "The text links integrity directly to the importance of making right decisions in difficult situations. This is found on page 7 of the Exercises PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 69,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Elaborate on the 'Detective's Toolkit' (Anagrams and Spoonerisms) and how they are used to hide information.",
+    "answer": "A detective's toolkit contains linguistic methods like anagrams and spoonerisms to hide or decode messages. Anagrams involve rearranging letters to look like different words, as seen when 'Mon' (Monday) became 'Nom'. This hides the meaning from people who don't have the 'key' or context. Spoonerisms swap initial sounds, like 'plaster man' for 'master plan'. This can hide a conversation's true intent from eavesdroppers. Both tools require the investigator to look at familiar information in unfamiliar ways. Mastering these concepts helps a detective like Encyclopedia identify hidden patterns and solve linguistic ciphers that others overlook.",
+    "keywords": [
+      "Anagrams",
+      "Spoonerisms",
+      "rearranging",
+      "swapping",
+      "hidden patterns"
+    ],
+    "explanation": "The Toolkit exhibit in the Investigation File explains these two methods with examples and case context. This is found on page 9 of the Investigation File.",
+    "page_number": "9"
+  },
+  {
+    "id": 70,
+    "subject": "English",
+    "chapter": "Grammar",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 150
+    },
+    "question": "Explain the rules and provide transformations for 'Tense Changes' and 'Pronoun Changes' in Reported Speech.",
+    "answer": "When reporting speech, we shift tense and perspective. For Tense: Present changes to Past (e.g., 'go' to 'went'), Past changes to Past Perfect ('went' to 'had gone'), and Present Perfect changes to Past Perfect. For Pronouns: They shift based on who is being reported. 'I' becomes 'he/she', 'you' becomes 'I/he/she/we', and 'my' becomes 'his/her'. For example, if a boy says 'I saw my friend', the report is 'He said that he had seen his friend'. These changes ensure the reported message correctly reflects the past event from the reporter’s point of view.",
+    "keywords": [
+      "Tense Changes",
+      "Pronoun Changes",
+      "Past Perfect",
+      "he/she",
+      "perspective"
+    ],
+    "explanation": "Pages 14 and 15 of the story PDF provide detailed charts for both tense and pronoun transformations. This is found on page 14 of the story PDF.",
+    "page_number": "14"
+  },
+  {
+    "id": 71,
+    "subject": "English",
+    "chapter": "Composition",
+    "difficulty": "medium",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 120,
+      "max": 180
+    },
+    "question": "Draft a short report on an 'Inter-school Art Exhibition' following the format provided in the text.",
+    "answer": "Inter-school Art Exhibition by [Your Name], Class 8. \nAn Inter-school Art Exhibition was organized by our school from 10 May to 12 May at the Central Hall. Five schools participated in the event. \nThe exhibition was declared open by the Chief Guest, a famous local artist. Following the opening, guests viewed the paintings and sculptures created by students. The competition was tough, but our school emerged with the top prize for creativity. \nFinally, students were cheered by their teachers for their hard work. A prize-giving ceremony was held on the final day. \nThe winning team was awarded a trophy. Addressing the students, the Chief Guest said, 'Art is the window to the soul'. The event was a great success, showcasing teamwork and talent.",
+    "keywords": [
+      "Report",
+      "Art Exhibition",
+      "organized",
+      "Chief Guest",
+      "success"
+    ],
+    "explanation": "The composition section provides a scaffolded report format that students must follow for their own topics. This is found on page 20 of the story PDF.",
+    "page_number": "20"
+  },
+  {
+    "id": 72,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 110,
+      "max": 160
+    },
+    "question": "Critically evaluate the 'Character Intent Mapping' for Nolan, Davenport, and Encyclopedia.",
+    "answer": "Character intent mapping reveals the motivations behind the mystery. Nolan's action of leaving a coded message was driven by his desire to tell his partner the loot's location after his death, showing he was secretive. Davenport's disappearance was intended to avoid police suspicion, revealing he was fearful and cautious. Encyclopedia's intent in asking the vital question was to test his logical theory, proving he is intelligent and observant. By mapping these intents, the investigator (and the reader) can see that the mystery is solved when the detective's intelligence correctly interprets the secretive criminal's code, while accounting for the fearful partner's absence.",
+    "keywords": [
+      "intent mapping",
+      "motivation",
+      "secretive",
+      "fearful",
+      "intelligent"
+    ],
+    "explanation": "The mapping chart in the Answer Key evaluates how actions reveal specific character traits. This is found on page 3 of the Answer Key PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 73,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 150
+    },
+    "question": "Explain the process of 'Bridging Fact and Inference' using the three examples from the Investigation File.",
+    "answer": "Bridging fact and inference is the heart of detective work. Fact 1: Davenport disappeared after the robbery; Inference: He was involved and is hiding to avoid arrest. Fact 2: Nolan wrote a coded message while dying; Inference: He had moved the jewellery and needed Davenport to know where. Fact 3: The message was on a desk calendar; Inference: The solution is linked to dates or days. By combining these, Encyclopedia concludes that the calendar provides the key to the code which Davenport was waiting for to find the loot.",
+    "keywords": [
+      "Fact",
+      "Inference",
+      "hiding",
+      "jewellery",
+      "calendar"
+    ],
+    "explanation": "The Investigation File uses a table to show how detectives move from literal data to logical conclusions. This is found on page 5 of the Investigation File.",
+    "page_number": "5"
+  },
+  {
+    "id": 74,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 120,
+      "max": 170
+    },
+    "question": "Discuss the lessons 'Observation over Guesswork' and 'Context is King' using details from the story.",
+    "answer": "These two lessons explain Leroy's success. 'Observation over Guesswork' means Leroy didn't guess what the words meant; he observed the calendar sheet and recognized it as a key. He looked at familiar info in an unfamiliar way. 'Context is King' means the word 'Fir' was useless without the context of the palm-tree nursery. Only by knowing Nolan's specific business did Leroy realize that a fir tree was an anomaly. By combining careful observation of the clue with the specific context of the suspect's life, Leroy was able to solve a case that had stumped the police for five years.",
+    "keywords": [
+      "Observation",
+      "Guesswork",
+      "Context",
+      "Anomaly",
+      "Palm nursery"
+    ],
+    "explanation": "The Investigation File explicitly lists these as 'The Detective's Lesson' at the end of the case study. This is found on page 8 of the Investigation File.",
+    "page_number": "8"
+  },
+  {
+    "id": 75,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 110,
+      "max": 160
+    },
+    "question": "How does the author build suspense through the interactions between Encyclopedia and his parents?",
+    "answer": "The author builds suspense by showing the parents' failure before Leroy speaks. Chief Brown, an experienced officer, is confused and shakes his head. Mrs. Brown, a former teacher, tries to use grammar and geography to decode the words but fails and 'confesses' she can't figure it out. This highlights the difficulty of the puzzle. Leroy sits 'quietly' during this, building anticipation. When he finally closes his eyes for 'his hardest thinking' and asks a single question about a tree, the tension is released as the parents realize the answer was right in front of them.",
+    "keywords": [
+      "suspense",
+      "failure",
+      "confused",
+      "hardest thinking",
+      "single question"
+    ],
+    "explanation": "The narrative structure uses the parents' inability to solve the code to emphasize Encyclopedia's unique intelligence. This is found on page 5 of the story PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 76,
+    "subject": "English",
+    "chapter": "Grammar",
+    "difficulty": "medium",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 150
+    },
+    "question": "Describe the modifications needed for 'Wh-' and 'Yes/No' questions when converting to Indirect Speech.",
+    "answer": "To convert questions, first replace 'said' with 'asked' or 'inquired'. For 'Wh-' questions, the question word (where, why, etc.) follows the reporting verb immediately. For 'Yes/No' questions, we must add 'if' or 'whether' after the reporting verb. Crucially, the sentence must be changed from an interrogative to a declarative form, and the question mark must be removed. Tense and pronouns must shift as per the standard rules. For example, 'Are you okay?' becomes 'He asked if I was okay'. This process removes the direct inquiry and reports it as a statement of what was asked.",
+    "keywords": [
+      "Wh- questions",
+      "Yes/No questions",
+      "if/whether",
+      "declarative",
+      "asked"
+    ],
+    "explanation": "The grammar section on page 15 of the story PDF outlines these specific rules for interrogative sentences. This is found on page 15 of the story PDF.",
+    "page_number": "15"
+  },
+  {
+    "id": 77,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 120,
+      "max": 180
+    },
+    "question": "Evaluate the role of the environment (the dinner table) and how it affects the storytelling in this mystery.",
+    "answer": "The dinner table is the essential setting for Encyclopedia Brown stories. It represents a safe, domestic space where the family connects. It contrasts the 'dangerous' world of crime with the 'warmth' of a home. This setting allows Chief Brown to share cases in a relaxed way, and it allows Leroy to solve them 'before dessert'. It also establishes a family dynamic where both parents participate—Mrs. Brown with her academic insights and Chief Brown with police facts. The 'unsolvable' mystery becomes a shared family challenge, and solving it before the meal ends serves as a recurring symbol of Leroy's efficiency and genius.",
+    "keywords": [
+      "dinner table",
+      "domestic",
+      "family dynamic",
+      "before dessert",
+      "efficiency"
+    ],
+    "explanation": "The text describes these discussions generally being held at the dining table, framing the mystery within a family unit. This is found on page 2 of the story PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 78,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 150
+    },
+    "question": "What qualities of a detective are highlighted through Encyclopedia’s actions? Support with instances from the text.",
+    "answer": "Encyclopedia demonstrates three key detective qualities: vast knowledge, patience, and logic. His knowledge is shown by his nicknames and his pal's description of him as a 'library'. His patience is evident when he 'sat quietly' while his parents discussed the case, listening for every fact. His logic is best shown in the cipher solution—he didn't look at 'Sweden' as a country but as a group of letters from 'Wednesday'. He also shows 'Integrity' by not bragging. These qualities allowed him to solve a heist that remained a mystery to the professional police for five long years.",
+    "keywords": [
+      "knowledge",
+      "patience",
+      "logic",
+      "library",
+      "cipher"
+    ],
+    "explanation": "The story and the supplemental worksheets emphasize these traits as essential to Encyclopedia's character and success. This is found on page 8 of the story PDF.",
+    "page_number": "8"
+  },
+  {
+    "id": 79,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "hard",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 110,
+      "max": 170
+    },
+    "question": "Why were Chief Brown's suspicions regarding Nolan and Davenport justified even with a lack of concrete proof?",
+    "answer": "His suspicions were justified because of multiple strong circumstantial factors. First, Nolan and Davenport were ex-prison mates. Second, a clerk partially recognized Nolan during the heist. Third, Davenport disappeared exactly when the jewels were hidden. Fourth, Nolan's business was a failing nursery that 'barely yielded him a living', suggesting he had alternative sources of wealth or was hiding something. Finally, Nolan's dying act was to leave a code specifically for Davenport. These facts together created a 'hunch' that Encyclopedia's logic eventually proved was correct.",
+    "keywords": [
+      "suspicions",
+      "ex-convicts",
+      "circumstantial",
+      "failing nursery",
+      "justified"
+    ],
+    "explanation": "The narrative explores the 'hunch' of the Chief and how a collection of smaller facts points toward the truth. This is found on page 4 of the story PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 80,
+    "subject": "English",
+    "chapter": "The Case of the Fifth Word-QA-v1",
+    "difficulty": "medium",
+    "question_type": "essay",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 150
+    },
+    "question": "Summarize the story 'The Case of the Fifth Word' in about 150 words.",
+    "answer": "Leroy 'Encyclopedia' Brown is an intelligent 8th grader who helps his father, Chief Brown, solve crimes. One evening, Chief Brown discusses a five-year-old jewel heist. Tim Nolan, a suspect, recently died and left a will for his partner Daniel Davenport. Attached was a calendar sheet with the code 'Nom Utes Sweden Hurts'. Mrs. Brown attempts to decode it using grammar and geography but fails. Encyclopedia realizes the words are anagrams of the days of the week (Monday-Thursday) minus 'day'. He deduces the fifth word for Friday would be 'Fir'. Recognizing this refers to a tree in Nolan's palm-tree nursery, he asks his father to check it. The police discover the stolen million-dollar jewels buried under a fir tree in a twenty-gallon jug. Encyclopedia solves the case quietly at dinner, proving that context and logic are a detective's best tools.",
+    "keywords": [
+      "summary",
+      "Encyclopedia",
+      "jewel heist",
+      "calendar code",
+      "Fir tree",
+      "logic"
+    ],
+    "explanation": "This is a standard narrative summary covering the introduction, conflict, climax (decoding), and resolution of the story. This is found on page 10 of the Answer Key PDF.",
+    "page_number": "10"
+  }
+]
