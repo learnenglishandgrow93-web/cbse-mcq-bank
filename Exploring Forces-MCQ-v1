@@ -1,0 +1,2722 @@
+[
+{
+"id": 1,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "What is the fundamental scientific definition of a force?",
+"options": [
+"The energy possessed by a moving object.",
+"A push or a pull acting on an object.",
+"The speed at which an object travels.",
+"The direction of motion of an object."
+],
+"answer": "A push or a pull acting on an object.",
+"explanation": "In science, a force is fundamentally defined as a push or a pull acting on an object. Any action like lifting, kicking, or opening involves pushing or pulling. This interaction causes changes in the object's state of motion or shape. (Textbook Chapter 5, Page 63)",
+"page_number": "63"
+},
+{
+"id": 2,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "Which of the following represents the Standard International (SI) unit of force?",
+"options": [
+"Joule",
+"Pascal",
+"Newton",
+"Watt"
+],
+"answer": "Newton",
+"explanation": "The strength of a force is usually expressed by its magnitude. The standard unit used to measure this magnitude of force in the International System of Units (SI) is the Newton, denoted by the symbol 'N'. (Textbook Chapter 5, Page 65)",
+"page_number": "65"
+},
+{
+"id": 3,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "How many objects must interact for a force to come into play?",
+"options": [
+"At least one object",
+"At least two objects",
+"At least three objects",
+"No objects are required"
+],
+"answer": "At least two objects",
+"explanation": "A force arises solely due to the interaction between objects. For any force to come into play and exert an effect, there must be an interaction between at least two objects. Once the interaction ceases, the force disappears. (Textbook Chapter 5, Page 65)",
+"page_number": "65"
+},
+{
+"id": 4,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "Which of the following is a classic example of a contact force?",
+"options": [
+"Gravitational force",
+"Magnetic force",
+"Electrostatic force",
+"Muscular force"
+],
+"answer": "Muscular force",
+"explanation": "Contact forces are those that act only when there is physical contact between objects. Muscular force, which results from the action of muscles during activities like lifting or pushing, requires direct physical contact with the object. (Textbook Chapter 5, Page 66)",
+"page_number": "66"
+},
+{
+"id": 5,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "Which type of force can exert a pull on an object from a distance without physical contact?",
+"options": [
+"Frictional force",
+"Muscular force",
+"Magnetic force",
+"Mechanical force"
+],
+"answer": "Magnetic force",
+"explanation": "Forces whose effects can be experienced even when objects are not in physical contact are known as non-contact forces. A magnet can attract or repel magnetic materials from a distance, making magnetic force a non-contact force. (Textbook Chapter 5, Page 69)",
+"page_number": "69"
+},
+{
+"id": 6,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "What is the force that always acts opposite to the direction of motion of an object?",
+"options": [
+"Frictional force",
+"Gravitational force",
+"Muscular force",
+"Magnetic force"
+],
+"answer": "Frictional force",
+"explanation": "The force of friction comes into play when an object moves or tries to move over another surface. It always acts in a direction opposite to the object's motion, causing moving objects to eventually slow down and stop. (Textbook Chapter 5, Page 68)",
+"page_number": "68"
+},
+{
+"id": 7,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "What causes all objects thrown upwards to eventually fall back to the ground?",
+"options": [
+"Frictional force",
+"Gravitational force",
+"Magnetic force",
+"Electrostatic force"
+],
+"answer": "Gravitational force",
+"explanation": "The Earth exerts an invisible, attractive pull on all objects near its surface. This universal attractive force, which pulls objects downwards towards the center of the Earth, is called the gravitational force or gravity. (Textbook Chapter 5, Page 72)",
+"page_number": "72"
+},
+{
+"id": 8,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "Which instrument is commonly used in laboratories to measure the weight of an object?",
+"options": [
+"Thermometer",
+"Barometer",
+"Spring balance",
+"Speedometer"
+],
+"answer": "Spring balance",
+"explanation": "A spring balance is a simple device used to measure force, specifically weight. It consists of a spring that stretches when an object is hung from its hook. The amount of stretch indicates the object's weight on a calibrated scale. (Textbook Chapter 5, Page 73)",
+"page_number": "73"
+},
+{
+"id": 9,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "What is the upward push exerted by a liquid on an object immersed in it called?",
+"options": [
+"Gravitational force",
+"Frictional force",
+"Buoyant force",
+"Magnetic force"
+],
+"answer": "Buoyant force",
+"explanation": "When an object is placed in a fluid like water, the fluid exerts an upward force that opposes the gravitational pull. This upward force exerted by a liquid on an object is known as upthrust or buoyant force. (Textbook Chapter 5, Page 76)",
+"page_number": "76"
+},
+{
+"id": 10,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "What effect does pressing a fully inflated balloon with your hands have?",
+"options": [
+"It changes the state of motion.",
+"It changes the direction of motion.",
+"It changes the shape of the balloon.",
+"It increases the mass of the balloon."
+],
+"answer": "It changes the shape of the balloon.",
+"explanation": "A force applied to an object can alter its physical shape. When you press an inflated balloon from both sides, the applied muscular force deforms it, bringing about a noticeable change in the shape of the object. (Textbook Chapter 5, Page 64)",
+"page_number": "64"
+},
+{
+"id": 11,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "Animals like bullocks and horses pull carts using which type of force?",
+"options": [
+"Gravitational force",
+"Muscular force",
+"Frictional force",
+"Electrostatic force"
+],
+"answer": "Muscular force",
+"explanation": "Animals use muscular force for movement and carrying out physical tasks. Humans have long utilized the muscular force of animals like bullocks, horses, and camels to do heavy work, such as pulling carts and ploughing fields. (Textbook Chapter 5, Page 67)",
+"page_number": "67"
+},
+{
+"id": 12,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "What happens when two like poles of a magnet (e.g., North and North) are brought close together?",
+"options": [
+"They attract each other.",
+"They repel each other.",
+"They stick together permanently.",
+"They lose their magnetic properties."
+],
+"answer": "They repel each other.",
+"explanation": "Magnets have specific rules of interaction based on their poles. When two like poles, such as North-North or South-South, are brought close to each other, they exert a repulsive magnetic force and push away from one another. (Textbook Chapter 5, Page 69)",
+"page_number": "69"
+},
+{
+"id": 13,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "What happens when an unlike pole of a magnet (North) is brought near the South pole of another magnet?",
+"options": [
+"They attract each other.",
+"They repel each other.",
+"They show no reaction.",
+"They destroy each other's field."
+],
+"answer": "They attract each other.",
+"explanation": "In magnetism, opposite properties attract. When two unlike poles (North and South) of different magnets are brought close to each other, they exert an attractive magnetic force and pull towards each other. (Textbook Chapter 5, Page 69)",
+"page_number": "69"
+},
+{
+"id": 14,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "What is the interaction between two similarly charged objects?",
+"options": [
+"They attract each other.",
+"They repel each other.",
+"They neutralise each other.",
+"They do not affect each other."
+],
+"answer": "They repel each other.",
+"explanation": "When two objects acquire the same kind of static charge (e.g., both positive or both negative), they exert a repulsive electrostatic force on each other. This is similar to the behavior of like magnetic poles. (Textbook Chapter 5, Page 71)",
+"page_number": "71"
+},
+{
+"id": 15,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "What happens to a moving bicycle if you start pedalling it harder?",
+"options": [
+"Its speed decreases.",
+"Its speed increases.",
+"It stops immediately.",
+"Its direction reverses."
+],
+"answer": "Its speed increases.",
+"explanation": "Applying a force in the direction of an object's motion increases its speed. By pedalling a bicycle harder, you are applying more muscular force in the direction it is moving, which speeds it up. (Chapter 2 Notes, Page 21)",
+"page_number": "21"
+},
+{
+"id": 16,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "Applying the brakes on a moving bicycle demonstrates which effect of force?",
+"options": [
+"Force can increase the speed of a moving object.",
+"Force can decrease the speed of a moving object.",
+"Force can change the shape of an object.",
+"Force can start motion from rest."
+],
+"answer": "Force can decrease the speed of a moving object.",
+"explanation": "Applying brakes creates friction against the wheels, which acts in the opposite direction of the bicycle's motion. This external force successfully slows down the bicycle, demonstrating that force can decrease speed. (Chapter 2 Notes, Page 21)",
+"page_number": "21"
+},
+{
+"id": 17,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "What term is used to describe the amount of matter contained in an object?",
+"options": [
+"Weight",
+"Density",
+"Mass",
+"Volume"
+],
+"answer": "Mass",
+"explanation": "Mass is defined scientifically as the absolute amount of matter present in an object. Unlike weight, which depends on gravity, the mass of an object remains constant everywhere in the universe. (Textbook Chapter 5, Page 75)",
+"page_number": "75"
+},
+{
+"id": 18,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "Which of the following is the standard unit for measuring mass?",
+"options": [
+"Newton",
+"Kilogram",
+"Joule",
+"Meter"
+],
+"answer": "Kilogram",
+"explanation": "The mass of an object, which measures the amount of matter it contains, is standardly measured in grams (g) or kilograms (kg). It should not be confused with weight, which is measured in Newtons. (Textbook Chapter 5, Page 75)",
+"page_number": "75"
+},
+{
+"id": 19,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "Does the mass of an object change when taken from the Earth to the Moon?",
+"options": [
+"Yes, it becomes one-sixth.",
+"Yes, it increases.",
+"No, it remains exactly the same.",
+"Yes, it becomes zero."
+],
+"answer": "No, it remains exactly the same.",
+"explanation": "Mass is an intrinsic property indicating the amount of matter in an object. Its value remains the same at every place in the universe, meaning a 1 kg object on Earth still has a mass of 1 kg on the Moon. (Textbook Chapter 5, Page 75)",
+"page_number": "75"
+},
+{
+"id": 20,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "Does the weight of an object change when it is moved to a different planet?",
+"options": [
+"No, weight is constant everywhere.",
+"Yes, because gravitational force varies.",
+"No, unless the object's shape changes.",
+"Yes, because mass changes on different planets."
+],
+"answer": "Yes, because gravitational force varies.",
+"explanation": "Weight is the gravitational force with which a planet pulls an object. Since gravitational force varies slightly from place to place on Earth and significantly on different planets, an object's weight can change depending on its location. (Textbook Chapter 5, Page 75)",
+"page_number": "75"
+},
+{
+"id": 21,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "Which famous scientist discovered the principle behind floating and sinking?",
+"options": [
+"Isaac Newton",
+"Albert Einstein",
+"Archimedes",
+"Galileo Galilei"
+],
+"answer": "Archimedes",
+"explanation": "Archimedes, a famous Greek scientist, discovered the principle that when an object is immersed in a liquid, it experiences an upward buoyant force equal to the weight of the liquid it displaces. (Textbook Chapter 5, Page 76)",
+"page_number": "76"
+},
+{
+"id": 22,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "A football rolling on flat ground gradually slows down and stops. Which force is responsible for this?",
+"options": [
+"Magnetic force",
+"Gravitational force",
+"Frictional force",
+"Electrostatic force"
+],
+"answer": "Frictional force",
+"explanation": "Even when no visible force seems to act on a rolling ball, the force of friction acts between the surface of the ball and the ground. It acts in the opposite direction of the motion, gradually bringing the ball to a stop. (Textbook Chapter 5, Page 67)",
+"page_number": "67"
+},
+{
+"id": 23,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "Leaves falling from a tree to the ground are acting under the influence of which force?",
+"options": [
+"Muscular force",
+"Frictional force",
+"Magnetic force",
+"Gravitational force"
+],
+"answer": "Gravitational force",
+"explanation": "All objects, including leaves detaching from a tree, are pulled downwards toward the Earth's surface. This constant, invisible, attractive pull exerted by the Earth is called gravitational force or gravity. (Textbook Chapter 5, Page 71)",
+"page_number": "71"
+},
+{
+"id": 24,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "easy",
+"question_type": "standard",
+"question": "What is the mathematical formula used to calculate density?",
+"options": [
+"Density = Mass × Volume",
+"Density = Mass ÷ Volume",
+"Density = Volume ÷ Mass",
+"Density = Force ÷ Area"
+],
+"answer": "Density = Mass ÷ Volume",
+"explanation": "Density is a measure of how much matter is packed into a given space. The formula to calculate the density of an object is its mass divided by its volume (Density = Mass ÷ Volume). (Chapter 2 Notes, Page 35)",
+"page_number": "35"
+},
+{
+"id": 25,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "If two people are pushing a heavy box in the same direction with forces of 2 N and 6 N, what is the net resultant force acting on the box?",
+"options": [
+"4 N",
+"12 N",
+"8 N",
+"0 N"
+],
+"answer": "8 N",
+"explanation": "When two or more forces act on an object in the same direction, the total or net force is calculated as the sum of their individual magnitudes. Here, 2 N + 6 N results in a net applied force of 8 N. (Chapter 2 Notes, Page 19)",
+"page_number": "19"
+},
+{
+"id": 26,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "In a game of tug of war, two teams pull the rope with an equal force of 300 N in opposite directions. What is the net force on the rope?",
+"options": [
+"600 N",
+"300 N",
+"0 N",
+"150 N"
+],
+"answer": "0 N",
+"explanation": "When two equal forces act on an object in completely opposite directions, they balance each other out. The net force is the difference between them (300 N - 300 N = 0 N), resulting in no change in the state of motion. (Chapter 2 Notes, Page 19)",
+"page_number": "19"
+},
+{
+"id": 27,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "Person A pushes a cart with 8 N to the right. Person B pushes the same cart with 6 N to the left. What is the resultant force and its direction?",
+"options": [
+"14 N to the right",
+"2 N to the right",
+"2 N to the left",
+"14 N to the left"
+],
+"answer": "2 N to the right",
+"explanation": "When forces act in opposite directions, the net force is the difference between the two magnitudes (8 N - 6 N = 2 N). The resultant force acts in the direction of the larger force, which is to the right. (Chapter 2 Notes, Page 20)",
+"page_number": "20"
+},
+{
+"id": 28,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "Why are fast-moving vehicles like aeroplanes, ships, and speedboats designed with streamlined shapes?",
+"options": [
+"To look aesthetically pleasing.",
+"To increase their internal volume.",
+"To reduce the force of friction exerted by air or water.",
+"To increase their weight for better stability."
+],
+"answer": "To reduce the force of friction exerted by air or water.",
+"explanation": "Friction is not limited to solid surfaces; fluids like air and water also exert frictional drag. Vehicles moving through these fluids are given streamlined shapes specifically to minimize fluid friction and save energy. (Textbook Chapter 5, Page 68)",
+"page_number": "68"
+},
+{
+"id": 29,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "Which factor primarily determines the magnitude of frictional force between two sliding objects?",
+"options": [
+"The color of the surfaces.",
+"The nature and roughness of the surfaces in contact.",
+"The speed of the sliding object.",
+"The temperature of the surrounding air."
+],
+"answer": "The nature and roughness of the surfaces in contact.",
+"explanation": "The force of friction depends on the nature of the surfaces in contact. Rougher surfaces possess more irregularities that interlock deeply, thereby generating a greater frictional force compared to smoother surfaces. (Textbook Chapter 5, Page 68)",
+"page_number": "68"
+},
+{
+"id": 30,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "What is the microscopic cause of friction between two seemingly smooth surfaces?",
+"options": [
+"Magnetic attraction between the atoms.",
+"Electrostatic repulsion between the surfaces.",
+"Minute irregularities locking into each other.",
+"Gravitational pull between the two surfaces."
+],
+"answer": "Minute irregularities locking into each other.",
+"explanation": "Friction arises due to tiny irregularities or bumps present on the surfaces in contact. Even surfaces that appear smooth to the naked eye have microscopic roughness, and these irregularities interlock, opposing relative movement. (Textbook Chapter 5, Page 68)",
+"page_number": "68"
+},
+{
+"id": 31,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "A plastic straw rubbed vigorously with a polythene sheet is brought near small pieces of paper. It attracts them due to which force?",
+"options": [
+"Magnetic force",
+"Electrostatic force",
+"Gravitational force",
+"Muscular force"
+],
+"answer": "Electrostatic force",
+"explanation": "Rubbing the plastic straw builds up static electrical charges on its surface. The charged straw then exerts an attractive pull on the uncharged paper pieces, which is known as electrostatic force. (Textbook Chapter 5, Page 70)",
+"page_number": "70"
+},
+{
+"id": 32,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "Unlike magnetic or electrostatic forces, the gravitational force exerted by the Earth is always:",
+"options": [
+"Repulsive in nature.",
+"Attractive in nature.",
+"Zero in a vacuum.",
+"Equal to the mass of the object."
+],
+"answer": "Attractive in nature.",
+"explanation": "While magnetic and electrostatic forces can be both attractive or repulsive depending on the poles or charges, gravitational force is unique because it is always an attractive pull. The Earth constantly pulls objects towards its center. (Textbook Chapter 5, Page 72)",
+"page_number": "72"
+},
+{
+"id": 33,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "Which of the following forces can act as both a push (repulsion) and a pull (attraction)?",
+"options": [
+"Gravitational force",
+"Frictional force",
+"Magnetic force",
+"Muscular force"
+],
+"answer": "Magnetic force",
+"explanation": "Magnetic force can be either attractive or repulsive. When like poles (North-North) face each other, they push apart (repulsion). When unlike poles (North-South) face each other, they pull together (attraction). (Textbook Chapter 5, Page 69)",
+"page_number": "69"
+},
+{
+"id": 34,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "What happens when an uncharged balloon is brought near a balloon that has been rubbed with a woollen cloth?",
+"options": [
+"They repel each other.",
+"They attract each other.",
+"The uncharged balloon pops.",
+"They have no effect on each other."
+],
+"answer": "They attract each other.",
+"explanation": "An object that acquires static charges (like the rubbed balloon) becomes a charged object. A charged object can attract uncharged objects made of certain materials through electrostatic force, even without physical contact. (Textbook Chapter 5, Page 70)",
+"page_number": "70"
+},
+{
+"id": 35,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "When an object is immersed in a fluid, under what condition will the object sink to the bottom?",
+"options": [
+"If Buoyant force = Gravitational force",
+"If Gravitational force < Buoyant force",
+"If Gravitational force > Buoyant force",
+"If the object is perfectly spherical."
+],
+"answer": "If Gravitational force > Buoyant force",
+"explanation": "Two main forces act on a submerged object: gravity pulling down and buoyancy pushing up. If the downward gravitational force (weight) is greater than the upward buoyant force (upthrust), the object will sink. (Chapter 2 Notes, Page 33)",
+"page_number": "33"
+},
+{
+"id": 36,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "Which formula correctly relates Weight (W), Mass (m), and Acceleration due to gravity (g)?",
+"options": [
+"W = m / g",
+"W = g / m",
+"W = m + g",
+"W = m × g"
+],
+"answer": "W = m × g",
+"explanation": "Weight is defined as the force of gravity acting on a mass. It is calculated using the formula Weight = Mass × Acceleration due to gravity, expressed as W = mg. (Chapter 2 Notes, Page 30)",
+"page_number": "30"
+},
+{
+"id": 37,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "Why does a spring balance stretch more when a heavier object is attached to its hook?",
+"options": [
+"Heavier objects have a higher temperature.",
+"The Earth pulls heavier objects more strongly.",
+"Heavier objects generate a magnetic field.",
+"The spring loses its elasticity instantly."
+],
+"answer": "The Earth pulls heavier objects more strongly.",
+"explanation": "A spring balance measures weight based on how much the spring stretches. Heavier objects have more mass, meaning the Earth exerts a stronger gravitational pull on them, causing a greater stretch in the spring. (Chapter 2 Notes, Page 30)",
+"page_number": "30"
+},
+{
+"id": 38,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "Pumice is a type of volcanic rock that can uniquely float on water. What characteristic allows it to do this?",
+"options": [
+"It is coated in natural oils.",
+"It has a streamlined shape.",
+"It traps tiny air bubbles making it less dense than water.",
+"It generates a strong magnetic field pushing against water."
+],
+"answer": "It traps tiny air bubbles making it less dense than water.",
+"explanation": "Pumice forms from rapidly cooling lava that traps lots of gas bubbles inside. This creates a highly porous structure filled with air pockets, making its overall density less than that of water, allowing it to float. (Textbook Chapter 5, Page 76)",
+"page_number": "76"
+},
+{
+"id": 39,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "Why is it usually much easier to slip on a wet floor compared to a dry floor?",
+"options": [
+"Water creates a strong repulsive electrostatic force.",
+"Water increases the gravitational pull on our shoes.",
+"Water reduces the friction between the shoes and the floor.",
+"Water increases the interlocking of microscopic irregularities."
+],
+"answer": "Water reduces the friction between the shoes and the floor.",
+"explanation": "Friction occurs due to irregularities between surfaces. When a floor is wet, the water fills in these microscopic irregularities, acting as a lubricant. This significantly reduces the friction, making it easier to slip. (Level 2 Worksheet, Page 2)",
+"page_number": "2"
+},
+{
+"id": 40,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "If you push an empty, tightly capped plastic bottle deep into a bucket of water and release it, what happens?",
+"options": [
+"It sinks to the bottom completely.",
+"It bounces back up to the surface.",
+"It remains suspended at the depth you released it.",
+"It dissolves slowly into the water."
+],
+"answer": "It bounces back up to the surface.",
+"explanation": "When you push the empty bottle into water, you feel resistance because the water applies an upward buoyant force (upthrust). Once released, this strong buoyant force pushes the less dense bottle rapidly back to the surface. (Textbook Chapter 5, Page 76)",
+"page_number": "76"
+},
+{
+"id": 41,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "Which of the following scenarios best demonstrates that a magnetic force is a non-contact force?",
+"options": [
+"A magnet sticking to a refrigerator door.",
+"A compass needle aligning with the Earth without touching the ground.",
+"A magnet lifting iron nails after physically touching them.",
+"A child dragging a toy train tied to a magnet."
+],
+"answer": "A compass needle aligning with the Earth without touching the ground.",
+"explanation": "Non-contact forces act through space without physical touch. A compass needle aligns with the Earth's magnetic field purely through distance interaction, proving magnetic force does not require direct contact. (Textbook Chapter 5, Page 69)",
+"page_number": "69"
+},
+{
+"id": 42,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "If a heavy box resting on the floor is not moving, what can be concluded about the forces acting on it?",
+"options": [
+"There are absolutely no forces acting on it.",
+"Only gravitational force is acting on it.",
+"The forces acting on it are balancing each other.",
+"The frictional force is zero."
+],
+"answer": "The forces acting on it are balancing each other.",
+"explanation": "An object at rest does not mean forces are absent. It means the forces acting upon it (like gravity pulling down and the floor pushing up) are perfectly balanced, resulting in a net force of zero and no change in motion. (Textbook Chapter 5, Page 65)",
+"page_number": "65"
+},
+{
+"id": 43,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "When a ball is thrown vertically upwards, what happens to its speed as it travels higher?",
+"options": [
+"Its speed continuously increases.",
+"Its speed remains constant.",
+"Its speed goes on decreasing till it stops.",
+"It begins to move horizontally."
+],
+"answer": "Its speed goes on decreasing till it stops.",
+"explanation": "As an object moves vertically upwards, the Earth's gravitational force continuously pulls it downwards, opposite to its direction of motion. This constant opposing force causes the object's speed to decrease until it halts momentarily at the top. (Textbook Chapter 5, Page 72)",
+"page_number": "72"
+},
+{
+"id": 44,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "A force of 10 N pushes an object East, and a force of 15 N pushes it West. What is the state of the resultant force?",
+"options": [
+"25 N towards West",
+"5 N towards East",
+"5 N towards West",
+"25 N towards East"
+],
+"answer": "5 N towards West",
+"explanation": "When forces are applied in opposite directions, the net resultant force is their difference (15 N - 10 N = 5 N). The object will move in the direction of the larger force, which is towards the West. (Chapter 2 Notes, Page 20)",
+"page_number": "20"
+},
+{
+"id": 45,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "Which of the following statements about buoyant force is completely correct?",
+"options": [
+"It always acts in the same direction as gravity.",
+"It is a downward force exerted by solids.",
+"It acts against the gravitational pull of the Earth.",
+"It only acts on objects that sink."
+],
+"answer": "It acts against the gravitational pull of the Earth.",
+"explanation": "Buoyant force, or upthrust, is the upward force exerted by a fluid on an object immersed in it. Since gravity pulls objects downwards towards the Earth, the buoyant force acts directly opposite to the gravitational pull. (Chapter 2 Notes, Page 33)",
+"page_number": "33"
+},
+{
+"id": 46,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "Magnetic levitation trains (Maglev trains) utilise which specific scientific principle to float above the tracks?",
+"options": [
+"Frictional heating between wheels and tracks.",
+"Gravitational attraction to the Earth's core.",
+"Repulsion between similar magnetic poles.",
+"Electrostatic discharge from the train's body."
+],
+"answer": "Repulsion between similar magnetic poles.",
+"explanation": "Maglev trains lack conventional wheels. Instead, they use powerful electromagnets on the track and the underside of the train with like poles facing each other. The resulting strong magnetic repulsion lifts the train, allowing it to float. (Chapter 2 Notes, Page 28)",
+"page_number": "28"
+},
+{
+"id": 47,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "Which of the following is a key difference between mass and weight?",
+"options": [
+"Mass is measured in Newtons; Weight in Kilograms.",
+"Mass changes with location; Weight is constant.",
+"Mass is the amount of matter; Weight is the gravitational force.",
+"Mass requires a spring balance to measure; Weight requires a beam balance."
+],
+"answer": "Mass is the amount of matter; Weight is the gravitational force.",
+"explanation": "Mass represents the absolute amount of matter in an object and remains constant everywhere. Weight is a force representing how strongly gravity pulls on that mass, and it varies depending on local gravity. (Textbook Chapter 5, Page 75)",
+"page_number": "75"
+},
+{
+"id": 48,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "standard",
+"question": "A toy car is rolled across a glass table, a wooden floor, and a sandy path. On which surface will the frictional force be the greatest?",
+"options": [
+"The glass table",
+"The wooden floor",
+"The sandy path",
+"It will be equal on all surfaces"
+],
+"answer": "The sandy path",
+"explanation": "The force of friction strongly depends on the roughness of the surfaces in contact. A sandy path has significantly more macroscopic and microscopic irregularities than glass or wood, thereby generating the greatest frictional resistance. (Textbook Chapter 5, Page 68)",
+"page_number": "68"
+},
+{
+"id": 49,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Friction is classified as a contact force.\nReason (R): The force of friction arises due to the interaction and locking of irregularities between two surfaces in direct physical contact.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "Contact forces require physical touch to act. Friction happens specifically because microscopic irregularities on two touching surfaces interlock with one another. Because this requires direct physical contact, friction is definitively a contact force. (Textbook Chapter 5, Page 68)",
+"page_number": "68"
+},
+{
+"id": 50,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): A plastic comb rubbed with dry hair can attract small pieces of paper.\nReason (R): Rubbing the comb gives it a magnetic charge which pulls the paper.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is true, R is false.",
+"explanation": "The assertion is true, as a rubbed comb attracts paper. However, the reason is false. Rubbing builds up static electrical charges, not magnetic charges. The attraction is due to electrostatic force, not magnetic force. (Textbook Chapter 5, Page 70)",
+"page_number": "70"
+},
+{
+"id": 51,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): An object weighing 60 N on Earth will weigh much less on the Moon.\nReason (R): The mass of an object decreases significantly when taken to the Moon.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is true, R is false.",
+"explanation": "The assertion is true because the gravitational pull of the Moon is weaker than that of the Earth, leading to less weight. However, the reason is false because mass (amount of matter) remains absolutely constant regardless of location. (Textbook Chapter 5, Page 75)",
+"page_number": "75"
+},
+{
+"id": 52,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Muscular force plays a vital role in human digestion.\nReason (R): The expansion and contraction of muscles help push food through the alimentary canal.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "Muscular force is not just for external activities. Internal processes, like moving chewed food down the alimentary canal, rely entirely on the involuntary expansion and contraction of muscles in the digestive tract. Therefore, R correctly explains A. (Textbook Chapter 5, Page 67)",
+"page_number": "67"
+},
+{
+"id": 53,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Fast-moving ships are designed with streamlined shapes.\nReason (R): Streamlined shapes increase the buoyant force, allowing the ship to float easily.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is true, R is false.",
+"explanation": "The assertion is true; ships are built with streamlined shapes. However, the reason is false. Streamlined shapes are designed specifically to reduce fluid friction (drag) from the water, not to increase buoyant force. Buoyancy depends on the volume displaced. (Textbook Chapter 5, Page 68)",
+"page_number": "68"
+},
+{
+"id": 54,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Two North poles of magnets will attract each other when brought close.\nReason (R): Magnetic force is a type of non-contact force that can act through space.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "The assertion is false because like poles (North and North) repel, they do not attract. The reason is a true statement, as magnetic force can indeed act over a distance without physical contact, classifying it as a non-contact force. (Textbook Chapter 5, Page 69)",
+"page_number": "69"
+},
+{
+"id": 55,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): A heavy iron ship can float on the surface of the ocean.\nReason (R): According to Archimedes' principle, the ship displaces a volume of water whose weight is equal to or greater than the ship's weight.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "An iron ship floats despite its heavy material. This happens because the shape of the ship causes it to displace a massive volume of water. The weight of this displaced water creates a massive upward buoyant force equal to the ship's weight, keeping it afloat. (Textbook Chapter 5, Page 76)",
+"page_number": "76"
+},
+{
+"id": 56,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): The gravitational force of the Earth acts only on heavy objects like apples and stones, not on light gases.\nReason (R): Gravitational force is a universally attractive force that pulls objects towards the Earth.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "The assertion is false because gravity acts on absolutely all objects near the Earth, regardless of their weight, including light gases (which is why Earth has an atmosphere). The reason is a true statement outlining the nature of gravity. (Textbook Chapter 5, Page 72)",
+"page_number": "72"
+},
+{
+"id": 57,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "An object has a mass of 1 kg and weighs 10 N on Earth. If transported to Jupiter, where gravity is much stronger, what will its properties be?",
+"options": [
+"Mass remains 1 kg, Weight increases to 25.4 N.",
+"Mass increases to 2.5 kg, Weight remains 10 N.",
+"Both Mass and Weight will increase proportionally.",
+"Mass becomes zero, Weight increases to 25.4 N."
+],
+"answer": "Mass remains 1 kg, Weight increases to 25.4 N.",
+"explanation": "Mass is an invariant property of matter; it remains 1 kg everywhere. Weight is the force of gravity on that mass. Because Jupiter has a much stronger gravitational pull, the weight increases significantly (to 25.4 N), while the mass stays 1 kg. (Textbook Chapter 5, Page 75)",
+"page_number": "75"
+},
+{
+"id": 58,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "A spring balance has major markings at 0 N and 1 N. There are exactly 5 smaller division lines between the 0 N and 1 N marks. What is the least count (smallest measurable value) of this balance?",
+"options": [
+"0.1 N",
+"0.2 N",
+"0.5 N",
+"1.0 N"
+],
+"answer": "0.2 N",
+"explanation": "To find the least count, divide the difference between major marks by the number of divisions. The difference is 1 N - 0 N = 1 N. With 5 divisions, each division represents 1 N / 5 = 0.2 N. Thus, the smallest reading is 0.2 N. (Textbook Chapter 5, Page 74)",
+"page_number": "74"
+},
+{
+"id": 59,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "Three identical shaped objects (1, 2, and 3) are placed in water. Object 1 barely dips, Object 2 dips halfway, and Object 3 dips almost fully. What is the relation between their weights (w1, w2, w3)?",
+"options": [
+"w1 = w2 = w3",
+"w1 > w2 > w3",
+"w3 > w2 > w1",
+"w2 > w1 > w3"
+],
+"answer": "w3 > w2 > w1",
+"explanation": "According to Archimedes' principle, a floating object displaces liquid equal to its own weight. Object 3 displaces the most volume of water, meaning it must have the greatest weight. Object 1 displaces the least, meaning it is the lightest. Therefore, w3 > w2 > w1. (Textbook Chapter 5, Page 79)",
+"page_number": "79"
+},
+{
+"id": 60,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "When two inflated balloons are rubbed similarly with a woollen cloth and brought close, they repel. What scientific conclusion can be drawn from this?",
+"options": [
+"They have acquired opposing magnetic poles.",
+"The woollen cloth absorbed all their electrical charge.",
+"They have acquired the same kind of static electrical charge.",
+"Friction destroyed their internal air pressure."
+],
+"answer": "They have acquired the same kind of static electrical charge.",
+"explanation": "Rubbing both balloons with the same material (wool) causes them to acquire identical types of static charges. In electrostatics, like charges strongly repel each other, which explains why the balloons push apart. (Textbook Chapter 5, Page 71)",
+"page_number": "71"
+},
+{
+"id": 61,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "During a tug of war, both teams pull with immense effort, but the rope does not move at all. What is the exact state of the forces acting on the rope?",
+"options": [
+"There are absolutely no forces acting on the rope.",
+"The frictional force is greater than the muscular forces.",
+"The forces from both sides are perfectly equal and balanced.",
+"The rope's massive weight cancels out the pulling forces."
+],
+"answer": "The forces from both sides are perfectly equal and balanced.",
+"explanation": "When the rope doesn't move despite strong pulling, it means the muscular forces applied by both teams are equal in magnitude but opposite in direction. They cancel each other out entirely, resulting in balanced forces and a net force of zero. (Case Study Worksheet, Page 1)",
+"page_number": "1"
+},
+{
+"id": 62,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "If you hang a plastic box from a spring balance, it stretches slightly. If you replace it with an iron box of the same size, it stretches heavily. Why?",
+"options": [
+"Iron conducts heat, weakening the spring.",
+"Iron is denser, giving it more mass, causing the Earth to pull it with a stronger force.",
+"The iron box generates a downward magnetic field.",
+"The plastic box experiences an upward buoyant force from the air."
+],
+"answer": "Iron is denser, giving it more mass, causing the Earth to pull it with a stronger force.",
+"explanation": "An iron box contains more matter (greater mass) than a plastic box of the same size. Weight is proportional to mass (W=mg). Because its mass is greater, Earth's gravitational pull on it is much stronger, causing the spring to stretch further. (Chapter 2 Notes, Page 30)",
+"page_number": "30"
+},
+{
+"id": 63,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "According to Archimedes' Principle, the upward buoyant force experienced by an object partially or fully immersed in a liquid is exactly equal to what?",
+"options": [
+"The total mass of the object.",
+"The density of the object multiplied by gravity.",
+"The total volume of the liquid in the container.",
+"The weight of the liquid displaced by the object."
+],
+"answer": "The weight of the liquid displaced by the object.",
+"explanation": "Archimedes' Principle explicitly states that any object completely or partially submerged in a fluid is acted upon by an upward, or buoyant, force equal to the weight of the fluid that the object displaces. (Textbook Chapter 5, Page 76)",
+"page_number": "76"
+},
+{
+"id": 64,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "A coin is dropped into a glass of water. As it sinks, which two primary vertical forces are acting on it simultaneously?",
+"options": [
+"Frictional force downwards and Magnetic force upwards.",
+"Gravitational force downwards and Buoyant force upwards.",
+"Muscular force downwards and Electrostatic force upwards.",
+"Gravitational force upwards and Buoyant force downwards."
+],
+"answer": "Gravitational force downwards and Buoyant force upwards.",
+"explanation": "When an object is immersed in a liquid, it experiences a battle between two forces: the Earth's gravitational force pulling it downwards, and the liquid's buoyant force (upthrust) pushing it upwards. (Textbook Chapter 5, Page 76)",
+"page_number": "76"
+},
+{
+"id": 65,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "How can the relationship between an object's density and the liquid's density predict if it will sink or float?",
+"options": [
+"If the object's density > liquid's density, it floats.",
+"If the object's density < liquid's density, it floats.",
+"Density has no effect; only the total mass determines floating.",
+"An object floats only if its density is exactly equal to the liquid's density."
+],
+"answer": "If the object's density < liquid's density, it floats.",
+"explanation": "Floating and sinking relate directly to density. If an object is less dense than the fluid it is placed in, the fluid can generate enough buoyant force to support its weight, causing the object to float. (Chapter 2 Notes, Page 35)",
+"page_number": "35"
+},
+{
+"id": 66,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "A heavy crate is being pushed across a factory floor. If a worker applies a 50 N force to push it forward, and the force of friction is 50 N, what is the net force and the resulting motion?",
+"options": [
+"100 N; it accelerates forward.",
+"0 N; it comes to a stop or moves with constant uniform speed.",
+"50 N; it continues to accelerate.",
+"0 N; it instantly reverses direction."
+],
+"answer": "0 N; it comes to a stop or moves with constant uniform speed.",
+"explanation": "The applied forward force (50 N) and the opposing frictional force (50 N) cancel each other out perfectly. The net force is zero. Under zero net force, an object will either remain at rest or continue moving at a constant uniform speed without accelerating. (Chapter 2 Notes, Page 19)",
+"page_number": "19"
+},
+{
+"id": 67,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "While everyday language uses terms like '10 kg weight', scientifically, how is the mass of a bag of wheat measured indirectly using a spring balance?",
+"options": [
+"By determining the volume of the bag.",
+"By measuring the gravitational force acting on it and applying known gravity.",
+"By measuring the frictional force it creates on the floor.",
+"By observing its electrostatic attraction to the balance."
+],
+"answer": "By measuring the gravitational force acting on it and applying known gravity.",
+"explanation": "A spring balance actually measures the gravitational force (weight in Newtons) pulling down on the object. Because weight is directly proportional to mass (W=mg), scales are often calibrated to indirectly display the corresponding mass in kilograms, assuming standard Earth gravity. (Textbook Chapter 5, Page 75)",
+"page_number": "75"
+},
+{
+"id": 68,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "When a skydiver first jumps out of a plane, before opening a parachute, why does their downward speed continuously increase?",
+"options": [
+"The airplane pushes them downwards.",
+"Air friction accelerates them downwards.",
+"The continuous attractive pull of gravitational force accelerates them.",
+"The magnetic field of the Earth pulls them at a faster rate."
+],
+"answer": "The continuous attractive pull of gravitational force accelerates them.",
+"explanation": "A freely falling body experiences the constant downward pull of the Earth's gravity. A continuous force applied in the direction of motion causes an object to speed up (accelerate), which is why the skydiver's downward speed increases. (Textbook Chapter 5, Page 72)",
+"page_number": "72"
+},
+{
+"id": 69,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "If you try to slide two smooth glass plates across each other, they might stick slightly. What is the fundamental cause of this frictional resistance?",
+"options": [
+"Moisture turning into a strong glue.",
+"Electrostatic charging between the glass plates.",
+"Microscopic irregularities on the glass surfaces interlocking with each other.",
+"The mass of the top glass plate pressing heavily down."
+],
+"answer": "Microscopic irregularities on the glass surfaces interlocking with each other.",
+"explanation": "Friction is fundamentally caused by surface roughness. Even surfaces that appear perfectly smooth, like glass, have minute, microscopic irregularities (bumps and dips). When pressed together, these irregularities interlock, resisting any sliding motion. (Textbook Chapter 5, Page 68)",
+"page_number": "68"
+},
+{
+"id": 70,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "Which set of forces shares the unique property of being able to act as both an attractive pull and a repulsive push from a distance?",
+"options": [
+"Gravitational and Frictional forces",
+"Magnetic and Electrostatic forces",
+"Muscular and Magnetic forces",
+"Gravitational and Electrostatic forces"
+],
+"answer": "Magnetic and Electrostatic forces",
+"explanation": "Magnetic forces can attract (unlike poles) or repel (like poles). Similarly, electrostatic forces can attract (opposite charges) or repel (like charges). Both are non-contact forces capable of both pushing and pulling, unlike gravity which only pulls. (Textbook Chapter 5, Page 72)",
+"page_number": "72"
+},
+{
+"id": 71,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "According to Archimedes, if an object displaces an amount of liquid whose weight is strictly LESS than the weight of the object itself, what will be the result?",
+"options": [
+"The object will float on the surface.",
+"The object will remain suspended in the middle of the fluid.",
+"The object will sink to the bottom.",
+"The object will dissolve rapidly."
+],
+"answer": "The object will sink to the bottom.",
+"explanation": "The weight of the displaced liquid equals the upward buoyant force. If this displaced liquid weighs less than the object itself, it means the buoyant force is weaker than the object's gravitational weight. The net force is downwards, so the object sinks. (Textbook Chapter 5, Page 76)",
+"page_number": "76"
+},
+{
+"id": 72,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "If you throw a cricket ball straight up into the air, what describes its precise state of motion at the absolute highest point of its trajectory?",
+"options": [
+"It travels horizontally for a moment.",
+"It stops momentarily before falling downwards.",
+"It continues upwards but at a constant speed.",
+"It experiences zero gravitational force."
+],
+"answer": "It stops momentarily before falling downwards.",
+"explanation": "When thrown upwards, gravity constantly slows the ball down. At the very peak of its trajectory, its upward speed reduces exactly to zero. It stops momentarily before gravity begins to accelerate it back down towards the Earth. (Textbook Chapter 5, Page 72)",
+"page_number": "72"
+},
+{
+"id": 73,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "Which of the following scenarios is an example where friction is generally considered a necessity rather than a hindrance?",
+"options": [
+"Moving engine parts rubbing together.",
+"A ship moving through the ocean.",
+"A person walking safely on a pavement.",
+"A bicycle slowing down when pedalling stops."
+],
+"answer": "A person walking safely on a pavement.",
+"explanation": "While friction opposes motion and causes wear, it is essential for many daily tasks. Walking requires friction between our shoes and the ground to push forward without slipping. Without friction, walking safely would be impossible. (Textbook Chapter 5, Page 79)",
+"page_number": "79"
+},
+{
+"id": 74,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "If an object is at rest, does it definitively mean that absolutely no forces are acting upon it?",
+"options": [
+"Yes, motion is required for forces to exist.",
+"No, it means that multiple forces could be acting but they are balancing one another perfectly.",
+"Yes, an object at rest exists in a vacuum devoid of forces.",
+"No, it means only magnetic forces are acting on it."
+],
+"answer": "No, it means that multiple forces could be acting but they are balancing one another perfectly.",
+"explanation": "An object at rest on Earth still experiences gravity pulling down and the surface pushing up (normal force). It doesn't move because these forces are equal and opposite, cancelling each other out completely, resulting in balanced forces. (Textbook Chapter 5, Page 65)",
+"page_number": "65"
+},
+{
+"id": 75,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "You push a heavy desk and it moves. The moment you stop pushing, the force you applied disappears. What does this confirm about the nature of force?",
+"options": [
+"Force is stored as energy inside the desk.",
+"Force results strictly from an active interaction between objects, and ceases when interaction ceases.",
+"Force is permanently transferred to the floor as friction.",
+"Force only exists when moving heavy objects."
+],
+"answer": "Force results strictly from an active interaction between objects, and ceases when interaction ceases.",
+"explanation": "Force is not a stored substance; it is an active interaction. When you push, your hands interact with the desk. The moment you stop pushing, the interaction ceases, and the applied pushing force completely disappears. (Textbook Chapter 5, Page 66)",
+"page_number": "66"
+},
+{
+"id": 76,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "standard",
+"question": "Why is stretching a rubber band considered an effect of force rather than just a property of rubber?",
+"options": [
+"Because stretching it requires a change in temperature.",
+"Because it requires a physical pull from two opposite directions to alter its shape.",
+"Because rubber is a magnetic material.",
+"Because stretching creates an electrostatic charge."
+],
+"answer": "Because it requires a physical pull from two opposite directions to alter its shape.",
+"explanation": "Forces can bring about a change in the shape of an object. Stretching a rubber band requires applying a pulling force (usually muscular) in opposite directions. This applied force is what physically deforms the band, demonstrating a shape change effect. (Textbook Chapter 5, Page 65)",
+"page_number": "65"
+},
+{
+"id": 77,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): A drop of water falls downwards to the ground the moment it detaches from a leaky tap.\nReason (R): The Earth exerts a strong electrostatic pull on water molecules.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is true, R is false.",
+"explanation": "The assertion is true; water drops fall downwards when detached. However, the reason is false. The Earth causes things to fall due to gravitational force, an attractive pull based on mass, not an electrostatic force based on charges. (Textbook Chapter 5, Page 72)",
+"page_number": "72"
+},
+{
+"id": 78,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): A common spring balance can often be used to read both the weight (in N) and an estimated mass (in g or kg) of an object on Earth.\nReason (R): The scale for mass on a spring balance is calibrated under the assumption that it is being used under standard Earth gravitational pull.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "A spring balance technically measures weight (the force stretching the spring). Because weight on Earth is consistently proportional to mass (W=mg, with g roughly 9.8 m/s²), manufacturers can print a second scale that estimates the corresponding mass based on Earth's gravity. (Textbook Chapter 5, Page 73)",
+"page_number": "73"
+},
+{
+"id": 79,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): The buoyant force acting on a heavy stone increases continuously the deeper it sinks into the ocean.\nReason (R): The buoyant force depends strictly on the weight of the liquid displaced by the object, not the depth.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "The assertion is false. Once an object is completely submerged, the volume of liquid it displaces remains constant, meaning the buoyant force remains constant regardless of depth. The reason is true; Archimedes' Principle states buoyancy relies on displaced fluid weight, not depth. (Chapter 2 Notes, Page 42)",
+"page_number": "42"
+},
+{
+"id": 80,
+"subject": "Science",
+"chapter": "Exploring Forces-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): If the gravitational force of the Earth suddenly became zero, all unfixed objects, including humans, would begin to float off the surface.\nReason (R): Weight is entirely dependent on the gravitational force pulling an object's mass towards the Earth.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "Without gravity, there is no force pulling objects towards the ground (weight becomes zero). Without this downward anchoring force, any slight upward movement would cause objects to float freely. Therefore, R correctly explains A. (Textbook Chapter 5, Page 75)",
+"page_number": "75"
+},
+  {
+    "id": 81,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "During a bicycle ride on a windy day, why does riding against the wind feel significantly harder?",
+    "options": [
+      "The wind decreases the friction on the tires.",
+      "The wind exerts a pushing force against the rider.",
+      "The wind increases the gravitational pull on the bicycle.",
+      "The wind creates a magnetic field that slows the wheels."
+    ],
+    "answer": "The wind exerts a pushing force against the rider.",
+    "explanation": "When riding against the wind, the moving air exerts a physical pushing force against the rider and the bicycle. This opposing force requires the rider to pedal harder to overcome it and maintain speed. (Textbook Chapter 5, Page 63)",
+    "page_number": "63"
+  },
+  {
+    "id": 82,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "When Sonali and Ragini moved down a hill slope, their bicycles moved at great speed without pedalling. What invisible agent caused this?",
+    "options": [
+      "Magnetic force",
+      "Frictional force",
+      "Electrostatic force",
+      "Gravitational force"
+    ],
+    "answer": "Gravitational force",
+    "explanation": "When coming down a slope, the Earth's gravity exerts a downward pull on the bicycles and riders. This attractive gravitational force causes them to accelerate downhill even without the application of muscular pedalling force. (Textbook Chapter 5, Page 63)",
+    "page_number": "63"
+  },
+  {
+    "id": 83,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Trying to move a heavy cardboard box can be done by pushing, pulling, lifting, or carrying. All these physical actions are forms of applying a?",
+    "options": [
+      "Force",
+      "Mass",
+      "Weight",
+      "Density"
+    ],
+    "answer": "Force",
+    "explanation": "Actions such as pushing, pulling, lifting, and carrying all involve interacting with an object to change its state of motion or rest. In science, this applied push or pull is generally termed as a force. (Textbook Chapter 5, Page 63)",
+    "page_number": "63"
+  },
+  {
+    "id": 84,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "If a friend holds your moving bicycle from behind and brings it to a stop, what effect of force is primarily demonstrated?",
+    "options": [
+      "Changing the shape of the bicycle.",
+      "Increasing the speed of the bicycle.",
+      "Decreasing the speed or stopping a moving object.",
+      "Starting motion from a state of rest."
+    ],
+    "answer": "Decreasing the speed or stopping a moving object.",
+    "explanation": "Applying a pull in the opposite direction of the bicycle's motion acts as an opposing force. This external force successfully reduces the bicycle's speed and eventually brings it to a complete stop. (Textbook Chapter 5, Page 64)",
+    "page_number": "64"
+  },
+  {
+    "id": 85,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Hitting a moving cricket ball with a bat primarily results in what change?",
+    "options": [
+      "It changes the mass of the ball.",
+      "It completely stops the ball's motion instantly.",
+      "It changes the direction of motion of the ball.",
+      "It changes the physical shape of the ball permanently."
+    ],
+    "answer": "It changes the direction of motion of the ball.",
+    "explanation": "When a batsman hits a moving ball, they apply a strong pushing force using the bat. This force alters the ball's existing trajectory, effectively changing its direction of motion and often its speed. (Textbook Chapter 5, Page 64)",
+    "page_number": "64"
+  },
+  {
+    "id": 86,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "When you press soft dough with a rolling pin to make bread, you are using force to change what?",
+    "options": [
+      "The direction of motion of the dough.",
+      "The fundamental mass of the dough.",
+      "The shape of the object.",
+      "The gravitational pull on the dough."
+    ],
+    "answer": "The shape of the object.",
+    "explanation": "Forces do not only affect motion; they can also alter physical structure. Pressing down on flexible dough with a rolling pin applies a mechanical force that successfully changes the shape and size of the dough. (Textbook Chapter 5, Page 65)",
+    "page_number": "65"
+  },
+  {
+    "id": 87,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "A force that requires physical contact between the interacting objects to exert its effect is broadly classified as a?",
+    "options": [
+      "Non-contact force",
+      "Contact force",
+      "Gravitational force",
+      "Magnetic force"
+    ],
+    "answer": "Contact force",
+    "explanation": "Forces that only come into play when there is direct or indirect physical contact between two objects are called contact forces. Examples include muscular force and frictional force. (Textbook Chapter 5, Page 66)",
+    "page_number": "66"
+  },
+  {
+    "id": 88,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Pushing an object indirectly using a wooden stick or pulling it with a rope is an example of what type of force?",
+    "options": [
+      "Magnetic force",
+      "Non-contact force",
+      "Contact force",
+      "Electrostatic force"
+    ],
+    "answer": "Contact force",
+    "explanation": "Contact forces do not always require skin-to-skin touch. Using an intermediary tool like a stick or a rope establishes a physical link between your body and the object, making it an indirect contact force. (Textbook Chapter 5, Page 66)",
+    "page_number": "66"
+  },
+  {
+    "id": 89,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Animals like bullocks, horses, and camels pull carts using the force resulting from the action of their bodies. What is this force called?",
+    "options": [
+      "Muscular force",
+      "Gravitational force",
+      "Electrostatic force",
+      "Frictional force"
+    ],
+    "answer": "Muscular force",
+    "explanation": "Animals utilize the strength of their muscles to perform heavy physical tasks like pulling carts or ploughs. The force resulting from the contraction and elongation of these muscles is known as muscular force. (Textbook Chapter 5, Page 67)",
+    "page_number": "67"
+  },
+  {
+    "id": 90,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Inside the human body, the continuous expansion and contraction of heart muscles allow for what vital process?",
+    "options": [
+      "Digestion of solid food.",
+      "Circulation of blood throughout the body.",
+      "Transmission of nerve impulses.",
+      "Filtering of air in the lungs."
+    ],
+    "answer": "Circulation of blood throughout the body.",
+    "explanation": "Muscular force is essential for internal biological functions as well. The constant, rhythmic expansion and contraction of the heart muscles generate the force necessary to pump and circulate blood throughout the body. (Textbook Chapter 5, Page 67)",
+    "page_number": "67"
+  },
+  {
+    "id": 91,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Chewing food and pushing it through the alimentary canal during digestion relies heavily on which type of force?",
+    "options": [
+      "Muscular force",
+      "Frictional force",
+      "Magnetic force",
+      "Gravitational force"
+    ],
+    "answer": "Muscular force",
+    "explanation": "The entire digestive process, from chewing in the mouth to pushing food through the alimentary canal, relies on the continuous action (contraction and relaxation) of internal muscles, representing muscular force. (Textbook Chapter 5, Page 67)",
+    "page_number": "67"
+  },
+  {
+    "id": 92,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "If you gently push an empty lunch box on a flat table, it eventually stops after some distance. Which force brings it to rest?",
+    "options": [
+      "Gravitational force",
+      "Electrostatic force",
+      "Frictional force",
+      "Magnetic force"
+    ],
+    "answer": "Frictional force",
+    "explanation": "When the lunch box slides over the table, the irregularities on both surfaces interlock. This creates a resisting contact force called friction, which acts opposite to the motion and brings the box to a halt. (Textbook Chapter 5, Page 67)",
+    "page_number": "67"
+  },
+  {
+    "id": 93,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Does the force of friction only apply to objects moving over solid surfaces?",
+    "options": [
+      "Yes, friction is strictly a solid-state phenomenon.",
+      "No, liquids and gases also exert frictional force.",
+      "Yes, but only on rough solid surfaces.",
+      "No, but it only applies in a complete vacuum."
+    ],
+    "answer": "No, liquids and gases also exert frictional force.",
+    "explanation": "Friction is not exclusive to solids. Fluids, which include both liquids (like water) and gases (like air), also exert a resisting frictional drag on objects moving through them. (Textbook Chapter 5, Page 68)",
+    "page_number": "68"
+  },
+  {
+    "id": 94,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Friction is microscopically caused by the interlocking of what specific features on the surfaces in contact?",
+    "options": [
+      "Magnetic poles",
+      "Electric charges",
+      "Minute irregularities",
+      "Water molecules"
+    ],
+    "answer": "Minute irregularities",
+    "explanation": "All surfaces, even those that appear perfectly smooth, possess microscopic bumps and dips known as minute irregularities. Friction occurs when these irregularities on two touching surfaces interlock with one another. (Textbook Chapter 5, Page 68)",
+    "page_number": "68"
+  },
+  {
+    "id": 95,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "A force whose effect can be experienced over a distance without any physical contact between the objects is known as a?",
+    "options": [
+      "Frictional force",
+      "Contact force",
+      "Non-contact force",
+      "Muscular force"
+    ],
+    "answer": "Non-contact force",
+    "explanation": "Forces that can push or pull objects through space without requiring physical touching are defined as non-contact forces. Common examples include magnetic, electrostatic, and gravitational forces. (Textbook Chapter 5, Page 69)",
+    "page_number": "69"
+  },
+  {
+    "id": 96,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What type of force is exerted by an electrically charged body on another charged or uncharged body?",
+    "options": [
+      "Magnetic force",
+      "Frictional force",
+      "Gravitational force",
+      "Electrostatic force"
+    ],
+    "answer": "Electrostatic force",
+    "explanation": "When an object builds up an electrical charge (usually through rubbing), it gains the ability to attract or repel other objects. The force exerted by these charges is specifically called electrostatic force. (Textbook Chapter 5, Page 71)",
+    "page_number": "71"
+  },
+  {
+    "id": 97,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Electrical charges that build up on surfaces when rubbed together and do not move by themselves are referred to as?",
+    "options": [
+      "Moving currents",
+      "Static charges",
+      "Magnetic poles",
+      "Kinetic energies"
+    ],
+    "answer": "Static charges",
+    "explanation": "When materials are rubbed together, they accumulate electrical charges on their surface. Because these accumulated charges remain at rest and do not flow on their own, they are termed 'static' charges. (Textbook Chapter 5, Page 70)",
+    "page_number": "70"
+  },
+  {
+    "id": 98,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "When electrical charges begin to move rather than remain static, what do they constitute?",
+    "options": [
+      "An electric current",
+      "A magnetic pole",
+      "A gravitational wave",
+      "A frictional force"
+    ],
+    "answer": "An electric current",
+    "explanation": "Static charges stay still. However, when these electrical charges flow or move through a conductor, they constitute an electric current, which powers electrical devices. (Textbook Chapter 5, Page 71)",
+    "page_number": "71"
+  },
+  {
+    "id": 99,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Scientific experiments reveal that there are exactly two kinds of static electrical charges. What are they called?",
+    "options": [
+      "North and South",
+      "Positive and Negative",
+      "Strong and Weak",
+      "Attractive and Repulsive"
+    ],
+    "answer": "Positive and Negative",
+    "explanation": "Through observations of attraction and repulsion between rubbed objects, scientists identified two distinct kinds of static electrical charges, which are designated as 'positive' and 'negative'. (Textbook Chapter 5, Page 71)",
+    "page_number": "71"
+  },
+  {
+    "id": 100,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Any object dropped from a height takes a straight vertical path downwards before hitting the ground. What causes this?",
+    "options": [
+      "Air resistance",
+      "Magnetic pull from the Earth's core",
+      "Gravitational force",
+      "Electrostatic attraction to the soil"
+    ],
+    "answer": "Gravitational force",
+    "explanation": "The Earth constantly exerts an invisible, downward pull on all matter. This universal attractive pull, which causes dropped objects to fall in a straight line towards the ground, is called gravitational force. (Textbook Chapter 5, Page 72)",
+    "page_number": "72"
+  },
+  {
+    "id": 101,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What simple mechanical device, consisting of a fixed spring and a hook, is primarily used in laboratories to measure weight?",
+    "options": [
+      "Barometer",
+      "Electroscope",
+      "Spring balance",
+      "Hydrometer"
+    ],
+    "answer": "Spring balance",
+    "explanation": "A spring balance is a tool designed to measure force (weight). It works on the principle that the internal spring stretches proportionally to the downward gravitational pull acting on the object hung from its hook. (Textbook Chapter 5, Page 73)",
+    "page_number": "73"
+  },
+  {
+    "id": 102,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "In scientific terms, the 'mass' of an object is strictly defined as the?",
+    "options": [
+      "Force of gravity acting upon it.",
+      "Amount of matter contained in the object.",
+      "Space it occupies in the environment.",
+      "Density of the material it is made from."
+    ],
+    "answer": "Amount of matter contained in the object.",
+    "explanation": "Mass is an intrinsic property of a physical body. It is scientifically defined as the exact amount of matter contained within an object, and unlike weight, it does not change based on location. (Textbook Chapter 5, Page 75)",
+    "page_number": "75"
+  },
+  {
+    "id": 103,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "A hydrometer is an instrument used to measure fluid density. Its design and operation are based on which major scientific principle?",
+    "options": [
+      "Newton's Law of Motion",
+      "Archimedes' Principle",
+      "Principle of Magnetism",
+      "Principle of Electrostatics"
+    ],
+    "answer": "Archimedes' Principle",
+    "explanation": "Hydrometers float in liquids to measure their density. Their ability to float at different levels based on the liquid's density is a direct practical application of Archimedes' principle regarding buoyancy and displaced fluid. (Chapter 2 Notes, Page 34)",
+    "page_number": "34"
+  },
+  {
+    "id": 104,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "If the downward gravitational force acting on an object is perfectly equal to the upward buoyant force applied by a liquid, the object will?",
+    "options": [
+      "Sink rapidly to the bottom.",
+      "Remain suspended or float.",
+      "Dissolve into the liquid instantly.",
+      "Be pushed violently out of the liquid."
+    ],
+    "answer": "Remain suspended or float.",
+    "explanation": "When an object is placed in a fluid, its fate is determined by a balance of forces. If gravity equals buoyancy, the net force is zero, meaning the object is perfectly balanced and will float or remain suspended. (Textbook Chapter 5, Page 76)",
+    "page_number": "76"
+  },
+  {
+    "id": 105,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "When you push a heavy wooden table across a room, you feel a force pressing against your hands. What happens to this force the moment you completely stop pushing?",
+    "options": [
+      "It transfers into the table as kinetic energy.",
+      "It remains on your hand for a few minutes as static charge.",
+      "It immediately disappears as the interaction ceases.",
+      "It turns into permanent frictional force on the floor."
+    ],
+    "answer": "It immediately disappears as the interaction ceases.",
+    "explanation": "A force exists strictly due to an interaction between objects. When you stop pushing, your active interaction with the table ends. Consequently, both the force you apply and the force you feel on your hand instantly disappear. (Textbook Chapter 5, Page 66)",
+    "page_number": "66"
+  },
+  {
+    "id": 106,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "If an object is completely stationary on the floor, what can be scientifically inferred about the forces acting upon it?",
+    "options": [
+      "There are zero forces acting on it.",
+      "Only gravitational force acts on it, with no opposing force.",
+      "The multiple forces acting on it are perfectly balancing one another.",
+      "It exists in a temporary vacuum state."
+    ],
+    "answer": "The multiple forces acting on it are perfectly balancing one another.",
+    "explanation": "An object at rest does not imply an absence of forces. Gravity still pulls it down, and the floor pushes it up. Because these forces are equal and opposite, they balance each other out, resulting in a net force of zero and no motion. (Textbook Chapter 5, Page 65)",
+    "page_number": "65"
+  },
+  {
+    "id": 107,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Why does a ball thrown vertically upwards eventually slow down and stop momentarily at the peak of its flight?",
+    "options": [
+      "Air friction is stronger at higher altitudes.",
+      "Gravity constantly acts downwards, opposing its upward motion.",
+      "The initial muscular force gradually turns into magnetic force.",
+      "It loses its mass the higher it travels."
+    ],
+    "answer": "Gravity constantly acts downwards, opposing its upward motion.",
+    "explanation": "When moving upwards, the ball travels against the Earth's gravitational pull. This constant downward force continuously decreases the ball's upward speed until it halts momentarily before accelerating back down. (Textbook Chapter 5, Page 72)",
+    "page_number": "72"
+  },
+  {
+    "id": 108,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "What precise effect does friction have on a bicycle moving on a flat road if the rider completely stops pedalling?",
+    "options": [
+      "It maintains the bicycle's speed indefinitely.",
+      "It gradually decreases the bicycle's speed until it stops.",
+      "It causes the bicycle to instantly reverse direction.",
+      "It accelerates the bicycle due to surface irregularities."
+    ],
+    "answer": "It gradually decreases the bicycle's speed until it stops.",
+    "explanation": "When pedalling stops, no forward muscular force is applied. However, the force of friction between the tires and the road continues to act in the opposite direction, slowly draining the bicycle's speed until it halts. (Textbook Chapter 5, Page 67)",
+    "page_number": "67"
+  },
+  {
+    "id": 109,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "When designing submarines, engineers rely on a principle stating that an immersed object experiences an upward force equal to the displaced fluid's weight. Who discovered this?",
+    "options": [
+      "Isaac Newton",
+      "Galileo Galilei",
+      "Archimedes",
+      "Albert Einstein"
+    ],
+    "answer": "Archimedes",
+    "explanation": "Archimedes, an ancient Greek scientist, discovered the fundamental law of buoyancy. Archimedes' Principle states that the upward buoyant force is equal to the weight of the fluid displaced, crucial for designing ships and submarines. (Textbook Chapter 5, Page 76)",
+    "page_number": "76"
+  },
+  {
+    "id": 110,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "If a person pushes a heavy block with 4 N to the East and another person helps by pushing with 5 N to the East, what is the resultant net force?",
+    "options": [
+      "1 N to the West",
+      "9 N to the East",
+      "20 N to the East",
+      "0 N (balanced)"
+    ],
+    "answer": "9 N to the East",
+    "explanation": "When two or more forces act on an object in the exact same direction, their magnitudes add together. Therefore, 4 N + 5 N results in a combined net force of 9 N acting towards the East. (Chapter 2 Notes, Page 19)",
+    "page_number": "19"
+  },
+  {
+    "id": 111,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "A plastic scale is rubbed vigorously with polythene. When brought near small pieces of paper, it pulls them toward it. Why does this happen?",
+    "options": [
+      "It became a permanent magnet through friction.",
+      "It acquired static charges and exerts an electrostatic force.",
+      "It increased the local gravitational pull on the paper.",
+      "It created a vacuum that sucked the paper up."
+    ],
+    "answer": "It acquired static charges and exerts an electrostatic force.",
+    "explanation": "Rubbing plastic with polythene transfers electrons, causing a buildup of static electrical charges. The newly charged plastic scale then exerts an attractive electrostatic force on the uncharged paper bits, pulling them up. (Textbook Chapter 5, Page 70)",
+    "page_number": "70"
+  },
+  {
+    "id": 112,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "The mechanical force of friction always acts in which direction relative to the sliding object's movement?",
+    "options": [
+      "In the exact same direction as the object's motion.",
+      "Perpendicular to the object's motion.",
+      "In a direction completely opposite to the object's motion.",
+      "Upwards, away from the gravitational pull."
+    ],
+    "answer": "In a direction completely opposite to the object's motion.",
+    "explanation": "Friction is a resistive force. It arises from surface irregularities interlocking and fundamentally opposes relative movement. Therefore, it always acts in a direction strictly opposite to the direction the object is moving or trying to move. (Textbook Chapter 5, Page 68)",
+    "page_number": "68"
+  },
+  {
+    "id": 113,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "What specific force makes the needle of a magnetic compass automatically align with the Earth's geographic North and South poles?",
+    "options": [
+      "The Earth's gravitational force acting on the needle's mass.",
+      "The Earth's magnetic field exerting a non-contact magnetic force.",
+      "Frictional force from the air pushing the needle.",
+      "Electrostatic repulsion from the Earth's surface."
+    ],
+    "answer": "The Earth's magnetic field exerting a non-contact magnetic force.",
+    "explanation": "A compass needle is a tiny magnet. The Earth itself acts like a giant magnet. The needle aligns itself due to the non-contact magnetic force exerted by the Earth's magnetic field acting upon it. (Chapter 2 Notes, Page 28)",
+    "page_number": "28"
+  },
+  {
+    "id": 114,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Which of the following statements about the nature of friction is scientifically accurate?",
+    "options": [
+      "Friction acts to increase the speed of a falling object.",
+      "Friction only occurs between solid objects.",
+      "Friction always opposes the relative motion between two surfaces in contact.",
+      "Friction is classified as a non-contact force."
+    ],
+    "answer": "Friction always opposes the relative motion between two surfaces in contact.",
+    "explanation": "Friction is a contact force caused by interlocking surface irregularities. Its primary defining characteristic is that it consistently acts to resist or oppose any relative sliding motion between the two contacting surfaces. (Textbook Chapter 5, Page 68)",
+    "page_number": "68"
+  },
+  {
+    "id": 115,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "What is the primary scientific function of a device called an electroscope?",
+    "options": [
+      "To measure the microscopic density of fluids.",
+      "To precisely measure the weight of small objects.",
+      "To detect whether an object is electrically charged.",
+      "To visually observe microscopic surface irregularities."
+    ],
+    "answer": "To detect whether an object is electrically charged.",
+    "explanation": "An electroscope is a simple scientific instrument used to detect the presence and magnitude of electrical charge on a body. It operates on the principle that like charges repel each other. (Textbook Chapter 5, Page 79)",
+    "page_number": "79"
+  },
+  {
+    "id": 116,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "A basic DIY electroscope can be constructed using a glass jar, a copper wire, and what specific material for the diverging strips?",
+    "options": [
+      "Heavy iron plates",
+      "Thick plastic sheets",
+      "Aluminium foil",
+      "Rubber bands"
+    ],
+    "answer": "Aluminium foil",
+    "explanation": "A DIY electroscope requires highly conductive, lightweight materials for the indicator strips so they can easily repel each other when charged. Thin strips of aluminium foil are perfect for this purpose. (Textbook Chapter 5, Page 79)",
+    "page_number": "79"
+  },
+  {
+    "id": 117,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "If two people push on a stationary box from opposite sides with exactly 50 N of force each, what will happen to the box?",
+    "options": [
+      "It will accelerate rapidly.",
+      "It will be crushed instantly.",
+      "It will not move or change its state of rest.",
+      "It will levitate due to balanced pressure."
+    ],
+    "answer": "It will not move or change its state of rest.",
+    "explanation": "When equal forces act in opposite directions, they completely cancel each other out. The net resultant force is 0 N. With no unbalanced force acting on it, the stationary box remains perfectly at rest. (Chapter 2 Notes, Page 19)",
+    "page_number": "19"
+  },
+  {
+    "id": 118,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Aeroplanes and birds are both designed or evolved with streamlined shapes specifically to combat which force?",
+    "options": [
+      "Electrostatic force in clouds.",
+      "Fluid friction from the air.",
+      "Magnetic pull from the Earth.",
+      "Gravitational force pulling them down."
+    ],
+    "answer": "Fluid friction from the air.",
+    "explanation": "Air, being a fluid, exerts a frictional drag on objects moving through it. Streamlined shapes are aerodynamically efficient profiles designed specifically to cut through fluids easily and minimize this frictional resistance. (Textbook Chapter 5, Page 68)",
+    "page_number": "68"
+  },
+  {
+    "id": 119,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "What is a key fundamental characteristic that distinguishes gravity from magnetic and electrostatic forces?",
+    "options": [
+      "Gravity only acts on metallic objects.",
+      "Gravity requires physical contact to act.",
+      "Gravity is universally attractive and never repels.",
+      "Gravity only exists on the planet Earth."
+    ],
+    "answer": "Gravity is universally attractive and never repels.",
+    "explanation": "Magnetic forces (like poles) and electrostatic forces (like charges) can both push objects away (repel). In stark contrast, gravitational force is exclusively attractive; mass always pulls other mass towards it, never pushing it away. (Textbook Chapter 5, Page 72)",
+    "page_number": "72"
+  },
+  {
+    "id": 120,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "If a rock weighs 10 N on Earth, its weight on Mars is measured to be only 3.8 N. Why does this significant discrepancy occur?",
+    "options": [
+      "The rock evaporates slightly during space travel.",
+      "Mars has a much thicker atmosphere generating buoyancy.",
+      "The local gravitational pull on Mars is weaker than on Earth.",
+      "The mass of the rock decreases due to Martian cold."
+    ],
+    "answer": "The local gravitational pull on Mars is weaker than on Earth.",
+    "explanation": "Weight is not a fixed property; it is the measure of gravitational pull on an object. Because Mars is smaller and less massive than Earth, its gravitational pull is weaker, resulting in a lower measured weight for the same mass. (Textbook Chapter 5, Page 75)",
+    "page_number": "75"
+  },
+  {
+    "id": 121,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "According to Archimedes' principle, what exact condition must be met for a solid object to float perfectly on a liquid?",
+    "options": [
+      "The weight of the displaced liquid must be less than the weight of the object.",
+      "The weight of the displaced liquid must equal the weight of the object.",
+      "The total volume of the object must exceed the liquid's volume.",
+      "The object must be perfectly spherical in shape."
+    ],
+    "answer": "The weight of the displaced liquid must equal the weight of the object.",
+    "explanation": "An object floats when the upward buoyant force perfectly balances its downward weight. Since buoyant force equals the weight of displaced liquid, floating occurs when the displaced liquid weighs exactly the same as the object. (Textbook Chapter 5, Page 76)",
+    "page_number": "76"
+  },
+  {
+    "id": 122,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "The formula Density = Mass ÷ Volume indicates that if a highly massive object (like an iron ship) has an enormous internal volume, its overall density might be?",
+    "options": [
+      "Extremely high, causing it to sink instantly.",
+      "Unchanged from solid iron.",
+      "Low enough to be less than water, allowing it to float.",
+      "Irrelevant to its buoyancy."
+    ],
+    "answer": "Low enough to be less than water, allowing it to float.",
+    "explanation": "Ships are made of dense steel, but they are hollow inside, containing vast volumes of air. This massive overall volume divides the mass, making the ship's average density less than water, which allows it to float. (Chapter 2 Notes, Page 34)",
+    "page_number": "34"
+  },
+  {
+    "id": 123,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "In an experiment, cork floats high, wood floats lower, and metal sinks completely in water. What does this indicate about their respective densities?",
+    "options": [
+      "Density of metal < Density of wood < Density of water.",
+      "Density of cork < Density of wood < Density of water < Density of metal.",
+      "Density of wood > Density of metal > Density of cork.",
+      "Density of cork = Density of water."
+    ],
+    "answer": "Density of cork < Density of wood < Density of water < Density of metal.",
+    "explanation": "Objects less dense than a fluid float, and denser objects sink. Cork floats highest (least dense), wood floats lower but still floats (denser than cork, but less dense than water), and metal sinks (denser than water). (Chapter 2 Notes, Page 36)",
+    "page_number": "36"
+  },
+  {
+    "id": 124,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "A common student misconception is that applying a force to an object *always* results in motion. What is the actual scientific reality?",
+    "options": [
+      "Force always results in motion unless in a vacuum.",
+      "Force only results in motion for lightweight objects.",
+      "Force causes a *change* in motion, but perfectly balanced forces result in zero motion.",
+      "Motion is actually completely unrelated to force."
+    ],
+    "answer": "Force causes a *change* in motion, but perfectly balanced forces result in zero motion.",
+    "explanation": "While force is required to change motion, applying force does not guarantee movement. If you push a wall, it doesn't move because the opposing forces balance your push perfectly, resulting in zero net force and no motion. (Chapter 2 Notes, Page 41)",
+    "page_number": "41"
+  },
+  {
+    "id": 125,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Many believe heavier objects always sink in water. What proves this common assumption wrong?",
+    "options": [
+      "Heavy objects have stronger magnetic fields.",
+      "Floating depends entirely on the object's overall density compared to water, which is why massive steel ships float.",
+      "Heavy objects generate more friction, which holds them up.",
+      "Water becomes denser when heavy objects are placed in it."
+    ],
+    "answer": "Floating depends entirely on the object's overall density compared to water, which is why massive steel ships float.",
+    "explanation": "Weight alone does not dictate sinking or floating; density does. A small iron nail sinks, but a multi-ton steel ship floats because its hollow design gives it a massive volume, resulting in an average density lower than water. (Chapter 2 Notes, Page 42)",
+    "page_number": "42"
+  },
+  {
+    "id": 126,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "If a worker applies a 20 N pull to the left and another worker applies a 20 N pull to the right on the same rope, what is the net force?",
+    "options": [
+      "40 N to the right",
+      "40 N to the left",
+      "0 N",
+      "20 N downward"
+    ],
+    "answer": "0 N",
+    "explanation": "When two forces of exactly the same magnitude are applied in completely opposite directions on an object, they subtract from one another (20 N - 20 N). This results in a net unbalanced force of exactly 0 N. (Chapter 2 Notes, Page 19)",
+    "page_number": "19"
+  },
+  {
+    "id": 127,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): An uncharged balloon will often move towards a balloon that has been vigorously rubbed with a woollen cloth.\nReason (R): A statically charged object exerts an attractive electrostatic force on uncharged objects made of certain materials.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Rubbing a balloon charges it. One characteristic of electrostatic force is that a charged body can pull on nearby uncharged, lightweight bodies (like paper bits or another balloon). Thus, the reason correctly explains the observation. (Textbook Chapter 5, Page 70)",
+    "page_number": "70"
+  },
+  {
+    "id": 128,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A moving ball rolling on a perfectly smooth, flat ground will eventually come to a halt in everyday conditions.\nReason (R): Force is always continuously required to keep an object in a state of uniform motion.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "The assertion is true; balls eventually stop due to friction and air resistance. However, the reason is false. A force is only required to *change* motion. If there were zero opposing friction, a moving object would continue moving uniformly forever without continuous force. (Textbook Chapter 5, Page 67)",
+    "page_number": "67"
+  },
+  {
+    "id": 129,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): It is significantly harder to pedal a bicycle on a rough, unpaved dirt road compared to a smooth asphalt road.\nReason (R): Rough roads have far more surface microscopic irregularities, which drastically increases the opposing frictional force.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Friction opposes motion and makes moving things harder. Since friction is caused by the interlocking of surface irregularities, a rough dirt road with many irregularities will naturally generate higher friction, requiring more pedalling effort. (Textbook Chapter 5, Page 68)",
+    "page_number": "68"
+  },
+  {
+    "id": 130,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A solid iron ball will sink rapidly when dropped into a bucket of water.\nReason (R): The upward buoyant force exerted by the water is greater than the downward gravitational force acting on the dense iron ball.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "The assertion is true; solid iron sinks. However, the reason is entirely reversed. Objects sink when the downward gravitational force (their weight) is greater than the upward buoyant force, not the other way around. (Chapter 2 Notes, Page 33)",
+    "page_number": "33"
+  },
+  {
+    "id": 131,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Aeroplanes and cargo ships are meticulously designed with streamlined hulls and bodies.\nReason (R): Fluids like air and water exert a resisting fluid friction on objects moving through them, and a streamlined shape minimizes this drag.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Vehicles moving through fluids experience friction (drag). To move efficiently without wasting energy fighting this friction, their bodies are shaped smoothly (streamlined) to slice through the fluid. The reason correctly explains the design choice. (Textbook Chapter 5, Page 68)",
+    "page_number": "68"
+  },
+  {
+    "id": 132,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): In rigorous scientific terminology, stating that a sack of rice has a \"weight of 10 kg\" is considered technically accurate.\nReason (R): Kilogram is the standard SI unit for mass, representing the absolute amount of matter, not the gravitational pull.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The assertion is false. Scientifically, weight is a force measured in Newtons (N). Mass is the amount of matter measured in kilograms (kg). Saying \"weight of 10 kg\" mixes everyday casual language with incorrect scientific units. The reason correctly defines kilograms. (Textbook Chapter 5, Page 75)",
+    "page_number": "75"
+  },
+  {
+    "id": 133,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "A ball is released from point P on an inclined plane and naturally stops at point A on a horizontal wooden surface. To make the ball definitively stop *before* reaching point A, what specific physical modification should be made?",
+    "options": [
+      "Polish the horizontal surface to a high gloss.",
+      "Lubricate the ball with oil.",
+      "Increase the friction of the horizontal surface by attaching sandpaper.",
+      "Increase the mass of the ball by replacing it with a steel ball."
+    ],
+    "answer": "Increase the friction of the horizontal surface by attaching sandpaper.",
+    "explanation": "The ball stops due to the force of friction. To make it stop sooner (cover less distance), the opposing frictional force must be increased. This is done by increasing surface roughness, such as covering the track with sandpaper. (Textbook Chapter 5, Page 78)",
+    "page_number": "78"
+  },
+  {
+    "id": 134,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "You are assigned a spring balance with major visible markings at 0 N and 5 N. Carefully counting, you find exactly 10 small division lines between them. What is the calculated least count (smallest measurable value) of this specific balance?",
+    "options": [
+      "0.1 N",
+      "0.2 N",
+      "0.5 N",
+      "1.0 N"
+    ],
+    "answer": "0.5 N",
+    "explanation": "Least count is calculated by dividing the range between two major marks by the number of divisions. The range is 5 N - 0 N = 5 N. Dividing this by 10 small divisions gives 5 N ÷ 10 = 0.5 N per division. (Textbook Chapter 5, Page 74)",
+    "page_number": "74"
+  },
+  {
+    "id": 135,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "During a classroom electroscope experiment, why do the two thin aluminium foil strips physically move away from each other when a positively charged plastic rod touches the top copper wire?",
+    "options": [
+      "The copper wire repels the aluminium due to dissimilar metals.",
+      "They both acquire the exact same positive electrical charge and therefore repel each other.",
+      "The positively charged rod generates a magnetic field pushing them apart.",
+      "Heat transfers down the wire causing thermal expansion."
+    ],
+    "answer": "They both acquire the exact same positive electrical charge and therefore repel each other.",
+    "explanation": "An electroscope works through conduction and electrostatic repulsion. The charge travels down the conductive wire, charging both foil strips with the identical (like) charge. Since like charges strongly repel, the strips push away from each other. (Textbook Chapter 5, Page 79)",
+    "page_number": "79"
+  },
+  {
+    "id": 136,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Based on the knowledge that weight varies by planet but mass is constant, if a scientific probe weighs 900 N on Venus and 1000 N on Earth, what is its actual mass on Venus?",
+    "options": [
+      "900 kg",
+      "Exactly 100 kg, as mass does not change with location.",
+      "1000 kg",
+      "90 kg, compensating for weaker gravity."
+    ],
+    "answer": "Exactly 100 kg, as mass does not change with location.",
+    "explanation": "On Earth, 1000 N weight corresponds to a 100 kg mass (since W=mg, and g~10 m/s²). Because mass (amount of matter) is a universal constant, the probe's mass remains exactly 100 kg even on Venus, despite the different weight reading. (Textbook Chapter 5, Page 75)",
+    "page_number": "75"
+  },
+  {
+    "id": 137,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Why do science teachers strictly advise students not to hang an object heavier than the maximum printed scale limit on a spring balance?",
+    "options": [
+      "It will permanently overstretch the internal spring, destroying its elasticity and calibration.",
+      "It will cause the object to become magnetized.",
+      "The heavy object will automatically repel the hook due to electrostatics.",
+      "It will break the Earth's local gravitational field."
+    ],
+    "answer": "It will permanently overstretch the internal spring, destroying its elasticity and calibration.",
+    "explanation": "A spring balance relies on the predictable, elastic stretching of a metal spring. Exceeding its maximum limit applies too much force, causing permanent deformation (loss of elasticity), which ruins the device's ability to measure accurately. (Chapter 2 Notes, Page 42)",
+    "page_number": "42"
+  },
+  {
+    "id": 138,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "A common student misconception is that calculating the least count of an instrument is unnecessary. If a student ignores the least count on a spring balance where 1 small division = 0.2 N, what primary error will they commit?",
+    "options": [
+      "They will fail to measure the gravitational direction.",
+      "They will completely miscalculate the object's total volume.",
+      "They will fail to accurately read values falling between the major whole-number markings.",
+      "They will confuse weight with electrostatic force."
+    ],
+    "answer": "They will fail to accurately read values falling between the major whole-number markings.",
+    "explanation": "The least count allows you to read fractional values accurately. Without understanding that each tiny line represents 0.2 N, a student cannot correctly interpret readings that don't land exactly on the large 1 N or 2 N marks. (Chapter 2 Notes, Page 42)",
+    "page_number": "42"
+  },
+  {
+    "id": 139,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Some students erroneously believe that pushing an object deeper and deeper into water continuously increases the buoyant force upon it. What is the correct scientific reality?",
+    "options": [
+      "The buoyant force decreases as water gets colder with depth.",
+      "The buoyant force remains strictly constant once the object is fully submerged.",
+      "Buoyant force is entirely an illusion caused by water pressure.",
+      "The buoyant force increases infinitely until the object is crushed."
+    ],
+    "answer": "The buoyant force remains strictly constant once the object is fully submerged.",
+    "explanation": "Archimedes' Principle states buoyancy depends on the weight of the displaced liquid. Once an object is entirely submerged, it cannot displace any more liquid volume regardless of how deep it goes. Thus, the buoyant force reaches a maximum and remains constant. (Chapter 2 Notes, Page 42)",
+    "page_number": "42"
+  },
+  {
+    "id": 140,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "During a class debate, a student argues friction is entirely harmful because it wears down machines. Which of the following is the best counter-example demonstrating friction as an absolute daily necessity?",
+    "options": [
+      "The ability of a heavy box to scrape paint off a floor.",
+      "The heat generated by an engine running fast.",
+      "The ability of a person's shoes to grip the pavement, allowing them to walk without slipping.",
+      "The resistance felt when pulling a submerged bucket out of a well."
+    ],
+    "answer": "The ability of a person's shoes to grip the pavement, allowing them to walk without slipping.",
+    "explanation": "While friction causes wear and tear (a problem), it is absolutely vital for basic locomotion. Without the frictional grip between shoes and the ground, pushing off to walk or run would be impossible, resulting in constant slipping. (Textbook Chapter 5, Page 79)",
+    "page_number": "79"
+  },
+  {
+    "id": 141,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "If the Earth's gravitational pull suddenly became weaker by half, what observable physical change would occur when dropping a ball from a tall building?",
+    "options": [
+      "The ball would float upwards into space.",
+      "The ball would fall downwards at a noticeably slower rate of acceleration.",
+      "The ball would fall twice as fast.",
+      "The ball would remain suspended in mid-air permanently."
+    ],
+    "answer": "The ball would fall downwards at a noticeably slower rate of acceleration.",
+    "explanation": "Gravity is the force that pulls the ball down and causes it to accelerate. If this pulling force were weakened by half, the ball would still fall (since gravity is still attractive), but it would accelerate towards the ground much more slowly. (Textbook Chapter 5, Page 72)",
+    "page_number": "72"
+  },
+  {
+    "id": 142,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Why does a heavy wooden crate slide significantly further on a smooth sheet of ice compared to a flat wooden plank when pushed with the exact same initial force?",
+    "options": [
+      "Ice generates a strong magnetic field that propels wood.",
+      "The cold temperature reduces the crate's internal mass.",
+      "Ice possesses far fewer microscopic irregularities, resulting in a dramatically lower frictional force opposing the motion.",
+      "Ice creates an electrostatic repulsion against wooden materials."
+    ],
+    "answer": "Ice possesses far fewer microscopic irregularities, resulting in a dramatically lower frictional force opposing the motion.",
+    "explanation": "Friction is the primary force that stops sliding objects, caused by interlocking surface irregularities. Ice is exceptionally smooth at a microscopic level compared to wood, meaning it offers minimal frictional resistance, allowing the crate to slide much further. (Textbook Chapter 5, Page 68)",
+    "page_number": "68"
+  },
+  {
+    "id": 143,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "What is the fundamental difference in the direction of action between an object's true weight and the buoyant force it experiences when submerged in a fluid?",
+    "options": [
+      "Weight acts horizontally, while buoyant force acts vertically.",
+      "Weight always acts straight down towards the Earth's center, while buoyant force always acts vertically upward.",
+      "Weight acts randomly, while buoyant force follows magnetic lines.",
+      "Both act downward, but buoyant force is always weaker."
+    ],
+    "answer": "Weight always acts straight down towards the Earth's center, while buoyant force always acts vertically upward.",
+    "explanation": "These two forces are locked in a tug-of-war. Weight is the gravitational pull dragging the object straight down. Buoyancy (upthrust) is the pressure-driven force from the displaced fluid pushing the object straight up. (Chapter 2 Notes, Page 33)",
+    "page_number": "33"
+  },
+  {
+    "id": 144,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "When a school calibrates a newly manufactured homemade spring balance, why must standard known weights be hung from it?",
+    "options": [
+      "To test the maximum breaking strength of the metal hook.",
+      "To accurately map exactly how much the specific internal spring stretches per Newton of applied gravitational force.",
+      "To magnetize the spring properly.",
+      "To ensure the balance becomes permanently static."
+    ],
+    "answer": "To accurately map exactly how much the specific internal spring stretches per Newton of applied gravitational force.",
+    "explanation": "Every spring is different. Calibration involves hanging known masses (like 1 kg, which exerts ~10 N of force) to see exactly how far that specific spring stretches. This allows accurate markings to be drawn on the scale for future unknown measurements. (Textbook Chapter 5, Page 79)",
+    "page_number": "79"
+  },
+  {
+    "id": 145,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): When pushing a heavy wooden crate across a rough factory floor at a constant, steady speed, the muscular pushing force applied must be perfectly equal and opposite to the frictional force.\nReason (R): An object moving at a constant, uniform speed in a straight line has a net unbalanced force of zero acting upon it.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "If a box accelerates, the pushing force is greater than friction. If it moves at a steady, constant speed, the pushing force exactly matches the opposing friction, resulting in zero net force. A zero net force allows an object to maintain its current uniform motion. (Chapter 2 Notes, Page 19)",
+    "page_number": "19"
+  },
+  {
+    "id": 146,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): When a stone is thrown vertically upwards into the sky, its speed remains constant until it stops momentarily at the peak.\nReason (R): The gravitational force of the Earth constantly pulls objects downwards towards its surface.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The assertion is false because the upward speed is not constant; it constantly *decreases* due to gravity acting in the opposite direction. The reason is a true scientific statement regarding the nature of Earth's gravitational pull. (Textbook Chapter 5, Page 72)",
+    "page_number": "72"
+  },
+  {
+    "id": 147,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): In a simple DIY electroscope, touching the exposed copper wire with a positively charged glass rod causes the internal aluminium strips to diverge.\nReason (R): The copper wire acts as an electrical conductor, transferring the positive static charge down to both aluminium strips, which then repel each other.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "An electroscope relies on conduction to move charges. The copper wire conducts the charge from the rod down to the foils. Because both foils receive the exact same type of charge (positive), electrostatic repulsion forces them to spread apart. (Textbook Chapter 5, Page 79)",
+    "page_number": "79"
+  },
+  {
+    "id": 148,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A colossal cargo ship constructed from dense steel can float safely on the ocean surface despite carrying thousands of tons of heavy goods.\nReason (R): The ship's wide, hollow hull design ensures it displaces a massive volume of water, generating an upward buoyant force that equals or exceeds the total weight of the loaded ship.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Steel is denser than water, but a ship is mostly hollow air inside. By making the hull very large, it pushes away (displaces) an immense amount of water. According to Archimedes, this massive displaced water creates a buoyant force strong enough to counter the ship's huge weight. (Chapter 2 Notes, Page 34)",
+    "page_number": "34"
+  },
+  {
+    "id": 149,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If an astronaut riding a lunar rover on the Moon stops the engine on a perfectly flat surface, the rover will continue to roll forward indefinitely without ever stopping.\nReason (R): While the Moon lacks an atmosphere (meaning no air resistance), the physical contact between the heavy rover's wheels and the rough lunar surface still generates rolling friction.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The assertion is false; the rover will eventually stop. Even in a vacuum, the wheels contact the ground. The microscopic irregularities between the wheels and the lunar dust create rolling friction, an opposing force that will gradually halt the rover. The reason is a true statement explaining this. (Textbook Chapter 5, Page 67)",
+    "page_number": "67"
+  },
+  {
+    "id": 150,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If you take a standard classroom spring balance calibrated in kilograms to Jupiter, it will display a highly inaccurate mass reading for a known 1 kg metal block.\nReason (R): The mass scale on a spring balance is derived indirectly by measuring gravitational force (weight), and Jupiter's massive gravity pulls on the block much harder than Earth's gravity does.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "A spring balance fundamentally measures weight, not mass. It only shows mass correctly on Earth because it is calibrated to Earth's specific gravity (g). On Jupiter, the stronger gravity stretches the spring much further, causing the scale to display a falsely high 'mass'. (Textbook Chapter 5, Page 75)",
+    "page_number": "75"
+  },
+  {
+    "id": 151,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Which statement accurately describes the relationship between the physical concept of 'interaction' and the existence of a force in scientific terms?",
+    "options": [
+      "Force exists passively inside all matter at all times.",
+      "A force is strictly the result of an active interaction; without interaction between at least two objects, no force exists.",
+      "Interaction only occurs in a vacuum, generating magnetic fields.",
+      "Force is the precursor to interaction; force exists before objects touch."
+    ],
+    "answer": "A force is strictly the result of an active interaction; without interaction between at least two objects, no force exists.",
+    "explanation": "Forces do not exist in isolation or as stored energy. The textbook defines force explicitly as a push or pull resulting from an object's interaction with another object. The moment the interaction ends, the applied force ceases. (Textbook Chapter 5, Page 65)",
+    "page_number": "65"
+  },
+  {
+    "id": 152,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "If you rub two separate, identical balloons with the exact same piece of woollen cloth and hang them close together, what dictates their resulting physical behavior?",
+    "options": [
+      "They attract because they share a gravitational bond.",
+      "Both balloons acquire the exact same type of static charge from the wool and therefore exert a repulsive electrostatic force on each other.",
+      "The wool absorbs their mass, making them float randomly.",
+      "They neutralize each other's charge and remain perfectly still."
+    ],
+    "answer": "Both balloons acquire the exact same type of static charge from the wool and therefore exert a repulsive electrostatic force on each other.",
+    "explanation": "Rubbing materials together transfers electrons. Since both balloons are made of the same material and rubbed with the same wool, they acquire identical (like) static electrical charges. Because like charges repel, the balloons push away from each other. (Textbook Chapter 5, Page 71)",
+    "page_number": "71"
+  },
+  {
+    "id": 153,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Consider three completely solid blocks of equal volume made of cork, wood, and dense metal. When forcefully submerged completely underwater, why do they all experience the exact same upward buoyant force?",
+    "options": [
+      "Because water pressure ignores material types.",
+      "Because they all have the same fundamental mass.",
+      "Because having the same volume means they displace the exact same amount of water when fully submerged, resulting in identical upthrust.",
+      "Because gravity pulls identically on all solid shapes."
+    ],
+    "answer": "Because having the same volume means they displace the exact same amount of water when fully submerged, resulting in identical upthrust.",
+    "explanation": "According to Archimedes' Principle, buoyant force equals the weight of the fluid displaced. Since all three blocks have identical volumes, they displace identical amounts of water when fully pushed under, thus generating the exact same upward buoyant force, regardless of their own weight. (Textbook Chapter 5, Page 76)",
+    "page_number": "76"
+  },
+  {
+    "id": 154,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "When pulling a heavy bucket of water out of a deep well, why does the bucket feel significantly lighter to your hands while it is still fully submerged under the water surface?",
+    "options": [
+      "The water dissolves some of the bucket's mass.",
+      "The water exerts an upward buoyant force that partially counteracts the downward gravitational weight of the bucket.",
+      "Friction from the water pushes the bucket up.",
+      "Magnetic forces at the bottom of the well repel the metal bucket."
+    ],
+    "answer": "The water exerts an upward buoyant force that partially counteracts the downward gravitational weight of the bucket.",
+    "explanation": "Any object immersed in a fluid experiences an upward force called upthrust or buoyancy. This upward force works against gravity. Therefore, while submerged, the net downward force (apparent weight) you have to pull against is less than the true weight in air. (Textbook Chapter 5, Page 76)",
+    "page_number": "76"
+  },
+  {
+    "id": 155,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "In a laboratory experiment, solid Object X floats comfortably on liquid Y but sinks completely like a stone in liquid Z. What does this definitively reveal about the density of Object X?",
+    "options": [
+      "The density of Object X is exactly equal to the density of both liquids.",
+      "The density of Object X is greater than both liquids.",
+      "The density of Object X is less than liquid Y, but greater than liquid Z.",
+      "Object X has zero mass, making density calculations impossible."
+    ],
+    "answer": "The density of Object X is less than liquid Y, but greater than liquid Z.",
+    "explanation": "Objects float if they are less dense than the fluid, and sink if they are denser. Since X floats in Y, Density(X) < Density(Y). Since X sinks in Z, Density(X) > Density(Z). (Chapter 2 Notes, Page 35)",
+    "page_number": "35"
+  },
+  {
+    "id": 156,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Why is the concept of a 'vacuum' (empty space devoid of air) largely irrelevant when discussing the successful application of magnetic and gravitational forces between planets?",
+    "options": [
+      "Vacuums actually amplify these forces massively.",
+      "Because both are fundamental non-contact forces that do not require a material medium like air or water to transmit their push or pull through space.",
+      "Planets generate their own air to carry the forces.",
+      "Gravity and magnetism are actually contact forces on a cosmic scale."
+    ],
+    "answer": "Because both are fundamental non-contact forces that do not require a material medium like air or water to transmit their push or pull through space.",
+    "explanation": "Unlike sound waves or frictional forces, non-contact forces like gravity (holding planets in orbit) and magnetism act through force fields. These fields traverse empty space effortlessly and do not require any physical matter or medium to exert their influence. (Textbook Chapter 5, Page 72)",
+    "page_number": "72"
+  },
+  {
+    "id": 157,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "A charged plastic straw attracts tiny, uncharged bits of paper. How is this explained considering the paper initially has no net electrical charge?",
+    "options": [
+      "The straw creates a miniature gravitational black hole.",
+      "A charged object can interact with and attract certain uncharged materials through electrostatic force, even without touching them.",
+      "The paper bits magically generate a strong opposite charge spontaneously.",
+      "The straw exerts a powerful magnetic pull on the cellulose in the paper."
+    ],
+    "answer": "A charged object can interact with and attract certain uncharged materials through electrostatic force, even without touching them.",
+    "explanation": "Electrostatic forces do not only occur between two pre-charged bodies. A highly charged object (like the rubbed straw) can induce a polarization of charges within nearby uncharged objects (like paper), resulting in a net attractive electrostatic force. (Textbook Chapter 5, Page 70)",
+    "page_number": "70"
+  },
+  {
+    "id": 158,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "If you observe a leaf falling from a tree and a helium balloon floating upwards into the sky, how do the forces of gravity and buoyancy apply to these two objects?",
+    "options": [
+      "Gravity acts only on the leaf; buoyancy acts only on the balloon.",
+      "Gravity pulls both down, but the buoyant force from the air pushing the balloon up is stronger than its weight.",
+      "The balloon has no mass, so gravity ignores it.",
+      "Buoyancy acts downwards on the leaf, accelerating its fall."
+    ],
+    "answer": "Gravity pulls both down, but the buoyant force from the air pushing the balloon up is stronger than its weight.",
+    "explanation": "Gravity is universal and pulls down on both the leaf and the balloon. However, air is a fluid that exerts an upward buoyant force. For the dense leaf, gravity > buoyancy, so it falls. For the light helium balloon, buoyancy > gravity, so it rises. (Chapter 2 Notes, Page 33)",
+    "page_number": "33"
+  },
+  {
+    "id": 159,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "A physics problem states a car is moving at a steady 60 km/h on a straight highway with a forward engine thrust of 2000 N. What must be the total magnitude of the opposing resistive forces (friction and air drag)?",
+    "options": [
+      "0 N",
+      "1000 N",
+      "2000 N",
+      "4000 N"
+    ],
+    "answer": "2000 N",
+    "explanation": "According to the principles of force, an object moving at a constant, steady speed in a straight line has a net force of zero. Therefore, the forward thrust (2000 N) must be perfectly balanced by an equal and opposite total resistive force (2000 N). (Chapter 2 Notes, Page 19)",
+    "page_number": "19"
+  },
+  {
+    "id": 160,
+    "subject": "Science",
+    "chapter": "Exploring Forces-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "When learning to read a spring balance, a student notices it measures from 0 to 10 N and has 50 small divisions in total across the entire scale. What is the value of one small division?",
+    "options": [
+      "0.1 N",
+      "0.2 N",
+      "0.5 N",
+      "1.0 N"
+    ],
+    "answer": "0.2 N",
+    "explanation": "The least count is calculated by dividing the total range by the total number of divisions. Here, the range is 10 N - 0 N = 10 N. Dividing 10 N by 50 divisions gives 10/50 = 1/5 = 0.2 N per division. (Chapter 2 Notes, Page 31)",
+    "page_number": "31"
+  }
+]
