@@ -1,0 +1,1768 @@
+[
+{
+"id":1,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Define variables in the context of algebra.",
+"answer":"Variables are symbols, usually letters, that represent unknown or changeable quantities in mathematical expressions and equations.",
+"keywords":[
+"symbols",
+"letters",
+"unknown",
+"changeable quantities"
+],
+"explanation":"Variables allow us to generalise mathematical rules and write patterns. They are fundamental building blocks in algebra. This is covered on page 2 of the presentation slides.",
+"page_number":"2"
+},
+{
+"id":2,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What are constants in an algebraic expression?",
+"answer":"Constants are fixed values that do not change. They are represented by numbers in mathematical expressions.",
+"keywords":[
+"fixed values",
+"do not change",
+"numbers"
+],
+"explanation":"Unlike variables, constants hold a single, permanent numeric value in any given expression. This concept is discussed on page 2 of the presentation slides.",
+"page_number":"2"
+},
+{
+"id":3,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What is an algebraic identity?",
+"answer":"An algebraic identity is a mathematical statement that shows the equality of two algebraic expressions and is true for all values of the variables involved.",
+"keywords":[
+"mathematical statement",
+"equality",
+"true for all values",
+"variables"
+],
+"explanation":"Identities differ from equations because they hold true regardless of what numeric value is substituted for the variables. This is explained on page 5 of the slides.",
+"page_number":"5"
+},
+{
+"id":4,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"State the distributive property of multiplication over addition using variables a, b, and c.",
+"answer":"The distributive property of multiplication over addition is stated as a x (b + c) = (a x b) + (a x c).",
+"keywords":[
+"distributive property",
+"addition",
+"multiply each term"
+],
+"explanation":"This property explains how multiplying a number by a sum is equivalent to multiplying the number by each term separately and then adding. Discussed on page 3 of the slides.",
+"page_number":"3"
+},
+{
+"id":5,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"State the distributive property of multiplication over subtraction using variables a, b, and c.",
+"answer":"The distributive property of multiplication over subtraction is stated as a x (b - c) = (a x b) - (a x c).",
+"keywords":[
+"distributive property",
+"subtraction",
+"multiply each term"
+],
+"explanation":"Similar to addition, this property allows a multiplier to be distributed to terms being subtracted inside a bracket. Covered on page 3 of the slides.",
+"page_number":"3"
+},
+{
+"id":6,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"How does a product change when one of its multipliers increases by 1?",
+"answer":"When one multiplier increases by 1, the overall product increases by the value of the other unchanged multiplier.",
+"keywords":[
+"increases",
+"value of the other multiplier",
+"unchanged"
+],
+"explanation":"For multipliers a and b, if a becomes a+1, the new product is (a+1)b = ab + b, meaning the increase is b. Discussed on page 4 of the slides.",
+"page_number":"4"
+},
+{
+"id":7,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What does the ancient mathematical term Khanda-gunanam refer to?",
+"answer":"Khanda-gunanam refers to the method of multiplication by parts, where the multiplier is broken into two or more parts whose sum equals the original multiplier.",
+"keywords":[
+"multiplication by parts",
+"broken into parts",
+"sum equals original"
+],
+"explanation":"This technique was proposed by Brahmagupta to simplify complex multiplications using the distributive property. Covered on page 7 of the slides.",
+"page_number":"7"
+},
+{
+"id":8,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What is Ista-gunana in ancient Indian mathematics?",
+"answer":"Ista-gunana refers to fast multiplication methods based on the distributive property, especially used when multiplying by numbers like 11, 99, 101, which are near powers of 10.",
+"keywords":[
+"fast multiplication",
+"distributive property",
+"near powers of 10"
+],
+"explanation":"Brahmagupta referred to these shortcut methods as Ista-gunana, leveraging the distributive property for simplification. Found on page 14 of the textbook chapter.",
+"page_number":"14"
+},
+{
+"id":9,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"State the algebraic Identity 1A.",
+"answer":"Identity 1A is the square of a sum: (a + b)^2 = a^2 + 2ab + b^2.",
+"keywords":[
+"square of a sum",
+"Identity 1A"
+],
+"explanation":"This is a special case of the distributive property where both binomials are identical and additive. Discussed on page 11 of the slides.",
+"page_number":"11"
+},
+{
+"id":10,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"State the algebraic Identity 1B.",
+"answer":"Identity 1B is the square of a difference: (a - b)^2 = a^2 - 2ab + b^2.",
+"keywords":[
+"square of a difference",
+"Identity 1B"
+],
+"explanation":"This identity simplifies the expansion of the square of a binomial with a subtraction sign. Covered on page 11 of the slides.",
+"page_number":"11"
+},
+{
+"id":11,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"State the algebraic Identity 1C.",
+"answer":"Identity 1C represents the difference of two square numbers: a^2 - b^2 = (a + b)(a - b).",
+"keywords":[
+"difference of two squares",
+"Identity 1C"
+],
+"explanation":"This identity is useful for factoring a difference of squares into the product of a sum and a difference. Covered on page 11 of the slides.",
+"page_number":"11"
+},
+{
+"id":12,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"What is meant by the term 'Simplification' in algebra?",
+"answer":"Simplification means making an expression shorter and clearer by removing brackets and combining like terms, without changing its overall value.",
+"keywords":[
+"shorter and clearer",
+"removing brackets",
+"combining like terms",
+"without changing value"
+],
+"explanation":"Simplifying expressions makes them easier to read and evaluate, but does not alter the mathematical truth of the expression. Explained on page 12 of the slides.",
+"page_number":"12"
+},
+{
+"id":13,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"State the 'Like terms rule' for addition and subtraction.",
+"answer":"The rule states that algebraic terms can be added or subtracted only when they have the exact same variables raised to the exact same powers.",
+"keywords":[
+"added or subtracted",
+"same variables",
+"same powers"
+],
+"explanation":"Attempting to combine unlike terms is a common error. Variables and their exponents must match exactly. Found on page 12 of the slides.",
+"page_number":"12"
+},
+{
+"id":14,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Why is step-by-step expansion important in algebra?",
+"answer":"Careful step-by-step expansion is important because it helps in tracking signs and terms accurately, thereby finding and avoiding common calculation mistakes.",
+"keywords":[
+"tracking signs",
+"avoiding mistakes",
+"finding mistakes"
+],
+"explanation":"Rushing through expansion often leads to dropped negatives or missed term multiplications. Covered on page 12 of the slides.",
+"page_number":"12"
+},
+{
+"id":15,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"What does it indicate when a mathematical problem has multiple solution strategies?",
+"answer":"It indicates that there can be many creative algebraic or geometric ways to interpret a pattern, all of which logically simplify to the same correct answer.",
+"keywords":[
+"creative ways",
+"interpret a pattern",
+"same correct answer"
+],
+"explanation":"Problems can often be solved via direct multiplication, identities, or geometric area models, reinforcing mathematical understanding. Found on page 32 of the textbook.",
+"page_number":"32"
+},
+{
+"id":16,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Write the algebraic expression for the total number of tiles if there are (x + 2) tiles in a row and (x - 3) rows.",
+"answer":"The total number of tiles is found by multiplying the rows by the columns, giving the expression (x + 2)(x - 3).",
+"keywords":[
+"multiplying",
+"expression",
+"(x + 2)(x - 3)"
+],
+"explanation":"In a grid layout, total items equal rows times columns. This is part of Case Study 2 on page 2 of the worksheet document.",
+"page_number":"2"
+},
+{
+"id":17,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Differentiate between an algebraic expression and an algebraic equation.",
+"answer":"An algebraic expression consists of variables, constants, and operations without an equality sign (e.g., 2x + 9). An algebraic equation includes an equality sign to show two expressions are equal (e.g., 5x + 9 = x^2 - 5).",
+"keywords":[
+"without equality sign",
+"includes equality sign",
+"expressions are equal"
+],
+"explanation":"Expressions merely represent a value, whereas equations form a solvable relationship. Discussed on page 2 of the slides.",
+"page_number":"2"
+},
+{
+"id":18,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"Explain the fast multiplication rule for multiplying a number by 11.",
+"answer":"To multiply by 11 (which is 10^1 + 1), retain the last digit. Then, moving right to left, add each digit to its immediate left neighbor. Finally, write down any remaining carry over.",
+"keywords":[
+"retain last digit",
+"add each digit to neighbor",
+"right to left",
+"carry over"
+],
+"explanation":"This digit addition technique relies on the distributive property to dramatically speed up manual calculations. Explained on page 8 of the slides.",
+"page_number":"8"
+},
+{
+"id":19,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"Explain the fast multiplication rule for multiplying a number by 101.",
+"answer":"To multiply by 101 (which is 10^2 + 1), retain the last two digits. Then, starting from the right, add each digit to the digit two places to its left, carrying over if necessary.",
+"keywords":[
+"retain last two digits",
+"two places to left",
+"add each digit",
+"carrying over"
+],
+"explanation":"Because 101 has a power of 2 for its base 10, the shifting for addition happens two places over. Explained on page 9 of the slides.",
+"page_number":"9"
+},
+{
+"id":20,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"Explain the fast multiplication rule for multiplying a number by 1001.",
+"answer":"To multiply by 1001 (which is 10^3 + 1), retain the last three digits. Moving from right to left, add each digit to the digit three places to its left, accounting for any carry.",
+"keywords":[
+"retain last three digits",
+"three places to left",
+"add each digit",
+"accounting for carry"
+],
+"explanation":"The technique is a direct extension of multiplying by (1000 + 1) using the distributive property. Found on page 10 of the slides.",
+"page_number":"10"
+},
+{
+"id":21,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Expand the expression 2x(x + y) using the distributive property.",
+"answer":"By distributing 2x to both terms inside the bracket, we get: (2x * x) + (2x * y) = 2x^2 + 2xy.",
+"keywords":[
+"distributing",
+"multiply each term",
+"2x^2 + 2xy"
+],
+"explanation":"The monomial outside the parenthesis multiplies with every term inside. This is a level 2 worksheet question from page 1.",
+"page_number":"1"
+},
+{
+"id":22,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"Show how (a+b)c equals ac + bc using the properties of multiplication.",
+"answer":"Using commutativity of multiplication, (a+b)c can be written as c(a+b). Applying the distributive property, c(a+b) expands to ca + cb. By commutativity again, this is ac + bc.",
+"keywords":[
+"commutativity",
+"distributive property",
+"ca + cb",
+"ac + bc"
+],
+"explanation":"This step-by-step process proves that the distributive property works symmetrically from both sides. Found on page 2 of the textbook.",
+"page_number":"2"
+},
+{
+"id":23,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Evaluate 103^2 using a suitable identity.",
+"answer":"We can write 103 as (100 + 3). Using Identity 1A (a+b)^2 = a^2 + 2ab + b^2, we get 100^2 + 2(100)(3) + 3^2 = 10000 + 600 + 9 = 10609.",
+"keywords":[
+"(100 + 3)",
+"Identity 1A",
+"100^2 + 2(100)(3) + 3^2",
+"10609"
+],
+"explanation":"Splitting 103 into 100 and 3 makes squaring mental math easier. This is from Case Study 1.",
+"page_number":"1"
+},
+{
+"id":24,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"easy",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Evaluate 98^2 using a suitable algebraic identity.",
+"answer":"Write 98 as (100 - 2). Using Identity 1B (a-b)^2 = a^2 - 2ab + b^2, the expansion is 100^2 - 2(100)(2) + 2^2 = 10000 - 400 + 4 = 9604.",
+"keywords":[
+"(100 - 2)",
+"Identity 1B",
+"10000 - 400 + 4",
+"9604"
+],
+"explanation":"Applying the square of a difference identity is much faster than traditional long multiplication. Covered in Level 2 Worksheet.",
+"page_number":"1"
+},
+{
+"id":25,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"Generalise the expression for the change in the product of 'a' and 'b' if 'a' is increased by 'm' and 'b' is increased by 'n'.",
+"answer":"The new product is (a+m)(b+n). Expanding this gives ab + an + bm + mn. Since the original product was ab, the net increase is an + bm + mn.",
+"keywords":[
+"(a+m)(b+n)",
+"ab + an + bm + mn",
+"original product ab",
+"increase is an + bm + mn"
+],
+"explanation":"This generalisation proves that multiplying binomials results in the original product plus incremental areas. Discussed on page 6 of the textbook.",
+"page_number":"6"
+},
+{
+"id":26,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"If both multipliers 'a' and 'b' increase by 1, by what amount does their product increase?",
+"answer":"If both increase by 1, the new product is (a+1)(b+1) = ab + a + b + 1. The increase from the original product 'ab' is equal to a + b + 1.",
+"keywords":[
+"(a+1)(b+1)",
+"ab + a + b + 1",
+"increase",
+"a + b + 1"
+],
+"explanation":"Substituting m=1 and n=1 into the general increment formula gives the sum of the multipliers plus one. Covered on page 4 of the slides.",
+"page_number":"4"
+},
+{
+"id":27,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Evaluate 88^2 using a suitable algebraic identity.",
+"answer":"We write 88 as (90 - 2). Using (a-b)^2 = a^2 - 2ab + b^2, we evaluate 90^2 - 2(90)(2) + 2^2 = 8100 - 360 + 4 = 7744.",
+"keywords":[
+"(90 - 2)",
+"square of a difference",
+"8100 - 360 + 4",
+"7744"
+],
+"explanation":"Alternatively, (100-12)^2 could be used, but (90-2) keeps the subtraction easier. This addresses textbook exercise 6.3.",
+"page_number":"24"
+},
+{
+"id":28,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Find the value of 152^2 using an appropriate identity.",
+"answer":"Write 152 as (150 + 2). Using (a+b)^2 = a^2 + 2ab + b^2, we get 150^2 + 2(150)(2) + 2^2 = 22500 + 600 + 4 = 23104.",
+"keywords":[
+"(150 + 2)",
+"square of a sum",
+"22500 + 600 + 4",
+"23104"
+],
+"explanation":"Breaking 152 into 150 and 2 utilizes numbers whose squares and products are simpler to compute mentally. Covered in textbook exercises.",
+"page_number":"24"
+},
+{
+"id":29,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Compute 52 x 48 using an identity.",
+"answer":"We can rewrite this as (50 + 2)(50 - 2). Using Identity 1C, (a+b)(a-b) = a^2 - b^2. Therefore, 50^2 - 2^2 = 2500 - 4 = 2496.",
+"keywords":[
+"(50 + 2)(50 - 2)",
+"Identity 1C",
+"a^2 - b^2",
+"2500 - 4",
+"2496"
+],
+"explanation":"Recognizing that two numbers are equidistant from a base (50) allows for rapid calculation. From Case Study 1.",
+"page_number":"1"
+},
+{
+"id":30,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Identify a common error students make when multiplying a term outside a bracket, and explain how to avoid it.",
+"answer":"Students often multiply only the first term inside the bracket. To avoid this, remember the distributive rule: the outside term must multiply every single term inside the bracket.",
+"keywords":[
+"only the first term",
+"distributive rule",
+"multiply every single term"
+],
+"explanation":"This error occurs when brackets are partially ignored. Highlighting the distribution lines can help. Covered in 'Mind the Mistake' on page 33 of the text.",
+"page_number":"33"
+},
+{
+"id":31,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"How can ignoring negative signs lead to errors during expansion, and how should it be avoided?",
+"answer":"Ignoring negative signs causes incorrect addition or subtraction of terms, changing the final value. Avoid this by explicitly rewriting and paying attention to the sign of each term before multiplying.",
+"keywords":[
+"incorrect addition or subtraction",
+"changing final value",
+"explicitly rewriting",
+"paying attention to sign"
+],
+"explanation":"Signs belong to the term directly following them. Neglecting them is a frequent algebraic error. Discussed on page 33 of the text.",
+"page_number":"33"
+},
+{
+"id":32,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Expand the expression (3x + 2y)^2 using the appropriate identity.",
+"answer":"Using (a+b)^2 = a^2 + 2ab + b^2, set a = 3x and b = 2y. The expansion is (3x)^2 + 2(3x)(2y) + (2y)^2, which simplifies to 9x^2 + 12xy + 4y^2.",
+"keywords":[
+"(a+b)^2",
+"(3x)^2 + 2(3x)(2y) + (2y)^2",
+"9x^2 + 12xy + 4y^2"
+],
+"explanation":"Applying the identity requires squaring the coefficients as well as the variables. From textbook exercise 6.3.",
+"page_number":"24"
+},
+{
+"id":33,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Expand the algebraic expression (2x - 5)^2.",
+"answer":"Using the identity (a-b)^2 = a^2 - 2ab + b^2 with a = 2x and b = 5, we get (2x)^2 - 2(2x)(5) + 5^2. This simplifies to 4x^2 - 20x + 25.",
+"keywords":[
+"(a-b)^2",
+"(2x)^2 - 2(2x)(5) + 5^2",
+"4x^2 - 20x + 25"
+],
+"explanation":"The middle term is negative because it represents a subtraction within the binomial square. From Level 3 Worksheet.",
+"page_number":"1"
+},
+{
+"id":34,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Expand (x - 2y)(x + 2y).",
+"answer":"This fits Identity 1C, (a - b)(a + b) = a^2 - b^2. Here a = x and b = 2y. The result is x^2 - (2y)^2 = x^2 - 4y^2.",
+"keywords":[
+"Identity 1C",
+"(a - b)(a + b)",
+"x^2 - (2y)^2",
+"x^2 - 4y^2"
+],
+"explanation":"The middle cross-terms cancel each other out, leaving only a difference of squares. From Level 3 Worksheet.",
+"page_number":"1"
+},
+{
+"id":35,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Find the product of 37541 and 11 using the digit addition pattern.",
+"answer":"Retain the last digit 1. Add adjacent digits: 4+1=5, 5+4=9, 7+5=12 (write 2, carry 1), 3+7=10 (+1 carry)=11 (write 1, carry 1), 3+1=4. The product is 412951.",
+"keywords":[
+"retain last digit",
+"add adjacent digits",
+"carry",
+"412951"
+],
+"explanation":"This method rapidly computes multiplication by 11 by simply adding neighboring digits from right to left. Shown on page 8 of the slides.",
+"page_number":"8"
+},
+{
+"id":36,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Explain why 79 x 81 is easily computed.",
+"answer":"They can be written as (80 - 1) and (80 + 1). Using the identity (a-b)(a+b) = a^2 - b^2, this becomes 80^2 - 1^2 = 6400 - 1 = 6399. This avoids long multiplication.",
+"keywords":[
+"(80 - 1)",
+"(80 + 1)",
+"a^2 - b^2",
+"6400 - 1",
+"6399"
+],
+"explanation":"Recognizing that the numbers are symmetrically located around a multiple of 10 makes mental calculation trivial. Found in the assertion/reasoning questions.",
+"page_number":"39"
+},
+{
+"id":37,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Evaluate 43 x 45 using Identity 1C.",
+"answer":"Express the numbers as (44 - 1)(44 + 1). Applying (a-b)(a+b) = a^2 - b^2 gives 44^2 - 1^2. Since 44^2 = 1936, the result is 1936 - 1 = 1935.",
+"keywords":[
+"(44 - 1)(44 + 1)",
+"44^2 - 1^2",
+"1936 - 1",
+"1935"
+],
+"explanation":"The difference of squares identity efficiently solves products of numbers separated by 2. From textbook exercise.",
+"page_number":"19"
+},
+{
+"id":38,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Multiply 89 by 101 quickly using the distributive property.",
+"answer":"Write 101 as (100 + 1). Then 89 x (100 + 1) = (89 x 100) + (89 x 1) = 8900 + 89 = 8989.",
+"keywords":[
+"(100 + 1)",
+"(89 x 100) + (89 x 1)",
+"8900 + 89",
+"8989"
+],
+"explanation":"This is an application of the ista-gunana technique, breaking 101 into easier additive parts. Addressed in text exercises.",
+"page_number":"9"
+},
+{
+"id":39,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Evaluate 999^2 using a suitable identity.",
+"answer":"Write 999 as (1000 - 1). Using (a-b)^2 = a^2 - 2ab + b^2, we get 1000^2 - 2(1000)(1) + 1^2 = 1000000 - 2000 + 1 = 998001.",
+"keywords":[
+"(1000 - 1)",
+"1000000 - 2000 + 1",
+"998001"
+],
+"explanation":"This prevents tedious triple-digit long multiplication by applying the square of a difference identity. From Level 3 Worksheet.",
+"page_number":"1"
+},
+{
+"id":40,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Find the increase in the product ab when multiplier b increases by 3, and multiplier a decreases by 2.",
+"answer":"The new product is (a - 2)(b + 3) = ab + 3a - 2b - 6. The net increase from the original product ab is 3a - 2b - 6.",
+"keywords":[
+"(a - 2)(b + 3)",
+"ab + 3a - 2b - 6",
+"net increase",
+"3a - 2b - 6"
+],
+"explanation":"This demonstrates how applying distributive expansion (Identity 1) maps complex numeric shifts into algebraic terms. From Level 1 worksheet.",
+"page_number":"1"
+},
+{
+"id":41,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"Simplify the expression: 15x (2x/3 - y - 1/5).",
+"answer":"Using the distributive property, multiply 15x with each term inside the bracket: (15x * 2x/3) - (15x * y) - (15x * 1/5). This simplifies to (5x * 2x) - 15xy - 3x, which finally gives 10x^2 - 15xy - 3x.",
+"keywords":[
+"distributive property",
+"multiply 15x with each term",
+"(5x * 2x) - 15xy - 3x",
+"10x^2 - 15xy - 3x"
+],
+"explanation":"This requires careful distribution and fraction simplification to prevent structural errors. Solved Example 2 on page 8 of the textbook.",
+"page_number":"8"
+},
+{
+"id":42,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"A student expanded (2x - 3)(x + 1) as 4x - 3. Find the error and write the correct steps.",
+"answer":"The student likely only multiplied 2x with x and -3 with 1 incorrectly. The correct distributive expansion is 2x(x + 1) - 3(x + 1) = 2x^2 + 2x - 3x - 3. Combining like terms gives the correct answer: 2x^2 - x - 3.",
+"keywords":[
+"incorrectly multiplied",
+"distributive expansion",
+"2x(x + 1) - 3(x + 1)",
+"2x^2 - x - 3"
+],
+"explanation":"Every term in the first bracket must be multiplied by every term in the second. From the Level 1 Worksheet.",
+"page_number":"1"
+},
+{
+"id":43,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":55
+},
+"question":"Expand (x - u)(y - v) using the distributive property.",
+"answer":"We treat (x - u) as a single unit and distribute: (x - u)y - (x - u)v. Then apply distribution again: xy - uy - (xv - uv). Distributing the negative sign yields xy - uy - xv + uv.",
+"keywords":[
+"single unit",
+"(x - u)y - (x - u)v",
+"distributing the negative sign",
+"xy - uy - xv + uv"
+],
+"explanation":"This proves that the product of two binomials with subtraction generates an alternating sign pattern. Found in the textbook discussion.",
+"page_number":"5"
+},
+{
+"id":44,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"Evaluate 51208 x 10001 using the distributive property.",
+"answer":"Rewrite 10001 as (10000 + 1). The expression becomes 51208 x (10000 + 1). By distributing, we get (51208 x 10000) + (51208 x 1) = 512080000 + 51208 = 512131208.",
+"keywords":[
+"(10000 + 1)",
+"distributing",
+"512080000 + 51208",
+"512131208"
+],
+"explanation":"This shows how to apply Brahmagupta's Ista-gunana strategy for massive numbers to avoid multi-row multiplication. From exercise 6.2.",
+"page_number":"18"
+},
+{
+"id":45,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"Find the algebraic change in the product of 'a' and 'b' if 'a' is increased by 3 and 'b' is decreased by 1.",
+"answer":"The new product is (a+3)(b-1). Expanding this gives ab - a + 3b - 3. Subtracting the original product (ab) gives the net change, which is -a + 3b - 3.",
+"keywords":[
+"(a+3)(b-1)",
+"ab - a + 3b - 3",
+"subtracting original product",
+"-a + 3b - 3"
+],
+"explanation":"By evaluating the binomial expansion and cancelling the 'ab' term, we are left with just the incremental difference. Solved Example 1 in text.",
+"page_number":"8"
+},
+{
+"id":46,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"Expand (3a + 2)(6a - 4) and simplify.",
+"answer":"Multiply each term in the first bracket by each term in the second: 3a(6a - 4) + 2(6a - 4). This yields 18a^2 - 12a + 12a - 8. The -12a and +12a cancel out, leaving 18a^2 - 8.",
+"keywords":[
+"3a(6a - 4) + 2(6a - 4)",
+"18a^2 - 12a + 12a - 8",
+"cancel out",
+"18a^2 - 8"
+],
+"explanation":"This behaves similarly to a difference of squares expansion, highlighting how middle terms can nullify each other. From textbook exercise 6.3.",
+"page_number":"24"
+},
+{
+"id":47,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"Prove the identity (a - b)^2 = a^2 - 2ab + b^2 using the distributive property.",
+"answer":"Write (a-b)^2 as (a-b)(a-b). Distribute the first term: a(a-b) - b(a-b). This expands to a^2 - ab - ba + b^2. Since ab = ba, we combine the like terms to get a^2 - 2ab + b^2.",
+"keywords":[
+"(a-b)(a-b)",
+"a(a-b) - b(a-b)",
+"a^2 - ab - ba + b^2",
+"combine like terms",
+"a^2 - 2ab + b^2"
+],
+"explanation":"Step-by-step expansion visually proves why the middle term is doubled and negative, while the b^2 term is positive. Discussed on page 12 of the text.",
+"page_number":"12"
+},
+{
+"id":48,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"Show algebraically that (a+b)(a-b) = a^2 - b^2.",
+"answer":"Expand the expression by distributing: a(a - b) + b(a - b). This results in a^2 - ab + ba - b^2. Because multiplication is commutative (ab = ba), -ab and +ba cancel each other out, leaving a^2 - b^2.",
+"keywords":[
+"distributing",
+"a(a - b) + b(a - b)",
+"a^2 - ab + ba - b^2",
+"cancel each other out",
+"a^2 - b^2"
+],
+"explanation":"This is the core proof for Identity 1C, demonstrating how opposite middle terms create a simplified difference of squares. Found on page 11 of slides.",
+"page_number":"11"
+},
+{
+"id":49,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"Explain how to use Sridharacharya's method to find 31^2.",
+"answer":"Sridharacharya's identity is a^2 = (a+b)(a-b) + b^2. To find 31^2, let a=31 and choose b=1 for simplicity. This gives (31+1)(31-1) + 1^2. This equals 32 x 30 + 1 = 960 + 1 = 961.",
+"keywords":[
+"a^2 = (a+b)(a-b) + b^2",
+"a=31",
+"b=1",
+"32 x 30 + 1",
+"961"
+],
+"explanation":"This method intelligently offsets the target number by 'b' to create an easier multiplication, then adds the offset squared. Found on page 22 of the text.",
+"page_number":"22"
+},
+{
+"id":50,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":55
+},
+"question":"Evaluate 9734 x 99 using the distributive property.",
+"answer":"Rewrite 99 as (100 - 1). The expression becomes 9734 x (100 - 1). Distributing this gives (9734 x 100) - (9734 x 1) = 973400 - 9734 = 963666.",
+"keywords":[
+"(100 - 1)",
+"9734 x (100 - 1)",
+"973400 - 9734",
+"963666"
+],
+"explanation":"This demonstrates Ista-gunana with subtraction, heavily reducing calculation time compared to vertical multiplication. From textbook exercises.",
+"page_number":"9"
+},
+{
+"id":51,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"Find the change in the product 'ab' if 'a' is increased by 'x' and 'b' is decreased by 'y'.",
+"answer":"The new product is (a+x)(b-y). Expanding gives ab - ay + bx - xy. To find the change, we subtract the original product 'ab'. The resulting change is bx - ay - xy.",
+"keywords":[
+"(a+x)(b-y)",
+"ab - ay + bx - xy",
+"subtract original product",
+"bx - ay - xy"
+],
+"explanation":"This generalizes mixed increments and decrements, proving that sign management is critical in algebraic distributions. Level 2 worksheet question.",
+"page_number":"1"
+},
+{
+"id":52,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"Expand (4y + 7)(y + 11z - 3) using the distributive property.",
+"answer":"Distribute 4y and 7 to each term in the second bracket: 4y(y + 11z - 3) + 7(y + 11z - 3). This gives 4y^2 + 44yz - 12y + 7y + 77z - 21. Combining the like 'y' terms yields 4y^2 + 44yz - 5y + 77z - 21.",
+"keywords":[
+"distribute",
+"4y(y + 11z - 3) + 7(y + 11z - 3)",
+"4y^2 + 44yz - 12y + 7y + 77z - 21",
+"4y^2 + 44yz - 5y + 77z - 21"
+],
+"explanation":"A binomial multiplied by a trinomial requires 6 initial terms before simplification. From textbook exercises.",
+"page_number":"143"
+},
+{
+"id":53,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":55
+},
+"question":"Calculate 45974 x 1001 quickly using algebraic properties.",
+"answer":"We express 1001 as (1000 + 1). Applying the distributive property gives 45974 x (1000 + 1) = 45974000 + 45974. Adding these yields 46019974.",
+"keywords":[
+"(1000 + 1)",
+"distributive property",
+"45974000 + 45974",
+"46019974"
+],
+"explanation":"This is Solved Example 7, showing how expanding bases near powers of 10 simplifies massive multiplications instantly.",
+"page_number":"15"
+},
+{
+"id":54,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"Use the pattern 2(a^2 + b^2) = (a + b)^2 + (a - b)^2 to evaluate 2(35^2 + 15^2).",
+"answer":"Let a = 35 and b = 15. Substituting into the identity gives (35 + 15)^2 + (35 - 15)^2. This simplifies to 50^2 + 20^2. Calculating the squares gives 2500 + 400 = 2900.",
+"keywords":[
+"a = 35",
+"b = 15",
+"(35 + 15)^2 + (35 - 15)^2",
+"50^2 + 20^2",
+"2900"
+],
+"explanation":"This pattern turns difficult isolated squares into much simpler round-number squares. From Solved Example 12.",
+"page_number":"21"
+},
+{
+"id":55,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Expand the expression (a + b)(a^2 + 2ab + b^2).",
+"answer":"Multiply 'a' by the trinomial: a^3 + 2a^2b + ab^2. Then multiply 'b' by the trinomial: a^2b + 2ab^2 + b^3. Combine all terms: a^3 + 2a^2b + a^2b + ab^2 + 2ab^2 + b^3. Grouping like terms gives a^3 + 3a^2b + 3ab^2 + b^3.",
+"keywords":[
+"a^3 + 2a^2b + ab^2",
+"a^2b + 2ab^2 + b^3",
+"grouping like terms",
+"a^3 + 3a^2b + 3ab^2 + b^3"
+],
+"explanation":"This introduces the expansion of (a+b)^3 by multiplying (a+b) with (a+b)^2. Covered as Example 3 in the text.",
+"page_number":"141"
+},
+{
+"id":56,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"medium",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"Use the distributive property to find the difference between 250 x 105 and 250 x 95 without calculating the full products.",
+"answer":"We can rewrite this as 250 x (100 + 5) - 250 x (100 - 5). Factoring out 250 gives 250 x [(100 + 5) - (100 - 5)]. This simplifies to 250 x [105 - 95] = 250 x 10 = 2500.",
+"keywords":[
+"250 x (100 + 5)",
+"250 x (100 - 5)",
+"Factoring out 250",
+"250 x 10",
+"2500"
+],
+"explanation":"This highlights how common factors can be extracted to subtract secondary factors easily. From Exercise 6.2.",
+"page_number":"18"
+},
+{
+"id":57,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Expand (a+b)^2 and (a-b)^2, and use the results to find their difference.",
+"answer":"The expansion of (a+b)^2 is a^2 + 2ab + b^2. The expansion of (a-b)^2 is a^2 - 2ab + b^2. Subtracting the second from the first: (a^2 + 2ab + b^2) - (a^2 - 2ab + b^2) results in 4ab, as the a^2 and b^2 terms cancel.",
+"keywords":[
+"a^2 + 2ab + b^2",
+"a^2 - 2ab + b^2",
+"Subtracting",
+"cancel",
+"4ab"
+],
+"explanation":"This proves a very famous algebraic identity showing that the difference between the square of a sum and the square of a difference is exactly 4ab.",
+"page_number":"11"
+},
+{
+"id":58,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Is the product 10009 x 9991 greater than or less than 10000^2? Justify without full multiplication.",
+"answer":"Write 10009 x 9991 as (10000 + 9)(10000 - 9). Using Identity 1C, (a+b)(a-b) = a^2 - b^2, this becomes 10000^2 - 9^2, which is 10000^2 - 81. Therefore, the product is exactly 81 less than 10000^2.",
+"keywords":[
+"(10000 + 9)(10000 - 9)",
+"Identity 1C",
+"10000^2 - 9^2",
+"81 less"
+],
+"explanation":"This uses difference of squares to instantly analyze proximity to a known square. Solved Example 4.",
+"page_number":"10"
+},
+{
+"id":59,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Identify and correct the error in the expansion: (x+y)^3 - 3xy(x+y) = x^3 - y^3.",
+"answer":"The expansion of (x+y)^3 is x^3 + 3x^2y + 3xy^2 + y^3. Subtracting 3xy(x+y) which is (3x^2y + 3xy^2) from it gives (x^3 + 3x^2y + 3xy^2 + y^3) - 3x^2y - 3xy^2. The middle terms cancel out perfectly, leaving x^3 + y^3, not x^3 - y^3.",
+"keywords":[
+"x^3 + 3x^2y + 3xy^2 + y^3",
+"Subtracting 3xy(x+y)",
+"middle terms cancel",
+"x^3 + y^3"
+],
+"explanation":"Students frequently confuse sign operations when manipulating higher-order polynomials. From Exercise 6.4.",
+"page_number":"29"
+},
+{
+"id":60,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Write 196 as the difference of two squares using parity rules.",
+"answer":"196 can be split into 98 x 2. Since 98 and 2 have the same parity, their sum is 100, and 98 is 50 + 48 while 2 is 50 - 48. Thus, 196 = (50 + 48)(50 - 48) = 50^2 - 48^2. Therefore, 196 is the difference of 50^2 and 48^2.",
+"keywords":[
+"98 x 2",
+"same parity",
+"(50 + 48)(50 - 48)",
+"50^2 - 48^2"
+],
+"explanation":"By finding two factors that differ by a manageable even amount, Sridharacharya's logic converts a solid number into a square difference. Found on page 23.",
+"page_number":"23"
+},
+{
+"id":61,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"Find the product of 112233 and 998 using the distributive property.",
+"answer":"Write 998 as (1000 - 2). The expression is 112233 x (1000 - 2). Distributing gives 112233000 - (112233 x 2) = 112233000 - 224466. Subtracting these yields 112008534.",
+"keywords":[
+"(1000 - 2)",
+"distributing",
+"112233000 - 224466",
+"112008534"
+],
+"explanation":"Multiplying large digits by 998 is drastically simplified by turning it into a subtraction from a round million/thousand base. From Exercise 6.2.",
+"page_number":"18"
+},
+{
+"id":62,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Prove that the product of two consecutive numbers is always even.",
+"answer":"Let the consecutive numbers be n and n+1. Their product is n(n+1) = n^2 + n. If n is even, n^2 is even, and even + even = even. If n is odd, n^2 is odd, and odd + odd = even. Therefore, the product is always even.",
+"keywords":[
+"n and n+1",
+"n^2 + n",
+"even + even = even",
+"odd + odd = even"
+],
+"explanation":"Algebraically verifying parity rules ensures robust mathematical reasoning. From Level 3 Worksheet.",
+"page_number":"2"
+},
+{
+"id":63,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Express 404 as the difference of two squares.",
+"answer":"We factor 404 as 202 x 2. The average of 202 and 2 is 102. So, 202 = 102 + 100 and 2 = 102 - 100. Multiplying them gives (102 + 100)(102 - 100), which by identity 1C is 102^2 - 100^2.",
+"keywords":[
+"202 x 2",
+"average",
+"(102 + 100)(102 - 100)",
+"102^2 - 100^2"
+],
+"explanation":"Factoring into two numbers of the same parity allows rewriting as a difference of squares. Found in textbook page 24 exercise.",
+"page_number":"24"
+},
+{
+"id":64,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"Prove that the difference of squares of two numbers of the same parity is always even.",
+"answer":"Let the two numbers be 2m (even) and 2n (even). Difference is (2m)^2 - (2n)^2 = 4m^2 - 4n^2 = 4(m^2 - n^2), which is even. If both are odd (2m+1, 2n+1), diff is (2m+1)^2 - (2n+1)^2 = 4m^2+4m+1 - (4n^2+4n+1) = 4(m^2+m-n^2-n), which is also even.",
+"keywords":[
+"same parity",
+"4(m^2 - n^2)",
+"4(m^2+m-n^2-n)",
+"always even"
+],
+"explanation":"Since squaring preserves parity, the difference of two identical parities yields an even result. Level 3 Worksheet.",
+"page_number":"2"
+},
+{
+"id":65,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":110
+},
+"question":"Case Study: A cashier computes 49^2 and 52 x 48 mentally using identities. Show step-by-step how she does this and explain why this method is faster than traditional multiplication.",
+"answer":"For 49^2, she uses (50 - 1)^2. Expanding with (a-b)^2 = a^2 - 2ab + b^2, she gets 50^2 - 2(50)(1) + 1^2 = 2500 - 100 + 1 = 2401. For 52 x 48, she uses (50 + 2)(50 - 2). Using a^2 - b^2, she calculates 50^2 - 2^2 = 2500 - 4 = 2496. These methods are faster because they utilize round numbers (like 50), which are easy to square mentally, entirely bypassing multi-digit carry-over mechanics.",
+"keywords":[
+"(50 - 1)^2",
+"2500 - 100 + 1",
+"(50 + 2)(50 - 2)",
+"50^2 - 2^2",
+"round numbers",
+"bypassing multi-digit carry-over"
+],
+"explanation":"This addresses Case Study 1 on the worksheet entirely, demonstrating practical algebraic applications.",
+"page_number":"1"
+},
+{
+"id":66,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":110
+},
+"question":"Case Study: A pattern has (x + 2) tiles in a row and (x - 3) rows. The first pattern has x = 5. Write an expression for total tiles, expand it, find the tiles in the second pattern, and determine how many more tiles are in pattern 2 than pattern 1.",
+"answer":"The expression for total tiles is (x + 2)(x - 3). Expanding gives x^2 - 3x + 2x - 6 = x^2 - x - 6. For pattern 1 (x=5), tiles = 25 - 5 - 6 = 14. For pattern 2 (x=6), tiles = 36 - 6 - 6 = 24. The difference between pattern 2 and pattern 1 is 24 - 14 = 10 tiles. So, pattern 2 uses 10 more tiles.",
+"keywords":[
+"(x + 2)(x - 3)",
+"x^2 - x - 6",
+"x=5",
+"x=6",
+"difference",
+"10 tiles"
+],
+"explanation":"This is a comprehensive evaluation of Case Study 2, requiring expression formulation, expansion, and sequential evaluation.",
+"page_number":"2"
+},
+{
+"id":67,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":120
+},
+"question":"If one multiplier is increased by 3 and the other decreased by 6, find a pair of numbers whose product remains exactly the same. Show your working steps.",
+"answer":"Let the numbers be a and b, with product ab. The new numbers are (a+3) and (b-6). The new product is (a+3)(b-6) = ab - 6a + 3b - 18. Since the product remains the same, ab - 6a + 3b - 18 = ab. Canceling ab gives 3b - 6a - 18 = 0, or 3b - 6a = 18. Divide by 3 to get b - 2a = 6. We can pick any convenient value for 'a', for example a=2. Then b - 4 = 6, so b=10. The pair is 2 and 10.",
+"keywords":[
+"(a+3)(b-6)",
+"ab - 6a + 3b - 18",
+"3b - 6a = 18",
+"b - 2a = 6",
+"a=2",
+"b=10"
+],
+"explanation":"This problem uses identity modeling to set up a linear relationship between two variables to hold an area constant. Solved Example 3.",
+"page_number":"9"
+},
+{
+"id":68,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":120
+},
+"question":"Which product is larger: 245 x 255 or 246 x 254? Justify your answer algebraically without calculating the exact final products.",
+"answer":"Let 250 be a central base. 245 x 255 can be written as (250 - 5)(250 + 5). Using a^2 - b^2, this is 250^2 - 5^2, which is 250^2 - 25. Now, 246 x 254 can be written as (250 - 4)(250 + 4), which evaluates to 250^2 - 4^2, or 250^2 - 16. Since subtracting 16 takes away less than subtracting 25 from the same base square (250^2), 246 x 254 is larger by 9.",
+"keywords":[
+"(250 - 5)(250 + 5)",
+"250^2 - 25",
+"(250 - 4)(250 + 4)",
+"250^2 - 16",
+"subtracting less",
+"larger"
+],
+"explanation":"Difference of squares makes comparing large proximate numbers simple. The closer the factors are to each other, the larger the product. From Level 3 Worksheet.",
+"page_number":"1"
+},
+{
+"id":69,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":120
+},
+"question":"Take three consecutive numbers. Multiply the two larger numbers and subtract the square of the smallest number. Show algebraically that the resulting number has the same parity as the smallest number.",
+"answer":"Let the consecutive numbers be n, n+1, and n+2. Multiply the two larger: (n+1)(n+2) = n^2 + 3n + 2. Subtract the square of the smallest (n^2): (n^2 + 3n + 2) - n^2 = 3n + 2. Now check parity: If n is even, 3(even)+2 = even+even = even. If n is odd, 3(odd)+2 = odd+even = odd. In both cases, the final result (3n+2) perfectly matches the parity of n.",
+"keywords":[
+"n, n+1, n+2",
+"(n+1)(n+2)",
+"n^2 + 3n + 2",
+"subtract n^2",
+"3n + 2",
+"check parity"
+],
+"explanation":"This involves algebraic setup, expansion, simplification, and parity logic testing. From Level 3 Worksheet.",
+"page_number":"1"
+},
+{
+"id":70,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":110
+},
+"question":"Explain Sridharacharya's method for computing the square of a number, and apply it to compute 197^2.",
+"answer":"Sridharacharya rearranged Identity 1C to form a^2 = (a+b)(a-b) + b^2. This allows calculating a difficult square by finding an easy offset 'b' that shifts 'a' to a round number. For 197^2, let a=197 and choose b=3 to reach 200. Plugging this in gives (197+3)(197-3) + 3^2. This becomes 200 x 194 + 9. Calculating 200 x 194 is 38800. Adding 9 gives a final answer of 38809.",
+"keywords":[
+"a^2 = (a+b)(a-b) + b^2",
+"offset",
+"a=197, b=3",
+"200 x 194 + 9",
+"38809"
+],
+"explanation":"This method is an elegant historical shortcut relying on the geometric manipulation of square areas. Discussed on page 22.",
+"page_number":"22"
+},
+{
+"id":71,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":100
+},
+"question":"Verify the general pattern 2(a^2 + b^2) = (a+b)^2 + (a-b)^2 by expanding the right side. How is this identity useful?",
+"answer":"Expand the right side using Identities 1A and 1B: (a+b)^2 = a^2 + 2ab + b^2, and (a-b)^2 = a^2 - 2ab + b^2. Adding them together gives (a^2 + 2ab + b^2) + (a^2 - 2ab + b^2). The +2ab and -2ab cancel each other out, leaving 2a^2 + 2b^2, which factors into 2(a^2 + b^2). This identity is highly useful for rapidly computing the sum of two squares if their sum and difference are simpler numbers.",
+"keywords":[
+"a^2 + 2ab + b^2",
+"a^2 - 2ab + b^2",
+"cancel each other out",
+"2a^2 + 2b^2",
+"computing sum of two squares"
+],
+"explanation":"This algebraic proof validates a pattern rule observed in numeric tables. From page 21 of the text.",
+"page_number":"21"
+},
+{
+"id":72,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":110
+},
+"question":"Explain how the area of rectangles can be used to visually prove the identity (a+m)(b+n) = ab + mb + an + mn.",
+"answer":"Imagine a large rectangle with length (a+m) and width (b+n). Its total area is (a+m)(b+n). We can split this large rectangle into four smaller rectangles by drawing vertical and horizontal lines separating 'a' from 'm' and 'b' from 'n'. The areas of these four distinct smaller rectangles are exactly ab, an, mb, and mn. Since the total area must equal the sum of its parts, (a+m)(b+n) is proven to be ab + mb + an + mn.",
+"keywords":[
+"large rectangle",
+"four smaller rectangles",
+"areas",
+"ab, an, mb, mn",
+"sum of its parts"
+],
+"explanation":"Geometric proofs of algebraic identities provide powerful visual intuition for polynomial expansion. From page 6 of the slides.",
+"page_number":"6"
+},
+{
+"id":73,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":120
+},
+"question":"A community kitchen prepares x plates of food. Volunteers then add 5 extra plates. Each plate costs (20+y) rupees. Write the expression for total cost, simplify it, and explain how algebra aids efficient planning.",
+"answer":"The initial plates are x, plus 5 extra makes it (x + 5) plates. The cost per plate is (20 + y). The total cost expression is (x + 5)(20 + y). Distributing this gives 20x + xy + 100 + 5y. Algebra helps volunteers plan efficiently because they can plug in any variable changes (like a sudden spike in vegetable price 'y' or guest count 'x') into one simplified formula to instantly predict overall budget needs without manual recounting.",
+"keywords":[
+"(x + 5)",
+"(20 + y)",
+"20x + xy + 100 + 5y",
+"plan efficiently",
+"predict overall budget"
+],
+"explanation":"This value-based question tests the real-world application of expanding binomials and recognizing practical algebraic utility. From page 40.",
+"page_number":"40"
+},
+{
+"id":74,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":110
+},
+"question":"Pragathi partitions her land among two sons. The dimensions of the two identical lands are represented by sides (3x-3) and (2x+3). Find the value of x if the lands are identical, and determine the area expression.",
+"answer":"If the two rectangular lands are identical in shape and size as per the diagram, their corresponding dimensions must be equal. Equating the given sides, we get 3x - 3 = 2x + 3. Subtracting 2x from both sides gives x - 3 = 3, which means x = 6. The dimensions of each plot become (3(6)-3) = 15, and (2(6)+3) = 15, making them squares. The area expression in terms of x is (3x-3)(2x+3) = 6x^2 + 9x - 6x - 9 = 6x^2 + 3x - 9. For x=6, area is 225.",
+"keywords":[
+"3x - 3 = 2x + 3",
+"x = 6",
+"15",
+"(3x-3)(2x+3)",
+"6x^2 + 3x - 9",
+"225"
+],
+"explanation":"This integrates geometry, linear equations, and polynomial expansion into a single spatial reasoning case study. From page 37-38.",
+"page_number":"37"
+},
+{
+"id":75,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":110
+},
+"question":"A frame of width 'w' is glued around a picture of length '3b' and breadth 'b'. Write an algebraic expression for the visible framed area and find its value if w=2 and b=11 (picture width=33).",
+"answer":"The picture dimensions are length 3b and breadth b. The frame adds width w to all sides. The total length becomes 3b + 2w, and the total breadth becomes b + 2w. The total visible area is (3b + 2w)(b + 2w) = 3b^2 + 6bw + 2bw + 4w^2 = 3b^2 + 8bw + 4w^2. If w=2 and the picture length is 33 (so 3b=33, meaning b=11). The area is 3(11)^2 + 8(11)(2) + 4(2)^2 = 3(121) + 176 + 16 = 363 + 176 + 16 = 555 sq cm.",
+"keywords":[
+"3b + 2w",
+"b + 2w",
+"3b^2 + 8bw + 4w^2",
+"w=2, b=11",
+"555 sq cm"
+],
+"explanation":"This requires understanding boundary increments on all sides of a rectangle and distributing complex variables. From page 30.",
+"page_number":"30"
+},
+{
+"id":76,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":110
+},
+"question":"Multiply 567432 by 11 using the digit addition method. Explain each step clearly including carryovers.",
+"answer":"To multiply 567432 by 11, retain the unit digit 2. Add tens to units: 3+2=5. Add hundreds to tens: 4+3=7. Add thousands to hundreds: 7+4=11 (write 1, carry over 1 to the next step). Add ten-thousands to thousands: 6+7=13, plus the 1 carry = 14 (write 4, carry over 1). Add lakhs to ten-thousands: 5+6=11, plus the 1 carry = 12 (write 2, carry over 1). Finally, add the carry to the first digit: 5+1=6. Reading the digits yields 6241752.",
+"keywords":[
+"retain",
+"carry over",
+"add adjacent digits",
+"6241752"
+],
+"explanation":"This confirms mastery of the Ista-gunana digit addition method, tracking internal carryovers without faltering. From page 15-16.",
+"page_number":"16"
+},
+{
+"id":77,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":100
+},
+"question":"Multiply 762528 by 10001 using the digit addition method. Explain the shifting logic clearly.",
+"answer":"Because 10001 is 10^4 + 1, we retain the last four digits intact initially (2528). Then, we add each digit to the digit exactly four places to its left. Adding 2 (ones) to 6 (ten-thousands) gives 8. Adding 2 (tens) to 7 (lakhs) gives 9. The digits 5 and 2 don't have corresponding higher places to add into, so they just fall into the sequence. The shifting logic physically mimics writing the number twice, offset by four zeros, and adding. Final product: 7626042528.",
+"keywords":[
+"10^4 + 1",
+"four places to its left",
+"offset by four zeros",
+"7626042528"
+],
+"explanation":"This extrapolates the 11/101 rule to 10001, showing the deeper mathematical structure of digit shifting. From page 17.",
+"page_number":"17"
+},
+{
+"id":78,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":110
+},
+"question":"Show that the expressions (a+b)(a-b) and a^2-b^2 are equivalent when both 'a' and 'b' are negative integers. Justify with an example.",
+"answer":"The algebraic proof holds regardless of sign: a(a-b) + b(a-b) = a^2 - ab + ba - b^2 = a^2 - b^2. Let's test with negative integers, a = -5 and b = -2. Using the left expression: (-5 + -2)(-5 - -2) = (-7)(-5 + 2) = (-7)(-3) = 21. Using the right expression: (-5)^2 - (-2)^2 = 25 - 4 = 21. Both sides yield 21. The identity is universally true because the commutative property applies universally to negative numbers.",
+"keywords":[
+"regardless of sign",
+"negative integers",
+"commutative property",
+"universally true"
+],
+"explanation":"Testing identities with negative integers confirms that algebraic generalized rules are immune to sign swapping. From Exercise 6.3.",
+"page_number":"23"
+},
+{
+"id":79,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":110
+},
+"question":"In a tiny park, two square plots of area g^2 will be green. A walking path of width 'w' surrounds them. The total park length is (2g+4w) and breadth is (g+2w). Find the area of the walking path.",
+"answer":"The total area of the park is length x breadth = (2g+4w)(g+2w). Expanding this: 2g(g+2w) + 4w(g+2w) = 2g^2 + 4gw + 4gw + 8w^2 = 2g^2 + 8gw + 8w^2. The green area consists of the two square plots, which is g^2 + g^2 = 2g^2. The walking path area is the total area minus the green area: (2g^2 + 8gw + 8w^2) - 2g^2 = 8gw + 8w^2, or 8w(g+w).",
+"keywords":[
+"(2g+4w)(g+2w)",
+"2g^2 + 8gw + 8w^2",
+"minus green area",
+"8gw + 8w^2",
+"8w(g+w)"
+],
+"explanation":"This question requires expanding a binomial and subtracting an internal area to find a border's geometric area. From page 33 of textbook exercises.",
+"page_number":"33"
+},
+{
+"id":80,
+"subject":"Mathematics",
+"chapter":"We Distribute, Yet Things Multiply-QA-v1",
+"difficulty":"hard",
+"question_type":"descriptive",
+"marks":5,
+"expected_word_count":{
+"min":60,
+"max":110
+},
+"question":"To multiply 93 and 107, Anupam wrote 93 x (100+7) and used the distributive property. Merrin wrote (100-7)(100+7) and used Identity 1C. Evaluate both methods. Which is more general and which is easier here?",
+"answer":"Anupam's method: 93(100+7) = 9300 + 651 = 9951. Merrin's method: (100-7)(100+7) = 100^2 - 7^2 = 10000 - 49 = 9951. Both methods are mathematically correct and yield 9951. Anupam's distributive property method is more general, as it works for any numbers (e.g., 93 x 108). However, Merrin's method using Identity 1C (a^2-b^2) is specifically easier here because 93 and 107 are equidistant from 100, allowing for rapid mental squaring rather than carrying multiplication.",
+"keywords":[
+"9300 + 651",
+"10000 - 49",
+"mathematically correct",
+"more general",
+"equidistant",
+"Identity 1C"
+],
+"explanation":"This encourages strategic thinking about algebraic methods, demonstrating that while distribution always works, identities provide context-specific shortcuts. From page 38.",
+"page_number":"38"
+}
+]
