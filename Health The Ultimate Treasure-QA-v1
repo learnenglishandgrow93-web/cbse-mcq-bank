@@ -1,0 +1,1839 @@
+[
+  {
+    "id": 1,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "Define health according to the World Health Organization (WHO).",
+    "answer": "According to the WHO, health is a state of complete physical, mental, and social well-being, and not merely the absence of disease.",
+    "keywords": [
+      "complete",
+      "physical",
+      "mental",
+      "social well-being",
+      "absence of disease"
+    ],
+    "explanation": "Health is a holistic concept that involves well-being across physical, mental, and social dimensions, not just being disease-free. This concept is detailed on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 2,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What are the three main components of health?",
+    "answer": "The three main components of health are physical health, mental health, and social health.",
+    "keywords": [
+      "physical health",
+      "mental health",
+      "social health"
+    ],
+    "explanation": "Overall health is divided into physical, mental, and social components, ensuring complete well-being. This is discussed in the learning resource key.",
+    "page_number": "1"
+  },
+  {
+    "id": 3,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Name two common health problems prevalent in India.",
+    "answer": "Two common health problems prevalent in India are malnutrition and diabetes.",
+    "keywords": [
+      "malnutrition",
+      "diabetes",
+      "common health problems"
+    ],
+    "explanation": "Malnutrition and diabetes are highlighted as major health concerns in India due to lifestyle and dietary issues. This is found in the learning resource key.",
+    "page_number": "1"
+  },
+  {
+    "id": 4,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is a pathogen?",
+    "answer": "A pathogen is a harmful microorganism, such as a bacterium, virus, or fungus, that causes disease in its host.",
+    "keywords": [
+      "pathogen",
+      "microorganism",
+      "causes disease"
+    ],
+    "explanation": "Pathogens are the biological agents responsible for causing communicable diseases. This definition is stated on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 5,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Give two examples of non-communicable diseases.",
+    "answer": "Two examples of non-communicable diseases are diabetes and asthma.",
+    "keywords": [
+      "diabetes",
+      "asthma",
+      "cancer",
+      "non-communicable"
+    ],
+    "explanation": "Non-communicable diseases do not spread from person to person and are often linked to lifestyle, like diabetes and asthma. This is covered on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 6,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is the role of vectors in disease transmission?",
+    "answer": "Vectors are organisms, like insects, that carry and spread disease-causing germs from one person or animal to another.",
+    "keywords": [
+      "vectors",
+      "carry",
+      "spread",
+      "germs"
+    ],
+    "explanation": "Vectors act as carriers for pathogens, spreading them without necessarily getting sick themselves. This concept is explained on page 33.",
+    "page_number": "33"
+  },
+  {
+    "id": 7,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Which insect acts as a vector for malaria?",
+    "answer": "The female Anopheles mosquito acts as a vector for spreading malaria.",
+    "keywords": [
+      "female Anopheles",
+      "mosquito",
+      "malaria"
+    ],
+    "explanation": "Malaria is a protozoan disease transmitted by the bite of infected female Anopheles mosquitoes. This is mentioned in the learning key.",
+    "page_number": "2"
+  },
+  {
+    "id": 8,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Name one vitamin deficiency disease mentioned in the text.",
+    "answer": "Scurvy is a disease caused by the deficiency of Vitamin C.",
+    "keywords": [
+      "Scurvy",
+      "Vitamin C deficiency"
+    ],
+    "explanation": "Deficiency diseases are caused by a lack of specific nutrients. Scurvy is linked to Vitamin C deficiency. This is discussed on page 56.",
+    "page_number": "56"
+  },
+  {
+    "id": 9,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is meant by the term 'immunity'?",
+    "answer": "Immunity is the natural ability of the body's immune system to identify, fight against, and destroy harmful diseases and germs.",
+    "keywords": [
+      "ability",
+      "fight",
+      "diseases",
+      "germs"
+    ],
+    "explanation": "Immunity acts as a defense mechanism, protecting the body from infections. This is detailed on page 37.",
+    "page_number": "37"
+  },
+  {
+    "id": 10,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Who discovered the first antibiotic, penicillin?",
+    "answer": "Alexander Fleming discovered penicillin, the first antibiotic, in 1928.",
+    "keywords": [
+      "Alexander Fleming",
+      "penicillin",
+      "1928"
+    ],
+    "explanation": "Alexander Fleming is credited with discovering penicillin from mold, which revolutionized bacterial treatment. Found on page 40.",
+    "page_number": "40"
+  },
+  {
+    "id": 11,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Which traditional Indian practice was used to protect against smallpox before modern vaccines?",
+    "answer": "The traditional Indian practice of variolation was used to protect against smallpox.",
+    "keywords": [
+      "variolation",
+      "traditional practice",
+      "smallpox"
+    ],
+    "explanation": "Variolation involved using material from a smallpox sore to create a mild infection and build immunity, performed by teekedaars. Found on page 38.",
+    "page_number": "38"
+  },
+  {
+    "id": 12,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Name the Indian scientist who played a key role in developing the Rotavirus vaccine.",
+    "answer": "Dr. Maharaj Kishan Bhan played a key role in developing the Rotavirus vaccine.",
+    "keywords": [
+      "Maharaj Kishan Bhan",
+      "Rotavirus vaccine"
+    ],
+    "explanation": "Dr. Maharaj Kishan Bhan was instrumental in Rotavirus vaccine development to protect children from diarrhoea. Mentioned on page 39.",
+    "page_number": "39"
+  },
+  {
+    "id": 13,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What do the terms 'dinacharya' and 'ritucharya' mean in Ayurveda?",
+    "answer": "In Ayurveda, 'dinacharya' means a daily routine, and 'ritucharya' refers to a seasonal routine for maintaining health.",
+    "keywords": [
+      "dinacharya",
+      "daily routine",
+      "ritucharya",
+      "seasonal routine"
+    ],
+    "explanation": "These are Ayurvedic principles guiding daily and seasonal habits to balance body, mind, and environment. Discussed on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 14,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "How do communicable diseases primarily spread through the air?",
+    "answer": "They spread when an infected person coughs, sneezes, or talks, releasing germ-carrying droplets that others breathe in.",
+    "keywords": [
+      "coughs",
+      "sneezes",
+      "droplets",
+      "breathe in"
+    ],
+    "explanation": "Airborne transmission occurs through infected respiratory droplets entering the air and being inhaled by healthy individuals. Explained on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 15,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 10
+    },
+    "question": "Name a disease caused by worms in the human intestine.",
+    "answer": "Ascariasis is a disease caused by roundworms in the intestine.",
+    "keywords": [
+      "Ascariasis",
+      "roundworms",
+      "intestine"
+    ],
+    "explanation": "Ascariasis is an intestinal infection caused by parasitic worms, often spread through contaminated food or water. Mentioned on page 34.",
+    "page_number": "34"
+  },
+  {
+    "id": 16,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "State one important preventive measure for dengue fever regarding water.",
+    "answer": "Preventive measures include removing stagnant water in containers like coolers and tires, where dengue-spreading mosquitoes breed.",
+    "keywords": [
+      "stagnant water",
+      "remove",
+      "mosquitoes breed"
+    ],
+    "explanation": "Aedes mosquitoes breed in clean, stagnant water, making its removal critical for dengue prevention. Stated on page 35.",
+    "page_number": "35"
+  },
+  {
+    "id": 17,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Differentiate between physical and mental health.",
+    "answer": "Physical health refers to having energy, strength, and being free from physical discomfort or illness. Mental health involves feeling positive, confident, and being emotionally stable to handle stress.",
+    "keywords": [
+      "physical health",
+      "energy",
+      "strength",
+      "mental health",
+      "positive",
+      "emotionally stable"
+    ],
+    "explanation": "Physical health is about bodily functions, while mental health pertains to emotional and psychological well-being. Both are key components of overall health. Addressed on page 39 of the chapter summary.",
+    "page_number": "39"
+  },
+  {
+    "id": 18,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "How does a clean environment contribute to good health?",
+    "answer": "A clean environment prevents the spread of diseases by reducing exposure to pollution, flies, mosquitoes, and germs that thrive in dirty areas, thereby promoting physical well-being.",
+    "keywords": [
+      "clean environment",
+      "prevents diseases",
+      "pollution",
+      "germs",
+      "mosquitoes"
+    ],
+    "explanation": "Environmental cleanliness eliminates breeding grounds for pathogens and vectors, directly reducing the risk of communicable diseases. Discussed on page 31.",
+    "page_number": "31"
+  },
+  {
+    "id": 19,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Why is emotional health considered an important aspect of overall well-being?",
+    "answer": "Emotional health is important because it helps individuals handle daily stress, make sound decisions, build positive relationships, and maintain optimism in difficult situations.",
+    "keywords": [
+      "emotional health",
+      "handle stress",
+      "decisions",
+      "positive relationships"
+    ],
+    "explanation": "Without emotional stability, even a physically fit person may suffer from loneliness or anxiety, affecting their overall health. Mentioned in the learning key.",
+    "page_number": "1"
+  },
+  {
+    "id": 20,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "List two unhealthy lifestyle habits that can negatively affect health.",
+    "answer": "Two unhealthy habits are consuming junk food regularly and spending excessive time on mobile phones or digital screens.",
+    "keywords": [
+      "unhealthy habits",
+      "junk food",
+      "excessive time",
+      "digital screens"
+    ],
+    "explanation": "Unhealthy diets and sedentary lifestyles associated with screen time contribute significantly to non-communicable diseases. Mentioned on page 30.",
+    "page_number": "30"
+  },
+  {
+    "id": 21,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "Differentiate between a symptom and a sign of an illness.",
+    "answer": "A symptom is a subjective feeling noticed by the patient, like pain or tiredness. A sign is an objective, measurable change that a doctor observes, like a fever or rash.",
+    "keywords": [
+      "symptom",
+      "feeling noticed",
+      "sign",
+      "measurable change",
+      "observes"
+    ],
+    "explanation": "Symptoms are felt by the patient, making them subjective, while signs are objective evidence of disease detected by a medical professional. Found on page 31.",
+    "page_number": "31"
+  },
+  {
+    "id": 22,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Give one example of a sign and one example of a symptom of a disease.",
+    "answer": "An example of a symptom is a headache or dizziness. An example of a sign is a high body temperature (fever) or a skin rash.",
+    "keywords": [
+      "symptom",
+      "headache",
+      "sign",
+      "fever",
+      "rash"
+    ],
+    "explanation": "Examples help clarify the difference between subjective feelings (symptoms) and measurable physical changes (signs). Detailed on page 31.",
+    "page_number": "31"
+  },
+  {
+    "id": 23,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What are communicable diseases? Give two examples.",
+    "answer": "Communicable diseases are diseases caused by pathogens that can spread from one infected person to another. Examples include COVID-19 and Cholera.",
+    "keywords": [
+      "communicable diseases",
+      "pathogens",
+      "spread",
+      "COVID-19",
+      "Cholera"
+    ],
+    "explanation": "These infectious diseases are transmitted via air, water, direct contact, or vectors. Examples show common infectious ailments. Defined on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 24,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What are non-communicable diseases? Give two examples.",
+    "answer": "Non-communicable diseases are illnesses not caused by pathogens and do not spread between people. They are often linked to lifestyle. Examples are diabetes and asthma.",
+    "keywords": [
+      "non-communicable diseases",
+      "not caused by pathogens",
+      "lifestyle",
+      "diabetes",
+      "asthma"
+    ],
+    "explanation": "NCDs develop due to genetics, diet, or environment rather than infections, making them non-transferable. Defined on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 25,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "How do diseases spread through indirect contact?",
+    "answer": "Diseases spread through indirect contact when a healthy person uses or touches contaminated personal items, such as towels, handkerchiefs, or utensils, belonging to an infected person.",
+    "keywords": [
+      "indirect contact",
+      "contaminated",
+      "personal items",
+      "towels"
+    ],
+    "explanation": "Pathogens can survive on inanimate objects (fomites) and infect individuals who handle them later. Explained on page 32-33.",
+    "page_number": "32"
+  },
+  {
+    "id": 26,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Mention two preventive measures to control diseases spread through contaminated water.",
+    "answer": "Two preventive measures are drinking boiled or purified water and ensuring proper sanitation to avoid contamination of water sources with waste.",
+    "keywords": [
+      "boiled water",
+      "sanitation",
+      "contamination",
+      "preventive measures"
+    ],
+    "explanation": "Boiling kills waterborne pathogens, and proper sanitation stops fecal matter from reaching drinking water sources. Described on page 34.",
+    "page_number": "34"
+  },
+  {
+    "id": 27,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "How does the Air Quality Index (AQI) relate to our health?",
+    "answer": "The Air Quality Index (AQI) measures how clean or polluted the air is. High AQI indicates poor air quality, which can cause respiratory issues like coughing or asthma.",
+    "keywords": [
+      "Air Quality Index",
+      "AQI",
+      "polluted",
+      "respiratory issues",
+      "asthma"
+    ],
+    "explanation": "AQI serves as a public health indicator. Higher pollution levels negatively impact lung health. Covered on page 31.",
+    "page_number": "31"
+  },
+  {
+    "id": 28,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why should we not consume antibiotics for a viral infection like the common cold?",
+    "answer": "Antibiotics are designed to target and kill only bacteria. They are completely ineffective against viruses that cause the common cold, and misuse can lead to harmful antibiotic resistance.",
+    "keywords": [
+      "Antibiotics",
+      "kill bacteria",
+      "ineffective against viruses",
+      "antibiotic resistance"
+    ],
+    "explanation": "Viral structures differ from bacteria, rendering antibiotics useless against them. Unnecessary use breeds resistant bacteria. Explained on page 39.",
+    "page_number": "39"
+  },
+  {
+    "id": 29,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "What is a chronic disease? Give one example.",
+    "answer": "A chronic disease is a long-lasting illness that develops slowly and persists for months or years. An example is diabetes or cancer.",
+    "keywords": [
+      "chronic disease",
+      "long-lasting",
+      "months or years",
+      "diabetes"
+    ],
+    "explanation": "Chronic diseases require ongoing medical attention and limit activities of daily living, unlike short-term acute illnesses. Defined on page 36.",
+    "page_number": "36"
+  },
+  {
+    "id": 30,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Mention two major causes of non-communicable diseases.",
+    "answer": "Two major causes of non-communicable diseases are unhealthy lifestyle habits, such as poor diet, and genetic factors.",
+    "keywords": [
+      "unhealthy lifestyle",
+      "poor diet",
+      "genetic factors"
+    ],
+    "explanation": "NCDs are driven by a combination of genetics, physiological, environmental, and behavioral factors like bad diets. Listed on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 31,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "How can obesity be prevented through lifestyle changes?",
+    "answer": "Obesity can be prevented by eating a balanced diet, reducing the intake of junk food, and exercising regularly to stay physically active.",
+    "keywords": [
+      "prevented",
+      "balanced diet",
+      "reducing junk food",
+      "exercising regularly"
+    ],
+    "explanation": "Obesity is a lifestyle disease that can be reversed or prevented through proper nutrition and physical exertion. Mentioned on page 36.",
+    "page_number": "36"
+  },
+  {
+    "id": 32,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "What is acquired immunity?",
+    "answer": "Acquired immunity is the protection that the body's immune system develops after being exposed to a specific pathogen or after receiving a vaccine.",
+    "keywords": [
+      "acquired immunity",
+      "protection",
+      "develops",
+      "exposed to a pathogen",
+      "vaccine"
+    ],
+    "explanation": "Unlike innate immunity, acquired immunity involves the immune system learning to recognize and remember specific threats. Defined on page 37.",
+    "page_number": "37"
+  },
+  {
+    "id": 33,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Briefly explain the scientific contribution of Dr. Kamal Ranadive.",
+    "answer": "Dr. Kamal Ranadive was a pioneering researcher who studied the links between hormones, viruses, and cancer. She highlighted how tobacco, diet, and pollution increase cancer risks.",
+    "keywords": [
+      "Kamal Ranadive",
+      "cancer",
+      "hormones",
+      "viruses",
+      "tobacco"
+    ],
+    "explanation": "Dr. Ranadive's biomedical research helped improve cancer treatment and prevention by identifying key lifestyle and biological risk factors. Described on page 37.",
+    "page_number": "37"
+  },
+  {
+    "id": 34,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why is community awareness important in preventing disease outbreaks?",
+    "answer": "Community awareness ensures people work together to follow hygiene practices, implement proper sanitation, and remove stagnant water, leading to long-term improvements in public health.",
+    "keywords": [
+      "community awareness",
+      "work together",
+      "hygiene practices",
+      "public health"
+    ],
+    "explanation": "Individual efforts alone cannot stop epidemics; collective community action regarding sanitation and hygiene is vital. Discussed in Worksheet case studies.",
+    "page_number": "7"
+  },
+  {
+    "id": 35,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What are the common symptoms of Tuberculosis (TB)?",
+    "answer": "Common symptoms of Tuberculosis (TB) include a persistent cough, fever, fatigue, loss of appetite, and night sweats.",
+    "keywords": [
+      "Tuberculosis",
+      "cough",
+      "fever",
+      "fatigue",
+      "loss of appetite",
+      "night sweats"
+    ],
+    "explanation": "TB is a bacterial lung infection characterized by these specific respiratory and systemic symptoms. Detailed in Table 3.1 on page 34.",
+    "page_number": "34"
+  },
+  {
+    "id": 36,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "How does vaccination help protect children?",
+    "answer": "Vaccination protects children by training their immune system to recognize and fight harmful germs, preventing serious and life-threatening diseases before they occur.",
+    "keywords": [
+      "vaccination",
+      "immune system",
+      "recognize and fight",
+      "preventing diseases"
+    ],
+    "explanation": "Vaccines introduce inactive germs to stimulate antibody production safely, ensuring immunity in children against fatal diseases. Stated on page 37.",
+    "page_number": "37"
+  },
+  {
+    "id": 37,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "State two responsible practices for the use of medicines to avoid antibiotic resistance.",
+    "answer": "Antibiotics should only be used when prescribed by a doctor, taken in the exact prescribed dose, and the full course must be completed.",
+    "keywords": [
+      "prescribed by a doctor",
+      "exact dose",
+      "full course",
+      "antibiotic resistance"
+    ],
+    "explanation": "Improper use of antibiotics leaves surviving bacteria that mutate into resistant strains, making responsible usage critical. Outlined on page 41.",
+    "page_number": "41"
+  },
+  {
+    "id": 38,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "How does sleeping well contribute to maintaining good health?",
+    "answer": "Sleeping well is crucial as it helps the body and mind rest, repair cellular damage, recover from stress, and regain energy for the next day.",
+    "keywords": [
+      "sleeping well",
+      "rest",
+      "repair",
+      "recover",
+      "regain energy"
+    ],
+    "explanation": "Sleep allows physiological healing and mental processing, playing an essential part in preventive healthcare. Mentioned on page 30.",
+    "page_number": "30"
+  },
+  {
+    "id": 39,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What is the cause and one prominent symptom of Cholera?",
+    "answer": "Cholera is caused by bacteria and spreads through contaminated water. A prominent symptom is severe diarrhoea leading to dehydration.",
+    "keywords": [
+      "Cholera",
+      "bacteria",
+      "diarrhoea",
+      "dehydration"
+    ],
+    "explanation": "Cholera is a severe waterborne intestinal infection. Diarrhoea and extreme dehydration are its hallmark traits. Found in Table 3.1 on page 34.",
+    "page_number": "34"
+  },
+  {
+    "id": 40,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "State two ways by which infectious diseases caused by worms can spread.",
+    "answer": "Infectious diseases caused by parasitic worms usually spread through the consumption of contaminated food or water, or via contact with infected soil.",
+    "keywords": [
+      "worms",
+      "spread",
+      "contaminated food",
+      "infected soil"
+    ],
+    "explanation": "Parasitic worms live in the digestive system and are primarily transmitted via the fecal-oral route or soil contamination. Mentioned on page 35.",
+    "page_number": "35"
+  },
+  {
+    "id": 41,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "Explain the WHO definition of health and describe the characteristics of a truly healthy person.",
+    "answer": "The WHO defines health as a state of complete physical, mental, and social well-being, not just the absence of disease. A truly healthy person can perform tasks efficiently, cope with difficult situations, manage stress, and interact positively with society and peer groups.",
+    "keywords": [
+      "physical, mental, social well-being",
+      "absence of disease",
+      "perform tasks efficiently",
+      "cope",
+      "interact positively"
+    ],
+    "explanation": "Health is multi-dimensional. Being disease-free is insufficient; functional capability, resilience, and social harmony define true health. Described on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 42,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "Describe Ayurveda's view on maintaining true health.",
+    "answer": "Ayurveda views true health as a balance of body, mind, and surroundings. This is achieved by following 'dinacharya' (daily routine) and 'ritucharya' (seasonal routine). Eating fresh food suited to one's 'prakriti', practicing regular exercise, cleanliness, and yoga ensure overall well-being.",
+    "keywords": [
+      "balance of body, mind",
+      "dinacharya",
+      "ritucharya",
+      "prakriti",
+      "yoga"
+    ],
+    "explanation": "Traditional Indian medicine emphasizes holistic balance aligned with natural cycles and individual body constitution (prakriti). Explained on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 43,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "How does lifestyle affect our health? Explain with examples of good and bad habits.",
+    "answer": "Lifestyle heavily impacts bodily and mental functions. Good habits, like eating a balanced diet and regular exercise, strengthen the body and improve mood. Conversely, bad habits, like eating junk food or having a sedentary lifestyle, increase the risk of obesity, diabetes, and fatigue.",
+    "keywords": [
+      "lifestyle affects",
+      "good habits",
+      "balanced diet",
+      "bad habits",
+      "junk food",
+      "obesity"
+    ],
+    "explanation": "Daily choices dictate our susceptibility to non-communicable diseases. Proper nutrition and activity are preventive medicines. Discussed in Worksheet answers.",
+    "page_number": "4"
+  },
+  {
+    "id": 44,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 60
+    },
+    "question": "Discuss the importance of friends and family in supporting our mental well-being.",
+    "answer": "Friends and family provide crucial support for our mental well-being by giving us love, encouragement, and a safe space to share our feelings. Spending time, talking, and laughing with loved ones prevents loneliness and helps maintain emotional balance.",
+    "keywords": [
+      "friends and family",
+      "love",
+      "encouragement",
+      "share feelings",
+      "emotional balance"
+    ],
+    "explanation": "Social health is a core component of overall well-being. Strong relationships act as buffers against stress and depression. Addressed in Learning Key.",
+    "page_number": "1"
+  },
+  {
+    "id": 45,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Explain how environmental factors, such as pollution and stagnant water, influence health.",
+    "answer": "Environmental factors directly influence health. Air pollution from factories causes breathing problems like asthma. Dirty environments and stagnant water attract vectors like mosquitoes and houseflies, leading to the rapid spread of communicable diseases like dengue and malaria.",
+    "keywords": [
+      "air pollution",
+      "asthma",
+      "stagnant water",
+      "vectors",
+      "dengue"
+    ],
+    "explanation": "A polluted environment introduces toxins and creates breeding grounds for pathogens, directly increasing disease incidence. Mentioned on page 31 and 35.",
+    "page_number": "31"
+  },
+  {
+    "id": 46,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Why are signs and symptoms important for doctors in diagnosing an illness?",
+    "answer": "Symptoms (what the patient feels, like pain) and signs (observable changes, like a rash or fever) act as critical clues. They help doctors identify exactly what is wrong with the body, determine the disease's cause, and prescribe the correct treatment.",
+    "keywords": [
+      "clues",
+      "identify",
+      "cause",
+      "prescribe",
+      "correct treatment"
+    ],
+    "explanation": "Signs and symptoms are the clinical manifestations of disease, guiding medical professionals in diagnosis and therapy. Explained on page 31.",
+    "page_number": "31"
+  },
+  {
+    "id": 47,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Differentiate between communicable and non-communicable diseases with examples for each.",
+    "answer": "Communicable diseases are caused by pathogens and can spread from one person to another (e.g., flu, cholera). Non-communicable diseases are not caused by germs, do not spread between people, and are linked to lifestyle or genetics (e.g., diabetes, asthma).",
+    "keywords": [
+      "communicable",
+      "pathogens",
+      "spread",
+      "non-communicable",
+      "lifestyle",
+      "do not spread"
+    ],
+    "explanation": "This fundamental distinction categorizes diseases based on their transmissibility and origin. Explained in detail on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 48,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Explain the role of vectors in spreading diseases, taking dengue as an example.",
+    "answer": "Vectors are insects or animals that carry disease-causing pathogens. In the case of dengue, the Aedes mosquito acts as a vector. It breeds in clean, stagnant water, bites an infected person, and then transmits the dengue virus to a healthy person through bites.",
+    "keywords": [
+      "vectors",
+      "carry pathogens",
+      "Aedes mosquito",
+      "dengue virus",
+      "transmits"
+    ],
+    "explanation": "Vectors act as biological bridges for pathogens to cross between hosts without getting sick themselves. Described on page 33 and 35.",
+    "page_number": "35"
+  },
+  {
+    "id": 49,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Describe the transmission and preventive measures for Hepatitis A.",
+    "answer": "Hepatitis A is a viral disease that infects the liver. It is transmitted through the consumption of contaminated food and water. It can be prevented by maintaining strict personal hygiene, drinking boiled water, and getting the Hepatitis A vaccination.",
+    "keywords": [
+      "Hepatitis A",
+      "liver",
+      "contaminated water",
+      "boiled water",
+      "vaccination"
+    ],
+    "explanation": "Hepatitis A is a classic waterborne disease affecting the liver, preventable by sanitation and immunization. Detailed in Table 3.1 on page 34.",
+    "page_number": "34"
+  },
+  {
+    "id": 50,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "What are deficiency diseases? Explain with three examples.",
+    "answer": "Deficiency diseases are non-communicable conditions caused by a lack of essential nutrients in the diet. For example, a lack of Vitamin C causes scurvy, a lack of iron causes anaemia, and a lack of iodine causes goitre. They are prevented by a balanced diet.",
+    "keywords": [
+      "lack of essential nutrients",
+      "scurvy",
+      "anaemia",
+      "goitre",
+      "balanced diet"
+    ],
+    "explanation": "These diseases demonstrate how improper nutrition directly leads to physiological disorders, independent of pathogens. Described on page 36.",
+    "page_number": "36"
+  },
+  {
+    "id": 51,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "Diabetes is a growing concern. Discuss its causes and symptoms.",
+    "answer": "Diabetes is a chronic non-communicable disease caused by hormonal imbalances (lack of insulin), unhealthy diets high in sugar, lack of physical activity, and obesity. Common symptoms include excessive thirst, frequent urination, sudden weight loss, tiredness, and slow healing of wounds.",
+    "keywords": [
+      "hormonal imbalances",
+      "lack of physical activity",
+      "obesity",
+      "excessive thirst",
+      "frequent urination",
+      "slow healing"
+    ],
+    "explanation": "Diabetes is a metabolic disorder resulting from poor lifestyle choices, affecting blood sugar regulation. Detailed on page 36.",
+    "page_number": "36"
+  },
+  {
+    "id": 52,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Explain the significance of the Odisha community-led sanitation campaign.",
+    "answer": "The Odisha community-led sanitation campaign successfully helped villagers build and use toilets, significantly reducing open defecation. This simple step improved environmental cleanliness, leading to a drastic drop in communicable diseases like diarrhoea and improved overall child health.",
+    "keywords": [
+      "sanitation campaign",
+      "toilets",
+      "reducing open defecation",
+      "diarrhoea",
+      "improved child health"
+    ],
+    "explanation": "Community participation in sanitation directly curbs the fecal-oral transmission route of deadly diseases. Highlighted as a case study on page 37.",
+    "page_number": "37"
+  },
+  {
+    "id": 53,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "How does the body's immune system function as a natural defense against diseases?",
+    "answer": "When harmful germs enter the body, the immune system identifies them as foreign invaders and activates special cells to attack and destroy them. It also creates memory cells. If the same germ enters again, the immune response is much faster, preventing the disease.",
+    "keywords": [
+      "identifies as foreign",
+      "attack and destroy",
+      "memory cells",
+      "faster immune response"
+    ],
+    "explanation": "The immune system provides both immediate defense and long-term memory (acquired immunity) against specific pathogens. Explained in Worksheet answers.",
+    "page_number": "4"
+  },
+  {
+    "id": 54,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Describe how vaccines work to provide immunity without causing the actual disease.",
+    "answer": "Vaccines introduce weak, dead, or inactive parts of a germ into the body. This safely trains the immune system to recognize and attack the specific pathogen. The body creates defenses (antibodies) so that if the real, active pathogen attacks later, it is destroyed immediately.",
+    "keywords": [
+      "weak, dead, inactive parts",
+      "trains the immune system",
+      "recognize and attack",
+      "antibodies"
+    ],
+    "explanation": "Vaccines simulate an infection to build immunological memory without subjecting the host to the disease's dangers. Detailed on page 37.",
+    "page_number": "37"
+  },
+  {
+    "id": 55,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "Outline the history of the smallpox vaccine discovery by Edward Jenner.",
+    "answer": "In the late 1700s, English doctor Edward Jenner observed that milkmaids infected with a mild disease called cowpox did not catch the deadly smallpox. He hypothesized that cowpox offered protection. He injected a boy with cowpox, who later resisted smallpox, leading to the world's first vaccine.",
+    "keywords": [
+      "Edward Jenner",
+      "cowpox",
+      "smallpox",
+      "hypothesized",
+      "first vaccine"
+    ],
+    "explanation": "Jenner's observational science and experimentation laid the foundation for modern immunology and the eradication of smallpox. Discussed on page 38.",
+    "page_number": "38"
+  },
+  {
+    "id": 56,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "Explain the discovery of the first antibiotic by Alexander Fleming.",
+    "answer": "In 1928, bacteriologist Alexander Fleming noticed that a specific mold growing on a discarded petri dish had completely stopped the growth of harmful bacteria around it. He realized the mold released a bacteria-killing substance, which he named penicillin, discovering the first antibiotic.",
+    "keywords": [
+      "Alexander Fleming",
+      "1928",
+      "mold",
+      "stopped bacteria growth",
+      "penicillin"
+    ],
+    "explanation": "This accidental discovery introduced antibacterial medicine to the world, saving millions of lives from bacterial infections. Mentioned on page 40.",
+    "page_number": "40"
+  },
+  {
+    "id": 57,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "What is antibiotic resistance, and why is it considered a growing concern?",
+    "answer": "Antibiotic resistance occurs when bacteria adapt and survive exposure to antibiotics that once killed them. It is a major concern caused by overuse or misuse of antibiotics, as it creates 'superbugs'. This makes common infections harder to treat, leading to prolonged illnesses and death.",
+    "keywords": [
+      "antibiotic resistance",
+      "survive exposure",
+      "overuse",
+      "superbugs",
+      "harder to treat"
+    ],
+    "explanation": "Misuse of antibiotics acts as an evolutionary pressure, selecting for resistant bacterial strains that render treatments useless. Detailed on page 40.",
+    "page_number": "40"
+  },
+  {
+    "id": 58,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "Describe how antibiotic resistance can spread from animals to humans through the food chain.",
+    "answer": "When antibiotics are unnecessarily given to livestock, resistant bacteria develop in their bodies. These bacteria can be transmitted to humans who consume contaminated animal food products (meat or milk). Additionally, animal feces containing these bacteria can contaminate soil and crops eaten by humans.",
+    "keywords": [
+      "livestock",
+      "resistant bacteria",
+      "animal food products",
+      "animal feces",
+      "contaminate soil"
+    ],
+    "explanation": "Agricultural misuse of antibiotics is a major vector for resistant bacteria entering the human population via the food web. Explained on page 40 infographic.",
+    "page_number": "40"
+  },
+  {
+    "id": 59,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Analyze the importance of a clean environment in maintaining health and preventing infections.",
+    "answer": "A clean environment prevents the accumulation of waste and stagnant water, destroying the breeding grounds for disease vectors like mosquitoes and flies. Access to clean air and safe drinking water prevents respiratory and waterborne diseases, ensuring community-wide physical well-being.",
+    "keywords": [
+      "clean environment",
+      "stagnant water",
+      "breeding grounds",
+      "disease vectors",
+      "respiratory and waterborne"
+    ],
+    "explanation": "Public sanitation and environmental hygiene are foundational to preventing communicable diseases and reducing respiratory stress. Found on page 31.",
+    "page_number": "31"
+  },
+  {
+    "id": 60,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Suggest three measures a community can take to prevent the spread of dengue during the monsoon season.",
+    "answer": "To prevent dengue, a community should: 1) Remove stagnant water from containers like coolers and tires. 2) Ensure water tanks are tightly covered. 3) Undertake community fogging and spraying of insecticides to kill Aedes mosquitoes that breed in clean, standing water.",
+    "keywords": [
+      "prevent dengue",
+      "stagnant water",
+      "tightly covered",
+      "fogging",
+      "insecticides"
+    ],
+    "explanation": "Dengue prevention relies entirely on vector control, specifically targeting Aedes mosquito breeding sites. Described in Worksheet answers.",
+    "page_number": "5"
+  },
+  {
+    "id": 61,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Explain how communicable diseases spread through the air and suggest ways to prevent them.",
+    "answer": "Airborne diseases spread when an infected person coughs or sneezes, releasing tiny pathogen-filled droplets into the air that others inhale. This can be prevented by wearing masks in crowded places, covering the mouth and nose while sneezing, and isolating infected individuals.",
+    "keywords": [
+      "coughs or sneezes",
+      "droplets",
+      "inhale",
+      "wearing masks",
+      "isolating"
+    ],
+    "explanation": "Respiratory pathogens use airborne droplets to travel between hosts. Barriers like masks and isolation are primary defenses. Detailed on page 33.",
+    "page_number": "33"
+  },
+  {
+    "id": 62,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Discuss the symptoms and preventive measures for the disease Measles.",
+    "answer": "Measles is a viral infection affecting the skin and respiratory tract. Its symptoms include fever, sore throat, and reddish rashes appearing on the neck, ears, and skin. Prevention requires complete isolation of the patient, maintaining strict hygiene, and administering the measles vaccination.",
+    "keywords": [
+      "Measles",
+      "viral infection",
+      "reddish rashes",
+      "complete isolation",
+      "vaccination"
+    ],
+    "explanation": "Measles is a highly contagious airborne virus identifiable by rashes, and is effectively prevented by immunization. Detailed in Table 3.1 on page 33.",
+    "page_number": "33"
+  },
+  {
+    "id": 63,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "How can lifestyle changes help prevent or manage hypertension (high blood pressure)?",
+    "answer": "High blood pressure can be managed and prevented by adopting healthy lifestyle choices. This includes reducing salt intake in the diet, avoiding smoking and alcohol, exercising regularly, and managing emotional stress through relaxation techniques like yoga and meditation.",
+    "keywords": [
+      "hypertension",
+      "reducing salt",
+      "avoiding smoking",
+      "exercising regularly",
+      "managing stress"
+    ],
+    "explanation": "Hypertension is a classic non-communicable disease driven by dietary sodium, sedentary habits, and stress, reversible via lifestyle correction. Outlined in summary notes.",
+    "page_number": "57"
+  },
+  {
+    "id": 64,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Rohan spends excessive time indoors playing video games and eating packaged food. Analyze the impact of this lifestyle on his health.",
+    "answer": "Rohan's sedentary lifestyle and junk food diet will negatively impact his physical and mental health. He risks gaining excessive weight (obesity), suffering from nutrient deficiencies, and feeling constantly fatigued. His lack of outdoor activity can also lead to poor concentration, isolation, and increased stress.",
+    "keywords": [
+      "sedentary lifestyle",
+      "junk food",
+      "obesity",
+      "fatigued",
+      "poor concentration"
+    ],
+    "explanation": "A case-study application of the consequences of modern unhealthy habits leading to NCDs and poor mental health. Derived from Worksheet 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 65,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Elaborate on the concept of staying healthy by explaining the role of a nutritious diet, hygiene, physical activity, and emotional well-being.",
+    "answer": "Staying healthy is a holistic concept involving multiple pillars. A nutritious, balanced diet provides essential vitamins and minerals needed for bodily functions and immune defense. Maintaining hygiene, such as daily bathing and handwashing, prevents the entry of harmful pathogens. Regular physical activity, like running or yoga, keeps organs functioning optimally, prevents obesity, and strengthens bones. Finally, emotional well-being is vital; managing stress, staying positive, and spending time with loved ones ensures mental stability. Neglecting any of these aspects can lead to either communicable infections or chronic non-communicable diseases, proving that true health is a balance of body, mind, and environment.",
+    "keywords": [
+      "holistic concept",
+      "nutritious, balanced diet",
+      "hygiene",
+      "harmful pathogens",
+      "physical activity",
+      "emotional well-being",
+      "mental stability"
+    ],
+    "explanation": "This question tests the student's comprehensive understanding of WHO's definition of health and the lifestyle factors required to sustain physical and mental well-being. Addressed across pages 29-30.",
+    "page_number": "30"
+  },
+  {
+    "id": 66,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Compare and contrast communicable and non-communicable diseases in detail, including their causes, modes of transmission, and at least three examples of each.",
+    "answer": "Communicable diseases are illnesses caused by external biological agents called pathogens (bacteria, viruses, fungi). They are infectious and can spread from one person to another through air, contaminated water, food, direct contact, or insect vectors. Examples include Tuberculosis, Dengue, and Cholera. In contrast, non-communicable diseases (NCDs) are not caused by pathogens and cannot spread from person to person. They are typically chronic and arise due to internal factors like genetic predisposition, nutritional deficiencies, environmental pollution, or unhealthy lifestyle choices (poor diet, lack of exercise). Examples of NCDs include Diabetes, Asthma, and Scurvy. While communicable diseases are fought with hygiene and vaccines, NCDs require long-term lifestyle changes and medication.",
+    "keywords": [
+      "communicable diseases",
+      "pathogens",
+      "spread",
+      "Tuberculosis",
+      "non-communicable diseases",
+      "internal factors",
+      "lifestyle choices",
+      "Diabetes"
+    ],
+    "explanation": "This requires a clear distinction between infectious diseases caused by external agents and chronic diseases caused by lifestyle and genetics. Detailed on page 32.",
+    "page_number": "32"
+  },
+  {
+    "id": 67,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 150
+    },
+    "question": "Describe in detail the various modes of transmission for communicable diseases (air, water, direct contact, vectors) and provide specific preventive measures for each.",
+    "answer": "Communicable diseases spread through several routes. Airborne transmission occurs when an infected person sneezes or coughs, releasing pathogen-laden droplets; this can be prevented by wearing masks and covering the mouth. Water and food transmission happens when sewage contaminates drinking sources; prevention involves drinking boiled water, eating properly cooked food, and good sanitation. Direct and indirect contact involves touching an infected person or sharing their items like towels; frequent handwashing with soap and isolating personal items prevent this. Vector transmission involves insects like mosquitoes transferring pathogens via bites. This is prevented by using mosquito nets, repellents, and eliminating stagnant water where vectors breed. Combining these measures drastically reduces infection rates.",
+    "keywords": [
+      "Airborne transmission",
+      "droplets",
+      "Water and food transmission",
+      "boiled water",
+      "Direct contact",
+      "handwashing",
+      "Vector transmission",
+      "stagnant water"
+    ],
+    "explanation": "Understanding disease vectors and transmission pathways is essential for implementing the correct public health and personal hygiene interventions. Covered on pages 32-35.",
+    "page_number": "32"
+  },
+  {
+    "id": 68,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Diabetes and Obesity are becoming increasingly common. Discuss the major causes, signs and symptoms, and the lifestyle changes required to manage and prevent these non-communicable diseases.",
+    "answer": "Diabetes and Obesity are chronic non-communicable diseases driven heavily by modern habits. The primary causes are a sedentary lifestyle, lack of physical exercise, and unhealthy diets loaded with excess sugar, oil, and processed foods. Genetics and hormonal imbalances also play a role. Obesity manifests as excess body weight, breathlessness, and fatigue. Diabetes presents with signs like frequent urination, excessive thirst, sudden weight loss, and slow-healing wounds. To prevent and manage these conditions, individuals must adopt strict lifestyle changes. This includes eating a balanced diet rich in whole grains and vegetables, avoiding sugary junk foods, exercising regularly (like walking or yoga), and maintaining a healthy body weight. Regular medical check-ups are also crucial.",
+    "keywords": [
+      "Diabetes and Obesity",
+      "sedentary lifestyle",
+      "excess sugar",
+      "frequent urination",
+      "excessive thirst",
+      "balanced diet",
+      "exercising regularly"
+    ],
+    "explanation": "These are the leading lifestyle diseases in India today. Addressing them requires understanding their dietary and behavioral roots. Detailed on page 36 and 56.",
+    "page_number": "36"
+  },
+  {
+    "id": 69,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 150
+    },
+    "question": "Write a comprehensive note on the importance of vaccination. How do vaccines train the immune system, and why is herd immunity (protecting the whole community) crucial?",
+    "answer": "Vaccination is a highly effective preventive measure against dangerous communicable diseases. Vaccines work by introducing weakened, dead, or harmless parts of a pathogen into the body. This safely trains the immune system to recognize the foreign invader and produce specific defenses, a process known as acquired immunity. Memory cells are created, ensuring that if the actual, active pathogen attacks later, the immune response is swift and powerful, destroying the germ before illness occurs. Vaccination is crucial not only for individual protection but also for community safety. When a large portion of the community is vaccinated, it reduces the overall spread of infections, creating herd immunity. This protects vulnerable individuals who cannot be vaccinated, ultimately helping eradicate diseases globally.",
+    "keywords": [
+      "vaccination",
+      "weakened, dead",
+      "trains the immune system",
+      "acquired immunity",
+      "Memory cells",
+      "herd immunity",
+      "eradicate diseases"
+    ],
+    "explanation": "Vaccines are a cornerstone of public health. This question tests the mechanism of acquired immunity and the societal benefit of mass immunization. Explained on pages 37-39.",
+    "page_number": "37"
+  },
+  {
+    "id": 70,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Trace the history and mechanism of vaccination, focusing on Edward Jenner's experiment with cowpox and the traditional Indian practice of variolation.",
+    "answer": "Before modern vaccines, India utilized a traditional practice called variolation. 'Teekedaars' would scratch material from a smallpox sore into a healthy person's skin, causing a mild infection that built lifelong immunity. In the late 1700s, English doctor Edward Jenner revolutionized this concept using scientific observation. He noticed that milkmaids who contracted cowpox, a milder disease, were immune to the deadly smallpox. Hypothesizing a link, he injected cowpox sap into a young boy. When later exposed to smallpox, the boy did not fall ill. Jenner proved that exposure to a related, less dangerous germ could train the immune system to fight a lethal one. This breakthrough led to the first vaccine and the eventual global eradication of smallpox.",
+    "keywords": [
+      "variolation",
+      "Teekedaars",
+      "Edward Jenner",
+      "cowpox",
+      "immune",
+      "injected",
+      "first vaccine"
+    ],
+    "explanation": "Understanding the historical evolution from traditional variolation to Jenner's scientific methodology highlights how vaccines were developed. Described on page 38.",
+    "page_number": "38"
+  },
+  {
+    "id": 71,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 150
+    },
+    "question": "Explain the complete phenomenon of antibiotic resistance. How does it develop, what are its consequences, and what responsible practices must be followed to prevent it?",
+    "answer": "Antibiotic resistance is a dangerous phenomenon where bacteria mutate and survive exposure to antibiotics designed to kill them. It develops due to indiscriminate misuse, such as taking antibiotics for viral infections (like colds), not completing the prescribed course, or overusing them in livestock. When exposed to antibiotics improperly, weak bacteria die, but a few resistant ones survive, multiply, and transfer their resistance to others. The consequences are severe: common bacterial infections become difficult or impossible to treat, leading to prolonged illnesses, higher medical costs, and increased mortality rates. To prevent this, individuals must follow responsible practices: only use antibiotics prescribed by a qualified doctor, strictly follow the dosage, and never demand antibiotics for viral infections.",
+    "keywords": [
+      "Antibiotic resistance",
+      "survive exposure",
+      "misuse",
+      "viral infections",
+      "multiply",
+      "difficult to treat",
+      "responsible practices"
+    ],
+    "explanation": "Antibiotic resistance is a critical modern health crisis caused by evolutionary pressure from misuse. Detailed heavily on pages 40-41.",
+    "page_number": "40"
+  },
+  {
+    "id": 72,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 100,
+      "max": 150
+    },
+    "question": "Illustrate the spread of antibiotic-resistant bacteria in a community, covering transmission through animals, soil, crops, human contact, and hospital settings.",
+    "answer": "Antibiotic resistance spreads through a complex web connecting animals, humans, and the environment. When animals are given unnecessary antibiotics, resistant bacteria develop in their guts. These bacteria enter the human food chain through contaminated meat or milk. Additionally, animal manure used as fertilizer introduces resistant bacteria into the soil, which can contaminate crops consumed by humans. In the community, humans who misuse antibiotics develop resistant strains and spread them to others via direct contact or poor hygiene. Hospital settings are particularly vulnerable; patients with severe infections can spread 'superbugs' directly to other patients, healthcare workers, or through contaminated surfaces, making hospital-acquired resistant infections very difficult to contain and treat.",
+    "keywords": [
+      "spread",
+      "animals",
+      "food chain",
+      "manure",
+      "soil",
+      "misuse antibiotics",
+      "hospital settings",
+      "superbugs"
+    ],
+    "explanation": "This describes the ecological cycle of antibiotic resistance as shown in the textbook's infographic, showing how agriculture and medicine intersect. Found on page 40.",
+    "page_number": "40"
+  },
+  {
+    "id": 73,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 85,
+      "max": 140
+    },
+    "question": "Using the examples of Dr. Kamal Ranadive and Dr. Maharaj Kishan Bhan, explain the role of scientific research in combating diseases and improving public health in India.",
+    "answer": "Scientific research plays a crucial role in understanding and preventing diseases. Dr. Kamal Ranadive, a pioneering biomedical researcher, studied the connection between hormones, viruses, and cancer. Her vital research highlighted how lifestyle factors like tobacco use, unhealthy diets, and pollution escalate cancer risks, paving the way for better prevention strategies. Similarly, Dr. Maharaj Kishan Bhan, as Secretary of the Department of Biotechnology, promoted scientific innovation to create affordable healthcare. He played a massive role in developing the indigenous Rotavirus vaccine, which protects millions of children from fatal diarrhoea. Both scientists demonstrate how rigorous research and biotechnology not only uncover the root causes of complex diseases but also yield life-saving interventions like vaccines, vastly improving India's public health landscape.",
+    "keywords": [
+      "Kamal Ranadive",
+      "cancer",
+      "Maharaj Kishan Bhan",
+      "Rotavirus vaccine",
+      "scientific research",
+      "affordable healthcare",
+      "public health"
+    ],
+    "explanation": "Highlights the contributions of Indian scientists in addressing both non-communicable (cancer) and communicable (rotavirus) diseases. Mentioned on pages 37 and 39.",
+    "page_number": "37"
+  },
+  {
+    "id": 74,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "A village reports a high number of dengue and cholera cases during the rainy season. Analyze the environmental causes contributing to this outbreak and propose a comprehensive community action plan to control it.",
+    "answer": "The outbreak is driven by poor environmental conditions typical during monsoons. Dengue is spreading because stagnant rainwater in tires, buckets, and potholes acts as breeding grounds for Aedes mosquitoes. Cholera is spreading due to poor sanitation and sewage mixing with drinking water sources. A comprehensive community action plan must address both issues. First, the community should organize drives to empty and remove all containers holding standing water and ensure water tanks are tightly covered. Second, local authorities should initiate fogging to kill adult mosquitoes. Third, for cholera, the community must stop open defecation by building toilets, ensure waste is disposed of properly, and promote drinking only boiled or purified water. Awareness campaigns on handwashing will further halt the spread.",
+    "keywords": [
+      "dengue",
+      "stagnant rainwater",
+      "Aedes mosquitoes",
+      "cholera",
+      "poor sanitation",
+      "community action plan",
+      "boiled water"
+    ],
+    "explanation": "This requires application of knowledge regarding vector-borne (dengue) and waterborne (cholera) diseases to a real-world scenario. Covered across pages 34, 35, and 37.",
+    "page_number": "35"
+  },
+  {
+    "id": 75,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 85,
+      "max": 140
+    },
+    "question": "Explain the concept of health according to Ayurveda. Discuss 'dinacharya', 'ritucharya', 'prakriti', and the role of yoga and meditation in achieving a holistic balance.",
+    "answer": "According to Ayurveda, our scientific heritage, true health is not just the absence of disease but a perfect balance between the body, mind, and the surroundings. This holistic balance is maintained by following structured routines. 'Dinacharya' refers to a disciplined daily routine, while 'ritucharya' involves adjusting one's lifestyle and diet according to seasonal changes. Ayurveda emphasizes eating fresh, wholesome food that is specifically suited to an individual's 'prakriti' or unique body constitution. Furthermore, physical cleanliness and restful sleep are essential. To support mental and emotional well-being, Ayurveda strongly recommends practices like yoga, meditation, and mindfulness. These activities help maintain a calm mind, reduce stress, and integrate the physical and mental aspects of health seamlessly.",
+    "keywords": [
+      "Ayurveda",
+      "balance",
+      "dinacharya",
+      "ritucharya",
+      "prakriti",
+      "yoga",
+      "meditation"
+    ],
+    "explanation": "Summarizes the traditional Indian knowledge system's approach to health, emphasizing prevention and holistic living. Found on page 29.",
+    "page_number": "29"
+  },
+  {
+    "id": 76,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Discuss the causes, symptoms, and preventive measures for three diseases spread through contaminated food and water: Cholera, Typhoid, and Ascariasis.",
+    "answer": "Diseases spread via contaminated food and water primarily affect the digestive system. 1) Cholera is caused by bacteria; its main symptoms are severe diarrhoea and dehydration. Prevention includes drinking boiled water and eating properly cooked food. 2) Typhoid is also a bacterial infection, presenting with a headache, abdominal discomfort, fever, and diarrhoea. Maintaining personal hygiene, good sanitary habits, and vaccination are key preventive steps. 3) Ascariasis is caused by roundworms (parasites) residing in the intestine. Symptoms include worms in stool, loss of appetite, poor growth, and weight loss. Prevention involves strict hygiene, eating thoroughly cooked food, and ensuring drinking water is uncontaminated. Good sanitation is the common defense against all three.",
+    "keywords": [
+      "Cholera",
+      "Typhoid",
+      "Ascariasis",
+      "contaminated food and water",
+      "bacteria",
+      "roundworms",
+      "hygiene"
+    ],
+    "explanation": "Consolidates knowledge from the disease table regarding waterborne and foodborne illnesses. Found on page 34.",
+    "page_number": "34"
+  },
+  {
+    "id": 77,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Describe the differences between signs and symptoms of a disease. Why is the observation of signs critical for medical professionals, and how do they aid in providing the correct treatment? Provide relevant examples.",
+    "answer": "When a body functions abnormally, it exhibits signs and symptoms. The key difference is objectivity. Symptoms are subjective feelings experienced and reported by the patient, which cannot be easily measured by others. Examples include tiredness, nausea, dizziness, or pain. Conversely, signs are objective, measurable changes in the body that a doctor or medical professional can observe and quantify. Examples include a high body temperature (fever), high blood pressure, swelling, or a visible skin rash. The observation of signs is critical for doctors because, while symptoms suggest an illness, signs provide concrete, measurable evidence. By evaluating both, doctors can accurately identify the specific pathogen or condition, order the right tests, and decide the correct medical treatment.",
+    "keywords": [
+      "symptoms",
+      "subjective feelings",
+      "signs",
+      "objective, measurable",
+      "medical professional",
+      "concrete evidence",
+      "correct treatment"
+    ],
+    "explanation": "This clarifies the medical distinction between what a patient experiences and what a doctor measures, a fundamental concept in healthcare. Discussed on page 31.",
+    "page_number": "31"
+  },
+  {
+    "id": 78,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Examine the impact of modern lifestyle choices on youth, focusing on the effects of excessive screen time, junk food, and lack of physical activity. Suggest a daily routine to counter these effects.",
+    "answer": "Modern lifestyle choices severely impact the physical and mental health of youth. Excessive screen time on mobiles and social media leads to physical issues like dry eyes and sleep disorders, as well as mental issues like loneliness, anxiety, and low self-esteem. Consuming junk food and sugary diets, combined with a lack of physical activity, directly causes an increase in childhood obesity and early-onset diabetes. To counter these effects, youth should adopt a balanced daily routine. This includes eating nutritious, home-cooked meals with less oil and sugar, allocating time for outdoor sports or walking to stay physically active, strictly limiting digital screen time, and prioritizing 7-8 hours of restful sleep. Engaging in hobbies and talking to family also boosts mental health.",
+    "keywords": [
+      "excessive screen time",
+      "dry eyes",
+      "anxiety",
+      "junk food",
+      "obesity",
+      "balanced daily routine",
+      "outdoor sports"
+    ],
+    "explanation": "Integrates information from the Bulletin Board (page 28) and lifestyle sections to address a highly relevant issue for 8th graders.",
+    "page_number": "28"
+  },
+  {
+    "id": 79,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "Detail the various preventive strategies for controlling vector-borne diseases like Malaria and Dengue at both the personal and community levels.",
+    "answer": "Malaria and Dengue are communicable diseases spread by insect vectors, specifically the Anopheles and Aedes mosquitoes, respectively. Prevention requires strategies at both personal and community levels. On a personal level, individuals should protect themselves from bites by using mosquito nets while sleeping, applying mosquito repellents, and wearing long-sleeved clothing. At the community level, the primary strategy is destroying mosquito breeding grounds. Since dengue mosquitoes breed in clean, stagnant water, it is vital to regularly empty containers like buckets, tyres, and flowerpots, and keep water tanks tightly covered. Additionally, the community and government must collaborate to undertake fogging and insecticide spraying. Maintaining overall environmental cleanliness prevents these vectors from thriving, thus controlling disease spread.",
+    "keywords": [
+      "vector-borne diseases",
+      "Malaria and Dengue",
+      "mosquito nets",
+      "repellents",
+      "breeding grounds",
+      "stagnant water",
+      "fogging"
+    ],
+    "explanation": "Vector control requires an integrated approach. This question tests the student's knowledge of personal protective measures vs environmental control. Found on page 35.",
+    "page_number": "35"
+  },
+  {
+    "id": 80,
+    "subject": "Science",
+    "chapter": "Health The Ultimate Treasure-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 5,
+    "expected_word_count": {
+      "min": 90,
+      "max": 140
+    },
+    "question": "\"Prevention is better than cure.\" Justify this statement by explaining the importance of personal hygiene, clean surroundings, and vaccination in protecting against communicable diseases.",
+    "answer": "The statement \"Prevention is better than cure\" means it is easier and safer to stop a disease from occurring than to treat it after falling sick. We can justify this through three main preventive pillars. First, personal hygiene, such as regular bathing and washing hands with soap, physically removes pathogens before they enter our bodies, cutting infection risks drastically. Second, maintaining clean surroundings eliminates breeding grounds for vectors like mosquitoes and flies, stopping diseases like dengue and cholera at the source. Finally, vaccination prepares our immune system in advance. By introducing harmless parts of a germ, vaccines grant acquired immunity. Thus, if the real disease strikes, the body destroys it instantly. Together, these preventive steps protect us from prolonged suffering and harsh medical treatments.",
+    "keywords": [
+      "Prevention is better than cure",
+      "personal hygiene",
+      "clean surroundings",
+      "vaccination",
+      "removes pathogens",
+      "breeding grounds",
+      "acquired immunity"
+    ],
+    "explanation": "Synthesizes the core message of the chapter: proactive health management through hygiene, environmental sanitation, and immunology is superior to reactive medical treatments. Discussed across pages 35-37.",
+    "page_number": "37"
+  }
+]
