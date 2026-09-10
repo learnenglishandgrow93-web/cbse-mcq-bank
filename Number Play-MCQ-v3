@@ -1,0 +1,1617 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the parity of the result when an even number is added to an even number?",
+    "options": [
+      "Always even",
+      "Always odd",
+      "Odd or even depending on the numbers",
+      "Cannot be determined"
+    ],
+    "answer": "Always even",
+    "explanation": "According to the basic parity rules of addition, the sum of two even numbers is always an even number. For example, 2 + 4 = 6, which is even.",
+    "page_number": "113"
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the parity of the result when an odd number is added to an odd number?",
+    "options": [
+      "Always odd",
+      "Always even",
+      "Sometimes odd, sometimes even",
+      "Equal to zero"
+    ],
+    "answer": "Always even",
+    "explanation": "The parity rules state that adding two odd numbers yields an even result. For instance, 3 + 5 = 8, which is an even number.",
+    "page_number": "113"
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "If you add an even number and an odd number, what will be the parity of the result?",
+    "options": [
+      "Always even",
+      "Always odd",
+      "It depends on which number is larger",
+      "It results in a prime number"
+    ],
+    "answer": "Always odd",
+    "explanation": "Adding an even number to an odd number always gives an odd number parity. For example, 4 + 7 = 11, which is odd.",
+    "page_number": "113"
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the parity of the product of two even numbers?",
+    "options": [
+      "Always odd",
+      "Always even",
+      "Either odd or even",
+      "Always a multiple of 10"
+    ],
+    "answer": "Always even",
+    "explanation": "When you multiply two even numbers, the product always has an even parity because it will contain 2 as a factor at least twice.",
+    "page_number": "113"
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the parity of the product of two odd numbers?",
+    "options": [
+      "Always even",
+      "Always odd",
+      "Sometimes even",
+      "None of the above"
+    ],
+    "answer": "Always odd",
+    "explanation": "Multiplying two odd numbers always yields an odd product because neither number has a factor of 2. For instance, 3 x 5 = 15.",
+    "page_number": "113"
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the parity of the product of an even number and an odd number?",
+    "options": [
+      "Always even",
+      "Always odd",
+      "Sometimes odd",
+      "Depends on the specific numbers"
+    ],
+    "answer": "Always even",
+    "explanation": "The product of an even and an odd number is always even since the even number introduces a factor of 2 into the product.",
+    "page_number": "113"
+  },
+  {
+    "id": 7,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "All odd numbers can be written as the sum of how many consecutive numbers?",
+    "options": [
+      "Three consecutive numbers",
+      "Four consecutive numbers",
+      "Two consecutive numbers",
+      "Five consecutive numbers"
+    ],
+    "answer": "Two consecutive numbers",
+    "explanation": "Every odd number can be uniquely expressed as the sum of two consecutive integers. For example, 7 = 3 + 4.",
+    "page_number": "112"
+  },
+  {
+    "id": 8,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the result when you add two numbers that are multiples of 4?",
+    "options": [
+      "An odd number",
+      "A multiple of 4",
+      "A multiple of 8",
+      "A prime number"
+    ],
+    "answer": "A multiple of 4",
+    "explanation": "Adding two multiples of 4, represented as 4p + 4q, gives 4(p+q), which is always another multiple of 4.",
+    "page_number": "115"
+  },
+  {
+    "id": 9,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which of the following conditions must be met for a number to be divisible by 10?",
+    "options": [
+      "The sum of its digits is 10",
+      "The units digit is 0",
+      "The units digit is 0 or 5",
+      "The number is even"
+    ],
+    "answer": "The units digit is 0",
+    "explanation": "Because place values like tens, hundreds, etc., are multiples of 10, a number is divisible by 10 only if its units digit is 0.",
+    "page_number": "119"
+  },
+  {
+    "id": 10,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which of the following conditions ensures a number is divisible by 5?",
+    "options": [
+      "The units digit is 5",
+      "The units digit is 0 or 5",
+      "The sum of the digits is divisible by 5",
+      "The number ends in an even digit"
+    ],
+    "answer": "The units digit is 0 or 5",
+    "explanation": "A number is divisible by 5 if its units digit is either 0 or 5. Higher place values are automatically divisible by 5.",
+    "page_number": "119"
+  },
+  {
+    "id": 11,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "A 4-digit number represented as 'dcba' is divisible by 2 if:",
+    "options": [
+      "'a' is an even number",
+      "'a' is 0 or 5",
+      "The sum of 'a', 'b', 'c', and 'd' is even",
+      "'b' is an even number"
+    ],
+    "answer": "'a' is an even number",
+    "explanation": "A number is divisible by 2 solely if its units digit, represented here by 'a', is an even number (0, 2, 4, 6, or 8).",
+    "page_number": "119"
+  },
+  {
+    "id": 12,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the term for the single digit obtained by repeatedly adding the digits of a number?",
+    "options": [
+      "Prime root",
+      "Digital root",
+      "Unit factor",
+      "Parity sum"
+    ],
+    "answer": "Digital root",
+    "explanation": "The digital root of a number is obtained by repeatedly adding its digits until a single-digit number is reached.",
+    "page_number": "124"
+  },
+  {
+    "id": 13,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Digital roots of consecutive natural numbers follow a repeating cycle from:",
+    "options": [
+      "0 to 9",
+      "1 to 9",
+      "1 to 10",
+      "0 to 8"
+    ],
+    "answer": "1 to 9",
+    "explanation": "Digital roots follow a distinct, repeating pattern or cycle of 1 to 9 for any set of consecutive natural numbers.",
+    "page_number": "124"
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Is there a fixed relation between the parity (even or odd nature) of a number and its digital root?",
+    "options": [
+      "Yes, even numbers always have even digital roots",
+      "Yes, odd numbers always have odd digital roots",
+      "No, there is no fixed relation",
+      "Yes, the digital root is always the opposite parity"
+    ],
+    "answer": "No, there is no fixed relation",
+    "explanation": "There is no consistent pattern or fixed relation between the parity of a number and the parity of its digital root.",
+    "page_number": "124"
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the parity of an even number divided by an odd number, assuming the result is an integer?",
+    "options": [
+      "Always even",
+      "Always odd",
+      "Can be odd or even",
+      "Cannot be determined"
+    ],
+    "answer": "Always even",
+    "explanation": "If an even integer is divided by an odd integer and the result is an integer, that result must be even because the odd divisor cannot absorb the factor of 2.",
+    "page_number": "113"
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What are cryptarithms?",
+    "options": [
+      "Algorithms used for encrypting messages",
+      "Number puzzles where letters represent digits",
+      "Graphs showing digital roots",
+      "Equations with multiple variables"
+    ],
+    "answer": "Number puzzles where letters represent digits",
+    "explanation": "Cryptarithms are number puzzles in which letters stand in for digits, strengthening logical reasoning and constraint-based thinking.",
+    "page_number": "125"
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "In a cryptarithm, can a number start with the digit zero?",
+    "options": [
+      "Yes, always",
+      "Yes, but only for single-digit numbers",
+      "No, no number can start with zero",
+      "It depends on the specific puzzle"
+    ],
+    "answer": "No, no number can start with zero",
+    "explanation": "A strict rule in solving cryptarithms is that no multi-digit number can have a leading zero.",
+    "page_number": "125"
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "A number is divisible by 9 if and only if:",
+    "options": [
+      "Its last digit is 9",
+      "The sum of its digits is divisible by 9",
+      "It ends in 0 or 9",
+      "The difference of its alternate digits is 9"
+    ],
+    "answer": "The sum of its digits is divisible by 9",
+    "explanation": "The divisibility rule for 9 states that a number is divisible by 9 if and only if the sum of all its digits is divisible by 9.",
+    "page_number": "120"
+  },
+  {
+    "id": 19,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "A number is divisible by 3 if and only if:",
+    "options": [
+      "The sum of its digits is divisible by 3",
+      "Its last digit is divisible by 3",
+      "It is an odd number",
+      "Its digital root is 0"
+    ],
+    "answer": "The sum of its digits is divisible by 3",
+    "explanation": "Similar to the rule for 9, a number is divisible by 3 if the sum of its digits is a multiple of 3.",
+    "page_number": "120"
+  },
+  {
+    "id": 20,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Is any multiple of 4 also a multiple of 8?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "Cannot be determined"
+    ],
+    "answer": "Sometimes true",
+    "explanation": "Multiples of 4 include 4, 8, 12, 16. While 8 and 16 are multiples of 8, 4 and 12 are not. Therefore, this is only sometimes true.",
+    "page_number": "119"
+  },
+  {
+    "id": 21,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Is the sum of any two multiples of 6 an odd number?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "Depends on the multiples chosen"
+    ],
+    "answer": "Never true",
+    "explanation": "All multiples of 6 are even numbers. The sum of two even numbers is always even, so it can never be odd.",
+    "page_number": "119"
+  },
+  {
+    "id": 22,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Is an even multiple of 3 divisible by 6?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "Only for numbers less than 30"
+    ],
+    "answer": "Always true",
+    "explanation": "An even multiple of 3 is a multiple of both 2 and 3. Since 2 and 3 are co-prime, the number must be divisible by their product, 6.",
+    "page_number": "119"
+  },
+  {
+    "id": 23,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "If a number has a digital root of 6, is it divisible by 3?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "Cannot be determined without the number"
+    ],
+    "answer": "Always true",
+    "explanation": "A digital root of 6 means the sum of digits leaves a remainder of 6 when divided by 9, meaning the sum is a multiple of 3. Hence, it is always divisible by 3.",
+    "page_number": "127"
+  },
+  {
+    "id": 24,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "If a number has a digital root of 6, is it divisible by 6?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "True only if the digital root is found twice"
+    ],
+    "answer": "Sometimes true",
+    "explanation": "While a digital root of 6 ensures divisibility by 3, the number itself might be odd (e.g., 15), meaning it is not divisible by 2 and thus not divisible by 6. Therefore, it's sometimes true.",
+    "page_number": "127"
+  },
+  {
+    "id": 25,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What remainder does every power of 10 leave when divided by 9?",
+    "options": [
+      "0",
+      "1",
+      "9",
+      "It varies"
+    ],
+    "answer": "1",
+    "explanation": "Every power of 10 (10, 100, 1000...) is one more than a number composed entirely of 9s (9, 99, 999...). Thus, dividing by 9 always leaves a remainder of 1.",
+    "page_number": "120"
+  },
+  {
+    "id": 26,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In how many ways can you write the number 35 as the sum of consecutive numbers?",
+    "options": [
+      "Only one way",
+      "Two different ways",
+      "Three different ways",
+      "It cannot be written as a sum of consecutive numbers"
+    ],
+    "answer": "Two different ways",
+    "explanation": "The number 35 can be written as the sum of consecutive integers in two ways. For example, 17+18=35 and 5+6+7+8+9=35.",
+    "page_number": "Worksheet Level 3"
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the parity of the algebraic expression 4x + 5y for any integer values of x and y?",
+    "options": [
+      "Always even",
+      "Always odd",
+      "Odd or even depending on the value of y",
+      "Odd or even depending on the value of x"
+    ],
+    "answer": "Odd or even depending on the value of y",
+    "explanation": "The term 4x is always even. The term 5y takes the parity of y. Thus, the overall expression is even + y's parity, meaning it depends entirely on the value of y.",
+    "page_number": "114"
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Identify the parity of the algebraic expression 6x + 4y for any integer values of x and y.",
+    "options": [
+      "Always even",
+      "Always odd",
+      "Sometimes even, sometimes odd",
+      "Cannot be evaluated"
+    ],
+    "answer": "Always even",
+    "explanation": "The expression can be factored as 2(3x + 2y). Since 2 is a factor, the expression will evaluate to an even number for any integer values of the variables.",
+    "page_number": "114"
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Identify the parity of the algebraic expression 3x - 7y.",
+    "options": [
+      "Always even",
+      "Always odd",
+      "Odd or even depending on x and y",
+      "Always a multiple of 4"
+    ],
+    "answer": "Odd or even depending on x and y",
+    "explanation": "The parity of 3x and 7y depends completely on x and y. If both are odd, the difference is even. If one is odd and one is even, the difference is odd.",
+    "page_number": "114"
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the parity of the expression y^3 - 3 for any integer y?",
+    "options": [
+      "Always even",
+      "Always odd",
+      "Can be even or odd depending on y",
+      "Always a negative number"
+    ],
+    "answer": "Can be even or odd depending on y",
+    "explanation": "If y is even, y^3 is even, and even - odd = odd. If y is odd, y^3 is odd, and odd - odd = even. Thus, the parity depends on y.",
+    "page_number": "115"
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the parity of the expression 4x^2 for any integer x?",
+    "options": [
+      "Always even",
+      "Always odd",
+      "Odd or even depending on x",
+      "None of the above"
+    ],
+    "answer": "Always even",
+    "explanation": "Since the expression has 4 as a constant coefficient, 4 times any integer (x^2) will always result in a multiple of 4, which is inherently an even number.",
+    "page_number": "115"
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which algebraic expression represents an even number that is not a multiple of 4?",
+    "options": [
+      "4p",
+      "4p + 1",
+      "4p + 2",
+      "4p + 3"
+    ],
+    "answer": "4p + 2",
+    "explanation": "An even number that is not a multiple of 4 leaves a remainder of 2 when divided by 4, and can thus be algebraically written as 4p + 2.",
+    "page_number": "117"
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What happens when you add two even numbers that are not multiples of 4?",
+    "options": [
+      "The sum is an odd number",
+      "The sum is a multiple of 4",
+      "The sum is an even number but not a multiple of 4",
+      "The sum is a multiple of 8"
+    ],
+    "answer": "The sum is a multiple of 4",
+    "explanation": "Numbers of the form 4p + 2 and 4q + 2 add up to 4p + 4q + 4, which simplifies to 4(p + q + 1), thus always giving a multiple of 4.",
+    "page_number": "117"
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "If 8 exactly divides two numbers separately, it must exactly divide their sum. Is this statement true?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "Only true for odd numbers"
+    ],
+    "answer": "Always true",
+    "explanation": "If a number divides M and N, it also divides M+N. Algebraically, 8a + 8b = 8(a+b), which is clearly a multiple of 8.",
+    "page_number": "118"
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "If a number is divisible by 8, then 8 also divides any two numbers (separately) that add up to the number. Is this statement true?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "Cannot be tested"
+    ],
+    "answer": "Sometimes true",
+    "explanation": "While 72 is divisible by 8, it can be written as 64 + 8 (where 8 divides both) or 70 + 2 (where 8 divides neither). Thus, it is only sometimes true.",
+    "page_number": "119"
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "If A is divisible by k, then all multiples of A are divisible by k. Is this statement true?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "True only if k is a prime number"
+    ],
+    "answer": "Always true",
+    "explanation": "If A has k as a factor, then any multiple of A will naturally also contain k as a factor. Hence, it is always true.",
+    "page_number": "116"
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "If a number is divisible by 12, then the number is also divisible by all the factors of 12. Is this statement true?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "Depends on the number"
+    ],
+    "answer": "Always true",
+    "explanation": "If a number is divisible by a larger number k, its prime factorization contains all factors of k, meaning it is divisible by every factor of k.",
+    "page_number": "120"
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "If a number is divisible by 7, then it is also divisible by any multiple of 7. Is this statement true?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "Only true for odd multiples"
+    ],
+    "answer": "Sometimes true",
+    "explanation": "For example, 42 is divisible by 7 and by 14 (a multiple of 7), but it is not divisible by 28 (another multiple of 7). Thus, it is sometimes true.",
+    "page_number": "120"
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "If a number is divisible by both 6 and 4, it must be divisible by 24. Is this statement true?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "Only true for multiples of 12"
+    ],
+    "answer": "Sometimes true",
+    "explanation": "A number divisible by both 6 and 4 must be divisible by their LCM, which is 12, not necessarily their product 24. For instance, 12 is divisible by 4 and 6 but not 24.",
+    "page_number": "121"
+  },
+  {
+    "id": 40,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "When you add an odd number to an even number, we get a multiple of 6. Is this true?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "Only true when the even number is a multiple of 3"
+    ],
+    "answer": "Never true",
+    "explanation": "The sum of an odd and an even number is always an odd number. Since all multiples of 6 are even, the sum can never be a multiple of 6.",
+    "page_number": "121"
+  },
+  {
+    "id": 41,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the general algebraic expression for a number that leaves a remainder of 4 when divided by 7?",
+    "options": [
+      "4k + 7",
+      "7k + 4",
+      "7k - 4",
+      "4k - 7"
+    ],
+    "answer": "7k + 4",
+    "explanation": "Multiples of 7 are written as 7k. A number that is 4 more than a multiple of 7 will leave a remainder of 4, giving the expression 7k + 4.",
+    "page_number": "118"
+  },
+  {
+    "id": 42,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the general algebraic expression for a number that leaves a remainder of 3 when divided by 5?",
+    "options": [
+      "3k + 5",
+      "5k + 3",
+      "5k - 3",
+      "3k - 5"
+    ],
+    "answer": "5k + 3",
+    "explanation": "Any number that leaves a remainder of 3 when divided by 5 is 3 more than a multiple of 5, which translates algebraically to 5k + 3.",
+    "page_number": "121"
+  },
+  {
+    "id": 43,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A 4-digit number represented as 'dcba' is divisible by 4 if:",
+    "options": [
+      "The sum of all its digits is divisible by 4",
+      "Its units digit is divisible by 4",
+      "(10b + a) is divisible by 4",
+      "(100c + 10b + a) is divisible by 4"
+    ],
+    "answer": "(10b + a) is divisible by 4",
+    "explanation": "Since 100 is a multiple of 4, any place value from hundreds upwards is automatically divisible by 4. Thus, only the last two digits (10b + a) need to be checked.",
+    "page_number": "119"
+  },
+  {
+    "id": 44,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A 4-digit number represented as 'dcba' is divisible by 8 if:",
+    "options": [
+      "Its last digit is divisible by 8",
+      "The sum of its digits is divisible by 8",
+      "(100c + 10b + a) is divisible by 8",
+      "(10b + a) is divisible by 8"
+    ],
+    "answer": "(100c + 10b + a) is divisible by 8",
+    "explanation": "Because 1000 is divisible by 8, place values from thousands upwards are always divisible by 8. We only need to verify if the last three digits (100c+10b+a) are divisible by 8.",
+    "page_number": "119"
+  },
+  {
+    "id": 45,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "How do you check for the divisibility of a number by 11?",
+    "options": [
+      "The sum of all digits must be a multiple of 11",
+      "The last digit must be 1",
+      "The difference between the sum of digits in alternate positions is 0 or a multiple of 11",
+      "The product of the digits must be divisible by 11"
+    ],
+    "answer": "The difference between the sum of digits in alternate positions is 0 or a multiple of 11",
+    "explanation": "Divisibility by 11 is checked by finding the difference between the sum of the digits in odd positions and the sum of the digits in even positions.",
+    "page_number": "121"
+  },
+  {
+    "id": 46,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Without actually dividing, find the remainder when 39464 is divided by 9.",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "2"
+    ],
+    "answer": "8",
+    "explanation": "The sum of the digits is 3+9+4+6+4 = 26. Since 26 is not divisible by 9, we find the remainder of 26/9, which is 2+6 = 8. The remainder is 8.",
+    "page_number": "121"
+  },
+  {
+    "id": 47,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Find the remainder when 39464 is divided by 3 using divisibility rules.",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "2",
+    "explanation": "The sum of the digits is 26. Dividing 26 by 3 gives a remainder of 2. Hence, 39464 leaves a remainder of 2 when divided by 3.",
+    "page_number": "121"
+  },
+  {
+    "id": 48,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the difference of the alternating sums when checking the divisibility of 43023 by 11?",
+    "options": [
+      "0",
+      "11",
+      "2",
+      "-2"
+    ],
+    "answer": "2",
+    "explanation": "Sum of odd places: 3+0+4=7. Sum of even places: 2+3=5. The difference is 7 - 5 = 2. Therefore, the number is not divisible by 11.",
+    "page_number": "122"
+  },
+  {
+    "id": 49,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In the cryptarithm AB + AC = 97 (where B > C), what is the value of A?",
+    "options": [
+      "4",
+      "5",
+      "8",
+      "9"
+    ],
+    "answer": "4",
+    "explanation": "In the tens place, A + A = 9 or A + A + 1 (carry) = 9. Since A + A cannot be 9 (it's odd), there must be a carry of 1. Thus, A + A = 8, meaning A = 4.",
+    "page_number": "126"
+  },
+  {
+    "id": 50,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the digital root of the number 34234?",
+    "options": [
+      "7",
+      "16",
+      "5",
+      "9"
+    ],
+    "answer": "7",
+    "explanation": "To find the digital root, add the digits: 3+4+2+3+4 = 16. Then add the digits of the result: 1+6 = 7. The digital root is 7.",
+    "page_number": "124"
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the remainder when 4628 is divided by 9?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "explanation": "The sum of the digits is 4+6+2+8 = 20. The sum of the digits of 20 is 2+0 = 2. The digital root is the remainder, so it leaves a remainder of 2.",
+    "page_number": "131"
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which rule must ALWAYS be followed in cryptarithms?",
+    "options": [
+      "The same letter can represent different digits",
+      "Each letter represents a unique digit, and no number starts with 0",
+      "Letters can represent two-digit numbers",
+      "Vowels must represent odd digits"
+    ],
+    "answer": "Each letter represents a unique digit, and no number starts with 0",
+    "explanation": "In cryptarithms, every letter stands for a unique digit from 0 to 9, and the leading digit of any multi-digit number cannot be zero.",
+    "page_number": "131"
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Find the digital root of the number 9876.",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "3",
+    "explanation": "Summing the digits: 9+8+7+6 = 30. Then 3+0 = 3. The digital root is 3, which indicates that the number is divisible by 3 but not 9.",
+    "page_number": "Worksheet Level 2"
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "If a 4-digit number is represented by 'dcba', how is it expanded using place values?",
+    "options": [
+      "d x 1000 + c x 100 + b x 10 + a",
+      "a x 1000 + b x 100 + c x 10 + d",
+      "1000d + 100b + 10c + a",
+      "dcba x 10"
+    ],
+    "answer": "d x 1000 + c x 100 + b x 10 + a",
+    "explanation": "The standard algebraic expansion of a 4-digit number where 'd' is thousands and 'a' is units is 1000d + 100c + 10b + a.",
+    "page_number": "119"
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "If the difference between the alternating digit sums is negative when checking for divisibility by 11, what does it signify?",
+    "options": [
+      "The number is definitely divisible by 11",
+      "It shows how much lesser the number is than a multiple of 11",
+      "The divisibility rule cannot be applied",
+      "The remainder is always 0"
+    ],
+    "answer": "It shows how much lesser the number is than a multiple of 11",
+    "explanation": "A negative difference in the divisibility by 11 check means that the number falls short of a multiple of 11 by that exact amount.",
+    "page_number": "122"
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What does a digital root of 9 mean when dividing a number by 9?",
+    "options": [
+      "The remainder is 9",
+      "The remainder is 0, so it is exactly divisible by 9",
+      "The number is not divisible by 9",
+      "The number is prime"
+    ],
+    "answer": "The remainder is 0, so it is exactly divisible by 9",
+    "explanation": "The digital root represents the remainder upon division by 9. However, since a remainder of 9 is equivalent to a remainder of 0 in modulo 9, the number is divisible by 9.",
+    "page_number": "120"
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "How can you use divisibility shortcuts to check if a number is divisible by 18?",
+    "options": [
+      "Check if it is divisible by 3 and 6",
+      "Check if it is divisible by 2 and 9",
+      "Check if it is divisible by 4 and 4",
+      "Check if it is an even multiple of 3"
+    ],
+    "answer": "Check if it is divisible by 2 and 9",
+    "explanation": "To check divisibility for a composite number, you use co-prime factors. Since 2 and 9 have no common factors other than 1 and multiply to 18, you check for both.",
+    "page_number": "122"
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "When four consecutive numbers are combined with '+' and '-' signs in all possible ways, how many different expressions are formed?",
+    "options": [
+      "Four",
+      "Six",
+      "Eight",
+      "Sixteen"
+    ],
+    "answer": "Eight",
+    "explanation": "By placing '+' or '-' between four numbers (three slots), we can form 2^3 = 8 different expressions. All of them share the same parity.",
+    "page_number": "112"
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "If the sum of three consecutive numbers is 72, what are the numbers?",
+    "options": [
+      "22, 24, 26",
+      "23, 24, 25",
+      "21, 24, 27",
+      "24, 25, 26"
+    ],
+    "answer": "23, 24, 25",
+    "explanation": "Let the numbers be x-1, x, x+1. Their sum is 3x = 72, which means x = 24. Thus, the numbers are 23, 24, and 25.",
+    "page_number": "Worksheet Level 2"
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What are four consecutive numbers whose sum is 46?",
+    "options": [
+      "10, 11, 12, 13",
+      "11, 12, 13, 14",
+      "10, 12, 14, 10",
+      "9, 10, 13, 14"
+    ],
+    "answer": "10, 11, 12, 13",
+    "explanation": "Let the numbers be x, x+1, x+2, x+3. Sum = 4x + 6 = 46. 4x = 40, x = 10. The numbers are 10, 11, 12, 13.",
+    "page_number": "Worksheet Level 2"
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Find the smallest number that leaves a remainder of 1 when divided by both 3 and 4.",
+    "options": [
+      "7",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": "13",
+    "explanation": "The number must be 1 more than a common multiple of 3 and 4. The least common multiple of 3 and 4 is 12, so the smallest number is 12 + 1 = 13.",
+    "page_number": "Worksheet Level 2"
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Find the smallest number that leaves a remainder of 2 by 3, 3 by 4, and 4 by 5.",
+    "options": [
+      "59",
+      "60",
+      "61",
+      "119"
+    ],
+    "answer": "59",
+    "explanation": "In each case, the remainder is exactly 1 less than the divisor. The number must be 1 less than the LCM of 3, 4, and 5. LCM(3,4,5) = 60. So, 60 - 1 = 59.",
+    "page_number": "Solutions Page 27"
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "In the cryptarithm JK × 6 = KKK, what are the values of J and K?",
+    "options": [
+      "J = 2, K = 2",
+      "J = 4, K = 4",
+      "J = 7, K = 4",
+      "J = 8, K = 6"
+    ],
+    "answer": "J = 7, K = 4",
+    "explanation": "For Kx6 to end in K, K must be 2, 4, 6, 8. If K=4, 6x4=24 (carry 2). Jx6+2 = 44, meaning Jx6=42, so J=7. 74x6=444 matches KKK perfectly.",
+    "page_number": "126"
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "In the cryptarithm ABC + CBA = 443 where C > A, what is the value of B?",
+    "options": [
+      "2",
+      "5",
+      "7",
+      "9"
+    ],
+    "answer": "7",
+    "explanation": "In the hundreds column, A+C (+ carry) = 4. In units, C+A ends in 3, so A+C=3 (carry 0). Thus, tens column B+B+0 ends in 4, so B=2 or 7. If B=2, B+B=4 (no carry), but A+C=4 in hundreds, contradicting A+C=3. Hence, B=7, carry 1, so A+C+1=4. Thus B=7.",
+    "page_number": "Worksheet Level 2"
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Find the smallest multiple of 9 with no odd digits.",
+    "options": [
+      "268",
+      "288",
+      "468",
+      "888"
+    ],
+    "answer": "288",
+    "explanation": "The sum of digits must be a multiple of 9. Since all digits are even, the sum cannot be 9. The smallest even multiple of 9 is 18. The smallest arrangement of even digits summing to 18 is 2, 8, 8, which makes 288.",
+    "page_number": "Solutions Page 28"
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Find the multiple of 9 that is closest to the number 6000.",
+    "options": [
+      "5994",
+      "6003",
+      "6009",
+      "6012"
+    ],
+    "answer": "6003",
+    "explanation": "6000 divided by 9 gives a quotient of 666 and a remainder of 6. So 6000 - 6 = 5994 is a multiple. The next multiple is 5994 + 9 = 6003. Since 6003 is closer to 6000 (diff 3) than 5994 (diff 6), 6003 is the answer.",
+    "page_number": "Solutions Page 28"
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "How many multiples of 9 are there between the numbers 4300 and 4400?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "answer": "11",
+    "explanation": "The first multiple is 4302 (sum = 9). The last is 4392 (sum = 18). Number of terms = ((4392 - 4302) / 9) + 1 = 10 + 1 = 11.",
+    "page_number": "Solutions Page 28"
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What is the digital root of the number 9a + 36b + 13 for any positive integers a and b?",
+    "options": [
+      "13",
+      "9",
+      "4",
+      "1"
+    ],
+    "answer": "4",
+    "explanation": "The expression can be written as 9(a+4b) + 9 + 4 = 9(a+4b+1) + 4. This leaves a remainder of 4 when divided by 9. Since digital roots correspond to remainders mod 9, the digital root is 4.",
+    "page_number": "131"
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "In the cryptarithm A1 + 1B = B0, find the values of A and B.",
+    "options": [
+      "A = 8, B = 9",
+      "A = 7, B = 9",
+      "A = 9, B = 7",
+      "A = 7, B = 8"
+    ],
+    "answer": "A = 7, B = 9",
+    "explanation": "Units place: 1 + B ends in 0, so B = 9 (with a carry of 1). Tens place: A + 1 + 1 (carry) = B. Since B = 9, A + 2 = 9, making A = 7.",
+    "page_number": "131"
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "In the cryptarithm AB + 37 = 6A, what are the values of A and B?",
+    "options": [
+      "A = 2, B = 5",
+      "A = 5, B = 2",
+      "A = 1, B = 4",
+      "A = 3, B = 6"
+    ],
+    "answer": "A = 2, B = 5",
+    "explanation": "Units: B + 7 = A or A + 10. Tens: A + 3 (+ carry?) = 6. If no carry, A=3, then B+7=3 -> not possible. If carry 1, A+4=6 -> A=2. Then B+7=12 -> B=5. This fits perfectly (25 + 37 = 62).",
+    "page_number": "131"
+  },
+  {
+    "id": 71,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "If the 4-digit number 31z5 is a multiple of 9, what are the possible values for the digit z?",
+    "options": [
+      "0 only",
+      "9 only",
+      "0 or 9",
+      "3 or 6"
+    ],
+    "answer": "0 or 9",
+    "explanation": "The sum of the digits is 3+1+z+5 = 9+z. For this to be a multiple of 9, z must be 0 (sum=9) or 9 (sum=18). Therefore, z can be 0 or 9.",
+    "page_number": "132"
+  },
+  {
+    "id": 72,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "If 48a23b is a multiple of 18, how many possible pairs of values exist for (a, b)?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "5",
+    "explanation": "For divisibility by 18, b must be even (0,2,4,6,8). Sum of digits 4+8+a+2+3+b = 17+a+b must be a multiple of 9. By testing b values, we get 5 valid pairs: (1,0), (8,2), (6,4), (4,6), and (2,8).",
+    "page_number": "Solutions Page 33"
+  },
+  {
+    "id": 73,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "If the number 3p7q8 is divisible by 44, how many possible pairs of values exist for p and q?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4",
+    "explanation": "Divisible by 4 means q8 is divisible by 4, so q can be 0, 2, 4, 6, 8. Divisible by 11 means (3+7+8) - (p+q) = 18 - (p+q) is 0 or a multiple of 11. Testing values yields 4 valid pairs: (7,0), (5,2), (3,4), (1,6).",
+    "page_number": "Solutions Page 34"
+  },
+  {
+    "id": 74,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Which of the following is a 6-digit number divisible by 15 such that when the digits are reversed, it is divisible by 6?",
+    "options": [
+      "200055",
+      "200025",
+      "500002",
+      "200085"
+    ],
+    "answer": "200025",
+    "explanation": "Since it's divisible by 15, it must end in 0 or 5. If it ends in 0, reversing it creates a leading zero (not 6 digits). So it ends in 5. The reversed number is even, so the original starts with an even digit. 200025 reversed is 520002, which is even and sums to 9 (divisible by 6).",
+    "page_number": "Solutions Page 35"
+  },
+  {
+    "id": 75,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What is the parity of the expression n^2 + 2n for any integer n?",
+    "options": [
+      "Always even",
+      "Always odd",
+      "Even if n is even, odd if n is odd",
+      "Even if n is odd, odd if n is even"
+    ],
+    "answer": "Even if n is even, odd if n is odd",
+    "explanation": "The term 2n is always even. The term n^2 has the same parity as n. Therefore, the sum (n^2 + 2n) has the same parity as n. If n is even, it's even; if odd, it's odd.",
+    "page_number": "116"
+  },
+  {
+    "id": 76,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "If the sum of two numbers is even and their product is also even, what can you conclude about the numbers?",
+    "options": [
+      "Both numbers are odd",
+      "Both numbers are even",
+      "One is even and one is odd",
+      "They are prime numbers"
+    ],
+    "answer": "Both numbers are even",
+    "explanation": "A sum is even if both are even or both are odd. But an even product means at least one is even. Therefore, to satisfy both, both numbers must be even.",
+    "page_number": "Worksheet Level 3"
+  },
+  {
+    "id": 77,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What is the repeating pattern of digital roots for a sequence starting at 10 and differing by 12?",
+    "options": [
+      "1, 2, 3",
+      "1, 4, 7",
+      "1, 3, 5",
+      "1, 5, 9"
+    ],
+    "answer": "1, 4, 7",
+    "explanation": "Starting at 10 (root 1), adding 12 repeatedly (root 3) increments the digital root by 3 each step. The pattern becomes 1, 4, 7, 1 (10 mod 9), 4, 7...",
+    "page_number": "125"
+  },
+  {
+    "id": 78,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "If you reverse the digits of any number that is divisible by 9, will the new number still be divisible by 9?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "Depends on the number of digits"
+    ],
+    "answer": "Always true",
+    "explanation": "Divisibility by 9 depends solely on the sum of the digits. Reversing the digits does not change their sum, so the reversed number is always still a multiple of 9.",
+    "page_number": "Solutions Page 33"
+  },
+  {
+    "id": 79,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "The product of 4 consecutive integers is always a multiple of:",
+    "options": [
+      "12",
+      "24",
+      "36",
+      "48"
+    ],
+    "answer": "24",
+    "explanation": "Among any 4 consecutive integers, one is a multiple of 4, another is an even number (multiple of 2), and at least one is a multiple of 3. Thus, their product is at least 4 x 2 x 3 = 24.",
+    "page_number": "Solutions Page 36"
+  },
+  {
+    "id": 80,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "The product of 5 consecutive integers is always a multiple of:",
+    "options": [
+      "60",
+      "100",
+      "120",
+      "240"
+    ],
+    "answer": "120",
+    "explanation": "Any 5 consecutive integers will include a multiple of 5, a multiple of 4, a multiple of 3, and a multiple of 2. Thus, the product is always divisible by 5! (5 x 4 x 3 x 2 x 1 = 120).",
+    "page_number": "Solutions Page 37"
+  },
+  {
+    "id": 81,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "When divided by 7, 661 leaves a remainder of 3, and 4779 leaves a remainder of 5. What remainder will 4779 - 661 leave when divided by 7?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "explanation": "The remainders can be subtracted directly. 5 - 3 = 2. Algebraically, 7p+5 - (7q+3) = 7(p-q) + 2. The remainder is 2.",
+    "page_number": "Solutions Page 27"
+  },
+  {
+    "id": 82,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "When divided by 7, 661 leaves a remainder of 3, and 4779 leaves a remainder of 5. What remainder will 4779 + 661 leave when divided by 7?",
+    "options": [
+      "1",
+      "2",
+      "8",
+      "0"
+    ],
+    "answer": "1",
+    "explanation": "Add the remainders: 3 + 5 = 8. Since 8 is larger than 7, divide 8 by 7 to get a final remainder of 1.",
+    "page_number": "Solutions Page 27"
+  },
+  {
+    "id": 83,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A girl groups pebbles by 3 and 1 is left. Groups by 5, 1 is left. Groups by 7, none are left. She has fewer than 100 pebbles. How many does she have?",
+    "options": [
+      "91",
+      "71",
+      "31",
+      "61"
+    ],
+    "answer": "91",
+    "explanation": "The number must leave a remainder of 1 when divided by LCM(3,5) = 15, meaning it's of the form 15k + 1. Possible values: 16, 31, 46, 61, 76, 91. The only one divisible by 7 is 91.",
+    "page_number": "Solutions Page 27"
+  },
+  {
+    "id": 84,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What is the first multiple of 36 between 45000 and 47000?",
+    "options": [
+      "45036",
+      "45000",
+      "45012",
+      "45072"
+    ],
+    "answer": "45036",
+    "explanation": "For 36, it must be divisible by 4 (last two digits) and 9 (sum of digits). 45000 is a multiple of 9 (4+5=9) and 4 (00). The next multiple is 45000 + 36 = 45036.",
+    "page_number": "Solutions Page 34"
+  },
+  {
+    "id": 85,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A number leaves a remainder of 8 when divided by 12. Another number is 4 short of a multiple of 12. Is their sum always a multiple of 8?",
+    "options": [
+      "Always true",
+      "Sometimes true",
+      "Never true",
+      "Depends on whether they are even"
+    ],
+    "answer": "Sometimes true",
+    "explanation": "The numbers are a = 12n + 8 and b = 12m - 4. Their sum is 12(n+m) + 4. This is a multiple of 4, but not necessarily 8. For example, if n+m=2, the sum is 28, which is not a multiple of 8.",
+    "page_number": "Solutions Page 32"
+  },
+  {
+    "id": 86,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The sum of an even number and an even number is always even.\nReason (R): The sum of any two multiples of 2 is always a multiple of 2.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "An even number is defined as a multiple of 2. When you add two multiples of 2, the result is naturally a multiple of 2 (even). Hence, the reason perfectly explains the assertion.",
+    "page_number": "114"
+  },
+  {
+    "id": 87,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A number with a units digit of 5 is always divisible by 10.\nReason (R): For a number to be divisible by 10, its units digit must be 0.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "A number ending in 5 is divisible by 5, but not by 10. The divisibility rule for 10 strictly requires the units digit to be 0. Thus, the assertion is false.",
+    "page_number": "119"
+  },
+  {
+    "id": 88,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The digital root of the number 12 is 3.\nReason (R): The digital root is found by adding the digits of a number repeatedly until a single digit is obtained.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The digital root of 12 is found by summing its digits (1 + 2 = 3). The reason correctly defines the process of finding a digital root.",
+    "page_number": "124"
+  },
+  {
+    "id": 89,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Cryptarithms can have multi-digit numbers starting with the digit zero.\nReason (R): In a cryptarithm, each letter represents a unique digit from 0 to 9.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "A fundamental rule of cryptarithms is that no multi-digit number can start with the digit 0, making the assertion false. The reason, however, is a valid rule of cryptarithms.",
+    "page_number": "125"
+  },
+  {
+    "id": 90,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Every multiple of 4 is an even number.\nReason (R): 4 is a multiple of 2, so any multiple of 4 will also contain 2 as a factor.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Since 4 contains 2 as a factor, multiplying 4 by any integer will yield a product that also has 2 as a factor, making it an even number.",
+    "page_number": "115"
+  },
+  {
+    "id": 91,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If the digital root of a number is 5, the digital root of the number increased by 9 is also 5.\nReason (R): Adding 9 to a number does not change its remainder when divided by 9.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Because a digital root reflects the remainder upon division by 9, adding a multiple of 9 (like 9 itself) to the number will leave the remainder (and the digital root) unchanged.",
+    "page_number": "134"
+  },
+  {
+    "id": 92,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): All eight expressions formed by placing '+' or '-' between four consecutive integers always result in an even parity.\nReason (R): Switching a plus sign to a minus sign changes the value of an expression by an even number, which preserves parity.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "When changing +b to -b, the total expression decreases by 2b. Since 2b is always even, the parity of the expression remains unchanged from the baseline (which is even).",
+    "page_number": "112"
+  },
+  {
+    "id": 93,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If a number is divisible by 6 and 8, it must always be divisible by 48.\nReason (R): If a number is divisible by two co-prime numbers, it is always divisible by their LCM.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "If a number is divisible by 6 and 8, it is divisible by their LCM, which is 24, not 48. The assertion is false. The reason states a true principle regarding LCM.",
+    "page_number": "121"
+  },
+  {
+    "id": 94,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If a number has a digital root of 3, 6, or 9, it is divisible by 3.\nReason (R): Digital roots represent the remainders when numbers are divided by 9.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, but R is not the correct explanation of A.",
+    "explanation": "Both statements are true. However, R explains divisibility by 9, not 3. A is true because 3, 6, and 9 are all multiples of 3, making the sum of digits a multiple of 3.",
+    "page_number": "134"
+  },
+  {
+    "id": 95,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): By repeatedly adding digits until a single digit is obtained, we get the remainder when the number is divided by 9.\nReason (R): Every power of 10 leaves a remainder of 1 when divided by 9.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Since every power of 10 leaves a remainder of 1 mod 9, the number's total remainder is just the sum of its digits. The reason is the foundational logic for the digital root method.",
+    "page_number": "135"
+  },
+  {
+    "id": 96,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The expression 4x + 5y is always even for any integer values of x and y.\nReason (R): 4x is always an even number, but 5y can be odd or even depending on the value of y.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Because 5y takes on the parity of y, adding it to the even number 4x means the overall expression can be either even or odd. Thus, the assertion is false.",
+    "page_number": "114"
+  },
+  {
+    "id": 97,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The smallest multiple of 9 with no odd digits is 288.\nReason (R): A multiple of 9 requires the digit sum to be a multiple of 9. The smallest even sum possible is 18, achieved with digits 2, 8, 8.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Since only even digits are allowed, the sum of the digits must be an even multiple of 9 (which is 18). 288 uses the smallest leading digit possible while summing to 18.",
+    "page_number": "Solutions Page 28"
+  },
+  {
+    "id": 98,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The product of any three consecutive integers is always a multiple of 6.\nReason (R): In any set of three consecutive integers, there is exactly one multiple of 3 and at least one multiple of 2.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Since one integer must be divisible by 2 and one by 3 (sometimes the same integer), the product must contain 2 x 3 = 6 as a factor, proving the assertion.",
+    "page_number": "Solutions Page 36"
+  },
+  {
+    "id": 99,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If the difference between alternating digit sums of a number is -3, the remainder when divided by 11 is 8.\nReason (R): A negative difference indicates how much lesser the number is than a multiple of 11.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "A difference of -3 means the number is 3 short of a multiple of 11. Being 3 short is equivalent to being 8 more than the previous multiple, so the remainder is 8.",
+    "page_number": "128"
+  },
+  {
+    "id": 100,
+    "subject": "Mathematics",
+    "chapter": "Number Play-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If 8 exactly divides two numbers separately, it must exactly divide their sum.\nReason (R): If M and N are multiples of 'a', then M + N and M - N will also be multiples of 'a'.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "This is a fundamental property of divisibility. If a factor is common to two terms, it can be factored out of their sum or difference, making the result a multiple.",
+    "page_number": "119"
+  }
+]
