@@ -1,0 +1,1784 @@
+```json
+[
+  {
+    "id": 1,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Who were the Marathas?",
+    "answer": "The Marathas were a group of people native to the Deccan plateau, specifically present-day Maharashtra, identified by the Marathi language.",
+    "keywords": [
+      "Deccan plateau",
+      "Maharashtra",
+      "Marathi language",
+      "native people"
+    ],
+    "explanation": "The Marathas were the native inhabitants of the Deccan region who shared a common linguistic identity through the Marathi language. This is mentioned on page 62.",
+    "page_number": "62"
+  },
+  {
+    "id": 2,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Which dynasty ruled most of Maharashtra from Devagiri in the 13th century?",
+    "answer": "The Yadava dynasty ruled most of Maharashtra from Devagiri in the 13th century.",
+    "keywords": [
+      "Yadava dynasty",
+      "Devagiri"
+    ],
+    "explanation": "Before the rise of the Marathas and the invasion of the Khilji Sultanate, the region was governed by the Yadava dynasty. This fact is located on page 62.",
+    "page_number": "62"
+  },
+  {
+    "id": 3,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Who were the parents of Chhatrapati Shivaji?",
+    "answer": "Chhatrapati Shivaji's parents were Shahji and Jijabai of the Bhonsle clan.",
+    "keywords": [
+      "Shahji",
+      "Jijabai",
+      "Bhonsle clan"
+    ],
+    "explanation": "Shivaji was born in 1630 to Shahji and Jijabai, belonging to the prominent Bhonsle clan. This is stated on page 64.",
+    "page_number": "64"
+  },
+  {
+    "id": 4,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "In which jagir did Shivaji grow up?",
+    "answer": "Shivaji grew up in his father's jagir located at Pune.",
+    "keywords": [
+      "jagir",
+      "Pune"
+    ],
+    "explanation": "While his father served the Deccan sultanates, Shivaji was raised in the Pune jagir under his mother's guidance. Found on page 64.",
+    "page_number": "64"
+  },
+  {
+    "id": 5,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What is guerrilla warfare?",
+    "answer": "Guerrilla warfare is a military tactic that utilizes small groups, speed, surprise, and knowledge of local terrain to defeat much larger armies.",
+    "keywords": [
+      "small groups",
+      "speed",
+      "surprise",
+      "knowledge of terrain",
+      "defeat larger armies"
+    ],
+    "explanation": "This was the primary military strategy used by the Marathas to counter the massive armies of the Mughals and Bijapur. It is defined on page 65.",
+    "page_number": "65"
+  },
+  {
+    "id": 6,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Why did Chhatrapati Shivaji establish a navy?",
+    "answer": "He established a navy to secure access to the resources of coastal regions and to protect India's west coast.",
+    "keywords": [
+      "secure access",
+      "coastal regions",
+      "protect west coast"
+    ],
+    "explanation": "Recognizing the importance of maritime security and coastal resources, Shivaji took the revolutionary step of building a navy. This is discussed on page 65.",
+    "page_number": "65"
+  },
+  {
+    "id": 7,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Who was Kanhoji Angre?",
+    "answer": "Kanhoji Angre was a famous Maratha naval commander who successfully guided the Marathas to victory in many naval battles against European powers.",
+    "keywords": [
+      "Maratha naval commander",
+      "victory",
+      "naval battles"
+    ],
+    "explanation": "Kanhoji Angre was instrumental in challenging European naval dominance in the 18th century. His contributions are detailed on page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 8,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Which weapon did Shivaji use to kill Afzal Khan?",
+    "answer": "Shivaji used a small weapon called the wagh nakh, or tiger's claw.",
+    "keywords": [
+      "wagh nakh",
+      "tiger's claw"
+    ],
+    "explanation": "During their one-on-one meeting, Shivaji used the wagh nakh to defeat the Bijapur general in close combat. This is mentioned on page 66.",
+    "page_number": "66"
+  },
+  {
+    "id": 9,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Who was sent by the Bijapur Sultanate to confront Shivaji?",
+    "answer": "The Bijapur Sultanate sent their veteran general, Afzal Khan, to confront Shivaji.",
+    "keywords": [
+      "veteran general",
+      "Afzal Khan"
+    ],
+    "explanation": "Afzal Khan was dispatched to suppress Shivaji's growing power, leading to their famous encounter at Pratapgad. This is stated on page 65.",
+    "page_number": "65"
+  },
+  {
+    "id": 10,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 10
+    },
+    "question": "In which year was Chhatrapati Shivaji coronated?",
+    "answer": "Chhatrapati Shivaji was coronated in the year 1674.",
+    "keywords": [
+      "1674"
+    ],
+    "explanation": "Shivaji held his formal coronation ceremony with Vedic rites at Raigad in 1674. This historical date is provided on page 67.",
+    "page_number": "67"
+  },
+  {
+    "id": 11,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What formal title did Shivaji assume after his coronation?",
+    "answer": "After his coronation, he assumed the formal title of 'Shri Raja Shiva Chhatrapati'.",
+    "keywords": [
+      "Shri Raja Shiva Chhatrapati"
+    ],
+    "explanation": "This title formally established his sovereign status over the Maratha kingdom. The title is mentioned on page 67.",
+    "page_number": "67"
+  },
+  {
+    "id": 12,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What was the 'Dakshina-digvijaya'?",
+    "answer": "It refers to Chhatrapati Shivaji's military conquest of the South, which included regions of present-day Tamil Nadu and Karnataka.",
+    "keywords": [
+      "conquest of the South",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "explanation": "This southern expansion was crucial as it later provided the Marathas with strategic depth against Mughal invasions. Described on page 67.",
+    "page_number": "67"
+  },
+  {
+    "id": 13,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Who was the ruler under whom the Marathas went on to recapture Delhi in 1771?",
+    "answer": "The Marathas recaptured Delhi in 1771 under the leadership of Mahadji Shinde (Scindia).",
+    "keywords": [
+      "Mahadji Shinde",
+      "Scindia"
+    ],
+    "explanation": "Mahadji Shinde played a pivotal role in restoring Maratha power in northern India after Panipat. This fact is on page 70.",
+    "page_number": "70"
+  },
+  {
+    "id": 14,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 10
+    },
+    "question": "What is the Persian term for 'prime minister' in the Maratha administration?",
+    "answer": "The Persian term used for the prime minister is Peshwa.",
+    "keywords": [
+      "Peshwa"
+    ],
+    "explanation": "The Peshwas eventually became the de facto rulers of the Maratha Empire as power decentralized. Defined on page 70.",
+    "page_number": "70"
+  },
+  {
+    "id": 15,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 10
+    },
+    "question": "In which year did the Battle of Panipat take place?",
+    "answer": "The Battle of Panipat took place in the year 1761.",
+    "keywords": [
+      "1761"
+    ],
+    "explanation": "This was a disastrous battle for the Marathas against the Afghans, marking a significant event in their history. Found on page 70.",
+    "page_number": "70"
+  },
+  {
+    "id": 16,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What were Chauth and Sardeshmukhi?",
+    "answer": "They were taxes collected by the Marathas from provinces not directly under their rule in exchange for protection.",
+    "keywords": [
+      "taxes",
+      "non-direct provinces",
+      "protection"
+    ],
+    "explanation": "These revenue systems allowed the Marathas to gain income from neighboring territories without managing their internal governance. Detailed on page 73.",
+    "page_number": "73"
+  },
+  {
+    "id": 17,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 10
+    },
+    "question": "What percentage of revenue was collected as Chauth?",
+    "answer": "Chauth was collected at a rate of 25 per cent.",
+    "keywords": [
+      "25 per cent"
+    ],
+    "explanation": "Chauth was a major tax, amounting to one-fourth (25%) of the revenue, levied for protection. Mentioned on page 73.",
+    "page_number": "73"
+  },
+  {
+    "id": 18,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Which script was primarily used by the Marathas for correspondence?",
+    "answer": "The Marathas primarily used the Modi script, a cursive form of Devanagari.",
+    "keywords": [
+      "Modi script",
+      "cursive Devanagari"
+    ],
+    "explanation": "This script was heavily utilized in official communications and records across the Maratha Empire. Found on page 78.",
+    "page_number": "78"
+  },
+  {
+    "id": 19,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What was the Rajya-Vyavahara-Kosha?",
+    "answer": "It was a treatise commissioned by Shivaji providing Sanskrit equivalents for prevalent Persian words used in diplomatic exchanges.",
+    "keywords": [
+      "treatise",
+      "Sanskrit equivalents",
+      "Persian words",
+      "diplomatic exchanges"
+    ],
+    "explanation": "This dictionary-like work was part of Shivaji's effort to promote Marathi and Sanskrit and reduce foreign cultural influence. Described on page 76.",
+    "page_number": "76"
+  },
+  {
+    "id": 20,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Who was the fearless Maratha warrior queen who ruled after Rajaram?",
+    "answer": "Tarabai was the fearless Maratha warrior queen who took charge after Rajaram.",
+    "keywords": [
+      "Tarabai"
+    ],
+    "explanation": "She organized Maratha resistance and led expansion campaigns into Mughal territories after her husband's death. Stated on page 77.",
+    "page_number": "77"
+  },
+  {
+    "id": 21,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Which famous temple in Varanasi was rebuilt by Ahilyabai Holkar?",
+    "answer": "She rebuilt the famous Kashi Vishwanath temple in Varanasi.",
+    "keywords": [
+      "Kashi Vishwanath temple",
+      "Varanasi"
+    ],
+    "explanation": "Ahilyabai Holkar was deeply devout and restored many temples destroyed during Mughal rule, prominently the Kashi Vishwanath. Mentioned on page 77.",
+    "page_number": "77"
+  },
+  {
+    "id": 22,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What was the Dhanwantari Mahal?",
+    "answer": "It was a medical centre in Thanjavur that offered free treatment using both Indian and Western systems of medicine.",
+    "keywords": [
+      "medical centre",
+      "Thanjavur",
+      "free treatment",
+      "Indian and Western medicine"
+    ],
+    "explanation": "Established by Serfoji II, it represented an innovative combination of different knowledge systems for public welfare. Found on page 79.",
+    "page_number": "79"
+  },
+  {
+    "id": 23,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What does the term 'jagir' mean?",
+    "answer": "A jagir is a piece of land given by a ruler as a reward for service, allowing the holder to collect taxes.",
+    "keywords": [
+      "piece of land",
+      "reward",
+      "collect taxes"
+    ],
+    "explanation": "The jagirdari system was common before Shivaji, who later abolished such hereditary land assignments to centralize power. Defined on page 64.",
+    "page_number": "64"
+  },
+  {
+    "id": 24,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Who was the finance minister of Chhatrapati Shivaji who wrote Adnyapatra?",
+    "answer": "Ramachandrapant Amatya was the finance minister who wrote the Adnyapatra.",
+    "keywords": [
+      "Ramachandrapant Amatya",
+      "Adnyapatra"
+    ],
+    "explanation": "He highlighted the strategic importance of forts in his work 'The Royal Edict'. Mentioned on page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 25,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How did the geographical features of the Deccan aid the Marathas in their military campaigns?",
+    "answer": "The hilly terrain and dense forests of the Deccan allowed the Marathas to effectively use guerrilla warfare. Small, speedy groups could launch surprise attacks on larger enemy armies and quickly retreat.",
+    "keywords": [
+      "hilly terrain",
+      "dense forests",
+      "guerrilla warfare",
+      "surprise attacks",
+      "retreat"
+    ],
+    "explanation": "The geography naturally favored the Marathas' fast, mobile tactics over the slow-moving, large armies of the Mughals. This is discussed on page 65.",
+    "page_number": "65"
+  },
+  {
+    "id": 26,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What was the contribution of saints like Dnyaneshwar and Tukaram to Marathi literature?",
+    "answer": "Saints like Dnyaneshwar and Tukaram translated complex philosophical texts like the Upanishads and Bhagavad Gita into Marathi. This made deep spiritual and social ideas accessible to the common people.",
+    "keywords": [
+      "translated texts",
+      "Upanishads",
+      "Bhagavad Gita",
+      "accessible",
+      "common people"
+    ],
+    "explanation": "These translations enriched the Marathi language and created cultural unity, which laid the foundation for Maratha political rise. Mentioned on page 64.",
+    "page_number": "64"
+  },
+  {
+    "id": 27,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "What did Shivaji do at the age of sixteen to consolidate his hold over the Pune region?",
+    "answer": "At just sixteen, Shivaji launched military campaigns by capturing neglected and unoccupied forts around Pune and strongly fortifying their defenses.",
+    "keywords": [
+      "military campaigns",
+      "capturing neglected forts",
+      "fortifying defenses"
+    ],
+    "explanation": "These early military actions demonstrated his strategic vision and were the first steps toward building an independent kingdom. Found on page 64.",
+    "page_number": "64"
+  },
+  {
+    "id": 28,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What was Shivaji's vision of 'Swarajya'?",
+    "answer": "Swarajya was Shivaji's vision for a completely sovereign and independent kingdom. It extended beyond mere political control to include robust economic and cultural independence.",
+    "keywords": [
+      "sovereign",
+      "independent kingdom",
+      "political",
+      "economic",
+      "cultural independence"
+    ],
+    "explanation": "Swarajya guided Shivaji's policies, from administration and military strategy to cultural revival and trade. Explained on page 64.",
+    "page_number": "64"
+  },
+  {
+    "id": 29,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Name the two types of cavalry soldiers in the Maratha armed forces.",
+    "answer": "The cavalry consisted of bargirs, whose horses and equipment were provided by the state, and shiledars, who paid for their own horses and gear.",
+    "keywords": [
+      "bargirs",
+      "state-funded",
+      "shiledars",
+      "self-funded"
+    ],
+    "explanation": "This division in the cavalry allowed the Marathas to maintain a flexible and expansive mobile army. Detailed on page 73.",
+    "page_number": "73"
+  },
+  {
+    "id": 30,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How did the Marathas challenge the European naval dominance?",
+    "answer": "The Europeans forced Indians to buy trade passes to sail. The Marathas directly challenged this practice, refusing to pay, and instead began demanding passes from the European ships themselves.",
+    "keywords": [
+      "trade passes",
+      "challenged practice",
+      "demanding passes",
+      "Europeans"
+    ],
+    "explanation": "This bold move by commanders like Kanhoji Angre asserted Maratha sovereignty over coastal waters against foreign powers. Mentioned on page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 31,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "What was the significance of the Sindhudurg Fort?",
+    "answer": "Sindhudurg Fort was a formidable naval fortification built by the Marathas near the Maharashtra-Goa border. It was essential for securing coastal resources and projecting naval power.",
+    "keywords": [
+      "naval fortification",
+      "Maharashtra-Goa border",
+      "securing coastal resources"
+    ],
+    "explanation": "Building coastal forts was a revolutionary step that helped the Marathas build and maintain a strong navy. Found on page 65.",
+    "page_number": "65"
+  },
+  {
+    "id": 32,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why did Shivaji sack the port city of Surat?",
+    "answer": "Shivaji sacked the wealthy Mughal port of Surat as a retaliatory action for Shaista Khan's three-year invasion. He seized enormous treasure to fund the Maratha state.",
+    "keywords": [
+      "retaliatory action",
+      "Shaista Khan",
+      "enormous treasure",
+      "fund state"
+    ],
+    "explanation": "The sacking of Surat was a strategic move that crippled Mughal prestige and enriched the Maratha treasury. Described on page 66.",
+    "page_number": "66"
+  },
+  {
+    "id": 33,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How did Chhatrapati Shivaji escape from house arrest in Agra?",
+    "answer": "Shivaji started distributing large baskets of sweets to holy men. Once guards stopped checking them, he and his son Sambhaji hid inside the baskets and successfully escaped the Mughal palace.",
+    "keywords": [
+      "baskets of sweets",
+      "stopped checking",
+      "hid inside",
+      "escaped"
+    ],
+    "explanation": "This cunning escape embarrassed Aurangzeb and restored the morale of the Marathas. Described on page 67.",
+    "page_number": "67"
+  },
+  {
+    "id": 34,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What led to the Treaty of Purandar?",
+    "answer": "To avenge the insult of Surat, Aurangzeb sent Rajput general Jai Singh to defeat Shivaji. Shivaji was forced to concede defeat at Purandar Fort and signed the treaty.",
+    "keywords": [
+      "avenge Surat",
+      "Jai Singh",
+      "concede defeat",
+      "Purandar Fort"
+    ],
+    "explanation": "The treaty resulted in Shivaji giving up a large part of his kingdom and his son entering Mughal service. Mentioned on page 66.",
+    "page_number": "66"
+  },
+  {
+    "id": 35,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why was the southern extension important for the Marathas?",
+    "answer": "The conquest of the South provided the Marathas with immense strategic depth. It gave them a secure base to fall back on and resist later prolonged Mughal invasions.",
+    "keywords": [
+      "conquest of the South",
+      "strategic depth",
+      "secure base",
+      "resist Mughal invasions"
+    ],
+    "explanation": "This strategic depth was critical when Aurangzeb invaded the Deccan, allowing leaders like Rajaram to continue the fight from Gingee. Mentioned on page 67.",
+    "page_number": "67"
+  },
+  {
+    "id": 36,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What strict instructions did Shivaji give regarding European slave trade in the South?",
+    "answer": "Shivaji strictly forbade the Dutch from capturing and trading Indians as slaves. His intervention showed deep concern for subjects when other Indian powers ignored the abuse.",
+    "keywords": [
+      "forbade Dutch",
+      "trading Indians as slaves",
+      "concern for subjects"
+    ],
+    "explanation": "While European powers freely traded slaves, Shivaji's ethical stance set him apart as a responsible leader. Stated on page 68.",
+    "page_number": "68"
+  },
+  {
+    "id": 37,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Name the two Peshwas who were instrumental in the pan-Indian expansion of the Marathas.",
+    "answer": "Peshwa Bajirao I and his son Nanasaheb Peshwa were the two leaders instrumental in this rapid expansion.",
+    "keywords": [
+      "Peshwa Bajirao I",
+      "Nanasaheb Peshwa",
+      "pan-Indian expansion"
+    ],
+    "explanation": "These prime ministers led military campaigns that extended Maratha power across northern and central India. Mentioned on page 70.",
+    "page_number": "70"
+  },
+  {
+    "id": 38,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "How did Aurangzeb treat Sambhaji?",
+    "answer": "Aurangzeb captured Sambhaji during his invasion of the Deccan, tortured him brutally, and eventually executed him.",
+    "keywords": [
+      "captured",
+      "tortured brutally",
+      "executed"
+    ],
+    "explanation": "This brutal execution further fueled the Marathas' anger and determination to resist Mughal rule for decades. Described on page 69.",
+    "page_number": "69"
+  },
+  {
+    "id": 39,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What regions did the Marathas briefly control during their northward expansion?",
+    "answer": "During their rapid northward expansion, the Marathas briefly controlled regions up to Lahore, Attock, and Peshawar in modern-day Pakistan.",
+    "keywords": [
+      "Lahore",
+      "Attock",
+      "Peshawar",
+      "modern-day Pakistan"
+    ],
+    "explanation": "This marked the absolute peak of the Maratha Empire's geographical extent before facing the Afghans. Mentioned on page 70.",
+    "page_number": "70"
+  },
+  {
+    "id": 40,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Name the council of eight ministers appointed by Shivaji.",
+    "answer": "The council of eight ministers appointed by Shivaji was called the Ashta Pradhana Mandala.",
+    "keywords": [
+      "council of eight ministers",
+      "Ashta Pradhana Mandala"
+    ],
+    "explanation": "This council assisted the Chhatrapati in administering various departments of the centralized state. Found on page 72.",
+    "page_number": "72"
+  },
+  {
+    "id": 41,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "State the duties of the Amatya and the Senapati.",
+    "answer": "In the Ashta Pradhana, the Amatya served as the Finance Minister, while the Senapati acted as the Commander-in-chief of the military.",
+    "keywords": [
+      "Amatya",
+      "Finance Minister",
+      "Senapati",
+      "Commander-in-chief"
+    ],
+    "explanation": "These roles were crucial for managing the economy and directing the armed forces. Defined in the flowchart on page 72.",
+    "page_number": "72"
+  },
+  {
+    "id": 42,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How did Chhatrapati Shivaji prevent officials from building excessive personal power?",
+    "answer": "He abolished hereditary posts and land assignments. Instead, he paid officials regular salaries directly from the state treasury and transferred them periodically.",
+    "keywords": [
+      "abolished hereditary posts",
+      "paid regular salaries",
+      "transferred periodically"
+    ],
+    "explanation": "These policies ensured that the administration remained highly centralized and loyal only to the king. Detailed on page 71.",
+    "page_number": "71"
+  },
+  {
+    "id": 43,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Mention two ways Chhatrapati Shivaji promoted trade.",
+    "answer": "He actively participated in maritime foreign trade by sending state ships to distant ports, and he also constructed roads and maintained ferry networks.",
+    "keywords": [
+      "maritime foreign trade",
+      "state ships",
+      "constructed roads",
+      "ferry networks"
+    ],
+    "explanation": "Trade and infrastructure development were key parts of securing the economic foundation of Swarajya. Mentioned on page 76.",
+    "page_number": "76"
+  },
+  {
+    "id": 44,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Name two temples rebuilt by Ahilyabai Holkar.",
+    "answer": "Ahilyabai Holkar rebuilt the Kashi Vishwanath temple in Varanasi and the Somnath temple in Gujarat.",
+    "keywords": [
+      "Kashi Vishwanath temple",
+      "Varanasi",
+      "Somnath temple",
+      "Gujarat"
+    ],
+    "explanation": "These prominent Hindu temples had been destroyed by earlier invaders, and she dedicated immense resources to their restoration. Found on page 77.",
+    "page_number": "77"
+  },
+  {
+    "id": 45,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What was Tarabai's contribution to the Maratha expansion?",
+    "answer": "Tarabai brilliantly organized large armies to invade Mughal territories in the north, acting as the primary architect of the northward Maratha expansion.",
+    "keywords": [
+      "organized armies",
+      "invade Mughal territories",
+      "architect",
+      "northward expansion"
+    ],
+    "explanation": "After Rajaram's death, she took charge and outsmarted the Mughals, shifting the Marathas from defense to offense. Described on page 77.",
+    "page_number": "77"
+  },
+  {
+    "id": 46,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Name the classical dance form that took shape during Serfoji II's time.",
+    "answer": "The famous classical dance form of Bharatanatyam took shape during Serfoji II's time in Thanjavur.",
+    "keywords": [
+      "Bharatanatyam",
+      "Serfoji II",
+      "Thanjavur"
+    ],
+    "explanation": "Under the patronage of the Thanjavur Marathas, local arts flourished, leading to the development of this major classical dance. Mentioned on page 79.",
+    "page_number": "79"
+  },
+  {
+    "id": 47,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Give two examples showing Serfoji II's support for the spread of knowledge.",
+    "answer": "He established a printing press to publish books and set up the Dhanwantari Mahal for the practice of Indian and Western medicine.",
+    "keywords": [
+      "printing press",
+      "Dhanwantari Mahal",
+      "Indian and Western medicine"
+    ],
+    "explanation": "Serfoji II was a learned ruler who patronized science and arts, uniquely blending European and Indian traditions. Discussed on page 79.",
+    "page_number": "79"
+  },
+  {
+    "id": 48,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How did Shivaji's rules on treating subjects reflect his values as a leader?",
+    "answer": "Shivaji instructed his army not to oppress farmers or damage trees, viewing trees like the villagers' children. This reflected his ethical leadership, compassion, and respect for nature.",
+    "keywords": [
+      "not oppress farmers",
+      "damage trees",
+      "ethical leadership",
+      "compassion",
+      "respect for nature"
+    ],
+    "explanation": "His strict orders ensured the army did not plunder its own people, distinguishing his rule from oppressive kingdoms. Highlighted on page 72.",
+    "page_number": "72"
+  },
+  {
+    "id": 49,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Explain how the Bhakti movement helped the Marathas organise themselves into a political power.",
+    "answer": "During a time of political turmoil, saints like Dnyaneshwar and Tukaram spread the Bhakti movement using the local Marathi language. They translated complex philosophical texts like the Bhagavad Gita, making them accessible to the masses. They focused on social unity and political awareness. This shared religious and cultural revival provided a solid foundation, deeply uniting the Marathi people, which eventually helped them rise together as a unified political and military power.",
+    "keywords": [
+      "Bhakti movement",
+      "Marathi language",
+      "accessible to masses",
+      "social unity",
+      "political awareness",
+      "cultural foundation"
+    ],
+    "explanation": "The movement broke down rigid social barriers and brought people together using a common language, serving as the cultural bedrock for Shivaji's later political ambitions. Detailed on page 64.",
+    "page_number": "64"
+  },
+  {
+    "id": 50,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 85
+    },
+    "question": "Describe the early life of Chhatrapati Shivaji and how it shaped his leadership.",
+    "answer": "Born in 1630 to Shahji and Jijabai, Shivaji was raised in his father's Pune jagir under the watchful eyes of his mother. Growing up in a region devastated by constant sultanate infighting exposed him to the hardships of common people. At the young age of 16, he began capturing and fortifying neglected forts. His deep knowledge of the local hilly terrain allowed him to develop effective guerrilla tactics. These early experiences directly shaped his vision of 'Swarajya', a completely independent and welfare-oriented state.",
+    "keywords": [
+      "Pune jagir",
+      "Jijabai",
+      "hardships",
+      "capturing forts",
+      "terrain knowledge",
+      "guerrilla tactics",
+      "Swarajya"
+    ],
+    "explanation": "His upbringing in a war-torn region and his early military successes formed his strategic mindset and dedication to independence. Described on page 64.",
+    "page_number": "64"
+  },
+  {
+    "id": 51,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Explain the importance of forts in the Maratha empire.",
+    "answer": "Forts were the absolute core of the Maratha defense and state power. They were built strategically on hills and coastlines to control important trade and military routes. During prolonged invasions by massive armies like the Mughals, forts provided crucial shelter and safety for the Maratha army and population. They enabled the Marathas to launch guerrilla attacks and sustain their resistance for decades without being wiped out in open combat.",
+    "keywords": [
+      "core of defense",
+      "control routes",
+      "shelter and safety",
+      "guerrilla attacks",
+      "sustain resistance"
+    ],
+    "explanation": "The geography of the Deccan made hill forts a vital defensive asset, which Shivaji utilized perfectly. Discussed on page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 52,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "Describe the Maratha military strategies against larger armies.",
+    "answer": "The Marathas knew they could not defeat massive imperial armies in traditional open-field battles. Instead, they relied heavily on guerrilla warfare. They utilized their deep knowledge of the hilly terrain to organize small, highly mobile groups of soldiers. These groups used speed and surprise to launch rapid attacks on enemy camps and supply lines, and then quickly retreated into their heavily defended forts. This strategy exhausted and outsmarted much larger armies.",
+    "keywords": [
+      "guerrilla warfare",
+      "knowledge of terrain",
+      "highly mobile",
+      "speed and surprise",
+      "retreated to forts",
+      "exhausted larger armies"
+    ],
+    "explanation": "This unconventional warfare negated the numerical superiority of the Mughals and Bijapur forces. Described on page 65.",
+    "page_number": "65"
+  },
+  {
+    "id": 53,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 85
+    },
+    "question": "\"Forts are the core of the state.\" Based on Ramachandrapant Amatya's view, justify this statement.",
+    "answer": "Ramachandrapant Amatya, Shivaji's finance minister, explained that without forts, a kingdom is easily devastated during an invasion. He noted that the Maratha kingdom was entirely created from forts by Shivaji. Even when a massive enemy like Aurangzeb conquered great empires like Bijapur, the Maratha state alone survived decades of brutal onslaught. This survival was strictly due to the shelter and strategic dominance provided by their vast network of forts.",
+    "keywords": [
+      "devastated during invasion",
+      "created from forts",
+      "survived decades of onslaught",
+      "shelter and strategic dominance"
+    ],
+    "explanation": "Amatya's writing in the Adnyapatra serves as a primary source validating the central military doctrine of the Marathas. Explained on page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 54,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "Describe the encounter between Chhatrapati Shivaji and Afzal Khan.",
+    "answer": "The Bijapur Sultanate sent their veteran general Afzal Khan to destroy Shivaji. Shivaji cleverly convinced the Khan to meet him for a one-on-one meeting at the foot of the Pratapgad fort, surrounded by thick forests. During the embrace, anticipating treachery, Shivaji used a concealed wagh nakh (tiger's claw) to kill Afzal Khan in close combat. Instantly, Maratha soldiers hidden in the surrounding mountains ambushed and completely routed the Khan's leaderless army.",
+    "keywords": [
+      "Afzal Khan",
+      "one-on-one meeting",
+      "Pratapgad fort",
+      "wagh nakh",
+      "close combat",
+      "ambushed",
+      "routed army"
+    ],
+    "explanation": "This event cemented Shivaji's reputation as a brilliant and cunning tactician. Described on page 65.",
+    "page_number": "65"
+  },
+  {
+    "id": 55,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 90
+    },
+    "question": "How did the sacking of Surat and the escape from Agra impact the Mughal-Maratha relations?",
+    "answer": "The sacking of the wealthy Mughal port of Surat was a massive insult to Aurangzeb's prestige, prompting him to send Jai Singh to force the Treaty of Purandar upon Shivaji. Later, when insulted at the Agra court, Shivaji was put under house arrest. His daring escape in baskets of sweets deeply embarrassed the Mughal empire, permanently shattered any possibility of peace, and restored Maratha morale to continue a relentless struggle against Mughal dominance.",
+    "keywords": [
+      "insult to prestige",
+      "Treaty of Purandar",
+      "house arrest",
+      "daring escape",
+      "embarrassed Mughal empire",
+      "restored Maratha morale"
+    ],
+    "explanation": "These two events shifted the dynamic from regional skirmishes to a full-scale, permanent war between the two empires. Discussed on pages 66-67.",
+    "page_number": "66-67"
+  },
+  {
+    "id": 56,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "Trace the events immediately following Chhatrapati Shivaji's death regarding the Mughal-Maratha conflict.",
+    "answer": "After Shivaji died, Aurangzeb personally invaded the Deccan. He conquered Bijapur and Golconda, and then captured the Maratha capital, Raigad. He brutally tortured and executed the new Chhatrapati, Sambhaji. However, this did not crush the Marathas. Rajaram became Chhatrapati and fled south to Gingee. The Marathas stubbornly defended their forts and bogged Aurangzeb down in endless warfare, preventing him from ever leaving the Deccan alive.",
+    "keywords": [
+      "Aurangzeb invaded",
+      "executed Sambhaji",
+      "Rajaram fled",
+      "Gingee",
+      "defended forts",
+      "endless warfare"
+    ],
+    "explanation": "The Mughal victory was hollow, as the Marathas decentralized their resistance and exhausted the Mughal empire. Found on page 69.",
+    "page_number": "69"
+  },
+  {
+    "id": 57,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "Discuss the role of the Peshwas in expanding the Maratha Empire.",
+    "answer": "As the Maratha state became more decentralized after Shivaji, the Peshwas (prime ministers) gained immense influence. Leaders like Peshwa Bajirao I and his son Nanasaheb Peshwa orchestrated massive military campaigns across India. They transformed the Marathas into a major pan-Indian power, expanding influence deeply into northern regions, briefly capturing cities like Lahore and Peshawar, and establishing control over much of central and northern India.",
+    "keywords": [
+      "decentralized state",
+      "Peshwas gained influence",
+      "military campaigns",
+      "pan-Indian power",
+      "northern regions",
+      "Lahore and Peshawar"
+    ],
+    "explanation": "The Peshwas shifted the Maratha focus from mere defense of the Deccan to aggressive imperial expansion. Discussed on page 70.",
+    "page_number": "70"
+  },
+  {
+    "id": 58,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 85
+    },
+    "question": "Explain the recovery of the Maratha Empire after the disastrous defeat at Panipat in 1761.",
+    "answer": "The Marathas suffered a devastating defeat against the Afghans at the Battle of Panipat in 1761. However, they demonstrated remarkable resilience and quickly recovered under the capable leadership of Peshwa Madhavrao I. Regional generals like Mahadji Shinde modernized the military with European-style troops. Through continuous campaigns, they managed to recapture Delhi by 1771, firmly re-establishing Maratha power in northern India until the British arrived.",
+    "keywords": [
+      "devastating defeat",
+      "Battle of Panipat",
+      "resilience",
+      "Peshwa Madhavrao I",
+      "Mahadji Shinde",
+      "recaptured Delhi"
+    ],
+    "explanation": "Unlike other empires that collapsed after a major defeat, the decentralized nature of Maratha leadership allowed rapid recovery. Found on page 70.",
+    "page_number": "70"
+  },
+  {
+    "id": 59,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Describe the judicial system of the Marathas.",
+    "answer": "The Maratha judicial system was highly efficient and particularly known for its moderation, rarely using capital punishment. At the local village level, justice was delivered by the panchayat, a gathering of officials and prominent men. If a person was unhappy with the verdict, they could appeal to a higher Maratha chief. Additionally, in important towns, officers called kotwals were deployed to maintain strict law and order.",
+    "keywords": [
+      "efficient",
+      "moderation in capital punishment",
+      "panchayat",
+      "appeal to chief",
+      "kotwals",
+      "law and order"
+    ],
+    "explanation": "The system connected local decision-making with higher central authority, ensuring fair justice. Described on pages 75-76.",
+    "page_number": "75-76"
+  },
+  {
+    "id": 60,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Evaluate Chhatrapati Shivaji's civil administration. What made it efficient?",
+    "answer": "Shivaji established a highly centralized and structured civil administration. To prevent nobles from becoming too powerful, he abolished hereditary land assignments (jagirdari) and paid all officials regular cash salaries from the state treasury. He periodically transferred officials to break local monopolies. Furthermore, he appointed the Ashta Pradhana Mandala—a council of eight ministers—where each minister managed specific departments like finance and military, making the administration organized, accountable, and highly efficient.",
+    "keywords": [
+      "centralized administration",
+      "abolished hereditary posts",
+      "regular cash salaries",
+      "transferred periodically",
+      "Ashta Pradhana Mandala",
+      "accountable"
+    ],
+    "explanation": "This modern approach prevented the feudal fragmentation that often destroyed other Indian kingdoms. Discussed on page 71.",
+    "page_number": "71"
+  },
+  {
+    "id": 61,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "How did the Maratha system of collecting chauth and sardeshmukhi function as a protection arrangement?",
+    "answer": "The Marathas collected chauth (25% of revenue) and sardeshmukhi (an additional 10%) from provinces that were outside their direct territorial rule, such as parts of Mughal India. In return for these payments, the Marathas provided military protection to those regions against foreign attacks. Crucially, they did not interfere in the internal governance of those provinces, functioning more as a regional protective overlord rather than a direct administrative conqueror.",
+    "keywords": [
+      "chauth",
+      "sardeshmukhi",
+      "outside direct rule",
+      "military protection",
+      "no interference",
+      "internal governance"
+    ],
+    "explanation": "This taxation strategy allowed rapid financial gain and political influence without the burden of day-to-day administration. Detailed on page 73.",
+    "page_number": "73"
+  },
+  {
+    "id": 62,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Describe the trade networks and infrastructure maintained by the Marathas.",
+    "answer": "Chhatrapati Shivaji actively encouraged both domestic and maritime foreign trade. The state owned its own merchant ships, regularly sending them with cargo like gold and textiles to distant ports such as Mocha (Yemen), Muscat (Oman), and Malacca (Malaysia). Domestically, the Marathas constructed and maintained an extensive network of roads. They also built bridges over rivers and maintained ferry networks for smooth riverine transport across regions like Odisha.",
+    "keywords": [
+      "maritime foreign trade",
+      "state-owned ships",
+      "distant ports",
+      "constructed roads",
+      "bridges",
+      "ferry networks"
+    ],
+    "explanation": "Strong trade and infrastructure were necessary to sustain the growing economy of Swarajya. Mentioned on page 76.",
+    "page_number": "76"
+  },
+  {
+    "id": 63,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "Explain how Chhatrapati Shivaji's royal seal reflected his vision of Swarajya and independence.",
+    "answer": "Unlike prevalent seals of the time which were inscribed in Persian, Shivaji's royal seal was intentionally inscribed in Sanskrit, marking a clear departure from foreign cultural dominance. The seal proclaimed that his authority \"waxes like the new moon\" and is \"revered by the world.\" Importantly, it stated that his reign was strictly for the \"welfare of the people.\" This perfectly symbolized his vision of Swarajya—cultural pride, absolute independence, and benevolent rule.",
+    "keywords": [
+      "inscribed in Sanskrit",
+      "departure from Persian",
+      "waxes like new moon",
+      "welfare of the people",
+      "cultural pride",
+      "benevolent rule"
+    ],
+    "explanation": "The seal was a powerful diplomatic and cultural statement of Maratha sovereignty. Discussed on page 76.",
+    "page_number": "76"
+  },
+  {
+    "id": 64,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Discuss the significance of Chhatrapati Shivaji commissioning the Rajya-Vyavahara-Kosha and promoting Sanskrit.",
+    "answer": "Shivaji sought to revive ancient Indian culture and remove foreign linguistic dominance from state affairs. He commissioned the Rajya-Vyavahara-Kosha, a detailed treatise that provided Sanskrit equivalents for all the prevalent Persian terms used in diplomacy and administration. This initiative successfully decreased the percentage of foreign loanwords in Maratha records. By promoting Sanskrit and Marathi, Shivaji strengthened the cultural identity of his empire and asserted true intellectual independence from the Sultanates.",
+    "keywords": [
+      "Rajya-Vyavahara-Kosha",
+      "Sanskrit equivalents",
+      "Persian terms",
+      "decreased foreign loanwords",
+      "cultural identity",
+      "intellectual independence"
+    ],
+    "explanation": "Linguistic independence was viewed as a crucial pillar of true Swarajya alongside military independence. Found on page 76.",
+    "page_number": "76"
+  },
+  {
+    "id": 65,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "Evaluate the role of Ahilyabai Holkar in governance and public welfare.",
+    "answer": "Ahilyabai Holkar was an exceptional ruler who governed the Indore state wisely for thirty years after losing her husband and son. She focused entirely on public welfare and religious revival. She built and restored hundreds of temples, wells, ghats, and roads across India, most famously rebuilding the Kashi Vishwanath and Somnath temples. Furthermore, she heavily promoted local arts, particularly revitalizing the Maheshwar handloom weaving industry, leaving a lasting socio-economic legacy.",
+    "keywords": [
+      "governed wisely",
+      "public welfare",
+      "restored temples",
+      "Kashi Vishwanath",
+      "Somnath",
+      "Maheshwar weaving industry"
+    ],
+    "explanation": "Her reign is remembered as a golden era of peace, religious devotion, and administrative stability. Detailed on page 77.",
+    "page_number": "77"
+  },
+  {
+    "id": 66,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Compare the contributions of Tarabai and Ahilyabai Holkar to the Maratha Empire.",
+    "answer": "Both women were remarkable leaders but contributed differently. Tarabai was a fearless military strategist. When the empire was near collapse, she organized armies, outsmarted Aurangzeb, and pioneered the northward expansion, thereby saving Maratha independence. In contrast, Ahilyabai Holkar excelled in peaceful governance and public welfare. She focused on rebuilding the nation's infrastructure, restoring major Hindu temples across India, and boosting the economy through industries like Maheshwar weaving. One defended the empire; the other enriched it.",
+    "keywords": [
+      "Tarabai",
+      "military strategist",
+      "northward expansion",
+      "Ahilyabai Holkar",
+      "peaceful governance",
+      "rebuilding infrastructure",
+      "restoring temples"
+    ],
+    "explanation": "Comparing their reigns shows the diverse forms of leadership that strengthened the Maratha state. Discussed on page 77.",
+    "page_number": "77"
+  },
+  {
+    "id": 67,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Describe Serfoji II's contributions to medicine and printing.",
+    "answer": "Serfoji II of Thanjavur was highly interested in science and public welfare. He established the Dhanwantari Mahal, an innovative medical centre where people received free treatment integrating both Indian and Western systems of medicine. Recognizing the power of mass communication, he also set up a printing press. This was the first such printing press established by a native Indian ruler, greatly helping in the spread and preservation of literature.",
+    "keywords": [
+      "Serfoji II",
+      "Dhanwantari Mahal",
+      "free treatment",
+      "Indian and Western medicine",
+      "printing press",
+      "native Indian ruler"
+    ],
+    "explanation": "His openness to Western technology and medicine while preserving Indian traditions made Thanjavur a major intellectual hub. Described on page 79.",
+    "page_number": "79"
+  },
+  {
+    "id": 68,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 85
+    },
+    "question": "Discuss the cultural and intellectual legacy of the Thanjavur Marathas.",
+    "answer": "The Thanjavur Marathas, beginning with Ekoji, created a vibrant syncretic culture by freely mixing Marathi, Tamil, and Telugu traditions. Rulers like Serfoji II were great patrons of the arts and intellectuals themselves. During their reign, modern Carnatic music and the classical dance form of Bharatanatyam took shape. They established the Dhanwantari Mahal for medicine, started native printing presses, and inscribed Maratha history on the Brihadishwara temple, leaving a massive intellectual legacy.",
+    "keywords": [
+      "syncretic culture",
+      "Marathi, Tamil, Telugu",
+      "Carnatic music",
+      "Bharatanatyam",
+      "medicine",
+      "printing presses"
+    ],
+    "explanation": "The southern Maratha kingdom became famous for its peaceful cultural synthesis rather than just military conquest. Found on pages 78-80.",
+    "page_number": "78-80"
+  },
+  {
+    "id": 69,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 85
+    },
+    "question": "Analyze the overall legacy of the Maratha Empire in Indian history.",
+    "answer": "The Marathas shattered Mughal dominance and established the largest pan-Indian empire before British rule, controlling central and northern India. They introduced efficient, centralized administration based on salaries rather than feudal land grants. Culturally, they revived Hindu traditions, rebuilt desecrated temples, and promoted local languages without religious discrimination. Most importantly, their fierce resistance against foreign rule was driven by the ideal of Swarajya, planting the early ideological seeds for India's modern freedom movement.",
+    "keywords": [
+      "shattered Mughal dominance",
+      "largest pan-Indian empire",
+      "efficient administration",
+      "revived Hindu traditions",
+      "ideal of Swarajya",
+      "freedom movement"
+    ],
+    "explanation": "Their legacy is not just territorial but ideological, providing a blueprint for self-rule. Summarized on page 80.",
+    "page_number": "80"
+  },
+  {
+    "id": 70,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "The British took India from the Marathas more than from the Mughals. Justify this statement.",
+    "answer": "By the late 18th century, the Mughal Empire had essentially collapsed, existing only in name. The Marathas had expanded to become the paramount power, controlling vast territories from the Deccan up to Delhi and Peshawar. When the British East India Company sought to conquer India, their chief rivals were not the Mughals, but the Marathas. It took the British three major Anglo-Maratha wars (1775-1818) to finally defeat them and seize control of the subcontinent.",
+    "keywords": [
+      "Mughal Empire collapsed",
+      "paramount power",
+      "chief rivals",
+      "three Anglo-Maratha wars",
+      "seize control"
+    ],
+    "explanation": "The Marathas were the de facto rulers of India prior to British colonization. Discussed on page 70.",
+    "page_number": "70"
+  },
+  {
+    "id": 71,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 90
+    },
+    "question": "Describe the changes in the structure of the Maratha state from the time of Shivaji to the era of the Peshwas.",
+    "answer": "Under Shivaji, the Maratha administration was highly centralized. The Chhatrapati held absolute power, abolished hereditary posts, and strictly controlled officials via direct salaries and transfers. However, after his death, the state expanded rapidly and structure changed. Under the Peshwas, the state became highly decentralized. Regional military chiefs (like Scindias and Holkars) gained massive power, autonomy, and hereditary lands. While this allowed pan-Indian expansion, it eventually caused internal disunity and indiscipline, weakening the empire.",
+    "keywords": [
+      "highly centralized",
+      "abolished hereditary posts",
+      "state became decentralized",
+      "Peshwas",
+      "regional military chiefs",
+      "autonomy",
+      "internal disunity"
+    ],
+    "explanation": "The shift from a centralized kingdom to a loose confederacy was key to both their rapid expansion and eventual fall. Mentioned on pages 69-70.",
+    "page_number": "69-70"
+  },
+  {
+    "id": 72,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "How did the Marathas contribute to India's cultural revival? Give three examples.",
+    "answer": "First, they actively promoted Sanskrit and Marathi, reducing Persian influence by commissioning works like the Rajya-Vyavahara-Kosha. Second, rulers like Ahilyabai Holkar devoted resources to rebuilding major desecrated Hindu temples across India, such as the Kashi Vishwanath. Third, the Thanjavur Marathas heavily patronised the performing arts, which directly contributed to the shaping of modern Carnatic music and the classical dance form of Bharatanatyam.",
+    "keywords": [
+      "promoted Sanskrit and Marathi",
+      "Rajya-Vyavahara-Kosha",
+      "rebuilding temples",
+      "Kashi Vishwanath",
+      "Thanjavur Marathas",
+      "Carnatic music",
+      "Bharatanatyam"
+    ],
+    "explanation": "The Maratha revival extended across language, religion, and arts. Discussed on pages 76-79.",
+    "page_number": "76-79"
+  },
+  {
+    "id": 73,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "What event during Shivaji's time resembles the modern-day surgical strike? Explain the incident.",
+    "answer": "The night raid on the Mughal nobleman Shaista Khan resembles a modern surgical strike. Shaista Khan had invaded and occupied Shivaji's territory with a massive army for three years. In response, Shivaji infiltrated the heavily guarded Mughal camp at night with only a few select soldiers. He executed a rapid, highly targeted attack where Shaista Khan barely escaped, lost a few fingers, and was forced to promptly flee Maharashtra.",
+    "keywords": [
+      "night raid",
+      "Shaista Khan",
+      "surgical strike",
+      "infiltrated",
+      "targeted attack",
+      "flee Maharashtra"
+    ],
+    "explanation": "This daring mission showcased the effectiveness of small, specialized units striking deep into enemy territory. Described on page 66.",
+    "page_number": "66"
+  },
+  {
+    "id": 74,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Explain the roles of the panchayat and the kotwal in the Maratha administration.",
+    "answer": "In the Maratha judicial and administrative framework, the panchayat acted as the principal judicial body in the villages. It was a local gathering of prominent men and officials who heard disputes and delivered justice. On the other hand, the kotwal was a designated police officer deployed specifically in important towns and cities to strictly maintain law, order, and urban security.",
+    "keywords": [
+      "panchayat",
+      "judicial body",
+      "villages",
+      "delivered justice",
+      "kotwal",
+      "police officer",
+      "maintain law and order"
+    ],
+    "explanation": "These two institutions formed the backbone of local governance and civilian justice under the Marathas. Found on pages 75-76.",
+    "page_number": "75-76"
+  },
+  {
+    "id": 75,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Describe the composition of the Maratha armed forces, specifically focusing on the cavalry.",
+    "answer": "The Maratha armed forces were comprehensively divided into three main branches: the infantry, the navy, and the cavalry. The cavalry, which was crucial for their mobile warfare, was split into two types of soldiers. The 'bargirs' were soldiers whose horses and military equipment were paid for and provided by the state. The 'shiledars' were independent soldiers who purchased and maintained their own horses and equipment.",
+    "keywords": [
+      "infantry, navy, cavalry",
+      "bargirs",
+      "paid by the state",
+      "shiledars",
+      "maintained their own horses"
+    ],
+    "explanation": "The cavalry was the backbone of Maratha guerrilla tactics, allowing rapid movement across the Deccan. Discussed on page 73.",
+    "page_number": "73"
+  },
+  {
+    "id": 76,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Discuss the diplomatic relations and confrontations the Marathas had with European powers at sea.",
+    "answer": "The Marathas aggressively challenged European naval supremacy along the west coast. Under commanders like Kanhoji Angre, they defeated European fleets using clever geography and tactics. While Europeans violently forced Indians to purchase naval trade passes (cartaz), the Marathas rejected this. They flipped the dynamic by demanding passes from the Europeans themselves. When Europeans refused, Maratha ships attacked and confiscated their vessels, frustrating Europeans who labelled Angre a 'pirate'.",
+    "keywords": [
+      "challenged European naval supremacy",
+      "Kanhoji Angre",
+      "trade passes",
+      "cartaz",
+      "demanding passes",
+      "confiscated vessels"
+    ],
+    "explanation": "The Marathas were the only Indian power of the time to successfully counter European maritime bullying. Detailed on page 74.",
+    "page_number": "74"
+  },
+  {
+    "id": 77,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "How did Shivaji demonstrate care for his soldiers and their families? Give examples from his civil administration.",
+    "answer": "Shivaji's administration treated the military with great respect and compassion. Unlike previous rulers who paid through temporary land grants, Shivaji ensured that all soldiers and officials received regular, direct salaries in cash from the state treasury. Furthermore, he established a welfare system where he provided state pensions to the widows of soldiers who died in battle, and often offered military posts to their sons to secure their families' future.",
+    "keywords": [
+      "regular salaries",
+      "state treasury",
+      "pensions",
+      "widows of soldiers",
+      "military posts for sons",
+      "welfare system"
+    ],
+    "explanation": "This care ensured deep loyalty from his troops, making the Maratha army a dedicated fighting force. Discussed on page 71.",
+    "page_number": "71"
+  },
+  {
+    "id": 78,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "hard",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 90
+    },
+    "question": "Trace the rise and expansion of the Maratha Empire from the 17th to the 18th century.",
+    "answer": "In the 17th century, Shivaji founded the empire by capturing Deccan forts, developing a navy, and utilizing guerrilla warfare to establish an independent Swarajya against the Mughals. After his death, despite Aurangzeb's massive invasion, leaders like Tarabai defended the realm. In the 18th century, the Peshwas took over. They decentralized the military and launched aggressive pan-Indian expansions, capturing territories up to Peshawar and Delhi, transforming the regional Maratha kingdom into the subcontinent's dominant imperial power.",
+    "keywords": [
+      "capturing Deccan forts",
+      "Swarajya",
+      "Tarabai defended",
+      "Peshwas",
+      "pan-Indian expansions",
+      "dominant imperial power"
+    ],
+    "explanation": "This traces the evolution of the state from a regional rebel force to a continental empire. Summarized across pages 64-70.",
+    "page_number": "64-70"
+  },
+  {
+    "id": 79,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "medium",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "What was the impact of the three Anglo-Maratha Wars on the Maratha power?",
+    "answer": "The three Anglo-Maratha Wars, fought between 1775 and 1818, proved catastrophic for the Maratha Empire. By this time, the Marathas were plagued by severe internal disunity among regional chiefs. Facing the superior organizational and technological abilities of the British military, the Marathas suffered decisive defeats. This resulted in the complete collapse of Maratha political power, allowing the British to take total control over India.",
+    "keywords": [
+      "Anglo-Maratha Wars",
+      "internal disunity",
+      "superior organizational abilities",
+      "technological abilities",
+      "collapse of power",
+      "British control"
+    ],
+    "explanation": "These wars marked the transition of power in India from the Marathas to the British Empire. Mentioned on page 70.",
+    "page_number": "70"
+  },
+  {
+    "id": 80,
+    "subject": "Social Science",
+    "chapter": "The Rise of the Marathas-QA-v1",
+    "difficulty": "easy",
+    "question_type": "descriptive",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "How did the cultural environment of Thanjavur interact with the Maratha culture under their rule?",
+    "answer": "Thanjavur already possessed a rich, multilingual environment before the Marathas arrived. When the Marathas took over, they did not suppress local cultures. Instead, the native Tamil culture, the Telugu culture left by the former Nayak rulers, and the new Marathi culture interacted freely. This peaceful synthesis created a highly syncretic culture, leading to immense innovations and patronage in arts, literature, dance (Bharatanatyam), and music (Carnatic).",
+    "keywords": [
+      "multilingual environment",
+      "Tamil culture",
+      "Telugu culture",
+      "Marathi culture",
+      "syncretic culture",
+      "innovations in arts"
+    ],
+    "explanation": "The Thanjavur Marathas are celebrated for blending their culture with South Indian traditions rather than overwriting them. Discussed on page 80.",
+    "page_number": "80"
+  }
+]
+```
