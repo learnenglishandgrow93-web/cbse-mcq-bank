@@ -1,0 +1,1757 @@
+[
+  {
+    "id": 1,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is a phenomenon as defined in the text?",
+    "answer": "A phenomenon is defined as an unusual or interesting natural event.",
+    "keywords": [
+      "unusual",
+      "interesting",
+      "natural event"
+    ],
+    "explanation": "This question tests the vocabulary definition provided in the Vocabulary Builder section of the learning resource.",
+    "page_number": "1"
+  },
+  {
+    "id": 2,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "In which Indian state is the Valley of Flowers located?",
+    "answer": "The Valley of Flowers is located in the state of Uttarakhand.",
+    "keywords": [
+      "Valley of Flowers",
+      "Uttarakhand"
+    ],
+    "explanation": "This factual question asks for the location of the botanical wonderland mentioned in the textbook.",
+    "page_number": "138"
+  },
+  {
+    "id": 3,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What are the living root bridges of Meghalaya made of?",
+    "answer": "The living root bridges are made of intertwined roots of local flora.",
+    "keywords": [
+      "intertwined",
+      "roots",
+      "local flora"
+    ],
+    "explanation": "The text explains that indigenous people intertwine roots to create these durable bridges.",
+    "page_number": "139"
+  },
+  {
+    "id": 4,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Where is the Lonar Crater Lake situated?",
+    "answer": "Lonar Crater Lake is situated in the Buldhana district of Maharashtra.",
+    "keywords": [
+      "Buldhana district",
+      "Maharashtra"
+    ],
+    "explanation": "This assesses basic factual recall regarding the location of the geological wonder.",
+    "page_number": "139"
+  },
+  {
+    "id": 5,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What type of illusion occurs at Magnetic Hill in Ladakh?",
+    "answer": "An optical illusion occurs where vehicles appear to roll uphill, defying gravity.",
+    "keywords": [
+      "optical illusion",
+      "roll uphill",
+      "defying gravity"
+    ],
+    "explanation": "The textbook describes Magnetic Hill as a place where gravity seems to take a backseat due to an optical illusion.",
+    "page_number": "140"
+  },
+  {
+    "id": 6,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What causes the water to glow in Kumbalangi village?",
+    "answer": "The glowing water is caused by bioluminescence due to a high concentration of micro-planktons.",
+    "keywords": [
+      "bioluminescence",
+      "micro-planktons"
+    ],
+    "explanation": "The text explains the biological science behind the glowing waters of Kerala.",
+    "page_number": "140"
+  },
+  {
+    "id": 7,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Name the rivers that form the delta where the Sundarbans lie.",
+    "answer": "The Sundarbans lie in the delta of the Ganga, Brahmaputra, and Meghna rivers.",
+    "keywords": [
+      "Ganga",
+      "Brahmaputra",
+      "Meghna"
+    ],
+    "explanation": "This identifies the major river systems contributing to the Sundarbans mangrove forest.",
+    "page_number": "141"
+  },
+  {
+    "id": 8,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "What is unique about Chandipur Beach in Odisha?",
+    "answer": "Chandipur Beach is known for its disappearing sea, where water retreats by 2 to 5 kilometres during ebb tide.",
+    "keywords": [
+      "disappearing sea",
+      "retreats",
+      "ebb tide"
+    ],
+    "explanation": "Tests the unique identifying feature of Chandipur Beach as mentioned in the textbook.",
+    "page_number": "141"
+  },
+  {
+    "id": 9,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Why did bamboo and wooden bridges fail in Meghalaya?",
+    "answer": "They proved futile because they could not last long in heavy rains and strong water currents.",
+    "keywords": [
+      "futile",
+      "heavy rains",
+      "strong currents"
+    ],
+    "explanation": "Understanding the problem that led indigenous people to create living root bridges.",
+    "page_number": "139"
+  },
+  {
+    "id": 10,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What is an ebb tide?",
+    "answer": "An ebb tide is the period of time when water flows away from the shore, going backwards.",
+    "keywords": [
+      "period of time",
+      "flows away",
+      "backwards"
+    ],
+    "explanation": "Tests vocabulary understanding from the context of the Chandipur Beach section.",
+    "page_number": "141"
+  },
+  {
+    "id": 11,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Name two rare fauna species found in the Valley of Flowers.",
+    "answer": "Two rare fauna species found there are the snow leopard and the flying squirrel.",
+    "keywords": [
+      "snow leopard",
+      "flying squirrel"
+    ],
+    "explanation": "Assesses recall of specific wildlife details from the Valley of Flowers section.",
+    "page_number": "138"
+  },
+  {
+    "id": 12,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "Identify the participle in the following sentence: 'The glowing waves created a magical atmosphere.'",
+    "answer": "The participle in the sentence is 'glowing', functioning as an adjective describing the waves.",
+    "keywords": [
+      "glowing",
+      "participle",
+      "adjective"
+    ],
+    "explanation": "Grammar application question identifying a present participle from a given sentence.",
+    "page_number": "1"
+  },
+  {
+    "id": 13,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Correct the gerund error in this sentence: 'He enjoyed to explore the disappearing beach.'",
+    "answer": "The corrected sentence is: 'He enjoyed exploring the disappearing beach.'",
+    "keywords": [
+      "exploring",
+      "enjoyed"
+    ],
+    "explanation": "Tests grammar skills regarding the correct usage of gerunds after certain verbs like 'enjoy'.",
+    "page_number": "1"
+  },
+  {
+    "id": 14,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What is the scientific driver behind the Lonar Crater Lake?",
+    "answer": "The scientific driver is a geological celestial impact caused by a colossal meteorite.",
+    "keywords": [
+      "geological",
+      "celestial impact",
+      "meteorite"
+    ],
+    "explanation": "Identifies the core scientific reason for the natural wonder's formation based on the infographic.",
+    "page_number": "10"
+  },
+  {
+    "id": 15,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Why is Abraham Lake in Canada considered 'artificial'?",
+    "answer": "It is considered artificial because it was created by humans in 1972 and not formed naturally.",
+    "keywords": [
+      "created by humans",
+      "not formed naturally",
+      "1972"
+    ],
+    "explanation": "Tests reading comprehension of the infographic detailing Abraham Lake's origins.",
+    "page_number": "4"
+  },
+  {
+    "id": 16,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Identify the gerund in the sentence: 'Walking on the beach was exciting.'",
+    "answer": "The gerund in the sentence is 'Walking', which acts as the subject.",
+    "keywords": [
+      "Walking",
+      "gerund",
+      "subject"
+    ],
+    "explanation": "Grammar concept testing identification of a gerund functioning as a noun.",
+    "page_number": "1"
+  },
+  {
+    "id": 17,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Explain the meaning of the binomial 'odds and ends'.",
+    "answer": "The binomial 'odds and ends' refers to small, unimportant things or various miscellaneous items.",
+    "keywords": [
+      "small",
+      "unimportant things",
+      "miscellaneous items"
+    ],
+    "explanation": "Tests vocabulary knowledge of specific idiomatic binomial phrases taught in the chapter.",
+    "page_number": "145"
+  },
+  {
+    "id": 18,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Rewrite the following using a gerund: 'People cross the bridges. It is difficult during monsoons.'",
+    "answer": "Crossing the bridges is difficult during monsoons.",
+    "keywords": [
+      "Crossing",
+      "difficult",
+      "monsoons"
+    ],
+    "explanation": "Assesses the ability to synthesize sentences by transforming a verb into a gerund subject.",
+    "page_number": "1"
+  },
+  {
+    "id": 19,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What does the term 'mystique' mean in the context of India's natural landscapes?",
+    "answer": "It refers to an aura of mystery, awe, and enigmatic charm surrounding these unique natural places.",
+    "keywords": [
+      "mystery",
+      "awe",
+      "enigmatic charm"
+    ],
+    "explanation": "Checks deep vocabulary understanding based on contextual usage at the end of the chapter.",
+    "page_number": "142"
+  },
+  {
+    "id": 20,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What is meant by the phrase 'tangible UNESCO world heritage site' regarding Meghalaya's bridges?",
+    "answer": "It means the bridges are physically noticeable and recognized globally by UNESCO for their cultural and ecological value.",
+    "keywords": [
+      "physically noticeable",
+      "recognized globally",
+      "cultural and ecological value"
+    ],
+    "explanation": "Requires understanding the word 'tangible' and its application to global heritage sites.",
+    "page_number": "138"
+  },
+  {
+    "id": 21,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Find the antonym for the word 'chaotic' based on the vocabulary map.",
+    "answer": "The antonym for 'chaotic' is 'serene', which means calm and peaceful.",
+    "keywords": [
+      "serene",
+      "calm",
+      "peaceful"
+    ],
+    "explanation": "Tests retention of vocabulary maps provided in the exercise workbook.",
+    "page_number": "2"
+  },
+  {
+    "id": 22,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What is the scientific driver for the phenomenon at Chandipur Beach?",
+    "answer": "The scientific driver is hydrological, resulting in an extreme tidal ebb.",
+    "keywords": [
+      "hydrological",
+      "extreme tidal ebb"
+    ],
+    "explanation": "Checks ability to extract scientific classification information from the 'Architecture of Nature' table.",
+    "page_number": "10"
+  },
+  {
+    "id": 23,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "Complete the analogy based on the text: spark : imagination :: awe-inspiring : _________.",
+    "answer": "spark : imagination :: awe-inspiring : wonder (or amazement).",
+    "keywords": [
+      "wonder",
+      "amazement"
+    ],
+    "explanation": "Tests analytical reading and similarity completion based on the comprehension exercises.",
+    "page_number": "143"
+  },
+  {
+    "id": 24,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What grammatical form is 'crossing' in the phrase 'Crossing the many waterways... was difficult'?",
+    "answer": "It is a gerund, acting as a noun serving as the subject of the sentence.",
+    "keywords": [
+      "gerund",
+      "noun",
+      "subject"
+    ],
+    "explanation": "Advanced grammatical identification of gerunds serving as sentence subjects.",
+    "page_number": "147"
+  },
+  {
+    "id": 25,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why is the Valley of Flowers described as a 'botanical wonderland'?",
+    "answer": "It is described this way because it boasts around 600 species of exotic flowers blooming in full glory against a mountainous backdrop, offering a stunning and colourful landscape.",
+    "keywords": [
+      "600 species",
+      "exotic flowers",
+      "full glory",
+      "mountainous backdrop"
+    ],
+    "explanation": "Students must recall the specific details that make the valley 'botanical' and wondrous.",
+    "page_number": "138"
+  },
+  {
+    "id": 26,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Describe the visual contrast seen at Lonar Crater Lake.",
+    "answer": "The lake creates a striking visual contrast because its perfectly circular depression cradles a serene saline lake at its core, set against a rough, rugged terrestrial terrain.",
+    "keywords": [
+      "striking visual contrast",
+      "circular depression",
+      "saline lake",
+      "rugged terrain"
+    ],
+    "explanation": "Asks for the descriptive details of the Lonar crater as highlighted in the text.",
+    "page_number": "139"
+  },
+  {
+    "id": 27,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How does Magnetic Hill trick the eyes of visitors?",
+    "answer": "Magnetic Hill creates an optical illusion caused by the peculiar alignment of surrounding slopes and an obscured horizon line, making vehicles appear to roll uphill on their own.",
+    "keywords": [
+      "optical illusion",
+      "alignment of slopes",
+      "obscured horizon",
+      "roll uphill"
+    ],
+    "explanation": "Tests the understanding of the optical phenomenon at Magnetic Hill.",
+    "page_number": "140"
+  },
+  {
+    "id": 28,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What makes Kumbalangi a thriving eco-tourism village?",
+    "answer": "Kumbalangi features magical bioluminescent waters at night. This beautiful sight captures attention, allowing tourists to experience simple village life, sustainable culture, and local cuisine.",
+    "keywords": [
+      "bioluminescent waters",
+      "village life",
+      "sustainable culture",
+      "local cuisine"
+    ],
+    "explanation": "Explains the connection between a natural phenomenon and its positive impact on local tourism.",
+    "page_number": "140"
+  },
+  {
+    "id": 29,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How do mangrove roots help protect the coastline in the Sundarbans?",
+    "answer": "Mangrove roots grow intricately underwater in low-oxygen soil. They slow down the movement of tidal waters, which stabilises the coastline and significantly reduces soil erosion.",
+    "keywords": [
+      "intricately underwater",
+      "slow down tidal waters",
+      "stabilises coastline",
+      "reduces erosion"
+    ],
+    "explanation": "Focuses on the ecological function of the Sundarbans as protectors of the coast.",
+    "page_number": "141"
+  },
+  {
+    "id": 30,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What is unique about the daily tides at Chandipur Beach?",
+    "answer": "The sea water completely disappears from sight, retreating backward by 2 to 5 kilometres during ebb tide, exposing the ocean floor before rushing back at high tide.",
+    "keywords": [
+      "disappears",
+      "retreating backward",
+      "2 to 5 kilometres",
+      "ocean floor"
+    ],
+    "explanation": "Describes the extreme hydrological phenomenon observed at Chandipur Beach.",
+    "page_number": "141"
+  },
+  {
+    "id": 31,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Why is Abraham Lake in Canada described as 'artificial'?",
+    "answer": "Abraham Lake is described as artificial because it was not formed naturally by geological processes but was entirely created by human intervention in 1972.",
+    "keywords": [
+      "not formed naturally",
+      "created by human intervention",
+      "1972"
+    ],
+    "explanation": "Comprehension check from the visual infographic section regarding Abraham Lake.",
+    "page_number": "4"
+  },
+  {
+    "id": 32,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "State the safety precaution mentioned for visitors at Abraham Lake and explain why it is necessary.",
+    "answer": "Visitors are strictly advised not to light matches or candles on the ice. This is necessary because the trapped ice bubbles contain methane gas, which is highly flammable.",
+    "keywords": [
+      "not to light matches",
+      "methane gas",
+      "highly flammable"
+    ],
+    "explanation": "Combines detail extraction with reasoning based on the safety note in the Abraham Lake infographic.",
+    "page_number": "4"
+  },
+  {
+    "id": 33,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Differentiate between a present participle and a past participle giving an example of each.",
+    "answer": "Present participles end in '-ing' (e.g., 'striking', 'living') and describe ongoing actions. Past participles end in '-ed', '-en', or '-t' (e.g., 'rugged', 'hidden') and describe completed actions.",
+    "keywords": [
+      "-ing",
+      "ongoing actions",
+      "-ed",
+      "completed actions"
+    ],
+    "explanation": "Grammar differentiation task requiring definitions and examples directly from the Grammar Corner.",
+    "page_number": "146"
+  },
+  {
+    "id": 34,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why are the living root bridges of Meghalaya considered a sustainable solution?",
+    "answer": "They are sustainable because they grow naturally from local flora, intertwining to create a self-strengthening ecosystem. Unlike modern materials, they do not harm the environment and last for centuries.",
+    "keywords": [
+      "grow naturally",
+      "local flora",
+      "self-strengthening",
+      "do not harm environment"
+    ],
+    "explanation": "Assesses the environmental and practical value of indigenous engineering discussed in the text.",
+    "page_number": "3"
+  },
+  {
+    "id": 35,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "How does knowing the scientific explanation of a natural phenomenon affect a person's sense of wonder according to the text?",
+    "answer": "Knowing the scientific explanation does not reduce wonder; instead, it increases it. It helps us appreciate the complexity of natural processes and deepens our curiosity and respect for nature.",
+    "keywords": [
+      "does not reduce",
+      "increases it",
+      "appreciate complexity",
+      "deepens curiosity"
+    ],
+    "explanation": "Comprehension question focusing on the thematic message of 'Beyond the Spectacle'.",
+    "page_number": "3"
+  },
+  {
+    "id": 36,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Combine these sentences using a present participle: 'The tourists saw the falling rocks. They were shocked.'",
+    "answer": "Seeing the falling rocks, the tourists were shocked.",
+    "keywords": [
+      "Seeing",
+      "falling rocks",
+      "shocked"
+    ],
+    "explanation": "Practical application of grammar rules for combining sentences using participles.",
+    "page_number": "1"
+  },
+  {
+    "id": 37,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What diverse flora and fauna make the Sundarbans a unique ecosystem?",
+    "answer": "The Sundarbans are rich in flora like plentiful sundari trees in mangrove forests. The fauna includes the majestic Bengal tiger, estuarine crocodile, Indian python, and various bird species.",
+    "keywords": [
+      "sundari trees",
+      "mangrove forests",
+      "Bengal tiger",
+      "estuarine crocodile"
+    ],
+    "explanation": "Factual recall of the biodiversity specific to the Sundarbans area.",
+    "page_number": "141"
+  },
+  {
+    "id": 38,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "What challenges might local fishermen face due to the disappearing sea at Chandipur Beach?",
+    "answer": "Fishermen may struggle to plan work because the unpredictable retreat and return of tides affects fishing schedules. Sudden water return can also pose severe safety risks.",
+    "keywords": [
+      "struggle to plan",
+      "unpredictable retreat",
+      "fishing schedules",
+      "safety risks"
+    ],
+    "explanation": "Inferential comprehension question asking for practical impacts of a natural phenomenon.",
+    "page_number": "3"
+  },
+  {
+    "id": 39,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Explain how methane bubbles are formed in Abraham Lake.",
+    "answer": "Plants and organic matter decay underwater, releasing methane gas. As the methane rises upward, the lake surface freezes in extremely low temperatures, trapping the gas as bubbles in ice.",
+    "keywords": [
+      "decay underwater",
+      "releasing methane",
+      "rises upward",
+      "freezes",
+      "trapping"
+    ],
+    "explanation": "Summarization of the step-by-step scientific process of bubble formation shown in the visual text.",
+    "page_number": "4"
+  },
+  {
+    "id": 40,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "Use the binomials 'part and parcel' and 'pick and choose' in two separate sentences.",
+    "answer": "1. Making mistakes is part and parcel of learning a new language. 2. The buffet had so many dishes that we could just pick and choose our favourites.",
+    "keywords": [
+      "part and parcel",
+      "pick and choose",
+      "sentences"
+    ],
+    "explanation": "Assesses vocabulary application using specific binomials taught in the chapter.",
+    "page_number": "145"
+  },
+  {
+    "id": 41,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How does the phenomenon at Magnetic Hill defy gravity according to local perception?",
+    "answer": "Local perception believes it defies gravity because when vehicles are parked in a designated white box on the Magnetic Road, they appear to roll uphill at speeds up to 20km/h on their own.",
+    "keywords": [
+      "defy gravity",
+      "parked in a designated white box",
+      "roll uphill",
+      "20km/h"
+    ],
+    "explanation": "Tests the student's ability to explain the 'mystique' or folklore side of the Magnetic Hill phenomenon.",
+    "page_number": "140"
+  },
+  {
+    "id": 42,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Combine these sentences using a gerund: 'She slept for eight hours. It is good for health.'",
+    "answer": "Sleeping for eight hours is good for health.",
+    "keywords": [
+      "Sleeping",
+      "eight hours",
+      "good for health"
+    ],
+    "explanation": "Tests grammatical competence in combining sentences by turning a finite verb into a gerund.",
+    "page_number": "148"
+  },
+  {
+    "id": 43,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Analyze why the writer uses introductory questions in the text, such as before introducing Chandipur Beach.",
+    "answer": "The writer uses introductory questions to hook the reader's attention, engage their curiosity, and create a sense of suspense about the unusual and mystifying natural phenomenon that follows.",
+    "keywords": [
+      "hook attention",
+      "engage curiosity",
+      "sense of suspense",
+      "mystifying"
+    ],
+    "explanation": "This requires analytical thinking about literary devices and author's purpose.",
+    "page_number": "143"
+  },
+  {
+    "id": 44,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Why were attempts to use bamboo or wooden bridges across Meghalaya's waterways futile, and what replaced them?",
+    "answer": "They were futile because heavy rains and strong currents consistently washed them away. They were replaced by an innovative, indigenous solution: living root bridges made of intertwined flora.",
+    "keywords": [
+      "heavy rains",
+      "washed away",
+      "living root bridges",
+      "intertwined flora"
+    ],
+    "explanation": "Checks comprehension of the specific environmental challenges and human adaptations in Meghalaya.",
+    "page_number": "139"
+  },
+  {
+    "id": 45,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "How do the natural phenomena described in the text blend scientific intrigue with the magic of folklore?",
+    "answer": "These places spark imagination and inspire local legends (mystique) while actually being shaped by powerful, unseen geological, biological, and ecological forces (science) that challenge our understanding.",
+    "keywords": [
+      "spark imagination",
+      "local legends",
+      "geological, biological, ecological forces",
+      "challenge understanding"
+    ],
+    "explanation": "Asks students to synthesize the overarching theme of the chapter regarding science vs. folklore.",
+    "page_number": "142"
+  },
+  {
+    "id": 46,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Discuss the potential long-term impact on fragile environments like the Valley of Flowers if visited by large numbers of tourists.",
+    "answer": "Large crowds can cause severe long-term damage through trampling rare flora, littering, and pollution, which disrupts the natural balance and reduces the area's biodiversity and beauty.",
+    "keywords": [
+      "severe damage",
+      "trampling",
+      "littering",
+      "reduces biodiversity"
+    ],
+    "explanation": "Tests environmental awareness and comprehension of the 'Protect' value discussed in the text.",
+    "page_number": "3"
+  },
+  {
+    "id": 47,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Compare the primary scientific drivers behind the Lonar Crater Lake and the Valley of Flowers.",
+    "answer": "Lonar Crater Lake was driven by a geological force, specifically a celestial meteorite impact. In contrast, the Valley of Flowers is driven by biological forces resulting in extreme biodiversity.",
+    "keywords": [
+      "geological force",
+      "meteorite impact",
+      "biological forces",
+      "extreme biodiversity"
+    ],
+    "explanation": "Requires cross-referencing information from the 'Architecture of Nature' table comparing two distinct wonders.",
+    "page_number": "10"
+  },
+  {
+    "id": 48,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Rewrite correcting the participle error: 'Glowing over the hills, the villagers watched the moon in silence.'",
+    "answer": "The villagers watched the moon glowing over the hills in silence.",
+    "keywords": [
+      "villagers watched",
+      "moon glowing"
+    ],
+    "explanation": "Advanced grammar correction focusing on misplaced dangling modifiers/participles.",
+    "page_number": "2"
+  },
+  {
+    "id": 49,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Describe the key attractions of the Valley of Flowers that make it an eye-catching spectacle.",
+    "answer": "The Valley of Flowers is a spectacle due to its 600 species of exotic flowers blooming against the mighty Himalayan range. The trek offers spectacular waterfalls, wild streams, and glimpses of rare fauna like snow leopards and flying squirrels, making it a true botanical wonderland.",
+    "keywords": [
+      "600 species",
+      "exotic flowers",
+      "Himalayan range",
+      "waterfalls",
+      "rare fauna"
+    ],
+    "explanation": "Checks ability to compile descriptive details from a specific section to form a comprehensive answer.",
+    "page_number": "138"
+  },
+  {
+    "id": 50,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Explain the phenomenon of the living root bridges in Meghalaya. How are they built?",
+    "answer": "Living root bridges are incredible feats of indigenous engineering in Meghalaya. Instead of using cement or wood that washes away in monsoons, local people intertwine the roots of living flora. Over decades, these tangles grow into a self-strengthening ecosystem that forms a durable bridge spanning waterways.",
+    "keywords": [
+      "indigenous engineering",
+      "intertwine roots",
+      "living flora",
+      "self-strengthening",
+      "durable bridge"
+    ],
+    "explanation": "Requires explaining the 'how' and 'what' of the root bridges based on textual evidence.",
+    "page_number": "138"
+  },
+  {
+    "id": 51,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "What is Lonar Crater Lake and how was it formed?",
+    "answer": "Lonar Crater Lake is a geological wonder nestled in Buldhana, Maharashtra. It was formed thousands of years ago when a colossal meteorite crashed into the Earth at high speed. This celestial impact created a perfectly circular depression in basaltic rock, which now cradles a highly saline lake.",
+    "keywords": [
+      "geological wonder",
+      "meteorite crashed",
+      "circular depression",
+      "basaltic rock",
+      "saline lake"
+    ],
+    "explanation": "Checks understanding of the geological history and location of the Lonar crater.",
+    "page_number": "139"
+  },
+  {
+    "id": 52,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "easy",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "Describe the phenomenon of bioluminescence in Kumbalangi village.",
+    "answer": "In Kumbalangi village, Kerala, the serene backwaters magically glow with a bright blue light at night. This biological phenomenon, called bioluminescence, is caused by a high concentration of micro-planktons. This beautiful occurrence has transformed the village into a popular eco-tourism spot.",
+    "keywords": [
+      "glow with bright blue light",
+      "bioluminescence",
+      "micro-planktons",
+      "eco-tourism spot"
+    ],
+    "explanation": "Asks for a summary of the glowing waters phenomenon in Kerala.",
+    "page_number": "140"
+  },
+  {
+    "id": 53,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "The Sundarbans play a vital role as coastline protectors. Explain how the mangrove roots achieve this.",
+    "answer": "The Sundarbans are massive mangrove forests where trees grow in low-oxygen soil under tidal waters. Their intricate, tangled roots function as a protective barrier. They slow down the intense movement of tidal waters, which stabilises the coastline, prevents soil erosion, and protects the land from water damage.",
+    "keywords": [
+      "mangrove forests",
+      "intricate tangled roots",
+      "slow down tidal waters",
+      "stabilises coastline",
+      "prevents soil erosion"
+    ],
+    "explanation": "Requires explaining the ecological process (activation loop) of mangrove roots.",
+    "page_number": "141"
+  },
+  {
+    "id": 54,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "Explain the complete tidal cycle of the disappearing sea at Chandipur Beach.",
+    "answer": "At Chandipur Beach, the sea appears to play hide-and-seek. During ebb tide, the sea water retreats backward by an astonishing 2 to 5 kilometres, completely exposing the ocean floor. Hours later, during high tide, the water rushes back to the shore, hiding the beach once again.",
+    "keywords": [
+      "hide-and-seek",
+      "ebb tide",
+      "retreats backward",
+      "2 to 5 kilometres",
+      "high tide rushes back"
+    ],
+    "explanation": "Tests detailed comprehension of the hydrological phenomenon at Chandipur.",
+    "page_number": "141"
+  },
+  {
+    "id": 55,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "Discuss the formation and visibility of ice bubbles in Abraham Lake, Canada.",
+    "answer": "Ice bubbles form when plants decay underwater and release flammable methane gas. As the gas rises, extremely low temperatures freeze the water surface, trapping the bubbles in layers of ice. They are most visible between December and February because clear ice forms due to minimal snowfall.",
+    "keywords": [
+      "plants decay",
+      "release methane",
+      "freezes trapping bubbles",
+      "December and February",
+      "minimal snowfall"
+    ],
+    "explanation": "Combines steps of formation and conditions for visibility from the infographic.",
+    "page_number": "4"
+  },
+  {
+    "id": 56,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "How can eco-tourism help protect fragile habitats like the glowing waters of Kerala?",
+    "answer": "Eco-tourism promotes responsible travel that respects nature and indigenous culture. By engaging in eco-tourism at Kumbalangi, visitors generate income for locals without harming the environment. This economic value motivates communities to preserve the delicate micro-plankton habitats, ensuring the phenomenon survives for future generations.",
+    "keywords": [
+      "responsible travel",
+      "generate income",
+      "economic value",
+      "preserve delicate habitats",
+      "survives for generations"
+    ],
+    "explanation": "Synthesizes the concept of eco-tourism with the theme of protecting natural wonders.",
+    "page_number": "11"
+  },
+  {
+    "id": 57,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Justify the statement: 'Knowing the scientific explanations behind natural phenomena does not reduce the sense of wonder.'",
+    "answer": "While folklore sparks imagination, science explains the 'how'. Understanding that a glowing sea is caused by millions of micro-planktons, or that a perfectly circular lake came from a colossal meteorite, highlights the incredible complexity and intelligence of natural processes. This deepens our curiosity, awe, and respect for nature.",
+    "keywords": [
+      "explains the 'how'",
+      "complexity and intelligence",
+      "natural processes",
+      "deepens curiosity",
+      "respect for nature"
+    ],
+    "explanation": "Requires critical thinking to balance the concepts of scientific driver vs. mystique.",
+    "page_number": "3"
+  },
+  {
+    "id": 58,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "What are gerunds? Explain with three different examples showing their various functions in a sentence.",
+    "answer": "Gerunds are verb forms ending in '-ing' that function as nouns in a sentence. They can act as different parts of a sentence. For example: as a subject ('Swimming is my hobby'), as an object of a verb ('I enjoy reading'), and as an object of a preposition ('She is interested in learning').",
+    "keywords": [
+      "verb forms ending in '-ing'",
+      "function as nouns",
+      "subject",
+      "object of a verb",
+      "object of a preposition"
+    ],
+    "explanation": "Grammar definition and application based on Grammar Corner teachings.",
+    "page_number": "147"
+  },
+  {
+    "id": 59,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 70
+    },
+    "question": "What are participles? Differentiate between present and past participles with examples from the text.",
+    "answer": "Participles are verb forms that function as adjectives. Present participles usually end in '-ing' and describe ongoing actions, like 'living' in 'living root bridges'. Past participles usually end in '-ed' or '-en' and describe completed actions, such as 'rugged' in 'rugged terrain'.",
+    "keywords": [
+      "function as adjectives",
+      "end in '-ing'",
+      "ongoing actions",
+      "end in '-ed' or '-en'",
+      "completed actions"
+    ],
+    "explanation": "Tests grammar knowledge comparing the two types of participles taught in the text.",
+    "page_number": "146"
+  },
+  {
+    "id": 60,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "How do the living root bridges symbolize the relationship between indigenous people and their environment?",
+    "answer": "The bridges symbolize a deep, respectful relationship because they are built using indigenous knowledge to work with nature rather than against it. By carefully intertwining living roots instead of cutting trees, the local people create sustainable structures that endure monsoons and honor ecological balance.",
+    "keywords": [
+      "indigenous knowledge",
+      "work with nature",
+      "intertwining living roots",
+      "sustainable structures",
+      "honor ecological balance"
+    ],
+    "explanation": "Asks for thematic analysis regarding human-environment harmony.",
+    "page_number": "139"
+  },
+  {
+    "id": 61,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "Explain the optical illusion at Magnetic Hill. What role does the horizon line play?",
+    "answer": "At Magnetic Hill, vehicles seem to roll uphill, defying gravity. This is an optical illusion caused by the peculiar alignment of the surrounding slopes combined with an obscured horizon line. Because the true horizon is blocked, the brain misinterprets the downhill slope as an incline.",
+    "keywords": [
+      "defying gravity",
+      "optical illusion",
+      "alignment of slopes",
+      "obscured horizon line",
+      "misinterprets"
+    ],
+    "explanation": "Requires explaining the scientific mechanism behind the Magnetic Hill illusion.",
+    "page_number": "6"
+  },
+  {
+    "id": 62,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "Discuss why the preservation of traditional knowledge, as seen in the living root bridges, is beneficial for the environment.",
+    "answer": "Preserving traditional knowledge is beneficial because it promotes sustainability. Indigenous people use natural flora without destroying the ecosystem, creating bridges that actually grow stronger with age. This approach protects biodiversity, avoids the pollution of modern construction materials, and respects the delicate balance of the environment.",
+    "keywords": [
+      "sustainability",
+      "natural flora",
+      "grow stronger with age",
+      "protects biodiversity",
+      "avoids pollution"
+    ],
+    "explanation": "Connects the concept of indigenous engineering to modern environmental preservation.",
+    "page_number": "3"
+  },
+  {
+    "id": 63,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Create three descriptive sentences using the words 'magnificent', 'colossal', and 'serene' respectively.",
+    "answer": "1. The magnificent waterfall crashed down the mountainside, leaving visitors in awe of its beauty. 2. A colossal statue of the ancient king towered over the city square. 3. Early in the morning, the serene lake reflected the colors of the peaceful sunrise.",
+    "keywords": [
+      "magnificent",
+      "colossal",
+      "serene",
+      "descriptive sentences"
+    ],
+    "explanation": "Assesses vocabulary application and sentence construction based on the Vocabulary Builder exercises.",
+    "page_number": "1"
+  },
+  {
+    "id": 64,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 70
+    },
+    "question": "Explain the meaning and provide sentences for the binomials 'leaps and bounds' and 'sooner or later'.",
+    "answer": "The binomial 'leaps and bounds' means to increase or develop very quickly. (Example: Her confidence grew by leaps and bounds). The binomial 'sooner or later' means at some time in the future. (Example: Sooner or later, we must fix the leaking roof).",
+    "keywords": [
+      "increase quickly",
+      "leaps and bounds",
+      "some time in the future",
+      "sooner or later"
+    ],
+    "explanation": "Vocabulary application testing binomials from the 'Mystery and Magic' section.",
+    "page_number": "145"
+  },
+  {
+    "id": 65,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Why do natural wonders demand our respect and stewardship? Mention three ways we can protect them.",
+    "answer": "Natural wonders demand our respect because human life relies on these complex, powerful natural processes, and they are incredibly fragile. We can protect them by engaging in responsible eco-tourism, honoring indigenous knowledge by working with nature, and preventing pollution and littering in these delicate habitats.",
+    "keywords": [
+      "fragile",
+      "human life relies",
+      "responsible eco-tourism",
+      "honoring indigenous knowledge",
+      "preventing pollution"
+    ],
+    "explanation": "Explores the 'Compassion for Earth' value mentioned in the chapter's conclusion.",
+    "page_number": "11"
+  },
+  {
+    "id": 66,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Choose any three awe-inspiring natural wonders from the text and identify their scientific drivers.",
+    "answer": "1. The Valley of Flowers is driven by a biological driver resulting in extreme biodiversity. 2. The Magnetic Hill is driven by an optical illusion caused by the landscape's horizon line. 3. Chandipur Beach is driven by a hydrological driver resulting in extreme tidal ebbs.",
+    "keywords": [
+      "Valley of Flowers",
+      "biological",
+      "Magnetic Hill",
+      "optical illusion",
+      "Chandipur Beach",
+      "hydrological"
+    ],
+    "explanation": "Tests synthesis of data from the 'Architecture of Nature' table across different geographical phenomena.",
+    "page_number": "10"
+  },
+  {
+    "id": 67,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "Imagine you are a travel blogger visiting Chandipur Beach. Write a brief description of its unusual tidal behaviour, highlighting its beauty and challenges.",
+    "answer": "Witnessing Chandipur Beach is like watching magic! During ebb tide, the sea vanishes entirely, retreating up to 5 kilometres and revealing a vast, sandy ocean floor perfect for exploring. While the stark beauty is awe-inspiring, you must stay alert; the water rushes back rapidly during high tide, which can be dangerous for the unaware.",
+    "keywords": [
+      "magic",
+      "ebb tide",
+      "vanishes",
+      "ocean floor",
+      "stay alert",
+      "rushes back"
+    ],
+    "explanation": "Creative writing task incorporating factual understanding of the Chandipur Beach phenomenon.",
+    "page_number": "3"
+  },
+  {
+    "id": 68,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Analyze the impact of tourism on fragile ecosystems. Suggest two measures to ensure these habitats survive for generations.",
+    "answer": "Mass tourism can harm fragile ecosystems through littering, pollution, and trampling, which disrupts wildlife and soil quality. To ensure survival, we should promote eco-tourism that enforces strict visitor limits and educates tourists on responsible behavior, ensuring they respect local flora and leave no trace.",
+    "keywords": [
+      "harm fragile ecosystems",
+      "littering",
+      "trampling",
+      "eco-tourism",
+      "strict visitor limits",
+      "responsible behavior"
+    ],
+    "explanation": "Critical thinking question combining the comprehension text with the 'Compassion for Earth' value.",
+    "page_number": "3"
+  },
+  {
+    "id": 69,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Trace the chronological steps of methane bubble formation in Abraham Lake during winter. Why is December to February the best time to see them?",
+    "answer": "First, plants decay underwater, releasing methane gas. Second, this methane rises upward. Third, extreme cold freezes the ice surface around the bubbles, trapping them. Fourth, layers build up over winter. December to February is ideal because very low temperatures and minimal snowfall create clear ice, making bubbles highly visible.",
+    "keywords": [
+      "decay underwater",
+      "rises upward",
+      "freezes the ice",
+      "layers build up",
+      "clear ice",
+      "minimal snowfall"
+    ],
+    "explanation": "Requires sequencing a scientific process and extracting specific timing data from the infographic.",
+    "page_number": "4"
+  },
+  {
+    "id": 70,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 55,
+      "max": 80
+    },
+    "question": "Discuss how the text balances the 'mystique' of folklore with the 'science' of nature using Lonar Crater Lake as an example.",
+    "answer": "The text balances mystique and science by presenting two perspectives. For Lonar Crater Lake, the mystique is its mysterious existence as a perfectly circular, saline lake in a rugged terrain, inspiring awe. The science grounds it by explaining it is the result of a powerful, unseen geological force—a colossal meteorite impact thousands of years ago.",
+    "keywords": [
+      "balances mystique and science",
+      "mysterious existence",
+      "perfectly circular",
+      "geological force",
+      "meteorite impact"
+    ],
+    "explanation": "A higher-order thinking question asking students to apply the 'Mystique vs Science' theme to a specific wonder.",
+    "page_number": "5"
+  },
+  {
+    "id": 71,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Correct these sentences: a) Swimming across the river, the strong currents frightened Riya. b) Walking into the cave, the darkness was surrounding them.",
+    "answer": "a) While swimming across the river, Riya was frightened by the strong currents. \nb) While walking into the cave, they were surrounded by darkness. \n(Note: The original sentences contained dangling modifiers where the participles didn't properly attach to the subject).",
+    "keywords": [
+      "While swimming",
+      "Riya was frightened",
+      "While walking",
+      "they were surrounded"
+    ],
+    "explanation": "Advanced grammar task requiring correction of dangling participles/gerund phrases.",
+    "page_number": "3"
+  },
+  {
+    "id": 72,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 65
+    },
+    "question": "Transform the following phrases into complete sentences using appropriate subjects: a) Glowing softly in the dark... b) Hidden behind the thick clouds...",
+    "answer": "a) Glowing softly in the dark, the magical waves lit up the quiet shore of the beach. \nb) Hidden behind the thick clouds, the bright moon appeared briefly in the night sky.",
+    "keywords": [
+      "Glowing softly",
+      "waves lit up",
+      "Hidden behind",
+      "moon appeared"
+    ],
+    "explanation": "Grammar creation task based on expanding participle phrases into full, grammatically correct sentences.",
+    "page_number": "2"
+  },
+  {
+    "id": 73,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "The Sundarbans are an example of ecological adaptation. Detail the extensive range of flora and fauna found there and explain how the ecosystem survives in low-oxygen soil.",
+    "answer": "The Sundarbans feature plentiful sundari trees (mangroves) that have adapted to survive in low-oxygen soil by growing intricate root systems underwater. These roots stabilize the delta. This unique flora supports an extensive range of fauna, including the majestic Bengal tiger, the estuarine crocodile, and the Indian python.",
+    "keywords": [
+      "sundari trees",
+      "low-oxygen soil",
+      "intricate root systems",
+      "Bengal tiger",
+      "estuarine crocodile"
+    ],
+    "explanation": "Assesses biological details and ecological understanding of the Sundarbans.",
+    "page_number": "141"
+  },
+  {
+    "id": 74,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 55,
+      "max": 80
+    },
+    "question": "'Human life depends upon complex, powerful natural processes.' Relate this quote to the estuarine ecosystem of the Sundarbans and its role in preventing soil erosion.",
+    "answer": "The Sundarbans demonstrate this dependency perfectly. The intricate mangrove roots engage in a natural process that slows down powerful tidal movements. By stabilizing the coastline and reducing soil erosion, this complex ecosystem protects coastal human settlements from flooding and land loss, proving that our safety relies on nature's power.",
+    "keywords": [
+      "dependency perfectly",
+      "mangrove roots",
+      "slows down tidal movements",
+      "stabilizing the coastline",
+      "protects human settlements"
+    ],
+    "explanation": "Thematic analysis connecting a generalized environmental quote to a specific geographical example.",
+    "page_number": "11"
+  },
+  {
+    "id": 75,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Explain the cultural and ecological significance of Kumbalangi village transitioning into an eco-tourism hub.",
+    "answer": "Culturally, the transition allows visitors to experience simple village life, local cuisine, and sustainable culture, providing economic support to locals. Ecologically, eco-tourism encourages the protection of the backwaters, ensuring that the bioluminescent micro-planktons thrive without being destroyed by pollution or industrialization.",
+    "keywords": [
+      "village life",
+      "sustainable culture",
+      "economic support",
+      "protection of backwaters",
+      "micro-planktons thrive"
+    ],
+    "explanation": "Evaluates the dual impact (cultural and environmental) of sustainable tourism models.",
+    "page_number": "7"
+  },
+  {
+    "id": 76,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 55,
+      "max": 80
+    },
+    "question": "How does the writer's tone and use of words like 'awe-inspiring' and 'spectacle' enhance the reader's appreciation of India's natural phenomena?",
+    "answer": "By using descriptive, emotive words like 'awe-inspiring' and 'spectacle', the writer sets a tone of deep wonder and admiration. This vocabulary highlights how powerful, unusual, and beautiful these phenomena are, encouraging readers to pause, respect the grandeur of the natural world, and value its preservation.",
+    "keywords": [
+      "emotive words",
+      "deep wonder and admiration",
+      "powerful, unusual, and beautiful",
+      "respect the grandeur",
+      "value preservation"
+    ],
+    "explanation": "Literary analysis question focusing on the author's tone and word choice.",
+    "page_number": "3"
+  },
+  {
+    "id": 77,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Compare and contrast the living root bridges of Meghalaya with modern concrete bridges in terms of sustainability and environmental impact.",
+    "answer": "Living root bridges are highly sustainable; they are grown naturally from local flora, do not damage the surrounding ecosystem, and grow stronger over time as they age. In contrast, modern concrete bridges rely on artificial materials, can cause environmental degradation during construction, and degrade over time requiring repairs.",
+    "keywords": [
+      "highly sustainable",
+      "grown naturally",
+      "grow stronger over time",
+      "artificial materials",
+      "environmental degradation"
+    ],
+    "explanation": "Comparative analysis based on the environmental comprehension section of the text.",
+    "page_number": "3"
+  },
+  {
+    "id": 78,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 55,
+      "max": 80
+    },
+    "question": "Describe a visual composition of a scene at a misty mountain path using at least three sensory details (sight, sound, touch).",
+    "answer": "The air felt icy and damp on my skin as I walked the narrow trail. Thick, white mist obscured the tall pine trees, casting shifting gray shadows across the path. In the distance, the sharp, whistling wind howled, blending with the crunch of dry leaves beneath my firm boots.",
+    "keywords": [
+      "icy and damp",
+      "white mist",
+      "gray shadows",
+      "whistling wind",
+      "crunch of dry leaves"
+    ],
+    "explanation": "Creative writing application strictly assessing the use of requested sensory details.",
+    "page_number": "7"
+  },
+  {
+    "id": 79,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "Expand on the concept of 'Compassion for Earth' as discussed in the text. How does learning about spectacular wonders cultivate this value?",
+    "answer": "Compassion for Earth involves recognizing that nature is both delicate and highly valuable. Learning about spectacular wonders reveals the complex intelligence of ecological forces. This knowledge inspires awe, which cultivates a deep respect for the environment and encourages us to consider how our daily actions can help protect fragile habitats.",
+    "keywords": [
+      "delicate and highly valuable",
+      "complex intelligence",
+      "inspires awe",
+      "deep respect",
+      "protect fragile habitats"
+    ],
+    "explanation": "Evaluates understanding of the core value lesson embedded in the curriculum.",
+    "page_number": "5"
+  },
+  {
+    "id": 80,
+    "subject": "English",
+    "chapter": "Spectacular Wonders-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 55,
+      "max": 85
+    },
+    "question": "Write an imaginary diary entry of a traveler who just witnessed the glowing waters of Kerala, highlighting the cause of the phenomenon and the traveler's emotions.",
+    "answer": "Dear Diary, Tonight I witnessed something truly magical in Kumbalangi! The backwaters were glowing with a brilliant, luminous blue light. I learned this is bioluminescence, caused by millions of micro-planktons reacting in the water. Standing there in the serene darkness, I felt completely amazed and humbled by nature's hidden beauty. It felt like walking among the stars.",
+    "keywords": [
+      "Kumbalangi",
+      "luminous blue light",
+      "bioluminescence",
+      "micro-planktons",
+      "amazed and humbled",
+      "nature's hidden beauty"
+    ],
+    "explanation": "Creative writing integrating factual scientific drivers with personal narrative and emotional vocabulary.",
+    "page_number": "7"
+  }
+]
