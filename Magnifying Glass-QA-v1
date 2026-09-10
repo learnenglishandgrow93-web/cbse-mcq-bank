@@ -1,0 +1,1816 @@
+[
+  {
+    "id": 1,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What is the synonym for the word 'myriad' as used in the context of the poem?",
+    "answer": "A synonym for the word 'myriad' is countless or numerous, meaning a very large number.",
+    "keywords": [
+      "countless",
+      "numerous",
+      "large number"
+    ],
+    "explanation": "The word myriad in the poem 'Magnifying Glass' refers to the countless shells visible in a scrap of chalk. This is found in Worksheet Level B.",
+    "page_number": "Worksheet B, Page 1"
+  },
+  {
+    "id": 2,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What is the meaning of the idiom 'in the blink of an eye'?",
+    "answer": "The idiom means something that happens very quickly or almost instantaneously.",
+    "keywords": [
+      "very quickly",
+      "instantaneously",
+      "fast"
+    ],
+    "explanation": "Idioms related to the word 'eye' are discussed in the language focus section. It means an event occurring rapidly.",
+    "page_number": "Textbook, Page 226"
+  },
+  {
+    "id": 3,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 20
+    },
+    "question": "What does it mean to 'turn a blind eye'?",
+    "answer": "To 'turn a blind eye' means to act as if you do not see or notice something happening.",
+    "keywords": [
+      "act as if",
+      "do not see",
+      "ignore",
+      "notice"
+    ],
+    "explanation": "This idiom refers to intentionally ignoring a situation. It is part of the vocabulary builder exercises.",
+    "page_number": "Textbook, Page 226"
+  },
+  {
+    "id": 4,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Which word rhymes with 'moon' in the final stanza of the poem?",
+    "answer": "The word that rhymes with 'moon' is 'afternoon'.",
+    "keywords": [
+      "afternoon",
+      "rhyme"
+    ],
+    "explanation": "In the poem's final stanza, the poet pairs 'moon' with 'afternoon' to create an ABCB rhyme scheme.",
+    "page_number": "Textbook, Page 223"
+  },
+  {
+    "id": 5,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Which word from the poem rhymes with 'flies'?",
+    "answer": "The word that rhymes with 'flies' is 'eyes'.",
+    "keywords": [
+      "eyes",
+      "rhyme"
+    ],
+    "explanation": "In the third stanza describing the spider, 'flies' rhymes with 'eyes'.",
+    "page_number": "Textbook, Page 223"
+  },
+  {
+    "id": 6,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 2,
+      "max": 10
+    },
+    "question": "Who is the poet of the poem 'Magnifying Glass'?",
+    "answer": "The poem is written by Walter de la Mare.",
+    "keywords": [
+      "Walter de la Mare",
+      "poet"
+    ],
+    "explanation": "The poet's name is explicitly credited at the end of the poem in the textbook.",
+    "page_number": "Textbook, Page 223"
+  },
+  {
+    "id": 7,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What is the rhyme scheme of the poem 'Magnifying Glass'?",
+    "answer": "The rhyme scheme of the poem is ABCB.",
+    "keywords": [
+      "ABCB",
+      "rhyme scheme",
+      "quatrain"
+    ],
+    "explanation": "The poem consists of four-line stanzas (quatrains) where the second and fourth lines rhyme, making it ABCB.",
+    "page_number": "Textbook, Page 223"
+  },
+  {
+    "id": 8,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Which celestial body is mentioned in the final stanza of the poem?",
+    "answer": "The moon is the celestial body mentioned in the final stanza.",
+    "keywords": [
+      "moon",
+      "celestial body",
+      "final stanza"
+    ],
+    "explanation": "The poet shifts from magnifying small things to imagining viewing the moon through powerful lenses.",
+    "page_number": "Textbook, Page 223"
+  },
+  {
+    "id": 9,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 20
+    },
+    "question": "What does the poet see when looking at a scrap of chalk through the glass?",
+    "answer": "The poet sees a myriad of tiny shells hidden within the scrap of chalk.",
+    "keywords": [
+      "myriad",
+      "shells",
+      "scrap of chalk"
+    ],
+    "explanation": "Chalk is made of microfossils. Under magnification, the poet observes the intricate shells making up the chalk.",
+    "page_number": "Textbook, Page 222"
+  },
+  {
+    "id": 10,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 20
+    },
+    "question": "What is a drop of water compared to in the poem?",
+    "answer": "A drop of water is compared to a hive of bees, bustling with tiny, chaotic life.",
+    "keywords": [
+      "hive of bees",
+      "drop of water",
+      "compared"
+    ],
+    "explanation": "Using a simile, the poet compares the active, teeming microscopic life in a water drop to a busy beehive.",
+    "page_number": "Textbook, Page 222"
+  },
+  {
+    "id": 11,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What does the spider run up in the poem?",
+    "answer": "The spider runs up a sudden thread of woven web-silk.",
+    "keywords": [
+      "sudden thread",
+      "woven",
+      "web-silk",
+      "spider"
+    ],
+    "explanation": "The poet observes the deft spider climbing the silk thread it has just spun.",
+    "page_number": "Textbook, Page 223"
+  },
+  {
+    "id": 12,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 3,
+      "max": 10
+    },
+    "question": "What is the correct collective noun used for a group of stars?",
+    "answer": "The collective noun for a group of stars is a constellation.",
+    "keywords": [
+      "constellation",
+      "stars",
+      "collective noun"
+    ],
+    "explanation": "In the language focus section on collective nouns, a group of stars is termed a constellation.",
+    "page_number": "Textbook, Page 226"
+  },
+  {
+    "id": 13,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 3,
+      "max": 10
+    },
+    "question": "What is the correct collective noun used for a group of ships?",
+    "answer": "The collective noun for a group of ships is a fleet.",
+    "keywords": [
+      "fleet",
+      "ships",
+      "collective noun"
+    ],
+    "explanation": "According to the textbook's language exercise on collective nouns, a collection of ships is called a fleet.",
+    "page_number": "Textbook, Page 226"
+  },
+  {
+    "id": 14,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 3,
+      "max": 15
+    },
+    "question": "How do you form an adjective by adding the suffix '-ish' to the noun 'boy'?",
+    "answer": "By adding the suffix '-ish', the noun 'boy' becomes the adjective 'boyish'.",
+    "keywords": [
+      "boyish",
+      "suffix",
+      "adjective"
+    ],
+    "explanation": "Similar to 'tigerish' in the poem, adding '-ish' to 'boy' forms the adjective 'boyish'.",
+    "page_number": "Textbook, Page 226"
+  },
+  {
+    "id": 15,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Which Indian scientist conducted an experiment using microwaves before Marconi?",
+    "answer": "Jagadish Chandra Bose conducted the experiment using microwaves before Marconi.",
+    "keywords": [
+      "Jagadish Chandra Bose",
+      "microwaves",
+      "Marconi"
+    ],
+    "explanation": "The listening transcript reveals that Jagadish Chandra Bose, a Bengali scientist, experimented with microwaves early in the history of radio.",
+    "page_number": "Textbook, Page 250"
+  },
+  {
+    "id": 16,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 3,
+      "max": 15
+    },
+    "question": "Who is known as the 'father of fibre optics'?",
+    "answer": "Narinder Kapany, an Indian physicist from Punjab, is called the 'father of fibre optics'.",
+    "keywords": [
+      "Narinder Kapany",
+      "father",
+      "fibre optics"
+    ],
+    "explanation": "Narinder Kapany pioneered fibre optics, leading to modern fast internet and communication.",
+    "page_number": "Textbook, Page 250"
+  },
+  {
+    "id": 17,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What was the original spiritual purpose of the game Snakes and Ladders?",
+    "answer": "It was invented to teach children values, where ladders represented virtues and snakes represented evil.",
+    "keywords": [
+      "teach values",
+      "ladders virtues",
+      "snakes evil"
+    ],
+    "explanation": "In ancient India, the game was a spiritual tool meant to instruct children on morality and values.",
+    "page_number": "Textbook, Page 250"
+  },
+  {
+    "id": 18,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Name the famous foundational astronomical work written by Aryabhata.",
+    "answer": "Aryabhata's famous astronomical work is called the Aryabhatiyam.",
+    "keywords": [
+      "Aryabhatiyam",
+      "astronomical work",
+      "Aryabhata"
+    ],
+    "explanation": "Aryabhatiyam laid the groundwork for Indian astronomy and proposed a heliocentric model.",
+    "page_number": "Textbook, Page 231"
+  },
+  {
+    "id": 19,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 3,
+      "max": 15
+    },
+    "question": "Who wrote the sixth-century astronomical treatise Panchasiddhantika?",
+    "answer": "The astronomer, philosopher, and mathematician Varahamihira wrote the Panchasiddhantika.",
+    "keywords": [
+      "Varahamihira",
+      "Panchasiddhantika",
+      "astronomer"
+    ],
+    "explanation": "Varahamihira compiled Greek, Egyptian, Roman, and Indian astronomy into this five-treatise compendium.",
+    "page_number": "Textbook, Page 231"
+  },
+  {
+    "id": 20,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Who built the Jantar Mantar observatory in New Delhi?",
+    "answer": "Jantar Mantar was built in 1724 by Maharaja Sawai Jai Singh II.",
+    "keywords": [
+      "Maharaja Sawai Jai Singh II",
+      "1724",
+      "built"
+    ],
+    "explanation": "Jai Singh II built five such observatories for precise celestial calculations, with the one in Delhi being a UNESCO site.",
+    "page_number": "Textbook, Page 232"
+  },
+  {
+    "id": 21,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Where is the Indian Astronomical Observatory (IAO) located?",
+    "answer": "The Indian Astronomical Observatory is located in Hanle, Ladakh, India.",
+    "keywords": [
+      "Hanle",
+      "Ladakh",
+      "India"
+    ],
+    "explanation": "The IAO is a high-altitude astronomy station situated at 4,500 meters elevation in Hanle.",
+    "page_number": "Textbook, Page 230"
+  },
+  {
+    "id": 22,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Name the most powerful and complex space telescope ever launched by NASA.",
+    "answer": "The James Webb Space Telescope is the most powerful space telescope launched by NASA.",
+    "keywords": [
+      "James Webb Space Telescope",
+      "NASA",
+      "powerful"
+    ],
+    "explanation": "Launched in December 2021, it orbits 1.5 million kilometers away from Earth.",
+    "page_number": "Textbook, Page 230"
+  },
+  {
+    "id": 23,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What is the central tone of the poem 'Magnifying Glass'?",
+    "answer": "The tone of the poem is filled with wonder and curiosity.",
+    "keywords": [
+      "wonder",
+      "curiosity",
+      "tone"
+    ],
+    "explanation": "The poet expresses amazement at how ordinary objects reveal extraordinary details under magnification.",
+    "page_number": "Textbook, Page 223"
+  },
+  {
+    "id": 24,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 20
+    },
+    "question": "What do the 'spinnerets' refer to in the context of the poem?",
+    "answer": "Spinnerets are anatomical structures on a spider used to produce and weave web-silk.",
+    "keywords": [
+      "anatomical structures",
+      "produce",
+      "weave web-silk"
+    ],
+    "explanation": "The scientific lens describes spinnerets as the organs spiders use to create silk for trapping insects.",
+    "page_number": "Presentation, Page 9"
+  },
+  {
+    "id": 25,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why does the poet call the spider 'deft' in the poem?",
+    "answer": "The poet calls the spider 'deft' because it is highly skilled, quick, and precise in spinning its intricate woven web-silk from its spinnerets to catch prey.",
+    "keywords": [
+      "skilled",
+      "quick",
+      "precise",
+      "spinning web-silk",
+      "catch prey"
+    ],
+    "explanation": "The word 'deft' means neatly skillful and quick in one's movements, perfectly describing the spider's web-weaving ability.",
+    "page_number": "Textbook, Page 223"
+  },
+  {
+    "id": 26,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What does the magnifying glass help the poet observe in a small inch of moss?",
+    "answer": "Through the magnifying glass, the poet observes that a tiny inch of moss expands into a vast, complex forest complete with flowers and trees.",
+    "keywords": [
+      "expands",
+      "vast forest",
+      "flowers and trees",
+      "complex"
+    ],
+    "explanation": "The glass transforms something tiny and ordinary into a detailed landscape, expanding scale and depth.",
+    "page_number": "Textbook, Page 222"
+  },
+  {
+    "id": 27,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Why are the flies referred to as 'silly' in the poem?",
+    "answer": "The flies are called 'silly' because they are careless and unknowingly stumble into the dangerous trap of the spider's woven net despite having many eyes.",
+    "keywords": [
+      "careless",
+      "unknowingly",
+      "stumble",
+      "dangerous trap",
+      "many eyes"
+    ],
+    "explanation": "The poet contrasts the highly skilled spider with the foolish flies that easily fall into the web.",
+    "page_number": "Textbook, Page 223"
+  },
+  {
+    "id": 28,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Explain the meaning of the idiom 'apple of one's eye' and provide a short sentence using it.",
+    "answer": "The idiom means a person who is very precious or important to someone. For example, 'Riya is the apple of her grandmother's eye because she loves her dearly.'",
+    "keywords": [
+      "precious",
+      "important",
+      "example sentence",
+      "loves dearly"
+    ],
+    "explanation": "This idiom is taught in the vocabulary builder to express deep affection for someone.",
+    "page_number": "Answer Key, Page 1"
+  },
+  {
+    "id": 29,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What does the idiom 'keep an eye on' mean? Give a relevant example.",
+    "answer": "It means to watch something or someone closely to ensure safety. Example: 'Please keep an eye on the beaker while it heats so it doesn't boil over.'",
+    "keywords": [
+      "watch closely",
+      "ensure safety",
+      "example sentence"
+    ],
+    "explanation": "This phrase is used for observation or vigilance, as practiced in the vocabulary builder exercises.",
+    "page_number": "Answer Key, Page 1"
+  },
+  {
+    "id": 30,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What is the main idea of the poem 'Magnifying Glass'?",
+    "answer": "The main idea is that close observation through tools like a magnifying glass has a transformative power, revealing the hidden beauty, complexity, and extraordinary wonders of ordinary nature.",
+    "keywords": [
+      "transformative power",
+      "hidden beauty",
+      "complexity",
+      "extraordinary wonders",
+      "ordinary nature"
+    ],
+    "explanation": "The poem emphasizes how curiosity and magnification change our perspective on everyday objects.",
+    "page_number": "Textbook, Page 223"
+  },
+  {
+    "id": 31,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "How does the poet feel about the ability of the magnifying glass to reveal hidden wonders?",
+    "answer": "The poet feels completely fascinated and amazed by the magnifying glass, as it makes even the tiniest, most ordinary things look marvellous and grand.",
+    "keywords": [
+      "fascinated",
+      "amazed",
+      "tiniest things",
+      "marvellous",
+      "grand"
+    ],
+    "explanation": "The tone of wonder and expressions like 'make more marvellous' show the poet's deep fascination.",
+    "page_number": "Textbook, Page 225"
+  },
+  {
+    "id": 32,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "State the key difference between pronouncing the /v/ sound and the /f/ sound.",
+    "answer": "When pronouncing the /v/ sound, there is a vocal cord vibration. In contrast, pronouncing the /f/ sound involves soft friction with no vibration.",
+    "keywords": [
+      "vocal cord vibration",
+      "soft friction",
+      "no vibration",
+      "pronouncing"
+    ],
+    "explanation": "This phonetic distinction is highlighted in the 'Let us speak' section to improve pronunciation skills.",
+    "page_number": "Textbook, Page 228"
+  },
+  {
+    "id": 33,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Name two types of visual aids that benefit children with low vision according to the text.",
+    "answer": "Children with low vision can greatly benefit from visual aids such as magnifying spectacles, stand magnifiers, hand-held magnifiers, or special telescopes attached to eyeglasses.",
+    "keywords": [
+      "magnifying spectacles",
+      "stand magnifiers",
+      "hand-held magnifiers",
+      "telescopes"
+    ],
+    "explanation": "The text lists several tools designed to assist individuals with close-up tasks or distant viewing.",
+    "page_number": "Textbook, Page 229"
+  },
+  {
+    "id": 34,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Why are stand magnifiers useful for reading or close-up tasks?",
+    "answer": "Stand magnifiers are useful because they rest above the object, keeping the hands free and maintaining the magnifying lens at the proper fixed distance for clear viewing.",
+    "keywords": [
+      "rest above",
+      "hands free",
+      "proper fixed distance",
+      "clear viewing"
+    ],
+    "explanation": "They offer stability and convenience for tasks requiring prolonged focus without manual holding.",
+    "page_number": "Textbook, Page 229"
+  },
+  {
+    "id": 35,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Describe the features of hand-held magnifiers as mentioned in the text.",
+    "answer": "Hand-held magnifiers are usually smaller and lighter, making them easy to move over printed material. They can also come with or without built-in lights for better visibility.",
+    "keywords": [
+      "smaller and lighter",
+      "easy to move",
+      "built-in lights",
+      "visibility"
+    ],
+    "explanation": "Their portability and optional lighting make them practical tools for individuals with low vision.",
+    "page_number": "Textbook, Page 229"
+  },
+  {
+    "id": 36,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "What is the primary use of telescopes in everyday visual aids?",
+    "answer": "Telescopes are primarily used to see objects or signs that are far away. Some specialized telescopes can even be attached directly to a person's eyeglasses.",
+    "keywords": [
+      "see objects far away",
+      "signs",
+      "attached to eyeglasses"
+    ],
+    "explanation": "While magnifying glasses help with close objects, telescopes help low-vision individuals see distant things.",
+    "page_number": "Textbook, Page 229"
+  },
+  {
+    "id": 37,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Identify the simile used in the second stanza of the poem and explain its meaning.",
+    "answer": "The simile is 'Like hive of bees'. The poet compares a simple drop of water to a beehive, showing that under a microscope, the drop is teeming with chaotic, moving microscopic life.",
+    "keywords": [
+      "Like hive of bees",
+      "drop of water",
+      "beehive",
+      "teeming",
+      "chaotic life"
+    ],
+    "explanation": "A simile compares two things using 'like' or 'as'. Here, it highlights the hidden, bustling activity inside a water drop.",
+    "page_number": "Presentation, Page 8"
+  },
+  {
+    "id": 38,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Identify the metaphor used to describe the spider and explain its significance.",
+    "answer": "The metaphor used is 'tigerish claws'. It directly applies the fierce, predatory traits of a tiger to the tiny spider, emphasizing its hidden danger and skill as a hunter.",
+    "keywords": [
+      "tigerish claws",
+      "fierce",
+      "predatory traits",
+      "hidden danger",
+      "hunter"
+    ],
+    "explanation": "A metaphor makes a direct comparison without 'like' or 'as', elevating the spider to the status of a fierce predator.",
+    "page_number": "Presentation, Page 8"
+  },
+  {
+    "id": 39,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Explain how the phrase 'Magic talk' is an example of personification.",
+    "answer": "The phrase 'Magic talk' uses personification by giving the inanimate round glass (magnifying lens) the human ability to speak, suggesting the lens magically reveals hidden secrets to the observer.",
+    "keywords": [
+      "personification",
+      "inanimate round glass",
+      "human ability to speak",
+      "reveals hidden secrets"
+    ],
+    "explanation": "Personification attributes human qualities to non-human things, illustrating how the lens communicates new visual information.",
+    "page_number": "Presentation, Page 8"
+  },
+  {
+    "id": 40,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why does the poet use exclamation marks in lines like 'The tigerish claws he has!'?",
+    "answer": "The poet uses exclamation marks to express intense wonder, excitement, and surprise at the sudden, fierce details of nature revealed by the magnifying glass that are usually invisible.",
+    "keywords": [
+      "wonder",
+      "excitement",
+      "surprise",
+      "fierce details",
+      "revealed"
+    ],
+    "explanation": "Punctuation is used to mirror the speaker's emotional reaction to the magnified world.",
+    "page_number": "Textbook, Page 224"
+  },
+  {
+    "id": 41,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What is the significance of the spider in the poem 'Magnifying Glass'?",
+    "answer": "The spider signifies the hidden complexity and predatory nature of the microscopic world. Through the lens, an ordinary tiny bug becomes a deft, tiger-like hunter, highlighting nature's fierce beauty and detail.",
+    "keywords": [
+      "hidden complexity",
+      "predatory nature",
+      "deft",
+      "tiger-like hunter",
+      "fierce beauty"
+    ],
+    "explanation": "The spider acts as a bridge showing how perspective changes an overlooked creature into a formidable beast.",
+    "page_number": "Textbook, Page 225"
+  },
+  {
+    "id": 42,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How might the speaker's view of the natural world change if there were no magnifying glass?",
+    "answer": "Without the glass, the speaker would only see ordinary, plain objects. They would miss the intricate shells in chalk, the forests in moss, and the fierce details of the spider.",
+    "keywords": [
+      "ordinary",
+      "plain objects",
+      "miss intricate shells",
+      "forests in moss",
+      "fierce details"
+    ],
+    "explanation": "The tool is essential for the transformation of reality, shifting the view from mundane to magical.",
+    "page_number": "Textbook, Page 225"
+  },
+  {
+    "id": 43,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why does the poem end with the imaginative idea of the moon being within reach?",
+    "answer": "It shows that the power of lenses is limitless. Just as a small lens magnifies tiny nearby objects, larger lenses (telescopes) make distant, vast celestial bodies feel intimate and accessible.",
+    "keywords": [
+      "power of lenses",
+      "limitless",
+      "magnifies tiny objects",
+      "telescopes",
+      "intimate and accessible"
+    ],
+    "explanation": "The conclusion scales up the concept of magnification from the microscopic to the cosmic level.",
+    "page_number": "Textbook, Page 225"
+  },
+  {
+    "id": 44,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Mention two major contributions of Aryabhata to astronomy as stated in the text.",
+    "answer": "Aryabhata laid the groundwork for Indian astronomy in his book Aryabhatiyam. He proposed a heliocentric model of the solar system centuries before Copernicus and gave a scientific explanation for eclipses.",
+    "keywords": [
+      "Aryabhatiyam",
+      "heliocentric model",
+      "Copernicus",
+      "scientific explanation",
+      "eclipses"
+    ],
+    "explanation": "Aryabhata's historical discoveries show India's early advancements in understanding celestial mechanics.",
+    "page_number": "Textbook, Page 231"
+  },
+  {
+    "id": 45,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What did the tenth-century scholar Bhaskaracharya II contribute to astronomical concepts?",
+    "answer": "Bhaskaracharya II significantly advanced astronomical concepts through his works Siddhantasiromani and Karanakutuhala, which included meticulously compiled data on planetary positions, conjunctions, and solar and lunar eclipses.",
+    "keywords": [
+      "Siddhantasiromani",
+      "Karanakutuhala",
+      "compiled data",
+      "planetary positions",
+      "eclipses"
+    ],
+    "explanation": "He continued the rich tradition of Indian mathematics and astronomy by recording precise celestial data.",
+    "page_number": "Textbook, Page 232"
+  },
+  {
+    "id": 46,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "Why are several world-renowned observatories set up on Mauna Kea in Hawaii?",
+    "answer": "Observatories are set up on Mauna Kea because its high elevation of 4,205 metres, dry environment, and stable airflow create outstanding observational conditions for optical, infrared, and submillimeter astronomy.",
+    "keywords": [
+      "high elevation",
+      "dry environment",
+      "stable airflow",
+      "outstanding conditions",
+      "astronomy"
+    ],
+    "explanation": "The geographical and atmospheric traits of this dormant volcano make it a prime scientific location.",
+    "page_number": "Textbook, Page 230"
+  },
+  {
+    "id": 47,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What is the ARIES telescope and where is it located in India?",
+    "answer": "ARIES (Aryabhata Research Institute of Observational Sciences) maintains the largest telescope in India for studying celestial objects. It was commissioned in 2016 and is located in Nainital, Uttarakhand.",
+    "keywords": [
+      "largest telescope",
+      "India",
+      "celestial objects",
+      "Nainital",
+      "Uttarakhand"
+    ],
+    "explanation": "It highlights modern Indian facilities dedicated to deep space observation using large lenses.",
+    "page_number": "Textbook, Page 230"
+  },
+  {
+    "id": 48,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What is Jantar Mantar and why is the one in New Delhi important?",
+    "answer": "Jantar Mantar is an ancient astronomical observatory featuring large-scale architectural instruments designed for precise celestial calculations. The New Delhi site, built in 1724, is recognized as a UNESCO World Heritage Site.",
+    "keywords": [
+      "astronomical observatory",
+      "large-scale instruments",
+      "precise celestial calculations",
+      "UNESCO World Heritage Site"
+    ],
+    "explanation": "It demonstrates historical Indian engineering dedicated to mapping and measuring the cosmos.",
+    "page_number": "Textbook, Page 232"
+  },
+  {
+    "id": 49,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Summarize the discoveries described in the first two stanzas of the poem 'Magnifying Glass'.",
+    "answer": "In the first two stanzas, the speaker uses a round magnifying glass to make 'Magic talk'. Through it, mundane objects transform dramatically: a simple scrap of chalk reveals countless ancient micro-shells, an inch of moss expands into a dense forest of flowers and trees, and a drop of water swarms with life like a busy beehive.",
+    "keywords": [
+      "Magic talk",
+      "mundane objects transform",
+      "scrap of chalk",
+      "countless ancient micro-shells",
+      "moss expands",
+      "dense forest",
+      "water swarms like beehive"
+    ],
+    "explanation": "The summary captures the core imagery of the beginning of the poem, showing the transition from literal objects to magnified wonders.",
+    "page_number": "Textbook, Page 222"
+  },
+  {
+    "id": 50,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "Explain the difference between looking at the spider through a scientific lens versus a poetic lens.",
+    "answer": "A scientific lens describes the spider factually, focusing on anatomy like spinnerets used to produce silk webs to trap insects for sustenance. In contrast, the poetic lens uses vivid imagination, describing the spider as a 'deft', fierce hunter with 'tigerish claws' lying in wait for 'silly flies', transforming biological facts into a dramatic, thrilling narrative.",
+    "keywords": [
+      "scientific lens",
+      "anatomy",
+      "spinnerets",
+      "poetic lens",
+      "vivid imagination",
+      "tigerish claws",
+      "dramatic narrative"
+    ],
+    "explanation": "This contrasts empirical observation with imaginative interpretation, a key theme in the chapter's presentation.",
+    "page_number": "Presentation, Page 9"
+  },
+  {
+    "id": 51,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "How does observing small things closely help build respect for nature, as discussed in the text?",
+    "answer": "Observing small things closely reveals that nature is intricate, complex, and full of hidden beauty. When we notice patterns on a leaf or tiny life on bark, we stop treating small elements as unimportant. This deep understanding builds respect, making us more thoughtful about resource usage and treating all living things with care and value.",
+    "keywords": [
+      "intricate",
+      "hidden beauty",
+      "stop treating as unimportant",
+      "deep understanding",
+      "builds respect",
+      "thoughtful about resource usage"
+    ],
+    "explanation": "The 'Living the Value' section explicitly connects careful observation of micro-environments to broader environmental respect and ethics.",
+    "page_number": "Answer Key, Page 5"
+  },
+  {
+    "id": 52,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "What is the deeper message expressed by the statement: 'A pebble shines with secret colours when the glass leans closer'?",
+    "answer": "The literal meaning is that pebbles show hidden colours under magnification. The implied meaning is that many ordinary objects hold unnoticed details. The deeper message is that careful observation reveals the world's hidden beauty, teaching us that patience and curiosity can profoundly increase our appreciation of seemingly dull, everyday things.",
+    "keywords": [
+      "hidden colours",
+      "unnoticed details",
+      "careful observation",
+      "hidden beauty",
+      "patience and curiosity",
+      "increase appreciation"
+    ],
+    "explanation": "This question tests the student's ability to extrapolate philosophical meaning from poetic imagery as done in the comprehension exercises.",
+    "page_number": "Answer Key, Page 3"
+  },
+  {
+    "id": 53,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "Analyze the statement: 'Even a shadow reveals hidden shapes when the light bends through the lens.' What is its implied meaning and deeper message?",
+    "answer": "The implied meaning is that things that seem unclear, dull, or empty can suddenly become highly meaningful when viewed differently or closely. The deeper message is that perspective truly matters. Equipping ourselves with new tools, viewpoints, or an open mind can dramatically deepen our understanding of situations we previously ignored.",
+    "keywords": [
+      "unclear or dull",
+      "viewed differently",
+      "perspective matters",
+      "new tools",
+      "viewpoints",
+      "deepen understanding"
+    ],
+    "explanation": "This comprehension task requires shifting from literal optics to life lessons about perspective and open-mindedness.",
+    "page_number": "Answer Key, Page 3"
+  },
+  {
+    "id": 54,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Explain the literal, implied, and deeper meaning of the phrase 'Air that seems empty swirls with tiny dancers no one ever sees.'",
+    "answer": "Literally, the air contains invisible moving particles. Implied, it suggests human senses are limited and the unseen world is actually full of constant motion. The deeper message promotes humility in learning; it reminds us there is always much more to discover beyond what our naked eyes can immediately perceive.",
+    "keywords": [
+      "invisible particles",
+      "senses are limited",
+      "unseen world full of motion",
+      "humility in learning",
+      "discover beyond naked eyes"
+    ],
+    "explanation": "This breaks down a poetic sentence into its scientific fact, literary suggestion, and moral takeaway.",
+    "page_number": "Answer Key, Page 3"
+  },
+  {
+    "id": 55,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Rewrite the plain, literal sentence 'The chalk piece has small marks on it' using poetic imagery.",
+    "answer": "Under powerful magnification, the plain piece of chalk transforms into a rugged, rocky cliff, beautifully carved with pale grooves, deep valleys, and dusty white craters, revealing the ancient secrets of its hidden micro-landscape.",
+    "keywords": [
+      "magnification",
+      "rugged rocky cliff",
+      "carved with pale grooves",
+      "dusty white craters",
+      "hidden micro-landscape"
+    ],
+    "explanation": "This creative task requires the student to apply visual imagery to a mundane object, mimicking Walter de la Mare's style.",
+    "page_number": "Answer Key, Page 2"
+  },
+  {
+    "id": 56,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Rewrite the literal sentence 'The leaf is tiny' using visual poetic imagery similar to the style of the poem.",
+    "answer": "Through the magical lens, the tiny leaf reveals itself as a vast, shimmering green island, its intricate veins branching outwards and glowing like golden rivers cutting through a miniature jungle under the bright morning sun.",
+    "keywords": [
+      "magical lens",
+      "vast shimmering green island",
+      "intricate veins",
+      "glowing like golden rivers",
+      "miniature jungle"
+    ],
+    "explanation": "The student must use similes or metaphors to elevate a simple fact into a descriptive, imaginative sentence.",
+    "page_number": "Exercise Book, Page 3"
+  },
+  {
+    "id": 57,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "How does the steady rhyme scheme (AABBCC) of the new grammar corner stanza contribute to the mood of discovery?",
+    "answer": "The regular, rhyming couplet pattern (stone/known, land/sand) creates a smooth, predictable rhythm that sounds playful and confident. This steady beat perfectly mirrors the speaker's rising excitement as each pair of lines presents a 'small thing to big discovery' transition. It creates an organized, satisfying sense of wonder that keeps naturally building.",
+    "keywords": [
+      "couplet pattern",
+      "smooth predictable rhythm",
+      "playful and confident",
+      "rising excitement",
+      "small thing to big discovery",
+      "sense of wonder"
+    ],
+    "explanation": "This requires analytical thinking to connect structural poetic elements (rhyme) to the emotional impact (mood).",
+    "page_number": "Answer Key, Page 2"
+  },
+  {
+    "id": 58,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "Explain the central idea equation: 'Curiosity + Observation + Imagination = The Extraordinary' as depicted in the presentation.",
+    "answer": "This equation summarizes the poem's core theme. 'Curiosity' prompts us to use a magnifying glass. 'Observation' provides the detailed visual facts of the object. Finally, 'Imagination' allows the mind to compare these facts to grand things (like forests or tigers). Together, they prove that ordinary reality always surpasses itself and becomes extraordinary when viewed closely.",
+    "keywords": [
+      "core theme",
+      "prompts use of magnifying glass",
+      "detailed visual facts",
+      "imagination compares",
+      "reality surpasses itself",
+      "becomes extraordinary"
+    ],
+    "explanation": "This requires synthesizing the three core thematic pillars of the chapter into a coherent explanation of the poet's worldview.",
+    "page_number": "Presentation, Page 14"
+  },
+  {
+    "id": 59,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "Analyze how the poet uses visual imagery to describe everyday objects in the poem 'Magnifying Glass'.",
+    "answer": "The poet uses rich visual imagery to paint vivid, grand pictures of small things. He describes the microscopic details of chalk as 'myriad shells', turns a tiny patch of moss into a vast 'forest' of flowers and trees, and depicts a simple water drop as a chaotic 'hive of bees'. This imagery forces the reader to visualize the hidden scale of nature.",
+    "keywords": [
+      "rich visual imagery",
+      "vivid grand pictures",
+      "myriad shells",
+      "vast forest",
+      "chaotic hive",
+      "visualize hidden scale"
+    ],
+    "explanation": "The student must identify multiple examples of imagery from the text and explain their effect on the reader's perception.",
+    "page_number": "Textbook, Page 224"
+  },
+  {
+    "id": 60,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "Why does the poet shift from observing small, everyday objects to mentioning a celestial body like the moon in the final stanza?",
+    "answer": "The poet shifts to the moon to demonstrate that the principle of magnification is universal. Just as a small glass reveals the vastness hidden in tiny earthly objects, larger lenses (telescopes) can bring distant, massive celestial bodies closer. It leaves the reader with a profound sense of awe, suggesting the entire universe is accessible through tools of observation.",
+    "keywords": [
+      "principle of magnification universal",
+      "vastness hidden",
+      "larger lenses telescopes",
+      "celestial bodies closer",
+      "sense of awe",
+      "universe accessible"
+    ],
+    "explanation": "This requires analyzing the structural shift in the poem and understanding the conceptual leap from microscope to telescope.",
+    "page_number": "Textbook, Page 224"
+  },
+  {
+    "id": 61,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "How does careful observation of 'a silent corner of bark' change our perspective according to the comprehension exercises?",
+    "answer": "Literally, magnifying the bark shows it is full of tiny details and activity. Implied, it teaches that life and complexity exist even in places that appear still or empty. The deeper message is that nature is incredibly rich and layered. Approaching the world with patience and curiosity helps us notice and respect this profound complexity.",
+    "keywords": [
+      "tiny details and activity",
+      "life and complexity",
+      "appear still or empty",
+      "rich and layered",
+      "patience and curiosity",
+      "respect complexity"
+    ],
+    "explanation": "This draws directly from the deeper message analysis in the Answer Key.",
+    "page_number": "Answer Key, Page 3"
+  },
+  {
+    "id": 62,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Rewrite the literal observation 'The moss is green' using poetic imagery, as demonstrated in the Answer Key.",
+    "answer": "Through the lens, the simple moss spreads out like a lush, miniature jungle. Its soft, velvety towers rise in deep green shades, transforming into a vast green landscape that rises and dips like silent hills untouched by mankind.",
+    "keywords": [
+      "lush miniature jungle",
+      "soft velvety towers",
+      "deep green shades",
+      "vast green landscape",
+      "rises and dips",
+      "silent hills"
+    ],
+    "explanation": "This assesses the student's creative writing skills based strictly on the vocabulary and imagery models provided in the Answer Key.",
+    "page_number": "Answer Key, Page 2"
+  },
+  {
+    "id": 63,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Convert the literal observation 'The drop of water is clear' into a poetic sentence.",
+    "answer": "Through the magnifying glass, the clear drop of water magically becomes a tiny, glittering crystal globe. It holds perfect, curved reflections of the surrounding colours, creating a miniature, distorted secret world trapped inside its delicate glass-like dome.",
+    "keywords": [
+      "glittering crystal globe",
+      "curved reflections",
+      "miniature distorted secret world",
+      "trapped inside",
+      "glass-like dome"
+    ],
+    "explanation": "Tests the ability to synthesize the factual observations of water droplets into the poetic transformations taught in the lesson.",
+    "page_number": "Answer Key, Page 4"
+  },
+  {
+    "id": 64,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Convert the literal observation 'The pebble is small' into a poetic sentence.",
+    "answer": "Under the power of the lens, the tiny pebble becomes a massive planet resting right in my palm. Its surface is rough with miniature ridges, and hidden specks of minerals glitter across it like distant, secret stars in the night sky.",
+    "keywords": [
+      "massive planet",
+      "resting in palm",
+      "miniature ridges",
+      "hidden specks glitter",
+      "distant secret stars"
+    ],
+    "explanation": "This requires expanding the scale of a small object into a planetary metaphor, aligning with the chapter's theme of perspective.",
+    "page_number": "Answer Key, Page 2"
+  },
+  {
+    "id": 65,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "Describe the transformation of the spider from a scientific fact to a poetic marvel as portrayed in the poem.",
+    "answer": "Scientifically, a spider is simply an arachnid using anatomical spinnerets to produce web-silk for trapping insects. The poet, however, transforms this biological reality into a thrilling marvel. The spider becomes a 'deft' assassin with fierce, 'tigerish claws', lying patiently in wait to ambush the 'silly flies', elevating a common bug into a majestic, terrifying predator.",
+    "keywords": [
+      "anatomical spinnerets",
+      "trapping insects",
+      "thrilling marvel",
+      "deft assassin",
+      "tigerish claws",
+      "ambush silly flies",
+      "terrifying predator"
+    ],
+    "explanation": "Requires contrasting the literal, biological description of a spider with the specific metaphors used by Walter de la Mare.",
+    "page_number": "Presentation, Page 9"
+  },
+  {
+    "id": 66,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 55,
+      "max": 80
+    },
+    "question": "Write a short 5-line dialogue between Arun and Meera deciding how to observe the night sky using different tools.",
+    "answer": "Arun: Look at that bright star! I wish we had the perfect tool to see it more clearly.\nMeera: [excitedly] We have options—binoculars, your telescope, and my sky app.\nArun: Binoculars are easy. Let's try those first.\nMeera: [peering] I can see more stars, but they still look tiny. We should set up the telescope for better detail.\nArun: Great! You open the star-map app to guide us there.",
+    "keywords": [
+      "bright star",
+      "perfect tool",
+      "binoculars",
+      "telescope",
+      "sky app",
+      "better detail",
+      "star-map"
+    ],
+    "explanation": "Tests composition skills based strictly on the provided dialogue model in the Answer Key.",
+    "page_number": "Answer Key, Page 5"
+  },
+  {
+    "id": 67,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "Why is the Jantar Mantar considered an architectural and astronomical marvel?",
+    "answer": "Built in 1724 by Maharaja Sawai Jai Singh II, Jantar Mantar is a marvel because it uses massive, uniquely designed architectural structures as actual astronomical instruments. These large-scale stone instruments allowed ancient astronomers to make highly precise calculations and measurements of celestial movements long before modern digital telescopes existed, earning it a UNESCO World Heritage status.",
+    "keywords": [
+      "Maharaja Sawai Jai Singh II",
+      "architectural structures",
+      "astronomical instruments",
+      "precise calculations",
+      "celestial movements",
+      "UNESCO"
+    ],
+    "explanation": "This requires summarizing the historical and scientific importance of Jantar Mantar from the textbook text.",
+    "page_number": "Textbook, Page 232"
+  },
+  {
+    "id": 68,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 55,
+      "max": 80
+    },
+    "question": "Discuss the significant contributions of ancient Indian scholars Aryabhata and Varahamihira to global astronomy.",
+    "answer": "Aryabhata laid essential groundwork with the 'Aryabhatiyam', remarkably proposing a heliocentric model of the solar system centuries before Copernicus, and explaining solar and lunar eclipses scientifically. Later, Varahamihira wrote the 'Panchasiddhantika', an expansive treatise that brilliantly compiled and synthesized Greek, Egyptian, Roman, and Indian astronomical knowledge into one comprehensive text.",
+    "keywords": [
+      "Aryabhatiyam",
+      "heliocentric model",
+      "Copernicus",
+      "eclipses",
+      "Varahamihira",
+      "Panchasiddhantika",
+      "synthesized knowledge"
+    ],
+    "explanation": "This combines factual details about two historical figures mentioned in the reading section on ancient scholars.",
+    "page_number": "Textbook, Page 231"
+  },
+  {
+    "id": 69,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 55,
+      "max": 80
+    },
+    "question": "How do the discoveries of Jagadish Chandra Bose and Narinder Kapany impact our modern daily life?",
+    "answer": "Jagadish Chandra Bose conducted early experiments using microwaves, which laid the crucial foundation for modern radio broadcasting and wireless communication before Marconi. Narinder Kapany pioneered fibre optics, earning the title 'father of fibre optics'. His work is directly responsible for today's high-speed internet and clear global telecommunications, heavily impacting modern daily life.",
+    "keywords": [
+      "microwaves",
+      "radio broadcasting",
+      "Marconi",
+      "pioneered fibre optics",
+      "high-speed internet",
+      "telecommunications"
+    ],
+    "explanation": "This links the historical facts from the listening dialogue to their real-world modern applications.",
+    "page_number": "Textbook, Page 250"
+  },
+  {
+    "id": 70,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "Explain how the ancient game of Snakes and Ladders originally had a deeper spiritual meaning.",
+    "answer": "In ancient India, Snakes and Ladders wasn't just a fun board game; it was designed as a spiritual and moral teaching tool for children. The ladders represented virtues and good deeds that elevate a person, while the snakes represented evil and vices that drag a person down spiritually, teaching the consequences of actions.",
+    "keywords": [
+      "moral teaching tool",
+      "ladders represented virtues",
+      "elevate a person",
+      "snakes represented evil",
+      "vices drag down",
+      "consequences"
+    ],
+    "explanation": "This requires extracting the specific details from the father-daughter dialogue regarding the game's origins.",
+    "page_number": "Textbook, Page 250"
+  },
+  {
+    "id": 71,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "How does the magnifying glass act as a 'Transformation Matrix' for the scrap of chalk?",
+    "answer": "The 'Transformation Matrix' highlights how ordinary objects gain poetic effect under magnification. For the ordinary scrap of chalk, the magnifying glass visually transforms its plain white surface into a complex image of a myriad of ancient, intricately coiled micro-shells. The poetic effect is that it reveals the hidden, deep history of the object.",
+    "keywords": [
+      "Transformation Matrix",
+      "ordinary scrap",
+      "myriad ancient shells",
+      "intricately coiled",
+      "poetic effect",
+      "reveals hidden history"
+    ],
+    "explanation": "This references the specific 'Transformation Matrix' slide in the presentation, asking for the breakdown of the chalk example.",
+    "page_number": "Presentation, Page 7"
+  },
+  {
+    "id": 72,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "Elaborate on the poetic effect of observing a drop of water under a magnifying glass.",
+    "answer": "When an ordinary drop of water is viewed through the magnifying lens, it ceases to be just a clear, still liquid. The magnified image reveals a bustling, active microscopic environment. The poetic effect, described through the simile 'like hive of bees', is that it shows teeming, chaotic life hidden within a seemingly empty droplet.",
+    "keywords": [
+      "magnified image",
+      "bustling active environment",
+      "poetic effect",
+      "simile like hive",
+      "teeming chaotic life",
+      "hidden"
+    ],
+    "explanation": "This requires understanding the correlation between the literal object, the magnified image, and the resulting poetic metaphor.",
+    "page_number": "Presentation, Page 7"
+  },
+  {
+    "id": 73,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "In the fifth stanza, what does the poet mean when he says the tiniest thing will 'itself surpass' under the glass?",
+    "answer": "The poet means that when observed closely through the magnifying glass, even the smallest, most insignificant object reveals layers of detail, beauty, and complexity. By exposing these hidden wonders, the object exceeds its normal, plain appearance, effectively 'surpassing itself' by becoming something far more grand and marvellous than it initially seemed to the naked eye.",
+    "keywords": [
+      "smallest object",
+      "reveals detail beauty",
+      "complexity",
+      "exceeds normal appearance",
+      "surpassing itself",
+      "grand and marvellous"
+    ],
+    "explanation": "This requires interpreting the archaic phrasing 'itself surpass' within the context of magnification.",
+    "page_number": "Textbook, Page 223"
+  },
+  {
+    "id": 74,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "How does the poem illustrate that our natural senses are limited without tools of observation?",
+    "answer": "The poem illustrates this by showing that without the 'round glass', the poet would only see a boring scrap of chalk, plain green moss, and a clear water drop. Our naked eyes completely miss the myriad shells, miniature forests, and chaotic life. The lens proves our natural sight is extremely limited compared to reality's true complexity.",
+    "keywords": [
+      "without round glass",
+      "plain objects",
+      "naked eyes miss",
+      "myriad shells",
+      "miniature forests",
+      "natural sight limited",
+      "true complexity"
+    ],
+    "explanation": "This asks the student to synthesize the poem's examples to prove the broader thematic point about sensory limits.",
+    "page_number": "Textbook, Page 222"
+  },
+  {
+    "id": 75,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Write a clear, meaningful 3-sentence scenario using the idiom 'see eye to eye'.",
+    "answer": "My partner and I did not see eye to eye at first regarding the science project layout. We argued about it for almost an hour. After discussing our ideas calmly, we finally saw eye to eye and agreed on the best method for the experiment.",
+    "keywords": [
+      "see eye to eye",
+      "science project",
+      "argued",
+      "discussing calmly",
+      "agreed on best method"
+    ],
+    "explanation": "This assesses vocabulary application, requiring the creation of context around an idiom as requested in the worksheet.",
+    "page_number": "Answer Key, Page 1"
+  },
+  {
+    "id": 76,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "How does the poem 'Magnifying Glass' build a sense of wonder and curiosity stanza by stanza?",
+    "answer": "The poem builds wonder through a repetitive pattern. It introduces an ordinary object (chalk, moss, water), then immediately reveals an extraordinary detail (shells, forest, bees) through magnification. This constant cycle of 'small thing leading to big discovery' keeps the reader curious. Finally, it scales up the wonder by shifting from microscopic bugs to imagining walking on the moon.",
+    "keywords": [
+      "repetitive pattern",
+      "ordinary object",
+      "extraordinary detail",
+      "small thing big discovery",
+      "curious",
+      "scales up",
+      "walking on moon"
+    ],
+    "explanation": "This tests structural comprehension, asking how the sequence of the stanzas creates an emotional arc.",
+    "page_number": "Textbook, Page 224"
+  },
+  {
+    "id": 77,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "What makes the Mauna Kea Observatory in Hawaii one of the most important observatories in the world?",
+    "answer": "The Mauna Kea Observatory is crucially important because it sits atop a dormant volcano at an extreme elevation of 4,205 metres. This high altitude, combined with a very dry environment and highly stable airflow, provides prime, distortion-free astronomical conditions. Because of this, it hosts the world's most powerful optical, infrared, and submillimeter telescopes.",
+    "keywords": [
+      "dormant volcano",
+      "extreme elevation",
+      "dry environment",
+      "stable airflow",
+      "prime conditions",
+      "powerful telescopes"
+    ],
+    "explanation": "This requires extracting multiple geographical and scientific facts from the reading passage about observatories.",
+    "page_number": "Textbook, Page 230"
+  },
+  {
+    "id": 78,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "Describe the James Webb Space Telescope and its significance according to the text.",
+    "answer": "Launched by NASA on December 25, 2021, the James Webb Space Telescope is the largest, most powerful, and most complex telescope ever sent into space. It orbits the Sun at a massive distance of 1.5 million kilometres from Earth, significantly pushing the limits of human vision to observe the deepest parts of the universe.",
+    "keywords": [
+      "NASA",
+      "December 2021",
+      "largest most powerful",
+      "complex telescope",
+      "orbits Sun",
+      "pushing limits human vision"
+    ],
+    "explanation": "This tests factual recall of the 'Modern Marvels' section detailing advanced lenses.",
+    "page_number": "Textbook, Page 230"
+  },
+  {
+    "id": 79,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "What role does perspective play in deepening our understanding of dull objects, based on the chapter's themes?",
+    "answer": "Perspective is everything. When we look at a shadow, a pebble, or a drop of water normally, they seem dull or empty. However, using tools like a magnifying glass literally changes our perspective. It reveals hidden shapes, secret colours, and complex life. This teaches us that adopting new viewpoints or tools can make the mundane deeply meaningful and fascinating.",
+    "keywords": [
+      "perspective is everything",
+      "seem dull or empty",
+      "changes perspective",
+      "hidden shapes",
+      "secret colours",
+      "new viewpoints",
+      "deeply meaningful"
+    ],
+    "explanation": "This synthesizes the core message from the comprehension exercises about changing perspective.",
+    "page_number": "Answer Key, Page 3"
+  },
+  {
+    "id": 80,
+    "subject": "English",
+    "chapter": "Magnifying Glass-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 80
+    },
+    "question": "'The world grows larger when I decide to look smaller.' Explain the implied meaning and deeper message of this statement.",
+    "answer": "The literal meaning is that magnifying small things makes them appear bigger. The implied meaning is that by paying close attention to tiny, overlooked details, our awareness of the world expands. The deeper message is that curiosity and careful observation broaden our minds, showing us that the universe is infinitely vast not just in outer space, but also microscopically.",
+    "keywords": [
+      "appear bigger",
+      "paying close attention",
+      "overlooked details",
+      "awareness expands",
+      "curiosity",
+      "broaden minds",
+      "vast microscopically"
+    ],
+    "explanation": "This analyzes the philosophical core of the lesson, requiring interpretation of an abstract statement provided in the exercise examples.",
+    "page_number": "Exercise Book, Page 4"
+  }
+]
