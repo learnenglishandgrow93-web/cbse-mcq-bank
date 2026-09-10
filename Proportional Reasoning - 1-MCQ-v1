@@ -1,0 +1,1617 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Additive changes usually preserve proportionality between the dimensions of an image.\nReason (R): Proportional relationships are based on multiplying by a constant factor, not on adding the same amount.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Additive changes do not preserve proportionality because proportionality requires scaling by a constant multiplication factor, not adding a fixed amount.",
+    "page_number": "180"
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The ratio 24:32 in its simplest form is 3:4.\nReason (R): To reduce a ratio to the simplest form, we divide the terms of the ratio by their Highest Common Factor (HCF).",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The HCF of 24 and 32 is 8. Dividing both terms by 8 gives the simplest form 3:4. Thus, the reason correctly explains the assertion.",
+    "page_number": "182"
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If the height and width of an image are both decreased by 6 units, the new image remains a similar figure.\nReason (R): Images become distorted when the height and width do not change by the same constant multiplicative factor.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Decreasing by 6 units is an additive change, which distorts the image and does not result in a similar figure. The reason is a true statement describing why the assertion is false.",
+    "page_number": "179"
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If the ratio of boys to girls in a class is 2:3, it implies there are exactly 2 boys and 3 girls in that class.\nReason (R): A ratio is a representation of the comparative size of two quantities and does not necessarily represent the actual numbers.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "A ratio like 2:3 shows comparative size (for every 2 boys, there are 3 girls), not the actual count. Hence, the assertion is false, but the reason is true.",
+    "page_number": "180"
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The ratios 4:5 and 12:15 are proportional.\nReason (R): Different equivalent ratios represent the same relation and reduce to the same simplest form.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "12:15 simplifies to 4:5. Because they reduce to the same simplest form, they describe the same relationship and are proportional.",
+    "page_number": "183"
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): In the relation a:b::c:d, 'c' is called Ichchha.\nReason (R): The rule of three is also known as Trairasika.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, but R is not the correct explanation of A.",
+    "explanation": "Both statements are factually correct according to the text, but the term 'Trairasika' simply meaning 'rule of three' does not explain why 'c' specifically is named Ichchha.",
+    "page_number": "192"
+  },
+  {
+    "id": 7,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): When two quantities vary such that new values are obtained by multiplication by a fixed number, they are proportional.\nReason (R): Multiplying or dividing each term of a ratio by a common number gives equivalent ratios.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Multiplying by a constant fixed number across terms directly defines how proportional equivalent ratios are formed, linking both statements logically.",
+    "page_number": "178"
+  },
+  {
+    "id": 8,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): 5:9 :: 20:36 is a valid statement of proportion.\nReason (R): In a proportion a:b :: c:d, a multiplied by d equals b multiplied by c.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The cross-multiplication principle (ad = bc) verifies proportion. Here, 5 * 36 = 180 and 9 * 20 = 180, so the reason correctly explains the assertion.",
+    "page_number": "190"
+  },
+  {
+    "id": 9,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The multiplicative factor for converting 100 pages printed in 4 minutes to the number of pages printed in 45 minutes is 45/4.\nReason (R): As the number of pages increases, the time taken decreases proportionally.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "The multiplier is indeed 45/4, but the reason is false because as the number of pages increases, the time taken also increases, not decreases.",
+    "page_number": "188"
+  },
+  {
+    "id": 10,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A pencil that is 0.16 m long is longer than a pencil that is 15 cm long.\nReason (R): 0.16 m is equal to 16 cm.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "To compare the lengths, they must be in the same unit. 0.16 m equals 16 cm, which is greater than 15 cm. Thus, R perfectly explains A.",
+    "page_number": "178"
+  },
+  {
+    "id": 11,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The statement of proportion 14:5 :: 7:10 is not valid.\nReason (R): The simplest forms of 14:5 and 7:10 are not identical, hence they are not proportional.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Proportions are valid only if both ratios reduce to the same simplest form. Since 14:5 and 7:10 do not, they are not proportional.",
+    "page_number": "190"
+  },
+  {
+    "id": 12,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A device downloading 1.5 GB in 10 minutes will download 12 GB in 1 hour 20 minutes at a constant speed.\nReason (R): 1 hour 20 minutes is 80 minutes, meaning the multiplying factor for time is 8.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "1 hour 20 minutes = 80 minutes. The time is multiplied by 8 (10 x 8 = 80). Proportionality dictates the data must also be multiplied by 8 (1.5 x 8 = 12 GB).",
+    "page_number": "194"
+  },
+  {
+    "id": 13,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The rectangular logos with side ratios 64:40 and 32:20 are proportional to each other.\nReason (R): Both ratios reduce to the same simplest form of 8:5.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "If two ratios simplify to the exact same lowest form (here 8:5), they describe the same relationship and are thus proportional.",
+    "page_number": "191"
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): For any valid proportion a:b::c:d, the mathematical relation a x c = b x d holds true.\nReason (R): Proportions are solved using the cross-multiplication method where a x d = b x c.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The cross-multiplication formula states ad = bc, meaning a x d = b x c. The assertion a x c = b x d is mathematically incorrect.",
+    "page_number": "192"
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Simplifying a ratio alters the original relationship between the quantities involved.\nReason (R): Simplifying a ratio only expresses the relationship in its lowest whole-number form by dividing by the HCF.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Simplifying a ratio does not change the relationship between the quantities; it merely changes the numerical expression. Thus, A is false.",
+    "page_number": "181"
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which symbol is used to represent a ratio?",
+    "options": [
+      "::",
+      "=",
+      ":",
+      "x"
+    ],
+    "answer": ":",
+    "explanation": "A ratio is a representation of the comparative size of two quantities that are related using the symbol ':'.",
+    "page_number": "180"
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "When we say 'b is proportional to a' with a constant 'f', which equation represents this relationship?",
+    "options": [
+      "b = f + a",
+      "b = f x a",
+      "b = a / f",
+      "f = b x a"
+    ],
+    "answer": "b = f x a",
+    "explanation": "When quantities are in proportion, new values are obtained by multiplication by a fixed number. This is written as b = f x a.",
+    "page_number": "178"
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "If the height and width of an image are both multiplied or divided by the same factor, what is preserved?",
+    "options": [
+      "The perimeter of the image",
+      "The size of the image",
+      "The shape of the image",
+      "The area of the image"
+    ],
+    "answer": "The shape of the image",
+    "explanation": "If height and width change by the same factor, the shape of the image is preserved even though the size changes.",
+    "page_number": "178"
+  },
+  {
+    "id": 19,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which of the following changes typically distorts an image and does not preserve proportionality?",
+    "options": [
+      "Multiplying dimensions by a constant",
+      "Dividing dimensions by a constant",
+      "Additive changes (adding/subtracting same amount)",
+      "Scaling by a percentage"
+    ],
+    "answer": "Additive changes (adding/subtracting same amount)",
+    "explanation": "Additive changes usually do not preserve proportionality because proportional relationships are based on multiplying by a constant factor.",
+    "page_number": "180"
+  },
+  {
+    "id": 20,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the LCM (Least Common Multiple) of 12 and 18?",
+    "options": [
+      "18",
+      "24",
+      "36",
+      "72"
+    ],
+    "answer": "36",
+    "explanation": "The multiples of 12 are 12, 24, 36... and the multiples of 18 are 18, 36... The lowest common multiple is 36.",
+    "page_number": "177"
+  },
+  {
+    "id": 21,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the HCF (Highest Common Factor) of 12 and 18?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "6"
+    ],
+    "answer": "6",
+    "explanation": "The factors of 12 are 1, 2, 3, 4, 6, 12. The factors of 18 are 1, 2, 3, 6, 9, 18. The highest common factor is 6.",
+    "page_number": "177"
+  },
+  {
+    "id": 22,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Write the fraction 12/20 in its simplest form.",
+    "options": [
+      "3/5",
+      "6/10",
+      "4/5",
+      "2/3"
+    ],
+    "answer": "3/5",
+    "explanation": "The HCF of 12 and 20 is 4. Dividing both numerator and denominator by 4 gives 3/5.",
+    "page_number": "178"
+  },
+  {
+    "id": 23,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Write the fraction 16/24 in its simplest form.",
+    "options": [
+      "4/6",
+      "8/12",
+      "2/3",
+      "3/4"
+    ],
+    "answer": "2/3",
+    "explanation": "The HCF of 16 and 24 is 8. Dividing both numerator and denominator by 8 gives 2/3.",
+    "page_number": "178"
+  },
+  {
+    "id": 24,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Write the fraction 15/25 in its simplest form.",
+    "options": [
+      "1/2",
+      "3/5",
+      "5/8",
+      "4/5"
+    ],
+    "answer": "3/5",
+    "explanation": "The HCF of 15 and 25 is 5. Dividing both numerator and denominator by 5 gives 3/5.",
+    "page_number": "178"
+  },
+  {
+    "id": 25,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Write the fraction 28/35 in its simplest form.",
+    "options": [
+      "7/8",
+      "3/5",
+      "2/5",
+      "4/5"
+    ],
+    "answer": "4/5",
+    "explanation": "The HCF of 28 and 35 is 7. Dividing both numerator and denominator by 7 gives 4/5.",
+    "page_number": "178"
+  },
+  {
+    "id": 26,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "A ratio is a representation of the comparative size of how many quantities?",
+    "options": [
+      "Only one",
+      "Exactly two",
+      "Three or more",
+      "Infinite"
+    ],
+    "answer": "Exactly two",
+    "explanation": "A ratio is defined as a representation of the comparative size of two quantities that are related.",
+    "page_number": "180"
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "The comparative size of a ratio a:b is usually shown as a fraction written as:",
+    "options": [
+      "b/a",
+      "a/b",
+      "a - b",
+      "a x b"
+    ],
+    "answer": "a/b",
+    "explanation": "The ratio a:b represents the ratio of a to b, which is usually written as the fraction a/b.",
+    "page_number": "180"
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "To express 24:32 in its simplest form, you must divide by their HCF. What is the HCF of 24 and 32?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "answer": "8",
+    "explanation": "To reduce 24:32, we find the HCF. The factors of 24 and 32 share the highest common factor of 8 (2 x 2 x 2).",
+    "page_number": "182"
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "To reduce a ratio to its simplest form, you should divide the terms of the ratio by their:",
+    "options": [
+      "Least Common Multiple (LCM)",
+      "Highest Common Factor (HCF)",
+      "Sum",
+      "Difference"
+    ],
+    "answer": "Highest Common Factor (HCF)",
+    "explanation": "Simplifying a ratio involves dividing both terms by their Highest Common Factor (HCF) to express it in lowest whole-number form.",
+    "page_number": "181"
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "If two or more ratios reduce to the same simplest form, they describe the same relationship and are said to be:",
+    "options": [
+      "Equal fractions",
+      "Proportional",
+      "Inverted",
+      "Additive"
+    ],
+    "answer": "Proportional",
+    "explanation": "Such ratios describe the same relationship between quantities and are said to be proportional.",
+    "page_number": "183"
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which symbol is used specifically to represent a proportion between two ratios?",
+    "options": [
+      ":",
+      "=",
+      "::",
+      "#"
+    ],
+    "answer": "::",
+    "explanation": "A proportion represents that two ratios are the same, and it is represented using the symbol '::'.",
+    "page_number": "183"
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "How do you correctly represent the phrase 'six is to eight as nine is to twelve'?",
+    "options": [
+      "6 : 9 :: 8 : 12",
+      "6 : 8 :: 9 : 12",
+      "6 : 12 :: 8 : 9",
+      "8 : 6 :: 12 : 9"
+    ],
+    "answer": "6 : 8 :: 9 : 12",
+    "explanation": "The statement 6:8 :: 9:12 is read exactly as 'six is to eight as nine is to twelve'.",
+    "page_number": "183"
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Multiplication or division of each term of a ratio by a common number gives:",
+    "options": [
+      "Distorted ratios",
+      "Equivalent ratios",
+      "Additive numbers",
+      "Simplest forms"
+    ],
+    "answer": "Equivalent ratios",
+    "explanation": "Different equivalent ratios represent the same relation, obtained by multiplying or dividing each term by a common number.",
+    "page_number": "182"
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the traditional name given to the Rule of Three?",
+    "options": [
+      "Baudhayana",
+      "Sulba Sutra",
+      "Trairasika",
+      "Lilavati"
+    ],
+    "answer": "Trairasika",
+    "explanation": "The rule of three is also known in historical Indian mathematics texts as 'Trairasika'.",
+    "page_number": "192"
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "In the context of the Rule of Three (Trairasika), what is the unknown quantity 'd' called?",
+    "options": [
+      "Pramana",
+      "Phala",
+      "Ichchha",
+      "Ichchhaphala"
+    ],
+    "answer": "Ichchhaphala",
+    "explanation": "In the relation a:b :: c:d, 'd' is the unknown quantity and is called the ichchhaphala.",
+    "page_number": "192"
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "In the proportional relation a : b :: c : d for the Rule of Three, what does 'a' represent?",
+    "options": [
+      "Pramana",
+      "Phala",
+      "Ichchha",
+      "Ichchhaphala"
+    ],
+    "answer": "Pramana",
+    "explanation": "In the relation a:b :: c:d, the first term 'a' is called the pramana.",
+    "page_number": "192"
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "In the proportional relation a : b :: c : d for the Rule of Three, what does 'b' represent?",
+    "options": [
+      "Pramana",
+      "Phala",
+      "Ichchha",
+      "Ichchhaphala"
+    ],
+    "answer": "Phala",
+    "explanation": "In the relation a:b :: c:d, the second term 'b' is called the phala.",
+    "page_number": "192"
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "In the proportional relation a : b :: c : d for the Rule of Three, what does 'c' represent?",
+    "options": [
+      "Pramana",
+      "Phala",
+      "Ichchha",
+      "Ichchhaphala"
+    ],
+    "answer": "Ichchha",
+    "explanation": "In the relation a:b :: c:d, the third term 'c' is called the ichchha.",
+    "page_number": "192"
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which method is commonly used to solve proportion problems where ad = bc?",
+    "options": [
+      "Cross multiplication method",
+      "Long division method",
+      "Factoring method",
+      "Additive method"
+    ],
+    "answer": "Cross multiplication method",
+    "explanation": "Such proportional rule-of-three problems are typically solved using the cross multiplication method.",
+    "page_number": "192"
+  },
+  {
+    "id": 40,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "The proportion 4:5 :: 12:15 can also be written mathematically as:",
+    "options": [
+      "4/12 = 5/15",
+      "4/5 = 12/15",
+      "4 x 5 = 12 x 15",
+      "5/4 = 12/15"
+    ],
+    "answer": "4/5 = 12/15",
+    "explanation": "Often, we equate two equivalent ratios as two equivalent fractions, meaning 4/5 = 12/15.",
+    "page_number": "191"
+  },
+  {
+    "id": 41,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "If the equation d = (b x c) / a is given, which of the following is true by cross-multiplication?",
+    "options": [
+      "a x c = b x d",
+      "a x b = c x d",
+      "a x d = b x c",
+      "b x d = a x c"
+    ],
+    "answer": "a x d = b x c",
+    "explanation": "Multiplying both sides by 'a' gives a x d = b x c, which is the standard cross multiplication form for a:b :: c:d.",
+    "page_number": "192"
+  },
+  {
+    "id": 42,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "One paper strip is coloured so that 2/3 of it is shaded. Another strip is divided into 6 equal parts. How many parts should be coloured to appear the same?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4",
+    "explanation": "To make 2/3 equivalent to a fraction with denominator 6, multiply both terms by 2, resulting in 4/6. Hence, 4 parts must be shaded.",
+    "page_number": "177"
+  },
+  {
+    "id": 43,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Equivalent fractions are different fractions that represent the same:",
+    "options": [
+      "Numerator",
+      "Value",
+      "Denominator",
+      "Difference"
+    ],
+    "answer": "Value",
+    "explanation": "Just as different equivalent fractions represent the same value, different equivalent ratios represent the same relation.",
+    "page_number": "182"
+  },
+  {
+    "id": 44,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "If the height and width of an image are multiplied by one-half, what is the result?",
+    "options": [
+      "A distorted smaller image",
+      "A similar larger image",
+      "A similar smaller image",
+      "A distorted larger image"
+    ],
+    "answer": "A similar smaller image",
+    "explanation": "Multiplying dimensions by the same constant factor (one-half) preserves the shape, creating a similar smaller image.",
+    "page_number": "178"
+  },
+  {
+    "id": 45,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "In the setup 100 : 4 :: ___ : 45 for the printer problem, what quantity should be in the blank to maintain the correct order?",
+    "options": [
+      "Time taken",
+      "Number of pages",
+      "Multiplying factor",
+      "Constant"
+    ],
+    "answer": "Number of pages",
+    "explanation": "The order is pages:time. Since the left side is 100 pages : 4 minutes, the right side must be pages : 45 minutes.",
+    "page_number": "188"
+  },
+  {
+    "id": 46,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In a class of 30 students, the ratio of boys to girls is 2:3. If you group all students into groups of 5, how many groups will there be?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "10"
+    ],
+    "answer": "6",
+    "explanation": "The total ratio parts are 2+3=5, which forms a group of 5. For 30 students, the number of groups is 30 ÷ 5 = 6.",
+    "page_number": "181"
+  },
+  {
+    "id": 47,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "The ratio of boys to girls in a class is 2:3. If there are 30 students in total, what is the number of boys?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "18"
+    ],
+    "answer": "12",
+    "explanation": "The number of groups of 5 is 6. For every group, there are 2 boys. Total boys = 2 x 6 = 12.",
+    "page_number": "181"
+  },
+  {
+    "id": 48,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "The ratio of boys to girls in a class is 2:3. If there are 30 students in total, what is the number of girls?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "20"
+    ],
+    "answer": "18",
+    "explanation": "The number of groups of 5 is 6. For every group, there are 3 girls. Total girls = 3 x 6 = 18.",
+    "page_number": "181"
+  },
+  {
+    "id": 49,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "To compare a 15 cm pencil with a 0.16 m pencil, you must first convert 0.16 m to cm. What is it in cm?",
+    "options": [
+      "1.6 cm",
+      "16 cm",
+      "160 cm",
+      "0.016 cm"
+    ],
+    "answer": "16 cm",
+    "explanation": "Since 1 metre = 100 cm, 0.16 m = 0.16 x 100 cm = 16 cm.",
+    "page_number": "178"
+  },
+  {
+    "id": 50,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "One pencil is 15 cm long and another is 0.16 m long. Which pencil is longer?",
+    "options": [
+      "15 cm pencil",
+      "0.16 m pencil",
+      "They are identical",
+      "Cannot be determined"
+    ],
+    "answer": "0.16 m pencil",
+    "explanation": "0.16 m equals 16 cm. Since 16 cm is greater than 15 cm, the 0.16 m pencil is longer.",
+    "page_number": "178"
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the HCF of 5 and 100 used to divide the bank interest ratio 5:100?",
+    "options": [
+      "1",
+      "5",
+      "10",
+      "25"
+    ],
+    "answer": "5",
+    "explanation": "The highest common factor dividing both 5 and 100 is 5.",
+    "page_number": "185"
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the simplest form of the interest to deposit ratio 5:100?",
+    "options": [
+      "1:10",
+      "1:20",
+      "1:50",
+      "2:50"
+    ],
+    "answer": "1:20",
+    "explanation": "Dividing both 5 and 100 by their HCF of 5 yields the simplest form 1:20.",
+    "page_number": "185"
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A bank gives 5 rupees interest for every 100 rupees deposited. What amount should you deposit to get 500 rupees as interest?",
+    "options": [
+      "1,000",
+      "5,000",
+      "10,000",
+      "25,000"
+    ],
+    "answer": "10,000",
+    "explanation": "The ratio is 1:20. Since 1 is multiplied by 500 to get 500 interest, the deposit 20 must also be multiplied by 500, giving 10,000.",
+    "page_number": "185"
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In the bank problem, the ratio of interest to deposit is 1:20. If the interest changes from 1 to 500, what is the multiplying factor?",
+    "options": [
+      "20",
+      "100",
+      "500",
+      "1000"
+    ],
+    "answer": "500",
+    "explanation": "To go from an interest of 1 unit to 500 units, the multiplication factor used is 500.",
+    "page_number": "185"
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In Arrangement 1 of the tiles problem, four out of nine tiles are designed. What is the ratio of designed tiles to total tiles?",
+    "options": [
+      "4:5",
+      "5:9",
+      "4:9",
+      "9:4"
+    ],
+    "answer": "4:9",
+    "explanation": "The text states that in Arrangement 1, four out of nine tiles are designed, yielding the ratio 4:9.",
+    "page_number": "187"
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In Arrangement 2 of the tiles problem, two out of three tiles are designed. What is the ratio of designed tiles to total tiles?",
+    "options": [
+      "2:3",
+      "3:2",
+      "1:3",
+      "2:5"
+    ],
+    "answer": "2:3",
+    "explanation": "The text states that in Arrangement 2, two out of three tiles are designed, yielding the ratio 2:3.",
+    "page_number": "187"
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In Arrangement 3 of the tiles problem, twenty out of thirty-six tiles are designed. What is this ratio before simplifying?",
+    "options": [
+      "20:16",
+      "16:36",
+      "20:36",
+      "36:20"
+    ],
+    "answer": "20:36",
+    "explanation": "Twenty out of thirty-six tiles are designed, so the ratio of designed to total tiles is 20:36.",
+    "page_number": "187"
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the simplest form of the ratio 20:36 from Arrangement 3?",
+    "options": [
+      "10:18",
+      "5:9",
+      "4:7",
+      "2:3"
+    ],
+    "answer": "5:9",
+    "explanation": "Dividing 20 and 36 by their HCF of 4 gives 5:9.",
+    "page_number": "187"
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Comparing the tile arrangements (4:9, 2:3, 5:9) where designed tiles are more expensive, which arrangement is the most economical option?",
+    "options": [
+      "Arrangement 1",
+      "Arrangement 2",
+      "Arrangement 3",
+      "All cost the same"
+    ],
+    "answer": "Arrangement 1",
+    "explanation": "Arrangement 1 (4/9) has the least ratio of designed tiles to total tiles, making it the most economical option.",
+    "page_number": "187"
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Comparing the tile arrangements (4/9, 6/9, 5/9), which is the least economical arrangement?",
+    "options": [
+      "Arrangement 1",
+      "Arrangement 2",
+      "Arrangement 3",
+      "None"
+    ],
+    "answer": "Arrangement 2",
+    "explanation": "Arrangement 2 is 2/3, which equals 6/9. Since 6/9 is the largest fraction, it uses the most designed tiles and is the least economical.",
+    "page_number": "187"
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A printer prints 100 pages in 4 minutes. In the proportion 100 : 4 :: x : 45, what is the multiplication factor applied to the time?",
+    "options": [
+      "45",
+      "11.25",
+      "45/4",
+      "25"
+    ],
+    "answer": "45/4",
+    "explanation": "To get from 4 to 45, you multiply by 45/4. Hence, the multiplication factor is 45/4.",
+    "page_number": "188"
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A printer can print 100 pages in 4 minutes. How many pages will be printed in 45 minutes?",
+    "options": [
+      "900",
+      "1,000",
+      "1,125",
+      "1,250"
+    ],
+    "answer": "1,125",
+    "explanation": "Using proportionality: 100 x (45/4) = 25 x 45 = 1,125 pages.",
+    "page_number": "188"
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Verify if the statement of proportion 5:9 :: 20:36 is true or false.",
+    "options": [
+      "True",
+      "False",
+      "Only true if added by 1",
+      "Cannot be determined"
+    ],
+    "answer": "True",
+    "explanation": "It is true because 5 x 36 = 180 and 9 x 20 = 180. The cross-products are equal.",
+    "page_number": "190"
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Verify if the statement of proportion 6:11 :: 18:33 is true or false.",
+    "options": [
+      "True",
+      "False",
+      "Only true for multiples of 6",
+      "Cannot be verified"
+    ],
+    "answer": "True",
+    "explanation": "6/11 is equivalent to 18/33 since multiplying both 6 and 11 by 3 yields 18 and 33.",
+    "page_number": "190"
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the simplest form of the ratio 21:12?",
+    "options": [
+      "7:4",
+      "7:3",
+      "3:4",
+      "4:7"
+    ],
+    "answer": "7:4",
+    "explanation": "Dividing both 21 and 12 by their HCF of 3 gives 7:4.",
+    "page_number": "190"
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "If 16 : 6 :: 40 : x is a true proportion, what is the value of x?",
+    "options": [
+      "12",
+      "15",
+      "18",
+      "24"
+    ],
+    "answer": "15",
+    "explanation": "By cross multiplication: 16x = 6 * 40. 16x = 240, so x = 240 / 16 = 15.",
+    "page_number": "190"
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Is the statement 12 : 20 :: 9 : 15 true?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if reversed",
+      "Data missing"
+    ],
+    "answer": "Yes",
+    "explanation": "12/20 simplifies to 3/5, and 9/15 also simplifies to 3/5. Thus, they are proportional.",
+    "page_number": "190"
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the HCF of 85 and 119 to reduce the ratio 85:119?",
+    "options": [
+      "7",
+      "13",
+      "17",
+      "19"
+    ],
+    "answer": "17",
+    "explanation": "85 = 5 x 17 and 119 = 7 x 17. The highest common factor is 17.",
+    "page_number": "191"
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Do the ratios 5:7 and 85:119 form a proportion?",
+    "options": [
+      "No",
+      "Yes",
+      "Only if added",
+      "Cannot be determined"
+    ],
+    "answer": "Yes",
+    "explanation": "Dividing 85 and 119 by 17 gives 5 and 7 respectively, so 85:119 simplifies to 5:7. Thus, they form a proportion.",
+    "page_number": "191"
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A painter uses 4 litres of paint to cover 24 square metres. What is the simplified ratio of area covered to paint used?",
+    "options": [
+      "1:6",
+      "6:1",
+      "4:24",
+      "3:2"
+    ],
+    "answer": "6:1",
+    "explanation": "Area is 24, paint is 4. The ratio is 24:4, which simplifies to 6:1.",
+    "page_number": "191"
+  },
+  {
+    "id": 71,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Another painter uses 6 litres of paint to cover 36 square metres. What is the simplified ratio of area covered to paint used?",
+    "options": [
+      "1:6",
+      "6:1",
+      "36:6",
+      "3:1"
+    ],
+    "answer": "6:1",
+    "explanation": "Area is 36, paint is 6. The ratio is 36:6, which simplifies to 6:1.",
+    "page_number": "191"
+  },
+  {
+    "id": 72,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A designer creates a rectangular logo with side ratios 64:40. What is this ratio in its simplest form?",
+    "options": [
+      "8:5",
+      "16:10",
+      "4:3",
+      "32:20"
+    ],
+    "answer": "8:5",
+    "explanation": "Dividing both 64 and 40 by their HCF of 8 gives the simplest form 8:5.",
+    "page_number": "191"
+  },
+  {
+    "id": 73,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A designer creates a logo with side ratios 48:36. What is this ratio in its simplest form?",
+    "options": [
+      "12:9",
+      "8:6",
+      "4:3",
+      "3:2"
+    ],
+    "answer": "4:3",
+    "explanation": "Dividing both 48 and 36 by their HCF of 12 gives the simplest form 4:3.",
+    "page_number": "191"
+  },
+  {
+    "id": 74,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "When four quantities a, b, c, and d are in proportion (a:b :: c:d), which of the following is a valid relation for b?",
+    "options": [
+      "b = (a x d) / c",
+      "b = (a x c) / d",
+      "b = (b x c) / a",
+      "b = (c x d) / a"
+    ],
+    "answer": "b = (a x d) / c",
+    "explanation": "From cross multiplication ad = bc, dividing both sides by c gives b = (ad) / c.",
+    "page_number": "193"
+  },
+  {
+    "id": 75,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "When four quantities a, b, c, and d are in proportion (a:b :: c:d), which of the following is a valid relation for c?",
+    "options": [
+      "c = (b x c) / d",
+      "c = (a x d) / b",
+      "c = (a x b) / d",
+      "c = (b x d) / a"
+    ],
+    "answer": "c = (a x d) / b",
+    "explanation": "From cross multiplication ad = bc, dividing both sides by b gives c = (ad) / b.",
+    "page_number": "193"
+  },
+  {
+    "id": 76,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "When four quantities a, b, c, and d are in proportion (a:b :: c:d), which of the following is a valid relation for a?",
+    "options": [
+      "a = (b x c) / d",
+      "a = (c x d) / b",
+      "a = (a x d) / c",
+      "a = (b x d) / c"
+    ],
+    "answer": "a = (b x c) / d",
+    "explanation": "From cross multiplication ad = bc, dividing both sides by d gives a = (bc) / d.",
+    "page_number": "193"
+  },
+  {
+    "id": 77,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A generator consumes 7.5 litres of diesel in 5 hours. What is the simplest ratio of fuel consumed to time?",
+    "options": [
+      "3:2",
+      "15:10",
+      "7.5:5",
+      "75:50"
+    ],
+    "answer": "3:2",
+    "explanation": "7.5 to 5 can be written as 75 to 50. Dividing both by 25 yields the simplest form 3:2.",
+    "page_number": "193"
+  },
+  {
+    "id": 78,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A generator consumes 7.5 litres of diesel in 5 hours. How much diesel will it consume in 16 hours at a constant rate?",
+    "options": [
+      "18 litres",
+      "20 litres",
+      "24 litres",
+      "32 litres"
+    ],
+    "answer": "24 litres",
+    "explanation": "Using the rule of three: f = (7.5 x 16) / 5 = 120 / 5 = 24 litres.",
+    "page_number": "193"
+  },
+  {
+    "id": 79,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "An image has height 15 cm and width 12 cm. If you draw a similar image with a height of 35 cm, what should be the width of the new image?",
+    "options": [
+      "20 cm",
+      "24 cm",
+      "28 cm",
+      "30 cm"
+    ],
+    "answer": "28 cm",
+    "explanation": "Ratio of height to width is 15:12, which simplifies to 5:4. Thus, 5:4 :: 35:w. Solving for w: w = (35 x 4) / 5 = 28 cm.",
+    "page_number": "194"
+  },
+  {
+    "id": 80,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A worker earns ₹540 for working 6 days. How much will the worker earn for 14 days of work, assuming wages are directly proportional to days worked?",
+    "options": [
+      "₹1120",
+      "₹1260",
+      "₹1400",
+      "₹1540"
+    ],
+    "answer": "₹1260",
+    "explanation": "Earnings per day = 540 / 6 = ₹90. For 14 days: 14 x 90 = ₹1260.",
+    "page_number": "194"
+  },
+  {
+    "id": 81,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A car travels 180 km in 3 hours at a constant speed. How much time will it take to travel 270 km at the same speed?",
+    "options": [
+      "4 hours",
+      "4.5 hours",
+      "5 hours",
+      "5.5 hours"
+    ],
+    "answer": "4.5 hours",
+    "explanation": "Speed = 180 / 3 = 60 km/hr. Time to travel 270 km = 270 / 60 = 4.5 hours.",
+    "page_number": "194"
+  },
+  {
+    "id": 82,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "On a map, 4 cm represents a distance of 12 km. What actual distance does 9 cm represent on the same map?",
+    "options": [
+      "18 km",
+      "24 km",
+      "27 km",
+      "36 km"
+    ],
+    "answer": "27 km",
+    "explanation": "The scale is 12/4 = 3 km per cm. For 9 cm, the distance is 9 x 3 = 27 km.",
+    "page_number": "194"
+  },
+  {
+    "id": 83,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A device downloads 1.5 GB of data in 10 minutes at a constant speed. How much data will it download in 1 hour 20 minutes?",
+    "options": [
+      "9.0 GB",
+      "10.5 GB",
+      "12.0 GB",
+      "15.0 GB"
+    ],
+    "answer": "12.0 GB",
+    "explanation": "1 hr 20 mins = 80 minutes. Using proportion 1.5/10 = x/80 => x = 1.5 * 8 = 12 GB.",
+    "page_number": "194"
+  },
+  {
+    "id": 84,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In Rectangle 3, the length is 12 units and the width is 4 units. By what multiplication factor is the width related to the length?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/4",
+      "3"
+    ],
+    "answer": "1/3",
+    "explanation": "The width is 4 and the length is 12, so the factor to get the width from length is 4/12 = 1/3.",
+    "page_number": "184"
+  },
+  {
+    "id": 85,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In the relation 'b = f x a', what does the constant 'f' strictly represent?",
+    "options": [
+      "The additive difference",
+      "The proportional length",
+      "The multiplication factor",
+      "The equivalent fraction"
+    ],
+    "answer": "The multiplication factor",
+    "explanation": "'f' is the constant multiplication factor by which 'a' is multiplied to obtain 'b'.",
+    "page_number": "178"
+  },
+  {
+    "id": 86,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A recipe uses 1/2 cup of sugar for 3/4 cup of flour. How much sugar is needed to make four times the given quantity?",
+    "options": [
+      "1 cup",
+      "2 cups",
+      "3 cups",
+      "4 cups"
+    ],
+    "answer": "2 cups",
+    "explanation": "The original quantity of sugar is 1/2 cup. To make four times the quantity, we multiply by 4: (1/2) x 4 = 2 cups.",
+    "page_number": "177"
+  },
+  {
+    "id": 87,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A recipe uses 1/2 cup of sugar for 3/4 cup of flour. How much flour is needed to make four times the given quantity?",
+    "options": [
+      "2 cups",
+      "3 cups",
+      "4 cups",
+      "6 cups"
+    ],
+    "answer": "3 cups",
+    "explanation": "The original quantity of flour is 3/4 cup. To make four times the quantity, multiply by 4: (3/4) x 4 = 3 cups.",
+    "page_number": "177"
+  },
+  {
+    "id": 88,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "An image has an initial height of 10 units. If it is decreased by 6 units, what is the multiplication factor for the new height?",
+    "options": [
+      "1/2",
+      "2/5",
+      "3/5",
+      "1/4"
+    ],
+    "answer": "2/5",
+    "explanation": "The new height is 10 - 6 = 4 units. The multiplication factor is new height / initial height = 4/10 = 2/5.",
+    "page_number": "180"
+  },
+  {
+    "id": 89,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "An image has an initial width of 8 units. If it is decreased by 6 units, what is the multiplication factor for the new width?",
+    "options": [
+      "1/4",
+      "2/5",
+      "3/8",
+      "1/2"
+    ],
+    "answer": "1/4",
+    "explanation": "The new width is 8 - 6 = 2 units. The multiplication factor is new width / initial width = 2/8 = 1/4.",
+    "page_number": "180"
+  },
+  {
+    "id": 90,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "If a proportion states c = f × a, and we have initial dimension a = 10 and new dimension c = 4, what is the value of the factor f?",
+    "options": [
+      "0.2",
+      "0.4",
+      "2.5",
+      "0.6"
+    ],
+    "answer": "0.4",
+    "explanation": "Rearranging the formula gives f = c / a. Thus, f = 4 / 10 = 0.4.",
+    "page_number": "192"
+  },
+  {
+    "id": 91,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Using the terminology of Trairasika, how is the unknown quantity Ichchhaphala ('d') expressed mathematically given Pramana ('a'), Phala ('b'), and Ichchha ('c')?",
+    "options": [
+      "d = (a x c) / b",
+      "d = (b x c) / a",
+      "d = (a x b) / c",
+      "d = (a x d) / c"
+    ],
+    "answer": "d = (b x c) / a",
+    "explanation": "The Rule of Three specifies that Ichchhaphala is found by multiplying phala by ichchha and dividing by pramana, which translates to d = (b x c) / a.",
+    "page_number": "192"
+  },
+  {
+    "id": 92,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Why do additive changes to the dimensions of an image lead to a distorted image rather than a similar figure?",
+    "options": [
+      "Because they subtract quantities instead of adding.",
+      "Because proportional relationships require a constant multiplication factor, not adding a constant amount.",
+      "Because the units change entirely.",
+      "Because additive changes always increase dimensions."
+    ],
+    "answer": "Because proportional relationships require a constant multiplication factor, not adding a constant amount.",
+    "explanation": "Proportionality is multiplicative. Adding the same amount to both height and width changes their ratio, thereby distorting the image.",
+    "page_number": "180"
+  },
+  {
+    "id": 93,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "In the proportionality 100 : 4 :: x : 45 concerning a printer, maintaining order is critical. What correctly describes the sequence of this order?",
+    "options": [
+      "time taken : pages printed",
+      "pages printed : time taken",
+      "pages printed : constant speed",
+      "time taken : multiplication factor"
+    ],
+    "answer": "pages printed : time taken",
+    "explanation": "The problem states the printer prints 100 pages in 4 minutes, making the ratio pages:time. Thus, the order on both sides must be pages:time.",
+    "page_number": "188"
+  },
+  {
+    "id": 94,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "If verifying the proportion 4 : 5 :: 12 : 15 yields the equation 60 = 60, what do the products 4 x 15 and 5 x 12 represent algebraically from the cross-multiplication ad = bc?",
+    "options": [
+      "The sum of terms",
+      "The product of the extremes and the product of the means",
+      "The highest common factors",
+      "The ratio denominators"
+    ],
+    "answer": "The product of the extremes and the product of the means",
+    "explanation": "In a:b :: c:d, 'a' and 'd' are extremes, 'b' and 'c' are means. Cross-multiplication states that the product of the extremes (ad) equals the product of the means (bc).",
+    "page_number": "191"
+  },
+  {
+    "id": 95,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Rectangle 1 is 6 by 2 units, Rectangle 2 is 3 by 1 units, and Rectangle 3 is 12 by 4 units. What is true regarding their similarity?",
+    "options": [
+      "Only Rectangles 1 and 2 are similar.",
+      "Only Rectangles 1 and 3 are similar.",
+      "All three rectangles are similar because their length to width ratio is 3:1.",
+      "None of them are similar."
+    ],
+    "answer": "All three rectangles are similar because their length to width ratio is 3:1.",
+    "explanation": "Rectangle 1 is 6:2=3:1. Rectangle 2 is 3:1. Rectangle 3 is 12:4=3:1. Since all share the same ratio, they are all similar.",
+    "page_number": "184"
+  },
+  {
+    "id": 96,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "When comparing the tile fractions 4/9, 2/3, and 5/9 to find the most economical option, what is their correct ascending order?",
+    "options": [
+      "4/9 < 5/9 < 2/3",
+      "2/3 < 4/9 < 5/9",
+      "5/9 < 4/9 < 2/3",
+      "2/3 < 5/9 < 4/9"
+    ],
+    "answer": "4/9 < 5/9 < 2/3",
+    "explanation": "Convert 2/3 to a common denominator: 2/3 = 6/9. Then compare the numerators: 4 < 5 < 6. So, 4/9 < 5/9 < 6/9 (or 2/3).",
+    "page_number": "187"
+  },
+  {
+    "id": 97,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A designer creates rectangular logos with side ratios 64:40 and 48:36. Why are these logos NOT proportional to each other?",
+    "options": [
+      "Because 64 - 40 is not equal to 48 - 36.",
+      "Because they represent different visual shapes since 8:5 is not equal to 4:3.",
+      "Because their areas are unequal.",
+      "Because their additive difference is inconsistent."
+    ],
+    "answer": "Because they represent different visual shapes since 8:5 is not equal to 4:3.",
+    "explanation": "64:40 reduces to 8:5, and 48:36 reduces to 4:3. Proportionality requires ratios to reduce to the identical simplest form.",
+    "page_number": "191"
+  },
+  {
+    "id": 98,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What statement accurately describes the conceptual difference between equivalent fractions and equivalent ratios as taught in the text?",
+    "options": [
+      "Fractions cannot be simplified, but ratios can.",
+      "Equivalent fractions represent the same value, while equivalent ratios represent the same relation.",
+      "Equivalent ratios are only expressed with the '::' symbol.",
+      "There is absolutely no difference; they are synonymous."
+    ],
+    "answer": "Equivalent fractions represent the same value, while equivalent ratios represent the same relation.",
+    "explanation": "The text states explicitly: 'Just as different equivalent fractions represent the same value, different equivalent ratios represent the same relation.'",
+    "page_number": "182"
+  },
+  {
+    "id": 99,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "To find 'f' in the proportion 7.5 : 5 :: f : 16 for diesel consumption, what is the correct cross-multiplication equation?",
+    "options": [
+      "7.5 x f = 5 x 16",
+      "5 x f = 7.5 x 16",
+      "f = 5 / (7.5 x 16)",
+      "5 + f = 7.5 + 16"
+    ],
+    "answer": "5 x f = 7.5 x 16",
+    "explanation": "Cross multiplying the proportion (ad = bc) equates the product of extremes to the product of means: 7.5 x 16 = 5 x f.",
+    "page_number": "193"
+  },
+  {
+    "id": 100,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning - 1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Attempting to prove the proportion 14 : 5 :: 7 : 10 using the cross-multiplication method results in failure because:",
+    "options": [
+      "14 x 5 ≠ 7 x 10",
+      "14 x 7 ≠ 5 x 10",
+      "14 x 10 ≠ 5 x 7",
+      "14 + 10 ≠ 5 + 7"
+    ],
+    "answer": "14 x 10 ≠ 5 x 7",
+    "explanation": "Applying cross-multiplication (ad = bc) gives 14 x 10 (which is 140) and 5 x 7 (which is 35). Since 140 ≠ 35, the proportion fails.",
+    "page_number": "190"
+  }
+]
