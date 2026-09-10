@@ -1,0 +1,1702 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What do variables represent in mathematical expressions?",
+    "options": [
+      "Fixed numerical values that never change",
+      "Symbols that represent unknown or changeable quantities",
+      "The final result of an algebraic equation",
+      "The equality sign between two expressions"
+    ],
+    "answer": "Symbols that represent unknown or changeable quantities",
+    "explanation": "Variables are defined as symbols (usually letters) that represent unknown or changeable quantities in mathematical expressions and equations. They allow us to write general rules and formulas.",
+    "page_number": "2"
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Which of the following is an example of an algebraic expression?",
+    "options": [
+      "5x + 9 = x^2 - 5",
+      "2x + 9",
+      "7 * 9 = 63",
+      "x = 4"
+    ],
+    "answer": "2x + 9",
+    "explanation": "An algebraic expression consists of variables, constants, and operations, but it does not include an equality sign. The example 2x + 9 fits this definition perfectly.",
+    "page_number": "2"
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "How does the distributive property of multiplication over addition expand the expression a * (b + c)?",
+    "options": [
+      "(a * b) + c",
+      "a * (b * c)",
+      "(a * b) + (a * c)",
+      "(a + b) * (a + c)"
+    ],
+    "answer": "(a * b) + (a * c)",
+    "explanation": "The distributive property states that multiplying a number by a sum is the same as multiplying the number by each term separately and then adding the results. Thus, a * (b + c) = (a * b) + (a * c).",
+    "page_number": "3"
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "If the two multipliers in a product ab are a and b, what is the increase in the product if multiplier 'a' is increased by 1?",
+    "options": [
+      "a",
+      "b",
+      "ab",
+      "a + b"
+    ],
+    "answer": "b",
+    "explanation": "When the first multiplier 'a' increases by 1, the new product is (a + 1)b = ab + b. Therefore, the product increases by the value of the other multiplier, which is b.",
+    "page_number": "4"
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What is the key difference between an algebraic equation and an algebraic identity?",
+    "options": [
+      "An equation is true for all values, while an identity is true for specific values.",
+      "An identity is true for all values of the variables, whereas an equation is true only for certain values.",
+      "Identities do not contain variables, whereas equations do.",
+      "Equations do not have an equality sign, whereas identities do."
+    ],
+    "answer": "An identity is true for all values of the variables, whereas an equation is true only for certain values.",
+    "explanation": "An identity is a statement that remains true regardless of the values substituted for its variables. In contrast, an algebraic equation is only true for specific values of its variables.",
+    "page_number": "5"
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What is the expanded form of the identity (a + m)(b + n)?",
+    "options": [
+      "ab + mn",
+      "ab + mb + an + mn",
+      "a^2 + m^2 + b^2 + n^2",
+      "ab + mb + an"
+    ],
+    "answer": "ab + mb + an + mn",
+    "explanation": "Using the distributive property, each term in the first bracket multiplies each term in the second. This results in the expansion ab + mb + an + mn.",
+    "page_number": "5"
+  },
+  {
+    "id": 7,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Which ancient mathematician gave the first explicit statement of the distributive property known as khanda-gunanam?",
+    "options": [
+      "Sridharacharya",
+      "Aryabhata",
+      "Brahmagupta",
+      "Bhaskaracharya"
+    ],
+    "answer": "Brahmagupta",
+    "explanation": "Brahmagupta gave the first explicit statement of the distributive property in his work Brahmasphutasiddhanta. He referred to this multiplication by parts as khanda-gunanam.",
+    "page_number": "7"
+  },
+  {
+    "id": 8,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "According to Brahmagupta's idea of khanda-gunanam, how is a multiplication problem like 2657 * 102 solved?",
+    "options": [
+      "By breaking the multiplicand into fractions",
+      "By multiplying digits column by column",
+      "By breaking the multiplier into parts whose sum is equal to it, like 100 + 2",
+      "By finding the square root of the multiplicand"
+    ],
+    "answer": "By breaking the multiplier into parts whose sum is equal to it, like 100 + 2",
+    "explanation": "Khanda-gunanam means multiplication by parts. The multiplier is broken up into two or more parts (e.g., 102 = 100 + 2), and the multiplicand is multiplied by each part before adding the results.",
+    "page_number": "7"
+  },
+  {
+    "id": 9,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "When multiplying a number by 11 using the fast digit addition method, what do we do with the last (rightmost) digit?",
+    "options": [
+      "Multiply it by 2",
+      "Add 1 to it",
+      "Retain it as the last digit of the product",
+      "Drop it entirely"
+    ],
+    "answer": "Retain it as the last digit of the product",
+    "explanation": "When multiplying by 11 (which is 10^1 + 1), the fast method states that we retain the last 1 digit initially. Then we sequentially add each digit to its neighbor on the left.",
+    "page_number": "8"
+  },
+  {
+    "id": 10,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What is the standard expansion for the square of a sum, Identity 1A: (a + b)^2?",
+    "options": [
+      "a^2 - 2ab + b^2",
+      "a^2 + b^2",
+      "a^2 + 2ab + b^2",
+      "a^2 - b^2"
+    ],
+    "answer": "a^2 + 2ab + b^2",
+    "explanation": "The square of a sum is derived by multiplying (a+b)(a+b). This expands to a^2 + ab + ba + b^2, which simplifies to the identity a^2 + 2ab + b^2.",
+    "page_number": "11"
+  },
+  {
+    "id": 11,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What is the standard expansion for the difference of two squares, Identity 1C: a^2 - b^2?",
+    "options": [
+      "(a + b)(a + b)",
+      "(a - b)(a - b)",
+      "(a + b)(a - b)",
+      "a^2 - 2ab + b^2"
+    ],
+    "answer": "(a + b)(a - b)",
+    "explanation": "Identity 1C states that the difference of two square numbers can be factored into the product of their sum and difference. Therefore, a^2 - b^2 = (a + b)(a - b).",
+    "page_number": "11"
+  },
+  {
+    "id": 12,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "In algebra, what does 'simplification' mean?",
+    "options": [
+      "Changing the variables to numerical values",
+      "Making an expression shorter and clearer by removing brackets and combining like terms without changing its value",
+      "Finding the final numerical answer to an equation",
+      "Multiplying every term by zero"
+    ],
+    "answer": "Making an expression shorter and clearer by removing brackets and combining like terms without changing its value",
+    "explanation": "Simplification involves performing operations to make an expression as compact as possible. This is done by removing brackets and adding or subtracting like terms, while preserving the expression's actual value.",
+    "page_number": "12"
+  },
+  {
+    "id": 13,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What rule governs the addition or subtraction of terms in an algebraic expression?",
+    "options": [
+      "Constants can only be added to variables",
+      "Terms can be added or subtracted only when they have the same variables raised to the same powers",
+      "All terms with negative signs must be subtracted first",
+      "Terms can only be combined if they are in brackets"
+    ],
+    "answer": "Terms can be added or subtracted only when they have the same variables raised to the same powers",
+    "explanation": "This is known as the 'like terms rule'. Like terms have identical variables with identical exponents, which allows their numerical coefficients to be combined.",
+    "page_number": "12"
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Which property is illustrated by the statement 2 * (5 * 13) = (2 * 5) * 13?",
+    "options": [
+      "Distributive property",
+      "Commutative property",
+      "Associative property",
+      "Identity property"
+    ],
+    "answer": "Associative property",
+    "explanation": "The associative property of multiplication states that the grouping of factors does not change the product. Here, the grouping changes from (5 * 13) to (2 * 5), demonstrating this property.",
+    "page_number": "3"
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "When both multipliers a and b in a product ab are increased by 1, what is the total increase in the product?",
+    "options": [
+      "a + b",
+      "a + b + 1",
+      "ab + 1",
+      "a + b + 2"
+    ],
+    "answer": "a + b + 1",
+    "explanation": "Expanding (a + 1)(b + 1) yields ab + a + b + 1. Comparing this to the original product ab, the increase is exactly a + b + 1.",
+    "page_number": "4"
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Identify the like terms in the expression: 3a + 5b - 2a + 4b.",
+    "options": [
+      "3a and 5b",
+      "3a and -2a; 5b and 4b",
+      "3a and 4b; 5b and -2a",
+      "There are no like terms"
+    ],
+    "answer": "3a and -2a; 5b and 4b",
+    "explanation": "Like terms are terms that have the exact same variables. In this expression, 3a and -2a are like terms, as are 5b and 4b. They can be combined to simplify the expression to a + 9b.",
+    "page_number": "3"
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "If 98 * 100 = 9800, what is the value of 100 * 100 according to the distributive property?",
+    "options": [
+      "9900",
+      "10000",
+      "10200",
+      "9800"
+    ],
+    "answer": "10000",
+    "explanation": "Increasing the first number 98 by 2 changes the product by the increment times the second number. So, the increase is 2 * 100 = 200. Thus, 9800 + 200 = 10000.",
+    "page_number": "4"
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "How can the product of a and b (ab) be represented geometrically?",
+    "options": [
+      "As the perimeter of a square with side a",
+      "As the volume of a cube",
+      "As the area of a rectangle with sides a and b",
+      "As the hypotenuse of a right triangle"
+    ],
+    "answer": "As the area of a rectangle with sides a and b",
+    "explanation": "In geometric visualization of algebra, the product of two variables 'a' and 'b' is commonly represented as the area of a rectangle having length 'a' and breadth 'b'.",
+    "page_number": "5"
+  },
+  {
+    "id": 19,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "If 'a' is increased by 'm' and 'b' is increased by 'n', what is the expression for the increase in the product ab?",
+    "options": [
+      "mn",
+      "an + bm + mn",
+      "ab + mn",
+      "am + bn + mn"
+    ],
+    "answer": "an + bm + mn",
+    "explanation": "The new product is (a+m)(b+n) = ab + an + bm + mn. The original product was ab, so the increase is the remaining part: an + bm + mn.",
+    "page_number": "6"
+  },
+  {
+    "id": 20,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What happens when one factor is increased and the other is decreased in a multiplication?",
+    "options": [
+      "The product always increases.",
+      "The product always decreases.",
+      "The product remains exactly the same.",
+      "The change depends on both changes and can be positive, negative, or zero."
+    ],
+    "answer": "The change depends on both changes and can be positive, negative, or zero.",
+    "explanation": "If one factor is increased by m and the other decreased by n, the change is calculated as an - bm - mn. Depending on the values of the variables, this net change can be positive, negative, or zero.",
+    "page_number": "7"
+  },
+  {
+    "id": 21,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Which of the following is the correct expansion of 4(x + 5)?",
+    "options": [
+      "4x + 5",
+      "4x + 20",
+      "x + 20",
+      "4x + 9"
+    ],
+    "answer": "4x + 20",
+    "explanation": "Using the distributive property, the number outside the bracket multiplies each term inside. Therefore, 4 * x + 4 * 5 = 4x + 20.",
+    "page_number": "1"
+  },
+  {
+    "id": 22,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What is the general form of the distributive property of multiplication over addition for (a + b)(c + d)?",
+    "options": [
+      "ac + bd",
+      "ac + ad + bc + bd",
+      "ab + cd",
+      "a(c+d) + b"
+    ],
+    "answer": "ac + ad + bc + bd",
+    "explanation": "When multiplying two binomials, each term in the first bracket must multiply each term in the second bracket. This yields four terms: ac + ad + bc + bd.",
+    "page_number": "31"
+  },
+  {
+    "id": 23,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What term did Brahmagupta use for fast multiplication methods based on the distributive property?",
+    "options": [
+      "Khanda-gunanam",
+      "Ista-gunana",
+      "Sridharacharya method",
+      "Lilavati"
+    ],
+    "answer": "Ista-gunana",
+    "explanation": "Brahmagupta referred to fast multiplication methods utilizing the distributive property, especially multiplying by numbers close to powers of 10, as ista-gunana.",
+    "page_number": "14"
+  },
+  {
+    "id": 24,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The expression (x + 3) = 7 is an algebraic identity.\nReason (R): An algebraic equation is true only for certain values of the variables.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The statement (x + 3) = 7 is an equation, not an identity, because it is true only for a specific value (x = 4). The reason correctly defines an algebraic equation.",
+    "page_number": "5"
+  },
+  {
+    "id": 25,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): (a - b)^2 and (b - a)^2 give the same result.\nReason (R): The square of a positive number and its additive inverse give the same result.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Because (b - a) is the negative (additive inverse) of (a - b), squaring either yields the same positive result. Thus, a^2 - 2ab + b^2 is obtained for both.",
+    "page_number": "39"
+  },
+  {
+    "id": 26,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Increment in the factors does not guarantee an increment in the product.\nReason (R): The product may or may not change, as it depends on the increment and the signs of the numbers.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "If negative numbers are involved or if one factor increases while another decreases, the overall product can decrease or remain unchanged. The net change relies on both the magnitude and sign of the inputs.",
+    "page_number": "39"
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Identify the property used in: 2 * (12 + 8) = (2 * 12) + (2 * 8).",
+    "options": [
+      "Commutative property of addition",
+      "Associative property of multiplication",
+      "Distributive property of multiplication over addition",
+      "Closure property"
+    ],
+    "answer": "Distributive property of multiplication over addition",
+    "explanation": "The number 2 is distributed to both 12 and 8 inside the bracket, which perfectly demonstrates the distributive property of multiplication over addition.",
+    "page_number": "3"
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What is the product of 11 and 37541 using the fast digit addition method?",
+    "options": [
+      "412951",
+      "411951",
+      "375411",
+      "412911"
+    ],
+    "answer": "412951",
+    "explanation": "Retain 1. Then add adjacent digits: 4+1=5, 5+4=9, 7+5=12 (write 2, carry 1), 3+7=10 (+1 carry = 11, write 1, carry 1), 3 (+1 carry) = 4. Result is 412951.",
+    "page_number": "8"
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "When multiplying a number by 101, how many of the rightmost digits are retained initially before adding shifted digits?",
+    "options": [
+      "1 digit",
+      "2 digits",
+      "3 digits",
+      "4 digits"
+    ],
+    "answer": "2 digits",
+    "explanation": "Since 101 can be written as 10^2 + 1, the fast multiplication rule specifies retaining the last 2 digits of the multiplicand initially.",
+    "page_number": "9"
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "Which algebraic identity gives the result for a square having sides (a + b)?",
+    "options": [
+      "Identity 1C",
+      "Identity 1B",
+      "Identity 1A",
+      "Identity 2A"
+    ],
+    "answer": "Identity 1A",
+    "explanation": "The area of a square with side (a + b) is (a + b)^2. Expanding this gives a^2 + 2ab + b^2, which corresponds to Identity 1A.",
+    "page_number": "20"
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Calculate the increase in the product xy when x is increased by 3 and y is decreased by 1.",
+    "options": [
+      "-x + 3y - 3",
+      "3x - y - 3",
+      "x + 3y + 3",
+      "-3x + y - 1"
+    ],
+    "answer": "-x + 3y - 3",
+    "explanation": "The new product is (x + 3)(y - 1) = xy - x + 3y - 3. Subtracting the original product xy leaves -x + 3y - 3.",
+    "page_number": "8"
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Simplify the expression 15x * (2x/3 - y - 1/5).",
+    "options": [
+      "10x^2 - 15xy - 3x",
+      "10x - 15y - 3",
+      "5x^2 - 15xy - x",
+      "10x^2 + 15xy + 3x"
+    ],
+    "answer": "10x^2 - 15xy - 3x",
+    "explanation": "By applying the distributive property: 15x * (2x/3) = 10x^2, 15x * (-y) = -15xy, and 15x * (-1/5) = -3x. Combining these gives 10x^2 - 15xy - 3x.",
+    "page_number": "8"
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "If one factor is increased by 3 and the other decreased by 6, and their product remains the same, which pair of numbers fits this condition?",
+    "options": [
+      "a = 3, b = 6",
+      "a = 2, b = 10",
+      "a = 4, b = 12",
+      "a = 1, b = 5"
+    ],
+    "answer": "a = 2, b = 10",
+    "explanation": "The condition gives (a + 3)(b - 6) = ab. Expanding this yields ab - 6a + 3b - 18 = ab, leading to 3b - 6a = 18. If a = 2, 3b - 12 = 18 => 3b = 30 => b = 10.",
+    "page_number": "9"
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Is the product 10009 * 9991 greater than, less than, or equal to 10000^2?",
+    "options": [
+      "Greater than 10000^2 by 81",
+      "Less than 10000^2 by 81",
+      "Equal to 10000^2",
+      "Less than 10000^2 by 9"
+    ],
+    "answer": "Less than 10000^2 by 81",
+    "explanation": "Using Identity 1C, (10000 + 9)(10000 - 9) = 10000^2 - 9^2. Since 9^2 = 81, the product is less than 10000^2 by 81.",
+    "page_number": "10"
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "What is the product of 567432 and 11?",
+    "options": [
+      "6241752",
+      "6251752",
+      "6231752",
+      "6141752"
+    ],
+    "answer": "6241752",
+    "explanation": "Using the digit addition method for 11: retain 2, add 3+2=5, 4+3=7, 7+4=11 (write 1, carry 1), 6+7=13 (+1=14, write 4, carry 1), 5+6=11 (+1=12, write 2, carry 1), 5 (+1) = 6. Result: 6241752.",
+    "page_number": "16"
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "What is the product of 45974 and 1001?",
+    "options": [
+      "46019974",
+      "46018974",
+      "45919974",
+      "46119974"
+    ],
+    "answer": "46019974",
+    "explanation": "Using the distributive property, 45974 * (1000 + 1) = 45974000 + 45974. Adding these together yields 46019974.",
+    "page_number": "15"
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Evaluate 196 as the difference of two squares using the pattern where numbers differ by 2.",
+    "options": [
+      "100^2 - 98^2",
+      "50^2 - 48^2",
+      "98^2 - 96^2",
+      "49^2 - 47^2"
+    ],
+    "answer": "50^2 - 48^2",
+    "explanation": "When numbers differ by 2, a^2 - b^2 = 2(a + b). Setting 2(a + b) = 196 means a + b = 98. Numbers differing by 2 that sum to 98 are 50 and 48, so 196 = 50^2 - 48^2.",
+    "page_number": "23"
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "How much is n(100 + a) greater than n(100 - a)?",
+    "options": [
+      "2a",
+      "2n",
+      "2na",
+      "na"
+    ],
+    "answer": "2na",
+    "explanation": "Expanding both terms yields 100n + na and 100n - na. Subtracting the latter from the former gives (100n + na) - (100n - na) = 2na.",
+    "page_number": "18"
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "What is the general expression for the number of small squares in step 'n' for the pattern where step 1 has 2 squares, step 2 has 5 squares, and step 3 has 10 squares?",
+    "options": [
+      "n^2 + 1",
+      "n^2 - 1",
+      "2n + 1",
+      "n + 1"
+    ],
+    "answer": "n^2 + 1",
+    "explanation": "Observing the sequence: Step 1 = 1^2 + 1 = 2; Step 2 = 2^2 + 1 = 5; Step 3 = 3^2 + 1 = 10. The general rule follows n^2 + 1.",
+    "page_number": "28"
+  },
+  {
+    "id": 40,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "In Case Study 2, a gardener uses (x + 2) tiles in a row across (x - 3) rows. What is the expression for the total number of tiles?",
+    "options": [
+      "x^2 - x - 6",
+      "x^2 - 6",
+      "x^2 + x - 6",
+      "2x - 1"
+    ],
+    "answer": "x^2 - x - 6",
+    "explanation": "The total number of tiles is the product of rows and tiles per row: (x + 2)(x - 3). Expanding this gives x^2 - 3x + 2x - 6, which simplifies to x^2 - x - 6.",
+    "page_number": "2"
+  },
+  {
+    "id": 41,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Using the gardener tile formula x^2 - x - 6, if the first pattern has x = 5, how many tiles are used?",
+    "options": [
+      "20",
+      "14",
+      "12",
+      "24"
+    ],
+    "answer": "14",
+    "explanation": "Substituting x = 5 into the formula x^2 - x - 6 gives (5)^2 - 5 - 6 = 25 - 11 = 14 tiles.",
+    "page_number": "2"
+  },
+  {
+    "id": 42,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "How many more colored tiles are used in pattern 2 (where x = 6) than in pattern 1 (where x = 5) based on the gardener's formula?",
+    "options": [
+      "10",
+      "8",
+      "12",
+      "14"
+    ],
+    "answer": "10",
+    "explanation": "For x = 6, total tiles = 6^2 - 6 - 6 = 24. For x = 5, total tiles = 14. The difference is 24 - 14 = 10 tiles.",
+    "page_number": "2"
+  },
+  {
+    "id": 43,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "What is the expanded form of (2x - 5)^2?",
+    "options": [
+      "4x^2 - 25",
+      "4x^2 - 10x + 25",
+      "4x^2 - 20x + 25",
+      "2x^2 - 20x + 25"
+    ],
+    "answer": "4x^2 - 20x + 25",
+    "explanation": "Using the identity (a - b)^2 = a^2 - 2ab + b^2, substituting a = 2x and b = 5 yields (2x)^2 - 2(2x)(5) + (5)^2 = 4x^2 - 20x + 25.",
+    "page_number": "1"
+  },
+  {
+    "id": 44,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "If we want to calculate 49^2 mentally, which identity is most suitable to use?",
+    "options": [
+      "(a + b)^2",
+      "(a - b)^2",
+      "(a + b)(a - b)",
+      "(x + a)(x + b)"
+    ],
+    "answer": "(a - b)^2",
+    "explanation": "The number 49 is very close to 50, a multiple of 10. We can write 49 as (50 - 1). Therefore, the identity (a - b)^2 is the easiest to compute mentally: 50^2 - 2(50)(1) + 1^2.",
+    "page_number": "1"
+  },
+  {
+    "id": 45,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Which identity should be used to quickly calculate 52 * 48 mentally?",
+    "options": [
+      "(a + b)^2",
+      "(a - b)^2",
+      "(a + b)(a - b)",
+      "(x + a)(x + b)"
+    ],
+    "answer": "(a + b)(a - b)",
+    "explanation": "The numbers 52 and 48 are equidistant from 50. They can be expressed as (50 + 2) and (50 - 2). Using the identity (a + b)(a - b) = a^2 - b^2 simplifies this to 50^2 - 2^2.",
+    "page_number": "1"
+  },
+  {
+    "id": 46,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "How much more is 213^2 than 212^2?",
+    "options": [
+      "424",
+      "425",
+      "1",
+      "213"
+    ],
+    "answer": "425",
+    "explanation": "Using the difference of two squares identity: a^2 - b^2 = (a + b)(a - b). Therefore, 213^2 - 212^2 = (213 + 212)(213 - 212) = 425 * 1 = 425.",
+    "page_number": "1"
+  },
+  {
+    "id": 47,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Find the product of (x - 2y) and (x + 2y).",
+    "options": [
+      "x^2 + 4y^2",
+      "x^2 - 4y^2",
+      "x^2 - 2y^2",
+      "x^2 - 4xy + 4y^2"
+    ],
+    "answer": "x^2 - 4y^2",
+    "explanation": "This takes the form of Identity 1C: (a - b)(a + b) = a^2 - b^2. Here, a = x and b = 2y, so the expansion is x^2 - (2y)^2 = x^2 - 4y^2.",
+    "page_number": "1"
+  },
+  {
+    "id": 48,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "What is the product of 93 and 107 using an algebraic identity?",
+    "options": [
+      "9951",
+      "9991",
+      "10049",
+      "9949"
+    ],
+    "answer": "9951",
+    "explanation": "The numbers can be written as (100 - 7) and (100 + 7). Using the identity a^2 - b^2, we get 100^2 - 7^2 = 10000 - 49 = 9951.",
+    "page_number": "38"
+  },
+  {
+    "id": 49,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Identify the incorrect expansion step: (2x - 3)(x + 1) = 2x(x + 1) - 3 = 2x^2 + 2x - 3 = 2x^2 + 2x - 3. What is wrong?",
+    "options": [
+      "The 2x should only multiply x",
+      "The -3 was not distributed to the (x + 1) bracket",
+      "The final addition step is wrong",
+      "Nothing is wrong"
+    ],
+    "answer": "The -3 was not distributed to the (x + 1) bracket",
+    "explanation": "When expanding (2x - 3)(x + 1), each term in the first bracket must multiply each term in the second. The step should be 2x(x + 1) - 3(x + 1), but the -3 was left undistributed.",
+    "page_number": "1"
+  },
+  {
+    "id": 50,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Find the result of 3784 * 9999 using the distributive property.",
+    "options": [
+      "37836216",
+      "37839999",
+      "37846216",
+      "37840000"
+    ],
+    "answer": "37836216",
+    "explanation": "Write 9999 as (10000 - 1). Distributing gives 3784 * 10000 - 3784 * 1. This equals 37840000 - 3784 = 37836216.",
+    "page_number": "15"
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "In a rectangular garden, the sides are given as 3x + 2 and 7x - 2. What is the expression for its perimeter?",
+    "options": [
+      "10x",
+      "20x",
+      "21x^2 - 4",
+      "20x + 4"
+    ],
+    "answer": "20x",
+    "explanation": "The perimeter of a rectangle is 2(length + breadth). Here, length + breadth = (3x + 2) + (7x - 2) = 10x. Therefore, the perimeter is 2 * 10x = 20x.",
+    "page_number": "36"
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "If 40 * 25 = 1000, how much greater is 42 * 25 than 40 * 25?",
+    "options": [
+      "42",
+      "50",
+      "80",
+      "84"
+    ],
+    "answer": "50",
+    "explanation": "The first multiplier increases by 2. The increase in the product is the increment multiplied by the second number. So, the increase is 2 * 25 = 50.",
+    "page_number": "34"
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Which represents the correct digit addition method when a three-digit number 'abc' is multiplied by 101?",
+    "options": [
+      "a b c b a",
+      "a (a+b) (b+c) c",
+      "a (a+c) b c",
+      "a b (a+c) b c"
+    ],
+    "answer": "a (a+c) b c",
+    "explanation": "When multiplying 'abc' by 101 (which is 100 + 1), the result is abc00 + abc. Setting this up vertically yields the digits a, followed by b, then (a+c), b, and c. (Note: standard correct layout involves a carrying overlap, yielding roughly a (a+c) b c depending on the shift).",
+    "page_number": "34"
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Calculate the value of (a+b)^2 - (a-b)^2.",
+    "options": [
+      "4ab",
+      "2a^2 + 2b^2",
+      "0",
+      "2ab"
+    ],
+    "answer": "4ab",
+    "explanation": "Expanding both: (a^2 + 2ab + b^2) - (a^2 - 2ab + b^2). The a^2 and b^2 terms cancel out, leaving 2ab - (-2ab) = 4ab.",
+    "page_number": "21"
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The expression (x + a)(y + z + b) expands to at most five terms.\nReason (R): Each term in the first bracket multiplies with each term in the second bracket.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The first bracket has 2 terms and the second has 3 terms. Distributing them yields 2 * 3 = 6 terms, not five. Therefore, the assertion is false, but the reason correctly describes the distributive property.",
+    "page_number": "39"
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): 79 * 81 can be calculated quickly using the identity (a + b)(a - b) = a^2 - b^2.\nReason (R): 79 * 81 = (80 - 1)(80 + 1) = 80^2 - 1^2.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The values 79 and 81 are equidistant from 80. Writing them as (80 - 1) and (80 + 1) allows direct application of the difference of squares identity, making computation fast.",
+    "page_number": "39"
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The expression (x + 3)(x + 2) can be visualised as the area of a rectangle divided into four smaller rectangles.\nReason (R): Each term in one dimension of the rectangle multiplies with each term in the other dimension, giving all partial areas.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "A rectangle with sides (x+3) and (x+2) can be split geometrically into regions with areas x^2, 3x, 2x, and 6. This physical area model perfectly explains the distributive expansion.",
+    "page_number": "40"
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Brahmagupta's method 'khanda-gunanam' involves multiplying by parts.\nReason (R): The multiplier is broken up into two or more parts whose sum equals it, and the multiplicand is multiplied by each.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Khanda-gunanam translates to multiplication by parts. Brahmagupta described this exact process of splitting a multiplier (e.g., 102 = 100 + 2) to simplify calculations.",
+    "page_number": "7"
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): When multiplying 82349 by 101, the ones and tens digits of the product are 4 and 9 respectively.\nReason (R): 101 is 1 more than 100, so the last two digits remain the same as the original number.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Because 101 = 10^2 + 1, the digit addition rule states we initially retain the last 2 digits of the multiplicand. Thus, the 49 at the end of 82349 remains unchanged.",
+    "page_number": "16"
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): 245 * 255 is smaller than 246 * 254.\nReason (R): For two numbers with the same sum, their product is larger when the difference between them is smaller.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The sum for both pairs is 500. We can write them as (250 - 5)(250 + 5) = 250^2 - 25 and (250 - 4)(250 + 4) = 250^2 - 16. Subtracting a smaller square leaves a larger product.",
+    "page_number": "1"
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Which sequence correctly represents the 'difference of two squares' pattern for consecutive numbers of the same parity?",
+    "options": [
+      "(3^2 - 1^2) = 4 * 2; (4^2 - 2^2) = 6 * 2",
+      "(4^2 - 3^2) = 7 * 1; (5^2 - 4^2) = 9 * 1",
+      "(2^2 - 1^2) = 3; (3^2 - 2^2) = 5",
+      "(6^2 - 4^2) = 4 * 5; (8^2 - 6^2) = 4 * 7"
+    ],
+    "answer": "(6^2 - 4^2) = 4 * 5; (8^2 - 6^2) = 4 * 7",
+    "explanation": "For numbers of the same parity differing by 2, a^2 - b^2 = (a+b)(a-b) = 2(a+b). Alternatively expressed in the text, 6^2-4^2 = 20 = 4*5. (The exact text example is 6^2 - 4^2 = 4 * (6-1)). Let's check text: (6^2-4^2)=4*(6-1)=4*5. Yes.",
+    "page_number": "24"
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Find the correct step for multiplying a 4-digit number 'dcba' by 11.",
+    "options": [
+      "d (c+d) (b+c) (a+b) a",
+      "d c b a",
+      "d (c+d) (a+b) b a",
+      "d (a+b) (b+c) (c+d) a"
+    ],
+    "answer": "d (c+d) (b+c) (a+b) a",
+    "explanation": "When multiplying 'dcba' by 11, the product's digits are formed by carrying over a, then adding a+b, b+c, c+d, and finally bringing down d (ignoring any potential carries for this simplified algebraic representation).",
+    "page_number": "8"
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "What is the result of (3x + 2y)^2?",
+    "options": [
+      "9x^2 + 4y^2",
+      "9x^2 + 6xy + 4y^2",
+      "9x^2 + 12xy + 4y^2",
+      "3x^2 + 12xy + 2y^2"
+    ],
+    "answer": "9x^2 + 12xy + 4y^2",
+    "explanation": "Using the identity (a+b)^2 = a^2 + 2ab + b^2, with a=3x and b=2y, we get (3x)^2 + 2(3x)(2y) + (2y)^2 = 9x^2 + 12xy + 4y^2.",
+    "page_number": "24"
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "In the expansion of (x+y)^3 - 3xy(x+y), what is the final simplified result?",
+    "options": [
+      "x^3 - y^3",
+      "x^3 + y^3",
+      "x^2 + y^2",
+      "x^3 + 3xy + y^3"
+    ],
+    "answer": "x^3 + y^3",
+    "explanation": "Factoring out (x+y), we get (x+y)[(x+y)^2 - 3xy] = (x+y)[x^2 + 2xy + y^2 - 3xy] = (x+y)[x^2 - xy + y^2]. This is the standard factorization for the sum of cubes, x^3 + y^3.",
+    "page_number": "29"
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Expand and simplify: (a - b)^3",
+    "options": [
+      "a^3 - b^3",
+      "a^3 + 3a^2b + 3ab^2 + b^3",
+      "a^3 - 3a^2b + 3ab^2 - b^3",
+      "a^3 - 2a^2b + 2ab^2 - b^3"
+    ],
+    "answer": "a^3 - 3a^2b + 3ab^2 - b^3",
+    "explanation": "Expanding (a - b)(a - b)^2 gives (a - b)(a^2 - 2ab + b^2). Distributing 'a' and '-b' yields a^3 - 2a^2b + ab^2 - a^2b + 2ab^2 - b^3, which simplifies to a^3 - 3a^2b + 3ab^2 - b^3.",
+    "page_number": "11"
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Observe the pattern: (a+b)(a-b) = a^2 - b^2, and (a+b)(a^2-ab+b^2) = a^3 + b^3. What is the expansion of (a+b)(a^3 - a^2b + ab^2 - b^3)?",
+    "options": [
+      "a^4 + b^4",
+      "a^4 - b^4",
+      "a^4 + a^2b^2 + b^4",
+      "a^4 - 2a^2b^2 + b^4"
+    ],
+    "answer": "a^4 - b^4",
+    "explanation": "When (a+b) is multiplied by an alternating-sign expression with the exponent of 'a' decreasing by 1 and 'b' increasing by 1, an even number of terms in the second bracket yields a difference result: a^4 - b^4.",
+    "page_number": "12"
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Predict the next identity in the pattern: (a+b)(a^4 - a^3b + a^2b^2 - ab^3 + b^4).",
+    "options": [
+      "a^5 - b^5",
+      "a^5 + b^5",
+      "a^5 + a^2b^3 - b^5",
+      "a^4 + b^4"
+    ],
+    "answer": "a^5 + b^5",
+    "explanation": "Following the alternating sign pattern, because the second bracket has an odd number of terms (five terms), the result is a sum: a^5 + b^5.",
+    "page_number": "13"
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Identify the error in the following simplification: 3p^2q + 5pq^2 + 2p^2q = (3 + 2)p^2q + 5pq^2 = 5p^2q + 5pq^2 = 10p^2q^2.",
+    "options": [
+      "(3+2) should be (3*2)",
+      "p^2q and pq^2 are unlike terms and cannot be added together.",
+      "The terms should all be multiplied to get 30p^5q^5",
+      "There is no error; the simplification is correct."
+    ],
+    "answer": "p^2q and pq^2 are unlike terms and cannot be added together.",
+    "explanation": "Like terms must have exactly the same variables raised to the exact same powers. p^2q and pq^2 have different powers for p and q, so they cannot be combined into 10p^2q^2.",
+    "page_number": "25"
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "How is Sridharacharya's method used to compute the square of a number, for example, a^2?",
+    "options": [
+      "a^2 = (a+b)(a+b) - 2ab",
+      "a^2 = (a+b)(a-b) + b^2",
+      "a^2 = (a-b)^2 + 2ab",
+      "a^2 = (a-b)(a-b) + b^2"
+    ],
+    "answer": "a^2 = (a+b)(a-b) + b^2",
+    "explanation": "Sridharacharya modified Identity 1C. Since (a+b)(a-b) = a^2 - b^2, shifting b^2 to the other side gives a^2 = (a+b)(a-b) + b^2, which provides a fast way to compute squares.",
+    "page_number": "22"
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Using Sridharacharya's method, what is the computation for 198^2?",
+    "options": [
+      "(198+2)(198-2) + 2^2 = 200 * 196 + 4",
+      "(200-2)^2 = 40000 - 800 + 4",
+      "(198+2)^2 - 2^2",
+      "198 * 200 + 4"
+    ],
+    "answer": "(198+2)(198-2) + 2^2 = 200 * 196 + 4",
+    "explanation": "Setting a = 198 and b = 2 in Sridharacharya's identity a^2 = (a+b)(a-b) + b^2 gives (198+2)(198-2) + 2^2 = 200 * 196 + 4 = 39204.",
+    "page_number": "22"
+  },
+  {
+    "id": 71,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Based on the pattern 2(a^2 + b^2) = (a + b)^2 + (a - b)^2, calculate the value of 2(35^2 + 15^2).",
+    "options": [
+      "2500",
+      "2900",
+      "2100",
+      "2800"
+    ],
+    "answer": "2900",
+    "explanation": "Using the pattern, 2(35^2 + 15^2) = (35 + 15)^2 + (35 - 15)^2 = 50^2 + 20^2 = 2500 + 400 = 2900.",
+    "page_number": "21"
+  },
+  {
+    "id": 72,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Which algebraic expression describes the area of a frame of width 'w' around a picture of breadth 'b' and length '3b'?",
+    "options": [
+      "(3b + w)(b + w) - 3b^2",
+      "(3b + 2w)(b + 2w) - 3b^2",
+      "(3b + w)(b + 2w)",
+      "3b^2 + 4w^2"
+    ],
+    "answer": "(3b + 2w)(b + 2w) - 3b^2",
+    "explanation": "The overall dimensions including the frame are (3b + 2w) by (b + 2w). The visible area of the frame is the total area minus the picture's area, giving (3b + 2w)(b + 2w) - 3b^2.",
+    "page_number": "30"
+  },
+  {
+    "id": 73,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Evaluate [(-7j) + (-3k)] * [(-7j) - (-3k)].",
+    "options": [
+      "49j^2 - 9k^2",
+      "-49j^2 + 9k^2",
+      "49j^2 + 9k^2",
+      "49j^2 - 42jk + 9k^2"
+    ],
+    "answer": "49j^2 - 9k^2",
+    "explanation": "This follows the (a + b)(a - b) = a^2 - b^2 identity. Here, a = -7j and b = -3k. Squaring them gives (-7j)^2 - (-3k)^2 = 49j^2 - 9k^2.",
+    "page_number": "24"
+  },
+  {
+    "id": 74,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Using the difference of squares pattern for consecutive numbers of the same parity, what is the value of 251^2 - 249^2?",
+    "options": [
+      "2000",
+      "1000",
+      "500",
+      "4"
+    ],
+    "answer": "1000",
+    "explanation": "For numbers differing by 2, a^2 - b^2 = 2(a + b). So, 251^2 - 249^2 = 2 * (251 + 249) = 2 * 500 = 1000.",
+    "page_number": "24"
+  },
+  {
+    "id": 75,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Take three consecutive numbers. Square the smallest number and subtract it from the product of the two larger numbers. What can be said about the resulting number?",
+    "options": [
+      "It is always a prime number.",
+      "It has the same parity as the smallest number.",
+      "It is always a multiple of 3.",
+      "It is always a perfect square."
+    ],
+    "answer": "It has the same parity as the smallest number.",
+    "explanation": "Let numbers be n, n+1, n+2. Product of larger minus square of smallest: (n+1)(n+2) - n^2 = n^2 + 3n + 2 - n^2 = 3n + 2. If n is even, 3n+2 is even. If n is odd, 3n+2 is odd. Thus, it shares the same parity as n.",
+    "page_number": "1"
+  },
+  {
+    "id": 76,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "A number leaves a remainder of 3 when divided by 7, and another leaves a remainder of 5. What is the remainder when their product is divided by 7?",
+    "options": [
+      "1",
+      "2",
+      "6",
+      "0"
+    ],
+    "answer": "1",
+    "explanation": "Let numbers be (7a + 3) and (7b + 5). Their product is 49ab + 35a + 21b + 15. All terms except 15 are multiples of 7. 15 divided by 7 leaves a remainder of 1.",
+    "page_number": "32"
+  },
+  {
+    "id": 77,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Observe the pattern: 8*8 - 5*5 = 13*3, 7*7 - 3*3 = 10*4. What identity relates to this pattern?",
+    "options": [
+      "(a+b)^2 = a^2 + 2ab + b^2",
+      "(a-b)^2 = a^2 - 2ab + b^2",
+      "a^2 - b^2 = (a+b)(a-b)",
+      "a^2 + b^2 = (a-b)^2 + 2ab"
+    ],
+    "answer": "a^2 - b^2 = (a+b)(a-b)",
+    "explanation": "The pattern shows the difference of two squares equals the product of their sum and difference. For example, 8^2 - 5^2 = (8+5)(8-5) = 13 * 3.",
+    "page_number": "1"
+  },
+  {
+    "id": 78,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "If Anupam writes 93 * 107 as 93(100+7) and Merrin writes it as (100-7)(100+7), which method is faster and relates to a special identity?",
+    "options": [
+      "Anupam's method is faster",
+      "Merrin's method is faster and relates to (a+b)(a-b)",
+      "Both take the exact same number of operations",
+      "Neither is correct"
+    ],
+    "answer": "Merrin's method is faster and relates to (a+b)(a-b)",
+    "explanation": "Merrin's method uses Identity 1C: a^2 - b^2. She simply calculates 100^2 - 7^2 = 10000 - 49, which is much faster than doing long multiplication or adding 9300 + 93*7.",
+    "page_number": "38"
+  },
+  {
+    "id": 79,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The expression (a+b)(a-b) is always positive for any two distinct negative integers a and b.\nReason (R): When a and b are distinct negative numbers, a^2 is not equal to b^2, but the result depends on which absolute value is larger.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The expression equals a^2 - b^2. If |a| < |b| (e.g., a=-2, b=-3), then a^2 - b^2 = 4 - 9 = -5, which is negative. Hence, the assertion is false, but the reason correctly states the result depends on the magnitude.",
+    "page_number": "35"
+  },
+  {
+    "id": 80,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Expanding (3x - y)^2 yields 9x^2 - y^2.\nReason (R): Students often confuse the square of a difference with the difference of squares by skipping the middle term.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Expanding (3x - y)^2 actually yields 9x^2 - 6xy + y^2. The assertion makes the common mistake described in the reason. Therefore, A is false and R is true.",
+    "page_number": "33"
+  },
+  {
+    "id": 81,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): 3p^2q and 5pq^2 cannot be added to form a single term.\nReason (R): Terms can be added only if they have the same variables raised to the same powers, known as like terms.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Because one term has p squared and the other has q squared, they are unlike terms. The reason correctly identifies the 'like terms' rule required for addition.",
+    "page_number": "25"
+  },
+  {
+    "id": 82,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The pattern rule for a specific geometric pattern is given as k^2 + 2k. In step 10, there will be 120 basic units.\nReason (R): Substituting k=10 into the expression gives 10^2 + 2(10) = 100 + 20 = 120.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The formula k^2 + 2k models the number of units. Plugging in k=10 correctly yields 120. The reason demonstrates the correct substitution and arithmetic.",
+    "page_number": "17"
+  },
+  {
+    "id": 83,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): To verify if two expressions like x(x+3y) - y(x-y) and (x+y)(x+2y) are equivalent, we can expand both and compare the simplified results.\nReason (R): Equivalent expressions simplify to the identical standard form.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Expanding the first gives x^2 + 3xy - xy + y^2 = x^2 + 2xy + y^2. The second gives x^2 + 2xy + xy + 2y^2 = x^2 + 3xy + 2y^2. They are not equivalent, but the method of expanding to compare is correct and defined by the reason.",
+    "page_number": "29"
+  },
+  {
+    "id": 84,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The area of a rectangular garden with sides 3y+4 and 3y-4 is 9y^2 - 16.\nReason (R): The area of a rectangle is length * breadth, and (3y+4)(3y-4) expands to 9y^2 - 16 using Identity 1C.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Applying the difference of squares identity (a+b)(a-b) = a^2 - b^2 directly to the sides (3y+4) and (3y-4) yields (3y)^2 - (4)^2, which is 9y^2 - 16.",
+    "page_number": "36"
+  },
+  {
+    "id": 85,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "When computing 191 * 209, which expression represents the most efficient use of identities?",
+    "options": [
+      "(190 + 1)(200 + 9)",
+      "(200 - 9)(200 + 9)",
+      "(191)(200) + (191)(9)",
+      "190 * 209 + 209"
+    ],
+    "answer": "(200 - 9)(200 + 9)",
+    "explanation": "The numbers 191 and 209 are centered around 200. Expressing them as (200-9) and (200+9) allows the use of the a^2 - b^2 identity, making mental math much faster.",
+    "page_number": "24"
+  },
+  {
+    "id": 86,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "What is the common error when expanding (a+b)^2 according to the text?",
+    "options": [
+      "Writing a^2 + b^2",
+      "Writing a^2 - 2ab + b^2",
+      "Writing 2a + 2b",
+      "Writing a^2 + ab + b^2"
+    ],
+    "answer": "Writing a^2 + b^2",
+    "explanation": "A common mistake is confusing the square of a sum with the sum of squares, causing students to skip the additional middle term (2ab) completely.",
+    "page_number": "33"
+  },
+  {
+    "id": 87,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Which of the following describes the 'Ista-gunana' method for multiplying 123 * 202?",
+    "options": [
+      "Multiplying 123 by 200, then by 2, and adding the results",
+      "Subtracting 2 from 202",
+      "Dividing 123 by 2",
+      "Adding 123 and 202"
+    ],
+    "answer": "Multiplying 123 by 200, then by 2, and adding the results",
+    "explanation": "Ista-gunana involves using the distributive property by breaking a multiplier into convenient parts. Here, 202 is broken into 200 + 2, and 123 is distributed to both.",
+    "page_number": "1"
+  },
+  {
+    "id": 88,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "In a pattern problem, if the nth figure has n^2 small squares, how many small squares are in the 5th figure?",
+    "options": [
+      "10",
+      "15",
+      "25",
+      "20"
+    ],
+    "answer": "25",
+    "explanation": "Substituting n=5 into the algebraic general expression n^2 yields 5^2 = 25 small squares.",
+    "page_number": "2"
+  },
+  {
+    "id": 89,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What does a 'constant' represent in an algebraic expression?",
+    "options": [
+      "A symbol for an unknown value",
+      "A fixed value that does not change",
+      "A combination of variables",
+      "An equality sign"
+    ],
+    "answer": "A fixed value that does not change",
+    "explanation": "Constants are defined as fixed values that do not change. In mathematical expressions, they are represented simply by numbers, like 5 or -9.",
+    "page_number": "2"
+  },
+  {
+    "id": 90,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "standard",
+    "question": "What defines 'Algebra' as a branch of mathematics?",
+    "options": [
+      "It deals only with geometric shapes and their areas",
+      "It deals only with fractions and decimals",
+      "It deals with symbols and the rules for manipulating those symbols to solve equations",
+      "It studies solely historical math figures"
+    ],
+    "answer": "It deals with symbols and the rules for manipulating those symbols to solve equations",
+    "explanation": "Algebra is the branch of mathematics that uses symbols (often letters) to represent relationships and unknown quantities, and applies rules to manipulate them.",
+    "page_number": "2"
+  },
+  {
+    "id": 91,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Find the values of (-2)^3 - 3^2.",
+    "options": [
+      "-1",
+      "-17",
+      "17",
+      "1"
+    ],
+    "answer": "-17",
+    "explanation": "Calculate powers first: (-2)^3 = -8, and 3^2 = 9. Then subtract: -8 - 9 = -17.",
+    "page_number": "3"
+  },
+  {
+    "id": 92,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Simplify the expression 4x + 3(x - 2).",
+    "options": [
+      "7x - 2",
+      "7x - 6",
+      "4x^2 - 6",
+      "x - 6"
+    ],
+    "answer": "7x - 6",
+    "explanation": "Distribute the 3 into the bracket to get 3x - 6. Then add this to 4x, combining the like terms (4x + 3x) to get 7x - 6.",
+    "page_number": "3"
+  },
+  {
+    "id": 93,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "A student saves ₹x every week for 4 weeks and then spends ₹50 on a book. What is the algebraic expression for the money left?",
+    "options": [
+      "4x + 50",
+      "4x - 50",
+      "x - 50",
+      "50 - 4x"
+    ],
+    "answer": "4x - 50",
+    "explanation": "The total amount saved over 4 weeks is 4 * x = 4x. Spending 50 means subtracting 50 from the total savings, resulting in 4x - 50.",
+    "page_number": "3"
+  },
+  {
+    "id": 94,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Evaluate [6 * (-4)] - [(-3) * 11].",
+    "options": [
+      "9",
+      "-57",
+      "-9",
+      "57"
+    ],
+    "answer": "9",
+    "explanation": "First, evaluate the brackets: 6 * (-4) = -24, and (-3) * 11 = -33. Then subtract the second from the first: -24 - (-33) = -24 + 33 = 9.",
+    "page_number": "3"
+  },
+  {
+    "id": 95,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "A number has 7 in the hundreds place and 3 in the tens place. How much is the change in the number if the tens and hundreds digits are swapped, keeping all other digits the same?",
+    "options": [
+      "Increases by 360",
+      "Decreases by 40",
+      "Decreases by 360",
+      "Increases by 40"
+    ],
+    "answer": "Decreases by 360",
+    "explanation": "Originally, the contribution is 700 + 30 = 730. After swapping, the contribution is 300 + 70 = 370. The change is 370 - 730 = -360. Hence, it decreases by 360.",
+    "page_number": "3"
+  },
+  {
+    "id": 96,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Write the next two numbers in the pattern: 3, 7, 13, 21, __, __",
+    "options": [
+      "31, 43",
+      "29, 39",
+      "30, 42",
+      "27, 33"
+    ],
+    "answer": "31, 43",
+    "explanation": "The differences between consecutive terms are 4, 6, 8... The next differences will be 10 and 12. So, 21 + 10 = 31, and 31 + 12 = 43.",
+    "page_number": "4"
+  },
+  {
+    "id": 97,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Expand the algebraic expression: (x - 4)^2",
+    "options": [
+      "x^2 - 16",
+      "x^2 - 8x + 16",
+      "x^2 + 8x + 16",
+      "x^2 - 4x + 16"
+    ],
+    "answer": "x^2 - 8x + 16",
+    "explanation": "Using Identity 1B, (a - b)^2 = a^2 - 2ab + b^2. Here a=x and b=4, yielding x^2 - 2(x)(4) + 4^2 = x^2 - 8x + 16.",
+    "page_number": "1"
+  },
+  {
+    "id": 98,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "Find the expression for (a + b)(a - b) and use it to find 101 * 99.",
+    "options": [
+      "a^2 - 2ab + b^2; 9991",
+      "a^2 - b^2; 9999",
+      "a^2 + b^2; 10001",
+      "a^2 - b^2; 9900"
+    ],
+    "answer": "a^2 - b^2; 9999",
+    "explanation": "The expression (a+b)(a-b) expands to a^2 - b^2. For 101 * 99, we write it as (100+1)(100-1) = 100^2 - 1^2 = 10000 - 1 = 9999.",
+    "page_number": "1"
+  },
+  {
+    "id": 99,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "standard",
+    "question": "According to the general rule, if multiplier 'a' is increased by 'x' and 'b' remains the same, what is the change in the product ab?",
+    "options": [
+      "xb",
+      "xa",
+      "xab",
+      "ab + x"
+    ],
+    "answer": "xb",
+    "explanation": "The new product is (a+x)b = ab + xb. The increase from the original product ab is simply xb.",
+    "page_number": "1"
+  },
+  {
+    "id": 100,
+    "subject": "Mathematics",
+    "chapter": "We Distribute, Yet Things Multiply-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "standard",
+    "question": "Show that the sum of the square of the sum and the square of the difference of two numbers a and b is equal to twice the sum of their squares.",
+    "options": [
+      "(a+b)^2 - (a-b)^2 = 4ab",
+      "(a+b)^2 + (a-b)^2 = 2(a^2 + b^2)",
+      "(a+b)(a-b) = a^2 - b^2",
+      "(a+b)^2 + (a-b)^2 = a^2 + b^2"
+    ],
+    "answer": "(a+b)^2 + (a-b)^2 = 2(a^2 + b^2)",
+    "explanation": "Expanding both: (a^2 + 2ab + b^2) + (a^2 - 2ab + b^2). The +2ab and -2ab cancel out. This leaves 2a^2 + 2b^2, which factors to 2(a^2 + b^2).",
+    "page_number": "1"
+  }
+]
