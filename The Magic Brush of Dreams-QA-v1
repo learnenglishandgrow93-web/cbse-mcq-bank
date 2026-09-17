@@ -1,0 +1,1781 @@
+[
+  {
+    "id": 1,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Who gives Gopi the magic brush?",
+    "answer": "An old man gives Gopi the magic brush.",
+    "keywords": [
+      "old man",
+      "gives",
+      "magic brush"
+    ],
+    "explanation": "The story introduces a mysterious old man who slips the magic brush into Gopi's hand. This is found in PDF 1, Page 3 and PDF 2, Page 2.",
+    "page_number": "PDF 2, Page 2"
+  },
+  {
+    "id": 2,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What does Gopi draw pictures with before she gets the magic brush?",
+    "answer": "Gopi draws pictures in the sand with a twig.",
+    "keywords": [
+      "twig",
+      "sand",
+      "draws"
+    ],
+    "explanation": "Before acquiring the magic brush, Gopi sits beneath a banyan tree and uses a twig to draw in the sand. Mentioned in PDF 2, Page 2.",
+    "page_number": "PDF 2, Page 2"
+  },
+  {
+    "id": 3,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What is the first thing Gopi paints that becomes real?",
+    "answer": "The first thing Gopi paints is a bowl of khichdi.",
+    "keywords": [
+      "bowl",
+      "khichdi",
+      "paints"
+    ],
+    "explanation": "Gopi's first magical creation is a bowl of khichdi which becomes real and feeds the village. Detailed in PDF 2, Page 3.",
+    "page_number": "PDF 2, Page 3"
+  },
+  {
+    "id": 4,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What useful item does Gopi paint for the farmer?",
+    "answer": "Gopi paints a muffler for the farmer.",
+    "keywords": [
+      "muffler",
+      "farmer"
+    ],
+    "explanation": "To help the villagers, Gopi paints specific tools, including a muffler for a farmer. This is found in PDF 2, Page 3.",
+    "page_number": "PDF 2, Page 3"
+  },
+  {
+    "id": 5,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What does Gopi paint for the grandmother?",
+    "answer": "Gopi paints a shawl for the grandmother.",
+    "keywords": [
+      "shawl",
+      "grandmother"
+    ],
+    "explanation": "Among the items painted for the villagers, she paints a shawl for a grandmother. Mentioned in PDF 2, Page 3.",
+    "page_number": "PDF 2, Page 3"
+  },
+  {
+    "id": 6,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 20
+    },
+    "question": "What barrier does Gopi paint to stop the Zamindar's men?",
+    "answer": "She paints a mighty wide river with fast and deep currents.",
+    "keywords": [
+      "mighty",
+      "river",
+      "barrier",
+      "currents"
+    ],
+    "explanation": "To block her pursuers, Gopi paints a wide river, which acts as a barrier. Found in PDF 2, Page 5.",
+    "page_number": "PDF 2, Page 5"
+  },
+  {
+    "id": 7,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Which animal does Gopi paint to escape the prison?",
+    "answer": "Gopi paints a strong and bold horse to escape.",
+    "keywords": [
+      "horse",
+      "strong",
+      "bold"
+    ],
+    "explanation": "Gopi paints a winding road and a horse to leap on and gallop away. Mentioned in PDF 2, Page 5.",
+    "page_number": "PDF 2, Page 5"
+  },
+  {
+    "id": 8,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 20
+    },
+    "question": "Name two things Gopi paints for the village folk upon her return.",
+    "answer": "She paints a feast of sweets and tea, and a bright courtyard.",
+    "keywords": [
+      "sweets",
+      "tea",
+      "courtyard",
+      "feast"
+    ],
+    "explanation": "When Gopi returns, she paints for the village folk a feast of sweets and tea, a courtyard, and a band. Found in PDF 2, Page 6.",
+    "page_number": "PDF 2, Page 6"
+  },
+  {
+    "id": 9,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What condition does the old man place when giving Gopi the brush?",
+    "answer": "The old man tells her to paint only for the poor, not for the wealthy ones.",
+    "keywords": [
+      "paint",
+      "poor",
+      "not wealthy",
+      "condition"
+    ],
+    "explanation": "The old man instructs Gopi to keep the brush a secret and use it exclusively to help the poor. This is in PDF 2, Page 2.",
+    "page_number": "PDF 2, Page 2"
+  },
+  {
+    "id": 10,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Why does the Zamindar order his men to seize Gopi?",
+    "answer": "He orders his men to seize her because she refuses to paint treasures for him.",
+    "keywords": [
+      "refuses",
+      "paint treasures",
+      "seize"
+    ],
+    "explanation": "When Gopi refuses to comply with his demand to paint a grand fortress and jewels, the Zamindar gets angry and has her seized. PDF 2, Page 4.",
+    "page_number": "PDF 2, Page 4"
+  },
+  {
+    "id": 11,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What does the grand fortress symbolise in the poem?",
+    "answer": "The grand fortress symbolises greed, isolation, and the hoarding of resources to protect wealth.",
+    "keywords": [
+      "greed",
+      "isolation",
+      "hoarding",
+      "wealth"
+    ],
+    "explanation": "According to the Symbolism Map, the fortress represents the Zamindar's greed and desire to isolate and protect his wealth. PDF 1, Page 11.",
+    "page_number": "PDF 1, Page 11"
+  },
+  {
+    "id": 12,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "How does Gopi escape from the prison gates?",
+    "answer": "Gopi escapes by painting a winding road and a strong horse to ride away on.",
+    "keywords": [
+      "winding road",
+      "horse",
+      "escapes"
+    ],
+    "explanation": "While the Zamindar sleeps, Gopi uses the magic brush to paint a road out of the prison and a horse for her escape. PDF 2, Page 5.",
+    "page_number": "PDF 2, Page 5"
+  },
+  {
+    "id": 13,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "How do the villagers react when Gopi returns to the village?",
+    "answer": "The villagers are merry and kind, happily shouting, \"It's Gopi! She's back again!\"",
+    "keywords": [
+      "merry",
+      "kind",
+      "back again"
+    ],
+    "explanation": "Upon her return during the chase, the villagers recognize her and cheer joyfully. Found in PDF 2, Page 5.",
+    "page_number": "PDF 2, Page 5"
+  },
+  {
+    "id": 14,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What is the Zamindar's core motivation according to the text?",
+    "answer": "The Zamindar's core motivation is greed and control.",
+    "keywords": [
+      "greed",
+      "control",
+      "motivation"
+    ],
+    "explanation": "The Character Diagnostic Comparison explicitly lists Greed / Control as the core motivation of the Zamindar. PDF 1, Page 10.",
+    "page_number": "PDF 1, Page 10"
+  },
+  {
+    "id": 15,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What emotion does the interjection 'Phew!' typically express?",
+    "answer": "The interjection 'Phew!' typically expresses a feeling of relief.",
+    "keywords": [
+      "Phew",
+      "expresses",
+      "relief"
+    ],
+    "explanation": "In the grammar exercises, 'Phew!' is matched with the emotion of relief. PDF 2, Page 11.",
+    "page_number": "PDF 2, Page 11"
+  },
+  {
+    "id": 16,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "Where does the Zamindar throw Gopi for refusing to obey him?",
+    "answer": "The Zamindar throws Gopi into a prison pen upon a cold mud floor.",
+    "keywords": [
+      "prison",
+      "pen",
+      "cold mud floor"
+    ],
+    "explanation": "The text states the Zamindar bellowed to his men to \"Throw her in the pen!\" where she waits upon a cold mud floor. PDF 2, Page 4.",
+    "page_number": "PDF 2, Page 4"
+  },
+  {
+    "id": 17,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What genre of poetry does \"The Magic Brush of Dreams\" belong to?",
+    "answer": "It belongs to the narrative poetry genre, which tells a story through verse.",
+    "keywords": [
+      "narrative",
+      "poetry",
+      "genre"
+    ],
+    "explanation": "The poem tells a clear story with characters, a plot, and a setting, making it a narrative poem. PDF 2, Page 7.",
+    "page_number": "PDF 2, Page 7"
+  },
+  {
+    "id": 18,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 20
+    },
+    "question": "What tone does the poem shift to in the final part when Gopi escapes?",
+    "answer": "The tone becomes triumphant and celebratory as Gopi escapes and the villagers rejoice.",
+    "keywords": [
+      "triumphant",
+      "celebratory",
+      "tone"
+    ],
+    "explanation": "The discussion section notes that the poem's tone shifts to triumphant and celebratory in the final part. PDF 2, Page 6.",
+    "page_number": "PDF 2, Page 6"
+  },
+  {
+    "id": 19,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What does the falling tone in speech indicate when used in imperative sentences?",
+    "answer": "It is used to express a command, an instruction, ask for a favour, or give a warning.",
+    "keywords": [
+      "command",
+      "instruction",
+      "favour",
+      "warning"
+    ],
+    "explanation": "The grammar section explains that a falling tone in imperative sentences communicates commands, instructions, favours, or warnings. PDF 2, Page 12.",
+    "page_number": "PDF 2, Page 12"
+  },
+  {
+    "id": 20,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "What does the magic brush itself symbolise in the story?",
+    "answer": "The magic brush symbolises the power of art, capability, and imagination to change the world.",
+    "keywords": [
+      "power of art",
+      "capability",
+      "imagination",
+      "change"
+    ],
+    "explanation": "According to the Symbolism Map, the brush represents the imaginative power to effect change in the world. PDF 1, Page 11.",
+    "page_number": "PDF 1, Page 11"
+  },
+  {
+    "id": 21,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "How does Gopi view 'power' according to the Character Diagnostic Comparison?",
+    "answer": "Gopi views power as a tool to meet needs and protect others.",
+    "keywords": [
+      "tool",
+      "meet needs",
+      "protect"
+    ],
+    "explanation": "The Character Diagnostic Comparison chart explicitly states Gopi views power as 'A tool to meet needs and protect'. PDF 1, Page 10.",
+    "page_number": "PDF 1, Page 10"
+  },
+  {
+    "id": 22,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What does Gopi threaten to paint if the Zamindar doesn't stop chasing her?",
+    "answer": "Gopi threatens to paint a beast to leap and feast on the Zamindar and his men.",
+    "keywords": [
+      "beast",
+      "leap",
+      "feast"
+    ],
+    "explanation": "To stop the chase, Gopi warns she will paint a beast that will feast \"On you, and you and you!\". PDF 2, Page 5.",
+    "page_number": "PDF 2, Page 5"
+  },
+  {
+    "id": 23,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "What is the central theme of the story?",
+    "answer": "The central theme of the story is Power and Responsibility.",
+    "keywords": [
+      "Power",
+      "Responsibility",
+      "central theme"
+    ],
+    "explanation": "The central theme slide explicitly states \"Power & Responsibility\", showing how power's value depends on its purpose. PDF 1, Page 12.",
+    "page_number": "PDF 1, Page 12"
+  },
+  {
+    "id": 24,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "According to the text, when does imagination become a force for good?",
+    "answer": "Imagination becomes a force for good only when it is guided by compassion.",
+    "keywords": [
+      "guided",
+      "compassion",
+      "force for good"
+    ],
+    "explanation": "The Central Theme section states that imagination becomes a force for good only when guided by compassion. PDF 1, Page 12.",
+    "page_number": "PDF 1, Page 12"
+  },
+  {
+    "id": 25,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why did Gopi initially draw pictures in the sand?",
+    "answer": "Gopi was instructed to gather food like wild beans and rice, but being imaginative, she chose to sit beneath a banyan tree and draw pictures in the sand with a twig instead.",
+    "keywords": [
+      "gather food",
+      "imaginative",
+      "banyan tree",
+      "draw pictures",
+      "twig"
+    ],
+    "explanation": "The poem opens with Gopi being told to fetch food, but she is seen drawing in the sand with a twig, indicating her artistic nature. PDF 2, Page 2.",
+    "page_number": "PDF 2, Page 2"
+  },
+  {
+    "id": 26,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "What happens to the pictures Gopi draws in the sand before she gets the brush?",
+    "answer": "Before Gopi receives the magic brush, the winds inevitably blow by and sweep away the pictures she draws in the sand, representing a harsh reality.",
+    "keywords": [
+      "winds",
+      "blow by",
+      "sweep away",
+      "harsh reality"
+    ],
+    "explanation": "The text describes that the wind blows by and sweeps her art away, emphasizing the impermanence of her regular drawings. PDF 2, Page 2.",
+    "page_number": "PDF 2, Page 2"
+  },
+  {
+    "id": 27,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "Describe the items Gopi is instructed to gather at the beginning of the poem.",
+    "answer": "At the beginning of the poem, Gopi is instructed to go and gather wild beans, fetch some rice, pluck mangoes, and bring home something nice.",
+    "keywords": [
+      "wild beans",
+      "fetch rice",
+      "pluck mangoes",
+      "bring home"
+    ],
+    "explanation": "The poem explicitly lists wild beans, rice, and mangoes as the food items Gopi is told to collect for her home. PDF 2, Page 2.",
+    "page_number": "PDF 2, Page 2"
+  },
+  {
+    "id": 28,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Mention four useful items Gopi paints for the villagers initially.",
+    "answer": "Using the magic brush, Gopi paints four useful items: a bowl of khichdi, a muffler for a farmer, a plough for another man, and a shawl for a grandmother.",
+    "keywords": [
+      "bowl of khichdi",
+      "muffler",
+      "plough",
+      "shawl"
+    ],
+    "explanation": "The text lists several practical items Gopi paints to uplift her community, including food, clothing, and farming tools. PDF 2, Page 3.",
+    "page_number": "PDF 2, Page 3"
+  },
+  {
+    "id": 29,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "Explain how Gopi manages to escape the prison gates.",
+    "answer": "While the Zamindar sleeps and dreams of his gold, Gopi executes her plan by painting a winding road out of the prison gates and a strong, bold horse to ride away on.",
+    "keywords": [
+      "Zamindar sleeps",
+      "winding road",
+      "strong horse",
+      "ride away"
+    ],
+    "explanation": "Gopi uses her magic brush during the night to paint a path and a horse, allowing her to escape imprisonment. PDF 2, Page 5.",
+    "page_number": "PDF 2, Page 5"
+  },
+  {
+    "id": 30,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What are two key components of the 'Introduction' in an imaginative essay?",
+    "answer": "The two key components of an introduction are a captivating opening sentence to catch the reader's attention and a clear statement of the setting, situation, or main idea.",
+    "keywords": [
+      "captivating opening",
+      "catch attention",
+      "clear statement",
+      "setting",
+      "main idea"
+    ],
+    "explanation": "The essay checklist in the textbook highlights these two bullet points as the required components for a good introduction. PDF 2, Page 13.",
+    "page_number": "PDF 2, Page 13"
+  },
+  {
+    "id": 31,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "State the cause for the villagers gathering excitedly at Gopi's home.",
+    "answer": "The villagers gather excitedly because Gopi painted a bowl of khichdi that became real. Young and old alike streamed into the house to see the magic brush of dreams.",
+    "keywords": [
+      "painted",
+      "khichdi",
+      "became real",
+      "streamed",
+      "magic brush"
+    ],
+    "explanation": "The effect of the villagers streaming into the house was caused by Gopi successfully painting a bowl of khichdi that turned into real food. PDF 2, Page 3.",
+    "page_number": "PDF 2, Page 3"
+  },
+  {
+    "id": 32,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Identify the rhyme scheme followed in the poem.",
+    "answer": "The poem mostly follows a simple ABCB rhyme scheme, which helps add a rhythmic flow to the narrative story.",
+    "keywords": [
+      "ABCB",
+      "rhyme scheme",
+      "rhythmic flow"
+    ],
+    "explanation": "The textbook exercises identify the poem's rhyme scheme as ABCB, noting that it provides a rhythmic flow. PDF 2, Page 7.",
+    "page_number": "PDF 2, Page 7"
+  },
+  {
+    "id": 33,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why does the old man whisper to Gopi when handing her the brush?",
+    "answer": "The old man whispers to tell her to \"Hush!\" and keep the brush a secret so the village doesn't know, reflecting his careful and secretive nature to protect the magic.",
+    "keywords": [
+      "whispers",
+      "secret",
+      "careful",
+      "protect magic"
+    ],
+    "explanation": "He whispers to ensure the magic brush remains a secret from the village, indicating he understands the danger if the wrong people find it. PDF 2, Page 2.",
+    "page_number": "PDF 2, Page 2"
+  },
+  {
+    "id": 34,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What does the bowl of khichdi signify for the village?",
+    "answer": "The bowl of khichdi signifies survival and hope for the hungry village. It shows how the magic brush transforms art into real food that practically uplifts the needy community.",
+    "keywords": [
+      "survival",
+      "hope",
+      "transforms",
+      "uplifts needy"
+    ],
+    "explanation": "The Visual Summary highlights that the khichdi represents survival, feeding the village and demonstrating practical magic for uplifting the community. PDF 1, Page 4.",
+    "page_number": "PDF 1, Page 4"
+  },
+  {
+    "id": 35,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How does the Zamindar learn about the magic brush?",
+    "answer": "The Zamindar learns about the brush because the news of Gopi's magic gains spreads far and wide through forests, fields, and plains until it reaches him.",
+    "keywords": [
+      "news spreads",
+      "magic gains",
+      "forests",
+      "fields",
+      "reaches him"
+    ],
+    "explanation": "The poem states that the news of the magical items Gopi paints spreads quickly across the land until the Zamindar hears of it. PDF 2, Page 3.",
+    "page_number": "PDF 2, Page 3"
+  },
+  {
+    "id": 36,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What reason does Gopi give the Zamindar for refusing to paint for him?",
+    "answer": "Gopi tells the Zamindar she cannot comply because she swore an oath to use the magic brush only to help the needy, showing her strong integrity.",
+    "keywords": [
+      "cannot comply",
+      "swore an oath",
+      "help the needy",
+      "integrity"
+    ],
+    "explanation": "Gopi directly refuses the Zamindar by reminding him of her promise to use the brush solely for helping the poor. PDF 2, Page 4.",
+    "page_number": "PDF 2, Page 4"
+  },
+  {
+    "id": 37,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Describe the physical conditions of the pen where Gopi is thrown.",
+    "answer": "The pen is a harsh prison cell with a cold mud floor where Gopi is thrown and forced to wait until the Zamindar returns with his demands.",
+    "keywords": [
+      "prison cell",
+      "cold mud floor",
+      "forced to wait"
+    ],
+    "explanation": "The text describes the Zamindar ordering his men to throw Gopi into the pen, where she waits \"Upon a cold mud floor.\" PDF 2, Page 4.",
+    "page_number": "PDF 2, Page 4"
+  },
+  {
+    "id": 38,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How does the winding road serve as a catalyst for Gopi's freedom?",
+    "answer": "The winding road serves as the first step of her escape plan. It provides a physical path out of the prison gates, allowing her to flee while the Zamindar sleeps.",
+    "keywords": [
+      "first step",
+      "escape plan",
+      "physical path",
+      "prison gates"
+    ],
+    "explanation": "By painting the winding road, Gopi creates a literal route to escape her confinement, which acts as the catalyst for her freedom. PDF 1, Page 7.",
+    "page_number": "PDF 1, Page 7"
+  },
+  {
+    "id": 39,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why does the Zamindar cry \"No, no, no more!\" and flee?",
+    "answer": "The Zamindar flees because Gopi threatens to paint a ferocious beast that will leap out and feast on him and his men if they do not stop chasing her.",
+    "keywords": [
+      "flees",
+      "threatens",
+      "beast",
+      "feast on him",
+      "chasing"
+    ],
+    "explanation": "Gopi uses fear defensively by warning the Zamindar that she will paint a beast. Terrified, the Zamindar stops the pursuit and runs away. PDF 2, Page 5.",
+    "page_number": "PDF 2, Page 5"
+  },
+  {
+    "id": 40,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Explain the imagery used in the poem when Gopi paints a feast upon her return.",
+    "answer": "The imagery is vibrant and joyous. Gopi paints a feast of sweets and tea, a bright courtyard, a playing band, and songs of victory, creating a vivid, celebratory scene.",
+    "keywords": [
+      "vibrant",
+      "sweets and tea",
+      "bright courtyard",
+      "band",
+      "songs of victory"
+    ],
+    "explanation": "The poem uses visual and auditory imagery in the final stanza to describe the lively celebration Gopi creates for the villagers. PDF 2, Page 6.",
+    "page_number": "PDF 2, Page 6"
+  },
+  {
+    "id": 41,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How does the tone of the poem shift from the beginning to the middle?",
+    "answer": "The tone shifts from playful and innocent as Gopi draws in the sand, to one of tension and suspense when the greedy Zamindar demands treasures and imprisons her.",
+    "keywords": [
+      "playful",
+      "innocent",
+      "tension",
+      "suspense",
+      "imprisons"
+    ],
+    "explanation": "The textbook discusses how the poem's mood reflects the story's events, shifting from lighthearted innocence to suspenseful conflict. PDF 2, Page 6.",
+    "page_number": "PDF 2, Page 6"
+  },
+  {
+    "id": 42,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Write a sentence using the word 'drawn-out' based on its meaning from the vocabulary builder.",
+    "answer": "Because the Zamindar's men refused to give up the chase, Gopi's escape turned into a long, drawn-out process that tested her courage.",
+    "keywords": [
+      "drawn-out",
+      "process",
+      "long",
+      "tested courage"
+    ],
+    "explanation": "The exercise asks to derive meanings and create sentences for words related to 'draw'. 'Drawn-out' means lasting longer than necessary. PDF 3, Page 3.",
+    "page_number": "PDF 3, Page 3"
+  },
+  {
+    "id": 43,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "Why are sensory details important in the language and style of an imaginative essay?",
+    "answer": "Sensory details are important because they use sight, sound, touch, smell, and taste to enhance the narrative, making descriptions vivid and helping the reader mentally experience the story.",
+    "keywords": [
+      "sensory details",
+      "sight sound touch",
+      "enhance narrative",
+      "vivid descriptions"
+    ],
+    "explanation": "The imaginative essay checklist notes that sensory details enrich descriptions and significantly enhance the overall narrative flow. PDF 2, Page 14.",
+    "page_number": "PDF 2, Page 14"
+  },
+  {
+    "id": 44,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Identify the cause and effect relationship when Gopi refuses to paint treasures for the Zamindar.",
+    "answer": "The cause is Gopi refusing to break her promise to help only the poor. The effect is the Zamindar roaring in anger and throwing her into a cold prison cell.",
+    "keywords": [
+      "refusing promise",
+      "Zamindar roaring",
+      "throwing into prison",
+      "effect"
+    ],
+    "explanation": "The comprehension exercise asks for the cause of Gopi being thrown into prison, which is her refusal to paint for the Zamindar. PDF 3, Page 6.",
+    "page_number": "PDF 3, Page 6"
+  },
+  {
+    "id": 45,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Contrast the Zamindar's demands with Gopi's usage of the brush.",
+    "answer": "The Zamindar selfishly demands a tall fortress, gold, and rubies for personal wealth. In contrast, Gopi selflessly paints practical tools and food to uplift and help her poor community.",
+    "keywords": [
+      "Zamindar selfishly",
+      "personal wealth",
+      "Gopi selflessly",
+      "practical tools",
+      "uplift community"
+    ],
+    "explanation": "The story strongly contrasts Gopi's compassionate use of the brush to meet communal needs with the Zamindar's greedy desire for personal riches. PDF 1, Page 10.",
+    "page_number": "PDF 1, Page 10"
+  },
+  {
+    "id": 46,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How does the wide river act as a barrier against oppression?",
+    "answer": "The painted river represents nature's protection and establishes an uncrossable boundary. It physically blocks the Zamindar's men, demonstrating how power can be used defensively to protect rather than harm.",
+    "keywords": [
+      "nature's protection",
+      "uncrossable boundary",
+      "physically blocks",
+      "power defensively"
+    ],
+    "explanation": "The Symbolism Map explains that the wide river stands for resistance against oppression and using power to defend and protect. PDF 1, Page 11.",
+    "page_number": "PDF 1, Page 11"
+  },
+  {
+    "id": 47,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Compare the ultimate fates of Gopi and the Zamindar at the end of the story.",
+    "answer": "At the end, Gopi is celebrated as a hero by a merry village, while the Zamindar flees as a defeated coward out of fear of the beast she threatened.",
+    "keywords": [
+      "celebrated hero",
+      "merry village",
+      "Zamindar flees",
+      "defeated coward"
+    ],
+    "explanation": "The Character Diagnostic Comparison details their ultimate fates: Gopi becomes a celebrated hero, while the Zamindar is a defeated coward. PDF 1, Page 10.",
+    "page_number": "PDF 1, Page 10"
+  },
+  {
+    "id": 48,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What is the effect of the repetition in the line \"On you, and you and you!\"?",
+    "answer": "The repetition emphasizes a strong sense of warning and fear. It shows that Gopi's threat is directed at each of the pursuers individually, ensuring they all flee in terror.",
+    "keywords": [
+      "repetition",
+      "warning and fear",
+      "directed individually",
+      "flee in terror"
+    ],
+    "explanation": "The poetic device of repetition is used here to heighten the suspense and clearly direct the threat to every single man chasing her. PDF 2, Page 7.",
+    "page_number": "PDF 2, Page 7"
+  },
+  {
+    "id": 49,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Describe the setting and Gopi's reality before the old man gives her the magic brush.",
+    "answer": "The story is set in a rural village where Gopi is supposed to gather beans and rice. Despite her duties, she sits under a banyan tree drawing with a twig in the sand. However, her reality is harsh because the wind inevitably blows by and sweeps all her beautiful art away.",
+    "keywords": [
+      "rural village",
+      "gather beans",
+      "banyan tree",
+      "twig in sand",
+      "wind sweeps art"
+    ],
+    "explanation": "The setting and initial reality establish Gopi as a poor but imaginative girl whose regular art is easily destroyed by nature before she gets the magic brush. PDF 1, Page 2.",
+    "page_number": "PDF 1, Page 2"
+  },
+  {
+    "id": 50,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Elaborate on the character traits of the Zamindar based on his demands and actions.",
+    "answer": "The Zamindar is extremely greedy, cruel, and controlling. He views power solely as a tool to increase his personal wealth. When he discovers the brush, he selfishly demands a grand fortress, gold, and rubies. When Gopi refuses, he ruthlessly throws an innocent girl into a cold mud prison.",
+    "keywords": [
+      "greedy",
+      "controlling",
+      "personal wealth",
+      "fortress gold",
+      "ruthlessly throws"
+    ],
+    "explanation": "The text characterizes the Zamindar through his selfish demands for riches and his cruel punishment of Gopi when she disobeys him. PDF 1, Page 10.",
+    "page_number": "PDF 1, Page 10"
+  },
+  {
+    "id": 51,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Outline the steps Gopi takes to execute her plan to escape from the Zamindar's prison.",
+    "answer": "Gopi executes a clever three-step plan. First, while the Zamindar is asleep dreaming of gold, she paints a winding road leading out of the prison gates. Next, she paints a strong and bold horse. Finally, she leaps onto the horse and gallops swiftly through fields and villages to escape.",
+    "keywords": [
+      "three-step plan",
+      "Zamindar asleep",
+      "winding road",
+      "bold horse",
+      "gallops swiftly"
+    ],
+    "explanation": "The Visual Summary breaks down Gopi's escape into clear steps: The Plan (road), The Escape (horse), and The Pursuit. PDF 1, Page 7.",
+    "page_number": "PDF 1, Page 7"
+  },
+  {
+    "id": 52,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Describe the key elements required in the 'Setting and Context' and 'Characters' sections of an imaginative essay.",
+    "answer": "In an imaginative essay, the 'Setting and Context' must create a clear mental picture, define a specific time frame, and briefly explain any unique or imaginative elements like a fantasy world. The 'Characters' section should introduce the main character with unique traits and briefly describe any relevant supporting characters.",
+    "keywords": [
+      "Setting and Context",
+      "mental picture",
+      "time frame",
+      "unique traits",
+      "Characters section"
+    ],
+    "explanation": "The checklist for writing an imaginative essay explicitly outlines these requirements for setting up the world and its inhabitants. PDF 2, Page 14.",
+    "page_number": "PDF 2, Page 14"
+  },
+  {
+    "id": 53,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "What are the key elements of 'Resolution' and 'Conclusion' in an imaginative essay?",
+    "answer": "The 'Resolution' of an imaginative essay involves a key turning point or realization, resolving the main idea, and presenting a clear takeaway message. The 'Conclusion' should end on a reflective or thought-provoking note, summarizing the main message to leave the reader with a strong final impression.",
+    "keywords": [
+      "Resolution",
+      "turning point",
+      "takeaway message",
+      "Conclusion",
+      "thought-provoking note"
+    ],
+    "explanation": "The textbook's writing checklist provides these specific points to properly resolve and conclude an imaginative essay. PDF 2, Page 14.",
+    "page_number": "PDF 2, Page 14"
+  },
+  {
+    "id": 54,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "According to the textbook, what is true magic and where is it found?",
+    "answer": "According to the textbook, true magic does not actually require a glowing paintbrush. Instead, it is found wherever courage, integrity, and acts of kindness meet. This emphasizes that good character, selflessness, and the willingness to help others are the real sources of magic in life.",
+    "keywords": [
+      "true magic",
+      "glowing paintbrush",
+      "courage",
+      "integrity",
+      "acts of kindness"
+    ],
+    "explanation": "The final message of the story highlights that the true magic lies in human virtues rather than magical objects. PDF 1, Page 14.",
+    "page_number": "PDF 1, Page 14"
+  },
+  {
+    "id": 55,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Explain the significance of the old man's instruction to Gopi.",
+    "answer": "The old man instructs Gopi, \"Paint not for the wealthy ones, But only for the poor.\" This is highly significant because it ensures the brush's power is guided by compassion. It prevents the magic from feeding the greed of rich oppressors and ensures it provides survival and joy to the needy.",
+    "keywords": [
+      "instruction",
+      "wealthy ones",
+      "only for poor",
+      "guided by compassion",
+      "prevents greed"
+    ],
+    "explanation": "The old man recognizes Gopi's innocence and sets a moral condition that drives the entire conflict of the poem against the greedy Zamindar. PDF 2, Page 2.",
+    "page_number": "PDF 2, Page 2"
+  },
+  {
+    "id": 56,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "How does Gopi's painting of the khichdi change the atmosphere in the village?",
+    "answer": "When Gopi paints the bowl of khichdi, it becomes real food. Villagers, both young and old, stream into her house in amazement. This event completely changes the atmosphere from one of hunger and struggle to one of joy, wonder, and communal hope, proving the brush can ensure survival.",
+    "keywords": [
+      "bowl of khichdi",
+      "becomes real",
+      "stream into house",
+      "joy wonder",
+      "communal hope"
+    ],
+    "explanation": "The painting of the khichdi is the first miracle that brings the village together, changing their harsh reality to one filled with hope. PDF 2, Page 3.",
+    "page_number": "PDF 2, Page 3"
+  },
+  {
+    "id": 57,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "How does Gopi demonstrate integrity over safety when confronted by the Zamindar?",
+    "answer": "When the Zamindar orders Gopi to paint a grand fortress and jewels, she bows but shakes her head. She bravely refuses to comply, stating she swore an oath to use the brush only for the needy. By doing so, she chooses to keep her moral promise over ensuring her own physical safety.",
+    "keywords": [
+      "grand fortress",
+      "shakes her head",
+      "bravely refuses",
+      "swore an oath",
+      "moral promise"
+    ],
+    "explanation": "Gopi's defining trait of 'integrity over safety' is shown when she risks imprisonment by refusing the powerful Zamindar's selfish demands. PDF 1, Page 6.",
+    "page_number": "PDF 1, Page 6"
+  },
+  {
+    "id": 58,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Explain the contrasting views of power held by Gopi and the Zamindar.",
+    "answer": "Gopi views power as a responsibility and a tool to meet communal needs, uplift the poor, and protect the innocent. Conversely, the Zamindar views power as a tool to increase his personal wealth, control others, and hoard resources like gold and fortresses. Their views represent compassion versus greed.",
+    "keywords": [
+      "Gopi views power",
+      "meet communal needs",
+      "Zamindar views",
+      "personal wealth",
+      "compassion versus greed"
+    ],
+    "explanation": "The Character Diagnostic Comparison perfectly summarizes their opposing philosophies regarding what power should be used for. PDF 1, Page 10.",
+    "page_number": "PDF 1, Page 10"
+  },
+  {
+    "id": 59,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Discuss the shift in the mood of the poem during Gopi's confrontation with the Zamindar.",
+    "answer": "The mood dramatically shifts from playful, innocent, and triumphant when Gopi helps the villagers, to tense, fearful, and suspenseful. This happens when the Zamindar enters, roars, stamps his foot, and violently throws her into a cold mud cell, replacing the joyful atmosphere with an oppressive and dangerous tone.",
+    "keywords": [
+      "mood shifts",
+      "playful innocent",
+      "tense fearful",
+      "Zamindar roars",
+      "oppressive tone"
+    ],
+    "explanation": "The Let Us Discuss section asks students to track the mood, which turns to tension and suspense when the villainous Zamindar imprisons Gopi. PDF 2, Page 6.",
+    "page_number": "PDF 2, Page 6"
+  },
+  {
+    "id": 60,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Justify Gopi's action of threatening to draw a beast to scare away the Zamindar.",
+    "answer": "Gopi's threat is justified because she uses her power defensively, not offensively. By warning the Zamindar that a beast will feast on them if they continue, she effectively protects herself without actually causing physical harm. It forces the greedy Zamindar to flee in fear, demonstrating a wise and compassionate use of power.",
+    "keywords": [
+      "threat is justified",
+      "defensively not offensively",
+      "protects herself",
+      "flee in fear",
+      "wise use"
+    ],
+    "explanation": "Gopi chooses to scare the men away rather than hurt them, showing that even in conflict, her actions are guided by restraint and compassion. PDF 1, Page 8.",
+    "page_number": "PDF 1, Page 8"
+  },
+  {
+    "id": 61,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Explain the significance of Gopi celebrating with the villagers at the end of the poem.",
+    "answer": "The final celebration signifies the ultimate triumph of compassion over greed. By painting a feast, sweets, and a playing band, Gopi shares her victory and magic with her community. It reinforces the theme that power should bring joy and unity, rather than isolation and fear.",
+    "keywords": [
+      "celebration signifies",
+      "triumph of compassion",
+      "shares victory",
+      "reinforces theme",
+      "joy and unity"
+    ],
+    "explanation": "Gopi's return and celebration highlight her selfless character and the story's moral that power should be used for collective happiness. PDF 1, Page 9.",
+    "page_number": "PDF 1, Page 9"
+  },
+  {
+    "id": 62,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Based on the \"Character Diagnostic Comparison\", explain the core motivations and actions taken by Gopi.",
+    "answer": "Gopi's core motivation is compassion and selflessness. Driven by this, her actions consistently prioritize others. She refuses to break her promise to the old man, uses the brush to create food and tools for the villagers, and bravely resists the Zamindar, which ultimately leads to her being celebrated as a hero.",
+    "keywords": [
+      "core motivation",
+      "compassion and selflessness",
+      "refuses to break promise",
+      "create food",
+      "celebrated as hero"
+    ],
+    "explanation": "The comparison chart explicitly details Gopi's character traits, motivations, and the actions she takes based on those traits. PDF 1, Page 10.",
+    "page_number": "PDF 1, Page 10"
+  },
+  {
+    "id": 63,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Based on the \"Character Diagnostic Comparison\", explain the core motivations and actions taken by the Zamindar.",
+    "answer": "The Zamindar is motivated purely by greed and a desire for control. He seeks to increase his personal wealth by forcefully demanding jewels and a grand fortress. When denied, his tyrannical actions include imprisoning the innocent Gopi. However, he is ultimately a coward who flees when his life is threatened.",
+    "keywords": [
+      "motivated by greed",
+      "desire for control",
+      "increase wealth",
+      "imprisoning innocent",
+      "flees as coward"
+    ],
+    "explanation": "The comparison chart outlines the Zamindar's flaws, his abusive actions, and his eventual cowardly defeat. PDF 1, Page 10.",
+    "page_number": "PDF 1, Page 10"
+  },
+  {
+    "id": 64,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "How is the tone of 'triumphant and celebratory' established in the final stanzas of the poem?",
+    "answer": "After the Zamindar cowardly flees, Gopi returns to a welcoming village. The tone shifts to triumphant and celebratory through bright imagery. She paints a massive feast of sweets and tea, a bright courtyard, a band playing music, and people singing \"songs of victory,\" highlighting absolute joy and communal freedom.",
+    "keywords": [
+      "Zamindar flees",
+      "welcoming village",
+      "bright imagery",
+      "songs of victory",
+      "joy and freedom"
+    ],
+    "explanation": "The final stanza explicitly mentions a feast, a band, and songs of victory, replacing the previous tension with overwhelming joy. PDF 2, Page 6.",
+    "page_number": "PDF 2, Page 6"
+  },
+  {
+    "id": 65,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Provide three examples of expressions (interjections) that convey a sudden feeling or reaction, and state the emotion they represent.",
+    "answer": "Three examples of interjections from the text include: \"Phew!\" which represents a feeling of relief after a tense situation; \"Eek!\" which represents a sudden feeling of surprise or fear; and \"Ouch!\" which conveys a sudden feeling of pain. These expressions add emotional depth to speech.",
+    "keywords": [
+      "interjections",
+      "Phew relief",
+      "Eek surprise fear",
+      "Ouch pain",
+      "emotional depth"
+    ],
+    "explanation": "The grammar section on interjections lists these words and matches them to their corresponding emotions. PDF 2, Page 11.",
+    "page_number": "PDF 2, Page 11"
+  },
+  {
+    "id": 66,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Identify the cause and effect relationship in the event where the Zamindar chases Gopi across fields.",
+    "answer": "The cause of the chase is Gopi successfully escaping from the prison cell by painting a winding road and a fast horse. The effect of this escape is that the angry Zamindar and his men pursue her closely across fields, forcing Gopi to paint a mighty river to block them.",
+    "keywords": [
+      "cause of chase",
+      "escaping prison",
+      "effect of escape",
+      "pursue closely",
+      "mighty river"
+    ],
+    "explanation": "The comprehension exercise asks students to link causes and effects. Gopi's escape causes the Zamindar's pursuit. PDF 3, Page 7.",
+    "page_number": "PDF 3, Page 7"
+  },
+  {
+    "id": 67,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Describe the imaginative superhero 'EcoFlash' mentioned in the textbook essay sample and her mission.",
+    "answer": "EcoFlash is an imaginative superhero who is secretly a 13-year-old student named Meenu. She wears a green suit and has magical powers to grow plants, purify water, and clean polluted air. Her mission is to fight pollution, save trees, and educate people about taking care of our planet.",
+    "keywords": [
+      "EcoFlash",
+      "13-year-old student",
+      "magical powers",
+      "grow plants",
+      "fight pollution"
+    ],
+    "explanation": "The Let Us Write section provides an example of an imaginative essay about a girl who uses nature-based superpowers to protect the environment. PDF 2, Page 13.",
+    "page_number": "PDF 2, Page 13"
+  },
+  {
+    "id": 68,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Fill in the blanks with appropriate interjections from the text and explain their context: \"___! The horse leapt out...\" and \"___! Gopi escaped safely...\".",
+    "answer": "One could use \"Whoa! The horse leapt out of the painting\" to express sudden surprise or amazement at the magic happening. For the second, \"Phew! Gopi escaped safely from the prison\" expresses a strong feeling of relief that she avoided the Zamindar's cruel punishment.",
+    "keywords": [
+      "Whoa",
+      "sudden surprise",
+      "Phew",
+      "escaped safely",
+      "feeling of relief"
+    ],
+    "explanation": "The grammar exercises require students to appropriately place interjections at the beginning of sentences to match the emotional context of the story. PDF 3, Page 5.",
+    "page_number": "PDF 3, Page 5"
+  },
+  {
+    "id": 69,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Why does Gopi choose to paint a mighty river rather than attacking the Zamindar directly?",
+    "answer": "Gopi's nature is compassionate and non-violent. She paints a wide river with fast currents to serve as an uncrossable boundary to physically block the men. By doing this, she uses her power defensively to protect herself and her integrity, rather than offensively harming others, which aligns with her values.",
+    "keywords": [
+      "compassionate non-violent",
+      "uncrossable boundary",
+      "uses power defensively",
+      "protect integrity",
+      "not offensively harming"
+    ],
+    "explanation": "The story emphasizes that Gopi uses power defensively to protect, not offensively to harm, which is a key moral lesson about responsible power. PDF 1, Page 8.",
+    "page_number": "PDF 1, Page 8"
+  },
+  {
+    "id": 70,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "Analyze the central theme of 'Power & Responsibility' as depicted in the poem.",
+    "answer": "The poem illustrates that power itself is neutral; it is neither inherently good nor bad. Its value depends entirely on the purpose for which it is used. The Zamindar wants power for selfish greed, while Gopi uses it for compassion. Therefore, imagination and capability become a force for good only when guided by selflessness.",
+    "keywords": [
+      "neutral",
+      "neither good nor bad",
+      "depends on purpose",
+      "selfish greed",
+      "guided by selflessness"
+    ],
+    "explanation": "The Central Theme section perfectly encapsulates this concept, showing that the magic brush's worth is defined by the morality of its wielder. PDF 1, Page 12.",
+    "page_number": "PDF 1, Page 12"
+  },
+  {
+    "id": 71,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "How does the magic brush act as a symbol of imagination and capability?",
+    "answer": "The magic brush acts as a profound symbol of the power of art and creativity to change the world. In Gopi's hands, it transforms imaginative ideas into real, tangible solutions like food and tools, uplifting the needy and providing a capable resistance against oppressive forces like the Zamindar.",
+    "keywords": [
+      "symbol of power",
+      "art and creativity",
+      "transforms ideas",
+      "tangible solutions",
+      "capable resistance"
+    ],
+    "explanation": "The Symbolism Map explicitly identifies the brush as a symbol of art, capability, and imagination being used to effect positive change in reality. PDF 1, Page 11.",
+    "page_number": "PDF 1, Page 11"
+  },
+  {
+    "id": 72,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "How does the poem illustrate the idea that true magic is found in courage and kindness?",
+    "answer": "While the brush is magical, Gopi's true power lies in her brave refusal to serve the greedy Zamindar and her unwavering kindness in feeding the poor. The story implies that anyone acting with integrity, courage, and compassion possesses \"true magic,\" making a positive difference even without a glowing brush.",
+    "keywords": [
+      "true power",
+      "brave refusal",
+      "unwavering kindness",
+      "integrity courage compassion",
+      "positive difference"
+    ],
+    "explanation": "The concluding slides of the visual summary state that true magic doesn't require a glowing brush, but is found where courage and kindness meet. PDF 1, Page 14.",
+    "page_number": "PDF 1, Page 14"
+  },
+  {
+    "id": 73,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "What would happen if Gopi had complied with the Zamindar's orders? Explain the potential consequences.",
+    "answer": "If Gopi complied, the Zamindar would hoard limitless wealth, build fortresses, and increase his oppressive control over the land. The villagers would remain hungry and poor, and Gopi would lose her integrity by breaking her promise. The magic brush would be corrupted into a dangerous weapon of greed.",
+    "keywords": [
+      "hoard wealth",
+      "oppressive control",
+      "villagers remain hungry",
+      "lose integrity",
+      "weapon of greed"
+    ],
+    "explanation": "This requires inference based on the text's themes. The Zamindar's greed would multiply, and Gopi would betray the old man's condition, ruining the purpose of the magic. PDF 1, Page 10 & 11.",
+    "page_number": "PDF 1, Page 11"
+  },
+  {
+    "id": 74,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "What lesson about power and leadership can be learned from the contrast between Gopi and the Zamindar?",
+    "answer": "The contrast teaches that true leadership involves serving the community and placing others' welfare above personal comfort. The Zamindar's selfish hoarding of wealth leads to his isolation and defeat as a coward. In contrast, Gopi's selfless use of power brings unity, survival, and joy, making her a celebrated, true leader.",
+    "keywords": [
+      "true leadership",
+      "serving community",
+      "hoarding wealth",
+      "isolation and defeat",
+      "selfless use"
+    ],
+    "explanation": "The Living the Value section and Character Comparison highlight how Gopi's selflessness makes her a hero, while the Zamindar's selfishness ruins him. PDF 3, Page 10.",
+    "page_number": "PDF 3, Page 10"
+  },
+  {
+    "id": 75,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "Imagine you are Gopi. Write a short diary entry expressing your feelings the night you are locked in the Zamindar's pen.",
+    "answer": "Date: 12th Oct. \nDear Diary, \nThe cold mud floor of this pen is terrifying, but my resolve remains strong. The Zamindar’s greed worries me deeply, yet I will never break my promise to help only the poor. I am planning an escape; a winding road and a fast horse might just be my way out to freedom. \n– Gopi",
+    "keywords": [
+      "cold mud floor",
+      "resolve remains strong",
+      "Zamindar's greed",
+      "never break promise",
+      "planning an escape"
+    ],
+    "explanation": "The composition exercise asks students to adopt Gopi's perspective, expressing her fears of the prison and her hopeful plan to escape using the brush. PDF 3, Page 9.",
+    "page_number": "PDF 3, Page 9"
+  },
+  {
+    "id": 76,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "Explain the different meanings of the verb 'draw' in the sentences: \"The event will draw huge crowds\" and \"Plants draw water from the soil.\"",
+    "answer": "The verb 'draw' changes meaning based on context. In \"The event will draw huge crowds,\" it means to attract or bring people in. In \"Plants draw water from the soil,\" it means to absorb, pull out, or extract liquid from the ground, demonstrating the word's versatility in English.",
+    "keywords": [
+      "changes meaning",
+      "context",
+      "attract or bring",
+      "absorb",
+      "pull out",
+      "versatility"
+    ],
+    "explanation": "The vocabulary exercise in the textbook asks students to match the verb 'draw' with its correct definition based on the context of the sentence. PDF 2, Page 9.",
+    "page_number": "PDF 2, Page 9"
+  },
+  {
+    "id": 77,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "Why is the title \"The Magic Brush of Dreams\" appropriate for this poem?",
+    "answer": "The title is perfectly appropriate because the magical paintbrush brings to life the deepest hopes and dreams of the poor—like survival, food, and tools. It also contrasts the selfish, greedy dreams of the Zamindar for gold with Gopi's selfless dreams of a happy, liberated, and thriving village community.",
+    "keywords": [
+      "brings to life",
+      "hopes and dreams",
+      "greedy dreams",
+      "selfless dreams",
+      "thriving village"
+    ],
+    "explanation": "The title is appropriate as it encapsulates both the literal object of magic and the metaphorical dreams (compassion vs greed) of the characters. PDF 2, Page 9.",
+    "page_number": "PDF 2, Page 9"
+  },
+  {
+    "id": 78,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "What magical power does Speaker (v) wish for in the \"Let us listen\" section, and why?",
+    "answer": "Speaker (v) wishes for the magical power to control the weather. Because society depends heavily on rains for agriculture, this power would ensure that crops always receive the perfect, right amount of rain and sunshine, helping to prevent drought or floods and supporting the community's survival.",
+    "keywords": [
+      "control weather",
+      "depends on rains",
+      "agriculture",
+      "right amount",
+      "supporting survival"
+    ],
+    "explanation": "The listening exercise features a speaker who wants to control weather specifically to ensure crops grow healthily for the benefit of all. PDF 2, Page 16.",
+    "page_number": "PDF 2, Page 16"
+  },
+  {
+    "id": 79,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Explain how the Rainbow Mountain in Peru gets its colours, according to the \"Spectacular Wonders\" dialogue.",
+    "answer": "According to the dialogue, the Rainbow Mountain in Peru gets its marvellous colours from various layers of minerals that got deposited millions of years ago. For instance, the green colour comes from copper, and the red colour comes from clay, making it look as though nature painted the mountain.",
+    "keywords": [
+      "Rainbow Mountain",
+      "layers of minerals",
+      "deposited millions of years",
+      "green from copper",
+      "red from clay"
+    ],
+    "explanation": "The listening transcript provides a factual, scientific explanation of how mineral deposits like clay and copper created the colours of the Rainbow Mountain. PDF 2, Page 16.",
+    "page_number": "PDF 2, Page 16"
+  },
+  {
+    "id": 80,
+    "subject": "English",
+    "chapter": "The Magic Brush of Dreams-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "How does the poem show that Gopi’s actions consistently place the welfare of others above her own comfort?",
+    "answer": "Despite being a poor village girl, Gopi never paints gold for herself. When threatened with imprisonment by a powerful Zamindar, she chooses the cold mud floor over breaking her promise. She uses the brush entirely to provide food, tools, and joy to her community, proving her absolute selflessness and compassion.",
+    "keywords": [
+      "welfare of others",
+      "never paints gold",
+      "threatened imprisonment",
+      "breaking promise",
+      "absolute selflessness"
+    ],
+    "explanation": "The Living the Value section asks students to reflect on Gopi's compassion. She risks her life and comfort solely to protect and provide for others. PDF 3, Page 10.",
+    "page_number": "PDF 3, Page 10"
+  }
+]
