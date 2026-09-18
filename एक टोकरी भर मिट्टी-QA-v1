@@ -1,0 +1,1701 @@
+[
+  {
+    "id": 1,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "'एक टोकरी भर मिट्टी' कहानी के लेखक कौन हैं?   Who is the author of the story 'Ek Tokri Bhar Mitti'?",
+    "answer": "'एक टोकरी भर मिट्टी' कहानी के लेखक माधवराव सप्रे हैं।   The author of the story 'Ek Tokri Bhar Mitti' is Madhavrao Sapre.",
+    "keywords": [
+      "लेखक   Writer",
+      "माधवराव सप्रे   Madhavrao Sapre"
+    ],
+    "explanation": "पाठ के अंत में लेखक परिचय में स्पष्ट रूप से बताया गया है कि इस कहानी के लेखक माधवराव सप्रे हैं।   It is clearly mentioned in the author introduction at the end of the text that the author of this story is Madhavrao Sapre.",
+    "page_number": "2"
+  },
+  {
+    "id": 2,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "गरीब और अनाथ वृद्धा की झोंपड़ी कहाँ स्थित थी?   Where was the poor and orphaned old woman's hut located?",
+    "answer": "गरीब और अनाथ वृद्धा की झोंपड़ी एक ज़मींदार के महल के पास स्थित थी।   The poor and orphaned old woman's hut was located near a Zamindar's palace.",
+    "keywords": [
+      "वृद्धा   Old woman",
+      "झोंपड़ी   Hut",
+      "महल   Palace"
+    ],
+    "explanation": "कहानी की शुरुआत में बताया गया है कि श्रीमान् ज़मींदार के महल के पास एक गरीब वृद्धा की झोंपड़ी थी।   At the beginning of the story, it is mentioned that there was a poor old woman's hut near the Zamindar's palace.",
+    "page_number": "1"
+  },
+  {
+    "id": 3,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "ज़मींदार अपनी ज़मीन क्यों बढ़ाना चाहता था?   Why did the Zamindar want to expand his land?",
+    "answer": "ज़मींदार अपने महल का अहाता झोंपड़ी तक बढ़ाने की इच्छा रखता था।   The Zamindar wanted to expand the compound of his palace up to the hut.",
+    "keywords": [
+      "ज़मींदार   Landlord",
+      "अहाता   Compound",
+      "इच्छा   Desire"
+    ],
+    "explanation": "ज़मींदार की इच्छा थी कि वह अपने महल की बाउंड्री (अहाता) को उस स्थान तक बढ़ाए जहाँ वृद्धा की झोंपड़ी थी।   The Zamindar desired to extend his palace's boundary (compound) up to the place where the old woman's hut stood.",
+    "page_number": "1"
+  },
+  {
+    "id": 4,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "पतोहू कितनी बड़ी कन्या को छोड़कर चल बसी थी?   How old was the daughter-in-law's girl when she passed away?",
+    "answer": "पतोहू एक पाँच बरस की कन्या को छोड़कर चल बसी थी।   The daughter-in-law passed away leaving behind a five-year-old girl.",
+    "keywords": [
+      "पतोहू   Daughter-in-law",
+      "पाँच बरस   Five years",
+      "कन्या   Girl"
+    ],
+    "explanation": "कहानी में उल्लेख है कि वृद्धा की पतोहू (बहू) की मृत्यु हो गई थी और वह अपनी पाँच वर्ष की बेटी को छोड़ गई थी।   The story mentions that the old woman's daughter-in-law died, leaving her five-year-old daughter behind.",
+    "page_number": "1"
+  },
+  {
+    "id": 5,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 15
+    },
+    "question": "रिक्त स्थान भरें- वृद्धा झोंपड़ी के भीतर ___ (गई/गईं)।   Fill in the blank- The old woman ___ (gayi/gayin) inside the hut.",
+    "answer": "वृद्धा झोंपड़ी के भीतर गई।   The old woman went inside the hut.",
+    "keywords": [
+      "वृद्धा   Old woman",
+      "गई   Went",
+      "एकवचन   Singular"
+    ],
+    "explanation": "यहाँ 'वृद्धा' एकवचन है, इसलिए इसके साथ क्रिया का एकवचन रूप 'गई' प्रयुक्त होगा।   Here 'old woman' is singular, so the singular verb form 'gayi' will be used.",
+    "page_number": "8"
+  },
+  {
+    "id": 6,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "'वह खाने लगेगी।' यह वाक्य किस काल का है?   'Wah khane lagegi.' Which tense is this sentence?",
+    "answer": "'वह खाने लगेगी।' यह वाक्य भविष्य काल का है।   'Wah khane lagegi.' This sentence is of the future tense.",
+    "keywords": [
+      "काल   Tense",
+      "भविष्य काल   Future tense",
+      "लगेगी   Will start"
+    ],
+    "explanation": "इस वाक्य में कार्य के आने वाले समय में होने का बोध हो रहा है, अतः यह भविष्य काल है।   This sentence indicates an action happening in the coming time, hence it is future tense.",
+    "page_number": "7"
+  },
+  {
+    "id": 7,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "'एक झोंपड़ी थी।' यह वाक्य किस काल का है?   'Ek jhopdi thi.' Which tense is this sentence?",
+    "answer": "यह वाक्य भूतकाल का है क्योंकि इसमें कार्य बीते समय का है।   This sentence is of the past tense because the action is of the past time.",
+    "keywords": [
+      "काल   Tense",
+      "भूतकाल   Past tense",
+      "थी   Was"
+    ],
+    "explanation": "वाक्य में 'थी' का प्रयोग हुआ है, जो दर्शाता है कि यह स्थिति पहले के समय (भूतकाल) की है।   The sentence uses 'thi' (was), which indicates that this situation belongs to an earlier time (past tense).",
+    "page_number": "7"
+  },
+  {
+    "id": 8,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "'श्रीमान् टहल रहे थे।' यह वाक्य किस काल का है?   'Shreeman tehal rahe the.' Which tense is this sentence?",
+    "answer": "यह वाक्य भूतकाल का है।   This sentence is of the past tense.",
+    "keywords": [
+      "काल   Tense",
+      "भूतकाल   Past tense",
+      "रहे थे   Were walking"
+    ],
+    "explanation": "वाक्य में 'रहे थे' का प्रयोग बीते हुए समय की क्रिया को दर्शाता है।   The use of 'rahe the' in the sentence indicates an action of the past time.",
+    "page_number": "7"
+  },
+  {
+    "id": 9,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "कहानी में प्रयुक्त 'पतोहू' शब्द का क्या अर्थ है?   What is the meaning of the word 'Patohu' used in the story?",
+    "answer": "'पतोहू' का अर्थ है बेटे की पत्नी या बहू।   'Patohu' means son's wife or daughter-in-law.",
+    "keywords": [
+      "पतोहू   Daughter-in-law",
+      "बहु   Daughter-in-law",
+      "शब्दकोश   Dictionary"
+    ],
+    "explanation": "शब्दकोश के अनुसार पतोहू शब्द का प्रयोग पुत्रवधू (बेटे की पत्नी) के लिए किया जाता है।   According to the dictionary, the word Patohu is used for the daughter-in-law (son's wife).",
+    "page_number": "10"
+  },
+  {
+    "id": 10,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "'अहाता' शब्द का अर्थ कहानी के संदर्भ में क्या है?   What is the meaning of the word 'Ahata' in the context of the story?",
+    "answer": "'अहाता' का अर्थ है महल के आस-पास की चारदीवारी या बाउंड्री।   'Ahata' means the boundary wall or compound around the palace.",
+    "keywords": [
+      "अहाता   Compound",
+      "चारदीवारी   Boundary wall",
+      "महल   Palace"
+    ],
+    "explanation": "ज़मींदार अपने महल की चारदीवारी (अहाते) को बढ़ाना चाहता था, जो घर के बाहर का खुला घिरा हुआ हिस्सा होता है।   The Zamindar wanted to extend his palace's boundary wall (ahata), which is the open enclosed area outside a house.",
+    "page_number": "10"
+  },
+  {
+    "id": 11,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "माधवराव सप्रे ने लोकमान्य तिलक के किस ग्रंथ का अनुवाद किया था?   Which book of Lokmanya Tilak was translated by Madhavrao Sapre?",
+    "answer": "माधवराव सप्रे ने लोकमान्य तिलक के चर्चित ग्रंथ 'गीता-रहस्य' का मराठी से हिंदी में अनुवाद किया था।   Madhavrao Sapre translated Lokmanya Tilak's famous book 'Gita-Rahasya' from Marathi to Hindi.",
+    "keywords": [
+      "अनुवाद   Translation",
+      "गीता-रहस्य   Gita-Rahasya",
+      "मराठी से हिंदी   Marathi to Hindi"
+    ],
+    "explanation": "लेखक परिचय में दिया गया है कि सप्रे जी ने तिलक जी की पुस्तक 'गीता-रहस्य' का अनुवाद किया था।   It is given in the author introduction that Sapre ji translated Tilak ji's book 'Gita-Rahasya'.",
+    "page_number": "2"
+  },
+  {
+    "id": 12,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "सही शब्द चुनें- 'वृद्धा ने कहा ___ वह झोंपड़ी को लेने नहीं आई है।' (कि/की)   Choose the correct word- 'Vridha ne kaha ___ wah jhopdi ko lene nahi aayi hai.' (ki/kee)",
+    "answer": "वृद्धा ने कहा कि वह झोंपड़ी को लेने नहीं आई है।   The old woman said that she had not come to take the hut.",
+    "keywords": [
+      "संयोजक   Conjunction",
+      "कि   That",
+      "व्याकरण   Grammar"
+    ],
+    "explanation": "यहाँ 'कि' एक संयोजक के रूप में प्रयोग होगा जो दो वाक्यों को जोड़ता है।   Here 'ki' will be used as a conjunction joining two sentences.",
+    "page_number": "6"
+  },
+  {
+    "id": 13,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "सही शब्द चुनें- 'पोती हमेशा कहती थी ___ वह अपने घर में ही खाना खाएगी।' (कि/की)   Choose the correct word- 'Poti hamesha kehti thi ___ wah apne ghar mein hi khana khayegi.' (ki/kee)",
+    "answer": "पोती हमेशा कहती थी कि वह अपने घर में ही खाना खाएगी।   The granddaughter always used to say that she would eat only in her house.",
+    "keywords": [
+      "संयोजक   Conjunction",
+      "कि   That",
+      "वाक्य   Sentence"
+    ],
+    "explanation": "यहाँ भी बात बताने के लिए 'कि' (संयोजक) का प्रयोग उचित है।   Here too, the use of 'ki' (conjunction) is appropriate to convey the statement.",
+    "page_number": "6"
+  },
+  {
+    "id": 14,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "'जब उसे अपनी पूर्वस्थिति की याद आ जाती तो मारे दुख के फूट-फूट कर रोने लगती।' इस वाक्य में कौन-सा भाव है?   'When she remembered her past situation, she would cry bitterly out of sorrow.' What emotion is in this sentence?",
+    "answer": "इस वाक्य में दुख और पीड़ा का भाव प्रकट हो रहा है।   The emotion of sorrow and pain is being expressed in this sentence.",
+    "keywords": [
+      "भाव   Emotion",
+      "दुख   Sorrow",
+      "पीड़ा   Pain"
+    ],
+    "explanation": "फूट-फूट कर रोना गहरे दुख और आंतरिक पीड़ा को दर्शाता है।   Crying bitterly indicates deep sorrow and internal pain.",
+    "page_number": "11"
+  },
+  {
+    "id": 15,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "'बाल की खाल निकालने वाले वकीलों की थैली गरम कर...' इस वाक्य में ज़मींदार का कौन-सा भाव झलकता है?   'By warming the pockets of lawyers who split hairs...' What emotion of the Zamindar is reflected in this sentence?",
+    "answer": "इस वाक्य में ज़मींदार की क्रूरता और अन्याय का भाव झलकता है।   This sentence reflects the emotion of cruelty and injustice of the Zamindar.",
+    "keywords": [
+      "क्रूरता   Cruelty",
+      "अन्याय   Injustice",
+      "भाव   Emotion"
+    ],
+    "explanation": "वकीलों को रिश्वत देकर किसी गरीब का घर छीनना क्रूरता और अन्याय का ही प्रतीक है।   Bribing lawyers to snatch a poor person's house is a symbol of cruelty and injustice.",
+    "page_number": "11"
+  },
+  {
+    "id": 16,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 15
+    },
+    "question": "'ट् क र् ई ओ' अक्षरों से कौन-सा सार्थक शब्द बनेगा?   Which meaningful word will be formed from the letters 'ṭ k r ee o'?",
+    "answer": "इन अक्षरों से 'टोकरी' शब्द बनेगा।   The word 'Tokri' (basket) will be formed from these letters.",
+    "keywords": [
+      "सार्थक शब्द   Meaningful word",
+      "टोकरी   Basket",
+      "अक्षर   Letters"
+    ],
+    "explanation": "दिए गए बिखरे अक्षरों को सही क्रम में व्यवस्थित करने पर 'टोकरी' शब्द बनता है।   Arranging the given scattered letters in the correct sequence forms the word 'Tokri'.",
+    "page_number": "14"
+  },
+  {
+    "id": 17,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "पाठ में उल्लिखित 'जनसुनवाई' सुविधा का क्या उपयोग है?   What is the use of the 'Jansunwai' facility mentioned in the lesson?",
+    "answer": "जनसुनवाई सुविधा का उपयोग नागरिक अपनी शिकायतें सरकार तक पहुँचाने के लिए करते हैं।   Citizens use the Jansunwai facility to convey their complaints to the government.",
+    "keywords": [
+      "जनसुनवाई   Jansunwai",
+      "शिकायतें   Complaints",
+      "सरकार   Government"
+    ],
+    "explanation": "पाठ के अंत में दी गई जानकारी के अनुसार जनसुनवाई इंटरनेट के ज़रिए शिकायतें दर्ज करने का माध्यम है।   According to the information at the end of the text, Jansunwai is a medium to register complaints via the internet.",
+    "page_number": "14"
+  },
+  {
+    "id": 18,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 20
+    },
+    "question": "रिक्त स्थान भरें- उसकी आँखों से आँसू की धारा बहने लगी ___ (थी/थीं)।   Fill in the blank- Tears started flowing from her eyes ___ (thi/theen).",
+    "answer": "उसकी आँखों से आँसू की धारा बहने लगी थी।   Tears had started flowing from her eyes.",
+    "keywords": [
+      "धारा   Stream",
+      "एकवचन   Singular",
+      "थी   Was"
+    ],
+    "explanation": "यहाँ 'धारा' शब्द एकवचन है, इसलिए उसके अनुसार क्रिया 'थी' लगेगी।   Here the word 'dhara' (stream) is singular, so the verb 'thi' will be used accordingly.",
+    "page_number": "8"
+  },
+  {
+    "id": 19,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "'बाल बाँका न होना' मुहावरे का क्या अर्थ है?   What is the meaning of the idiom 'Baal baanka na hona'?",
+    "answer": "'बाल बाँका न होना' मुहावरे का अर्थ है पूर्ण रूप से सुरक्षित रहना या कुछ भी कष्ट न पहुँचना।   The meaning of the idiom 'Baal baanka na hona' is to remain completely safe or not suffer any harm.",
+    "keywords": [
+      "मुहावरा   Idiom",
+      "सुरक्षित रहना   Remain safe",
+      "कष्ट न पहुँचना   No harm caused"
+    ],
+    "explanation": "पाठ के अभ्यास में बताया गया है कि जब किसी को कोई नुकसान नहीं पहुँचता है, तो इस मुहावरे का प्रयोग होता है।   The lesson exercise explains that when no harm comes to someone, this idiom is used.",
+    "page_number": "7"
+  },
+  {
+    "id": 20,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "'बाल-बाल बचना' मुहावरे का अर्थ बताइए।   Tell the meaning of the idiom 'Baal-baal bachna'.",
+    "answer": "'बाल-बाल बचना' का अर्थ है किसी बड़ी विपत्ति या हानि पहुँचने में बहुत थोड़ी कमी रह जाना।   'Baal-baal bachna' means escaping a major disaster or harm by a very narrow margin.",
+    "keywords": [
+      "मुहावरा   Idiom",
+      "विपत्ति   Disaster",
+      "बचना   Escape"
+    ],
+    "explanation": "जब कोई व्यक्ति मुश्किल से किसी खतरे से बचता है, तब 'बाल-बाल बचना' मुहावरे का उपयोग किया जाता है।   When a person barely escapes a danger, the idiom 'Baal-baal bachna' is used.",
+    "page_number": "7"
+  },
+  {
+    "id": 21,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "'ज़मींदार साहब धन-मद से गर्वित हो अपना कर्तव्य भूल गए थे।' इसमें कौन-सा भाव है?   'The Zamindar, proud of his wealth, had forgotten his duty.' Which emotion is this?",
+    "answer": "इस वाक्य में ज़मींदार का अहंकार और घमंड का भाव प्रकट हो रहा है।   The emotion of ego and arrogance of the Zamindar is being expressed in this sentence.",
+    "keywords": [
+      "अहंकार   Ego",
+      "घमंड   Arrogance",
+      "धन-मद   Pride of wealth"
+    ],
+    "explanation": "धन के नशे में चूर होकर सही-गलत का ज्ञान भूल जाना अहंकार को ही दर्शाता है।   Forgetting the difference between right and wrong while intoxicated by wealth reflects pure arrogance.",
+    "page_number": "11"
+  },
+  {
+    "id": 22,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "माधवराव सप्रे की प्रमुख कृतियाँ किन आंदोलनों से संबंधित हैं?   Madhavrao Sapre's major works are related to which movements?",
+    "answer": "माधवराव सप्रे की प्रमुख कृतियाँ स्वदेशी आंदोलन और बायकॉट से संबंधित हैं।   Madhavrao Sapre's major works are related to the Swadeshi movement and Boycott.",
+    "keywords": [
+      "स्वदेशी आंदोलन   Swadeshi movement",
+      "बायकॉट   Boycott",
+      "कृतियाँ   Works"
+    ],
+    "explanation": "लेखक के परिचय में बताया गया है कि स्वदेशी आंदोलन और बायकॉट उनकी प्रमुख कृतियाँ हैं।   It is mentioned in the author's introduction that Swadeshi movement and Boycott are his major works.",
+    "page_number": "2"
+  },
+  {
+    "id": 23,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "'एक टोकरी भर मिट्टी' कहानी किस प्रकार के प्रश्नों को उठाती है?   What kind of questions does the story 'Ek Tokri Bhar Mitti' raise?",
+    "answer": "यह कहानी हमारे सामाजिक ताने-बाने में गाँठ बनकर अटके हुए नैतिक प्रश्नों को उठाती है।   This story raises moral questions that are stuck like knots in our social fabric.",
+    "keywords": [
+      "सामाजिक ताने-बाने   Social fabric",
+      "नैतिक प्रश्न   Moral questions",
+      "गाँठ   Knot"
+    ],
+    "explanation": "लेखक परिचय के अंत में लिखा है कि यह कहानी केवल घटना नहीं सुनाती, बल्कि गहरे सामाजिक और नैतिक प्रश्न उठाती है।   At the end of the author intro, it's written that this story doesn't just narrate an event, but raises deep social and moral questions.",
+    "page_number": "2"
+  },
+  {
+    "id": 24,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "'ज़माने' शब्द का कहानी के संदर्भ में उचित अर्थ क्या है?   What is the proper meaning of the word 'Zamane' in the context of the story?",
+    "answer": "कहानी के संदर्भ में 'ज़माने' शब्द का अर्थ काल या बहुत अधिक समय की अवधि से है।   In the context of the story, the word 'Zamane' means era or a very long period of time.",
+    "keywords": [
+      "ज़माने   Era/Long time",
+      "अवधि   Period",
+      "काल   Time"
+    ],
+    "explanation": "जब वृद्धा कहती है कि वह कई 'ज़माने' से वहाँ बसी थी, तो उसका अर्थ है कि वह बहुत लंबे समय से वहाँ रह रही थी।   When the old woman says she had been settled there for many 'zamanes', she means she had been living there for a very long time.",
+    "page_number": "10"
+  },
+  {
+    "id": 25,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "वृद्धा अपनी झोंपड़ी क्यों नहीं छोड़ना चाहती थी?   Why didn't the old woman want to leave her hut?",
+    "answer": "वृद्धा की झोंपड़ी से उसकी गहरी यादें जुड़ी थीं। उसके पति, इकलौते पुत्र और बहू की मृत्यु उसी झोंपड़ी में हुई थी। इसलिए वह उसे नहीं छोड़ना चाहती थी।   The old woman had deep memories attached to her hut. Her husband, only son, and daughter-in-law had died in that very hut. That's why she didn't want to leave it.",
+    "keywords": [
+      "यादें   Memories",
+      "पति   Husband",
+      "पुत्र   Son",
+      "मृत्यु   Death"
+    ],
+    "explanation": "झोंपड़ी वृद्धा के लिए केवल एक घर नहीं, बल्कि उसके मृत परिवार की यादों का एकमात्र सहारा थी। इसलिए उसका वहां से जाना मुश्किल था।   The hut was not just a house for the old woman, but the only support for the memories of her dead family. Therefore, it was difficult for her to leave.",
+    "page_number": "1"
+  },
+  {
+    "id": 26,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "ज़मींदार ने वृद्धा को झोंपड़ी से कैसे निकाला?   How did the Zamindar evict the old woman from the hut?",
+    "answer": "ज़मींदार ने वकीलों को रिश्वत देकर अदालत के माध्यम से कानूनी दाँवपेंच लगाकर झोंपड़ी पर अपना कब्ज़ा कर लिया और वृद्धा को वहाँ से निकाल दिया।   By bribing the lawyers, the Zamindar used legal tricks through the court to take possession of the hut and evicted the old woman from there.",
+    "keywords": [
+      "वकीलों   Lawyers",
+      "रिश्वत   Bribe",
+      "अदालत   Court",
+      "कब्ज़ा   Possession"
+    ],
+    "explanation": "जब सीधे कहने पर वृद्धा नहीं मानी, तो ज़मींदार ने 'बाल की खाल निकालने वाले' वकीलों की थैली गरम करके अदालत से आदेश प्राप्त कर लिया।   When the old woman didn't agree on being told directly, the Zamindar warmed the pockets of 'hair-splitting' lawyers and got an order from the court.",
+    "page_number": "1"
+  },
+  {
+    "id": 27,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "जब से झोंपड़ी छूटी थी, तब से वृद्धा की पोती ने क्या किया था?   What had the old woman's granddaughter done since the hut was lost?",
+    "answer": "जब से वृद्धा की झोंपड़ी छूटी थी, तब से उसकी पोती ने खाना-पीना छोड़ दिया था। वह ज़िद कर रही थी कि वह अपने घर जाकर ही रोटी खाएगी।   Since the old woman's hut was lost, her granddaughter had stopped eating and drinking. She was insisting that she would eat roti only after going to her own house.",
+    "keywords": [
+      "पोती   Granddaughter",
+      "खाना-पीना   Eating and drinking",
+      "ज़िद   Stubbornness"
+    ],
+    "explanation": "छोटी बच्ची को अपने पुराने घर की याद आ रही थी और इसलिए उसने नए स्थान पर भोजन करने से साफ इनकार कर दिया था।   The little girl was missing her old house and therefore she had flatly refused to eat food at the new place.",
+    "page_number": "1"
+  },
+  {
+    "id": 28,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "वृद्धा ने ज़मींदार से एक टोकरी मिट्टी क्यों माँगी?   Why did the old woman ask the Zamindar for a basket of soil?",
+    "answer": "वृद्धा अपनी पोती के लिए उसी मिट्टी से एक चूल्हा बनाना चाहती थी ताकि वह उस पर रोटी पका सके और उसकी पोती खाना खाने लगे।   The old woman wanted to make a stove out of that soil for her granddaughter so that she could cook roti on it and her granddaughter would start eating.",
+    "keywords": [
+      "चूल्हा   Stove",
+      "रोटी   Bread/Roti",
+      "पोती   Granddaughter"
+    ],
+    "explanation": "पोती अपनी पुरानी झोंपड़ी की ज़िद कर रही थी, इसलिए वृद्धा ने सोचा कि पुरानी मिट्टी से बना चूल्हा शायद पोती को सांत्वना दे।   The granddaughter was insisting on her old hut, so the old woman thought that a stove made of the old soil might console her.",
+    "page_number": "2"
+  },
+  {
+    "id": 29,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "जब वृद्धा झोंपड़ी के पास आई, तो ज़मींदार ने नौकरों से क्या कहा?   When the old woman came near the hut, what did the Zamindar say to the servants?",
+    "answer": "जब वृद्धा झोंपड़ी के पास आई, तो उसे देखते ही ज़मींदार ने अपने नौकरों से कहा कि वे उसे वहाँ से तुरंत हटा दें।   When the old woman came near the hut, seeing her, the Zamindar told his servants to remove her from there immediately.",
+    "keywords": [
+      "नौकरों   Servants",
+      "हटा दें   Remove",
+      "ज़मींदार   Zamindar"
+    ],
+    "explanation": "ज़मींदार वृद्धा को अहाते के पास नहीं देखना चाहता था, इसलिए उसने अपने नौकरों को उसे भगाने का आदेश दिया।   The Zamindar did not want to see the old woman near the compound, so he ordered his servants to chase her away.",
+    "page_number": "1"
+  },
+  {
+    "id": 30,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "ज़मींदार ने टोकरी उठाने में वृद्धा की मदद क्यों की?   Why did the Zamindar help the old woman lift the basket?",
+    "answer": "जब वृद्धा बार-बार हाथ जोड़ने लगी और ज़मींदार के पैरों पर गिरने लगी, तो उसके मन में कुछ दया आ गई। इसलिए वह स्वयं टोकरी उठाने आगे बढ़ा।   When the old woman started folding her hands repeatedly and falling at the Zamindar's feet, some pity arose in his heart. So he himself stepped forward to lift the basket.",
+    "keywords": [
+      "हाथ जोड़ने   Folding hands",
+      "पैरों पर गिरने   Falling at feet",
+      "दया   Pity/Compassion"
+    ],
+    "explanation": "वृद्धा की दयनीय अवस्था और गिड़गिड़ाहट देखकर कठोर ज़मींदार के मन में भी थोड़ी सी मानवीय दया उत्पन्न हो गई थी।   Seeing the pitiful condition and pleading of the old woman, a little human compassion arose even in the cruel Zamindar's heart.",
+    "page_number": "2"
+  },
+  {
+    "id": 31,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "कहानी के अंत में ज़मींदार ने क्या किया?   What did the Zamindar do at the end of the story?",
+    "answer": "कहानी के अंत में ज़मींदार को अपने कृतकर्म पर पश्चाताप हुआ। उसने वृद्धा से क्षमा माँगी और उसकी झोंपड़ी वापस दे दी।   At the end of the story, the Zamindar repented for his deeds. He apologized to the old woman and gave back her hut.",
+    "keywords": [
+      "कृतकर्म   Deeds",
+      "पश्चाताप   Repentance",
+      "क्षमा   Apology",
+      "वापस   Returned"
+    ],
+    "explanation": "वृद्धा की बातों ने ज़मींदार का हृदय परिवर्तन कर दिया, जिससे उसे अपनी गलती का अहसास हुआ और उसने न्याय किया।   The old woman's words changed the Zamindar's heart, making him realize his mistake and he did justice.",
+    "page_number": "2"
+  },
+  {
+    "id": 32,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "'वह गिड़गिड़ाकर बोली।' इस वाक्य को वर्तमान और भविष्य काल में बदलिए।   'Wah gidgidakar boli.' Change this sentence to present and future tense.",
+    "answer": "वर्तमान काल: वह गिड़गिड़ाकर बोलती है। भविष्य काल: वह गिड़गिड़ाकर बोलेगी।   Present Tense: She speaks pleadingly. Future Tense: She will speak pleadingly.",
+    "keywords": [
+      "वर्तमान काल   Present Tense",
+      "भविष्य काल   Future Tense",
+      "बोलती है   Speaks",
+      "बोलेगी   Will speak"
+    ],
+    "explanation": "दिए गए भूतकाल के वाक्य को व्याकरण के नियमानुसार 'ती है' लगाकर वर्तमान और 'एगी' लगाकर भविष्य काल में बदला गया है।   The given past tense sentence is changed to present by adding 'ti hai' and to future tense by adding 'egi' as per grammar rules.",
+    "page_number": "8"
+  },
+  {
+    "id": 33,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 45
+    },
+    "question": "'मृतप्राय हो जाना' से क्या तात्पर्य है और कहानी में यह स्थिति किसकी हुई?   What is meant by 'becoming like dead' and whose condition was this in the story?",
+    "answer": "'मृतप्राय हो जाना' का अर्थ है गहरे दुख के कारण जीने की इच्छा खो देना। जब वृद्धा ने झोंपड़ी हटाने की ज़मींदार की इच्छा सुनी, तो वह मृतप्राय हो गई थी।   'Becoming like dead' means losing the will to live due to deep sorrow. When the old woman heard the Zamindar's wish to remove the hut, she became like dead.",
+    "keywords": [
+      "मृतप्राय   Like dead",
+      "दुख   Sorrow",
+      "इच्छा   Wish"
+    ],
+    "explanation": "वृद्धा का जीवन अपनी झोंपड़ी पर टिका था। उसके छिन जाने के डर ने उसे जीवित रहते हुए भी मृत के समान बना दिया था।   The old woman's life depended on her hut. The fear of it being taken away made her like a dead person while still alive.",
+    "page_number": "1"
+  },
+  {
+    "id": 34,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 45
+    },
+    "question": "वृद्धा ने ज़मींदार को क्या नैतिक पाठ पढ़ाया?   What moral lesson did the old woman teach the Zamindar?",
+    "answer": "वृद्धा ने कहा कि जब वह एक टोकरी मिट्टी का भार नहीं उठा सकता, तो हज़ारों टोकरियों की मिट्टी से बनी उस झोंपड़ी के अन्याय का बोझ जीवन भर कैसे उठाएगा।   The old woman said that when he cannot lift the burden of one basket of soil, how will he carry the burden of the injustice of that hut made of thousands of baskets of soil for his whole life.",
+    "keywords": [
+      "भार   Burden",
+      "अन्याय   Injustice",
+      "नैतिक पाठ   Moral lesson"
+    ],
+    "explanation": "वृद्धा ने भौतिक टोकरी को ज़मींदार के कर्मों के बोझ (पाप) से जोड़कर उसे अपनी गलती सोचने पर विवश कर दिया।   The old woman forced him to reflect on his mistake by comparing the physical basket to the burden (sin) of the Zamindar's actions.",
+    "page_number": "2"
+  },
+  {
+    "id": 35,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 45
+    },
+    "question": "'बाल की खाल निकालना' मुहावरे का वाक्य में प्रयोग करके उसका अर्थ स्पष्ट करें।   Clarify the meaning of the idiom 'Baal ki khaal nikalna' by using it in a sentence.",
+    "answer": "अर्थ: छोटी-छोटी बातों में दोष निकालना या सूक्ष्मता से जांचना। वाक्य: आजकल के चालाक वकील मुकदमों में बाल की खाल निकालकर केस जीत लेते हैं।   Meaning: Finding faults in trivial matters or examining minutely. Sentence: Nowadays clever lawyers win cases by splitting hairs in lawsuits.",
+    "keywords": [
+      "मुहावरा   Idiom",
+      "दोष निकालना   Finding fault",
+      "सूक्ष्मता   Minuteness"
+    ],
+    "explanation": "इस मुहावरे का प्रयोग उन लोगों के लिए किया जाता है जो किसी बात की गहराई में जाकर बेवजह नुक्स निकालते हैं, जैसे कहानी में वकील करते हैं।   This idiom is used for people who go deep into a matter to find faults unnecessarily, just like the lawyers do in the story.",
+    "page_number": "7"
+  },
+  {
+    "id": 36,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "'निष्फल' शब्द का अर्थ कहानी के संदर्भ में स्पष्ट कीजिए।   Clarify the meaning of the word 'Nishphal' in the context of the story.",
+    "answer": "'निष्फल' का अर्थ है बिना किसी परिणाम के या असफल होना। जब ज़मींदार के सारे सीधे प्रयत्न असफल हो गए, तब उसने वकीलों का सहारा लिया।   'Nishphal' means without any result or to fail. When all the direct efforts of the Zamindar failed, he took the help of lawyers.",
+    "keywords": [
+      "निष्फल   Unsuccessful",
+      "असफल   Failed",
+      "प्रयत्न   Effort"
+    ],
+    "explanation": "ज़मींदार पहले वृद्धा को मनाने का प्रयास कर रहा था, लेकिन जब वह नहीं मानी तो उसके प्रयास निष्फल (बेकार) साबित हुए।   The Zamindar was initially trying to convince the old woman, but when she didn't agree, his efforts proved to be nishphal (futile).",
+    "page_number": "1"
+  },
+  {
+    "id": 37,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "'उनके मन में कुछ दया आ गई' और 'उनकी आँखें खुल गईं' - इन वाक्यों में गई और गईं के प्रयोग में क्या अंतर है?   'Unke man mein kuch daya aa gayi' and 'Unki aankhein khul gayin' - what is the difference in the use of gayi and gayin in these sentences?",
+    "answer": "'गई' का प्रयोग एकवचन संज्ञा (दया) के लिए हुआ है, जबकि 'गईं' का प्रयोग बहुवचन संज्ञा (आँखें) के लिए हुआ है। बहुवचन क्रियाओं में अनुस्वार (बिंदु) का प्रयोग होता है।   'Gayi' is used for a singular noun (pity/compassion), whereas 'gayin' is used for a plural noun (eyes). The nasal dot (anusvaar) is used in plural verbs.",
+    "keywords": [
+      "एकवचन   Singular",
+      "बहुवचन   Plural",
+      "अनुस्वार   Anusvaar (nasal dot)"
+    ],
+    "explanation": "हिंदी व्याकरण के अनुसार क्रिया का रूप कर्ता या कर्म के वचन पर निर्भर करता है। आँखों के बहुवचन होने के कारण गईं (बिंदु सहित) का प्रयोग हुआ।   According to Hindi grammar, the form of the verb depends on the number of the subject or object. Since eyes are plural, gayin (with a dot) was used.",
+    "page_number": "8"
+  },
+  {
+    "id": 38,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 35
+    },
+    "question": "'श्रीमान् ने आज्ञा दे दी।' इस वाक्य को वर्तमान और भविष्य काल में बदलिए।   'Shreeman ne aagya de di.' Change this sentence to present and future tense.",
+    "answer": "वर्तमान काल: श्रीमान् आज्ञा देते हैं। भविष्य काल: श्रीमान् आज्ञा दे देंगे।   Present Tense: Shreeman gives permission. Future Tense: Shreeman will give permission.",
+    "keywords": [
+      "वर्तमान काल   Present Tense",
+      "भविष्य काल   Future Tense",
+      "देते हैं   Gives",
+      "दे देंगे   Will give"
+    ],
+    "explanation": "आज्ञा देने की क्रिया को मौजूदा समय के लिए 'देते हैं' और आने वाले समय के लिए 'दे देंगे' में बदलकर काल परिवर्तन किया गया है।   The verb of giving permission is changed to 'dete hain' for current time and 'de denge' for upcoming time to change the tense.",
+    "page_number": "8"
+  },
+  {
+    "id": 39,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "पीजी पोर्टल (pgportal.gov.in) का नागरिक शिकायत प्रक्रिया में क्या महत्व है?   What is the importance of PG Portal (pgportal.gov.in) in the citizen grievance process?",
+    "answer": "यह भारत सरकार की वेबसाइट है जहाँ भारतीय नागरिक केंद्र या राज्य सरकार के किसी भी विभाग से जुड़ी अपनी शिकायतें आसानी से दर्ज़ करवा सकते हैं।   It is a website of the Government of India where Indian citizens can easily register their complaints related to any department of the Central or State Government.",
+    "keywords": [
+      "सार्वजनिक शिकायत   Public grievance",
+      "वेबसाइट   Website",
+      "नागरिक   Citizen"
+    ],
+    "explanation": "यह पोर्टल अन्याय के खिलाफ आवाज़ उठाने और आधुनिक समय में सरकारी विभागों से न्याय व सहायता प्राप्त करने का एक डिजिटल माध्यम है।   This portal is a digital medium to raise voice against injustice and get justice and help from government departments in modern times.",
+    "page_number": "14"
+  },
+  {
+    "id": 40,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 25
+    },
+    "question": "दिए गए अक्षरों से सार्थक शब्द बनाइए- 'ज द् आ म् ई र अं'।   Make a meaningful word from the given letters- 'j d aa m ee r an'.",
+    "answer": "इन दिए गए अक्षरों को सही क्रम में जोड़ने से 'ज़मींदार' सार्थक शब्द बनेगा।   By joining these given letters in the correct sequence, the meaningful word 'Zamindar' will be formed.",
+    "keywords": [
+      "सार्थक शब्द   Meaningful word",
+      "ज़मींदार   Landlord",
+      "अक्षर   Letters"
+    ],
+    "explanation": "पाठ के अभ्यास में दी गई पहेली को सुलझाने पर कहानी के मुख्य पात्र 'ज़मींदार' का नाम उभर कर आता है।   Upon solving the puzzle given in the lesson's exercise, the name of the story's main character 'Zamindar' emerges.",
+    "page_number": "14"
+  },
+  {
+    "id": 41,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 45
+    },
+    "question": "झोंपड़ी के भीतर जाते ही वृद्धा की आँखों से आँसू क्यों बहने लगे?   Why did tears start flowing from the old woman's eyes as soon as she went inside the hut?",
+    "answer": "झोंपड़ी के भीतर जाते ही वृद्धा को अपने पुराने सुखद दिनों और अपने खोए हुए परिवार (पति, पुत्र, बहू) की पुरानी बातों का स्मरण हो आया, इसलिए वह भावुक होकर रोने लगी।   As soon as she went inside the hut, the old woman remembered her old happy days and old things of her lost family (husband, son, daughter-in-law), so she became emotional and started crying.",
+    "keywords": [
+      "स्मरण   Remembrance",
+      "आँसू   Tears",
+      "भावुक   Emotional",
+      "पुरानी बातें   Old things"
+    ],
+    "explanation": "वह स्थान वृद्धा के लिए मात्र मिट्टी का घर नहीं था, बल्कि वह उसके जीवन की सभी प्रमुख घटनाओं और मृत परिजनों का साक्षी था।   That place was not merely a house of soil for the old woman, but a witness to all major events of her life and dead relatives.",
+    "page_number": "2"
+  },
+  {
+    "id": 42,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "'कि' और 'की' के प्रयोग में क्या मुख्य अंतर है? उदाहरण सहित समझाइए।   What is the main difference in the use of 'Ki' and 'Kee'? Explain with an example.",
+    "answer": "'कि' एक संयोजक है जो दो वाक्यों को जोड़ता है (जैसे: उसने कहा कि वह आएगा)। 'की' एक संबंधकारक शब्द है जो संज्ञा/सर्वनाम का संबंध बताता है (जैसे: राम की किताब)।   'Ki' is a conjunction that joins two sentences (e.g., He said that he will come). 'Kee' is a prepositional word that shows the relationship of a noun/pronoun (e.g., Ram's book).",
+    "keywords": [
+      "संयोजक   Conjunction",
+      "संबंधकारक   Relational/Preposition",
+      "व्याकरण   Grammar"
+    ],
+    "explanation": "पाठ में व्याकरण के अंतर्गत स्पष्ट किया गया है कि 'कि' कारण या कथन बताने के लिए जुड़ता है, जबकि 'की' अधिकार या संबंध दर्शाता है।   It is clarified under grammar in the lesson that 'Ki' joins to state a reason or statement, while 'Kee' shows possession or relationship.",
+    "page_number": "6"
+  },
+  {
+    "id": 43,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 40
+    },
+    "question": "'वृद्धा पहुँची' वाक्य का विस्तार करके एक बड़ा वाक्य बनाइए जैसा कि पाठ के अभ्यास में दिया गया है।   Expand the sentence 'Vridha pahunchi' to make a larger sentence as given in the lesson's exercise.",
+    "answer": "थकी हुई आँखों और काँपते हाथों में टोकरी लिए वृद्धा धीरे-धीरे दरवाज़े पर पहुँची।   With tired eyes and a basket in her trembling hands, the old woman slowly reached the door.",
+    "keywords": [
+      "विस्तार   Expansion",
+      "काँपते हाथों   Trembling hands",
+      "टोकरी   Basket"
+    ],
+    "explanation": "वाक्य विस्तार का उद्देश्य छोटे वाक्य में विशेषण और क्रियाविशेषण जोड़कर दृश्य को अधिक सजीव और प्रभावशाली बनाना होता है।   The purpose of sentence expansion is to make the scene more lively and effective by adding adjectives and adverbs to a short sentence.",
+    "page_number": "11"
+  },
+  {
+    "id": 44,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 45
+    },
+    "question": "कहानी का शीर्षक 'एक टोकरी भर मिट्टी' ही क्यों रखा गया?   Why was the title of the story kept as 'Ek Tokri Bhar Mitti'?",
+    "answer": "क्योंकि पूरी कहानी इसी एक टोकरी मिट्टी के इर्द-गिर्द घूमती है। यही मिट्टी ज़मींदार के अहंकार को तोड़ती है और वृद्धा के अपने घर के प्रति गहरे भावनात्मक लगाव को दर्शाती है।   Because the entire story revolves around this one basket of soil. It is this soil that breaks the Zamindar's ego and shows the old woman's deep emotional attachment to her house.",
+    "keywords": [
+      "शीर्षक   Title",
+      "अहंकार   Ego",
+      "लगाव   Attachment"
+    ],
+    "explanation": "एक टोकरी मिट्टी ही वह केंद्रीय बिंदु (प्रतीक) है जो कहानी के क्लाइमेक्स और मुख्य संदेश को उभार कर सामने लाता है।   A basket full of soil is the central point (symbol) that highlights the climax and main message of the story.",
+    "page_number": "1"
+  },
+  {
+    "id": 45,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 45
+    },
+    "question": "पोती का अपनी ही झोंपड़ी में रोटी खाने की ज़िद करना क्या दर्शाता है?   What does the granddaughter's stubbornness to eat roti only in her own hut show?",
+    "answer": "यह दर्शाता है कि एक छोटे बच्चे का भी अपने घर और परिवेश से गहरा भावनात्मक जुड़ाव होता है, जो बड़े महलों या नई जगहों के आकर्षण से भी ज़्यादा मज़बूत होता है।   This shows that even a small child has a deep emotional connection to their home and surroundings, which is stronger than the attraction of big palaces or new places.",
+    "keywords": [
+      "ज़िद   Stubbornness",
+      "जुड़ाव   Connection",
+      "भावनात्मक   Emotional"
+    ],
+    "explanation": "गरीबों के लिए उनका छोटा सा घर ही उनकी पूरी दुनिया होती है, और बच्चों में यह लगाव बहुत शुद्ध और गहरा होता है।   For the poor, their small house is their entire world, and in children, this attachment is very pure and deep.",
+    "page_number": "1"
+  },
+  {
+    "id": 46,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 45
+    },
+    "question": "ज़मींदार के व्यवहार में बदलाव देखकर हमें क्या शिक्षा मिलती है?   What lesson do we learn by seeing the change in the Zamindar's behavior?",
+    "answer": "हमें यह शिक्षा मिलती है कि अहंकार और धन का घमंड अंततः टूट जाता है। विनम्रता, नैतिकता और अपनी गलती मानकर सुधार करना ही मनुष्य की सच्ची महानता है।   We learn the lesson that ego and pride of wealth eventually break. Humility, morality, and correcting oneself by accepting one's mistake is the true greatness of a human.",
+    "keywords": [
+      "शिक्षा   Lesson",
+      "घमंड   Pride",
+      "विनम्रता   Humility",
+      "महानता   Greatness"
+    ],
+    "explanation": "ज़मींदार का पश्चाताप करना यह साबित करता है कि मनुष्य के भीतर की अंतरात्मा कभी न कभी जागृत अवश्य होती है और सत्य की ही जीत होती है।   The Zamindar's repentance proves that a human's inner conscience definitely awakens at some point and truth alone triumphs.",
+    "page_number": "2"
+  },
+  {
+    "id": 47,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 45
+    },
+    "question": "यदि आप ज़मींदार की जगह होते तो अनाथ वृद्धा के साथ कैसा व्यवहार करते?   If you were in place of the Zamindar, how would you have treated the orphaned old woman?",
+    "answer": "यदि मैं ज़मींदार की जगह होता, तो मैं वृद्धा की भावनाओं का सम्मान करता। मैं उससे उसकी झोंपड़ी नहीं छीनता, बल्कि बुढ़ापे में उसकी आर्थिक और मानसिक रूप से मदद करता।   If I were in place of the Zamindar, I would respect the old woman's feelings. I would not snatch her hut, but help her financially and mentally in her old age.",
+    "keywords": [
+      "सम्मान   Respect",
+      "मदद   Help",
+      "सहानुभूति   Empathy"
+    ],
+    "explanation": "समाज के संपन्न लोगों का कर्तव्य दुर्बलों को सताना नहीं, बल्कि उनके प्रति सहानुभूति रखकर उनकी रक्षा करना होना चाहिए।   The duty of the prosperous people of society should not be to oppress the weak, but to protect them with empathy.",
+    "page_number": "5"
+  },
+  {
+    "id": 48,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "कहानी में वृद्धा और ज़मींदार किन-किन मानवीय प्रवृत्तियों का प्रतिनिधित्व करते हैं?   Which human tendencies do the old woman and the Zamindar represent in the story?",
+    "answer": "वृद्धा समाज में असहायता, संवेदनशीलता, ममता और नैतिक शक्ति का प्रतिनिधित्व करती है। वहीं ज़मींदार धन-मद, लालच, अहंकार और सत्ता का प्रतीक है।   The old woman represents helplessness, sensitivity, maternal love, and moral strength in society. On the other hand, the Zamindar is a symbol of pride of wealth, greed, ego, and power.",
+    "keywords": [
+      "प्रतिनिधित्व   Representation",
+      "नैतिक शक्ति   Moral strength",
+      "सत्ता   Power"
+    ],
+    "explanation": "लेखक ने इन दोनों पात्रों के माध्यम से समाज के दो विपरीत वर्गों और उनकी मानसिकता का बहुत ही सटीक चित्रण किया है।   Through these two characters, the author has accurately depicted two opposite classes of society and their mentality.",
+    "page_number": "9"
+  },
+  {
+    "id": 49,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "ज़मींदार और वृद्धा के बीच मुख्य संघर्ष क्या था? विस्तार से बताएँ।   What was the main conflict between the Zamindar and the old woman? Explain in detail.",
+    "answer": "ज़मींदार अपने महल का विस्तार करने के लिए वृद्धा की झोंपड़ी को हटाना चाहता था। परंतु वृद्धा उस झोंपड़ी से भावनात्मक रूप से जुड़ी थी क्योंकि वह उसके मृत परिवार की निशानी थी और उसकी एकमात्र पोती का सहारा थी। जब वह नहीं मानी, तो ज़मींदार ने वकीलों की मदद से अदालत के ज़रिए झोंपड़ी पर कब्ज़ा कर लिया। यह गरीब की विवशता और अमीर के अहंकार का संघर्ष था।   The Zamindar wanted to remove the old woman's hut to expand his palace. But the old woman was emotionally attached to that hut because it was the sign of her dead family and the support of her only granddaughter. When she did not agree, the Zamindar took possession of the hut through the court with the help of lawyers. It was a conflict between the helplessness of the poor and the ego of the rich.",
+    "keywords": [
+      "संघर्ष   Conflict",
+      "विस्तार   Expansion",
+      "विवशता   Helplessness",
+      "अहंकार   Ego"
+    ],
+    "explanation": "कहानी का मूल विषय ही अमीर द्वारा गरीब की ज़मीन हथियाने और उसके विरोध में उठे भावनात्मक प्रतिरोध पर आधारित है।   The core theme of the story is based on the rich grabbing the land of the poor and the emotional resistance raised against it.",
+    "page_number": "1"
+  },
+  {
+    "id": 50,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "जब ज़मींदार काम का निरीक्षण कर रहा था, तब वृद्धा ने आकर उससे क्या विनती की?   When the Zamindar was inspecting the work, what request did the old woman come and make to him?",
+    "answer": "जब ज़मींदार अहाते के पास टहल रहा था, तब वृद्धा एक टोकरी लेकर वहाँ आई। ज़मींदार के नौकरों ने उसे हटाना चाहा, लेकिन वह गिड़गिड़ाकर बोली कि अब तो झोंपड़ी उसकी हो गई है। उसने विनती की कि उसकी पोती ने खाना छोड़ दिया है, इसलिए वह उस झोंपड़ी से एक टोकरी भर मिट्टी ले जाना चाहती है ताकि उससे चूल्हा बनाकर पोती के लिए रोटी पका सके।   When the Zamindar was walking near the compound, the old woman came there with a basket. The Zamindar's servants tried to remove her, but she spoke pleadingly that now the hut was his. She requested that her granddaughter had stopped eating, so she wanted to take a basketful of soil from that hut so that she could make a stove from it and cook roti for the granddaughter.",
+    "keywords": [
+      "विनती   Request",
+      "गिड़गिड़ाकर   Pleadingly",
+      "चूल्हा   Stove"
+    ],
+    "explanation": "वृद्धा ने ज़मींदार की सत्ता को स्वीकारते हुए केवल अपनी पोती के प्राण बचाने के लिए थोड़ी सी मिट्टी की याचना की।   Accepting the Zamindar's authority, the old woman pleaded only for a little soil to save her granddaughter's life.",
+    "page_number": "1"
+  },
+  {
+    "id": 51,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "ज़मींदार ने टोकरी उठाने का प्रयास कैसे किया और उसका क्या परिणाम हुआ?   How did the Zamindar attempt to lift the basket and what was its result?",
+    "answer": "वृद्धा के बार-बार विनती करने पर ज़मींदार स्वयं टोकरी उठाने आगे बढ़ा। ज्यों ही उसने टोकरी को हाथ लगाकर ऊपर उठाना चाहा, उसे एहसास हुआ कि यह काम उसकी शक्ति के बाहर है। फिर उसने अपनी पूरी ताकत लगा दी, लेकिन टोकरी अपनी जगह से एक इंच भी ऊँची नहीं उठी। अंत में वह लज्जित होकर पीछे हट गया और बोला कि यह टोकरी उससे नहीं उठाई जाएगी।   On the old woman's repeated request, the Zamindar himself stepped forward to lift the basket. As soon as he touched the basket and tried to lift it up, he realized that this work was beyond his power. Then he applied his full strength, but the basket did not rise even an inch from its place. Finally, feeling ashamed, he stepped back and said that this basket would not be lifted by him.",
+    "keywords": [
+      "प्रयास   Attempt",
+      "शक्ति के बाहर   Beyond power",
+      "लज्जित   Ashamed"
+    ],
+    "explanation": "यह दृश्य दर्शाता है कि शारीरिक शक्ति और अहंकार के बल पर सब कुछ नहीं जीता जा सकता। अन्याय का प्रतीकात्मक बोझ बहुत भारी होता है।   This scene shows that everything cannot be won by physical strength and ego. The metaphorical burden of injustice is very heavy.",
+    "page_number": "2"
+  },
+  {
+    "id": 52,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 60
+    },
+    "question": "टोकरी न उठ पाने पर वृद्धा ने ज़मींदार से क्या कहा?   When the basket could not be lifted, what did the old woman say to the Zamindar?",
+    "answer": "जब ज़मींदार से टोकरी नहीं उठी, तो वृद्धा ने कहा, \"महाराज, नाराज़ न हों... आपसे तो एक टोकरी भर मिट्टी उठाई नहीं जाती और इस झोंपड़ी में तो हज़ारों टोकरियाँ मिट्टी पड़ी है। उसका भार आप जन्म-भर कैसे उठा सकेंगे? आप ही इस बात पर विचार कीजिए।\" इस बात ने ज़मींदार को उसके अन्याय का अहसास करा दिया।   When the Zamindar could not lift the basket, the old woman said, \"Maharaj, do not be angry... you cannot even lift one basketful of soil, and in this hut, there are thousands of baskets of soil lying. How will you bear its burden for your whole life? You yourself think about this matter.\" This statement made the Zamindar realize his injustice.",
+    "keywords": [
+      "नाराज़   Angry",
+      "भार   Burden",
+      "विचार   Think",
+      "अहसास   Realization"
+    ],
+    "explanation": "वृद्धा का यह प्रश्न एक साधारण प्रश्न नहीं था, बल्कि ज़मींदार की आत्मा पर गहरी चोट थी जिसने उसे पाप का बोध कराया।   This question of the old woman was not an ordinary question, but a deep blow to the Zamindar's soul which made him realize his sin.",
+    "page_number": "2"
+  },
+  {
+    "id": 53,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "वृद्धा की बातें सुनकर ज़मींदार पर क्या प्रभाव पड़ा?   What was the effect of the old woman's words on the Zamindar?",
+    "answer": "वृद्धा की मर्मस्पर्शी और प्रतीकात्मक बातों को सुनकर ज़मींदार का अहंकार और धन-मद टूट गया। उसकी आँखें खुल गईं और उसे अपने बुरे कर्मों (कृतकर्म) पर गहरा पश्चाताप हुआ। उसने अपने किए गए अन्याय के लिए वृद्धा से क्षमा माँगी और सम्मानपूर्वक उसकी झोंपड़ी उसे वापस लौटा दी। यह उसके हृदय परिवर्तन को दर्शाता है।   Listening to the touching and symbolic words of the old woman, the Zamindar's ego and pride of wealth broke. His eyes opened and he felt deep repentance for his bad deeds (Krutkarm). He apologized to the old woman for the injustice he had done and respectfully returned her hut to her. This shows his change of heart.",
+    "keywords": [
+      "मर्मस्पर्शी   Touching",
+      "पश्चाताप   Repentance",
+      "हृदय परिवर्तन   Change of heart"
+    ],
+    "explanation": "एक छोटी सी घटना और वृद्धा के बुद्धिमानी भरे शब्दों ने ज़मींदार के कठोर दिल को पिघला दिया और उसे सही रास्ते पर ला दिया।   A small incident and the old woman's wise words melted the Zamindar's hard heart and brought him to the right path.",
+    "page_number": "2"
+  },
+  {
+    "id": 54,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "माधवराव सप्रे के साहित्यिक योगदान और पृष्ठभूमि के बारे में आप क्या जानते हैं?   What do you know about Madhavrao Sapre's literary contribution and background?",
+    "answer": "माधवराव सप्रे हिंदी के प्रारंभिक कहानीकारों में से एक हैं। उनका जन्म दमोह, मध्य प्रदेश में हुआ था और मातृभाषा मराठी थी। वे लोकमान्य बाल गंगाधर तिलक से प्रेरित थे। उन्होंने तिलक के ग्रंथ 'गीता-रहस्य' का मराठी से हिंदी में अनुवाद किया था। स्वदेशी आंदोलन और बायकॉट उनकी प्रमुख कृतियाँ हैं। उनकी कहानियाँ सामाजिक यथार्थ को दर्शाती हैं।   Madhavrao Sapre is one of the early story writers of Hindi. He was born in Damoh, Madhya Pradesh and his mother tongue was Marathi. He was inspired by Lokmanya Bal Gangadhar Tilak. He translated Tilak's book 'Gita-Rahasya' from Marathi to Hindi. Swadeshi movement and Boycott are his major works. His stories depict social reality.",
+    "keywords": [
+      "प्रारंभिक कहानीकार   Early story writers",
+      "मराठी   Marathi",
+      "गीता-रहस्य   Gita-Rahasya",
+      "सामाजिक यथार्थ   Social reality"
+    ],
+    "explanation": "लेखक परिचय से ज्ञात होता है कि सप्रे जी का हिंदी साहित्य में महत्वपूर्ण स्थान है और वे राष्ट्रीय आंदोलनों से भी जुड़े थे।   It is known from the author intro that Sapre ji holds an important place in Hindi literature and was also connected with national movements.",
+    "page_number": "2"
+  },
+  {
+    "id": 55,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 60
+    },
+    "question": "पाठ के आधार पर इन वाक्यों को भविष्य काल में बदलें: १. वह गिड़गिड़ाकर बोली। २. उसकी आँखों से आँसू की धारा बहने लगी। ३. ज़मींदार साहब ने क्षमा माँगी।   Based on the lesson, change these sentences to future tense: 1. Wah gidgidakar boli. 2. Uski aankhon se aansu ki dhara behne lagi. 3. Zamindar sahab ne kshama mangi.",
+    "answer": "१. वह गिड़गिड़ाकर बोलेगी। २. उसकी आँखों से आँसू की धारा बहने लगेगी। ३. ज़मींदार साहब क्षमा माँगेंगे। यह सभी वाक्य अब आने वाले समय में होने वाली क्रिया को दर्शाते हैं।   1. She will speak pleadingly. 2. Tears will start flowing from her eyes. 3. Zamindar sahab will apologize. All these sentences now indicate the action taking place in the coming time.",
+    "keywords": [
+      "भविष्य काल   Future Tense",
+      "बोलेगी   Will speak",
+      "बहने लगेगी   Will start flowing",
+      "माँगेंगे   Will ask"
+    ],
+    "explanation": "भूतकाल की क्रियाओं (बोली, लगी, माँगी) को भविष्य काल के सहायक शब्दों (बोलेगी, लगेगी, माँगेंगे) में बदलकर वाक्यों को बदला गया है।   The sentences have been changed by replacing past tense verbs (boli, lagi, mangi) with future tense auxiliary words (bolegi, lagegi, mangenge).",
+    "page_number": "8"
+  },
+  {
+    "id": 56,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 70
+    },
+    "question": "यदि वृद्धा की पोती अपनी भावनाओं को डायरी में लिखती, तो वह ज़मींदार द्वारा झोंपड़ी छीने जाने के दिन क्या लिखती?   If the old woman's granddaughter wrote her feelings in a diary, what would she write on the day the Zamindar snatched the hut?",
+    "answer": "डायरी में वह लिखती: \"आज मुझे बहुत बुरा लग रहा है। ज़मींदार के गंदे आदमियों ने हमारी झोंपड़ी छीन ली। दादी बहुत रो रही थीं। वह घर मेरा भी है, वहीं मेरे माता-पिता की यादें हैं। जब तक हम अपने घर वापस नहीं जाएँगे, मैं कुछ भी नहीं खाऊँगी। मुझे किसी और घर की रोटी अच्छी नहीं लगती।\"   In the diary she would write: \"Today I am feeling very bad. Zamindar's bad men snatched our hut. Grandma was crying a lot. That house is mine too, my parents' memories are there. Until we go back to our house, I will not eat anything. I don't like the roti of any other house.\"",
+    "keywords": [
+      "डायरी   Diary",
+      "भावनाएँ   Feelings",
+      "यादें   Memories",
+      "ज़िद   Stubbornness"
+    ],
+    "explanation": "बच्ची की डायरी उसकी मासूमियत, अपने घर से गहरे लगाव और उसके दर्द को प्रकट करेगी। यह उसकी भोजन छोड़ने की ज़िद का कारण भी स्पष्ट करती है।   The child's diary would reveal her innocence, deep attachment to her home, and her pain. It also clarifies the reason for her stubbornness to give up food.",
+    "page_number": "12"
+  },
+  {
+    "id": 57,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "पाठ में वृद्धा को 'अनाथ' क्यों कहा गया है? उसकी पारिवारिक स्थिति का वर्णन करें।   Why is the old woman called 'orphaned/destitute' in the lesson? Describe her family situation.",
+    "answer": "वृद्धा को अनाथ इसलिए कहा गया है क्योंकि उसके जीवन में कोई बड़ा सहारा नहीं बचा था। उसका प्रिय पति और इकलौता पुत्र उसी झोंपड़ी में मर गए थे। उसकी पतोहू (बहू) भी अपनी पाँच वर्ष की कन्या को छोड़कर चल बसी थी। वह बुढ़ापे में बिलकुल अकेली थी और वही छोटी पोती उसके जीवन का एकमात्र आधार थी।   The old woman is called destitute because no major support was left in her life. Her dear husband and only son had died in that hut. Her daughter-in-law had also passed away leaving her five-year-old girl. She was completely alone in her old age and that little granddaughter was the only foundation of her life.",
+    "keywords": [
+      "अनाथ   Destitute/Orphaned",
+      "सहारा   Support",
+      "एकमात्र आधार   Only foundation"
+    ],
+    "explanation": "जिनके परिवार के कमाने वाले और मुख्य सदस्य गुज़र जाते हैं, उन्हें समाज में बेसहारा या अनाथ माना जाता है, जो वृद्धा की स्थिति थी।   Those whose earning and main family members pass away are considered helpless or orphaned in society, which was the condition of the old woman.",
+    "page_number": "1"
+  },
+  {
+    "id": 58,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "कहानी की 'प्रश्नोत्तरी शैली' (Questioning Style) से क्या आशय है? पाठ से एक उदाहरण दीजिए।   What is meant by the 'Questioning Style' of the story? Give an example from the lesson.",
+    "answer": "प्रश्नोत्तरी शैली का अर्थ है कहानी में ऐसे प्रश्नों का प्रयोग करना जो पात्र और पाठक दोनों को सोचने और विचार करने पर विवश कर दें। पाठ में इसका प्रमुख उदाहरण है जब वृद्धा कहती है: \"उसका भार आप जन्म-भर कैसे उठा सकेंगे?\" यह प्रश्न ज़मींदार को झकझोर देता है और कहानी के मुख्य संदेश को स्पष्ट करता है।   The questioning style means using such questions in the story that force both the character and the reader to think and reflect. The main example of this in the lesson is when the old woman says: \"How will you carry its burden for your whole life?\" This question shakes the Zamindar and clarifies the main message of the story.",
+    "keywords": [
+      "प्रश्नोत्तरी शैली   Questioning style",
+      "विवश   Forced",
+      "झकझोर   Shake up"
+    ],
+    "explanation": "लेखक ने सीधे उपदेश देने के बजाय वृद्धा के मुख से एक प्रश्न कहलवाया है, जो कहानी के प्रभाव को कई गुना बढ़ा देता है।   Instead of giving direct preaching, the author had a question asked through the old woman, which multiplies the impact of the story.",
+    "page_number": "9"
+  },
+  {
+    "id": 59,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "कहानी में 'वर्णनात्मकता' (Descriptive style) कैसे दिखाई देती है?   How is 'Descriptiveness' seen in the story?",
+    "answer": "कहानी में लेखक ने स्थानों, भावनाओं और स्थितियों का ऐसा सजीव वर्णन किया है कि पाठक के सामने एक स्पष्ट चित्र उभर आता है। उदाहरण के लिए, वृद्धा का फूट-फूट कर रोना, ज़मींदार का वकीलों की थैली गरम करना, या वृद्धा का थकी आँखों और काँपते हाथों से टोकरी ले जाना। यह सब दृश्य पाठक को कहानी से जोड़ते हैं।   In the story, the author has made such a lively description of places, emotions, and situations that a clear picture emerges before the reader. For example, the old woman crying bitterly, the Zamindar warming the pockets of lawyers, or the old woman carrying the basket with tired eyes and trembling hands. All these scenes connect the reader to the story.",
+    "keywords": [
+      "वर्णनात्मकता   Descriptiveness",
+      "सजीव वर्णन   Lively description",
+      "दृश्य   Scene"
+    ],
+    "explanation": "वर्णनात्मक शैली कहानी को मात्र शब्दों तक सीमित नहीं रखती, बल्कि उसे पाठक के मस्तिष्क में एक चलचित्र (फिल्म) की तरह प्रस्तुत करती है।   The descriptive style does not limit the story to mere words, but presents it in the reader's mind like a motion picture (film).",
+    "page_number": "9"
+  },
+  {
+    "id": 60,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 70
+    },
+    "question": "'झोंपड़ी में तो हज़ारों टोकरियाँ मिट्टी पड़ी है...' यहाँ केवल मिट्टी की बात की जा रही है या कुछ और बात भी छिपी है?   'There are thousands of baskets of soil lying in the hut...' Is only soil being talked about here or is something else also hidden?",
+    "answer": "यहाँ 'मिट्टी' केवल ज़मीन या धूल का प्रतीक नहीं है, बल्कि यह उस परिवार की यादों, भावनाओं, उनके खून-पसीने और वृद्धा के जीवन भर के संघर्ष का प्रतीक है। यह उस पाप और अन्याय का भी प्रतीक है जो ज़मींदार ने एक असहाय विधवा का घर छीनकर अपने सिर पर लिया था। इसी भार ने ज़मींदार को झुका दिया।   Here 'soil' is not merely a symbol of land or dust, but it is a symbol of the family's memories, emotions, their blood and sweat, and the lifelong struggle of the old woman. It is also a symbol of the sin and injustice that the Zamindar took upon his head by snatching a helpless widow's house. It was this burden that bowed the Zamindar down.",
+    "keywords": [
+      "प्रतीक   Symbol",
+      "यादों   Memories",
+      "संघर्ष   Struggle",
+      "पाप   Sin"
+    ],
+    "explanation": "साहित्य में अक्सर साधारण वस्तुएँ गहरे अर्थ छुपाए रहती हैं। यहाँ मिट्टी वृद्धा की भावना और ज़मींदार के पाप का रूपक बन गई है।   In literature, ordinary objects often hide deep meanings. Here soil has become a metaphor for the old woman's emotion and the Zamindar's sin.",
+    "page_number": "5"
+  },
+  {
+    "id": 61,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 65
+    },
+    "question": "'बाल की खाल निकालने वाले वकीलों की थैली गरम कर...' यह वाक्य समाज की किस कुरीति को उजागर करता है?   'By warming the pockets of lawyers who split hairs...' which social evil does this sentence expose?",
+    "answer": "यह वाक्य न्याय प्रणाली में व्याप्त भ्रष्टाचार और अमीरों द्वारा धन के बल पर गरीबों का शोषण करने की कुरीति को उजागर करता है। ज़मींदार ने झूठे कानूनी दाँवपेंचों और वकीलों को रिश्वत देकर एक गरीब महिला का घर छीन लिया। यह दिखाता है कि कैसे सत्ता और पैसा मिलकर कमज़ोरों का हक़ मारते हैं।   This sentence exposes the corruption prevalent in the justice system and the social evil of the rich exploiting the poor on the strength of wealth. The Zamindar snatched a poor woman's house by giving bribes to lawyers and using false legal tricks. This shows how power and money together usurp the rights of the weak.",
+    "keywords": [
+      "भ्रष्टाचार   Corruption",
+      "शोषण   Exploitation",
+      "रिश्वत   Bribe"
+    ],
+    "explanation": "यह समाज की उस कड़वी सच्चाई को दर्शाता है जहाँ कानून अक्सर उन्हीं का साथ देता है जिनकी जेबें भारी होती हैं, और गरीब न्याय से वंचित रह जाते हैं।   This depicts the bitter truth of society where the law often favors those whose pockets are heavy, and the poor remain deprived of justice.",
+    "page_number": "1"
+  },
+  {
+    "id": 62,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "यदि ज़मींदार टोकरी उठाने से मना कर देता, तो कहानी का अंत कैसा होता?   If the Zamindar had refused to lift the basket, what would the end of the story have been like?",
+    "answer": "यदि ज़मींदार अहंकार में आकर टोकरी उठाने से मना कर देता, तो उसका घमंड कभी नहीं टूटता। वृद्धा निराश होकर खाली हाथ लौट जाती और शायद उसकी पोती भूख से तड़प-तड़प कर जान दे देती। यह कहानी एक अत्यंत दुखद और निराशाजनक अंत पर समाप्त होती, और पाठक के मन में ज़मींदार के प्रति गहरा क्रोध रह जाता।   If the Zamindar had arrogantly refused to lift the basket, his ego would never have broken. The old woman would have returned empty-handed in disappointment and perhaps her granddaughter would have died agonizingly of hunger. The story would have ended on a highly tragic and disappointing note, leaving deep anger towards the Zamindar in the reader's mind.",
+    "keywords": [
+      "अहंकार   Ego",
+      "निराश   Disappointed",
+      "दुखद अंत   Tragic end"
+    ],
+    "explanation": "कहानी का पूरा बदलाव ज़मींदार के टोकरी उठाने के प्रयास पर निर्भर था। इसके बिना कोई नैतिक सीख या हृदय परिवर्तन संभव नहीं था।   The entire turn of the story depended on the Zamindar's attempt to lift the basket. Without it, no moral lesson or change of heart was possible.",
+    "page_number": "6"
+  },
+  {
+    "id": 63,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "यदि ज़मींदार टोकरी आसानी से उठा लेता, तो वृद्धा क्या कहती?   If the Zamindar had easily lifted the basket, what would the old woman have said?",
+    "answer": "यदि ज़मींदार टोकरी उठा लेता, तो वृद्धा शायद अपने दूसरे तरीके से उसे समझाती। वह कहती कि महाराज, आपने मेरे चूल्हे की मिट्टी तो उठा ली, लेकिन इस झोंपड़ी से जुड़ी मेरी भावनाओं, मेरे मरे हुए परिवार की यादों और एक असहाय के आँसुओं का भार आप कैसे उठाएँगे? अन्याय का बोझ बहुत भारी होता है।   If the Zamindar had lifted the basket, the old woman would perhaps have explained to him in another way. She would have said that Maharaj, you have lifted the soil for my stove, but how will you carry the burden of my emotions attached to this hut, the memories of my dead family, and the tears of a helpless person? The burden of injustice is very heavy.",
+    "keywords": [
+      "भावनाओं   Emotions",
+      "अन्याय का बोझ   Burden of injustice",
+      "असहाय   Helpless"
+    ],
+    "explanation": "वृद्धा का मुख्य उद्देश्य ज़मींदार को उसके अन्याय का अहसास कराना था, इसलिए वह किसी भी स्थिति में शारीरिक भार को मानसिक और नैतिक भार से जोड़ देती।   The old woman's main objective was to make the Zamindar realize his injustice, so in any situation, she would have linked the physical burden to the mental and moral burden.",
+    "page_number": "6"
+  },
+  {
+    "id": 64,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "मिट्टी से चूल्हा बनाने की बात वृद्धा के किस विचार को दर्शाती है?   What thought of the old woman is reflected in the idea of making a stove out of the soil?",
+    "answer": "मिट्टी से चूल्हा बनाना वृद्धा के अपनी जड़ों से गहरे जुड़ाव और भावनात्मक लगाव को दर्शाता है। उसकी पोती नए घर में खाना नहीं खा रही थी, इसलिए पुरानी झोंपड़ी की मिट्टी से बना चूल्हा उसे मानसिक शांति और अपनेपन का अहसास दिलाता। यह दिखाता है कि गरीबों के लिए उनका घर सिर्फ ईंट-पत्थर नहीं, जीवन की आत्मा होता है।   Making a stove out of soil reflects the old woman's deep connection and emotional attachment to her roots. Her granddaughter was not eating food in the new house, so a stove made from the soil of the old hut would give her a sense of mental peace and belonging. This shows that for the poor, their house is not just bricks and stones, but the soul of life.",
+    "keywords": [
+      "जड़ों से जुड़ाव   Connection to roots",
+      "भावनात्मक लगाव   Emotional attachment",
+      "अपनेपन   Belonging"
+    ],
+    "explanation": "चूल्हा परिवार के पोषण का केंद्र होता है। पुरानी झोंपड़ी की मिट्टी से चूल्हा बनाना अपनी टूटी हुई दुनिया को वापस जोड़ने का एक मनोवैज्ञानिक प्रयास था।   The stove is the center of family nourishment. Making a stove from the soil of the old hut was a psychological attempt to put their broken world back together.",
+    "page_number": "1"
+  },
+  {
+    "id": 65,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "पाठ में 'हितोपदेश' का उल्लेख किया गया है। यह किस प्रकार की पुस्तक है और ऐसी पुस्तकें पढ़ने का क्या महत्व है?   'Hitopadesh' has been mentioned in the lesson. What kind of book is this and what is the importance of reading such books?",
+    "answer": "'हितोपदेश' संस्कृत की प्राचीन कथाओं का एक अद्भुत संग्रह है जिसमें नीतिगत और शिक्षाप्रद कहानियाँ हैं। यह पशु-पक्षियों और मानव पात्रों के माध्यम से जीवन के महत्वपूर्ण नैतिक मूल्य सिखाती है। ऐसी पुस्तकें पढ़ने से हमारे अंदर न्याय, करुणा, बुद्धिमानी और सही-गलत की पहचान करने का ज्ञान विकसित होता है, जिससे हमारा चरित्र निर्माण होता है।   'Hitopadesh' is a wonderful collection of ancient Sanskrit tales which contains moral and instructive stories. It teaches important moral values of life through animal-bird and human characters. Reading such books develops the knowledge of justice, compassion, wisdom, and distinguishing right from wrong within us, which builds our character.",
+    "keywords": [
+      "हितोपदेश   Hitopadesh",
+      "शिक्षाप्रद   Instructive",
+      "नैतिक मूल्य   Moral values",
+      "चरित्र निर्माण   Character building"
+    ],
+    "explanation": "अभ्यास कार्य में बच्चों को हितोपदेश जैसी किताबें पढ़ने की सलाह दी गई है ताकि वे किताबी ज्ञान के साथ-साथ जीवन के नैतिक पाठ भी सीख सकें।   In the exercise, children are advised to read books like Hitopadesh so that they can learn moral lessons of life along with bookish knowledge.",
+    "page_number": "15"
+  },
+  {
+    "id": 66,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "\"सच्ची शक्ति दया और न्याय में है।\" इस कथन को कहानी 'एक टोकरी भर मिट्टी' के संदर्भ में स्पष्ट कीजिए।   \"True power lies in compassion and justice.\" Clarify this statement in the context of the story 'Ek Tokri Bhar Mitti'.",
+    "answer": "कहानी में ज़मींदार के पास धन, संपत्ति और वकीलों की शक्ति थी, जिससे उसने झोंपड़ी छीन ली। परंतु वह शक्ति उसे सच्ची शांति नहीं दे सकी और एक मामूली टोकरी के सामने उसकी शारीरिक शक्ति भी हार गई। अंततः, जब उसने दया और न्याय का मार्ग अपनाया और वृद्धा की झोंपड़ी लौटाई, तब उसे आत्मिक शांति मिली। अतः सच्ची शक्ति न्याय में ही है।   In the story, the Zamindar had the power of wealth, property, and lawyers, with which he snatched the hut. But that power could not give him true peace, and even his physical strength lost to a mere basket. Finally, when he adopted the path of compassion and justice and returned the old woman's hut, he got spiritual peace. Thus, true power lies only in justice.",
+    "keywords": [
+      "सच्ची शक्ति   True power",
+      "दया   Compassion",
+      "न्याय   Justice",
+      "आत्मिक शांति   Spiritual peace"
+    ],
+    "explanation": "यह कथन दर्शाता है कि भौतिक बल कुछ समय के लिए हावी हो सकता है, लेकिन स्थायी विजय और संतोष केवल नैतिक मूल्यों और न्यायपूर्ण व्यवहार से ही मिलता है।   This statement shows that physical force can dominate for some time, but lasting victory and satisfaction are achieved only through moral values and just behavior.",
+    "page_number": "13"
+  },
+  {
+    "id": 67,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "ज़मींदार का व्यवहार पहले कैसा था और घटना के बाद उसमें क्या परिवर्तन आया?   How was the Zamindar's behavior earlier and what change came in it after the incident?",
+    "answer": "घटना से पहले ज़मींदार अत्यंत क्रूर, अहंकारी और धन के मद में चूर था। उसे किसी की भावनाओं या किसी असहाय की गरीबी की परवाह नहीं थी। परंतु जब वह मिट्टी की टोकरी नहीं उठा पाया और वृद्धा ने उसे नैतिक बोझ का अहसास कराया, तो उसका हृदय परिवर्तित हो गया। वह विनम्र, दयालु और पश्चातापी बन गया तथा उसने अपनी गलती सुधार ली।   Before the incident, the Zamindar was extremely cruel, arrogant, and intoxicated with wealth. He did not care about anyone's feelings or the poverty of a helpless person. But when he could not lift the basket of soil and the old woman made him realize the moral burden, his heart changed. He became humble, compassionate, and remorseful, and he corrected his mistake.",
+    "keywords": [
+      "क्रूर   Cruel",
+      "धन के मद   Intoxicated with wealth",
+      "विनम्र   Humble",
+      "पश्चातापी   Remorseful"
+    ],
+    "explanation": "पात्र के व्यवहार में यह 180 डिग्री का बदलाव कहानी का मुख्य संदेश है, जो सिखाता है कि बुरे से बुरे इंसान का हृदय भी सत्य के सामने बदल सकता है।   This 180-degree change in the character's behavior is the main message of the story, which teaches that even the worst person's heart can change in front of the truth.",
+    "page_number": "2"
+  },
+  {
+    "id": 68,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "कहानी में पोती का प्रत्यक्ष रूप से बहुत कम वर्णन है, फिर भी वह एक महत्वपूर्ण पात्र है। कैसे?   The granddaughter is described very little directly in the story, yet she is an important character. How?",
+    "answer": "पोती ही वह मुख्य कड़ी है जिसके कारण वृद्धा जीवित थी और विपरीत परिस्थितियों में भी संघर्ष कर रही थी। पोती की ज़िद (कि वह अपने ही घर में खाना खाएगी) ने ही वृद्धा को ज़मींदार के पास एक टोकरी मिट्टी माँगने का कारण दिया। उसी की भूख और ज़िद के कारण कहानी में बदलाव का वो मोड़ आया जिसने ज़मींदार के कठोर हृदय को पिघला दिया।   The granddaughter is the main link due to which the old woman was alive and struggling even in adverse circumstances. It was the granddaughter's stubbornness (that she would eat only in her own house) that gave the old woman a reason to ask the Zamindar for a basket of soil. It was due to her hunger and stubbornness that the turning point came in the story which melted the Zamindar's hard heart.",
+    "keywords": [
+      "महत्वपूर्ण पात्र   Important character",
+      "मुख्य कड़ी   Main link",
+      "संघर्ष   Struggle"
+    ],
+    "explanation": "भले ही बच्ची कहानी में बोलती नहीं है, लेकिन उसी के लिए वृद्धा सब कुछ करती है। कहानी का मुख्य घटनाक्रम (मिट्टी माँगना) उसी पर आधारित है।   Even though the child doesn't speak in the story, the old woman does everything for her. The main course of events (asking for soil) is based on her.",
+    "page_number": "1"
+  },
+  {
+    "id": 69,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "यह कहानी आज से लगभग सवा सौ साल पहले लिखी गई थी। उस समय भारत में स्त्रियों और गरीबों को किन चुनौतियों का सामना करना पड़ता होगा?   This story was written about a century and a quarter ago. What challenges must women and the poor have faced in India at that time?",
+    "answer": "सवा सौ साल पहले भारत में सामंती व्यवस्था थी। स्त्रियों और गरीबों के पास कोई विशेष अधिकार नहीं थे। ज़मींदार और अमीर लोग गरीबों की ज़मीन आसानी से छीन लेते थे। अदालतों में भी पैसे वालों का बोलबाला था। विधवाओं की स्थिति सबसे दयनीय थी, वे समाज में असहाय और 'अनाथ' मानी जाती थीं। उनके लिए शक्तिशाली वर्ग के खिलाफ न्याय पाना लगभग असंभव था।   About a century and a quarter ago, there was a feudal system in India. Women and the poor did not have any special rights. Zamindars and rich people easily snatched the land of the poor. Courts were also dominated by the wealthy. The condition of widows was the most pitiful, they were considered helpless and 'destitute' in society. Getting justice against the powerful class was almost impossible for them.",
+    "keywords": [
+      "सामंती व्यवस्था   Feudal system",
+      "चुनौतियाँ   Challenges",
+      "असहाय   Helpless",
+      "न्याय   Justice"
+    ],
+    "explanation": "यह कहानी तात्कालिक समाज की एक सच्ची तस्वीर प्रस्तुत करती है जहाँ कमज़ोर वर्ग (विशेषकर विधवा महिलाएँ) पूरी तरह से शक्तिशाली ज़मींदारों की दया पर निर्भर थे।   This story presents a true picture of the contemporary society where the weaker section (especially widow women) were completely dependent on the mercy of powerful landlords.",
+    "page_number": "6"
+  },
+  {
+    "id": 70,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 70
+    },
+    "question": "यदि यह घटना आज के समय में होती, तो वृद्धा किन सरकारी सुविधाओं का लाभ उठाकर ज़मींदार के खिलाफ न्याय माँग सकती थी?   If this incident happened in today's time, taking advantage of which government facilities could the old woman seek justice against the Zamindar?",
+    "answer": "आज के समय में वृद्धा pgportal.gov.in जैसे सार्वजनिक शिकायत पोर्टल या राज्य सरकारों के 'जनसुनवाई' ऐप का उपयोग कर सकती थी। इसके अलावा वह ई-श्रम पोर्टल (eshram.gov.in) के माध्यम से सामाजिक सुरक्षा योजनाओं का लाभ उठा सकती थी। आज के कानून गरीबों और विधवा महिलाओं को निःशुल्क कानूनी सहायता (Legal Aid) और अधिकारों की सुरक्षा भी प्रदान करते हैं।   In today's time, the old woman could use public grievance portals like pgportal.gov.in or the state governments' 'Jansunwai' app. Besides this, she could take advantage of social security schemes through the e-Shram portal (eshram.gov.in). Today's laws also provide free legal aid and protection of rights to the poor and widow women.",
+    "keywords": [
+      "सार्वजनिक शिकायत   Public grievance",
+      "जनसुनवाई   Jansunwai",
+      "सामाजिक सुरक्षा   Social security"
+    ],
+    "explanation": "पाठ में 'न्याय और करुणा से जुड़ी सहायता' के तहत आधुनिक सरकारी वेबसाइटों का उल्लेख किया गया है, जो साबित करता है कि आज व्यवस्था पहले से बेहतर है।   Modern government websites have been mentioned in the lesson under 'help related to justice and compassion', which proves that the system is better today than before.",
+    "page_number": "14"
+  },
+  {
+    "id": 71,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 70
+    },
+    "question": "कहानी में 'नाटकीयता' (Dramatic elements) किस प्रकार कहानी को प्रभावशाली बनाती है?   How does 'Dramatics' make the story effective?",
+    "answer": "नाटकीयता कहानी में रोमांच और गहराई लाती है। जब ज़मींदार टोकरी उठाने के लिए आगे बढ़ता है और पूरी ताकत लगाने पर भी टोकरी एक इंच नहीं उठती, तो यह एक अत्यधिक नाटकीय दृश्य है। यह सीधा टकराव ज़मींदार की हार और वृद्धा की जीत का क्लाइमेक्स बनाता है, जिससे कहानी का नैतिक संदेश सीधे पाठक के दिल तक पहुँचता है और गहरा असर छोड़ता है।   Dramatics bring thrill and depth to the story. When the Zamindar steps forward to lift the basket and despite applying full strength the basket doesn't rise an inch, it is a highly dramatic scene. This direct confrontation creates the climax of the Zamindar's defeat and the old woman's victory, due to which the moral message of the story reaches directly to the reader's heart and leaves a deep impact.",
+    "keywords": [
+      "नाटकीयता   Dramatics",
+      "रोमांच   Thrill",
+      "क्लाइमेक्स   Climax",
+      "टकराव   Confrontation"
+    ],
+    "explanation": "किसी कहानी में नाटकीय तत्व पाठक का ध्यान खींचने और स्थिति को सजीव बनाने का काम करते हैं, जैसे ज़मींदार का टोकरी के सामने असहाय हो जाना।   Dramatic elements in a story work to grab the reader's attention and make the situation come alive, like the Zamindar becoming helpless in front of the basket.",
+    "page_number": "9"
+  },
+  {
+    "id": 72,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 70
+    },
+    "question": "\"महाराज क्षमा करें तो एक विनती है। जब से यह झोंपड़ी छूटी है...\" इस संवाद के माध्यम से वृद्धा के चरित्र की किन विशेषताओं का पता चलता है?   \"Maharaj forgive me, I have a request. Ever since this hut was left...\" Through this dialogue, what characteristics of the old woman's character are revealed?",
+    "answer": "इस संवाद से वृद्धा की विनम्रता, समझदारी और उसकी विवशता का पता चलता है। वह जानती थी कि वह एक शक्तिशाली ज़मींदार के सामने है, इसलिए उसने क्रोध या झगड़े का सहारा नहीं लिया। उसने अत्यंत नम्रता और शिष्टाचार से अपनी बात रखी। यह उसकी सहनशीलता और अपनी पोती के प्रति उसके गहरे प्रेम (ममता) को भी दर्शाता है।   This dialogue reveals the old woman's humility, wisdom, and her helplessness. She knew she was in front of a powerful Zamindar, so she did not resort to anger or fighting. She presented her matter with utmost politeness and courtesy. This also shows her tolerance and her deep love (maternal affection) for her granddaughter.",
+    "keywords": [
+      "विनम्रता   Humility",
+      "विवशता   Helplessness",
+      "ममता   Maternal affection"
+    ],
+    "explanation": "वृद्धा के संवाद कहानी में उसकी शक्तिहीनता के बावजूद उसके शिष्ट व्यवहार और एक दादी के रूप में उसकी ज़िम्मेदारी को उजागर करते हैं।   The old woman's dialogues highlight her courteous behavior and her responsibility as a grandmother despite her powerlessness in the story.",
+    "page_number": "1"
+  },
+  {
+    "id": 73,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "पाठ के अभ्यास के अनुसार \"कृतकर्म का पश्चाताप कर उन्होंने वृद्धा से क्षमा माँगी\" का सही निष्कर्ष क्या है और क्यों?   According to the lesson's exercise, what is the correct conclusion of \"Repenting for his deeds, he apologized to the old woman\" and why?",
+    "answer": "इसका सही निष्कर्ष है - \"अपने द्वारा किए अन्याय पर पछताकर ज़मींदार ने क्षमा माँगी।\" यह निष्कर्ष इसलिए सही है क्योंकि ज़मींदार को अहसास हो गया था कि उसने एक बेसहारा वृद्धा का घर छीनकर बहुत बड़ा पाप किया है। टोकरी के प्रतीकात्मक भार ने उसे उसके नैतिक पतन का आईना दिखा दिया था, जिससे उसका हृदय परिवर्तित हो गया और उसने अपनी भूल सुधारी।   Its correct conclusion is - \"Repenting for the injustice done by him, the Zamindar apologized.\" This conclusion is correct because the Zamindar realized that he had committed a great sin by snatching the house of a helpless old woman. The metaphorical burden of the basket showed him the mirror of his moral downfall, due to which his heart changed and he rectified his mistake.",
+    "keywords": [
+      "निष्कर्ष   Conclusion",
+      "अन्याय   Injustice",
+      "नैतिक पतन   Moral downfall"
+    ],
+    "explanation": "अभ्यास में दिए गए विकल्पों में से सबसे सटीक यही है क्योंकि यह सीधे तौर पर ज़मींदार के कर्मों (अन्याय) और उसके सुधार को जोड़ता है।   Out of the options given in the exercise, this is the most accurate because it directly links the Zamindar's deeds (injustice) and his reformation.",
+    "page_number": "4"
+  },
+  {
+    "id": 74,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 70
+    },
+    "question": "'ज़मींदार साहब धन-मद से गर्वित हो अपना कर्तव्य भूल गए थे।' एक शासक या धनवान व्यक्ति के मुख्य कर्तव्य क्या होने चाहिए?   'The Zamindar, proud of his wealth, had forgotten his duty.' What should be the main duties of a ruler or a wealthy person?",
+    "answer": "एक शासक या धनवान व्यक्ति का मुख्य कर्तव्य अपने अधीन लोगों की रक्षा करना, उनके दुखों को समझना और न्यायपूर्ण व्यवहार करना है। उसे अपनी संपत्ति और शक्ति का उपयोग समाज के कल्याण और गरीबों की सहायता के लिए करना चाहिए। शक्ति का उपयोग दुर्बलों को सताने और उनका हक़ छीनने के लिए नहीं, बल्कि उनकी भलाई और संरक्षण के लिए किया जाना चाहिए।   The main duty of a ruler or a wealthy person is to protect the people under him, understand their sorrows, and behave justly. He should use his wealth and power for the welfare of society and helping the poor. Power should not be used to oppress the weak and snatch their rights, but for their betterment and protection.",
+    "keywords": [
+      "कर्तव्य   Duty",
+      "न्यायपूर्ण   Just/Fair",
+      "कल्याण   Welfare",
+      "संरक्षण   Protection"
+    ],
+    "explanation": "यह प्रश्न छात्रों को नैतिकता और सामाजिक ज़िम्मेदारी के बारे में सोचने पर मजबूर करता है, जो इस कहानी का एक प्रमुख उद्देश्य है।   This question compels students to think about morality and social responsibility, which is a major objective of this story.",
+    "page_number": "4"
+  },
+  {
+    "id": 75,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "ज़मींदार का नौकरों से न कहकर स्वयं टोकरी उठाने आगे बढ़ना क्या संकेत देता है?   What does the Zamindar stepping forward to lift the basket himself, rather than asking the servants, indicate?",
+    "answer": "ज़मींदार का स्वयं आगे बढ़ना यह संकेत देता है कि उसके भीतर की मानवीयता अभी पूरी तरह से मरी नहीं थी। वृद्धा के बार-बार पैरों पर गिरने और गिड़गिड़ाने से उसके कठोर मन में दया का एक छोटा-सा बीज अंकुरित हुआ। यह उसके अहंकार के टूटने और हृदय परिवर्तन की दिशा में पहला कदम था, जो अंततः उसके संपूर्ण चरित्र को बदल देता है।   The Zamindar stepping forward himself indicates that the humanity inside him was not completely dead yet. Due to the old woman falling at his feet and pleading repeatedly, a small seed of compassion sprouted in his hard heart. This was the first step towards the breaking of his ego and change of heart, which eventually changes his entire character.",
+    "keywords": [
+      "मानवीयता   Humanity",
+      "बीज अंकुरित   Seed sprouted",
+      "चरित्र   Character"
+    ],
+    "explanation": "अगर ज़मींदार नौकरों से काम करवाता तो उसे टोकरी के भार का अनुभव कभी नहीं होता। स्वयं काम करने से ही उसे अपनी कमजोरी का अहसास हुआ।   If the Zamindar had the servants do the work, he would never have experienced the burden of the basket. Doing the work himself made him realize his weakness.",
+    "page_number": "2"
+  },
+  {
+    "id": 76,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "\"एक टोकरी भर मिट्टी जैसी कहानियाँ केवल घटनाएँ नहीं सुनातीं, बल्कि मिट्टी से उठते हुए उन प्रश्नों को उठाती हैं जो हमारे सामाजिक ताने-बाने में गाँठ बनकर अटके हैं।\" इस कथन की व्याख्या कीजिए।   \"Stories like Ek Tokri Bhar Mitti do not just narrate events, but raise those questions rising from the soil that are stuck as knots in our social fabric.\" Explain this statement.",
+    "answer": "इस कथन का अर्थ है कि यह कहानी सिर्फ एक ज़मींदार और वृद्धा का किस्सा नहीं है। यह ज़मीनी हकीकत और समाज की गहरी असमानताओं, भ्रष्टाचार और अन्याय (सामाजिक गाँठों) पर सवाल उठाती है। यह सिखाती है कि भौतिक विकास (महल) की कीमत पर मानवीय संवेदनाओं (झोंपड़ी) का विनाश समाज के लिए हानिकारक है। यह न्याय प्रणाली और अमीरों की मनमानी पर सीधा प्रहार करती है।   The meaning of this statement is that this story is not just an anecdote of a Zamindar and an old woman. It raises questions on ground reality and deep social inequalities, corruption, and injustice (social knots). It teaches that the destruction of human sensitivities (hut) at the cost of material development (palace) is harmful to society. It is a direct attack on the justice system and the arbitrariness of the rich.",
+    "keywords": [
+      "असमानताओं   Inequalities",
+      "सामाजिक गाँठों   Social knots",
+      "मानवीय संवेदनाओं   Human sensitivities"
+    ],
+    "explanation": "यह प्रश्न कहानी के मुख्य संदेश और उसके सामाजिक संदर्भ को गहराई से समझने पर केंद्रित है, जैसा कि लेखक के परिचय में बताया गया है।   This question focuses on deeply understanding the main message of the story and its social context, as explained in the author's introduction.",
+    "page_number": "2"
+  },
+  {
+    "id": 77,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 70
+    },
+    "question": "क्या आपको लगता है कि कहानी का अंत यथार्थवादी (realistic) है या आदर्शवादी (idealistic)? कारण सहित उत्तर दें।   Do you think the end of the story is realistic or idealistic? Answer with reasons.",
+    "answer": "कहानी का अंत पूरी तरह से आदर्शवादी (idealistic) है। यथार्थ में (असल ज़िंदगी में) क्रूर और लालची ज़मींदार आसानी से अपना हृदय परिवर्तन नहीं करते और छीनी गई ज़मीन वापस नहीं लौटाते। लेखक ने समाज को एक सकारात्मक और नैतिक संदेश देने के लिए जानबूझकर इसका अंत ऐसा रखा है, ताकि लोगों में न्याय, नैतिकता और करुणा की जीत का विश्वास हमेशा बना रहे।   The end of the story is completely idealistic. In reality (in real life), cruel and greedy landlords do not easily change their hearts and return the snatched land. The author intentionally kept its ending like this to give a positive and moral message to the society, so that people's faith in the victory of justice, morality, and compassion always remains.",
+    "keywords": [
+      "आदर्शवादी   Idealistic",
+      "यथार्थ   Reality",
+      "सकारात्मक संदेश   Positive message"
+    ],
+    "explanation": "कहानी को एक नीति कथा के रूप में लिखा गया है, जिसका मुख्य उद्देश्य बुराई पर अच्छाई की जीत दिखाना है, जो कि आदर्शवाद का लक्षण है।   The story is written as a moral tale, the main purpose of which is to show the victory of good over evil, which is a trait of idealism.",
+    "page_number": "2"
+  },
+  {
+    "id": 78,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 70
+    },
+    "question": "कहानी में शारीरिक शक्ति और आत्मिक/नैतिक शक्ति की तुलना कैसे की गई है?   How are physical strength and spiritual/moral strength compared in the story?",
+    "answer": "ज़मींदार शारीरिक, आर्थिक और सामाजिक रूप से अत्यधिक शक्तिशाली है, जबकि वृद्धा शारीरिक रूप से कमज़ोर और अत्यंत गरीब है। लेकिन जब ज़मींदार मिट्टी की टोकरी नहीं उठा पाता, तो उसकी सारी सांसारिक शक्ति एक कमज़ोर वृद्धा की आत्मिक और नैतिक शक्ति के सामने घुटने टेक देती है। यह तुलना दर्शाती है कि अहंकार के बल से सच्चाई और नैतिकता की शक्ति हमेशा बड़ी और विजयी होती है।   The Zamindar is extremely powerful physically, economically, and socially, while the old woman is physically weak and extremely poor. But when the Zamindar cannot lift the basket of soil, all his worldly power kneels before the spiritual and moral strength of a weak old woman. This comparison shows that the power of truth and morality is always greater and victorious over the force of ego.",
+    "keywords": [
+      "शारीरिक शक्ति   Physical strength",
+      "नैतिक शक्ति   Moral strength",
+      "विजयी   Victorious"
+    ],
+    "explanation": "टोकरी उठाना एक साधारण शारीरिक कार्य लगता है, लेकिन कहानी में इसे एक नैतिक परीक्षण बना दिया गया है, जिसमें शारीरिक शक्ति हार जाती है।   Lifting a basket seems like an ordinary physical task, but in the story it is made a moral test, in which physical strength loses.",
+    "page_number": "2"
+  },
+  {
+    "id": 79,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 65
+    },
+    "question": "\"टोकरी का भार\" कहानी में किस चीज़ का रूपक (Metaphor) है?   What is \"the burden of the basket\" a metaphor for in the story?",
+    "answer": "कहानी में टोकरी का भार ज़मींदार द्वारा किए गए पापों और अन्याय के भारी बोझ का रूपक है। शारीरिक रूप से एक टोकरी मिट्टी भारी नहीं होती, लेकिन जब वृद्धा उसे ज़मींदार के स्वार्थी कृत्यों से जोड़ती है, तो वह उसके ज़मीर (चेतना) पर एक पहाड़ जैसा बन जाता है। यह उन हज़ारों आंसुओं और आहों का भार है जो उस मिट्टी में बसे थे।   In the story, the burden of the basket is a metaphor for the heavy load of sins and injustice committed by the Zamindar. Physically a basket of soil is not heavy, but when the old woman connects it to the selfish deeds of the Zamindar, it becomes like a mountain on his conscience. It is the burden of thousands of tears and sighs that resided in that soil.",
+    "keywords": [
+      "रूपक   Metaphor",
+      "पापों का बोझ   Burden of sins",
+      "ज़मीर   Conscience"
+    ],
+    "explanation": "साहित्यिक दृष्टिकोण से कहानी में मिट्टी महज़ धूल नहीं बल्कि कर्मों का फल है, जिसे उठाना किसी भी अपराधी के लिए सबसे मुश्किल काम होता है।   From a literary point of view, the soil in the story is not mere dust but the result of deeds, lifting which is the most difficult task for any culprit.",
+    "page_number": "2"
+  },
+  {
+    "id": 80,
+    "subject": "Hindi",
+    "chapter": "एक टोकरी भर मिट्टी-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 50,
+      "max": 75
+    },
+    "question": "आपने अपने आस-पास या समाचारों में न्याय और समता से जुड़ी कौन-सी ऐसी घटना देखी या सुनी है, जिसे आप इस कहानी से जोड़ सकते हैं?   Which incident related to justice and equality have you seen or heard around you or in the news, which you can connect with this story?",
+    "answer": "मैंने समाचारों में अक्सर देखा है कि बड़े बिल्डर या अमीर लोग अपना व्यवसाय बढ़ाने के लिए झुग्गी-झोपड़ियों को हटा देते हैं। कई बार गरीब लोगों को उचित मुआवज़ा भी नहीं मिलता और उन्हें बेघर होना पड़ता है। यह घटना इस कहानी के ज़मींदार के लालच से मेल खाती है, जहाँ विकास और महलों के नाम पर कमज़ोरों के अधिकारों को बेरहमी से कुचल दिया जाता है।   I have often seen in the news that big builders or rich people remove slums to expand their business. Many times poor people do not even get proper compensation and they become homeless. This incident matches the greed of the Zamindar of this story, where in the name of development and palaces, the rights of the weak are ruthlessly crushed.",
+    "keywords": [
+      "बिल्डर   Builders",
+      "मुआवज़ा   Compensation",
+      "विकास   Development",
+      "अधिकार   Rights"
+    ],
+    "explanation": "यह प्रश्न कहानी के पाठ को वास्तविक दुनिया की समस्याओं से जोड़ने का प्रयास है, जैसा कि पुस्तक के 'पाठ से आगे' अनुभाग में पूछा गया है।   This question is an attempt to connect the lesson of the story to real-world problems, as asked in the 'Beyond the lesson' section of the book.",
+    "page_number": "13"
+  }
+]
