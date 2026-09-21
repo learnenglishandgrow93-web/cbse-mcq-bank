@@ -1,0 +1,1805 @@
+[
+{
+"id":1,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Define computer networking.",
+"answer":"Computer networking is the practice of linking computers and peripheral devices together to communicate and exchange data or resources.",
+"keywords":[
+"practice",
+"linking computers",
+"peripheral devices",
+"communicate",
+"exchange data"
+],
+"explanation":"Computer networking connects multiple devices to share data and resources effectively. This core definition is given on page 1.",
+"page_number":"1"
+},
+{
+"id":2,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"What is a server in a computer network?",
+"answer":"A server is a central computer in a network that stores data and provides access to resources to other connected computers or clients.",
+"keywords":[
+"central computer",
+"stores data",
+"provides access",
+"resources",
+"clients"
+],
+"explanation":"The server centrally manages network resources and data for clients. This concept is discussed on page 2.",
+"page_number":"2"
+},
+{
+"id":3,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"Name the two basic types of connections between computers on a network.",
+"answer":"The connections between computers on a network can be either wired or wireless.",
+"keywords":[
+"wired",
+"wireless",
+"connections"
+],
+"explanation":"Networks can be formed using physical cables (wired) or radio waves (wireless). This is stated on page 2.",
+"page_number":"2"
+},
+{
+"id":4,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":10
+},
+"question":"What is the full form of NIC?",
+"answer":"The full form of NIC is Network Interface Card.",
+"keywords":[
+"Network Interface Card"
+],
+"explanation":"NIC is an essential hardware component that provides network access to a computer. It is mentioned on page 3.",
+"page_number":"3"
+},
+{
+"id":5,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":10
+},
+"question":"What does LAN stand for?",
+"answer":"LAN stands for Local Area Network.",
+"keywords":[
+"Local Area Network"
+],
+"explanation":"LAN is a network covering a small geographical area. The full form is given on page 4.",
+"page_number":"4"
+},
+{
+"id":6,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":10
+},
+"question":"What does MAN stand for?",
+"answer":"MAN stands for Metropolitan Area Network.",
+"keywords":[
+"Metropolitan Area Network"
+],
+"explanation":"MAN connects computers within a single city or metropolitan area. It is defined on page 4.",
+"page_number":"4"
+},
+{
+"id":7,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"Define PAN.",
+"answer":"PAN stands for Personal Area Network. It interconnects electronic devices within an individual's workspace, typically covering less than 10 meters.",
+"keywords":[
+"Personal Area Network",
+"individual workspace",
+"less than 10 meters"
+],
+"explanation":"PAN is used for personal devices like smartphones and laptops over very short distances. It is discussed on page 5.",
+"page_number":"5"
+},
+{
+"id":8,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is a URL?",
+"answer":"URL stands for Uniform Resource Locator. It is a unique address that indicates the location where a web page is stored on the Internet.",
+"keywords":[
+"Uniform Resource Locator",
+"unique address",
+"location",
+"web page"
+],
+"explanation":"A URL points to the specific location of resources on the Internet. This terminology is introduced on page 6.",
+"page_number":"6"
+},
+{
+"id":9,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is an ISP?",
+"answer":"ISP stands for Internet Service Provider, which is an organization that provides services for accessing and using the Internet.",
+"keywords":[
+"Internet Service Provider",
+"organization",
+"services",
+"accessing Internet"
+],
+"explanation":"ISPs like Airtel or Vodafone grant users internet access. The definition is provided on page 6.",
+"page_number":"6"
+},
+{
+"id":10,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"Name any two popular web browsers.",
+"answer":"Two popular web browsers are Google Chrome and Mozilla Firefox.",
+"keywords":[
+"Google Chrome",
+"Mozilla Firefox"
+],
+"explanation":"Web browsers are application software used to access the web. These examples are found on page 7.",
+"page_number":"7"
+},
+{
+"id":11,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is a piconet?",
+"answer":"A piconet is another name for a Bluetooth PAN, which operates optimally within a 10-meter range for small mobile or home devices.",
+"keywords":[
+"Bluetooth PAN",
+"10-meter range",
+"mobile devices"
+],
+"explanation":"Piconets allow nearby small devices to communicate. The term is mentioned in the Smart Byte section on page 5.",
+"page_number":"5"
+},
+{
+"id":12,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is a Gateway in a computer network?",
+"answer":"A gateway is an interface connecting two different types of networks, allowing programs to share information between dissimilar computers.",
+"keywords":[
+"interface",
+"different types of networks",
+"share information",
+"dissimilar computers"
+],
+"explanation":"Gateways act as a bridge between networks using different protocols. This is defined on page 7.",
+"page_number":"7"
+},
+{
+"id":13,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"Define the term Bandwidth.",
+"answer":"Bandwidth is defined as the amount of data that can be transmitted in a fixed amount of time over a network.",
+"keywords":[
+"amount of data",
+"transmitted",
+"fixed amount of time"
+],
+"explanation":"Bandwidth measures the data transfer capacity of a network. The definition is available on page 7.",
+"page_number":"7"
+},
+{
+"id":14,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"What does Topology refer to in networking?",
+"answer":"Topology refers to the geometric arrangement of computers or nodes in a network.",
+"keywords":[
+"geometric arrangement",
+"computers",
+"nodes",
+"network"
+],
+"explanation":"Network topology describes how devices are physically or logically arranged. It is defined on page 8.",
+"page_number":"8"
+},
+{
+"id":15,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":10
+},
+"question":"What is the full form of FTP?",
+"answer":"The full form of FTP is File Transfer Protocol.",
+"keywords":[
+"File Transfer Protocol"
+],
+"explanation":"FTP is used for transferring files between computers on a network. It is listed on page 8.",
+"page_number":"8"
+},
+{
+"id":16,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":3,
+"max":10
+},
+"question":"What is the full form of HTTP?",
+"answer":"The full form of HTTP is Hyper Text Transfer Protocol.",
+"keywords":[
+"Hyper Text Transfer Protocol"
+],
+"explanation":"HTTP is used for transferring web pages from a server to a browser. It is defined on page 8.",
+"page_number":"8"
+},
+{
+"id":17,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"What do you mean by downloading?",
+"answer":"Downloading is the process of transferring a file from a remote computer or server to the local client computer.",
+"keywords":[
+"transferring a file",
+"remote computer",
+"server",
+"client"
+],
+"explanation":"Downloading retrieves files from the internet or network to the user's device. This is explained on page 8.",
+"page_number":"8"
+},
+{
+"id":18,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"What are clients in a star topology?",
+"answer":"In a star topology, the devices connected to the central hub are called clients or peripheral devices.",
+"keywords":[
+"devices connected",
+"central hub",
+"clients",
+"peripheral devices"
+],
+"explanation":"Clients connect individually to the main hub in a star topology. This is described on page 9.",
+"page_number":"9"
+},
+{
+"id":19,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Define a web page.",
+"answer":"A web page is an electronic document written in HTML that can contain multimedia content like text, graphics, videos, and interactive features.",
+"keywords":[
+"electronic document",
+"HTML",
+"multimedia content",
+"interactive features"
+],
+"explanation":"Web pages make up websites and present digital content to users. This definition is on page 7.",
+"page_number":"7"
+},
+{
+"id":20,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What is a node in a computer network?",
+"answer":"A node is an individual computer or device connected within a network.",
+"keywords":[
+"individual computer",
+"device",
+"connected",
+"network"
+],
+"explanation":"Any device participating in a network topology is referred to as a node. Discussed throughout topology sections, e.g., page 8.",
+"page_number":"8"
+},
+{
+"id":21,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is the specific function of the Domain Name System (DNS)?",
+"answer":"DNS is used to convert a human-readable Domain Name into its equivalent IP address assigned to it.",
+"keywords":[
+"convert",
+"Domain Name",
+"equivalent IP address"
+],
+"explanation":"DNS acts as the phonebook of the internet, resolving names to IP addresses. This is mentioned on page 6.",
+"page_number":"6"
+},
+{
+"id":22,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Briefly state the main compatibility difference between IIS and Apache web servers.",
+"answer":"IIS is compatible only with the Windows operating system, whereas the Apache web server is compatible with almost all operating systems.",
+"keywords":[
+"IIS",
+"Windows operating system",
+"Apache",
+"almost all operating systems"
+],
+"explanation":"IIS is a Microsoft product restricted to Windows, while Apache is cross-platform. This distinction is on page 7.",
+"page_number":"7"
+},
+{
+"id":23,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":25
+},
+"question":"What is the purpose of the IMAP protocol?",
+"answer":"IMAP is a standard e-mail protocol that stores messages on a server, allowing users to view and edit them as if stored locally.",
+"keywords":[
+"standard e-mail protocol",
+"stores messages",
+"server",
+"view and edit locally"
+],
+"explanation":"IMAP lets clients interact with emails directly on the server without downloading them permanently. Described on page 8.",
+"page_number":"8"
+},
+{
+"id":24,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Define the POP3 protocol.",
+"answer":"POP3 stands for Post Office Protocol Version 3, and it allows e-mail clients to retrieve e-mail messages from an e-mail server.",
+"keywords":[
+"Post Office Protocol Version 3",
+"retrieve e-mail messages",
+"e-mail server"
+],
+"explanation":"POP3 is a standard protocol used by local email clients to download emails from a server. It is on page 8.",
+"page_number":"8"
+},
+{
+"id":25,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"State any two advantages of networking.",
+"answer":"Two advantages of networking are Resource Sharing, which allows users to share printers and scanners, and Centralised Location, where data is stored on a server for easy access.",
+"keywords":[
+"Resource Sharing",
+"printers",
+"Centralised Location",
+"stored on a server"
+],
+"explanation":"Networking provides multiple benefits. Sharing hardware resources saves money, and centralized storage improves data access. These are listed on page 2.",
+"page_number":"2"
+},
+{
+"id":26,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What is the difference between wired and wireless networks in terms of connection medium?",
+"answer":"Wired networks connect computers using physical cables like Ethernet wires, whereas wireless networks connect computers using radio waves without any physical wires.",
+"keywords":[
+"Wired networks",
+"physical cables",
+"Ethernet wires",
+"wireless networks",
+"radio waves"
+],
+"explanation":"Wired networks rely on tangible cables, while wireless networks use electromagnetic signals for data transmission. This is explained on page 2.",
+"page_number":"2"
+},
+{
+"id":27,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Name any four hardware components required to set up a computer network.",
+"answer":"Four components required for a network are a Network Interface Card (NIC), a Hub or switch, a Router, and Networking cables.",
+"keywords":[
+"Network Interface Card",
+"Hub",
+"switch",
+"Router",
+"Networking cables"
+],
+"explanation":"These hardware devices are essential for forming connections and directing traffic. They are listed on page 3.",
+"page_number":"3"
+},
+{
+"id":28,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Define WAN and give an example.",
+"answer":"A Wide Area Network (WAN) is a network spread over a large geographical area, like between cities or countries. The Internet and ATM networks are examples of WAN.",
+"keywords":[
+"Wide Area Network",
+"large geographical area",
+"cities or countries",
+"Internet",
+"ATM networks"
+],
+"explanation":"WAN covers massive distances, often utilizing satellite links or leased lines. This definition is on page 5.",
+"page_number":"5"
+},
+{
+"id":29,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What is an Intranet?",
+"answer":"An intranet is a private network controlled within an enterprise. It consists of interlinked local area networks and is restricted to authorized users within the organization.",
+"keywords":[
+"private network",
+"controlled within an enterprise",
+"interlinked local area networks",
+"authorized users"
+],
+"explanation":"Intranet uses internet technologies but is isolated from the public web for internal company use. Defined on page 6.",
+"page_number":"6"
+},
+{
+"id":30,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What do you understand by the term World Wide Web (WWW)?",
+"answer":"The World Wide Web is a collection of web pages that are linked together to form websites. These websites are stored on centrally located computers called servers.",
+"keywords":[
+"collection of web pages",
+"linked together",
+"websites",
+"stored on servers"
+],
+"explanation":"WWW is the system of interconnected documents accessed over the internet. This is discussed on page 6.",
+"page_number":"6"
+},
+{
+"id":31,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":40
+},
+"question":"Define Website and Home page.",
+"answer":"A website is a collection of inter-linked web pages related to a specific topic. The very first page of a website is known as its Home page.",
+"keywords":[
+"collection",
+"inter-linked web pages",
+"first page",
+"Home page"
+],
+"explanation":"Websites structure information on the web, always starting with a home page. These definitions are on page 7.",
+"page_number":"7"
+},
+{
+"id":32,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Explain the term Hyperlink.",
+"answer":"A hyperlink is an element in an electronic document that acts as a cross-reference link. It connects different documents or sections, using text, graphics, audio, or video files.",
+"keywords":[
+"cross-reference link",
+"electronic document",
+"connects different documents",
+"text or graphics"
+],
+"explanation":"Hyperlinks are fundamental to navigating the web, allowing users to jump between resources. Defined on page 7.",
+"page_number":"7"
+},
+{
+"id":33,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What does Network Security mean?",
+"answer":"Network security means protecting data and resources from unauthorized access. It includes policies and practices approved to prevent and monitor the misuse or modification of network resources.",
+"keywords":[
+"protecting data and resources",
+"unauthorized access",
+"policies and practices",
+"prevent and monitor misuse"
+],
+"explanation":"Network security ensures only authorized users can view or alter sensitive information. This concept is on page 10.",
+"page_number":"10"
+},
+{
+"id":34,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Describe Point-to-Point topology.",
+"answer":"Point-to-point topology is the simplest network structure where exactly two nodes are directly connected with each other. It provides a faster and more reliable connection for devices in close proximity.",
+"keywords":[
+"simplest network structure",
+"two nodes",
+"directly connected",
+"faster and reliable connection"
+],
+"explanation":"This topology directly links two devices, minimizing interference and ensuring high reliability. Found on page 9.",
+"page_number":"9"
+},
+{
+"id":35,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"How does a computer network help in reducing data redundancy?",
+"answer":"Data redundancy means duplicating data at multiple places. A computer network reduces this by providing a central server to store data, which client computers access whenever required.",
+"keywords":[
+"Data redundancy",
+"duplicating data",
+"central server",
+"access whenever required"
+],
+"explanation":"Storing files centrally prevents the need to keep copies on every individual machine. This advantage is detailed on page 3.",
+"page_number":"3"
+},
+{
+"id":36,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What is the main function of a Hub or Switch in a network?",
+"answer":"A hub or switch is a hardware device that connects computers and printers. Its main function is to direct information around the network and facilitate communication between connected devices.",
+"keywords":[
+"connects computers and printers",
+"direct information",
+"facilitate communication"
+],
+"explanation":"Hubs and switches act as central nodes joining multiple devices in a local network. Explained on page 3.",
+"page_number":"3"
+},
+{
+"id":37,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Explain the function of a router.",
+"answer":"A router is a networking device that connects and facilitates the transfer of information between two distinct networks. It directs data packets smoothly from the sender node to the receiver.",
+"keywords":[
+"connects",
+"transfer of information",
+"two distinct networks",
+"directs data packets"
+],
+"explanation":"Routers manage traffic between different networks, such as routing internal LAN traffic out to the Internet. Described on pages 3 and 7.",
+"page_number":"3"
+},
+{
+"id":38,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Differentiate between LAN and MAN based on their geographical coverage.",
+"answer":"LAN covers a small, limited area within a 1 km radius like a building or school. In contrast, MAN covers a larger area like a city, spanning multiple buildings and LANs.",
+"keywords":[
+"limited area",
+"1 km radius",
+"building",
+"larger area",
+"city",
+"multiple buildings"
+],
+"explanation":"LAN is localized, whereas MAN connects larger areas but is still smaller than a WAN. This is detailed on page 4.",
+"page_number":"4"
+},
+{
+"id":39,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What is a Campus Area Network (CAN)?",
+"answer":"A CAN is a computer network interconnecting multiple LANs within a limited geographic area, like an educational campus. It usually spans a range of 1 km to 5 km.",
+"keywords":[
+"interconnecting multiple LANs",
+"limited geographic area",
+"educational campus",
+"1 km to 5 km"
+],
+"explanation":"CANs are specifically sized for universities or corporate campuses, acting as large LANs. Described on page 5.",
+"page_number":"5"
+},
+{
+"id":40,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"What is the basic difference between a URL and an IP address?",
+"answer":"A URL is an alphanumeric address indicating where a web page is stored, making it easy to remember. An IP address is a unique numeric address separated by periods assigned to connected computers.",
+"keywords":[
+"alphanumeric address",
+"web page is stored",
+"unique numeric address",
+"assigned to connected computers"
+],
+"explanation":"URLs are human-readable links, while IP addresses are numerical network identifiers used by the underlying protocols. Explained on page 6.",
+"page_number":"6"
+},
+{
+"id":41,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Differentiate between a Hub and a Switch as per network performance.",
+"answer":"A hub connects devices so they can exchange data, but a switch is more advanced as it connects devices using packet switching, which actually increases the overall network speed.",
+"keywords":[
+"exchange data",
+"packet switching",
+"increases network speed"
+],
+"explanation":"Switches manage data more efficiently than hubs by directing packets only to intended recipients. This difference is on page 7.",
+"page_number":"7"
+},
+{
+"id":42,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":30,
+"max":50
+},
+"question":"Explain Bus Topology briefly.",
+"answer":"In bus topology, also known as line topology, every computer and network device connects to a single main cable called the backbone. It is simple to maintain and additional nodes can be easily attached.",
+"keywords":[
+"line topology",
+"single main cable",
+"backbone",
+"simple to maintain"
+],
+"explanation":"Bus topology relies on one central line, making it cost-effective for small LANs but prone to major failure if the backbone breaks. Described on page 8.",
+"page_number":"8"
+},
+{
+"id":43,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What is a Tree topology?",
+"answer":"Tree topology connects nodes like branches of a tree where a hub acts as a root node. It creates a hierarchical structure with at least three distinct levels.",
+"keywords":[
+"branches of a tree",
+"root node",
+"hierarchical structure",
+"three distinct levels"
+],
+"explanation":"This topology combines characteristics of star and bus topologies, structured hierarchically. Explained on page 9.",
+"page_number":"9"
+},
+{
+"id":44,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Define Wi-Fi technology.",
+"answer":"Wi-Fi is the most popular wireless communication technology used for homes and public hotspots. It allows devices to connect to the Internet without wires, thus reducing network expansion costs.",
+"keywords":[
+"wireless communication technology",
+"connect to the Internet without wires",
+"reducing network expansion costs"
+],
+"explanation":"Wi-Fi utilizes radio waves for local area networking and internet access. Detailed in the Explore More section on page 14.",
+"page_number":"14"
+},
+{
+"id":45,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"How does a Modem function in terms of signal conversion?",
+"answer":"A Modem connects computers to the Internet via telephone lines. It converts digital signals from the computer into analog signals (modulation) for transmission, and converts incoming analog signals back to digital (demodulation).",
+"keywords":[
+"telephone lines",
+"digital signals to analog",
+"modulation",
+"analog signals to digital",
+"demodulation"
+],
+"explanation":"Modems bridge digital computer output with analog telecommunication infrastructure. The process is defined on page 3.",
+"page_number":"3"
+},
+{
+"id":46,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Why is HTTPS preferred over HTTP for websites nowadays?",
+"answer":"HTTPS is the secure version of HTTP. It converts transferred information into code (encryption) to prevent unauthorized access, making data exchange much safer.",
+"keywords":[
+"secure version",
+"converts information into code",
+"prevent unauthorized access",
+"safer"
+],
+"explanation":"HTTPS adds a security layer to protect sensitive user data during web browsing. This is explained on page 8.",
+"page_number":"8"
+},
+{
+"id":47,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What are the primary disadvantages of a Metropolitan Area Network (MAN)?",
+"answer":"The disadvantages of MAN include difficulty in management, higher security problems, extra configuration requirements, and the fact that it cannot work on traditional copper telephone wires.",
+"keywords":[
+"difficulty in management",
+"security problems",
+"extra configuration",
+"cannot work on traditional copper wires"
+],
+"explanation":"MAN covers large areas like cities, which complicates its maintenance and security. These drawbacks are on page 4.",
+"page_number":"4"
+},
+{
+"id":48,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Describe the role of TCP/IP protocol.",
+"answer":"TCP/IP (Transmission Control Protocol/Internet Protocol) governs communication among all computers on the Internet. It specifies how information should be packaged, sent, received, and how to reach its destination.",
+"keywords":[
+"governs communication",
+"how information should be packaged",
+"sent and received",
+"reach its destination"
+],
+"explanation":"TCP/IP is the foundational suite of rules that allows the global internet to function. This is detailed on page 8.",
+"page_number":"8"
+},
+{
+"id":49,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Explain any three advantages of a computer network.",
+"answer":"First, Resource Sharing allows users to easily share devices like printers and scanners. Second, Centralised Location stores all data on a server, letting clients access information reliably. Third, Fast Mode of Communication enables instant messaging and video conferencing, saving both time and money.",
+"keywords":[
+"Resource Sharing",
+"share devices",
+"Centralised Location",
+"stores all data on a server",
+"Fast Mode of Communication",
+"instant messaging"
+],
+"explanation":"Networking improves productivity through resource sharing, central management, and faster communication. These points are elaborated on page 2.",
+"page_number":"2"
+},
+{
+"id":50,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Mention any three disadvantages of a computer network.",
+"answer":"First, Server failure can completely halt resource access if the main server breaks down. Second, Congestion in the network occurs when too many requests slow down data transfer. Third, Security threats necessitate strict security measures to protect sensitive data shared across the network.",
+"keywords":[
+"Server failure",
+"halt resource access",
+"Congestion in network",
+"slow down data transfer",
+"Security threats",
+"protect sensitive data"
+],
+"explanation":"While networks offer benefits, they also face issues like server reliance, traffic congestion, and hacking threats. Detailed on page 3.",
+"page_number":"3"
+},
+{
+"id":51,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Explain Star Topology and provide two advantages of using it.",
+"answer":"In a Star topology, all devices are connected to a central device called a hub or server, while other devices act as clients. Two advantages are: it is very reliable and economical, and if one client device fails, the rest of the network remains fully functional.",
+"keywords":[
+"central device",
+"hub or server",
+"reliable and economical",
+"if one device fails",
+"network remains functional"
+],
+"explanation":"Star topology is the most common LAN setup due to its fault tolerance for individual node failures. Described on page 9.",
+"page_number":"9"
+},
+{
+"id":52,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"What is Peer-to-Peer (P2P) network architecture?",
+"answer":"A Peer-to-Peer network is an architecture of two or more computers that use the same type of program to share data. Every computer is considered to have equal responsibilities and can act like a server to the others. It works very well in small environments.",
+"keywords":[
+"same type of program",
+"share data",
+"equal responsibilities",
+"act like a server",
+"small environments"
+],
+"explanation":"In P2P, there is no dedicated central server; all nodes share the burden of resource hosting. Found on page 10.",
+"page_number":"10"
+},
+{
+"id":53,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"Describe the main difference between Client-Server and Peer-to-Peer network architecture.",
+"answer":"In a Client-Server network, one specific computer acts as the server providing services, while others are clients that request these services. It focuses heavily on centralized information sharing. In contrast, Peer-to-Peer architecture gives every node equal power to both demand and deliver services, focusing more on accessing remote computers in small setups.",
+"keywords":[
+"Client-Server",
+"server providing services",
+"clients request",
+"centralized information sharing",
+"Peer-to-Peer",
+"equal power",
+"demand and deliver"
+],
+"explanation":"These two architectures dictate how control and resources are managed across the network. The differences are detailed on page 10.",
+"page_number":"10"
+},
+{
+"id":54,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Explain the Ring Topology and highlight its main disadvantage.",
+"answer":"A ring topology connects each node to exactly two others, forming a circular data path. Messages travel in either a clockwise or anti-clockwise direction. The major disadvantage is that any damage to the main cable or a single node can cause the complete breakdown of the entire network.",
+"keywords":[
+"circular data path",
+"two others",
+"clockwise or anti-clockwise",
+"damage to cable or node",
+"complete breakdown"
+],
+"explanation":"Ring topologies pass tokens in a loop, making them highly susceptible to single-point failures in the cable. Described on page 9.",
+"page_number":"9"
+},
+{
+"id":55,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"What is Mesh Topology, and why is it commonly used for wireless networks?",
+"answer":"In a mesh topology, every computer is interconnected with every other node. It not only sends its own signals but relays data from other nodes. It is commonly used for wireless networks because it offers minimum chances of breakdown and easily handles large volumes of data traffic.",
+"keywords":[
+"interconnected with every other node",
+"relays data",
+"minimum chances of breakdown",
+"handles large volume of data"
+],
+"explanation":"Mesh networks provide multiple paths for data, ensuring high reliability, especially in wireless environments. Described on page 10.",
+"page_number":"10"
+},
+{
+"id":56,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":70
+},
+"question":"Discuss the complete process of how a Modem converts signals.",
+"answer":"A Modem stands for Modulator-Demodulator. When sending data, the process of modulation converts digital signals from the computer into analog signals to travel over telephone lines. Upon receiving data, demodulation converts incoming analog signals back into digital signals that the computer can process.",
+"keywords":[
+"Modulator-Demodulator",
+"modulation",
+"digital to analog",
+"telephone lines",
+"demodulation",
+"analog to digital"
+],
+"explanation":"Modems translate computer language (digital) into transmission language (analog) and vice versa. Elaborated on page 3.",
+"page_number":"3"
+},
+{
+"id":57,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Briefly explain any three important Internet terminologies related to web addresses and sites.",
+"answer":"First, a URL (Uniform Resource Locator) is the unique address of a web page on the Internet. Second, a Domain Name is a unique name that identifies a website, forming a part of the URL. Third, DNS (Domain Name System) converts that human-readable domain name into an IP address.",
+"keywords":[
+"URL",
+"unique address of web page",
+"Domain Name",
+"identifies a website",
+"DNS",
+"converts domain name to IP address"
+],
+"explanation":"These terminologies are foundational to navigating the World Wide Web. They are explained on page 6.",
+"page_number":"6"
+},
+{
+"id":58,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Distinguish between a Web server and a Web browser.",
+"answer":"A Web server is a powerful computer held at a central location that stores web pages (e.g., Apache, IIS). A Web browser is application software on the user's device used to connect to the Internet, retrieve, and view information from those servers (e.g., Google Chrome).",
+"keywords":[
+"Web server",
+"central location",
+"stores web pages",
+"Web browser",
+"application software",
+"retrieve and view"
+],
+"explanation":"Servers host websites, while browsers are the client tools used to view them. This distinction is clarified on page 7.",
+"page_number":"7"
+},
+{
+"id":59,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Write short notes on SMTP and POP3 protocols.",
+"answer":"SMTP stands for Simple Mail Transfer Protocol and is the standard Internet protocol for electronic mail transmission, meaning it is used to send emails. POP3 stands for Post Office Protocol Version 3; it allows local email clients to retrieve and download emails from a remote mail server.",
+"keywords":[
+"SMTP",
+"electronic mail transmission",
+"send emails",
+"POP3",
+"retrieve and download emails",
+"mail server"
+],
+"explanation":"SMTP sends outbound mail, whereas POP3 retrieves inbound mail. These email protocols are defined on page 8.",
+"page_number":"8"
+},
+{
+"id":60,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"Explain the role of an ISP in computer networking and give two examples.",
+"answer":"ISP stands for Internet Service Provider. It is an organization that provides essential services for accessing and utilizing the Internet. By assigning IP addresses and providing connectivity, they enable users to go online. Popular examples of ISPs include Airtel, Vodafone, and BSNL.",
+"keywords":[
+"Internet Service Provider",
+"provides essential services",
+"accessing Internet",
+"connectivity",
+"Airtel",
+"Vodafone"
+],
+"explanation":"ISPs are the gatekeepers that connect individual users or networks to the global Internet. Discussed on page 6.",
+"page_number":"6"
+},
+{
+"id":61,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"Describe Personal Area Network (PAN) and provide a real-world example.",
+"answer":"A Personal Area Network (PAN) interconnects electronic devices within an individual's immediate workspace, typically covering a range of less than 10 meters. It enables data transmission between computers, smartphones, and tablets using either wired or wireless tech like Bluetooth. A common example is connecting a Bluetooth earpiece to a smartphone.",
+"keywords":[
+"interconnects electronic devices",
+"individual workspace",
+"less than 10 meters",
+"Bluetooth",
+"Bluetooth earpiece to smartphone"
+],
+"explanation":"PANs are personal, short-range networks primarily utilizing Bluetooth. The definition and example are on page 5.",
+"page_number":"5"
+},
+{
+"id":62,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"How does a Tree topology combine structural elements, and what is its major disadvantage?",
+"answer":"Tree topology connects nodes like branches of a tree, creating a hierarchical structure with at least three distinct levels. A hub acts as the main root node. Its major disadvantage is that if the central root node fails to operate, the entire network fails.",
+"keywords":[
+"branches of a tree",
+"hierarchical structure",
+"three distinct levels",
+"hub acts as root node",
+"root node fails",
+"entire network fails"
+],
+"explanation":"Tree topologies organize networks hierarchically but rely entirely on the top-level root node to function. Described on page 9.",
+"page_number":"9"
+},
+{
+"id":63,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"Discuss Network Security and mention the simplest way it is enforced.",
+"answer":"Network security involves policies and practices designed to prevent, detect, and monitor unauthorized access or modification of network resources. The network administrator controls this security. The most common and simplest way of protecting a network resource is by assigning unique user IDs and corresponding passwords to authorized people.",
+"keywords":[
+"prevent unauthorized access",
+"policies and practices",
+"network administrator",
+"simplest way",
+"user IDs",
+"passwords"
+],
+"explanation":"Protecting a network ensures data integrity and privacy. Basic security relies on authentication credentials. Found on pages 10-11.",
+"page_number":"10"
+},
+{
+"id":64,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":80
+},
+"question":"Compare LAN, MAN, and WAN based on the geographical area they cover.",
+"answer":"LAN covers the smallest geographical area, typically under a 1 km radius, like a single building or campus. MAN covers a larger area such as a city, connecting multiple buildings up to several kilometers. WAN covers the largest geographical distance, spreading across different cities or even countries.",
+"keywords":[
+"LAN",
+"under 1 km",
+"building",
+"MAN",
+"city",
+"multiple buildings",
+"WAN",
+"largest distance",
+"cities or countries"
+],
+"explanation":"Networks are classified primarily by their physical reach. LAN is local, MAN is metropolitan, and WAN is wide-area. Covered on pages 4-5.",
+"page_number":"4"
+},
+{
+"id":65,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Elaborate on the concept of bandwidth and how it is measured for different types of devices.",
+"answer":"Bandwidth defines the total amount of data that can be transmitted in a fixed amount of time over a network connection. For digital devices, bandwidth is usually expressed in bits per second (bps) or bytes per second. For analog devices, it is expressed in cycles per second, or Hertz (Hz).",
+"keywords":[
+"amount of data",
+"transmitted in fixed time",
+"digital devices",
+"bits per second",
+"analog devices",
+"Hertz"
+],
+"explanation":"Bandwidth indicates the speed capacity of a network. Measurement units depend on whether the signal is digital or analog. Explained on page 7.",
+"page_number":"7"
+},
+{
+"id":66,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"Explain how a network reduces data redundancy and helps maintain data integrity.",
+"answer":"A network reduces redundancy by storing files on a central server rather than duplicating them on every individual machine. Client computers simply request the data when needed. Sharing and transferring these central files quickly via the network ensures all users access the latest version, which helps in maintaining data integrity.",
+"keywords":[
+"storing files on central server",
+"duplicating",
+"request the data",
+"access latest version",
+"maintaining data integrity"
+],
+"explanation":"Centralizing data eliminates multiple conflicting copies (redundancy) and ensures accuracy (integrity). Found on pages 2-3.",
+"page_number":"2"
+},
+{
+"id":67,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"Detail the operational differences between a Hub, a Switch, and a Router.",
+"answer":"A Hub is a basic device that blindly directs information around a network to connect computers. A Switch also connects devices but intelligently uses packet switching to route data, thereby increasing network speed. A Router specifically forwards data packets between entirely different networks, directing Internet traffic smoothly to receiver nodes.",
+"keywords":[
+"Hub blindly directs information",
+"Switch uses packet switching",
+"increasing speed",
+"Router forwards between different networks",
+"directing Internet traffic"
+],
+"explanation":"Hubs broadcast data, switches direct it precisely on LANs, and routers manage traffic between LANs and WANs. Discussed on pages 3 and 7.",
+"page_number":"7"
+},
+{
+"id":68,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"Explain the term 'Protocols' and briefly describe FTP and its associated processes.",
+"answer":"Protocols are sets of rules governing communication between computers on a network to ensure successful data exchange. FTP (File Transfer Protocol) governs transferring files containing digital info. Transferring files from a server to a client is called downloading, whereas transferring files from a client to the server is uploading.",
+"keywords":[
+"sets of rules",
+"governing communication",
+"FTP",
+"transferring files",
+"server to client downloading",
+"client to server uploading"
+],
+"explanation":"Protocols provide the framework for network tasks. FTP handles file transfers via downloading and uploading. Defined on page 8.",
+"page_number":"8"
+},
+{
+"id":69,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":55,
+"max":85
+},
+"question":"Discuss the structural differences and reliability issues when comparing Star and Bus topologies.",
+"answer":"Bus topology connects all nodes linearly along a single backbone cable; it is cheap but suffers a major setback if the main cable breaks. Star topology connects all devices individually to a central hub. It is highly reliable because if one cable fails, only that node is affected, though central hub failure ruins the entire network.",
+"keywords":[
+"Bus topology linearly",
+"single backbone",
+"main cable breaks",
+"Star topology individually",
+"central hub",
+"highly reliable",
+"central hub failure ruins network"
+],
+"explanation":"Bus relies on one central line, while Star relies on a central node. The fault isolation differs vastly. Found on pages 8-9.",
+"page_number":"8"
+},
+{
+"id":70,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"What are the potential congestion and security threats associated with computer networking?",
+"answer":"Congestion occurs when too many client requests overwhelm the network, leading to slow processing, transferring, and sharing of data. Security threats arise because centralized data is vulnerable; without strict required security measures like passwords and firewalls, unauthorized users might access, modify, or misuse sensitive data in the network.",
+"keywords":[
+"Congestion",
+"too many client requests",
+"slow processing",
+"Security threats",
+"vulnerable",
+"unauthorized users",
+"modify or misuse"
+],
+"explanation":"Networks suffer performance drops under heavy load and are prone to hacking without adequate protection. Discussed on page 3.",
+"page_number":"3"
+},
+{
+"id":71,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Explain the Domain Name System (DNS) providing a suitable example.",
+"answer":"The Domain Name System (DNS) is used to convert human-readable Domain Names into their equivalent numeric IP addresses. This is necessary because computers communicate using IPs. For example, when you type www.wikipedia.org, DNS converts this domain name into the specific IP address assigned to Wikipedia's server.",
+"keywords":[
+"convert human-readable",
+"equivalent numeric IP",
+"computers communicate using IPs",
+"www.wikipedia.org",
+"converts domain name to IP"
+],
+"explanation":"DNS translates web addresses into machine-readable IP formats automatically for the user. Example is from page 6.",
+"page_number":"6"
+},
+{
+"id":72,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":60,
+"max":95
+},
+"question":"Write a short note on wireless networking technology focusing on Wi-Fi and Bluetooth.",
+"answer":"Wireless tech uses electromagnetic waves like radio waves for data transmission without physical media. Wi-Fi is popular for homes and business LANs, allowing devices like PCs and phones to connect to the Internet without wires, cutting expansion costs. Bluetooth enables low-power communication over a short range, ideal for exchanging data between phones, laptops, and GPS receivers.",
+"keywords":[
+"electromagnetic waves",
+"without physical media",
+"Wi-Fi",
+"connect to Internet without wires",
+"Bluetooth",
+"low-power communication",
+"short range"
+],
+"explanation":"Wi-Fi handles broader local networking for internet access, whereas Bluetooth handles short-range peripheral connection. Explored on page 14.",
+"page_number":"14"
+},
+{
+"id":73,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"Discuss what a Web portal and HTML are, and explain how they relate to web pages.",
+"answer":"HTML (Hypertext Markup Language) is a markup language consisting of special tags used to write and format electronic web pages. A Web portal is a specially designed website that gathers information from various sources in a uniform way, like emails and search engines. Both utilize HTML structure to display inter-linked web pages effectively.",
+"keywords":[
+"HTML",
+"markup language",
+"write web pages",
+"Web portal",
+"gathers information",
+"uniform way",
+"display inter-linked web pages"
+],
+"explanation":"HTML is the building block code of the web, and portals are complex websites built with it to aggregate information. Found on page 7.",
+"page_number":"7"
+},
+{
+"id":74,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"What are leased telecommunication circuits, and which type of network relies on them primarily?",
+"answer":"Leased telecommunication circuits are dedicated communication facilities like telephone lines, microwaves, or satellite signals rented to connect distant locations. A Wide Area Network (WAN) relies on them primarily, as WANs cover massive geographic distances between cities or countries where laying physical personal cables is impossible.",
+"keywords":[
+"dedicated communication facilities",
+"satellite signals",
+"Wide Area Network",
+"WAN",
+"massive geographic distances",
+"between cities or countries"
+],
+"explanation":"WANs require public or leased infrastructure to bridge huge geographical gaps. Described on page 5.",
+"page_number":"5"
+},
+{
+"id":75,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Why is mesh topology considered to have the minimum chance of breakdown, and what is its major drawback?",
+"answer":"Mesh topology has the minimum chance of breakdown because every node is interconnected, providing multiple paths to relay data; if one link fails, traffic reroutes. However, its major drawback is that the overall cost of the network is extremely high due to the massive amount of wiring and configuration needed.",
+"keywords":[
+"every node interconnected",
+"multiple paths to relay data",
+"minimum chance of breakdown",
+"major drawback",
+"overall cost extremely high",
+"massive amount of wiring"
+],
+"explanation":"Mesh topology is highly redundant and robust but very expensive to set up physically. Described on page 10.",
+"page_number":"10"
+},
+{
+"id":76,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":55,
+"max":85
+},
+"question":"Describe the role of a web server and differentiate between the two important web servers mentioned in the text.",
+"answer":"A web server is a central computer that stores web pages and serves them to requesting web browsers over the Internet. The two important web servers are IIS and Apache. The main difference is that IIS is compatible only with Windows operating systems, whereas Apache is designed to be compatible with almost all operating systems.",
+"keywords":[
+"stores web pages",
+"serves them to browsers",
+"IIS",
+"compatible only with Windows",
+"Apache",
+"compatible with almost all operating systems"
+],
+"explanation":"Web servers host internet content. IIS is proprietary to Microsoft, while Apache is highly adaptable. Explained on page 7.",
+"page_number":"7"
+},
+{
+"id":77,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Explain what a Gateway is and how it facilitates communication across different systems.",
+"answer":"A Gateway is a networking device used to connect two entirely different types of networks. It acts as an interface between two programs, facilitating communication by translating data between different protocols on a computer or between completely dissimilar computers so they can share information seamlessly.",
+"keywords":[
+"connect different types of networks",
+"interface between programs",
+"translating data",
+"different protocols",
+"dissimilar computers"
+],
+"explanation":"Gateways are crucial for interconnecting networks that use different architectures and languages. Found on page 7.",
+"page_number":"7"
+},
+{
+"id":78,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"Why does a network administrator assign user IDs and passwords? Explain the concept of authorized access.",
+"answer":"A network administrator assigns unique user IDs and passwords to prevent unauthorized access and protect network resources from misuse. Authorized access means that the right to access or modify specific network data is granted only to legitimate users who authenticate themselves, thereby maintaining strict network security and data privacy.",
+"keywords":[
+"prevent unauthorized access",
+"protect network resources",
+"Authorized access",
+"modify specific data",
+"authenticate themselves",
+"maintaining network security"
+],
+"explanation":"Security relies on verifying identity to ensure only trusted people access sensitive information. Detailed on pages 10-11.",
+"page_number":"10"
+},
+{
+"id":79,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"Discuss the impact of a central hub failure in a star topology versus a root node failure in a tree topology.",
+"answer":"In a Star topology, the central hub connects all clients; if the hub fails, the entire network goes down, isolating all devices. Similarly, a Tree topology relies on a root node at the top of its hierarchy. If this main root node fails to operate, communication across the entire hierarchical network fails completely.",
+"keywords":[
+"Star topology",
+"hub fails entire network goes down",
+"isolating all devices",
+"Tree topology",
+"root node fails",
+"entire hierarchical network fails"
+],
+"explanation":"Both topologies suffer from single points of failure at their central or highest logical nodes. Found on page 9.",
+"page_number":"9"
+},
+{
+"id":80,
+"subject":"Computer Science",
+"chapter":"Computer Networking-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"Describe how networking simplifies finding files and avoids the use of external devices for data transfer.",
+"answer":"In a proper network, all files are stored at a centralized server location. This proper management makes it extremely easy to locate and copy files directly from one computer to another over the network, completely eradicating the need to use external storage devices like pen drives or hard discs for data transfer.",
+"keywords":[
+"centralized server location",
+"proper management",
+"locate and copy files",
+"eradicating need external storage",
+"pen drives"
+],
+"explanation":"Networking removes physical transfer limits by allowing electronic data movement through central servers. Discussed on page 2.",
+"page_number":"2"
+}
+]
