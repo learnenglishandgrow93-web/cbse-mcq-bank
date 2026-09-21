@@ -1,0 +1,1617 @@
+[
+{
+"id": 1,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Networking plays a crucial role in our lives and allows resources to be shared effectively.\nReason (R): A computer network is a group of interconnected computers used to share resources like computers and peripheral devices.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "Networking connects devices to ensure efficient work and resource sharing in organizations. A computer network achieves this by interconnecting computers and peripherals, perfectly explaining the assertion. This concept is thoroughly introduced on page 86 of the PDF.",
+"page_number": "86"
+},
+{
+"id": 2,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question_type": "assertion_reason",
+"question": "Assertion (A): A wireless network requires cables and telephone lines to establish connections.\nReason (R): Radio waves are usually used to form a wireless network.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "A wireless network does not use physical cables or telephone lines; instead, it relies on radio waves to transmit signals between devices. Therefore, the assertion is false while the reason accurately states how wireless networks operate. This distinction is detailed on page 87 of the PDF.",
+"page_number": "87"
+},
+{
+"id": 3,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Network administrators control the authorization of access to data in a network.\nReason (R): Network security involves policies and practices to prevent unauthorized access and misuse.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "Network security is designed to protect data from unauthorized access by using strict policies. The network administrator is responsible for enforcing these policies by controlling who gets access, thus validating both statements. This is explained in the Network Security section on page 95.",
+"page_number": "95"
+},
+{
+"id": 4,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question_type": "assertion_reason",
+"question": "Assertion (A): The World Wide Web (WWW) is a single web page stored on a computer.\nReason (R): The World Wide Web is a collection of web pages that are linked together to form a website.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "The World Wide Web is not just a single web page, but rather a massive collection of inter-linked web pages forming websites stored on servers. The assertion is incorrect, while the reason provides the accurate definition. This terminology is covered on page 91 of the document.",
+"page_number": "91"
+},
+{
+"id": 5,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Wi-Fi allows users to install local area networks without the need for wires.\nReason (R): Wi-Fi is a wired communication technology used for public hotspots.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is true, R is false.",
+"explanation": "Wi-Fi is a wireless communication technology that enables network expansion without cables or physical media. The assertion is true, but the reason falsely claims Wi-Fi is a wired technology. This information is found in the Explore More section on page 99.",
+"page_number": "99"
+},
+{
+"id": 6,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "What is the primary purpose of a computer network?",
+"options": [
+"To strictly isolate computers from each other",
+"To interconnect computers in order to share resources",
+"To increase the processing speed of a single computer",
+"To replace the need for software"
+],
+"answer": "To interconnect computers in order to share resources",
+"explanation": "A computer network consists of a group of interconnected computers designed to share resources like peripherals and data efficiently. Networking links these devices to allow communication and exchange. This foundational definition is provided on page 86 of the PDF.",
+"page_number": "86"
+},
+{
+"id": 7,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "Which of the following is an example of a communication network?",
+"options": [
+"A network of roads and railways",
+"Network of banks and ATMs",
+"Network of telephone systems",
+"A network of hospitals"
+],
+"answer": "Network of telephone systems",
+"explanation": "A communication network specifically refers to systems like telephone networks that enable people to talk to anyone, anywhere, at any time. While roads and banks are other types of networks, telephones strictly represent communication. This example is listed on page 86.",
+"page_number": "86"
+},
+{
+"id": 8,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "What does ATM stand for in the context of financial networks?",
+"options": [
+"Automatic Transfer Machine",
+"Automated Teller Machine",
+"Asynchronous Transfer Mode",
+"Automated Transaction Machine"
+],
+"answer": "Automated Teller Machine",
+"explanation": "In the daily life examples of networks, a network of banks includes ATMs, which stands for Automated Teller Machines. These machines are linked globally for financial transactions. This acronym is clearly defined on page 86.",
+"page_number": "86"
+},
+{
+"id": 9,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "Which device is explicitly required in a wireless network to transmit signals?",
+"options": [
+"Ethernet cable",
+"Access Point",
+"Optical fiber",
+"Pen drive"
+],
+"answer": "Access Point",
+"explanation": "In a wireless network setup, an Access Point (Wireless Networking Switch) is required to transmit signals alongside a Wireless NIC. Ethernet cables and optical fibers are used in wired networks instead. This hardware requirement is detailed on page 87.",
+"page_number": "87"
+},
+{
+"id": 10,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "Which of the following is considered an advantage of networking?",
+"options": [
+"Congestion in network",
+"Server failure",
+"Resource sharing",
+"Security threat"
+],
+"answer": "Resource sharing",
+"explanation": "Resource sharing is a major advantage of networking, allowing users to share hardware like printers and software data easily, saving time and money. The other options are explicitly listed as disadvantages of computer networks. This is discussed on page 87.",
+"page_number": "87"
+},
+{
+"id": 11,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "What is the central computer that stores data in a network called?",
+"options": [
+"Client",
+"Server",
+"Node",
+"Hub"
+],
+"answer": "Server",
+"explanation": "In a centralized location setup, data is stored on one primary computer known as the Server. Clients access this server to retrieve or send information across the network. This concept is explained under the 'Centralised location' advantage on page 87.",
+"page_number": "87"
+},
+{
+"id": 12,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "Which of these is a disadvantage of a computer network?",
+"options": [
+"Reduced redundancy",
+"Fast mode of communication",
+"Security threat",
+"Proper management"
+],
+"answer": "Security threat",
+"explanation": "Security threat is a significant disadvantage because data on a network needs to be protected with strict security measures to prevent unauthorized access. The other options are categorized as advantages of networking. This disadvantage is stated on page 88.",
+"page_number": "88"
+},
+{
+"id": 13,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "What does NIC stand for?",
+"options": [
+"Network Internal Connection",
+"Network Interface Card",
+"National Internet Center",
+"Network Interconnection Cable"
+],
+"answer": "Network Interface Card",
+"explanation": "NIC stands for Network Interface Card, which is an expansion card that provides network access to a computer. It allows the computer to connect to a wired or wireless network medium. This definition is provided on page 88 of the PDF.",
+"page_number": "88"
+},
+{
+"id": 14,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "Which networking device directs information around the network and facilitates communication between connected devices?",
+"options": [
+"Modem",
+"Networking Cable",
+"Hub or Switch",
+"NIC"
+],
+"answer": "Hub or Switch",
+"explanation": "A Hub or Switch is a hardware device to which computers and printers are connected, and its main function is to direct information around the network. It facilitates smooth communication between all connected devices, as explained on page 88.",
+"page_number": "88"
+},
+{
+"id": 15,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "What is the full form of LAN?",
+"options": [
+"Large Area Network",
+"Logical Area Network",
+"Local Area Network",
+"Local Access Network"
+],
+"answer": "Local Area Network",
+"explanation": "LAN stands for Local Area Network, which connects computers and peripheral devices over a relatively limited area such as a school or building. It operates within a radius of less than 1 km. This terminology is introduced on page 89.",
+"page_number": "89"
+},
+{
+"id": 16,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "Which type of network usually covers a single large city?",
+"options": [
+"LAN",
+"MAN",
+"PAN",
+"CAN"
+],
+"answer": "MAN",
+"explanation": "A Metropolitan Area Network (MAN) spans a geographical area like a single large city, multiple cities, or towns. It is larger than a LAN but smaller than a Wide Area Network (WAN). This network classification is detailed on page 89.",
+"page_number": "89"
+},
+{
+"id": 17,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "Which network type connects electronic devices within a person's workspace, typically covering less than 10 meters?",
+"options": [
+"WAN",
+"CAN",
+"PAN",
+"MAN"
+],
+"answer": "PAN",
+"explanation": "A Personal Area Network (PAN) interconnects electronic devices within an individual's workspace, covering a minimal range of less than 10 meters. Common examples include Bluetooth connections between a smartphone and an earpiece, as stated on page 90.",
+"page_number": "90"
+},
+{
+"id": 18,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "What is the expansion of ISP?",
+"options": [
+"Internet Service Protocol",
+"Internet Service Provider",
+"Internal Server Protocol",
+"Internet System Provider"
+],
+"answer": "Internet Service Provider",
+"explanation": "ISP stands for Internet Service Provider, which is an organization that provides services for accessing and using the Internet. Examples include Airtel, Vodafone, and BSNL. This definition is given in the Internet Terminologies on page 91.",
+"page_number": "91"
+},
+{
+"id": 19,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "What does URL stand for?",
+"options": [
+"Universal Resource Link",
+"Uniform Resource Locator",
+"Unified Resource Locator",
+"Uniform Routing Link"
+],
+"answer": "Uniform Resource Locator",
+"explanation": "URL stands for Uniform Resource Locator, which is a unique address that indicates where a web page is stored on the Internet. It is entered into the address bar of a web browser to access sites, as mentioned on page 91.",
+"page_number": "91"
+},
+{
+"id": 20,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "Which system is used to convert a Domain Name into its equivalent IP address?",
+"options": [
+"URL",
+"ISP",
+"DNS",
+"WWW"
+],
+"answer": "DNS",
+"explanation": "The Domain Name System (DNS) is used to convert human-readable Domain Names (like www.wikipedia.org) into their equivalent numeric IP addresses. This conversion is necessary for computer communication over the Internet, as explained on page 91.",
+"page_number": "91"
+},
+{
+"id": 21,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "What is the first page of a website generally known as?",
+"options": [
+"Index page",
+"Web portal",
+"HOME page",
+"Domain page"
+],
+"answer": "HOME page",
+"explanation": "A website is a collection of inter-linked web pages, and the very first page of any website is known as the HOME page. This basic web terminology is explicitly stated on page 92.",
+"page_number": "92"
+},
+{
+"id": 22,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "Which of the following is an example of a Web browser?",
+"options": [
+"Google Chrome",
+"Apache",
+"IIS",
+"HTML"
+],
+"answer": "Google Chrome",
+"explanation": "A web browser is application software used to connect to the Internet and retrieve information. Google Chrome, Mozilla Firefox, and Microsoft Edge are given as prime examples of web browsers on page 92.",
+"page_number": "92"
+},
+{
+"id": 23,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "What does HTML stand for?",
+"options": [
+"Hypertext Markup Language",
+"Hyperlink Transfer Markup Language",
+"Hypertext Machine Language",
+"High Transfer Markup Language"
+],
+"answer": "Hypertext Markup Language",
+"explanation": "HTML stands for Hypertext Markup Language. It is a computer markup language used for creating web pages, consisting of special keywords called Tags. This term is defined under internet terminologies on page 92.",
+"page_number": "92"
+},
+{
+"id": 24,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "Which network topology features a central device known as a hub?",
+"options": [
+"Bus Topology",
+"Ring Topology",
+"Star Topology",
+"Mesh Topology"
+],
+"answer": "Star Topology",
+"explanation": "In a Star Topology, each device is connected to a central device known as a hub. The network relies heavily on this central hub to transmit data between the peripheral client devices, as explained on page 94.",
+"page_number": "94"
+},
+{
+"id": 25,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "Which topology resembles branches of a tree?",
+"options": [
+"Mesh Topology",
+"Tree Topology",
+"Ring Topology",
+"Point-to-Point Topology"
+],
+"answer": "Tree Topology",
+"explanation": "Tree topology is a hierarchical structure where nodes are connected as branches of a tree, with a hub acting as the root node. This hierarchical setup is clearly detailed on page 94 of the PDF.",
+"page_number": "94"
+},
+{
+"id": 26,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "What type of network architecture designates one computer as the server and others as clients?",
+"options": [
+"Peer-to-Peer",
+"Client-Server",
+"Mesh Architecture",
+"Point-to-Point"
+],
+"answer": "Client-Server",
+"explanation": "In Client-Server Network Architecture, one computer is designated as the server to provide services, and the other connected computers are called clients that request these services. This fundamental architecture is described on page 95.",
+"page_number": "95"
+},
+{
+"id": 27,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "What is the simplest way of protecting a network resource?",
+"options": [
+"Using only optical fiber cables",
+"Assigning a unique name and a corresponding password",
+"Keeping the computers in a locked room",
+"Using Peer-to-Peer architecture"
+],
+"answer": "Assigning a unique name and a corresponding password",
+"explanation": "The most common and simplest way to protect a network resource from unauthorized access is by assigning it a unique ID or name along with a corresponding password. This is part of basic Network Security as discussed on page 96.",
+"page_number": "96"
+},
+{
+"id": 28,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "Bluetooth is primarily used for which type of network?",
+"options": [
+"WAN",
+"MAN",
+"PAN",
+"CAN"
+],
+"answer": "PAN",
+"explanation": "Bluetooth is a wireless technology highly suitable for a Personal Area Network (PAN). It connects personal devices like phones and laptops over a short range of less than 10 meters, often referred to as piconets. This is highlighted on page 90.",
+"page_number": "90"
+},
+{
+"id": 29,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "What does WWW stand for?",
+"options": [
+"Wide Web World",
+"World Wide Web",
+"Wireless Web World",
+"World Wireless Web"
+],
+"answer": "World Wide Web",
+"explanation": "WWW stands for World Wide Web. It is essentially a massive collection of web pages linked together to form websites, accessible over the internet. This terminology is detailed in the internet glossary on page 91.",
+"page_number": "91"
+},
+{
+"id": 30,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "easy",
+"question": "Which of these is a valid example of a Domain Name?",
+"options": [
+"192.168.1.1",
+"facebook.com",
+"HTTP",
+"Google Chrome"
+],
+"answer": "facebook.com",
+"explanation": "A Domain Name is a unique name that identifies a website on the Internet. In the URL https://www.facebook.com, 'facebook.com' is the domain name. This concept is explained on page 91 under Domain Name.",
+"page_number": "91"
+},
+{
+"id": 31,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Network congestion occurs when there are too many client requests.\nReason (R): Congestion leads to extremely fast processing of data transferring and sharing.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is true, R is false.",
+"explanation": "Network congestion indeed happens when there are too many requests from clients simultaneously. However, this leads to slow processing of transferring and sharing data, not fast processing. Therefore, the reason is entirely false, as discussed on page 88.",
+"page_number": "88"
+},
+{
+"id": 32,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): HTTPS is the secure version of HTTP used to prevent unauthorised access.\nReason (R): In HTTPS, information is converted into code to ensure security.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "HTTPS (Hyper Text Transfer Protocol Secure) prevents unauthorized access by converting the transmitted information into code (encryption). Thus, the reason correctly explains how the assertion of HTTPS being secure is achieved. This is detailed on page 93.",
+"page_number": "93"
+},
+{
+"id": 33,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): A Metropolitan Area Network (MAN) spans multiple cities and towns using traditional copper telephone wires.\nReason (R): MAN is smaller than a Wide Area Network (WAN) but larger than a LAN.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "While MAN does span cities and is geographically between a LAN and a WAN, it explicitly cannot work on traditional copper wires of phones; it relies on wireless mediums or optical fibre cables. Therefore, the assertion contains a false statement, as noted on page 89.",
+"page_number": "89"
+},
+{
+"id": 34,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Peer-to-Peer (P2P) networks have all computers acting with equal responsibilities.\nReason (R): P2P networks concentrate primarily on accessing remote central computers for services.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is true, R is false.",
+"explanation": "In a P2P network, all computers have equal responsibilities and share data directly. It is the Client-Server architecture that concentrates on remote computer access, not P2P. Hence, the assertion is true but the reason is false, as explained on page 95.",
+"page_number": "95"
+},
+{
+"id": 35,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Data redundancy is actively encouraged in a computer network to secure data.\nReason (R): Data redundancy means duplication of data at multiple places.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "Data redundancy means the duplication of data at multiple places, which is true. However, computer networks aim to reduce data redundancy by providing a central server, not encourage it. Thus, the assertion is false. This is found under the advantages section on page 88.",
+"page_number": "88"
+},
+{
+"id": 36,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "How does a computer network help in proper management of files?",
+"options": [
+"By storing files randomly across all clients",
+"By storing all files at a central location",
+"By increasing the use of pen drives",
+"By converting digital signals to analog"
+],
+"answer": "By storing all files at a central location",
+"explanation": "A network facilitates proper management by storing all files at a central location (the server). This makes it easier to find and copy files, effectively eradicating the need for external devices like pen drives for data transfer, as stated on page 87.",
+"page_number": "87"
+},
+{
+"id": 37,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which issue is caused when some users consume more bandwidth than others on the same network?",
+"options": [
+"Reduced redundancy",
+"Increased installation cost",
+"Inefficient usage of bandwidth",
+"Server failure"
+],
+"answer": "Inefficient usage of bandwidth",
+"explanation": "When certain users consume a disproportionately large amount of bandwidth on a shared network, it results in the inefficient usage of bandwidth between all connected users, slowing down others. This disadvantage is highlighted on page 88.",
+"page_number": "88"
+},
+{
+"id": 38,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "What is the primary function of a Router in a computer network?",
+"options": [
+"To convert analog signals to digital signals",
+"To connect computers to printers directly",
+"To connect and facilitate transfer of information between two networks",
+"To act as a central storage server"
+],
+"answer": "To connect and facilitate transfer of information between two networks",
+"explanation": "A router is a networking device specifically designed to connect and facilitate the smooth transfer of information and data packets between two different computer networks. This hardware function is defined on page 88.",
+"page_number": "88"
+},
+{
+"id": 39,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "What happens during the process of demodulation in a MODEM?",
+"options": [
+"Digital signals are converted to analog signals",
+"Analog signals are converted to digital signals",
+"Data is stored permanently on the server",
+"Web pages are transmitted to the client"
+],
+"answer": "Analog signals are converted to digital signals",
+"explanation": "Modulation is the conversion of digital signals to analog. Conversely, demodulation is the process where the modem converts incoming analog signals back into digital signals so the computer can process them. This is detailed on page 88.",
+"page_number": "88"
+},
+{
+"id": 40,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which of the following is NOT a type of Ethernet networking cable?",
+"options": [
+"Coaxial cable",
+"Twisted pair cable",
+"Optical fiber cable",
+"Radio wave cable"
+],
+"answer": "Radio wave cable",
+"explanation": "Networking cables, or Ethernet cables, are transmission mediums like coaxial cables, twisted pair cables, and optical fiber cables. Radio waves are a wireless transmission medium, not a physical cable, as explained on page 89.",
+"page_number": "89"
+},
+{
+"id": 41,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "What is a major disadvantage of a Metropolitan Area Network (MAN)?",
+"options": [
+"It cannot cover more than 10 meters",
+"It is difficult to manage and has security problems",
+"It relies completely on bluetooth connections",
+"It does not support data transmission"
+],
+"answer": "It is difficult to manage and has security problems",
+"explanation": "A Metropolitan Area Network (MAN) spans a large area like a city, making it inherently difficult to manage. It also suffers from security problems and requires extra configuration, as stated on page 89.",
+"page_number": "89"
+},
+{
+"id": 42,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which type of network spans a large geographical area such as countries and utilizes satellite signals?",
+"options": [
+"LAN",
+"PAN",
+"CAN",
+"WAN"
+],
+"answer": "WAN",
+"explanation": "A Wide Area Network (WAN) spans across different cities or countries and involves communication facilities like telecommunication or satellite signals. The Internet is a primary example of a WAN, as described on page 90.",
+"page_number": "90"
+},
+{
+"id": 43,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Why are Bluetooth PANs sometimes referred to as piconets?",
+"options": [
+"Because they use optical fiber cables",
+"Because they span multiple cities",
+"Because their optimal operation range is about the size of a living room",
+"Because they require a central web server"
+],
+"answer": "Because their optimal operation range is about the size of a living room",
+"explanation": "Bluetooth PANs are also called piconets because the optimal range of operation for Bluetooth is just 10 meters (roughly the size of a living room), designed for small mobile or home devices to communicate. This is noted in the Smart Byte on page 90.",
+"page_number": "90"
+},
+{
+"id": 44,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "If two buildings have the same domain and relate to a single network with a range of 1 to 5 km, what is it considered?",
+"options": [
+"PAN",
+"CAN",
+"WAN",
+"Intranet"
+],
+"answer": "CAN",
+"explanation": "A Campus/Corporate Area Network (CAN) connects multiple LANs within a geographic area of 1 km to 5 km. If two buildings share the same domain and network in this range, it is considered a CAN, as detailed on page 90.",
+"page_number": "90"
+},
+{
+"id": 45,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "What is an Intranet?",
+"options": [
+"A global system of interconnected computers open to the public",
+"A private network controlled within an enterprise",
+"A system that converts IP addresses to domain names",
+"A device used to connect two dissimilar networks"
+],
+"answer": "A private network controlled within an enterprise",
+"explanation": "An Intranet is a private network that is securely controlled within an enterprise. It typically consists of many interlinked local area networks and may use leased lines, but it remains strictly private, unlike the Internet. This is defined on page 91.",
+"page_number": "91"
+},
+{
+"id": 46,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "What format does an IP Address typically follow?",
+"options": [
+"A collection of alphabet characters",
+"A unique numeric address assigned by the ISP",
+"A unique graphical hyperlink",
+"A set of HTML tags"
+],
+"answer": "A unique numeric address assigned by the ISP",
+"explanation": "An IP (Internet Protocol) address is a unique numeric address assigned to every computer connected to the internet by the Internet Service Provider for communication. This definition is explicitly given on page 91.",
+"page_number": "91"
+},
+{
+"id": 47,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which Web server is exclusively compatible with the Windows operating system?",
+"options": [
+"Apache",
+"Google Chrome",
+"IIS (Internet Information Server)",
+"Mozilla Firefox"
+],
+"answer": "IIS (Internet Information Server)",
+"explanation": "IIS (Internet Information Server) is designed by Microsoft and is compatible exclusively with the Windows operating system. In contrast, Apache is compatible with almost all operating systems. This distinction is made on page 92.",
+"page_number": "92"
+},
+{
+"id": 48,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "What is the role of a Web Portal?",
+"options": [
+"To convert digital signals to analog",
+"To gather information from various sources in a uniform way",
+"To forward data packets between networks",
+"To store data securely as a client"
+],
+"answer": "To gather information from various sources in a uniform way",
+"explanation": "A Web portal is a specially designed website that gathers information from various sources, like emails and search engines, and presents it in a uniform and organized way. This term is defined on page 92.",
+"page_number": "92"
+},
+{
+"id": 49,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "How does a Switch differ from a basic Hub in terms of data handling?",
+"options": [
+"A switch converts analog to digital signals",
+"A switch acts as a web browser",
+"A switch uses packet switching and increases network speed",
+"A switch connects dissimilar computers using protocols"
+],
+"answer": "A switch uses packet switching and increases network speed",
+"explanation": "While both connect devices, a Switch uses packet switching to connect devices on a computer network. This intelligent routing of data packets helps in increasing the overall network speed, as described on page 92.",
+"page_number": "92"
+},
+{
+"id": 50,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which term describes transferring a file from a remote computer (client) to a server?",
+"options": [
+"Downloading",
+"Uploading",
+"Modulation",
+"Packet switching"
+],
+"answer": "Uploading",
+"explanation": "In FTP, the process of transferring a file from a server to a remote computer is called downloading, while transferring a file from a remote computer (client) to the server is specifically called uploading. This is detailed on page 93.",
+"page_number": "93"
+},
+{
+"id": 51,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which protocol specifies how information should be packaged, sent, and routed to its destination?",
+"options": [
+"HTTP",
+"IMAP",
+"TCP/IP",
+"POP3"
+],
+"answer": "TCP/IP",
+"explanation": "TCP/IP (Transmission Control Protocol) governs communications among computers on the Internet. It specifically dictates how information should be packaged, sent, received, and how it reaches its destination. This protocol is explained on page 93.",
+"page_number": "93"
+},
+{
+"id": 52,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "What is the function of the POP3 protocol?",
+"options": [
+"To transfer web pages to a browser",
+"To allow e-mail clients to retrieve e-mail messages from a server",
+"To connect dissimilar networks",
+"To transfer large data files directly"
+],
+"answer": "To allow e-mail clients to retrieve e-mail messages from a server",
+"explanation": "POP3 (Post Office Protocol Version 3) is an Internet standard protocol that allows e-mail clients to retrieve and download e-mail messages from an e-mail server. This specific function is stated on page 93.",
+"page_number": "93"
+},
+{
+"id": 53,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which network topology connects each device to a single cable or backbone?",
+"options": [
+"Bus Topology",
+"Ring Topology",
+"Star Topology",
+"Mesh Topology"
+],
+"answer": "Bus Topology",
+"explanation": "In a Bus Topology (or line topology), each computer and network device is connected to a single common cable or backbone. It is simple to maintain, though diagnosing an error can be difficult, as noted on page 93.",
+"page_number": "93"
+},
+{
+"id": 54,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "In a Ring Topology, what happens if the cable of any single node gets damaged?",
+"options": [
+"The network switches to a central hub",
+"The other connections remain perfectly intact",
+"It results in the breakdown of the complete network",
+"The network speed increases"
+],
+"answer": "It results in the breakdown of the complete network",
+"explanation": "A major disadvantage of the Ring Topology is that all nodes are connected in a circular path. If any damage occurs to the cable of a single node, it breaks the circle and results in the complete breakdown of the network, as explained on page 94.",
+"page_number": "94"
+},
+{
+"id": 55,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "What is a key advantage of the Star Topology?",
+"options": [
+"It uses a single backbone cable",
+"If one device fails, the other connections remain intact",
+"It is the most expensive topology available",
+"It requires no cables for connection"
+],
+"answer": "If one device fails, the other connections remain intact",
+"explanation": "Star topology is very reliable because if one device (cable/client) fails, all others will still work seamlessly. The connections remain intact as long as the central hub is functional. This advantage is detailed on page 94.",
+"page_number": "94"
+},
+{
+"id": 56,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which topology provides minimum chances of breakdown but is extremely high in cost?",
+"options": [
+"Bus Topology",
+"Tree Topology",
+"Ring Topology",
+"Mesh Topology"
+],
+"answer": "Mesh Topology",
+"explanation": "In a Mesh Topology, every computer is interconnected with every other node. This massive redundancy ensures minimum chances of breakdown, but the extensive cabling makes the overall cost extremely high. This is explained on page 95.",
+"page_number": "95"
+},
+{
+"id": 57,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "What distinguishes Peer-to-Peer network architecture from Client-Server architecture?",
+"options": [
+"P2P relies on a powerful central server",
+"P2P concentrates on accessing remote computers",
+"In P2P, every node can demand and deliver services with equal responsibility",
+"P2P networks are designed for immense geographical areas"
+],
+"answer": "In P2P, every node can demand and deliver services with equal responsibility",
+"explanation": "In a Peer-to-Peer (P2P) network, every node has equal responsibilities and can both demand and deliver services. This contrasts with Client-Server, where only the designated server node delivers services to requesting clients, as discussed on page 95.",
+"page_number": "95"
+},
+{
+"id": 58,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which communication technology is best suited for providing wireless private business LANs and public hotspots?",
+"options": [
+"Bluetooth",
+"Infrared",
+"Wi-Fi",
+"Coaxial Cables"
+],
+"answer": "Wi-Fi",
+"explanation": "Wi-Fi is the most popular wireless communication technology utilized for setting up home networks, private business LANs, and public hotspots. It operates on radio waves for distance and speed, as mentioned on page 99.",
+"page_number": "99"
+},
+{
+"id": 59,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "How is bandwidth usually expressed for digital devices?",
+"options": [
+"Cycles per second (Hz)",
+"Meters per second",
+"Bits per second (bps)",
+"Bytes per minute"
+],
+"answer": "Bits per second (bps)",
+"explanation": "Bandwidth indicates the amount of data transmitted in a fixed time. For digital devices, this bandwidth is usually expressed in bits per second (bps) or bytes per second, whereas analog uses Hertz (Hz). This Fact Byte is located on page 92.",
+"page_number": "92"
+},
+{
+"id": 60,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which of these is an example of an electronic document element that acts as a cross-reference link to another document?",
+"options": [
+"Web server",
+"Hyperlink",
+"Domain Name",
+"Gateway"
+],
+"answer": "Hyperlink",
+"explanation": "A Hyperlink is an element in an electronic document that acts as a cross-reference link within the same document or to different documents. It can be text (Hypertext) or graphics. This is defined on page 92.",
+"page_number": "92"
+},
+{
+"id": 61,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "What role does SMTP play in computer networking?",
+"options": [
+"It is used for receiving web pages securely",
+"It is an Internet standard for electronic mail transmission",
+"It connects a computer to a printer",
+"It modulates analog signals into digital signals"
+],
+"answer": "It is an Internet standard for electronic mail transmission",
+"explanation": "SMTP stands for Simple Mail Transfer Protocol. It functions specifically as an Internet standard protocol used for electronic mail transmission between servers. This protocol is listed on page 93.",
+"page_number": "93"
+},
+{
+"id": 62,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "According to the Check Point on page 91, which type of network is most suitable for covering a continent (1000 km)?",
+"options": [
+"LAN",
+"PAN",
+"MAN",
+"WAN"
+],
+"answer": "WAN",
+"explanation": "A Wide Area Network (WAN) is suitable for massive geographical areas spanning cities, countries, and continents. The Check Point table correctly identifies WAN for a 1000 km coverage diameter, as shown on page 91.",
+"page_number": "91"
+},
+{
+"id": 63,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Why is it necessary to secure private networks within organizations?",
+"options": [
+"To increase the cost of installation",
+"To prevent unauthorized access, misuse, or modification of resources",
+"To allow all public users to access sensitive company files",
+"To ensure the server crashes regularly"
+],
+"answer": "To prevent unauthorized access, misuse, or modification of resources",
+"explanation": "Network security is vital to protect data and resources from unauthorized access. Organizations implement policies to prevent, detect, and monitor misuse or modification of network-accessible resources, as explained on page 95.",
+"page_number": "95"
+},
+{
+"id": 64,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "What kind of network technology would connect a GPS receiver to a smartphone in a car?",
+"options": [
+"WAN",
+"Optical Fiber LAN",
+"Bluetooth",
+"Extranet"
+],
+"answer": "Bluetooth",
+"explanation": "Bluetooth is a technology enabling wireless communication between low-power devices over a short range. It is ideal for connecting devices such as mobile phones and GPS receivers, as detailed in the Explore More section on page 99.",
+"page_number": "99"
+},
+{
+"id": 65,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "What is the primary difference between IMAP and POP3?",
+"options": [
+"IMAP allows viewing messages stored locally on the device, while POP3 deletes them",
+"IMAP stores messages on a mail server allowing users to view/edit them locally, whereas POP3 is for retrieving messages",
+"IMAP is for file transfer and POP3 is for web browsing",
+"There is no difference; they are the exact same protocol"
+],
+"answer": "IMAP stores messages on a mail server allowing users to view/edit them locally, whereas POP3 is for retrieving messages",
+"explanation": "IMAP allows the user to view and edit messages as if they are stored locally while keeping them on the server. POP3 is mainly designed for email clients to retrieve and download emails from the server. This nuance is explained on page 93.",
+"page_number": "93"
+},
+{
+"id": 66,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which device is required in BOTH wired and wireless networks?",
+"options": [
+"Ethernet cable",
+"Network Interface Card (NIC)",
+"Access Point",
+"Optical fiber"
+],
+"answer": "Network Interface Card (NIC)",
+"explanation": "A Network Interface Card (NIC) is required for both setups. A wired network uses a standard NIC (LAN card), while a wireless network uses a Wireless NIC/LAN card to enable computer connectivity. This is stated on page 87.",
+"page_number": "87"
+},
+{
+"id": 67,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which of the following describes Point-to-Point Topology?",
+"options": [
+"Multiple nodes connected to a central hub",
+"The simplest form of network where two nodes are directly connected",
+"A hierarchical structure with a root node",
+"A circular data path"
+],
+"answer": "The simplest form of network where two nodes are directly connected",
+"explanation": "Point-to-Point topology is the simplest form of network structure where exactly two nodes are directly connected to each other, making it suitable for small areas where computers are in close proximity. This is described on page 94.",
+"page_number": "94"
+},
+{
+"id": 68,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which network type connects local area networks within an educational institution?",
+"options": [
+"WAN",
+"PAN",
+"CAN",
+"MAN"
+],
+"answer": "CAN",
+"explanation": "A Campus Area Network (CAN) specifically spans a limited geographic area and interconnects multiple local area networks (LANs) within a campus or an educational institution, as defined on page 90.",
+"page_number": "90"
+},
+{
+"id": 69,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Why does a tree topology fail completely if the root node stops operating?",
+"options": [
+"Because data redundancy is too high",
+"Because all subsequent branches and nodes relate to it in a hierarchy",
+"Because it uses radio waves that dissipate",
+"Because the nodes are connected point-to-point"
+],
+"answer": "Because all subsequent branches and nodes relate to it in a hierarchy",
+"explanation": "In a Tree Topology, nodes are structured in a hierarchy where the hub acts as a root node. If this primary root node fails to operate, the structural dependency causes the entire network below it to fail, as explained on page 94.",
+"page_number": "94"
+},
+{
+"id": 70,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "medium",
+"question": "Which statement best defines 'Bandwidth'?",
+"options": [
+"The physical length of an Ethernet cable",
+"The amount of data that can be transmitted in a fixed amount of time",
+"The number of web pages stored on a server",
+"The power consumption of a Bluetooth device"
+],
+"answer": "The amount of data that can be transmitted in a fixed amount of time",
+"explanation": "Bandwidth is officially defined as the amount of data that can be successfully transmitted across a network in a fixed amount of time. Higher bandwidth allows for faster data transfer. This definition is on page 92.",
+"page_number": "92"
+},
+{
+"id": 71,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Gateway devices are essential for sharing information between dissimilar computers or protocols.\nReason (R): A gateway acts as an interface between two totally different types of networks.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "A Gateway is specifically used to connect two entirely different types of networks. It acts as an interface that allows dissimilar computers to communicate by translating between their different protocols. The reason correctly explains why gateways are essential. This is covered on page 92.",
+"page_number": "92"
+},
+{
+"id": 72,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): It is very easy to diagnose an error in a Bus Topology network.\nReason (R): A Bus Topology connects all nodes to a single common cable or backbone.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "While it is true that Bus Topology uses a single common cable (the reason is true), a major setback of this design is that it is very difficult to diagnose an error when a failure occurs. Therefore, the assertion is false. This is noted on page 93.",
+"page_number": "93"
+},
+{
+"id": 73,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): A Wide Area Network (WAN) can utilize satellite links and microwaves as transmission mediums.\nReason (R): There may not be a physical connection between computers in a WAN due to its massive geographical spread.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "Because a WAN spans huge geographical areas like countries or continents, installing physical cables everywhere is impossible. Hence, there may not be physical connections, necessitating the use of wireless transmission mediums like satellite links and microwaves. The reason correctly explains the assertion, as detailed on page 90.",
+"page_number": "90"
+},
+{
+"id": 74,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): The data link speed in a CAN (Campus Area Network) is generally low because it covers 1 to 5 km.\nReason (R): CAN is mainly used for corporate campuses and connects to the internet.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "The assertion is false because the text states that since CAN is mainly used for corporate campuses, the data link will be high speed, not low speed. The reason is a true statement derived from the text. This is explicitly stated on page 90.",
+"page_number": "90"
+},
+{
+"id": 75,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Client-Server network architecture concentrates heavily on access to remote computers.\nReason (R): In a peer-to-peer network, every node can demand and deliver services.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "The text states that Client-Server network model is more concerned with information sharing, while it is the Peer-to-Peer network model that concentrates on access to remote computers. Therefore, the assertion is false. The reason correctly describes P2P functionality. This distinction is found on page 95.",
+"page_number": "95"
+},
+{
+"id": 76,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "Company XYZ spans across multiple continents and requires a digital communication system that utilizes leased telecommunication circuits and satellite signals. Which network should they set up?",
+"options": [
+"Metropolitan Area Network (MAN)",
+"Wide Area Network (WAN)",
+"Campus Area Network (CAN)",
+"Local Area Network (LAN)"
+],
+"answer": "Wide Area Network (WAN)",
+"explanation": "A Wide Area Network (WAN) is required for a company spanning continents. WAN operates on a worldwide basis without physical connections, utilizing leased telecommunication circuits and satellite links. This scenario matches the WAN description on page 90.",
+"page_number": "90"
+},
+{
+"id": 77,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "If a network uses a circular data path and the main cable of one node is severed, what is the resulting impact on data travel?",
+"options": [
+"Data will automatically route through a central hub",
+"The entire network will experience a complete breakdown",
+"Only the severed node will stop functioning; others will continue",
+"Data transmission speed will temporarily decrease"
+],
+"answer": "The entire network will experience a complete breakdown",
+"explanation": "A network with a circular data path is a Ring Topology. Its major disadvantage is that any damage to the cable of any single node results in the breakdown of the complete network, stopping all data travel. This vulnerability is explained on page 94.",
+"page_number": "94"
+},
+{
+"id": 78,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "In a scenario where an organization wants maximum reliability and robustness, even if it incurs extremely high costs and involves connecting every device to every other device, which topology must they implement?",
+"options": [
+"Mesh Topology",
+"Star Topology",
+"Tree Topology",
+"Bus Topology"
+],
+"answer": "Mesh Topology",
+"explanation": "Mesh topology interconnects every computer with one another, providing minimum chances of breakdown and maximum reliability for handling large data traffic. However, this vast cabling makes it extremely high in cost, as stated on page 95.",
+"page_number": "95"
+},
+{
+"id": 79,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "Consider a web developer wanting to host a new website. They are using an Apache web server. Which operating system can they use to ensure compatibility?",
+"options": [
+"Only Windows Operating System",
+"Only macOS",
+"Almost all operating systems",
+"Only Linux"
+],
+"answer": "Almost all operating systems",
+"explanation": "Unlike Microsoft's IIS, which is exclusively compatible with the Windows operating system, the Apache web server is highly versatile and is compatible with almost all operating systems. This comparison is made on page 92.",
+"page_number": "92"
+},
+{
+"id": 80,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "How does the Domain Name System (DNS) streamline internet navigation for a user?",
+"options": [
+"By assigning an IP address dynamically based on the web browser used",
+"By converting user-friendly domain names like wikipedia.org into their equivalent numeric IP addresses",
+"By downloading web pages securely through HTTPS protocols",
+"By acting as a gateway between two dissimilar computer systems"
+],
+"answer": "By converting user-friendly domain names like wikipedia.org into their equivalent numeric IP addresses",
+"explanation": "Users prefer typing readable domain names (like www.wikipedia.org). The DNS (Domain Name System) functions seamlessly behind the scenes to convert these human-friendly Domain Names into the equivalent IP addresses assigned to the servers, allowing connection. This is explained on page 91.",
+"page_number": "91"
+},
+{
+"id": 81,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "Which of the following best contrasts the routing of data in a Hub versus a Switch?",
+"options": [
+"A Hub uses packet switching, while a Switch converts analog signals",
+"A Hub directs information generally around the network, while a Switch specifically connects devices using packet switching to increase speed",
+"A Hub connects dissimilar networks, while a Switch connects identical networks",
+"A Hub requires optical fibers, while a Switch only uses Wi-Fi"
+],
+"answer": "A Hub directs information generally around the network, while a Switch specifically connects devices using packet switching to increase speed",
+"explanation": "A Hub is a basic hardware device that simply directs information around the network to connected devices. In contrast, a Switch is more advanced, using packet switching to connect devices, which specifically helps in increasing overall network speed. This distinction is found on pages 88 and 92.",
+"page_number": "92"
+},
+{
+"id": 82,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "Why might an enterprise choose to set up an Intranet instead of utilizing the public Internet for sharing sensitive internal documents?",
+"options": [
+"Because Intranet uses Apache servers inherently",
+"Because an Intranet is a private network controlled securely within the enterprise, limiting public access",
+"Because the Internet does not support the transfer of HTML files",
+"Because an Intranet does not require any protocols like TCP/IP"
+],
+"answer": "Because an Intranet is a private network controlled securely within the enterprise, limiting public access",
+"explanation": "An Intranet is a private network controlled entirely within an enterprise. Organizations use it to share sensitive data securely, away from the public access typical of the global Internet, even though it may use similar technologies. This is detailed on page 91.",
+"page_number": "91"
+},
+{
+"id": 83,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "If a user wants to transfer secure financial data over the web and ensure the information cannot be easily intercepted and read by unauthorized parties, which protocol must the website implement?",
+"options": [
+"HTTP",
+"FTP",
+"HTTPS",
+"IMAP"
+],
+"answer": "HTTPS",
+"explanation": "HTTPS (Hyper Text Transfer Protocol Secure) is the secure version of HTTP. It converts the transmitted information into code (encryption) to prevent unauthorized access, making it essential for secure transfers like financial data. This is covered on page 93.",
+"page_number": "93"
+},
+{
+"id": 84,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "What structural weakness does the Star Topology share with the Tree Topology?",
+"options": [
+"Both require a ring-shaped cable layout",
+"Both suffer from high collision rates and packet loss",
+"Both are entirely dependent on a central hub or root node; if it fails, the reliant network goes down",
+"Both are completely wireless architectures"
+],
+"answer": "Both are entirely dependent on a central hub or root node; if it fails, the reliant network goes down",
+"explanation": "In Star Topology, if the central hub fails, the entire network goes down. Similarly, in Tree Topology, which uses a root hub, if the root node fails to operate, the entire reliant network fails. This shared vulnerability is detailed on page 94.",
+"page_number": "94"
+},
+{
+"id": 85,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "Which combination of networking devices is crucial for enabling a computer in a home network (LAN) to connect and communicate over the global Internet (WAN) via telephone lines?",
+"options": [
+"Hub and Switch",
+"Router and Modem",
+"Only a Gateway",
+"Only a Web Server"
+],
+"answer": "Router and Modem",
+"explanation": "To connect a local computer to the Internet via telephone lines, a Modem is necessary to convert digital signals to analog (and vice versa). Additionally, a Router is used to connect and facilitate data transfer between the home network and the external Internet. Both components are discussed on page 88.",
+"page_number": "88"
+},
+{
+"id": 86,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "In the context of the Client-Server architecture, what is the primary consequence if the designated server node crashes?",
+"options": [
+"Clients automatically become servers in a P2P fallback",
+"It would be difficult or impossible for clients to access shared network resources",
+"The network instantly converts analog signals to digital",
+"Data redundancy increases across the network"
+],
+"answer": "It would be difficult or impossible for clients to access shared network resources",
+"explanation": "In a Client-Server network, data and resources are stored centrally on the server. If this designated server fails, it leads to server failure, making it difficult or impossible for client computers to access those shared resources over the network. This disadvantage is stated on page 88.",
+"page_number": "88"
+},
+{
+"id": 87,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "Which wireless technology would be technically feasible to use for linking two computers placed 5 meters apart without internet access, to transfer large files continuously?",
+"options": [
+"Wi-Fi",
+"Bluetooth",
+"WAN",
+"Gateway"
+],
+"answer": "Bluetooth",
+"explanation": "Bluetooth provides a way to connect and exchange information between devices within a short range (less than 10 meters). It is ideal for a Personal Area Network (PAN) setup without internet access to transfer data between two computers in close proximity. This is noted on page 99.",
+"page_number": "99"
+},
+{
+"id": 88,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "How does the implementation of a central server directly lead to reduced redundancy?",
+"options": [
+"It copies every file to all client nodes",
+"It reduces redundancy by storing data once centrally rather than duplicating it at multiple client locations",
+"It creates multiple backup servers automatically",
+"It forces users to use pen drives for redundant storage"
+],
+"answer": "It reduces redundancy by storing data once centrally rather than duplicating it at multiple client locations",
+"explanation": "Data redundancy means duplication of data. A computer network helps reduce this by providing a single central server to store the data, so clients access it via requests rather than keeping multiple local copies. This advantage is detailed on page 88.",
+"page_number": "88"
+},
+{
+"id": 89,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "Why is the use of 'Hypertext' considered pivotal for navigating the World Wide Web?",
+"options": [
+"It acts as a firewall preventing unauthorized access",
+"It functions as a cross-reference link (Hyperlink) allowing users to jump directly between inter-linked web pages",
+"It is the physical server that stores website graphics",
+"It converts domain names into IP addresses"
+],
+"answer": "It functions as a cross-reference link (Hyperlink) allowing users to jump directly between inter-linked web pages",
+"explanation": "Hypertext is text used as a hyperlink, which acts as a cross-reference link within documents or between different documents. This linking mechanism is what connects web pages together to form navigable websites on the World Wide Web, as explained on page 92.",
+"page_number": "92"
+},
+{
+"id": 90,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "A network topology consists of 5 computers arranged in a line, attached to a single coaxial cable. Suddenly, computer 3 stops working completely, but the main cable is undamaged. What happens to the network?",
+"options": [
+"The entire network goes down immediately",
+"Computers 1, 2, 4, and 5 can continue communicating because the common backbone path is intact",
+"Data begins moving in a circular path instead",
+"The network automatically switches to a Star Topology"
+],
+"answer": "Computers 1, 2, 4, and 5 can continue communicating because the common backbone path is intact",
+"explanation": "This describes a Bus Topology where nodes connect to a single backbone cable. Because the failure is only in node 3 and not the main backbone cable itself, the other nodes attached to the common path can continue communicating. This characteristic is implied by the Bus Topology structure on page 93.",
+"page_number": "93"
+},
+{
+"id": 91,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "Which of the following accurately describes the relationship between a URL and a Domain Name?",
+"options": [
+"A Domain Name is a complete URL with 'https' included",
+"A URL is exactly the same as a Domain Name",
+"A Domain Name is a unique identifier that forms a part of a full URL",
+"A URL converts the Domain Name into an IP address"
+],
+"answer": "A Domain Name is a unique identifier that forms a part of a full URL",
+"explanation": "A URL (Uniform Resource Locator) indicates the complete address of a web page on the internet. A Domain Name (like facebook.com) is just the unique name that identifies the website and is a part of that larger URL string. This distinction is detailed on page 91.",
+"page_number": "91"
+},
+{
+"id": 92,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "In a corporate setup, if management decides they want a network model that heavily concentrates on allowing users direct access to each other's remote computers without a dedicated central server, which model should they choose?",
+"options": [
+"Client-Server Network Architecture",
+"Peer-to-Peer Network Architecture",
+"Domain Name System",
+"Hierarchical Tree Topology"
+],
+"answer": "Peer-to-Peer Network Architecture",
+"explanation": "Peer-to-Peer (P2P) network model concentrates on access to remote computers directly, where every node can demand and deliver services equally without a dedicated central server. This directly contrasts with the Client-Server model, as discussed on page 95.",
+"page_number": "95"
+},
+{
+"id": 93,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "What makes the implementation of Network Security a complex task for a Network Administrator?",
+"options": [
+"It requires buying expensive optical fiber cables",
+"It requires managing policies, authorizing users, and assigning unique IDs and passwords to prevent unauthorized data modification",
+"It requires physically locking every computer in a vault",
+"It requires using only analog transmission devices"
+],
+"answer": "It requires managing policies, authorizing users, and assigning unique IDs and passwords to prevent unauthorized data modification",
+"explanation": "Network security involves intricate tasks controlled by a network administrator, such as authorizing access, implementing approved policies, detecting misuse, and securely assigning unique IDs and passwords to users. This complexity is outlined under Network Security on page 95.",
+"page_number": "95"
+},
+{
+"id": 94,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "How do HTML Tags contribute to the creation of a Web page?",
+"options": [
+"They act as physical servers storing data",
+"They are special keywords used within the markup language to structure and create web pages containing multimedia and text",
+"They translate domain names into IP addresses automatically",
+"They prevent unauthorized access to the network"
+],
+"answer": "They are special keywords used within the markup language to structure and create web pages containing multimedia and text",
+"explanation": "HTML (Hypertext Markup Language) uses special keywords known as Tags. These tags are fundamental for creating and structuring the content of web pages, allowing the inclusion of text, graphics, and interactive features. This definition is given on page 92.",
+"page_number": "92"
+},
+{
+"id": 95,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "According to the 'Fact Byte' on bandwidth, how would you correctly express the bandwidth of an analog radio device versus a digital computer network?",
+"options": [
+"Analog in bps; Digital in Hz",
+"Analog in Hz; Digital in bps",
+"Both in bps",
+"Both in Hz"
+],
+"answer": "Analog in Hz; Digital in bps",
+"explanation": "The Fact Byte states that for digital devices, bandwidth is usually expressed in bits per second (bps) or bytes per second. For analog devices, the bandwidth is expressed in cycles per second, or Hertz (Hz). This crucial technical difference is on page 92.",
+"page_number": "92"
+},
+{
+"id": 96,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "If a user wants to configure their email client to download messages and immediately remove them from the server to save space, which protocol is best suited?",
+"options": [
+"IMAP",
+"SMTP",
+"POP3",
+"HTTPS"
+],
+"answer": "POP3",
+"explanation": "POP3 is an Internet standard protocol that allows email clients to retrieve email messages from a mail server. Unlike IMAP, which stores messages on the server for local viewing/editing, POP3 is traditionally used for retrieving/downloading. This distinction is covered on page 93.",
+"page_number": "93"
+},
+{
+"id": 97,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "Why is it stated that 'Protocols are required to conduct networking'?",
+"options": [
+"Because hardware devices alone cannot generate electrical power",
+"Because protocols are sets of rules that govern communication and specify how information must be packaged and sent over the network",
+"Because protocols are physical cables used to link computers",
+"Because protocols are websites that provide internet access"
+],
+"answer": "Because protocols are sets of rules that govern communication and specify how information must be packaged and sent over the network",
+"explanation": "To do networking effectively, hardware, software, and protocols are needed. A Protocol is a strict set of rules governing communication between computers on a network, dictating how data is packaged, sent, and received. This core concept is explained on page 93.",
+"page_number": "93"
+},
+{
+"id": 98,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "Which of the following scenarios best illustrates the application of a CAN?",
+"options": [
+"Connecting two smartphones via Bluetooth in a car",
+"Connecting the administrative building and library networks within a university campus spanning 3 km",
+"Connecting servers located in New York and Tokyo",
+"Connecting computers within a single small room"
+],
+"answer": "Connecting the administrative building and library networks within a university campus spanning 3 km",
+"explanation": "A Campus Area Network (CAN) interconnects multiple LANs within an educational institution or corporate campus over a limited geographic area of 1 km to 5 km. Connecting campus buildings fits this description perfectly, as seen on page 90.",
+"page_number": "90"
+},
+{
+"id": 99,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "What is the specific role of the TCP/IP protocol suite on the Internet?",
+"options": [
+"It is used exclusively to download files from an FTP server",
+"It provides the universal HTML tags for website building",
+"It links devices worldwide by governing communications and specifying how information should reach its destination",
+"It assigns domain names to newly created websites"
+],
+"answer": "It links devices worldwide by governing communications and specifying how information should reach its destination",
+"explanation": "TCP/IP (Transmission Control Protocol/Internet Protocol) is the backbone protocol of the Internet used for linking devices worldwide. It specifies exactly how information should be packaged, sent, received, and reach its destination. This is detailed on pages 91 and 93.",
+"page_number": "93"
+},
+{
+"id": 100,
+"subject": "Computer Networking",
+"chapter": "Computer Networking-MCQ-v1",
+"difficulty": "hard",
+"question": "When comparing Network Topologies, why might a business choose Star Topology over Mesh Topology despite Mesh being more robust?",
+"options": [
+"Because Star Topology uses a circular data path that is faster",
+"Because Mesh Topology is extremely high in overall cost due to massive cabling requirements, whereas Star is economical and reliable",
+"Because Mesh Topology relies on a vulnerable central hub",
+"Because Star Topology prevents all server failures automatically"
+],
+"answer": "Because Mesh Topology is extremely high in overall cost due to massive cabling requirements, whereas Star is economical and reliable",
+"explanation": "Mesh Topology connects every device to every other device, making it highly robust but extremely expensive. Star Topology, on the other hand, connects devices to a central hub, making it very reliable, economical, and much cheaper to deploy. This comparison stems from the topology details on pages 94 and 95.",
+"page_number": "95"
+}
+]
