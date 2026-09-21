@@ -1,0 +1,1753 @@
+[
+{
+"id":1,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is a Database Management System (DBMS)?",
+"answer":"A DBMS is a collection of programs that enables users to create, manage, modify, delete, search, query, sort, design, and print data in a database.",
+"keywords":[
+"collection of programs",
+"create and manage",
+"database"
+],
+"explanation":"This question tests the basic definition of DBMS as provided in the introduction of the chapter.",
+"page_number":"1"
+},
+{
+"id":2,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What does RDBMS stand for?",
+"answer":"RDBMS stands for Relational Database Management System.",
+"keywords":[
+"Relational",
+"Database",
+"Management",
+"System"
+],
+"explanation":"Assesses the student's knowledge of the full form of RDBMS, a fundamental concept in the chapter.",
+"page_number":"1"
+},
+{
+"id":3,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"What is SQL an acronym for?",
+"answer":"SQL is an acronym for Structured Query Language.",
+"keywords":[
+"Structured",
+"Query",
+"Language"
+],
+"explanation":"Tests the full form of SQL, which is highlighted in the Fact Byte section.",
+"page_number":"2"
+},
+{
+"id":4,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"Name any two database objects available in Access.",
+"answer":"Two database objects in Access are Tables and Queries.",
+"keywords":[
+"Tables",
+"Queries",
+"Forms",
+"Reports"
+],
+"explanation":"Students must recall the basic objects that make up an Access database.",
+"page_number":"2"
+},
+{
+"id":5,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is the purpose of the Navigation Pane in Access?",
+"answer":"The Navigation Pane is used to view, access, and manage all the database objects like tables, queries, forms, and reports in Access.",
+"keywords":[
+"view",
+"database objects",
+"left side"
+],
+"explanation":"Evaluates understanding of the Access interface and the role of the Navigation Pane.",
+"page_number":"2"
+},
+{
+"id":6,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"Where is the Search box located in the Access window?",
+"answer":"The Search box option is located at the bottom of the Access window.",
+"keywords":[
+"bottom",
+"Access window"
+],
+"explanation":"Tests the student's familiarity with the Access user interface for searching data.",
+"page_number":"6"
+},
+{
+"id":7,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is a form in Access?",
+"answer":"A form is a database object that provides a user-friendly interface to enter, change, and view data in a database.",
+"keywords":[
+"database object",
+"enter",
+"change",
+"view data"
+],
+"explanation":"Assesses the basic definition and utility of a form in MS Access.",
+"page_number":"12"
+},
+{
+"id":8,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is a report in Access used for?",
+"answer":"A report is an effective way to organise, summarise, and display formatted data for viewing and printing purposes.",
+"keywords":[
+"organise",
+"summarise data",
+"viewing",
+"printing"
+],
+"explanation":"Tests understanding of why reports are created in a database system.",
+"page_number":"16"
+},
+{
+"id":9,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"How is MySQL fundamentally different from SQL?",
+"answer":"SQL is a query language used to manipulate data, whereas MySQL is a Relational Database Management System (DBMS) that uses SQL to manage databases.",
+"keywords":[
+"query language",
+"DBMS",
+"manage databases"
+],
+"explanation":"Highlights the conceptual difference between a query language (SQL) and a database management system (MySQL).",
+"page_number":"2"
+},
+{
+"id":10,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"What is the purpose of the Toggle Filter button?",
+"answer":"The Toggle Filter button is used to remove an applied filter and show all records in the datasheet.",
+"keywords":[
+"remove filter",
+"Home tab",
+"Sort & Filter group"
+],
+"explanation":"Tests knowledge of specific ribbon commands used for filtering data.",
+"page_number":"6"
+},
+{
+"id":11,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Define a Select Query.",
+"answer":"A Select Query retrieves data from one or more tables, displays the record set in a datasheet, groups data, and calculates sums or averages.",
+"keywords":[
+"retrieves data",
+"displays record set",
+"datasheet"
+],
+"explanation":"Assesses understanding of the most common type of query in Access.",
+"page_number":"7"
+},
+{
+"id":12,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":25
+},
+"question":"What is the role of a primary key in establishing relationships?",
+"answer":"A primary key uniquely identifies each record in a table and matches with a foreign key to link two related tables.",
+"keywords":[
+"uniquely identifies",
+"matches foreign key",
+"link tables"
+],
+"explanation":"Tests the conceptual understanding of primary keys in RDBMS.",
+"page_number":"7"
+},
+{
+"id":13,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"Which view is used to enter, edit, and view data in a form?",
+"answer":"The Form view is used to enter, edit, and view data in a form.",
+"keywords":[
+"Form view",
+"enter",
+"edit",
+"view"
+],
+"explanation":"Evaluates knowledge of specific form views in Access.",
+"page_number":"12"
+},
+{
+"id":14,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"Name the three main views in which a form is displayed.",
+"answer":"The three main views for a form are Form view, Layout view, and Design view.",
+"keywords":[
+"Form view",
+"Layout view",
+"Design view"
+],
+"explanation":"Requires the student to recall the specific views available for form objects.",
+"page_number":"12"
+},
+{
+"id":15,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"Which view is used to see a preview of a report before printing?",
+"answer":"Print Preview is used to see a preview of a report before printing.",
+"keywords":[
+"Print Preview",
+"preview",
+"before printing"
+],
+"explanation":"Tests knowledge of report views and their specific functions.",
+"page_number":"16"
+},
+{
+"id":16,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"How do you access the Export-RTF File dialog box for a report?",
+"answer":"In the Print Preview Data group, click the drop-down arrow of the More button and select the required application.",
+"keywords":[
+"Data group",
+"More button",
+"Print Preview"
+],
+"explanation":"Assesses ability to navigate the ribbon for exporting reports.",
+"page_number":"17"
+},
+{
+"id":17,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Explain the function of the 'Show' row in the Query Design Grid.",
+"answer":"The Show row displays a check mark that indicates whether the field's information will be displayed when the query is run.",
+"keywords":[
+"check mark",
+"displayed",
+"run time"
+],
+"explanation":"Tests detailed knowledge of the Query Design Grid parameters.",
+"page_number":"10"
+},
+{
+"id":18,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What happens if you type criteria into more than one field in the 'Criteria' row of a query?",
+"answer":"Typing criteria into more than one field in the Criteria row sets the query to include only results that meet all the specified criteria simultaneously.",
+"keywords":[
+"more than one field",
+"meet all criteria",
+"simultaneously"
+],
+"explanation":"Evaluates understanding of complex criteria logic (AND logic) in Access queries.",
+"page_number":"10"
+},
+{
+"id":19,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"How does Access behave if it finds a single table with a one-to-many relationship when creating a form?",
+"answer":"Access automatically adds a datasheet to the form based on the related table or query when it finds a one-to-many relationship.",
+"keywords":[
+"one-to-many relationship",
+"adds a datasheet",
+"related table"
+],
+"explanation":"Tests knowledge of Access's automated relationship handling in forms (Smart Byte concept).",
+"page_number":"14"
+},
+{
+"id":20,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"Which group on the Design tab is used to apply conditional formatting to a form?",
+"answer":"Conditional formatting is applied by clicking the Conditional Formatting option in the Control Formatting group.",
+"keywords":[
+"Conditional Formatting",
+"Control Formatting group"
+],
+"explanation":"Assesses detail retention regarding advanced form formatting features.",
+"page_number":"15"
+},
+{
+"id":21,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":15
+},
+"question":"Name the four new tabs that appear on the ribbon when a report is created.",
+"answer":"The four tabs are Report Layout Design, Arrange, Format, and Page Setup.",
+"keywords":[
+"Report Layout Design",
+"Arrange",
+"Format",
+"Page Setup"
+],
+"explanation":"Tests memory of the specific contextual tabs that appear for Reports.",
+"page_number":"16"
+},
+{
+"id":22,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What is the main difference between Layout view and Design view for formatting a report?",
+"answer":"Layout view lets you edit the design while viewing data, whereas Design view displays the report's structure to add headers and footers without showing real data.",
+"keywords":[
+"edit design",
+"viewing data",
+"structure",
+"headers"
+],
+"explanation":"Compares two similar views to test deep understanding of Access UI features.",
+"page_number":"16"
+},
+{
+"id":23,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Why are traditional databases like SQL and Access not used for capturing Big Data?",
+"answer":"The size and volume of Big Data are so immense and continuous that traditional databases cannot handle capturing, manipulating, or processing it effectively.",
+"keywords":[
+"huge size",
+"traditional databases",
+"cannot be used"
+],
+"explanation":"Tests understanding of the limitations of traditional RDBMS compared to modern Big Data technologies.",
+"page_number":"20"
+},
+{
+"id":24,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Mention one way the Internet of Things (IoT) contributes to Big Data.",
+"answer":"IoT internet-enabled devices continuously capture and transmit massive volumes of real-time data, which accumulates into Big Data.",
+"keywords":[
+"internet-enabled devices",
+"massive volumes",
+"real-time data"
+],
+"explanation":"Evaluates comprehension of how modern technologies generate big data.",
+"page_number":"20"
+},
+{
+"id":25,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What is the function of Tables and Reports in an Access database?",
+"answer":"Tables contain the actual data organised in rows and columns. Reports are used to display, organise, and print this formatted data effectively.",
+"keywords":[
+"actual data",
+"rows and columns",
+"display",
+"print formatted data"
+],
+"explanation":"Requires defining two core database objects succinctly.",
+"page_number":"2"
+},
+{
+"id":26,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"How can you sort data alphabetically in a table?",
+"answer":"Open the table in Datasheet View, click the drop-down arrow next to the field name, and select 'Sort A to Z' to sort in ascending order.",
+"keywords":[
+"Datasheet View",
+"drop-down arrow",
+"Sort A to Z"
+],
+"explanation":"Tests the practical steps to perform a basic sort operation.",
+"page_number":"2-3"
+},
+{
+"id":27,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What happens to the records after clicking Sort A to Z or Sort Z to A?",
+"answer":"The records get arranged in ascending or descending order. Additionally, a small upward or downward arrow appears in the sorted field name header.",
+"keywords":[
+"arranged",
+"ascending or descending",
+"upward/downward arrow"
+],
+"explanation":"Assesses visual changes in the Access interface after a sort is applied.",
+"page_number":"3"
+},
+{
+"id":28,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"How can you remove a sort option applied to a table?",
+"answer":"To undo or clear a sort option, click on the Remove Sort option located in the Sort & Filter group under the Home tab.",
+"keywords":[
+"Remove Sort option",
+"Sort & Filter group",
+"Home tab"
+],
+"explanation":"Tests the ability to reverse a sorting operation using the ribbon.",
+"page_number":"3"
+},
+{
+"id":29,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What are the two methods of creating a query mentioned in Access?",
+"answer":"The two methods available for creating a query in Access are Query Design and Query Wizard.",
+"keywords":[
+"Query Design",
+"Query Wizard"
+],
+"explanation":"Simple recall question regarding query creation methods.",
+"page_number":"9"
+},
+{
+"id":30,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What is the simplest way to generate a report from a base table?",
+"answer":"Open a database, select the base table or query in the Navigation pane, click on the Create tab, and then click the Report option in the Reports group.",
+"keywords":[
+"Navigation pane",
+"Create tab",
+"Report option"
+],
+"explanation":"Tests the basic workflow for generating an instant report.",
+"page_number":"16"
+},
+{
+"id":31,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":45
+},
+"question":"Why has the term 'Big Data' been defined over the last few decades?",
+"answer":"The term was defined because the world has experienced an extensive availability and exponential growth of data, expanding its roots across all domains.",
+"keywords":[
+"extensive availability",
+"exponential growth",
+"expanding roots"
+],
+"explanation":"Evaluates understanding of the origin and meaning of Big Data from the reading material.",
+"page_number":"20"
+},
+{
+"id":32,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Mention four industries where Big Data applications are playing a major role.",
+"answer":"Big Data applications play a major role in hospitals (healthcare), manufacturing, media, entertainment, IoT, and Government.",
+"keywords":[
+"hospitals",
+"manufacturing",
+"media",
+"entertainment"
+],
+"explanation":"Tests recall of real-world sectors impacted by Big Data as stated in the text.",
+"page_number":"20"
+},
+{
+"id":33,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Compare the use of sorting and filtering in a database.",
+"answer":"Sorting rearranges all records in an ascending or descending order, whereas filtering hides unwanted records and displays only those that meet a specific user-defined criterion.",
+"keywords":[
+"rearranges",
+"ascending or descending",
+"hides unwanted",
+"specific criterion"
+],
+"explanation":"Requires differentiating between two core data manipulation techniques.",
+"page_number":"2"
+},
+{
+"id":34,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":45
+},
+"question":"How does the search function highlight matching records in a datasheet?",
+"answer":"When you type a partial or entire word in the Search box, Access highlights the corresponding characters in the first record that matches the search criteria.",
+"keywords":[
+"highlights corresponding characters",
+"first record",
+"matches criteria"
+],
+"explanation":"Tests understanding of how the UI behaves during a search operation.",
+"page_number":"6"
+},
+{
+"id":35,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":45
+},
+"question":"Explain what a Parameter Query is in Access.",
+"answer":"A Parameter Query is a type of select query that prompts the user for input before it executes. It uses this input as the criteria to control the result.",
+"keywords":[
+"prompts input",
+"before executed",
+"criteria controls result"
+],
+"explanation":"Evaluates understanding of a specific query type.",
+"page_number":"7"
+},
+{
+"id":36,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What is an Action Query used for?",
+"answer":"An Action Query is used to alter your data or database by creating new tables, or by adding, deleting, updating, and appending data from it.",
+"keywords":[
+"alters data",
+"creating new tables",
+"adding, deleting, updating"
+],
+"explanation":"Tests knowledge of query types that modify data rather than just retrieving it.",
+"page_number":"7"
+},
+{
+"id":37,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What indicates that two tables have been linked in the Relationships window?",
+"answer":"After clicking the Create button, a line linking the two tables appears in the Relationships window, indicating they are linked based on the selected common field.",
+"keywords":[
+"line linking",
+"Relationships window",
+"common field"
+],
+"explanation":"Tests visual recognition of established relationships in the software UI.",
+"page_number":"8"
+},
+{
+"id":38,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What is the Object Relationship Pane in the Query Design screen?",
+"answer":"It is the upper section of the Query window that displays the selected tables as small windows, showing a list of their respective fields.",
+"keywords":[
+"upper section",
+"selected tables",
+"small windows",
+"list of fields"
+],
+"explanation":"Assesses layout knowledge of the Query Design window.",
+"page_number":"9"
+},
+{
+"id":39,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":45
+},
+"question":"State the purpose of the Title and Date and Time options in form formatting.",
+"answer":"The Title option is used to modify the title of the form, while the Date and Time option displays the current date and time in a required format.",
+"keywords":[
+"modify title",
+"displays date and time",
+"required format"
+],
+"explanation":"Tests knowledge of specific formatting controls used in forms.",
+"page_number":"15"
+},
+{
+"id":40,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":15,
+"max":35
+},
+"question":"Mention any four options that can be changed from the Print dialog box for a report.",
+"answer":"In the Print dialog box, you can change print options, page orientation, page setup, margin width, and page size.",
+"keywords":[
+"print options",
+"page orientation",
+"margin width",
+"page size"
+],
+"explanation":"Evaluates knowledge of printing parameters available in Access.",
+"page_number":"16"
+},
+{
+"id":41,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"Why is a database comparable to an automated version of a paper filing system?",
+"answer":"Like a paper filing system, a database stores related information in a planned manner. However, being automated, it allows easy and logical organisation, making retrieval, sorting, and querying much faster and more accurate.",
+"keywords":[
+"planned manner",
+"logical organisation",
+"retrieval",
+"faster and accurate"
+],
+"explanation":"Requires analytical thinking to compare manual and digital data management.",
+"page_number":"1"
+},
+{
+"id":42,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"Explain how AI utilizes Big Data to make better decisions.",
+"answer":"Big data forms the basis for machine learning, which builds AI. AI processes this massive data for predictive models, text interpretation, and forecasting, allowing companies to improve efficiency, reduce costs, and predict customer demands.",
+"keywords":[
+"machine learning",
+"predictive models",
+"improve efficiency",
+"predict demands"
+],
+"explanation":"Tests synthesis of concepts linking Big Data and Artificial Intelligence.",
+"page_number":"20"
+},
+{
+"id":43,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Define a Foreign key and explain its relation to a Primary key.",
+"answer":"A foreign key is a value in one table that uniquely links to the primary key of another table. It is essential for establishing relationships and ensuring data matches correctly across multiple tables.",
+"keywords":[
+"value in one table",
+"match primary key",
+"establishing relationships"
+],
+"explanation":"Assesses understanding of relational database keys and their interconnectivity.",
+"page_number":"7"
+},
+{
+"id":44,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"What is the difference between Layout view and Design view when working with Forms?",
+"answer":"Layout view allows you to change the form design and size of controls while seeing the actual data. Design view gives a more detailed structure view with header, detail, and footer sections without displaying live data.",
+"keywords":[
+"see actual data",
+"detailed structure",
+"header and footer"
+],
+"explanation":"Tests distinguishing between two form formatting views.",
+"page_number":"12-13"
+},
+{
+"id":45,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":45
+},
+"question":"Explain the function of the 'Or' row in the Query Design Grid.",
+"answer":"The 'Or' row in the Query Design Grid is used to set multiple alternative conditions for filtering records. If a record meets either the criteria in the Criteria row or the Or row, it is displayed.",
+"keywords":[
+"multiple conditions",
+"alternative",
+"either criteria"
+],
+"explanation":"Evaluates logical understanding of query criteria settings.",
+"page_number":"10"
+},
+{
+"id":46,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"How do you sort manually and customise the display order in the Navigation Pane?",
+"answer":"To sort manually, right-click the top of the Navigation Pane, point to Sort By, and then click on 'Remove Automatic Sorts' to customize the display order.",
+"keywords":[
+"right-click",
+"Sort By",
+"Remove Automatic Sorts"
+],
+"explanation":"Tests a specific, easily overlooked UI customization feature.",
+"page_number":"5"
+},
+{
+"id":47,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"Why is Big Data important for developing predictive models for new products?",
+"answer":"Big data provides vast amounts of consumer insights, usage patterns, and market trends. AI analyzes these massive datasets to anticipate customer demands and forecast outcomes, which is essential for building predictive models for new products.",
+"keywords":[
+"consumer insights",
+"anticipate customer demands",
+"forecast outcomes"
+],
+"explanation":"Requires linking business strategy with big data concepts.",
+"page_number":"20"
+},
+{
+"id":48,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"How does a Crosstab Query help in analyzing data?",
+"answer":"A Crosstab Query uses both row headings and column headings to summarize and display data in a compact, spreadsheet-like format, allowing users to see data evaluated in terms of two categories at once.",
+"keywords":[
+"row and column headings",
+"summarize",
+"two categories at once"
+],
+"explanation":"Tests knowledge of advanced query types.",
+"page_number":"7"
+},
+{
+"id":49,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":80
+},
+"question":"Explain the concept of a Relational Database Management System (RDBMS) with a suitable example.",
+"answer":"A Relational Database Management System (RDBMS), such as MS Access, is a DBMS that stores data in related tables rather than a single flat file. This reduces duplication. For example, a table comprising student data like names and addresses can be related to another table containing their marks using a common field like Roll Number.",
+"keywords":[
+"stores data in related tables",
+"MS Access",
+"student data",
+"marks",
+"common field"
+],
+"explanation":"Assesses understanding of RDBMS fundamentals and ability to provide a contextual example.",
+"page_number":"1"
+},
+{
+"id":50,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":90
+},
+"question":"Describe Tables, Queries, and Forms as database objects in Access.",
+"answer":"Tables contain the actual data organised in rows and columns. Queries are used to search and retrieve data from one or more database tables that meet specific criteria. Forms help display data in a user-friendly format, allowing users to enter, update, and view one record at a time efficiently.",
+"keywords":[
+"rows and columns",
+"search and retrieve",
+"specific criteria",
+"user-friendly format",
+"enter and update"
+],
+"explanation":"Requires summarizing three primary database objects.",
+"page_number":"2"
+},
+{
+"id":51,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":80
+},
+"question":"Write down the steps to find specific data in a database using the Search box.",
+"answer":"To search for specific data, follow these steps: First, locate the Search box at the bottom of the Access window. Second, type a partial or entire word, phrase, date, or number in the box and press Enter. Access highlights the matching characters. To find the next match, press Enter again.",
+"keywords":[
+"Search box",
+"bottom",
+"type partial or entire word",
+"press Enter",
+"highlights characters"
+],
+"explanation":"Tests procedural knowledge for searching records.",
+"page_number":"6"
+},
+{
+"id":52,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Discuss the concept of Queries and why they are useful. Provide an example scenario.",
+"answer":"Queries are a way of searching, collecting, and calculating data from multiple tables by asking a question to the database based on specific conditions. They are useful for retrieving exact information. For example, if you have student addresses in one table and marks in another, a query can extract a list showing student names and their mailing addresses together.",
+"keywords":[
+"searching and collecting",
+"asking a question",
+"specific conditions",
+"student addresses",
+"extract list"
+],
+"explanation":"Evaluates understanding of queries and practical use cases.",
+"page_number":"7"
+},
+{
+"id":53,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":80
+},
+"question":"Write the initial steps to create a new form using the Form option from the Create tab.",
+"answer":"To create a form, select the table or query in the Navigation Pane that contains the required data. Click on the Create tab on the ribbon. In the Forms group, click the Form option. A new form automatically appears in the Form Design window, opening in the Layout view by default.",
+"keywords":[
+"Navigation Pane",
+"Create tab",
+"Forms group",
+"Form option",
+"Layout view"
+],
+"explanation":"Tests procedural knowledge for basic form creation.",
+"page_number":"13"
+},
+{
+"id":54,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":75
+},
+"question":"What is a report? Write the steps to save a newly created report.",
+"answer":"A report is a database object used to organise, summarise, and print formatted data. After creating a report, you can save it by clicking on the Save option on the Quick Access Toolbar. The Save As dialog box appears; type the report name and click OK. The Report object gets added to the Navigation Pane.",
+"keywords":[
+"organise and summarise",
+"Save option",
+"Quick Access Toolbar",
+"Navigation Pane"
+],
+"explanation":"Tests definition and the specific steps to save a report.",
+"page_number":"16"
+},
+{
+"id":55,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":70
+},
+"question":"Mention the steps to change the print options like page setup and margin width before printing a report.",
+"answer":"To print a report and change settings, select the File tab and click on the Print option, or select Print Preview. In the Print dialog box, you can modify the Print options, Page orientation, Page setup, margin width, and page size. Finally, apply the effects by clicking the OK button.",
+"keywords":[
+"File tab",
+"Print option",
+"Print Preview",
+"Page orientation",
+"margin width"
+],
+"explanation":"Evaluates understanding of print preparation in Access.",
+"page_number":"16"
+},
+{
+"id":56,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":85
+},
+"question":"Why has Big Data expanded recently, and how is its size different from traditional data?",
+"answer":"Big data has expanded due to the extensive availability and exponential growth of data across domains like banking, healthcare, and transportation over the last few decades. Its size is so massive and continuous that traditional databases like SQL or Access cannot capture, manipulate, or process it, requiring advanced AI technologies instead.",
+"keywords":[
+"exponential growth",
+"massive size",
+"traditional databases",
+"cannot capture"
+],
+"explanation":"Tests basic comprehension of the Big Data introduction.",
+"page_number":"20"
+},
+{
+"id":57,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":95
+},
+"question":"Write the complete steps to apply a filter to a column in a datasheet to view specific records.",
+"answer":"To filter data, first move the mouse pointer to the column you want to filter. Click the drop-down arrow on the right of the column header. By default, Access selects all checkboxes under Text Filters. Click 'Select All' to deselect everything. Then, select only the specific checkboxes for the items you want to view and click OK. The rest will be hidden.",
+"keywords":[
+"column header",
+"drop-down arrow",
+"Select All",
+"deselect",
+"specific checkboxes"
+],
+"explanation":"Tests procedural knowledge of applying data filters.",
+"page_number":"5"
+},
+{
+"id":58,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":90
+},
+"question":"How do you access and change how objects are displayed and sorted in the Navigation Pane?",
+"answer":"To change these settings, right-click on the top of the Navigation Pane to display the shortcut menu. To change the display format, point to 'View By' and select Details, Icon, or List. To change the sorting order, point to 'Sort By' and choose a sorting option, or select 'Remove Automatic Sorts' to sort manually.",
+"keywords":[
+"right-click",
+"shortcut menu",
+"View By",
+"Details, Icon, List",
+"Sort By"
+],
+"explanation":"Evaluates knowledge of workspace customization.",
+"page_number":"5"
+},
+{
+"id":59,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":95
+},
+"question":"Explain Select Query, Parameter Query, and Action Query in detail.",
+"answer":"A Select Query retrieves data from tables, displays the recordset, and calculates sums or counts. A Parameter Query is a type of select query that prompts the user for specific input before execution to control the result. An Action Query is used to alter data or databases by creating new tables, deleting, appending, or updating existing data.",
+"keywords":[
+"retrieves data",
+"prompts the user",
+"control the result",
+"alter data",
+"appending or updating"
+],
+"explanation":"Tests the distinction between three main query types.",
+"page_number":"7"
+},
+{
+"id":60,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":90
+},
+"question":"Provide the steps to open the Relationships window and add tables to it.",
+"answer":"Open one of the tables in Datasheet view. Click on the Database Tools tab and click Relationships in the Relationships group. The Show Table dialog box appears. Select the required table and click the Add button. Add other required tables similarly. Finally, click the Close button to shut the Show Table dialog box.",
+"keywords":[
+"Database Tools tab",
+"Relationships group",
+"Show Table dialog box",
+"Add button",
+"Close button"
+],
+"explanation":"Tests procedural steps for initiating database relationships.",
+"page_number":"8"
+},
+{
+"id":61,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":90
+},
+"question":"Write down the steps to create a query using Query Design until the Show Table dialog is closed.",
+"answer":"Open the database and click the Query Design option from the Queries group under the Create tab. Access switches to Query Design view, displaying the Show Table dialog box. Double-click a table to add it, or select it and click Add. Repeat for related tables. Once finished, click Close to shut the Show Table dialog box.",
+"keywords":[
+"Query Design option",
+"Queries group",
+"Create tab",
+"Show Table dialog box",
+"Double-click"
+],
+"explanation":"Evaluates procedural memory for setting up a new manual query.",
+"page_number":"9"
+},
+{
+"id":62,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Define the Field, Table, and Sort parameters present in the Design Grid of a query.",
+"answer":"In the Design Grid, 'Field' is the first row that displays the selected field names from the table. 'Table' displays the name of the existing tables included in the Relationships window. 'Sort' allows the user to organise and display the queried data in either ascending or descending order.",
+"keywords":[
+"selected field names",
+"name of existing tables",
+"organise and display",
+"ascending or descending"
+],
+"explanation":"Tests knowledge of specific grid components in Query Design.",
+"page_number":"10"
+},
+{
+"id":63,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Describe the steps to save and run a newly created query from the Design tab.",
+"answer":"To see the output, click on the Run button in the Results group on the Design tab. To save it, click Save on the Quick Access Toolbar or the File tab. If saving for the first time, the Save As dialog box appears. Type the desired query name and click OK.",
+"keywords":[
+"Run button",
+"Results group",
+"Save As dialog box",
+"Quick Access Toolbar"
+],
+"explanation":"Tests procedural knowledge to execute and save queries.",
+"page_number":"10-11"
+},
+{
+"id":64,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":95
+},
+"question":"Explain the process of creating a query using the Simple Query Wizard.",
+"answer":"Click Query Wizard in the Queries group on the Create tab. In the New Query dialog box, select Simple Query Wizard and click OK. Choose the required table and move desired fields to the Selected Fields box using the > button. Click Next, follow the on-screen directions, provide a title, and click Finish to view the datasheet.",
+"keywords":[
+"Query Wizard",
+"Create tab",
+"Simple Query Wizard",
+"Selected Fields box",
+"Finish"
+],
+"explanation":"Tests step-by-step knowledge of wizard-based query creation.",
+"page_number":"11-12"
+},
+{
+"id":65,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":85
+},
+"question":"How can a user add or remove fields while using the Simple Query Wizard dialog box?",
+"answer":"In the wizard, use the '>' button to move individual selected fields to the Selected Fields box, or the '>>' button to add all fields at once. To remove fields, select them and click the '<' button, or use the '<<' button to remove all fields from the Selected Fields box.",
+"keywords":[
+"> button",
+">> button",
+"< button",
+"<< button",
+"Selected Fields box"
+],
+"explanation":"Evaluates familiarity with specific dialog box controls in wizards.",
+"page_number":"11"
+},
+{
+"id":66,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":95
+},
+"question":"Discuss the three main views (Form view, Layout view, Design view) in which a form is displayed.",
+"answer":"Form view provides the interface to enter, edit, and view actual data safely. Layout view is used for changing the appearance, setting the size of controls, and modifying design while viewing real data. Design view gives a detailed structural view showing the header, detail, and footer sections without displaying actual record data.",
+"keywords":[
+"enter and edit",
+"changing appearance",
+"size of controls",
+"detailed structural view",
+"header and footer"
+],
+"explanation":"Tests comparative understanding of form views.",
+"page_number":"12-13"
+},
+{
+"id":67,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":85
+},
+"question":"Explain how you can modify the data and navigate through records using a Form.",
+"answer":"To edit or enter data, switch to Form View by clicking the Home tab, clicking the View button's drop-down, and selecting Form View. Once in Form view, you can change the records by clicking the fields and using the Navigation bar at the bottom to move forward or backward through the records.",
+"keywords":[
+"Form View",
+"View button",
+"Navigation bar",
+"move forward or backward"
+],
+"explanation":"Assesses practical knowledge of entering and navigating data in forms.",
+"page_number":"14"
+},
+{
+"id":68,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":90
+},
+"question":"When is it appropriate to use the Form Wizard or the Split Form option instead of the basic Form option?",
+"answer":"Use the Form Wizard when you want specific control to define which fields appear, how data is grouped and sorted, or to include fields from multiple tables or queries. Use the Split Form option (from More Forms) when you need to simultaneously see a form view and a datasheet view of the same data.",
+"keywords":[
+"define which fields",
+"grouped and sorted",
+"multiple tables",
+"Split Form",
+"datasheet view"
+],
+"explanation":"Tests decision-making regarding different form creation tools.",
+"page_number":"15"
+},
+{
+"id":69,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":80
+},
+"question":"Detail the steps to create a report using the base table from the Navigation pane.",
+"answer":"First, open the database and select the desired base table or query in the Navigation pane. Next, click on the Create tab on the ribbon. Go to the Reports group and click on the Report option. Access instantly generates a report displaying all the fields of the selected table.",
+"keywords":[
+"base table",
+"Navigation pane",
+"Create tab",
+"Reports group",
+"generates a report"
+],
+"explanation":"Tests procedural knowledge for creating quick reports.",
+"page_number":"16"
+},
+{
+"id":70,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":80
+},
+"question":"Explain the step-by-step process to export a report to an RTF file.",
+"answer":"To export a report, open it and select the Print Preview option. In the Data group, click on the drop-down arrow of the More button and select the desired application format. The Export-RTF File dialog box will appear. Select the destination location in the box and click the OK button.",
+"keywords":[
+"Print Preview",
+"Data group",
+"More button",
+"Export-RTF File",
+"destination location"
+],
+"explanation":"Evaluates understanding of exporting Access reports to other software formats.",
+"page_number":"17"
+},
+{
+"id":71,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":90
+},
+"question":"Describe the impact of Big Data on organisations analyzing hidden patterns and market trends.",
+"answer":"Big Data has revolutionised industry domains by allowing organisations to scrutinize large datasets—such as web server logs, streaming data, and IoT sensor metrics. By investing in Big Data applications, companies can identify hidden patterns, unknown correlations, market trends, and customer preferences, giving them crucial insights for better business decisions.",
+"keywords":[
+"scrutinize large datasets",
+"hidden patterns",
+"market trends",
+"customer preferences",
+"business decisions"
+],
+"explanation":"Tests understanding of Big Data analytics benefits.",
+"page_number":"20"
+},
+{
+"id":72,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":85
+},
+"question":"Explain any three significant applications of AI-powered technologies that rely on Big Data.",
+"answer":"AI-powered technologies heavily rely on Big Data for machine learning applications. Three significant applications include image processing, voice recognition, and text interpretation. These technologies process massive datasets to enable predictions, automate decision-making, and solve complex problems efficiently across various business domains.",
+"keywords":[
+"image processing",
+"voice recognition",
+"text interpretation",
+"predictions",
+"decision making"
+],
+"explanation":"Tests knowledge of AI applications mentioned in the Big Data section.",
+"page_number":"20"
+},
+{
+"id":73,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":100
+},
+"question":"Explain the process of defining query criteria for multiple fields and what happens if criteria are set in the 'Or' row.",
+"answer":"To define criteria, click on the cell in the Criteria row for a specific field and type the condition. If you type criteria into multiple fields in the same Criteria row, the query acts like an 'AND' logic, showing records meeting all conditions. However, if you type criteria in the 'Or' row beneath it, the query includes results that meet either the primary criteria or the alternate criteria.",
+"keywords":[
+"Criteria row",
+"multiple fields",
+"meet all conditions",
+"Or row",
+"alternate criteria"
+],
+"explanation":"Evaluates complex logical query building (AND/OR operators).",
+"page_number":"10"
+},
+{
+"id":74,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":100
+},
+"question":"Describe the complete process to create a relationship between two tables, including the use of Primary and Foreign keys.",
+"answer":"Open a table in Datasheet view, go to Database Tools, and click Relationships. Add both tables using the Show Table dialog box. To link them, click and hold the primary key field of the first table, drag the pointer to the common foreign key field in the second table, and release. The Edit Relationships dialog opens; click Create. A linking line will appear indicating a successful relationship.",
+"keywords":[
+"Database Tools",
+"Show Table",
+"primary key",
+"foreign key field",
+"Edit Relationships",
+"linking line"
+],
+"explanation":"Tests comprehensive understanding of table relationships and UI interaction.",
+"page_number":"7-8"
+},
+{
+"id":75,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":85
+},
+"question":"How do you add a field to the Design Grid using two different methods in Query Design view?",
+"answer":"Method 1: Double-click on the field name in the Object Relationship pane that you want to add; it will automatically be placed in the first vacant column of the Design Grid. Method 2: Click on the field and drag it down to the required column in the Design Grid, or simply type the field name directly into the grid.",
+"keywords":[
+"Double-click",
+"first vacant column",
+"drag it",
+"type the field name"
+],
+"explanation":"Evaluates detailed knowledge of the Query Design UI functionality.",
+"page_number":"10"
+},
+{
+"id":76,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":90
+},
+"question":"Detail the formatting changes you can apply to a form, specifically themes, background image, and font size.",
+"answer":"In Layout view, you can change the theme by selecting the Themes option in the Themes group under the Design tab. You can add a background image using the Background Image option in the Background group on the Format tab. Additionally, you can modify the font size using various commands present in the Format tab.",
+"keywords":[
+"Themes option",
+"Design tab",
+"Background Image",
+"Background group",
+"Format tab",
+"font size"
+],
+"explanation":"Tests knowledge of formatting elements distributed across different ribbon tabs.",
+"page_number":"15"
+},
+{
+"id":77,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":95
+},
+"question":"Explain the four different ways or formats in which you can view a report in Access.",
+"answer":"Reports can be viewed in four ways: Report view displays the data but doesn't allow changes. Print Preview lets you see the report exactly as it will look when printed. Layout view allows formatting and editing the design while viewing actual data. Design view shows the structural skeleton, used to add headers, footers, and complex design changes without showing records.",
+"keywords":[
+"Report view",
+"Print Preview",
+"Layout view",
+"Design view",
+"structural skeleton"
+],
+"explanation":"Evaluates deep understanding of view functionalities for reports.",
+"page_number":"16"
+},
+{
+"id":78,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":95
+},
+"question":"How do machine learning, Big Data, and Artificial Intelligence interconnect to improve customer service and decision-making?",
+"answer":"Big data provides the massive volume of relevant historical and real-time data required to train machine learning algorithms, which form the building blocks of Artificial Intelligence. By analyzing these huge datasets for hidden patterns and trends, AI creates predictive models that help companies make accurate forecasts, reduce costs, improve efficiency, and anticipate customer demands, thus enhancing decision-making.",
+"keywords":[
+"building block",
+"train machine learning",
+"hidden patterns",
+"predictive models",
+"anticipate demands"
+],
+"explanation":"Requires synthesizing advanced technical concepts from the reading material.",
+"page_number":"20"
+},
+{
+"id":79,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":95
+},
+"question":"Analyze how companies like Netflix utilize Big Data and IoT devices to increase efficiency and predict product performance.",
+"answer":"Companies like Netflix use Big Data for product development and to predict audience preferences by analyzing usage patterns. Simultaneously, Internet of Things (IoT) devices continuously gather real-time data from users. Companies extract this IoT data to monitor customer usage patterns and product performance, optimizing scheduling and increasing overall business efficiency based on actual user behavior.",
+"keywords":[
+"predict audience preferences",
+"IoT devices",
+"real-time data",
+"usage patterns",
+"product performance"
+],
+"explanation":"Tests analytical application of Big Data concepts in real-world business scenarios mentioned in the text.",
+"page_number":"20-21"
+},
+{
+"id":80,
+"subject":"Computer Science",
+"chapter":"Tables, Queries, Forms and Reports in Access-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":85
+},
+"question":"What is the role of government in innovating Big Data applications across various domains like cyber security and scientific research?",
+"answer":"The government plays an important role by leveraging Big Data for national interests and public welfare. They innovate applications across critical domains such as enhancing cyber security and intelligence, enabling effective crime prediction and prevention, assisting in advanced scientific research, and ensuring tax compliance through the analysis of massive datasets.",
+"keywords":[
+"cyber security",
+"intelligence",
+"crime prediction",
+"scientific research",
+"tax compliance"
+],
+"explanation":"Evaluates understanding of governmental application of modern data technologies from the reading material.",
+"page_number":"21"
+}
+]
