@@ -1,0 +1,1617 @@
+[
+  {
+    "id": 1,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What does the acronym DBMS stand for in computer science?",
+    "options": [
+      "Data Base Management Software",
+      "Database Management System",
+      "Data Backup Management System",
+      "Database Manipulation System"
+    ],
+    "answer": "Database Management System",
+    "explanation": "DBMS stands for Database Management System. It is a collection of programs that enables a user to create, access, modify, and manage a database efficiently. This foundational concept of database management is discussed on page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 2,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which of the following is an example of a Relational Database Management System (RDBMS)?",
+    "options": [
+      "MS Word",
+      "MS Excel",
+      "MS Access",
+      "MS PowerPoint"
+    ],
+    "answer": "MS Access",
+    "explanation": "MS Access is an example of a Relational Database Management System (RDBMS). It stores data in related tables, which allows users to ask questions and link data across multiple tables. This is mentioned on page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 3,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What does the acronym SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "System Query Language",
+      "Standard Query Language",
+      "Sequential Query Language"
+    ],
+    "answer": "Structured Query Language",
+    "explanation": "SQL is an acronym for Structured Query Language. It is a computer language used to access, manipulate, insert, update, and retrieve information from a database. This definition is provided on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 4,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the simplest way to view all database objects in Access?",
+    "options": [
+      "Status Bar",
+      "Navigation Pane",
+      "Title Bar",
+      "Ribbon"
+    ],
+    "answer": "Navigation Pane",
+    "explanation": "The simplest way to view all database objects in MS Access is by using the Navigation Pane. It appears by default along the left-side of the workspace when a database is opened. This is described on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 5,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which database object contains the actual data in the form of rows and columns?",
+    "options": [
+      "Forms",
+      "Queries",
+      "Reports",
+      "Tables"
+    ],
+    "answer": "Tables",
+    "explanation": "Tables are the foundational database objects that contain the actual data. In a relational database, this data is organized systematically in the form of rows and columns. This is mentioned on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 6,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which object in Access is used to search and retrieve data from one or more database tables?",
+    "options": [
+      "Tables",
+      "Queries",
+      "Reports",
+      "Forms"
+    ],
+    "answer": "Queries",
+    "explanation": "Queries are database objects specifically used to search and retrieve data from one or more tables that meet a specific criterion. They act like questions asked to the database. This is explained on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 7,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which database object helps display data in a specific formatted manner on the screen?",
+    "options": [
+      "Queries",
+      "Tables",
+      "Forms",
+      "Reports"
+    ],
+    "answer": "Forms",
+    "explanation": "Forms are database objects that help display data in a specific, user-friendly format on the screen. They allow users to enter, change, and view data easily one record at a time. This concept is introduced on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 8,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which object is primarily used to display and print formatted data?",
+    "options": [
+      "Reports",
+      "Forms",
+      "Tables",
+      "Queries"
+    ],
+    "answer": "Reports",
+    "explanation": "Reports are database objects designed specifically to display and print formatted data. They summarize and organize information for effective presentation and physical printing. This is stated on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 9,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "How can you access any object displayed in the Navigation Pane?",
+    "options": [
+      "By right-clicking and selecting delete",
+      "By single-clicking on it",
+      "By dragging it to the desktop",
+      "By double-clicking on it"
+    ],
+    "answer": "By double-clicking on it",
+    "explanation": "You can easily access and open any database object in the Navigation Pane by double-clicking on it. This action opens the selected object in the main workspace for viewing or editing. This instruction is found on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 10,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the process of rearranging all the records in a table called?",
+    "options": [
+      "Filtering",
+      "Sorting",
+      "Querying",
+      "Formatting"
+    ],
+    "answer": "Sorting",
+    "explanation": "Sorting is the option that allows you to view the records in different ways by rearranging all the records in a table either alphabetically or numerically in ascending or descending order. This is defined on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 11,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which of the following sorting orders can be applied to numerical data in Access?",
+    "options": [
+      "Ascending or Descending",
+      "Left or Right",
+      "Top or Bottom",
+      "Odd or Even"
+    ],
+    "answer": "Ascending or Descending",
+    "explanation": "In MS Access, you can arrange numbers in either ascending (smallest to largest) or descending (largest to smallest) order to organize the data logically. This sorting principle is explained on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 12,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Where is the Search box option located in the Access window?",
+    "options": [
+      "Top left corner",
+      "Bottom of the Access window",
+      "Inside the Ribbon tab",
+      "On the Navigation Pane"
+    ],
+    "answer": "Bottom of the Access window",
+    "explanation": "To search for specific data in a database, users can utilize the Search box option, which is conveniently located at the bottom of the Access window. This layout detail is specified on page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 13,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which key must be pressed after typing a search term in the Search box?",
+    "options": [
+      "Shift key",
+      "Alt key",
+      "Ctrl key",
+      "Enter key"
+    ],
+    "answer": "Enter key",
+    "explanation": "After typing a partial or entire word, phrase, date, or number in the Search box, the user must press the Enter key to initiate the search process. Access will then highlight matching characters. This is detailed on page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 14,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is defined as a uniquely identifying field for each record in a table?",
+    "options": [
+      "Foreign key",
+      "Primary key",
+      "Alternate key",
+      "Secondary key"
+    ],
+    "answer": "Primary key",
+    "explanation": "A Primary key is a specific matching field from one table that uniquely identifies each record in that table. It is crucial for setting up relationships and preventing duplicate records. This definition is given on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 15,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is a value in one table that must match the primary key of another table called?",
+    "options": [
+      "Primary key",
+      "Candidate key",
+      "Foreign key",
+      "Unique key"
+    ],
+    "answer": "Foreign key",
+    "explanation": "A foreign key is defined as a value in one table that must directly match with the primary key of another related table. It acts as the linking pin between the two tables to define a relationship. This is stated on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 16,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "How many tables are typically required to create a basic relationship in Access?",
+    "options": [
+      "Only one table",
+      "Two tables",
+      "Three tables",
+      "Four tables"
+    ],
+    "answer": "Two tables",
+    "explanation": "To create a basic relationship in Access, you must create two tables. For example, a 'Details' table and a 'Marks' table are linked using a common field to establish a relationship. This is explained on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 17,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which button is clicked in the Results group to execute a query?",
+    "options": [
+      "Execute button",
+      "Start button",
+      "Run button",
+      "Play button"
+    ],
+    "answer": "Run button",
+    "explanation": "After creating a query, it must be executed to display the output. This is done by clicking on the Run command button located in the Results group of the Query Tools Design tab. This is described on page 11.",
+    "page_number": "11"
+  },
+  {
+    "id": 18,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What interface helps prevent incorrect data from being entered into a database?",
+    "options": [
+      "Tables",
+      "Forms",
+      "Reports",
+      "Queries"
+    ],
+    "answer": "Forms",
+    "explanation": "A visually appealing form provides a user-friendly interface that helps users understand and work with data efficiently. This structure helps prevent incorrect data from being accidentally entered into the database. This is discussed on page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 19,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which view is primarily used to enter, edit, and view data in a form?",
+    "options": [
+      "Layout view",
+      "Design view",
+      "Print Preview",
+      "Form view"
+    ],
+    "answer": "Form view",
+    "explanation": "Form view is specifically used to enter, edit, and view data in an Access database. It presents the controls and text boxes in an interactive way for data entry one record at a time. This is outlined on page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 20,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "How many main views does Access provide to display a form?",
+    "options": [
+      "Two main views",
+      "Three main views",
+      "Four main views",
+      "Five main views"
+    ],
+    "answer": "Three main views",
+    "explanation": "Access provides three main views in which a form can be displayed. These views are Form view, Layout view, and Design view, each serving a distinct purpose for data entry or structural design. This is detailed on page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 21,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Can you make changes to the data while viewing a report in Report view?",
+    "options": [
+      "Yes, freely",
+      "No, you cannot",
+      "Only if it is a numeric field",
+      "Only with an administrator password"
+    ],
+    "answer": "No, you cannot",
+    "explanation": "The Report view is used strictly to view the data of the report. The text explicitly states that you cannot make any changes in a report while using this view, as it is meant for presentation. This is mentioned on page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 22,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which report view allows you to see a preview of the report before printing?",
+    "options": [
+      "Report view",
+      "Layout view",
+      "Design view",
+      "Print Preview"
+    ],
+    "answer": "Print Preview",
+    "explanation": "Print Preview is the specific view used to see a realistic preview of the report before it is sent to the printer. It helps ensure the layout, margins, and orientation are correct. This is described on page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 23,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What kind of file extension format is mentioned for exporting a report to another application?",
+    "options": [
+      "Export-PDF File",
+      "Export-RTF File",
+      "Export-DOC File",
+      "Export-XLS File"
+    ],
+    "answer": "Export-RTF File",
+    "explanation": "When exporting a report to another office application via the Data group, the user interacts with the Export-RTF File dialog box. This allows the formatted text to be used in other word processing software. This is found on page 17.",
+    "page_number": "17"
+  },
+  {
+    "id": 24,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What term defines the extensive availability and exponential growth of data globally?",
+    "options": [
+      "Small Data",
+      "Cloud Data",
+      "Big Data",
+      "Micro Data"
+    ],
+    "answer": "Big Data",
+    "explanation": "Over the last few decades, the world has experienced extensive availability of data. This rapid and exponential growth of data has been defined as Big Data, which impacts various sectors globally. This definition is given on page 20.",
+    "page_number": "20"
+  },
+  {
+    "id": 25,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Does Access allow storing information in a planned manner?",
+    "options": [
+      "No, data is stored randomly",
+      "Yes, it stores data in related tables",
+      "Only for text files",
+      "Only in unstructured formats"
+    ],
+    "answer": "Yes, it stores data in related tables",
+    "explanation": "A database like Access is comparable to an automated filing system as it helps organize related information in a logical manner. It systematically stores data in a planned manner using related tables. This is mentioned on page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 26,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Are queries built directly on tables to extract data?",
+    "options": [
+      "Yes, queries are made on tables",
+      "No, queries are built on reports",
+      "No, queries only use text files",
+      "Yes, but only on forms"
+    ],
+    "answer": "Yes, queries are made on tables",
+    "explanation": "Queries are built to extract and analyze data from the database. The text clarifies that queries are made directly on tables, and the results are displayed in the form of a new table that matches the criteria. This is stated on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 27,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Can forms be considered as windows in your data?",
+    "options": [
+      "No, they are printed documents",
+      "Yes, they act as user-friendly windows",
+      "No, they are background processes",
+      "Yes, they act as storage units"
+    ],
+    "answer": "Yes, they act as user-friendly windows",
+    "explanation": "You can think of forms as windows into your database that help users understand and work with data. They provide a visually appealing and user-friendly interface to view and edit information. This concept is on page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 28,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What does the abbreviation IoT stand for?",
+    "options": [
+      "Internal Organised Technology",
+      "Internet of Things",
+      "Information on Transfer",
+      "Intranet of Tables"
+    ],
+    "answer": "Internet of Things",
+    "explanation": "IoT stands for Internet of Things. It refers to internet-enabled devices from which data is continuously extracted and gathered in real-time to analyze customer usage patterns. This is discussed on pages 20 and 21.",
+    "page_number": "20"
+  },
+  {
+    "id": 29,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which of the following database objects is used as a base to create a form?",
+    "options": [
+      "Macros",
+      "Reports",
+      "Tables or Queries",
+      "Modules"
+    ],
+    "answer": "Tables or Queries",
+    "explanation": "To create a form in Access, you must select the base table or query that contains the data you want to display. The form acts as an interface for the data stored within those specific tables or queries. This is explained on page 13.",
+    "page_number": "13"
+  },
+  {
+    "id": 30,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which button is clicked in the Navigation Pane to see all the groups in the database?",
+    "options": [
+      "Hide all groups",
+      "Show all groups",
+      "View groups",
+      "Sort groups"
+    ],
+    "answer": "Show all groups",
+    "explanation": "When customizing the display in the Navigation Pane, a user can view all grouped objects in the database by selecting the 'Show all groups' option from the shortcut menu. This is detailed in the Activity Byte on page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 31,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the basic difference between SQL and MySQL?",
+    "options": [
+      "SQL is a DBMS while MySQL is a query language",
+      "SQL is an operating system while MySQL is a software",
+      "SQL is a query language while MySQL is a DBMS",
+      "There is no difference between SQL and MySQL"
+    ],
+    "answer": "SQL is a query language while MySQL is a DBMS",
+    "explanation": "The fundamental difference between the two is that SQL (Structured Query Language) is merely a language used to retrieve data, whereas MySQL is an open-source Relational Database Management System (RDBMS) that utilizes SQL. This is highlighted on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 32,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "By default, where does the Navigation Pane appear when you open a database in Access?",
+    "options": [
+      "Along the top of the workspace",
+      "Along the bottom of the workspace",
+      "Along the right-side of the workspace",
+      "Along the left-side of the workspace"
+    ],
+    "answer": "Along the left-side of the workspace",
+    "explanation": "When you open a database in MS Access, the Navigation Pane, which helps view and access all database objects, appears by default along the left-side of the workspace. This UI layout is described on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 33,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What happens when you right-click on an object in the Navigation Pane?",
+    "options": [
+      "It deletes the object immediately",
+      "It opens a shortcut menu to execute a range of tasks",
+      "It runs the object",
+      "It exports the object to Excel"
+    ],
+    "answer": "It opens a shortcut menu to execute a range of tasks",
+    "explanation": "Right-clicking an object in the Navigation Pane displays a context-sensitive shortcut menu. This menu allows users to execute various tasks, such as opening the object in Design View or changing display settings. This is stated on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 34,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In which view should you initially open a table to sort records based on the value of a field?",
+    "options": [
+      "Design View",
+      "Datasheet View",
+      "Layout View",
+      "Print Preview"
+    ],
+    "answer": "Datasheet View",
+    "explanation": "To sort records alphabetically or numerically based on a field's value, the user must first open the table in Datasheet View. From there, they can use the sort options under the Home tab. This is instructed on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 35,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Under which tab can you find the Ascending or Descending options to sort data?",
+    "options": [
+      "Create tab",
+      "Home tab",
+      "Database Tools tab",
+      "External Data tab"
+    ],
+    "answer": "Home tab",
+    "explanation": "The Ascending and Descending sort options, which allow users to arrange their records in a specific order, are located in the Sort & Filter group directly under the Home tab. This is shown on page 3.",
+    "page_number": "3"
+  },
+  {
+    "id": 36,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which option is used to clear a previously applied sort in a table?",
+    "options": [
+      "Clear All option",
+      "Delete Sort option",
+      "Remove Sort option",
+      "Undo Sort option"
+    ],
+    "answer": "Remove Sort option",
+    "explanation": "If a user wants to undo or clear a sort order they have applied to a table's records, they must click on the 'Remove Sort' option found within the Sort & Filter group under the Home tab. This step is detailed on page 3.",
+    "page_number": "3"
+  },
+  {
+    "id": 37,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What feature allows you to easily perform mathematical calculations like sum and average in Access?",
+    "options": [
+      "Calculation pane",
+      "Formulas option",
+      "Totals feature",
+      "Math view"
+    ],
+    "answer": "Totals feature",
+    "explanation": "The 'Totals' feature in Access allows users to easily perform standard mathematical calculations, such as sum, average, count, maximum, and minimum, on their database records. This is highlighted in the Smart Byte on page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 38,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In which group under the Home tab is the Totals feature located?",
+    "options": [
+      "Sort & Filter group",
+      "Records group",
+      "Find group",
+      "Views group"
+    ],
+    "answer": "Records group",
+    "explanation": "To apply mathematical calculations to data using the Totals feature, a user must navigate to the Home tab and locate it within the Records group. This navigational detail is provided in the Smart Byte on page 4.",
+    "page_number": "4"
+  },
+  {
+    "id": 39,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the primary function of the Filter option in a datasheet?",
+    "options": [
+      "To permanently delete unwanted data",
+      "To color code specific cells",
+      "To help view records containing identical data values in a field",
+      "To automatically sort data alphabetically"
+    ],
+    "answer": "To help view records containing identical data values in a field",
+    "explanation": "The Filter option in a datasheet is an essential feature that allows users to view specific records while hiding others. It specifically helps filter records that contain identical data values in each field based on user selection. This is explained on page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 40,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "By default, which option selects all the checkboxes under the Text Filters option?",
+    "options": [
+      "Check All",
+      "Select All",
+      "Mark All",
+      "Highlight All"
+    ],
+    "answer": "Select All",
+    "explanation": "When accessing the filter drop-down menu, Access defaults to having the 'Select All' check box ticked. This selects all checkboxes under the Text Filters option, and clicking it again will deselect them. This is detailed on page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 41,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which button is clicked to remove a filter applied to a datasheet?",
+    "options": [
+      "Remove Filter",
+      "Delete Filter",
+      "Toggle Filter",
+      "Clear Filter"
+    ],
+    "answer": "Toggle Filter",
+    "explanation": "To remove an active filter and display all records again, the user must click on the Toggle Filter button. This button is conveniently located in the Sort & Filter group under the Home tab. This is described on page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 42,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What does Access do when it finds a matching record while using the Search box?",
+    "options": [
+      "It deletes the record",
+      "It opens the record in a new window",
+      "It copies the record to the clipboard",
+      "It highlights the corresponding characters in the first record that matches"
+    ],
+    "answer": "It highlights the corresponding characters in the first record that matches",
+    "explanation": "When a user types criteria into the Search box and presses Enter, Access automatically highlights the corresponding characters in the first record that matches the search criteria within the datasheet. This functionality is noted on page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 43,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which type of query displays the record set in a datasheet, groups the data, and calculates the sum?",
+    "options": [
+      "Parameter Query",
+      "Select Query",
+      "Action Query",
+      "Crosstab Query"
+    ],
+    "answer": "Select Query",
+    "explanation": "A Select Query is a fundamental query type in Access that retrieves data from one or more tables. It displays the resulting record set in a datasheet format, groups the data, and can calculate sums, counts, and averages. This is defined on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 44,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which query uses row headings and column headings to show data in terms of two categories?",
+    "options": [
+      "Crosstab Query",
+      "Select Query",
+      "SQL Query",
+      "Action Query"
+    ],
+    "answer": "Crosstab Query",
+    "explanation": "A Crosstab Query is a specialized query that uses both row headings and column headings to organize and display data. This structure allows users to see their data summarized in terms of two separate categories at once. This is explained on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 45,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Under which tab on the Ribbon can you find the option to set Relationships between tables?",
+    "options": [
+      "Create tab",
+      "Home tab",
+      "Database Tools tab",
+      "External Data tab"
+    ],
+    "answer": "Database Tools tab",
+    "explanation": "To define a relationship between two tables, the user must click on the Database Tools tab located on the ribbon, and then select the Relationships option from the Relationships group. This instruction is found on page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 46,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which dialog box opens on the screen to allow selecting tables for a relationship?",
+    "options": [
+      "Edit Relationships",
+      "Show Table",
+      "Add Tables",
+      "Table Manager"
+    ],
+    "answer": "Show Table",
+    "explanation": "When defining a relationship, clicking the Relationships option opens the 'Show Table' dialog box. This interface allows the user to select the required tables and click 'Add' to place them in the Relationships window. This is detailed on page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 47,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "After dragging a primary key to a common field in another table, which button creates the relationship?",
+    "options": [
+      "Apply button",
+      "Save button",
+      "Link button",
+      "Create button"
+    ],
+    "answer": "Create button",
+    "explanation": "Once the mouse is released after dragging a field between tables, the Edit Relationships dialog box opens. To finalize the link between the related fields, the user must click the 'Create' button. This process is explained on page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 48,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What are the two primary methods used to create a query in Access?",
+    "options": [
+      "Query View and Query Execute",
+      "Query Design and Query Wizard",
+      "Query Layout and Query Build",
+      "Query Maker and Query Format"
+    ],
+    "answer": "Query Design and Query Wizard",
+    "explanation": "When creating a query in MS Access, the software provides two distinct methods available in the Queries group on the Create tab: Query Design and Query Wizard. These are listed on page 9.",
+    "page_number": "9"
+  },
+  {
+    "id": 49,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "When you select Query Design, which dialog box is initially displayed to select records?",
+    "options": [
+      "Show Table",
+      "Query Parameters",
+      "Design Grid",
+      "Object Properties"
+    ],
+    "answer": "Show Table",
+    "explanation": "Clicking the Query Design option switches Access to the Query Design view, and automatically displays the 'Show Table' dialog box. From this box, you can select one or more tables or queries for your new query. This is described on page 9.",
+    "page_number": "9"
+  },
+  {
+    "id": 50,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which parameter in the Design Grid displays the data in either descending or ascending order?",
+    "options": [
+      "Field",
+      "Criteria",
+      "Sort",
+      "Table"
+    ],
+    "answer": "Sort",
+    "explanation": "Within the parameters of the Design Grid, the 'Sort' row is specifically utilized to display the output data organized in either descending or ascending order based on the selected field. This is defined on page 10.",
+    "page_number": "10"
+  },
+  {
+    "id": 51,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which parameter in the Design Grid displays the name of the existing tables included in the query?",
+    "options": [
+      "Table",
+      "Show",
+      "Field",
+      "Criteria"
+    ],
+    "answer": "Table",
+    "explanation": "In the Design Grid, the 'Table' row displays the name of the existing tables present in the Relationships window that are being utilized in the current query. This helps identify data sources. This is mentioned on page 10.",
+    "page_number": "10"
+  },
+  {
+    "id": 52,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "When you save a query for the first time, which dialog box appears on the screen?",
+    "options": [
+      "Export As dialog box",
+      "Save Query dialog box",
+      "Save As dialog box",
+      "Name Query dialog box"
+    ],
+    "answer": "Save As dialog box",
+    "explanation": "To save a new query, you click on Save in the Quick Access Toolbar or File tab. When doing this for the very first time, a 'Save As' dialog box appears, prompting you to type a name for the query. This is explained on page 10.",
+    "page_number": "10"
+  },
+  {
+    "id": 53,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is the name of the first dialog box that appears when you click on Query Wizard?",
+    "options": [
+      "Simple Query Wizard",
+      "New Query",
+      "Query Layout",
+      "Table Selection"
+    ],
+    "answer": "New Query",
+    "explanation": "When you click on the Query Wizard button in the Queries group of the Create tab, Access switches views and immediately displays a 'New Query' dialog box, from which you select Simple Query Wizard. This is detailed on page 11.",
+    "page_number": "11"
+  },
+  {
+    "id": 54,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In the Simple Query Wizard, which button shifts a single required field to the Selected Fields box?",
+    "options": [
+      "Single forward arrow ( > )",
+      "Double forward arrow ( >> )",
+      "Single backward arrow ( < )",
+      "Double backward arrow ( << )"
+    ],
+    "answer": "Single forward arrow ( > )",
+    "explanation": "In the Simple Query Wizard dialog box, to select a specific required field name for display, the user must click on the single forward arrow ( > ) button. This shifts it to the Selected Fields box. This instruction is found on page 11.",
+    "page_number": "11"
+  },
+  {
+    "id": 55,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which view is used for changing the appearance and size of various controls of a form?",
+    "options": [
+      "Form view",
+      "Layout view",
+      "Design view",
+      "Datasheet view"
+    ],
+    "answer": "Layout view",
+    "explanation": "The Layout view in MS Access is specifically used for changing the visual appearance and adjusting the physical size of various controls placed on a form while the data is still visible. This is defined on page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 56,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What are text boxes, document tabs, and drop-down lists an example of in a form?",
+    "options": [
+      "Modules",
+      "Controls",
+      "Queries",
+      "Records"
+    ],
+    "answer": "Controls",
+    "explanation": "Forms are made up of interactive elements called controls. Examples of these controls include text boxes, document tabs, and drop-down lists, which are grouped to make the form easy to use. This concept is discussed on page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 57,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "When creating a form using the Form option, which view does the new form open in by default?",
+    "options": [
+      "Form view",
+      "Design view",
+      "Datasheet view",
+      "Layout view"
+    ],
+    "answer": "Layout view",
+    "explanation": "When you select a table and click on the 'Form' option in the Forms group, Access automatically generates a new form that opens directly in the Layout view by default. This process is outlined on page 13.",
+    "page_number": "13"
+  },
+  {
+    "id": 58,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which option is used to place the picture or image of an organization in the form header?",
+    "options": [
+      "Title option",
+      "Background option",
+      "Logo option",
+      "Theme option"
+    ],
+    "answer": "Logo option",
+    "explanation": "Within the Header/Footer group on the Design tab, the 'Logo' option is specifically used to place a picture or an image, such as an organization's logo, onto the form. This detail is provided on page 14.",
+    "page_number": "14"
+  },
+  {
+    "id": 59,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which tab contains the Themes group for changing the theme of a form?",
+    "options": [
+      "Format tab",
+      "Design tab",
+      "Home tab",
+      "Arrange tab"
+    ],
+    "answer": "Design tab",
+    "explanation": "To change the overall visual theme of a form, users must select the Themes option located specifically within the Themes group under the Design tab on the ribbon. This instruction is found on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 60,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In which group can you find the Conditional Formatting option?",
+    "options": [
+      "Themes group",
+      "Header/Footer group",
+      "Control Formatting group",
+      "Background group"
+    ],
+    "answer": "Control Formatting group",
+    "explanation": "To apply specialized conditional formatting rules to form controls, the user must click on the Conditional Formatting option, which is housed within the Control Formatting group. This is mentioned in the Smart Byte on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 61,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which command is particularly useful if you want to define exactly which fields appear on your form and how data is grouped?",
+    "options": [
+      "Split Form",
+      "Form Wizard",
+      "Blank Form",
+      "Form Design"
+    ],
+    "answer": "Form Wizard",
+    "explanation": "The Form Wizard is a powerful tool to create a form, especially when the user wants granular control to define exactly which fields appear, how the data is grouped and sorted, or to use fields from multiple tables. This is explained on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 62,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which tab must be clicked on the ribbon to initiate the creation of a report?",
+    "options": [
+      "Home tab",
+      "Database Tools tab",
+      "Create tab",
+      "External Data tab"
+    ],
+    "answer": "Create tab",
+    "explanation": "To create a report in Access, a user must open a database, select the base table or query, and then click on the 'Create' tab on the ribbon, followed by the Report option. This step is outlined on page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 63,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which report view displays the structure of the report and is used to add headers, footers, and change the design?",
+    "options": [
+      "Layout view",
+      "Design view",
+      "Report view",
+      "Print Preview"
+    ],
+    "answer": "Design view",
+    "explanation": "The Design view gives a structural overview of the report. It allows the report to be modified and customised extensively, and is specifically used to add complex headers, footers, and change the deep design elements. This is detailed on page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 64,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which tab is selected to access the Print option for a report?",
+    "options": [
+      "Home tab",
+      "Create tab",
+      "File tab",
+      "Format tab"
+    ],
+    "answer": "File tab",
+    "explanation": "To print an Access report and change parameters like page orientation and size, the user must select the 'File' tab and click on the 'Print' option. This procedural step is found on page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 65,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In which group is the More button located to export a report to another office application?",
+    "options": [
+      "Print group",
+      "Data group",
+      "Export group",
+      "File group"
+    ],
+    "answer": "Data group",
+    "explanation": "To export a report from Print Preview mode to an RTF file, a user must navigate to the 'Data' group, click the drop-down arrow of the 'More' button, and select the required application. This step is explained on page 17.",
+    "page_number": "17"
+  },
+  {
+    "id": 66,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which conventional databases are mentioned as being unable to handle the massive size of Big Data?",
+    "options": [
+      "SQL, Oracle and Access",
+      "Excel, Word and PowerPoint",
+      "MongoDB, Redis and Cassandra",
+      "Python, Java and C++"
+    ],
+    "answer": "SQL, Oracle and Access",
+    "explanation": "The text explicitly states that the size of Big Data is so huge that traditional databases like SQL, Oracle, and MS Access cannot be used for capturing, manipulating, and processing the data effectively. This is discussed on page 20.",
+    "page_number": "20"
+  },
+  {
+    "id": 67,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which of the following is cited as a significant application of AI requiring massive real-time data?",
+    "options": [
+      "Creating simple tables",
+      "Image processing and voice recognition",
+      "Basic mathematical calculations",
+      "Exporting to RTF format"
+    ],
+    "answer": "Image processing and voice recognition",
+    "explanation": "Artificial Intelligence heavily relies on massive data. The text lists image processing, voice recognition, and text interpretation as significant applications of AI-powered technologies that require big data to function properly. This is highlighted on page 20.",
+    "page_number": "20"
+  },
+  {
+    "id": 68,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "What is described as a building block for Artificial Intelligence (AI)?",
+    "options": [
+      "Traditional SQL",
+      "Machine learning",
+      "Data entry forms",
+      "Print Preview"
+    ],
+    "answer": "Machine learning",
+    "explanation": "Big Data forms the essential basis for machine learning, which is explicitly described in the text as a foundational 'building block' for Artificial Intelligence (AI). This connection is explained on page 20.",
+    "page_number": "20"
+  },
+  {
+    "id": 69,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Big Data has expanded its roots and covered all domains such as:",
+    "options": [
+      "Only gaming and graphics",
+      "Banking, retail, healthcare, government, and media",
+      "Only local paper filing systems",
+      "Only personal computer hard drives"
+    ],
+    "answer": "Banking, retail, healthcare, government, and media",
+    "explanation": "The exponential growth defined as Big Data has radically expanded its roots. It now covers extensive, large-scale domains such as banking, retail, healthcare, government, media, and transportation. This is detailed on page 20.",
+    "page_number": "20"
+  },
+  {
+    "id": 70,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which query alters your database by appending or deleting data from it?",
+    "options": [
+      "Action Query",
+      "Select Query",
+      "Parameter Query",
+      "Crosstab Query"
+    ],
+    "answer": "Action Query",
+    "explanation": "An Action Query is designed to make sweeping changes. It creates a new table or significantly alters your existing database by automatically adding, deleting, updating, and appending data. This definition is provided on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 71,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Which type of query prompts the user for input before it is executed, using that input to control the result?",
+    "options": [
+      "Select Query",
+      "Action Query",
+      "Parameter Query",
+      "Crosstab Query"
+    ],
+    "answer": "Parameter Query",
+    "explanation": "A Parameter Query is a specific type of select query. Instead of running immediately, it pauses and prompts the user for input before execution, using that dynamic input as the precise criteria that controls the result. This is defined on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 72,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What happens if a user right-clicks on the line connecting two tables in the Relationships window and presses a specific key?",
+    "options": [
+      "The relationship is permanently saved to the hard drive.",
+      "The line is deleted, removing the relationship between tables.",
+      "A new table is automatically generated.",
+      "The primary key format is changed."
+    ],
+    "answer": "The line is deleted, removing the relationship between tables.",
+    "explanation": "To delete an existing relationship in Access, a user must click on the physical line that connects the two tables in the Relationships window to select it, and then press the Delete key. This procedure is detailed on page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 73,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "In the Query Design Grid, what is the effect of leaving the checkbox in the 'Show' row unselected?",
+    "options": [
+      "The field is deleted from the original table permanently.",
+      "The query will fail to execute and show an error.",
+      "The information in that field will not be displayed when the query is run.",
+      "The records will be sorted in descending order automatically."
+    ],
+    "answer": "The information in that field will not be displayed when the query is run.",
+    "explanation": "The 'Show' row displays a check mark to indicate visibility. If a user deselects this check mark by clicking on it, it simply means that the fields will not display their information during the query's run time, hiding them from the final output. This is explained on page 10.",
+    "page_number": "10"
+  },
+  {
+    "id": 74,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What is the name of the pane displaying a list of fields in the upper section of the Query window in Design view?",
+    "options": [
+      "Design Grid Pane",
+      "Object Relationship Pane",
+      "Field Configuration Pane",
+      "Criteria Selection Pane"
+    ],
+    "answer": "Object Relationship Pane",
+    "explanation": "After adding tables in Query Design, they appear as small windows displaying a list of fields in the upper section of the Query window. This specific upper area is officially known as the Object Relationship Pane. This terminology is introduced on page 9.",
+    "page_number": "9"
+  },
+  {
+    "id": 75,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What automatic action does Access take if it finds a single one-to-many relationship table when generating a form?",
+    "options": [
+      "It deletes the related table to prevent data corruption.",
+      "It prompts the user to create a new macro.",
+      "It adds a datasheet to the form that is based on the related table or query.",
+      "It merges both tables into a single unformatted report."
+    ],
+    "answer": "It adds a datasheet to the form that is based on the related table or query.",
+    "explanation": "According to the Smart Byte feature, if Access finds a single table that has a one-to-many relationship with the table or query used to create the form, it intelligently adds a datasheet to the form based on that related table. This is noted on page 14.",
+    "page_number": "14"
+  },
+  {
+    "id": 76,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "In Form Design, which tab and group are used to alter the background image and font size?",
+    "options": [
+      "Design tab, Themes group",
+      "Format tab, Background group",
+      "Home tab, Text group",
+      "Arrange tab, Sizing group"
+    ],
+    "answer": "Format tab, Background group",
+    "explanation": "Similar to Word formatting, Access allows you to change the Background Image in the Background group and modify the font size using various commands located specifically in the Format tab. This is explained on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 77,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Which four specific new tabs instantly appear on the ribbon as soon as a new report is created?",
+    "options": [
+      "Design, Layout, Format, and View",
+      "Home, Create, External Data, and Database Tools",
+      "Report Layout Design, Arrange, Format, and Page Setup",
+      "Report View, Print Preview, Header, and Footer"
+    ],
+    "answer": "Report Layout Design, Arrange, Format, and Page Setup",
+    "explanation": "The moment Access generates a new report, the contextual ribbon expands to include four new specialized tabs: Report Layout Design, Arrange, Format, and Page Setup, to aid in extensive customization. This is listed on page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 78,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "To change the margins, page size, and orientation of a report, which dialog box is utilized?",
+    "options": [
+      "Export-RTF File dialog box",
+      "Print dialog box",
+      "Page Format dialog box",
+      "Report Layout dialog box"
+    ],
+    "answer": "Print dialog box",
+    "explanation": "When preparing a report for physical printing, you can alter the page orientation, page setup, margin width, and page size specifically from the settings provided within the Print dialog box. This functionality is detailed on page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 79,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "In the context of the manufacturing industry projects, what concept is recommended to explain using Big Data applications?",
+    "options": [
+      "Relational Sorting",
+      "Design Thinking",
+      "Conditional Formatting",
+      "Cross-tab Queries"
+    ],
+    "answer": "Design Thinking",
+    "explanation": "In the Projects section, it is suggested that students explain the complex process of using Big Data applications in various manufacturing processes by explicitly utilizing the conceptual framework of 'Design Thinking'. This is found on page 21.",
+    "page_number": "21"
+  },
+  {
+    "id": 80,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "According to the 'Think Byte', how did 'Big Data' technologies and AI play a role in the healthcare industry recently?",
+    "options": [
+      "By permanently replacing human doctors in surgeries.",
+      "By calculating the exact hospital bills without error.",
+      "To reduce the gigantic effects of the spread of the COVID-19 pandemic.",
+      "To format patient records automatically into Excel sheets."
+    ],
+    "answer": "To reduce the gigantic effects of the spread of the COVID-19 pandemic.",
+    "explanation": "The Think Byte prompts students to find out how 'Big Data' technologies and AI played a significant, real-world role in the healthcare industry to analyze patterns and reduce the gigantic effects of the spread of the COVID-19 pandemic. This is on page 17.",
+    "page_number": "17"
+  },
+  {
+    "id": 81,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "If you wish to manually sort and customise the display order of objects in the Navigation Pane, which sequence of clicks is required?",
+    "options": [
+      "Right-click > View By > Details",
+      "Right-click > Sort By > Remove Automatic Sorts",
+      "Left-click > View By > Icon",
+      "Left-click > Sort By > Custom Filter"
+    ],
+    "answer": "Right-click > Sort By > Remove Automatic Sorts",
+    "explanation": "To sort manually and thoroughly customise the display order in the Navigation Pane, you must right-click to open the menu, point to Sort By, and then click on the 'Remove Automatic Sorts' option. This step-by-step is detailed on page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 82,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What visual indicator appears on the right of a column header after you click OK to apply a filter?",
+    "options": [
+      "A small padlock icon",
+      "An upward/downward arrow",
+      "An icon resembling a funnel",
+      "A red highlight on the text"
+    ],
+    "answer": "An icon resembling a funnel",
+    "explanation": "After configuring a filter and clicking OK, a specific funnel-shaped icon appears on the right side of the column header. Pointing at this icon prompts Access to display the exact filter criteria currently applied. This is shown on page 6.",
+    "page_number": "6"
+  },
+  {
+    "id": 83,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "To change how objects are displayed in the Navigation Pane, which option do you point to before clicking Details, Icon, or List?",
+    "options": [
+      "Group By",
+      "Sort By",
+      "View By",
+      "Format By"
+    ],
+    "answer": "View By",
+    "explanation": "To alter how objects are visually displayed in the Navigation Pane, a user must right-click, point specifically to the 'View By' option in the context menu, and then select Details, Icon, or List. This is explained on page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 84,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "When defining query criteria, how does typing conditions into multiple fields in the 'Criteria:' row affect the result?",
+    "options": [
+      "It shows results that meet any one of the criteria.",
+      "It includes only results that meet all the criteria.",
+      "It generates a syntax error.",
+      "It deletes the records meeting those criteria."
+    ],
+    "answer": "It includes only results that meet all the criteria.",
+    "explanation": "Typing criteria into more than one field within the same 'Criteria:' row sets the query strictly. It will filter and include only those specific results that meet all the entered criteria simultaneously (an AND condition). This is clarified on page 10.",
+    "page_number": "10"
+  },
+  {
+    "id": 85,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Where can the Split Form option be accessed to create a form with a split layout?",
+    "options": [
+      "From the Layout group on the Home tab.",
+      "By clicking on More Forms in the Forms group on the Create tab.",
+      "From the External Data tab under Export.",
+      "By double-clicking a table in the Navigation Pane."
+    ],
+    "answer": "By clicking on More Forms in the Forms group on the Create tab.",
+    "explanation": "To create a form using the Split Form option, which provides a synchronized view of form and datasheet, a user must navigate to the Create tab, locate the Forms group, and click on 'More Forms'. This is detailed on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 86,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Access is considered a Relational Database Management System (RDBMS).\nReason (R): Access stores data in related tables, allowing a table of names to be related to a table of marks.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Access is defined as an RDBMS because it organizes and stores data in multiple related tables rather than a single flat file. The ability to link these tables (e.g., student names to their marks) is the core definition of an RDBMS. This is explained on page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 87,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The Filter option permanently deletes unwanted records from the datasheet.\nReason (R): Filtering helps hide records that do not contain identical data values based on selected criteria.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The Filter option only temporarily hides records that do not meet the selected criteria; it does not delete them from the database permanently. The reason is true as filtering helps isolate and view records with identical data values, keeping the rest hidden. This is detailed on page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 88,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A primary key uniquely identifies each record in a table.\nReason (R): A foreign key in one table must match the primary key of another table to establish a relationship.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, but R is not the correct explanation of A.",
+    "explanation": "Both statements are factually true database concepts. However, the definition of a foreign key (Reason) is not the explanation for why a primary key uniquely identifies a record (Assertion). They are two distinct, though related, concepts explained on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 89,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The 'Or' row in the Query Design Grid is used to set multiple alternative conditions in a query.\nReason (R): The 'Show' row is used to apply complex filters dynamically based on user input during execution.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "The assertion is true, as the 'Or' row allows for setting multiple alternative search conditions. However, the reason is false because the 'Show' row simply determines whether a field is displayed in the output, not for applying dynamic filters. This is found on page 10.",
+    "page_number": "10"
+  },
+  {
+    "id": 90,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Forms can help prevent incorrect data from being entered into a database.\nReason (R): Forms provide a visually appealing and user-friendly interface to easily add, edit, and update data one record at a time.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Forms present data in a structured, user-friendly layout with specific controls. This focused, one-record-at-a-time interface prevents confusion and minimizes human error, thereby explaining how they help prevent incorrect data entry. This is discussed on page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 91,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): In Report view, you cannot make any changes to the actual data within the report.\nReason (R): Report view is solely used to format and edit the structural design of the report.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "The assertion is true; Report view is meant only for viewing data, and no changes can be made. The reason is false because formatting and editing the structural design is done in Design view or Layout view, not Report view. This is explained on page 16.",
+    "page_number": "16"
+  },
+  {
+    "id": 92,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Traditional databases like MS Access can easily capture and process Big Data.\nReason (R): Big Data size is so massive that conventional platforms like SQL and Oracle are insufficient for handling it.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The assertion is false because traditional databases like SQL, Oracle, and Access explicitly cannot be used for capturing and processing Big Data due to its massive volume. The reason correctly states this limitation. This concept is on page 20.",
+    "page_number": "20"
+  },
+  {
+    "id": 93,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Action queries have the ability to significantly alter your database structure or data.\nReason (R): Action queries can automatically create new tables, add, delete, update, and append data from existing tables.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Action queries are specifically designed to perform sweeping changes to a database. The reason correctly lists the specific operations (adding, deleting, updating, appending) that explain how they alter the database. This is detailed on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 94,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): When saving a query for the first time in Access, a Save As dialog box appears on the screen.\nReason (R): The Run button automatically saves the query permanently without prompting the user for a name.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "The assertion is true; clicking Save for the first time brings up the Save As dialog box to name the query. The reason is false; the Run button only executes the query to show results but does not automatically save its design permanently. This is covered on page 10.",
+    "page_number": "10"
+  },
+  {
+    "id": 95,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The Split Form option in Access is accessed by clicking on More Forms in the Forms group.\nReason (R): The Form Wizard automatically creates a split layout by default without any user input.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "The assertion is correct; to create a Split Form, you click More Forms on the Create tab. However, the reason is false because the Form Wizard does not default to a split layout; it prompts the user to define fields, grouping, and sorting. This is stated on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 96,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): You can export a generated report to an RTF file format for use in other office applications.\nReason (R): To export, you must be in Print Preview mode, click the drop-down arrow of More button in the Data group, and select Export-RTF File.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Both statements are completely true. Access allows exporting reports to formats like RTF, and the step-by-step reason precisely explains the navigation process (Print Preview > Data group > More button > Export-RTF) required to achieve this. This is on page 17.",
+    "page_number": "17"
+  },
+  {
+    "id": 97,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A line linking two tables in the Relationships window visually indicates that the tables have been linked based on a selected field.\nReason (R): Relationships between tables are initially created by clicking the Save button on the Quick Access Toolbar.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "The assertion is true; the graphical line indicates an established relationship. However, the reason is false because the relationship is actually created by dragging a field and clicking the 'Create' button in the Edit Relationships dialog box, not the Save button. This is found on page 8.",
+    "page_number": "8"
+  },
+  {
+    "id": 98,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Typing criteria into more than one field in the 'Criteria:' row means the query will only include results that meet all the specified conditions.\nReason (R): The 'Criteria:' row establishes an 'AND' logic condition when multiple fields are filled simultaneously.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "When criteria are entered across multiple fields in the same 'Criteria:' row, Access interprets this as an 'AND' condition. Therefore, only records satisfying every single condition simultaneously will be displayed. This logic is explained on page 10.",
+    "page_number": "10"
+  },
+  {
+    "id": 99,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): IoT stands for Internet of Things, which plays a massive role in generating Big Data.\nReason (R): IoT devices continuously extract real-time data which is further used by companies to gather customer usage patterns and increase efficiency.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The assertion is true, defining IoT and its connection to Big Data. The reason accurately explains this connection by detailing how these internet-enabled devices continuously stream real-time data, which drives the exponential growth of Big Data. This is explained on page 20-21.",
+    "page_number": "21"
+  },
+  {
+    "id": 100,
+    "subject": "Computer Science",
+    "chapter": "Tables, Queries, Forms and Reports in Access-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): You can easily perform mathematical calculations like sum and average on your data directly in Access.\nReason (R): Access includes a Totals feature located in the Records group under the Home tab that automates these calculations.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "The assertion states a capability (performing calculations), and the reason correctly explains how this is achieved by pointing to the specific tool (Totals feature) and its exact location (Records group, Home tab) within the software. This is detailed in the Smart Byte on page 4.",
+    "page_number": "4"
+  }
+]
