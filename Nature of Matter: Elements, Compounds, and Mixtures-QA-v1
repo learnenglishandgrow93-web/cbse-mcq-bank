@@ -1,0 +1,1839 @@
+[
+  {
+    "id": 1,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What is matter?",
+    "answer": "Matter is anything that has mass and occupies space. It is made up of tiny particles that are continuously moving.",
+    "keywords": [
+      "has mass",
+      "occupies space",
+      "tiny particles",
+      "matter"
+    ],
+    "explanation": "Matter is defined as any substance that possesses mass and takes up volume. Everything around us such as water, air, and rocks is made of matter. This concept is introduced on page 117 of the textbook.",
+    "page_number": "117"
+  },
+  {
+    "id": 2,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What are the individual substances that make up a mixture called?",
+    "answer": "The individual substances that make up a mixture are called its components.",
+    "keywords": [
+      "components",
+      "substances",
+      "mixture"
+    ],
+    "explanation": "When two or more substances mix together physically without chemically reacting, each substance is termed a component. The components retain their distinct identities. This is discussed on page 117.",
+    "page_number": "117"
+  },
+  {
+    "id": 3,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Name two food preparations mentioned in the chapter that are examples of mixtures.",
+    "answer": "Poha and sprout salad are two everyday food items that are examples of mixtures.",
+    "keywords": [
+      "poha",
+      "sprout salad",
+      "food items",
+      "mixtures"
+    ],
+    "explanation": "Dishes like poha and sprout salad combine various edible ingredients physically without any chemical reaction taking place. Thus, they serve as common everyday examples of mixtures. This is described on page 117.",
+    "page_number": "117"
+  },
+  {
+    "id": 4,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What is an alloy?",
+    "answer": "An alloy is a uniform solid mixture formed by mixing metals together, or metals with non-metals.",
+    "keywords": [
+      "alloy",
+      "uniform mixture",
+      "metals",
+      "solid mixture"
+    ],
+    "explanation": "Alloys are homogeneous mixtures of two or more metals or a metal and a non-metal, designed to have enhanced properties like hardness and durability. This is explained on page 118.",
+    "page_number": "118"
+  },
+  {
+    "id": 5,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 20
+    },
+    "question": "Name the constituent elements of brass.",
+    "answer": "Brass is an alloy made of copper and zinc.",
+    "keywords": [
+      "brass",
+      "copper",
+      "zinc",
+      "alloy"
+    ],
+    "explanation": "Brass is a uniform metallic mixture consisting of copper and zinc. Its components are uniformly mixed so they cannot be seen separately. This fact is mentioned on page 118.",
+    "page_number": "118"
+  },
+  {
+    "id": 6,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Which gas is present in the largest proportion in air?",
+    "answer": "Nitrogen is present in the largest proportion in air, constituting about 78% of the atmosphere.",
+    "keywords": [
+      "nitrogen",
+      "largest proportion",
+      "78%",
+      "air"
+    ],
+    "explanation": "Air is a mixture of several gases in which nitrogen forms the predominant part at approximately 78% by volume. This is stated in Section 8.1.1 on page 118.",
+    "page_number": "118"
+  },
+  {
+    "id": 7,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 20
+    },
+    "question": "What is the chemical name of lime water?",
+    "answer": "The chemical name of lime water is calcium hydroxide solution.",
+    "keywords": [
+      "calcium hydroxide",
+      "lime water",
+      "solution"
+    ],
+    "explanation": "Lime water is prepared by reacting quick lime (calcium oxide) with water to form a clear calcium hydroxide solution. This process is detailed on page 118.",
+    "page_number": "118"
+  },
+  {
+    "id": 8,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What insoluble substance turns lime water milky when exposed to carbon dioxide?",
+    "answer": "Calcium carbonate is the insoluble white precipitate that causes lime water to turn milky.",
+    "keywords": [
+      "calcium carbonate",
+      "insoluble",
+      "turns milky",
+      "precipitate"
+    ],
+    "explanation": "When carbon dioxide reacts with calcium hydroxide, insoluble tiny white particles of calcium carbonate are formed, turning the clear liquid milky. This is explained on page 119.",
+    "page_number": "119"
+  },
+  {
+    "id": 9,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 25
+    },
+    "question": "Name two common gaseous air pollutants.",
+    "answer": "Two common gaseous air pollutants are carbon monoxide and sulphur dioxide.",
+    "keywords": [
+      "carbon monoxide",
+      "sulphur dioxide",
+      "air pollutants"
+    ],
+    "explanation": "Major gaseous pollutants in the atmosphere include sulfur dioxide, nitrogen dioxide, ozone, and carbon monoxide. These are listed under 'A step further' on page 119.",
+    "page_number": "119"
+  },
+  {
+    "id": 10,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 6,
+      "max": 18
+    },
+    "question": "What does the abbreviation AQI stand for?",
+    "answer": "AQI stands for Air Quality Index.",
+    "keywords": [
+      "Air Quality Index",
+      "AQI"
+    ],
+    "explanation": "The Air Quality Index is a standardized tool used by environmental agencies to measure and report the quality of ambient air to the public. It is defined on page 119.",
+    "page_number": "119"
+  },
+  {
+    "id": 11,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Define a pure substance according to scientific terminology.",
+    "answer": "In science, a pure substance is a kind of matter that consists of only one type of particle and cannot be separated by physical means.",
+    "keywords": [
+      "pure substance",
+      "one type of particle",
+      "cannot be separated physically"
+    ],
+    "explanation": "Scientifically, purity implies uniform composition at the particulate level, meaning no other substance is present. This definition appears in Section 8.2 on page 121.",
+    "page_number": "121"
+  },
+  {
+    "id": 12,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What is an element?",
+    "answer": "An element is a pure substance made of only one type of atom that cannot be broken down into simpler substances.",
+    "keywords": [
+      "element",
+      "one type of atom",
+      "simpler substances",
+      "building blocks"
+    ],
+    "explanation": "Elements represent the fundamental forms of matter that cannot be decomposed into simpler substances by chemical or physical means. This is described on page 123.",
+    "page_number": "123"
+  },
+  {
+    "id": 13,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Name one metal and one non-metal that exist as liquids at room temperature.",
+    "answer": "Mercury is a liquid metal and bromine is a liquid non-metal at room temperature.",
+    "keywords": [
+      "mercury",
+      "liquid metal",
+      "bromine",
+      "liquid non-metal"
+    ],
+    "explanation": "Only two known elements exist in liquid form at normal room temperature: mercury, which is a metal, and bromine, which is a non-metal. This is noted on page 123.",
+    "page_number": "123"
+  },
+  {
+    "id": 14,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What characteristic observation confirms the presence of hydrogen gas during a flame test?",
+    "answer": "Hydrogen gas burns with a characteristic 'pop' sound when a lighted candle or burning splinter is brought near.",
+    "keywords": [
+      "pop sound",
+      "hydrogen gas",
+      "flame test",
+      "burns"
+    ],
+    "explanation": "Hydrogen is an inflammable gas that ignites with a mild explosion, resulting in a distinct popping sound. This test is depicted in Activity 8.3 on page 122.",
+    "page_number": "122"
+  },
+  {
+    "id": 15,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 22
+    },
+    "question": "What is the black substance formed when iron filings and sulphur powder are heated together?",
+    "answer": "The black substance formed upon heating iron and sulphur is iron sulphide.",
+    "keywords": [
+      "iron sulphide",
+      "black substance",
+      "compound",
+      "heated"
+    ],
+    "explanation": "Heating iron filings with sulfur powder initiates a chemical reaction yielding iron sulphide, an entirely new compound. This observation is recorded on page 126 and 128.",
+    "page_number": "128"
+  },
+  {
+    "id": 16,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 20
+    },
+    "question": "Which mineral is used to make talcum powder?",
+    "answer": "Talcum powder is made from the soft mineral talc.",
+    "keywords": [
+      "talc",
+      "talcum powder",
+      "mineral",
+      "soft"
+    ],
+    "explanation": "Talc is a soft, naturally occurring mineral that is ground into a fine powder to produce commercial talcum powder. This is stated in Section 8.5 on page 129.",
+    "page_number": "129"
+  },
+  {
+    "id": 17,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Define adulteration in the context of food and commercial products.",
+    "answer": "Adulteration is the illegal addition of cheaper or inferior quality substances to a product to increase quantity or cut costs.",
+    "keywords": [
+      "adulteration",
+      "cheaper substances",
+      "inferior quality",
+      "increase quantity"
+    ],
+    "explanation": "Adulteration deteriorates the quality of consumable products and can pose serious health hazards to consumers. This definition is presented on page 120.",
+    "page_number": "120"
+  },
+  {
+    "id": 18,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 22
+    },
+    "question": "Give one example of a gas-in-liquid uniform mixture.",
+    "answer": "Aerated water (soda water) is an example of a gas-in-liquid uniform mixture.",
+    "keywords": [
+      "aerated water",
+      "soda water",
+      "gas in liquid",
+      "uniform mixture"
+    ],
+    "explanation": "In soda water, carbon dioxide gas is dissolved uniformly under pressure in liquid water, creating a homogeneous solution. This is listed in Table 8.1 on page 120.",
+    "page_number": "120"
+  },
+  {
+    "id": 19,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 22
+    },
+    "question": "In what atomic ratio do hydrogen and oxygen combine to form water?",
+    "answer": "Hydrogen and oxygen combine in a fixed atomic ratio of 2:1 to form water.",
+    "keywords": [
+      "2:1",
+      "atomic ratio",
+      "hydrogen to oxygen",
+      "fixed ratio"
+    ],
+    "explanation": "Each water molecule consists of two hydrogen atoms chemically bonded to one oxygen atom, establishing an exact 2:1 atomic ratio. This is explained on page 124.",
+    "page_number": "124"
+  },
+  {
+    "id": 20,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What is meant by a native mineral?",
+    "answer": "A native mineral is a naturally occurring mineral composed of a pure element rather than a chemical compound.",
+    "keywords": [
+      "native mineral",
+      "pure element",
+      "not compound",
+      "naturally occurring"
+    ],
+    "explanation": "While most minerals are chemical compounds, native minerals occur in an uncombined elemental state, such as gold, silver, or sulfur. This is described on page 129.",
+    "page_number": "129"
+  },
+  {
+    "id": 21,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "What gas is evolved when iron sulphide reacts with dilute hydrochloric acid?",
+    "answer": "Hydrogen sulphide gas is evolved, which has a distinct rotten egg-like odour.",
+    "keywords": [
+      "hydrogen sulphide",
+      "rotten egg odour",
+      "iron sulphide",
+      "hydrochloric acid"
+    ],
+    "explanation": "The reaction between iron sulfide and dilute hydrochloric acid yields iron chloride and hydrogen sulfide gas, identifiable by its pungent rotten-egg smell. This is discussed on page 128.",
+    "page_number": "128"
+  },
+  {
+    "id": 22,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 22
+    },
+    "question": "Name two elements that are classified as metalloids.",
+    "answer": "Silicon and boron are elements classified as metalloids.",
+    "keywords": [
+      "silicon",
+      "boron",
+      "metalloids",
+      "intermediate properties"
+    ],
+    "explanation": "Metalloids exhibit chemical and physical characteristics intermediate between those of metals and non-metals. Silicon and boron are highlighted on page 123.",
+    "page_number": "123"
+  },
+  {
+    "id": 23,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 10,
+      "max": 25
+    },
+    "question": "Why are light and heat not considered matter?",
+    "answer": "Light and heat are forms of energy that do not possess mass and do not occupy space.",
+    "keywords": [
+      "forms of energy",
+      "do not have mass",
+      "do not occupy space",
+      "non-matter"
+    ],
+    "explanation": "By scientific definition, matter must possess mass and occupy volume. Since energy forms such as heat and light lack both, they are classified as non-matter. This is clarified on page 130.",
+    "page_number": "130"
+  },
+  {
+    "id": 24,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 22
+    },
+    "question": "What is graphene aerogel made of?",
+    "answer": "Graphene aerogel is made entirely from carbon.",
+    "keywords": [
+      "graphene aerogel",
+      "carbon",
+      "lightest material"
+    ],
+    "explanation": "Graphene aerogel is a newly engineered nanomaterial composed of carbon. It is recognized as the lightest solid material on Earth. This is discussed on page 129.",
+    "page_number": "129"
+  },
+  {
+    "id": 25,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Differentiate between uniform and non-uniform mixtures with one example of each.",
+    "answer": "In uniform mixtures, components are evenly distributed and cannot be seen separately, such as sugar dissolved in water. In non-uniform mixtures, components are unevenly distributed and visible to the naked eye, such as sprout salad.",
+    "keywords": [
+      "uniform mixture",
+      "non-uniform mixture",
+      "evenly distributed",
+      "sugar solution",
+      "sprout salad"
+    ],
+    "explanation": "Uniform (homogeneous) mixtures display a single consistent phase throughout, whereas non-uniform (heterogeneous) mixtures display distinct phases whose parts remain visible. This differentiation is outlined on page 117.",
+    "page_number": "117"
+  },
+  {
+    "id": 26,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why is air considered a mixture and not a compound?",
+    "answer": "Air is considered a mixture because its constituent gases like nitrogen and oxygen retain their individual properties, are not chemically combined, and can be mixed in variable proportions without any chemical reaction.",
+    "keywords": [
+      "air",
+      "mixture",
+      "retains properties",
+      "not chemically combined",
+      "variable proportions"
+    ],
+    "explanation": "The gases in air coexist without forming chemical bonds. Each gas retains its characteristic physical and chemical behaviour, satisfying the definition of a mixture. This is discussed on page 118.",
+    "page_number": "118"
+  },
+  {
+    "id": 27,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why are dust particles considered pollutants rather than natural components of air?",
+    "answer": "Dust particles are considered pollutants because they are suspended particles that are not an integral part of clean air. Their quantity varies by place and time, and they degrade air quality.",
+    "keywords": [
+      "dust particles",
+      "pollutants",
+      "not integral part",
+      "suspended",
+      "air quality"
+    ],
+    "explanation": "Clean air consists strictly of gases such as nitrogen, oxygen, argon, and carbon dioxide. Dust is an unwanted particulate impurity introduced into the atmosphere. This is explained on page 119.",
+    "page_number": "119"
+  },
+  {
+    "id": 28,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why is stainless steel preferred over pure iron for making kitchen utensils?",
+    "answer": "Stainless steel is preferred over pure iron because it is much stronger, harder, and highly resistant to rusting and corrosion when exposed to moisture and air.",
+    "keywords": [
+      "stainless steel",
+      "rust resistant",
+      "pure iron",
+      "stronger",
+      "utensils"
+    ],
+    "explanation": "Pure iron corrodes rapidly in moist air, forming rust, whereas stainless steel (an alloy of iron, nickel, chromium, and carbon) does not easily corrode. This is discussed on pages 118 and 129.",
+    "page_number": "118"
+  },
+  {
+    "id": 29,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How does everyday purity differ from scientific purity?",
+    "answer": "In everyday life, 'pure' means unadulterated and free from harmful impurities. In science, a pure substance must consist of only one single type of particle throughout and cannot be separated physically.",
+    "keywords": [
+      "everyday purity",
+      "scientific purity",
+      "unadulterated",
+      "one type of particle"
+    ],
+    "explanation": "A carton of milk can be pure in commercial terms if unadulterated, but scientifically it is a complex mixture of water, proteins, and fats. This distinction is drawn on pages 120 and 121.",
+    "page_number": "120"
+  },
+  {
+    "id": 30,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What happens when an electric current is passed through acidified water?",
+    "answer": "When an electric current is passed through acidified water, water decomposes into two distinct gases: hydrogen gas at the negative terminal and oxygen gas at the positive terminal.",
+    "keywords": [
+      "electric current",
+      "acidified water",
+      "hydrogen gas",
+      "oxygen gas",
+      "decomposes"
+    ],
+    "explanation": "The process of electrolysis breaks the chemical bonds holding hydrogen and oxygen together in water molecules, producing both elemental gases. This is described on pages 121 and 122.",
+    "page_number": "121"
+  },
+  {
+    "id": 31,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How can iron filings be separated from a mixture of iron and sulphur before heating?",
+    "answer": "Iron filings can be separated by moving a magnet over the mixture. The magnetic iron filings get attracted and cling to the magnet, leaving yellow sulphur powder behind.",
+    "keywords": [
+      "separated",
+      "magnet",
+      "magnetic properties",
+      "iron filings",
+      "sulphur powder"
+    ],
+    "explanation": "Before heating, iron and sulfur form a physical mixture where iron preserves its magnetic properties. Thus, physical separation using a magnet is readily achievable. This is explained on page 126.",
+    "page_number": "126"
+  },
+  {
+    "id": 32,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What is 'Mishraloha', and which ancient Indian texts describe its medicinal uses?",
+    "answer": "'Mishraloha' is the ancient Indian term for an alloy of metals. Ancient medical texts such as the Charaka Samhita, Susruta Samhita, and Rasaratna Samucchaya describe its medicinal uses.",
+    "keywords": [
+      "Mishraloha",
+      "alloy",
+      "Charaka Samhita",
+      "Susruta Samhita",
+      "medicinal uses"
+    ],
+    "explanation": "Ancient Indian metallurgy was highly advanced; combinations of metals were called Mishraloha and incorporated into traditional Ayurvedic treatises. This is documented on page 118.",
+    "page_number": "118"
+  },
+  {
+    "id": 33,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How does lime water confirm the presence of carbon dioxide gas in the atmosphere?",
+    "answer": "When lime water is left exposed to air, it reacts with atmospheric carbon dioxide to form insoluble calcium carbonate, causing the clear liquid to turn milky.",
+    "keywords": [
+      "lime water",
+      "carbon dioxide",
+      "calcium carbonate",
+      "turns milky"
+    ],
+    "explanation": "The specific chemical reaction between calcium hydroxide and carbon dioxide creates a visible white suspension, serving as a reliable test for atmospheric carbon dioxide. This is explained on page 119.",
+    "page_number": "119"
+  },
+  {
+    "id": 34,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why is packet milk considered a mixture rather than a pure substance in science?",
+    "answer": "Scientifically, milk is a mixture because it contains multiple distinct substances—including water, fats, proteins, and minerals—rather than consisting of a single type of particle.",
+    "keywords": [
+      "milk",
+      "mixture",
+      "multiple substances",
+      "not pure substance",
+      "fats and proteins"
+    ],
+    "explanation": "Even fresh and unadulterated milk fails the scientific test of purity because it is a physical suspension of various distinct organic and inorganic compounds. This is discussed on page 121.",
+    "page_number": "121"
+  },
+  {
+    "id": 35,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How do the properties of water differ from those of its constituent elements, hydrogen and oxygen?",
+    "answer": "Hydrogen is a combustible fuel and oxygen supports combustion, yet water, which is formed from them, is non-combustible and is used to extinguish fires.",
+    "keywords": [
+      "water",
+      "hydrogen",
+      "oxygen",
+      "fuel",
+      "supports combustion",
+      "extinguishes fire"
+    ],
+    "explanation": "A defining hallmark of a chemical compound is that its chemical and physical properties are completely distinct from those of the reactant elements. This illustration is highlighted on page 124.",
+    "page_number": "124"
+  },
+  {
+    "id": 36,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Differentiate between an atom and a molecule of an element using oxygen as an example.",
+    "answer": "An atom is the smallest indivisible unit of an element (O). A molecule forms when two or more identical atoms chemically combine to exist stably, such as an oxygen molecule (O2).",
+    "keywords": [
+      "atom",
+      "molecule",
+      "oxygen atom",
+      "oxygen molecule",
+      "combine"
+    ],
+    "explanation": "Most atoms cannot exist freely under normal conditions. They bond with identical atoms to form stable elemental molecules. This comparison is detailed on page 123.",
+    "page_number": "123"
+  },
+  {
+    "id": 37,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What changes are observed when sugar is strongly heated in a dry boiling tube?",
+    "answer": "Sugar first melts and turns brown, then chars into a black residue (carbon/charcoal). Water droplets also condense on the cooler upper walls of the tube.",
+    "keywords": [
+      "sugar",
+      "chars",
+      "black residue",
+      "carbon",
+      "water droplets"
+    ],
+    "explanation": "Heating sugar causes thermal decomposition into carbon and water, demonstrating that sugar is an organic chemical compound composed of carbon, hydrogen, and oxygen. This is described on page 125.",
+    "page_number": "125"
+  },
+  {
+    "id": 38,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why does a magnet attract iron from an iron-sulphur mixture, but fails to attract it from iron sulphide?",
+    "answer": "In the mixture, iron retains its magnetic properties. In iron sulphide, iron is chemically bonded with sulphur to form a new compound whose properties are completely different.",
+    "keywords": [
+      "magnet",
+      "magnetic properties",
+      "chemically bonded",
+      "iron sulphide",
+      "compound"
+    ],
+    "explanation": "Chemical combination alters the electronic structure and properties of the constituent elements, causing iron to lose its individual ferromagnetic responsiveness. This is explained on page 128.",
+    "page_number": "128"
+  },
+  {
+    "id": 39,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Distinguish between a native mineral and a compound mineral with one example each.",
+    "answer": "A native mineral consists of a single pure element occurring naturally, such as gold or silver. A compound mineral is made of two or more elements chemically combined, such as quartz or calcite.",
+    "keywords": [
+      "native mineral",
+      "compound mineral",
+      "pure element",
+      "gold",
+      "quartz"
+    ],
+    "explanation": "Minerals occur in nature either in elemental form (native minerals) or as chemical combinations of multiple elements (compound minerals). This distinction is presented on page 129.",
+    "page_number": "129"
+  },
+  {
+    "id": 40,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How was bronze (Kamsya) prepared in ancient India, and what was its medical purpose?",
+    "answer": "Bronze (Kamsya) was prepared by mixing four parts of copper (Tamra) with one part of tin (Vanga). It was used in ancient medicine to boost immunity and improve digestion.",
+    "keywords": [
+      "bronze",
+      "Kamsya",
+      "copper",
+      "tin",
+      "improve digestion",
+      "boost immunity"
+    ],
+    "explanation": "According to ancient Ayurvedic literature like the Rasaratna Samucchaya, a 4:1 alloy ratio of copper and tin provided specific therapeutic benefits. This is discussed on page 118.",
+    "page_number": "118"
+  },
+  {
+    "id": 41,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Compare vinegar and an oil-water mixture with respect to their mixture classification.",
+    "answer": "Vinegar (acetic acid in water) is a uniform (homogeneous) liquid-liquid mixture because it has a single phase throughout. Oil and water form a non-uniform (heterogeneous) liquid-liquid mixture with distinct separated layers.",
+    "keywords": [
+      "vinegar",
+      "oil and water",
+      "uniform mixture",
+      "non-uniform mixture",
+      "liquid-liquid"
+    ],
+    "explanation": "Miscible liquids like acetic acid and water blend completely into a uniform state, whereas immiscible liquids like oil and water stay separated in layers. This is outlined in Table 8.1 on page 120.",
+    "page_number": "120"
+  },
+  {
+    "id": 42,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why is the electrolysis of water considered a chemical change?",
+    "answer": "Electrolysis of water is a chemical change because water molecules break down to form entirely new substances—hydrogen and oxygen gases—with properties different from liquid water.",
+    "keywords": [
+      "electrolysis",
+      "chemical change",
+      "new substances",
+      "hydrogen",
+      "oxygen"
+    ],
+    "explanation": "Unlike melting or boiling where water molecules remain intact, passing electricity causes chemical bonds to break and form distinct elemental products. This is explained on pages 122 and 123.",
+    "page_number": "123"
+  },
+  {
+    "id": 43,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How do the gases evolved from Sample A (iron-sulphur mixture) and Sample B (iron sulphide) differ when treated with dilute HCl?",
+    "answer": "Sample A evolves hydrogen gas, which is odourless and burns with a pop sound. Sample B evolves hydrogen sulphide gas, which is colourless and has a foul, rotten egg-like odour.",
+    "keywords": [
+      "Sample A",
+      "Sample B",
+      "hydrogen gas",
+      "pop sound",
+      "hydrogen sulphide",
+      "rotten egg odour"
+    ],
+    "explanation": "Iron metal in the physical mixture reacts directly to yield H2, whereas the compound FeS reacts with acid to liberate H2S gas. This key test is described on page 128.",
+    "page_number": "128"
+  },
+  {
+    "id": 44,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 15,
+      "max": 35
+    },
+    "question": "Name four minerals or mineral-derived substances used to manufacture cement.",
+    "answer": "Four minerals or substances used in the manufacture of cement are calcite, quartz, alumina, and iron oxide.",
+    "keywords": [
+      "calcite",
+      "quartz",
+      "alumina",
+      "iron oxide",
+      "cement"
+    ],
+    "explanation": "Cement is an essential construction material manufactured by combining raw minerals like calcite and quartz along with alumina and iron oxide. This is detailed on page 129.",
+    "page_number": "129"
+  },
+  {
+    "id": 45,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why can common salt be separated from seawater by evaporation, but cannot be separated into sodium and chlorine by physical methods?",
+    "answer": "Seawater is a physical mixture of salt and water, which can be separated by evaporation. Common salt (NaCl) is a chemical compound whose constituent elements are bonded chemically and require chemical processes to separate.",
+    "keywords": [
+      "seawater",
+      "physical mixture",
+      "evaporation",
+      "sodium chloride",
+      "chemically bonded"
+    ],
+    "explanation": "Physical techniques like evaporation can separate physically combined mixtures, but chemical bonds holding elements together in a compound cannot be broken physically. This is explained on page 124.",
+    "page_number": "124"
+  },
+  {
+    "id": 46,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why does a candle flame burn brighter when brought near the mouth of the oxygen-containing test tube during water electrolysis?",
+    "answer": "The candle burns brighter because oxygen gas supports combustion. When the concentration of oxygen increases around the flame, the rate of combustion accelerates significantly.",
+    "keywords": [
+      "burns brighter",
+      "supports combustion",
+      "oxygen gas",
+      "rate of combustion"
+    ],
+    "explanation": "Oxygen is not combustible itself, but it actively promotes and sustains burning, causing the candle flame to glow with increased brilliance. This test is depicted on page 122.",
+    "page_number": "122"
+  },
+  {
+    "id": 47,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "How does understanding elements and compounds assist engineers in manufacturing smartphones?",
+    "answer": "Smartphones require over 45 distinct elements—such as copper for wiring, silicon for chips, and lithium for batteries—which engineers select and combine based on their unique electrical and structural properties.",
+    "keywords": [
+      "45 elements",
+      "silicon",
+      "lithium",
+      "copper",
+      "manufacturing",
+      "properties"
+    ],
+    "explanation": "Advanced electronic devices depend on the specific physical and chemical capabilities of diverse elements and synthesized compounds. This application is highlighted on page 124.",
+    "page_number": "124"
+  },
+  {
+    "id": 48,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "What makes gallium and caesium unusual compared to other solid metallic elements?",
+    "answer": "Gallium and caesium are solid at standard room temperature, but have very low melting points around 30 °C (303 K), meaning they easily turn into liquids in warm ambient conditions or on the palm.",
+    "keywords": [
+      "gallium",
+      "caesium",
+      "low melting point",
+      "30 °C",
+      "turn into liquid"
+    ],
+    "explanation": "While most metals remain solid well above ambient temperatures, gallium and caesium liquefy at slightly elevated temperatures close to human body heat. This is noted on page 123.",
+    "page_number": "123"
+  },
+  {
+    "id": 49,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "State three key differences between an element, a compound, and a mixture.",
+    "answer": "1. Definition: An element consists of only one kind of atom; a compound consists of different elements chemically combined in a fixed ratio; a mixture is a physical combination in variable proportions. 2. Properties: Elements have unique properties; compounds have entirely new properties; mixtures retain the properties of their constituents. 3. Separation: Elements cannot be broken down; compounds require chemical methods; mixtures can be separated by physical methods.",
+    "keywords": [
+      "element",
+      "compound",
+      "mixture",
+      "fixed ratio",
+      "retains properties",
+      "separation methods"
+    ],
+    "explanation": "These three categories represent the fundamental classification of matter. Elements are primary building blocks, compounds are chemically bonded units, and mixtures are physical blends. This is summarized on pages 123, 124, and 130.",
+    "page_number": "130"
+  },
+  {
+    "id": 50,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Describe the activity using a black sheet of paper to detect suspended particulate matter in air.",
+    "answer": "A clean black sheet of paper free of visible dust is placed undisturbed near an open window or in a garden for a few hours. After some time, fine particles settle on its surface. When observed with a magnifying glass, these tiny dust particles become clearly visible, demonstrating that solid particulate matter remains suspended in ambient air.",
+    "keywords": [
+      "black sheet of paper",
+      "open window",
+      "dust particles",
+      "suspended",
+      "magnifying glass"
+    ],
+    "explanation": "Because dark paper provides a high-contrast background, even minute dust and soot particles settling from the air can be easily detected. This activity is described in Activity 8.2 on page 119.",
+    "page_number": "119"
+  },
+  {
+    "id": 51,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "How is lime water prepared in the laboratory, and how does it react with carbon dioxide? Write the word equation.",
+    "answer": "Lime water is prepared by slowly adding calcium oxide (quick lime) to water, stirring continuously to form calcium hydroxide solution, and then filtering it. When exposed to carbon dioxide, it reacts to form insoluble calcium carbonate and water, turning milky. The word equation is: Calcium hydroxide + Carbon dioxide -> Calcium carbonate + Water.",
+    "keywords": [
+      "calcium oxide",
+      "calcium hydroxide",
+      "lime water",
+      "calcium carbonate",
+      "word equation"
+    ],
+    "explanation": "Quick lime reacts vigorously and exothermically with water to form lime water. Exposure to CO2 precipitates fine calcium carbonate crystals. This procedure and equation are presented on pages 118 and 119.",
+    "page_number": "119"
+  },
+  {
+    "id": 52,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "State three reasons why water is classified as a chemical compound and not as a mixture.",
+    "answer": "First, water consists of hydrogen and oxygen combined in a fixed atomic ratio of 2:1. Second, its constituent elements are held by strong chemical bonds and cannot be separated by physical methods like filtration or evaporation. Third, the properties of water (extinguishes fire) are completely different from its constituent elements (hydrogen burns and oxygen supports combustion).",
+    "keywords": [
+      "water",
+      "compound",
+      "fixed ratio",
+      "cannot be separated physically",
+      "completely different properties"
+    ],
+    "explanation": "Water satisfies all criteria of a compound: fixed proportion by atoms, chemical bonding between components, and a total loss of original elemental properties. This is discussed on page 124.",
+    "page_number": "124"
+  },
+  {
+    "id": 53,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Describe the traditional Indian metal-casting technique known as Dhokra art.",
+    "answer": "Dhokra art is an ancient craft from Bihar and Odisha. An artisan first sculpts a model using beeswax, which is then coated with clay layers to form a mould. When heated, the wax melts away, leaving a hollow cavity. Molten brass or bronze is poured into this space. After cooling, the clay is broken to reveal a durable, shiny golden metal figure.",
+    "keywords": [
+      "Dhokra art",
+      "beeswax",
+      "clay mould",
+      "molten brass",
+      "bronze",
+      "Bihar and Odisha"
+    ],
+    "explanation": "Dhokra art utilizes the lost-wax casting technique, showcasing how early Indian artisans mastered alloys like brass and bronze to create intricate cultural artefacts. This is detailed on page 130.",
+    "page_number": "130"
+  },
+  {
+    "id": 54,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "Classify the following substances as elements, compounds, or mixtures: gold, carbon dioxide, aerated water, iron sulphide, oxygen, and brass.",
+    "answer": "1. Elements: Gold and Oxygen (consist of only one type of atom). 2. Compounds: Carbon dioxide and Iron sulphide (composed of two elements chemically combined in fixed proportions). 3. Mixtures: Aerated water (gas dissolved in liquid) and Brass (an alloy of copper and zinc mixed physically).",
+    "keywords": [
+      "elements",
+      "compounds",
+      "mixtures",
+      "gold",
+      "carbon dioxide",
+      "aerated water",
+      "brass"
+    ],
+    "explanation": "Elements contain single atom types, compounds consist of chemically bonded elements in fixed ratios, and mixtures are physical blends without chemical bonds. This classification is drawn from pages 118, 120, 123, 124, and 128.",
+    "page_number": "132"
+  },
+  {
+    "id": 55,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Why are alloys classified as uniform mixtures? Give two examples of alloys with their constituent elements.",
+    "answer": "Alloys are classified as uniform (homogeneous) mixtures because their constituent metals and elements are blended so evenly that they appear as a single substance throughout, with no individual components visible even under magnification. Examples include: 1. Brass: a mixture of copper and zinc. 2. Bronze: a mixture of copper and tin.",
+    "keywords": [
+      "alloys",
+      "uniform mixtures",
+      "homogeneous",
+      "brass",
+      "copper and zinc",
+      "bronze",
+      "copper and tin"
+    ],
+    "explanation": "Although composed of distinct metals, the constituent atoms in an alloy intermingle thoroughly without chemical bonding, displaying uniform properties across the material. This is explained on page 118.",
+    "page_number": "118"
+  },
+  {
+    "id": 56,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "What simple observation demonstrates the presence of water vapour in air, and what physical process is responsible?",
+    "answer": "When warm ambient air comes into contact with a cold surface, such as the outside of a tumbler filled with ice-cold water, tiny liquid water droplets form on the exterior. This occurs due to condensation, where invisible water vapour cools down and turns back into liquid water.",
+    "keywords": [
+      "water vapour",
+      "cold surface",
+      "tiny droplets",
+      "condensation",
+      "physical process"
+    ],
+    "explanation": "Condensation directly demonstrates that humidity in the air is in gaseous form and converts to a liquid state upon losing thermal energy to a cooler surface. This is stated on page 118.",
+    "page_number": "118"
+  },
+  {
+    "id": 57,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "How do the properties of sodium chloride differ from those of its constituent elements, sodium and chlorine?",
+    "answer": "Sodium is an extremely soft, highly reactive metal that catches fire in water, while chlorine is a poisonous, hazardous greenish-yellow gas. When chemically combined in a 1:1 atomic ratio, they form sodium chloride (common salt), which is a harmless, stable white crystalline compound essential for human nutrition.",
+    "keywords": [
+      "sodium chloride",
+      "sodium",
+      "chlorine",
+      "poisonous gas",
+      "reactive metal",
+      "harmless compound"
+    ],
+    "explanation": "The chemical union of violent reactants to form a benign, necessary dietary nutrient exemplifies how compounds lose original elemental properties entirely. This is detailed on page 124.",
+    "page_number": "124"
+  },
+  {
+    "id": 58,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Describe the gas testing procedure and observations for Sample A and Sample B after adding dilute hydrochloric acid.",
+    "answer": "Dilute hydrochloric acid is added to Sample A (mixture) and Sample B (heated compound) in separate test tubes. Sample A produces an odourless gas that burns with a 'pop' sound when a flame is introduced, confirming hydrogen gas. Sample B produces a colourless gas with a strong rotten egg smell, confirming hydrogen sulphide gas.",
+    "keywords": [
+      "hydrochloric acid",
+      "Sample A",
+      "Sample B",
+      "hydrogen gas",
+      "pop sound",
+      "hydrogen sulphide",
+      "rotten egg"
+    ],
+    "explanation": "Testing evolved gases using odour wafting and flame tests provides a direct chemical differentiation between an unreacted iron mixture and an iron sulphide compound. This is described on pages 127 and 128.",
+    "page_number": "128"
+  },
+  {
+    "id": 59,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "What is graphene aerogel, and what three characteristics make it an exceptional material?",
+    "answer": "Graphene aerogel is a synthetic material developed from carbon. Its three key characteristics are: 1. It is the lightest solid material known on Earth, so light that a blade of grass can hold it. 2. It has an exceptionally high porosity. 3. Due to high porosity, it has an enormous absorption capacity, making it useful for cleaning oil spills.",
+    "keywords": [
+      "graphene aerogel",
+      "carbon",
+      "lightest material",
+      "highly porous",
+      "absorbing capacity",
+      "oil spills"
+    ],
+    "explanation": "Graphene aerogel represents an innovation in material science derived from carbon, showing broad potential for environmental remediation and energy technologies. This is featured on page 129.",
+    "page_number": "129"
+  },
+  {
+    "id": 60,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "How does the objective of separating mixtures in daily life differ from the objective in science?",
+    "answer": "In daily life, mixtures are separated primarily to obtain a specific component of interest while discarding unwanted waste, such as filtering tea leaves. In science, however, separation is carried out systematically to isolate individual components in their pure state for experimental analysis, identification, or research.",
+    "keywords": [
+      "separating mixtures",
+      "daily life",
+      "component of interest",
+      "pure substances",
+      "science"
+    ],
+    "explanation": "Everyday separations are driven by immediate utility and convenience, whereas scientific separations aim for high purity to study chemical behavior. This difference is discussed on page 120.",
+    "page_number": "120"
+  },
+  {
+    "id": 61,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "A student states: 'All uniform mixtures are pure substances.' Critically evaluate this statement with examples.",
+    "answer": "The statement is incorrect. While pure substances (like pure water or sugar) are uniform throughout because they contain only one type of particle, uniform mixtures also appear completely homogeneous even though they contain two or more different substances mixed physically. For example, air, brass, and saltwater are uniform mixtures, but they are not pure substances.",
+    "keywords": [
+      "uniform mixtures",
+      "pure substances",
+      "incorrect",
+      "saltwater",
+      "air",
+      "different particles"
+    ],
+    "explanation": "Uniformity of appearance does not equal scientific purity. Homogeneous solutions like saltwater are mixtures because their physical components can be separated by physical means. This concept is explored on pages 117, 120, and 121.",
+    "page_number": "121"
+  },
+  {
+    "id": 62,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 75
+    },
+    "question": "How does the iron and sulphur activity prove that heating causes a chemical change? Compare the appearance, magnet test, and acid test.",
+    "answer": "Before heating, the mixture shows distinct yellow and black particles, iron can be fully separated with a magnet, and acid reaction produces odourless hydrogen gas. After heating, a uniform black compound (iron sulphide) is formed. It is completely unresponsive to a magnet, and reacts with acid to release hydrogen sulphide with a rotten-egg odour, proving new chemical bonds formed.",
+    "keywords": [
+      "iron and sulphur",
+      "chemical change",
+      "magnet test",
+      "acid test",
+      "iron sulphide",
+      "new substance"
+    ],
+    "explanation": "Irreversible loss of initial properties, lack of magnetic response, and formation of a compound yielding distinct reaction products all substantiate a chemical transformation. This is detailed on pages 126–128.",
+    "page_number": "128"
+  },
+  {
+    "id": 63,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Predict the consequences on life and combustion if the Earth's atmosphere contained only oxygen and no nitrogen.",
+    "answer": "Nitrogen makes up 78% of air and does not support combustion, acting as a natural diluent. If the atmosphere were pure oxygen, any small fire would turn into an uncontrollable, violent inferno. Furthermore, the absence of nitrogen would disrupt the nitrogen cycle required for plant nutrition, making normal living conditions impossible.",
+    "keywords": [
+      "nitrogen",
+      "diluent",
+      "pure oxygen",
+      "uncontrollable fire",
+      "combustion",
+      "life"
+    ],
+    "explanation": "Because oxygen strongly accelerates burning, nitrogen's inert presence is vital for damping fire intensity and sustaining biological balance. This is deduced from properties on page 118.",
+    "page_number": "118"
+  },
+  {
+    "id": 64,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Explain why converting water to steam is a physical change, whereas passing electricity through water is a chemical change.",
+    "answer": "Converting water into steam by heating alters only its physical state; the constituent particles remain identical H2O molecules and can be condensed back into liquid water. In contrast, electrolysis breaks chemical bonds, decomposing water into entirely new chemical substances—hydrogen and oxygen gases—which cannot revert back simply by cooling.",
+    "keywords": [
+      "physical change",
+      "chemical change",
+      "steam",
+      "electrolysis",
+      "breaks chemical bonds",
+      "new substances"
+    ],
+    "explanation": "Physical phase transitions preserve molecular composition, whereas chemical reactions involve making or breaking intramolecular chemical bonds. This distinction is elaborated on pages 121 and 123.",
+    "page_number": "123"
+  },
+  {
+    "id": 65,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "In a reaction A + B -> C, substances A and B cannot be broken down by chemical means. Classify A, B, and C with justification.",
+    "answer": "Substances A and B are elements because, by definition, elements are fundamental substances that cannot be decomposed into simpler substances by chemical reactions. Substance C is a compound because it is a new pure substance formed by the chemical combination of elements A and B in a fixed composition.",
+    "keywords": [
+      "elements",
+      "compound",
+      "cannot be broken down",
+      "fixed composition",
+      "A + B -> C"
+    ],
+    "explanation": "Because A and B represent indivisible chemical entities, they must be elements. Their chemical union produces C, which is a compound with fixed stoichiometric proportions. This aligns with Question 1 on page 131.",
+    "page_number": "131"
+  },
+  {
+    "id": 66,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "How would our daily lives be affected if water existed as a mixture of hydrogen and oxygen gases rather than a compound?",
+    "answer": "If water were a mixture, it would exist as an invisible, highly flammable gas mixture rather than a liquid at room temperature. We would have no liquid water to drink, cook, or support cellular life. Furthermore, any spark would ignite the hydrogen gas, resulting in massive explosions.",
+    "keywords": [
+      "mixture of gases",
+      "flammable",
+      "no liquid water",
+      "explosions",
+      "life impossible"
+    ],
+    "explanation": "The life-sustaining properties of water rely entirely on its compound nature (strong polar covalent bonds), which give it a high boiling point and extinguish fire rather than fueling it. This is discussed on pages 124 and 132.",
+    "page_number": "132"
+  },
+  {
+    "id": 67,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "In the electrolysis of water, why is the volume of gas collected at one terminal twice that of the other? Name both gases.",
+    "answer": "Water molecules (H2O) are formed by hydrogen and oxygen atoms chemically combined in a fixed ratio of 2:1. During electrolysis, water decomposes into two parts of hydrogen gas for every one part of oxygen gas. Therefore, the volume of hydrogen gas collected is double the volume of oxygen gas.",
+    "keywords": [
+      "electrolysis",
+      "hydrogen gas",
+      "oxygen gas",
+      "2:1 volume ratio",
+      "H2O"
+    ],
+    "explanation": "Avogadro's hypothesis dictates that equal volumes of gases contain equal numbers of molecules, so the 2:1 atomic ratio in H2O directly translates into a 2:1 gas volume collection ratio. This is explained on pages 122 and 124.",
+    "page_number": "122"
+  },
+  {
+    "id": 68,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Compare air and water on the basis of: (i) composition, (ii) separation of constituents, and (iii) retention of properties.",
+    "answer": "1. Composition: Air has variable composition of gases without fixed ratios; water has a fixed 2:1 atomic ratio of hydrogen to oxygen. 2. Separation: Constituents of air can be separated by physical techniques; constituents of water require chemical decomposition (electrolysis). 3. Properties: Gases in air retain individual properties; water exhibits completely new properties distinct from hydrogen and oxygen.",
+    "keywords": [
+      "air",
+      "water",
+      "composition",
+      "separation",
+      "retention of properties"
+    ],
+    "explanation": "This comparison illustrates the fundamental dichotomy in chemistry between a homogeneous physical mixture (air) and a true chemical compound (water). This is supported by discussions on pages 118, 124, and 131.",
+    "page_number": "131"
+  },
+  {
+    "id": 69,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Explain how knowledge of elements, compounds, and mixtures drives technological advancements in healthcare and agriculture.",
+    "answer": "In healthcare, understanding how elements combine allows chemists to synthesize compounds for life-saving medicines and vaccines to combat diseases. In agriculture, scientists combine elements into chemical compounds to manufacture fertilizers, significantly increasing crop yields to feed a growing human population.",
+    "keywords": [
+      "healthcare",
+      "agriculture",
+      "medicines and vaccines",
+      "fertilizers",
+      "compounds"
+    ],
+    "explanation": "Chemical synthesis directly underpins pharmacology and modern agronomy, enabling targeted molecular design for human disease prevention and enhanced crop productivity. This is discussed on page 129.",
+    "page_number": "129"
+  },
+  {
+    "id": 70,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "How can gold be classified as both a mineral and a metal? Explain the concept of native minerals.",
+    "answer": "Gold is a metal because it is lustrous, malleable, ductile, and a good conductor of electricity. It is also classified as a mineral because it is a naturally occurring, inorganic solid with a definite chemical composition. Because it occurs in its uncombined elemental state in nature, it is called a native mineral.",
+    "keywords": [
+      "gold",
+      "metal",
+      "mineral",
+      "native mineral",
+      "naturally occurring",
+      "pure element"
+    ],
+    "explanation": "Most metals exist combined in ores, but unreactive elements like gold are found in nature in their pure elemental form, qualifying as native minerals. This is explained on pages 129 and 132.",
+    "page_number": "129"
+  },
+  {
+    "id": 71,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 65
+    },
+    "question": "When dilute hydrochloric acid is added to iron filings, Gas A is evolved. Identify Gas A and write the word equation for this reaction.",
+    "answer": "Gas A is hydrogen gas. It is a colourless, odourless gas that burns with a characteristic pop sound. The word equation for the chemical reaction is: Iron + Dilute Hydrochloric acid -> Iron chloride + Hydrogen gas.",
+    "keywords": [
+      "Gas A",
+      "hydrogen gas",
+      "iron chloride",
+      "word equation",
+      "pop sound"
+    ],
+    "explanation": "Metals like iron displace hydrogen from dilute acids, producing metal chlorides and releasing hydrogen gas. This reaction and setup are shown on pages 128 and 132.",
+    "page_number": "128"
+  },
+  {
+    "id": 72,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Why is monitoring the Air Quality Index (AQI) critical for public health and environmental protection?",
+    "answer": "Monitoring AQI provides real-time information about pollutant concentrations, such as particulate matter, nitrogen dioxide, and sulphur dioxide. It alerts citizens, especially vulnerable groups like children and elderly, to take health precautions. It also enables governments to implement regulatory controls on vehicular and industrial emissions.",
+    "keywords": [
+      "Air Quality Index",
+      "AQI",
+      "pollutants",
+      "public health",
+      "emissions",
+      "precautions"
+    ],
+    "explanation": "AQI translates complex chemical concentration data into a straightforward numerical scale, driving preventive health actions and municipal pollution control policies. This is discussed on page 119.",
+    "page_number": "119"
+  },
+  {
+    "id": 73,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Describe how heating sugar demonstrates that sugar is a chemical compound rather than an element.",
+    "answer": "When dry sugar is heated in a boiling tube, it decomposes to leave a black residue of charcoal (pure carbon) and releases water droplets that condense on the tube walls. Since water is further composed of hydrogen and oxygen, sugar is proven to consist of carbon, hydrogen, and oxygen chemically combined, confirming it is a compound.",
+    "keywords": [
+      "heating sugar",
+      "decomposes",
+      "charcoal",
+      "carbon",
+      "water",
+      "compound"
+    ],
+    "explanation": "An element cannot be decomposed into simpler substances. The fact that sugar decomposes into carbon and water proves it is a chemical compound. This is described in Activity 8.4 on pages 124 and 125.",
+    "page_number": "125"
+  },
+  {
+    "id": 74,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "How do stainless steel and iron sulphide differ regarding their constituent bonds and chemical classification?",
+    "answer": "Stainless steel is a homogeneous mixture (an alloy) where iron, chromium, nickel, and carbon are mixed physically without chemical bonds, and its composition can vary. Iron sulphide is a chemical compound where iron and sulphur atoms are chemically bonded in a fixed stoichiometric ratio with entirely new properties.",
+    "keywords": [
+      "stainless steel",
+      "alloy",
+      "iron sulphide",
+      "compound",
+      "chemical bonds",
+      "fixed ratio"
+    ],
+    "explanation": "Although both involve iron, stainless steel retains elemental characteristics within a solid solution without chemical bonding, whereas iron sulphide involves true chemical bonding. This is drawn from pages 118, 126, and 128.",
+    "page_number": "128"
+  },
+  {
+    "id": 75,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Classify the following as matter or non-matter, giving scientific reasons: a silver coin, sunlight, carbon dioxide gas, heat from an oven, and thoughts.",
+    "answer": "1. Matter: Silver coin and carbon dioxide gas, because they have mass and occupy space (volume). 2. Non-matter: Sunlight and heat (forms of energy) as well as thoughts (mental processes), because none of them possess mass or occupy physical volume.",
+    "keywords": [
+      "matter",
+      "non-matter",
+      "silver coin",
+      "carbon dioxide",
+      "sunlight",
+      "heat",
+      "mass and space"
+    ],
+    "explanation": "The presence of mass and physical volume is the definitive scientific test for matter. Pure energy phenomena and mental states lack both. This distinction is emphasized on pages 117 and 130.",
+    "page_number": "130"
+  },
+  {
+    "id": 76,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Why is table salt (halite) considered a mineral and a compound, while seawater is considered a mixture?",
+    "answer": "Halite is a mineral and compound because it is a naturally occurring inorganic solid with a fixed chemical formula (NaCl) and bonded atoms. Seawater is a mixture because it contains varying amounts of salt, water, and dissolved gases physically combined, which can be separated by physical evaporation.",
+    "keywords": [
+      "halite",
+      "mineral",
+      "compound",
+      "seawater",
+      "mixture",
+      "evaporation"
+    ],
+    "explanation": "Halite has an unvarying crystal lattice and fixed stoichiometry, while seawater is a variable liquid solution capable of being fractionated by physical means. This is covered on pages 120, 124, and 129.",
+    "page_number": "129"
+  },
+  {
+    "id": 77,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Provide one example each of a gas-gas, solid-gas, and solid-solid mixture from the chapter, stating whether each is uniform or non-uniform.",
+    "answer": "1. Gas-gas mixture: Atmospheric air; it is uniform in nature. 2. Solid-gas mixture: Carbon/dust particles dispersed in air; it is non-uniform in nature. 3. Solid-solid mixture: Alloys like brass or stainless steel; they are uniform in nature.",
+    "keywords": [
+      "gas-gas",
+      "solid-gas",
+      "solid-solid",
+      "air",
+      "dust in air",
+      "alloys",
+      "uniform"
+    ],
+    "explanation": "Mixtures span diverse states of matter and exhibit varying degrees of uniformity depending on whether the constituent phases disperse at the particulate level. This is outlined in Table 8.1 on page 120.",
+    "page_number": "120"
+  },
+  {
+    "id": 78,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Two substances X and Y are mixed. In Case 1, no energy is absorbed and X is separated by a magnet. In Case 2, strong heating produces a solid Z that does not attract to a magnet. Explain the difference between Case 1 and Case 2.",
+    "answer": "In Case 1, a physical mixture is formed because the components retain their individual physical properties (such as magnetism) without any chemical bonding. In Case 2, heating provides energy to initiate a chemical reaction, forming a compound Z with entirely new properties where magnetic attraction is lost.",
+    "keywords": [
+      "Case 1",
+      "Case 2",
+      "physical mixture",
+      "chemical reaction",
+      "compound",
+      "magnetism"
+    ],
+    "explanation": "This represents the foundational model of mixture versus compound formation exemplified by the iron-sulfur system. This is described on pages 126 and 128.",
+    "page_number": "128"
+  },
+  {
+    "id": 79,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "Why did ancient Indian artisans use bronze or brass rather than pure copper to cast sculptures in Dhokra art?",
+    "answer": "Pure copper is relatively soft and prone to oxidation and tarnishing. Mixing copper with tin (to form bronze) or zinc (to form brass) creates an alloy that has a lower melting point, flows more easily into moulds, is significantly harder, resists corrosion, and gives a lasting golden shine.",
+    "keywords": [
+      "Dhokra art",
+      "pure copper",
+      "bronze",
+      "brass",
+      "harder",
+      "corrosion resistant",
+      "casting"
+    ],
+    "explanation": "Alloying improves mechanical strength, fluidity during molten casting, and resistance to environmental degradation compared to unalloyed base metals. This is explained on pages 118 and 130.",
+    "page_number": "130"
+  },
+  {
+    "id": 80,
+    "subject": "Science",
+    "chapter": "Nature of Matter: Elements, Compounds, and Mixtures-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 70
+    },
+    "question": "How does graphene aerogel illustrate the role of material science in solving major environmental challenges like oil spills?",
+    "answer": "Graphene aerogel is engineered from carbon as an ultralight, highly porous material with immense absorption capacity. Because of its structural porosity, it can rapidly soak up and trap large quantities of hydrophobic oils from contaminated ocean and freshwater surfaces without absorbing water, providing an efficient cleanup mechanism.",
+    "keywords": [
+      "graphene aerogel",
+      "material science",
+      "oil spills",
+      "highly porous",
+      "absorbing capacity",
+      "environmental cleanup"
+    ],
+    "explanation": "Harnessing the allotropic configurations of elements allows material scientists to tailor microscopic porosities, creating specialized sorbents for pollution mitigation. This is featured on page 129.",
+    "page_number": "129"
+  }
+]
