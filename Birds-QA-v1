@@ -1,0 +1,1129 @@
+[
+  {
+    "id": 1,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 15
+    },
+    "question": "Which body parts do birds use to fly in the sky?",
+    "answer": "Birds use their wings and feathers to fly in the sky.",
+    "keywords": [
+      "wings",
+      "feathers",
+      "fly"
+    ],
+    "explanation": "Birds have special body parts that help them fly. Their wings flap in the air and their feathers provide support. This helps them move high in the sky. This topic is discussed on page 1 of the PDF.",
+    "page_number": "1"
+  },
+  {
+    "id": 2,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 6,
+      "max": 16
+    },
+    "question": "Do birds have teeth or lips to eat their food?",
+    "answer": "No, birds do not have teeth or lips. They have beaks to eat food.",
+    "keywords": [
+      "no teeth",
+      "no lips",
+      "beaks",
+      "eat food"
+    ],
+    "explanation": "Birds are different from humans because their mouths do not have lips or teeth. Instead, they are born with hard beaks. They use their beaks to pick up and eat their food. This topic is discussed on page 2 of the PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 3,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 4,
+      "max": 10
+    },
+    "question": "How many legs do birds have?",
+    "answer": "All birds have two legs.",
+    "keywords": [
+      "two legs",
+      "all birds"
+    ],
+    "explanation": "A common feature of all birds is their body structure. Unlike four-legged animals, birds only have a pair of legs. They use these two legs to walk, perch, and hop. This topic is discussed on page 2 of the PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 4,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 6,
+      "max": 15
+    },
+    "question": "Which bird has a curved beak that helps it crack nuts and seeds?",
+    "answer": "The parrot has a curved beak to crack nuts and seeds.",
+    "keywords": [
+      "parrot",
+      "curved beak",
+      "crack nuts",
+      "seeds"
+    ],
+    "explanation": "Parrots love eating nuts and seeds with hard shells. Their beaks are curved and very strong. This curved shape allows them to easily crack open hard shells. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 5,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 6,
+      "max": 16
+    },
+    "question": "Which bird has a long, thin beak to drink nectar from inside flowers?",
+    "answer": "The hummingbird has a long, thin beak to drink nectar from flowers.",
+    "keywords": [
+      "hummingbird",
+      "long thin beak",
+      "drink nectar",
+      "flowers"
+    ],
+    "explanation": "Hummingbirds feed on sweet nectar found deep inside blossom petals. Their beaks are specially shaped like long, thin tubes. This allows them to reach deep into flowers without damaging them. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 6,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 14
+    },
+    "question": "What are the strong claws of eagles and hawks called?",
+    "answer": "The strong claws of eagles and hawks are called talons.",
+    "keywords": [
+      "strong claws",
+      "talons",
+      "eagles",
+      "hawks"
+    ],
+    "explanation": "Birds of prey such as eagles and hawks hunt other small animals for food. They have very sharp and curved claws on their feet. These powerful claws are known as talons. This topic is discussed on page 4 of the PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 7,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 6,
+      "max": 15
+    },
+    "question": "Which body part of a bird continues to grow slowly like human nails?",
+    "answer": "A bird's beak keeps growing slowly, just like our nails.",
+    "keywords": [
+      "beak",
+      "keeps growing",
+      "nails"
+    ],
+    "explanation": "A bird uses its beak constantly to eat, dig, and build nests. Because of this wear and tear, the beak does not stop growing. It grows slowly throughout the bird's life, just like human nails. This topic is discussed on page 4 of the PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 8,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 12
+    },
+    "question": "Which is the only group of animals that have feathers?",
+    "answer": "Birds are the only animals that have feathers.",
+    "keywords": [
+      "birds",
+      "only animals",
+      "feathers"
+    ],
+    "explanation": "Feathers are a unique feature of the bird family. No other animals like mammals, reptiles, or insects have feathers. Feathers help birds stay warm and fly. This topic is discussed on page 5 of the PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 9,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 6,
+      "max": 16
+    },
+    "question": "What is meant by the word 'preening'?",
+    "answer": "Preening is the cleaning and arranging of feathers by birds using their beaks.",
+    "keywords": [
+      "preening",
+      "cleaning",
+      "arranging feathers",
+      "beaks"
+    ],
+    "explanation": "Birds take care of their feathers every day to keep them neat and clean. They use their beaks to smooth out their feathers. This daily activity is known as preening. This topic is discussed on page 6 of the PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 10,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 6,
+      "max": 16
+    },
+    "question": "What is the process of shedding old feathers called?",
+    "answer": "The process of shedding old feathers and growing new ones is called moulting.",
+    "keywords": [
+      "moulting",
+      "shedding",
+      "old feathers",
+      "growing new ones"
+    ],
+    "explanation": "Over time, a bird's feathers get old, damaged, or worn out. From time to time, birds drop their old feathers so fresh ones can grow. This natural process is called moulting. This topic is discussed on page 6 of the PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 11,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 12
+    },
+    "question": "Name any one bird that cannot fly.",
+    "answer": "The penguin is a bird that cannot fly.",
+    "keywords": [
+      "penguin",
+      "ostrich",
+      "kiwi",
+      "cannot fly"
+    ],
+    "explanation": "Not all birds are able to fly in the sky. Some birds have heavy bodies or wings shaped for swimming or running. Examples of flightless birds include penguins, ostriches, and kiwis. This topic is discussed on page 6 of the PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 12,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 6,
+      "max": 15
+    },
+    "question": "What materials does a weaver bird use to build its nest?",
+    "answer": "A weaver bird uses dry grass and twigs to weave its nest.",
+    "keywords": [
+      "weaver bird",
+      "dry grass",
+      "twigs",
+      "nest"
+    ],
+    "explanation": "Weaver birds are famous for making beautifully woven nests. They collect natural materials from plants around them. They skillfully use dry grass and small twigs to build their homes. This topic is discussed on page 7 of the PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 13,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 5,
+      "max": 14
+    },
+    "question": "What does a penguin use to make its nest on the ground?",
+    "answer": "A penguin makes its nest using pebbles on the ground.",
+    "keywords": [
+      "penguin",
+      "nest",
+      "pebbles",
+      "ground"
+    ],
+    "explanation": "Penguins live in cold and rocky places where there are no trees or dry grass. Because of this, they gather small stones from the ground. They arrange these pebbles to create a safe nest for their eggs. This topic is discussed on page 7 of the PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 14,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 6,
+      "max": 16
+    },
+    "question": "What do herbivorous birds eat?",
+    "answer": "Herbivorous birds feed on seeds, fruits, and grains.",
+    "keywords": [
+      "herbivorous birds",
+      "seeds",
+      "fruits",
+      "grains"
+    ],
+    "explanation": "Some birds depend solely on plant parts for their daily nutrition. They do not eat the meat of other animals. Birds like parrots and finches feed on fruits, grains, and seeds. This topic is discussed on page 8 of the PDF.",
+    "page_number": "8"
+  },
+  {
+    "id": 15,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 4,
+      "max": 12
+    },
+    "question": "Give one example of a scavenger bird.",
+    "answer": "The vulture is an example of a scavenger bird.",
+    "keywords": [
+      "vulture",
+      "scavenger bird",
+      "dead animals"
+    ],
+    "explanation": "Scavengers are birds that clean the environment by eating dead animals. They do not hunt live prey. The vulture is a well-known scavenger bird. This topic is discussed on page 8 of the PDF.",
+    "page_number": "8"
+  },
+  {
+    "id": 16,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 6,
+      "max": 16
+    },
+    "question": "What does the focus word 'shrill' mean?",
+    "answer": "Shrill means a loud, high sound that is unpleasant to hear.",
+    "keywords": [
+      "shrill",
+      "loud",
+      "high sound",
+      "unpleasant"
+    ],
+    "explanation": "Different birds make different kinds of calls. Some birds produce sounds that are sharp, high, and rough on our ears. This kind of unpleasant sound is called shrill, like the call of a crow. This topic is discussed on page 8 of the PDF.",
+    "page_number": "8"
+  },
+  {
+    "id": 17,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 8,
+      "max": 18
+    },
+    "question": "What is the seasonal journey of birds called?",
+    "answer": "The seasonal journey of birds from one place to another is called migration.",
+    "keywords": [
+      "migration",
+      "journey",
+      "seasons",
+      "warmer places"
+    ],
+    "explanation": "When winter comes, cold places become too harsh and food becomes scarce. Many birds fly thousands of miles to reach warmer places with good food. This long journey is known as migration. This topic is discussed on page 9 of the PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 18,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 4,
+      "max": 12
+    },
+    "question": "What do we call a group of birds traveling together?",
+    "answer": "A group of birds traveling together is called a flock.",
+    "keywords": [
+      "flock",
+      "group of birds",
+      "traveling"
+    ],
+    "explanation": "Birds often stay together while traveling or searching for food. Flying together helps keep them safe from danger. A large group of flying birds is called a flock. This topic is discussed on page 9 of the PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 19,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 6,
+      "max": 15
+    },
+    "question": "Which bird lays the smallest egg?",
+    "answer": "The hummingbird lays the smallest egg, about the size of a pea.",
+    "keywords": [
+      "hummingbird",
+      "smallest egg",
+      "size of a pea"
+    ],
+    "explanation": "Because hummingbirds are tiny birds, their eggs are also very small. A hummingbird egg is tiny and round, measuring roughly the size of a green pea. This topic is discussed on page 10 of the PDF.",
+    "page_number": "10"
+  },
+  {
+    "id": 20,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 6,
+      "max": 16
+    },
+    "question": "Which bird lays the largest egg?",
+    "answer": "The ostrich lays the largest egg, about the size of a muskmelon.",
+    "keywords": [
+      "ostrich",
+      "largest egg",
+      "size of a muskmelon"
+    ],
+    "explanation": "The ostrich is the biggest bird in the world. As a result, it also lays the largest eggs of all living birds. Its egg is huge, roughly the size of a sweet muskmelon. This topic is discussed on page 10 of the PDF.",
+    "page_number": "10"
+  },
+  {
+    "id": 21,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 25
+    },
+    "question": "Where can we see birds living around us? Give two examples.",
+    "answer": "We can see birds living on trees, on the ground, or near water. For example, sparrows live on trees and hens spend most of their time on the ground.",
+    "keywords": [
+      "trees",
+      "ground",
+      "water",
+      "sparrows",
+      "hens"
+    ],
+    "explanation": "Birds live in many different habitats in our surroundings. Many birds perch and nest high up in tree branches. Other birds, like hens, prefer staying on the ground. This topic is discussed on page 1 of the PDF.",
+    "page_number": "1"
+  },
+  {
+    "id": 22,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 22
+    },
+    "question": "Write any two common features that all birds share.",
+    "answer": "Two features common to all birds are that they have feathers covering their bodies and all birds lay eggs.",
+    "keywords": [
+      "feathers covering bodies",
+      "lay eggs",
+      "two legs",
+      "beaks",
+      "wings"
+    ],
+    "explanation": "Even though birds come in different colours and sizes, they share key characteristics. All birds have bodies covered with feathers and a pair of wings. They also reproduce by laying eggs. This topic is discussed on page 2 of the PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 23,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 24
+    },
+    "question": "What kind of beak do vultures and eagles have, and how does it help them?",
+    "answer": "Vultures and eagles have hooked beaks. This sharp, curved shape helps them tear the flesh of animals easily.",
+    "keywords": [
+      "vultures",
+      "eagles",
+      "hooked beaks",
+      "tear flesh"
+    ],
+    "explanation": "Eagles and vultures feed on animal meat. They do not have teeth to chew their food. Their strong, hooked beaks act like knives to pull and tear flesh apart. This topic is discussed on page 2 of the PDF.",
+    "page_number": "2"
+  },
+  {
+    "id": 24,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 24
+    },
+    "question": "Describe the beak of a pigeon and write what food it eats.",
+    "answer": "A pigeon has a short, hard beak. It uses this strong beak to pick and eat seeds and grains.",
+    "keywords": [
+      "pigeon",
+      "short hard beak",
+      "seeds",
+      "grains"
+    ],
+    "explanation": "Pigeons feed mainly on hard grains scattered on the ground. A long beak is not needed for grains. Their short, hard beaks provide the strength needed to pick and crack open grains. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 25,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 25
+    },
+    "question": "How does a woodpecker's beak help it find food?",
+    "answer": "A woodpecker has a strong, chisel-shaped beak. It taps tree bark with this beak to drill holes and find hidden insects.",
+    "keywords": [
+      "woodpecker",
+      "chisel-shaped beak",
+      "tap tree bark",
+      "insects"
+    ],
+    "explanation": "Woodpeckers look for insects that hide inside hard tree trunks. Their beaks are straight and pointed like a carpenter's chisel. This allows them to peck hard wood repeatedly to catch food. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 26,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 22
+    },
+    "question": "What type of feet do ducks have, and how do they help the duck?",
+    "answer": "Ducks have webbed feet. These webbed feet act like paddles to push water and help them swim easily.",
+    "keywords": [
+      "ducks",
+      "webbed feet",
+      "swim easily",
+      "paddles",
+      "water"
+    ],
+    "explanation": "Ducks spend most of their time floating and moving across ponds. The skin connects their front toes, forming a flat surface. This webbed shape pushes against water just like boat oars. This topic is discussed on page 4 of the PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 27,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 10,
+      "max": 22
+    },
+    "question": "Why do herons have long legs?",
+    "answer": "Herons have long legs so they can walk or wade in water without getting their body wet while catching food.",
+    "keywords": [
+      "herons",
+      "long legs",
+      "walk",
+      "wade in water",
+      "catch food"
+    ],
+    "explanation": "Herons hunt small fish and frogs in shallow ponds and lakes. Their tall, thin legs lift their body well above the water surface. This helps them move quietly through water to spot prey. This topic is discussed on page 4 of the PDF.",
+    "page_number": "4"
+  },
+  {
+    "id": 28,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 25
+    },
+    "question": "Why do many birds turn their heads around to look at things?",
+    "answer": "Many birds cannot move their eyes inside their eye sockets as much as humans can. Therefore, they must turn their heads to look around.",
+    "keywords": [
+      "cannot move eyes",
+      "turn heads",
+      "look around",
+      "humans"
+    ],
+    "explanation": "Human eyes can easily move up, down, and sideways without moving the neck. Most birds have fixed eyes that cannot roll around freely. To see what is beside or behind them, they turn their entire head. This topic is discussed on page 5 of the PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 29,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 25
+    },
+    "question": "What are down feathers, and how do they help a bird?",
+    "answer": "Down feathers are small, soft, and fluffy feathers that cover a bird's body. They keep the bird warm by trapping heat.",
+    "keywords": [
+      "down feathers",
+      "small soft fluffy",
+      "cover body",
+      "keep bird warm"
+    ],
+    "explanation": "Down feathers grow close to a bird's skin under the outer feathers. They feel like soft cotton wool. Their main job is to trap body heat so the bird stays warm in cold weather. This topic is discussed on page 5 of the PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 30,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 25
+    },
+    "question": "What are flight feathers, and where are they found on a bird's body?",
+    "answer": "Flight feathers are long, strong feathers found on the wings and tail of a bird. They help the bird to fly.",
+    "keywords": [
+      "flight feathers",
+      "long strong",
+      "wings",
+      "tail",
+      "help fly"
+    ],
+    "explanation": "Unlike soft down feathers, flight feathers are stiff, long, and tough. They are located along the edges of the wings and the tail. These feathers catch the wind and help the bird steer and fly. This topic is discussed on page 5 of the PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 31,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 25
+    },
+    "question": "How do penguins use their wings differently from other flying birds?",
+    "answer": "Penguins cannot fly in the air. Instead, they use their wings like flippers to paddle and swim quickly in water.",
+    "keywords": [
+      "penguins",
+      "cannot fly",
+      "wings like flippers",
+      "swim in water"
+    ],
+    "explanation": "Penguins are flightless birds adapted to life in cold oceans. Their wings are stiff and flat rather than feathered for flight. They use them just like flippers to glide and steer underwater. This topic is discussed on page 6 of the PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 32,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 25
+    },
+    "question": "How does a woodpecker make its nest?",
+    "answer": "A woodpecker makes its nest by cutting a hole into a tree trunk using its strong and sharp beak.",
+    "keywords": [
+      "woodpecker",
+      "hole in a tree",
+      "sharp beak",
+      "tree trunk"
+    ],
+    "explanation": "Woodpeckers do not build nests out of twigs or grass like other birds. Instead, they use their hard, chisel-shaped beaks to chisel wood. They hollow out a safe cavity inside a tree trunk to lay eggs. This topic is discussed on page 7 of the PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 33,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 25
+    },
+    "question": "Why is a hen called an omnivorous bird?",
+    "answer": "A hen is called an omnivore because it feeds on both plant and animal foods, such as grains as well as worms.",
+    "keywords": [
+      "hen",
+      "omnivore",
+      "plants and animals",
+      "grains",
+      "worms"
+    ],
+    "explanation": "Omnivores are living creatures that eat both plant matter and small animals. Hens peck at grains, seeds, and leaves, but they also eat insects and earthworms. This gives them a mixed diet. This topic is discussed on page 8 of the PDF.",
+    "page_number": "8"
+  },
+  {
+    "id": 34,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 25
+    },
+    "question": "Give two reasons why birds make sounds.",
+    "answer": "Birds make sounds to communicate with each other, such as warning others about danger or informing them about available food.",
+    "keywords": [
+      "communicate",
+      "warning about danger",
+      "informing about food",
+      "finding partner"
+    ],
+    "explanation": "Birds do not speak words like humans, but they produce chirps, calls, and songs. These vocal sounds help them share vital messages. They can alert their flock of an enemy or call a mate. This topic is discussed on page 8 of the PDF.",
+    "page_number": "8"
+  },
+  {
+    "id": 35,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 26
+    },
+    "question": "How do parent birds help their young ones learn to fly?",
+    "answer": "Parent birds watch over their babies and encourage them to make short flights until they gain practice and confidence to fly alone.",
+    "keywords": [
+      "watch over",
+      "encourage",
+      "short flights",
+      "practice",
+      "confidence"
+    ],
+    "explanation": "When young birds grow strong wings, they start practising by flapping in the nest. Their parents stay nearby to protect them. With repeated small leaps and parent support, they learn to fly. This topic is discussed on page 9 of the PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 36,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 25
+    },
+    "question": "Why does the common teal migrate to India during winter?",
+    "answer": "The common teal migrates to India to escape freezing winter weather in search of warmer places and plenty of food.",
+    "keywords": [
+      "common teal",
+      "choti murghabi",
+      "migrate",
+      "warmer places",
+      "food"
+    ],
+    "explanation": "The common teal is also known as choti murghabi. In northern regions, lakes freeze and plants get covered in snow during winter. These ducks fly south to India where water bodies remain open and food is abundant. This topic is discussed on page 9 of the PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 37,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 12,
+      "max": 26
+    },
+    "question": "How do owls look around easily even though they cannot move their eyes much?",
+    "answer": "Owls cannot move their eyes inside their sockets, but they have very flexible necks that can turn their heads almost 270 degrees.",
+    "keywords": [
+      "owls",
+      "turn heads",
+      "270 degrees",
+      "cannot move eyes"
+    ],
+    "explanation": "An owl's large eyes are locked into bony tubes in its skull. To make up for this, an owl has special neck bones. It can twist its head nearly all the way around to look in any direction. This topic is discussed on page 10 of the PDF.",
+    "page_number": "10"
+  },
+  {
+    "id": 38,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How do the wings of a falcon, an albatross, and a sparrow differ according to how they fly?",
+    "answer": "A falcon has narrow, pointed wings that help it fly very fast. An albatross has long and narrow wings that help it glide high for a long time. A sparrow has short and rounded wings to move quickly in small spaces like trees.",
+    "keywords": [
+      "falcon",
+      "narrow pointed wings",
+      "albatross",
+      "long and narrow",
+      "sparrow",
+      "short and rounded"
+    ],
+    "explanation": "Wing shape depends on where and how a bird lives. Pointed wings give falcons great hunting speed. Long wings allow albatrosses to glide over oceans effortlessly. Short wings help sparrows dodge between leafy tree branches. This topic is discussed on page 6 of the PDF.",
+    "page_number": "6"
+  },
+  {
+    "id": 39,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Why do birds build nests? Mention two different places where bird nests can be found.",
+    "answer": "Birds build nests to lay eggs safely and protect their young ones from enemies and bad weather. Nests can be seen on the ground, high up in trees or shrubs, and on buildings.",
+    "keywords": [
+      "build nests",
+      "lay eggs",
+      "safety",
+      "trees",
+      "ground",
+      "buildings"
+    ],
+    "explanation": "Nests serve as nurseries for growing bird families. They keep delicate eggs from breaking or rolling away. Different birds choose different locations like tree forks, rooftops, or open ground to make their nests. This topic is discussed on page 7 of the PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 40,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Explain the difference between herbivorous, carnivorous, and scavenger birds. Give one example of each.",
+    "answer": "Herbivorous birds eat plant parts like seeds and fruits, for example, parrots. Carnivorous birds eat the flesh of other animals or insects, for example, eagles. Scavenger birds feed on the bodies of dead animals, for example, vultures.",
+    "keywords": [
+      "herbivorous",
+      "parrot",
+      "carnivorous",
+      "eagle",
+      "scavenger",
+      "vulture",
+      "flesh",
+      "seeds"
+    ],
+    "explanation": "Birds eat different types of food based on their bodily needs and beak shapes. Plant-eaters rely on grains and fruits. Hunters actively catch living prey for meat. Scavengers clean the natural environment by eating carcasses. This topic is discussed on page 8 of the PDF.",
+    "page_number": "8"
+  },
+  {
+    "id": 41,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "What is migration? Why do birds migrate, and how do they travel?",
+    "answer": "Migration is the journey taken by birds to travel from one place to another as seasons change. Birds migrate from colder regions to warmer places in search of food and shelter. They usually travel together in groups called flocks.",
+    "keywords": [
+      "migration",
+      "seasons change",
+      "colder places",
+      "warmer places",
+      "food and shelter",
+      "flocks"
+    ],
+    "explanation": "During harsh winter months, birds cannot survive severe cold and snow. They fly toward warm places where food is easy to find. Traveling in groups called flocks makes their journey safer and easier. This topic is discussed on pages 9 and 10 of the PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 42,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Describe three ways in which parent birds take care of their young ones.",
+    "answer": "First, parent birds build cozy nests to keep eggs and hatchlings safe. Second, they feed and protect their chicks from danger. Third, they watch over their babies and encourage them until they learn to fly.",
+    "keywords": [
+      "build nests",
+      "keep eggs safe",
+      "feed",
+      "protect chicks",
+      "encourage to fly"
+    ],
+    "explanation": "Baby birds cannot fly or feed themselves when they hatch out of eggs. Parent birds care for them just like human parents do. They bring food, keep them warm, and guard them until they can survive on their own. This topic is discussed on pages 8 and 9 of the PDF.",
+    "page_number": "9"
+  },
+  {
+    "id": 43,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "A bird has a short, hard beak and is seen picking grains from the ground. What type of food does it eat, and how does its beak help it?",
+    "answer": "This bird eats seeds, grains, and fruits. Its beak is short and hard, which gives it great strength to easily pick up tiny grains from the ground and crack open tough seed shells before swallowing.",
+    "keywords": [
+      "grains",
+      "seeds",
+      "short hard beak",
+      "pick up",
+      "crack open shells"
+    ],
+    "explanation": "Birds like sparrows and pigeons have short, conical beaks. These beaks work like small nutcrackers. Their hard surface crushes seeds and grains easily so the bird can digest them. This topic is discussed on pages 3 and 16 of the PDF.",
+    "page_number": "16"
+  },
+  {
+    "id": 44,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Compare a duck and an eagle based on their feet and their food habits.",
+    "answer": "A duck has webbed feet that help it swim easily in water, and it feeds on both water plants and small animals like worms. An eagle has strong claws called talons to catch live prey, and it feeds on flesh by tearing meat with its hooked beak.",
+    "keywords": [
+      "duck",
+      "webbed feet",
+      "swim",
+      "eagle",
+      "talons",
+      "catch prey",
+      "tear flesh"
+    ],
+    "explanation": "Ducks and eagles have different body features because they live and eat differently. Ducks are water birds with webbed toes for swimming and eating pond foods. Eagles are birds of prey with sharp talons designed to grasp and carry flesh. This topic is discussed on pages 4, 8, and 17 of the PDF.",
+    "page_number": "17"
+  },
+  {
+    "id": 45,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "Meena saw a bird trying to swim, but it could not move properly in water. What might be the reason?",
+    "answer": "The bird could not move properly because it does not have webbed feet. Webbed feet have skin joined between the toes to push water like paddles. Birds with perching or clawed feet cannot paddle through water.",
+    "keywords": [
+      "no webbed feet",
+      "push water",
+      "paddles",
+      "cannot swim",
+      "toes"
+    ],
+    "explanation": "Only birds with webbed feet, like ducks, can swim smoothly on water. If a bird has clawed or perching feet, water slips right between its spread-out toes. As a result, it cannot push itself forward to swim. This topic is discussed on pages 4 and 17 of the PDF.",
+    "page_number": "17"
+  },
+  {
+    "id": 46,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "If birds did not build nests, what problems would they face while laying eggs and raising their young ones?",
+    "answer": "If birds did not build nests, their eggs could easily roll away, fall, and break. Predators could easily spot and eat the eggs or young chicks. In addition, the baby birds would have no protection from rain, cold winds, or hot sun.",
+    "keywords": [
+      "eggs roll away",
+      "break",
+      "predators",
+      "enemies",
+      "protection",
+      "rain",
+      "cold"
+    ],
+    "explanation": "A nest is essential for keeping fragile bird eggs in one warm, safe spot. Without a nest, eggs would break on rough ground. Predators could steal them easily, and weather conditions would harm featherless baby birds. This topic is discussed on pages 7, 10, and 18 of the PDF.",
+    "page_number": "18"
+  },
+  {
+    "id": 47,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "How are the beaks of a hummingbird and a stork suited to the food they eat?",
+    "answer": "A hummingbird has a long, thin beak like a straw to reach deep inside petals and drink nectar. A stork has a long, pointed beak that acts like a spear to catch slippery fish from water.",
+    "keywords": [
+      "hummingbird",
+      "long thin beak",
+      "nectar",
+      "stork",
+      "long pointed beak",
+      "catch fish"
+    ],
+    "explanation": "A bird's beak matches its hunting style and diet. The delicate, needle-like beak of a hummingbird slips into deep flowers to sip sweet liquid. The sharp, dagger-like beak of a stork allows it to snatch swimming fish instantly. This topic is discussed on page 3 of the PDF.",
+    "page_number": "3"
+  },
+  {
+    "id": 48,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Why should we show compassion for Mother Earth by protecting bird nests and planting trees?",
+    "answer": "Birds depend on green trees and clean surroundings to build their nests, find food, and raise their chicks safely. By planting trees and not disturbing nests, we protect birds' homes and help baby birds grow safely.",
+    "keywords": [
+      "compassion",
+      "Mother Earth",
+      "planting trees",
+      "protect bird nests",
+      "safe homes"
+    ],
+    "explanation": "Birds need nature to survive and thrive. When humans cut down trees or break nests, birds lose their homes and baby birds can die. Planting leafy trees gives birds a place to shelter, find food, and raise their young. This topic is discussed on page 7 of the PDF.",
+    "page_number": "7"
+  },
+  {
+    "id": 49,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Compare down feathers and flight feathers based on their appearance, location, and function.",
+    "answer": "Down feathers are small, soft, and fluffy, found covering the bird's body to keep it warm. Flight feathers are long and strong, found on the wings and tail, and their function is to help the bird fly.",
+    "keywords": [
+      "down feathers",
+      "small soft fluffy",
+      "keep warm",
+      "flight feathers",
+      "long strong",
+      "wings and tail",
+      "help fly"
+    ],
+    "explanation": "Birds have two main feather types that serve different needs. Soft down feathers act like warm inner clothing by holding heat close to the skin. Stiff flight feathers act like sails on wings and tails to propel and steer the bird in the sky. This topic is discussed on page 5 of the PDF.",
+    "page_number": "5"
+  },
+  {
+    "id": 50,
+    "subject": "EVS",
+    "chapter": "Birds-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Explain how penguins and ostriches move around without being able to fly in the air.",
+    "answer": "Penguins cannot fly in the air, but they use their wings like flippers to swim fast in water and walk upright on land. Ostriches also cannot fly, but they have long, powerful legs that make them very fast runners on land.",
+    "keywords": [
+      "penguins",
+      "flippers",
+      "swim in water",
+      "walk upright",
+      "ostriches",
+      "fast runners",
+      "strong legs"
+    ],
+    "explanation": "Flightless birds have developed other extraordinary ways to travel. Penguins have streamlined bodies and wing flippers that allow them to 'fly' underwater. Ostriches have long, muscular legs that let them outrun danger across open ground. This topic is discussed on pages 6 and 10 of the PDF.",
+    "page_number": "6"
+  }
+]
