@@ -1,0 +1,1556 @@
+[
+{
+"id":1,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":20
+},
+"question":"What did Rakesh buy on his way home from school?",
+"answer":"Rakesh bought a bunch of sweet-and-sour Kashmiri cherries for fifty paise on his way home.",
+"keywords":[
+"cherries",
+"fifty paise",
+"sweet and sour",
+"Kashmiri"
+],
+"explanation":"On his walk home from the Mussoorie bazaar, Rakesh spent fifty paise on a bunch of cherries from the Kashmir Valley. This detail is found on page 156 of the textbook.",
+"page_number":"156"
+},
+{
+"id":2,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":22
+},
+"question":"Where did Rakesh live with his grandfather?",
+"answer":"Rakesh lived with his grandfather in a little cottage on the outskirts of Mussoorie, where the forest began.",
+"keywords":[
+"cottage",
+"outskirts of Mussoorie",
+"forest began"
+],
+"explanation":"The story specifies that Grandfather owned a cottage situated just outside town on the forest edge. This concept is discussed on page 156 of the textbook.",
+"page_number":"156"
+},
+{
+"id":3,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":22
+},
+"question":"Why was Rakesh sent to stay with his grandfather in Mussoorie?",
+"answer":"Rakesh was sent to Mussoorie to attend school because there were no schools in his native village.",
+"keywords":[
+"school",
+"no schools",
+"parents",
+"village"
+],
+"explanation":"Rakesh's parents wanted him to receive an education, which was unavailable in their mountain village. This detail is mentioned on page 156 of the textbook.",
+"page_number":"156"
+},
+{
+"id":4,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":6,
+"max":18
+},
+"question":"Name the crops that Rakesh's parents grew in their village.",
+"answer":"Rakesh's parents grew maize, rice, and barley in terraced mountain fields.",
+"keywords":[
+"maize",
+"rice",
+"barley",
+"terraced fields"
+],
+"explanation":"Rakesh's family farmed narrow terraced slopes fifty miles away. This fact is stated on page 156 of the textbook.",
+"page_number":"156"
+},
+{
+"id":5,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":22
+},
+"question":"Where did Grandfather tell Rakesh to plant the cherry seed?",
+"answer":"Grandfather instructed Rakesh to plant the seed in a shady corner where it would not be disturbed.",
+"keywords":[
+"shady corner",
+"not be disturbed",
+"plant"
+],
+"explanation":"When Rakesh began digging near the mustard bed, Grandfather directed him to a safe, quiet corner of the garden. This is described on page 157 of the textbook.",
+"page_number":"157"
+},
+{
+"id":6,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":20
+},
+"question":"How did Rakesh plant the cherry seed without digging?",
+"answer":"Rakesh pressed the seed into the soft and yielding earth using his thumb.",
+"keywords":[
+"pressed",
+"soft and yielding earth",
+"thumb"
+],
+"explanation":"The soil in the chosen corner was soft enough that no tools were necessary. This action is depicted on page 157 of the textbook.",
+"page_number":"157"
+},
+{
+"id":7,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":6,
+"max":18
+},
+"question":"How tall was the cherry plant when Rakesh first noticed it in spring?",
+"answer":"The tiny cherry plant was about four inches high when Rakesh discovered it.",
+"keywords":[
+"four inches",
+"tiny tree",
+"twig",
+"spring"
+],
+"explanation":"When spring arrived, Rakesh saw a well-rooted green twig measuring four inches. This is mentioned on page 158 of the textbook.",
+"page_number":"158"
+},
+{
+"id":8,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":6,
+"max":18
+},
+"question":"Why did Rakesh circle the tiny cherry tree with pebbles?",
+"answer":"Rakesh circled the cherry tree with pebbles to provide it with privacy.",
+"keywords":[
+"pebbles",
+"privacy",
+"circled",
+"protection"
+],
+"explanation":"Rakesh explained to Grandfather that the circular boundary of stones was meant to give the sapling privacy. This is found on page 159 of the textbook.",
+"page_number":"159"
+},
+{
+"id":9,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":20
+},
+"question":"Which animal caused the first major setback to the young cherry tree?",
+"answer":"A goat entered the garden and ate all the leaves of the young tree.",
+"keywords":[
+"goat",
+"ate all the leaves",
+"garden"
+],
+"explanation":"When the tree was two feet tall, a goat wandered in and stripped off all its foliage. This event is recorded on page 159 of the textbook.",
+"page_number":"159"
+},
+{
+"id":10,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":20
+},
+"question":"Who was the cherry tree's first visitor?",
+"answer":"A bright green praying-mantis perched on a branch was the tree's first visitor.",
+"keywords":[
+"praying-mantis",
+"first visitor",
+"bright green"
+],
+"explanation":"Rakesh observed a praying-mantis with bulging eyes and allowed it to remain as the first visitor. This appears on page 161 of the textbook.",
+"page_number":"161"
+},
+{
+"id":11,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":20
+},
+"question":"What did Rakesh say to the hairy caterpillar before relocating it?",
+"answer":"Rakesh told the hairy caterpillar, \"Come back when you're a butterfly.\"",
+"keywords":[
+"Come back",
+"butterfly",
+"caterpillar"
+],
+"explanation":"Instead of destroying the pest eating the leaves, Rakesh gently transferred it to dry foliage with this remark. This is recorded on page 161 of the textbook.",
+"page_number":"161"
+},
+{
+"id":12,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":20
+},
+"question":"How old were Rakesh and the cherry tree when the first blossom appeared?",
+"answer":"Rakesh was nine years old and the cherry tree was four years old.",
+"keywords":[
+"nine years old",
+"four",
+"birthday",
+"blossom"
+],
+"explanation":"In February, coinciding with Rakesh's ninth birthday, the four-year-old tree revealed its first blossom. This is noted on page 161 of the textbook.",
+"page_number":"161"
+},
+{
+"id":13,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":20
+},
+"question":"How did Rakesh react when he tasted the first cherry from his tree?",
+"answer":"Rakesh spat out the cherry because it was too sour to eat.",
+"keywords":[
+"spat it out",
+"too sour",
+"tasted"
+],
+"explanation":"The initial fruit produced by the tree was sour, causing Rakesh to spit it out in disgust. This occurs on page 162 of the textbook.",
+"page_number":"162"
+},
+{
+"id":14,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":6,
+"max":18
+},
+"question":"Which birds came to feast on the cherries?",
+"answer":"Bulbuls and scarlet minivets flitted through the foliage to feast on the cherries.",
+"keywords":[
+"bulbuls",
+"scarlet minivets",
+"feast",
+"cherries"
+],
+"explanation":"Even though Rakesh found the fruit sour, larger birds enjoyed eating them. This detail is found on page 162 of the textbook.",
+"page_number":"162"
+},
+{
+"id":15,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":5,
+"max":16
+},
+"question":"What does the word 'appiko' mean in Kannada?",
+"answer":"In the Kannada language, the word 'appiko' means 'hugging'.",
+"keywords":[
+"hugging",
+"Kannada",
+"Appiko"
+],
+"explanation":"The transcript notes that Appiko means hugging, mirroring the Chipko tree-hugging movement in Karnataka. This appears on page 201 of the textbook.",
+"page_number":"201"
+},
+{
+"id":16,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":6,
+"max":18
+},
+"question":"How many syllables are there in the word 'grandfather'?",
+"answer":"The word 'grandfather' contains three syllables (grand-fa-ther).",
+"keywords":[
+"three syllables",
+"grand-fa-ther",
+"beats"
+],
+"explanation":"Breaking the word into unbroken vowel sounds yields grand-fa-ther, totaling three syllables. This is taught on page 170 of the textbook.",
+"page_number":"170"
+},
+{
+"id":17,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":6,
+"max":18
+},
+"question":"How many syllables are present in the word 'caterpillar'?",
+"answer":"The word 'caterpillar' consists of four syllables (cat-er-pil-lar).",
+"keywords":[
+"four syllables",
+"cat-er-pil-lar",
+"vowel sounds"
+],
+"explanation":"The word breaks phonetically into four beats: cat-er-pil-lar. This syllable exercise is found on page 170 of the textbook.",
+"page_number":"170"
+},
+{
+"id":18,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":6,
+"max":18
+},
+"question":"Who is known as 'The Tiger Man of India'?",
+"answer":"Kailash Sankhala is known as 'The Tiger Man of India'.",
+"keywords":[
+"Kailash Sankhala",
+"Tiger Man of India",
+"conservationist"
+],
+"explanation":"Kailash Sankhala led the 1971 tiger census and directed Project Tiger. This information is given on page 172 of the textbook.",
+"page_number":"172"
+},
+{
+"id":19,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":6,
+"max":18
+},
+"question":"Identify the verb form and tense in: \"The cherry tree had developed into a tall tree.\"",
+"answer":"The verb phrase 'had developed' is in the Past Perfect Tense.",
+"keywords":[
+"had developed",
+"Past Perfect Tense"
+],
+"explanation":"The auxiliary verb 'had' combined with the past participle 'developed' forms the past perfect tense. This question is on page 2 of Worksheet Level A.",
+"page_number":"Worksheet A p.2"
+},
+{
+"id":20,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":6,
+"max":18
+},
+"question":"Which negative prefix is added to the word 'lucky' to form its antonym?",
+"answer":"The negative prefix 'un-' is added to 'lucky' to form 'unlucky'.",
+"keywords":[
+"un-",
+"unlucky",
+"negative prefix"
+],
+"explanation":"Adding the prefix 'un-' changes 'lucky' to its opposite meaning, 'unlucky'. This exercise appears on page 1 of Worksheet Level B.",
+"page_number":"Worksheet B p.1"
+},
+{
+"id":21,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":24
+},
+"question":"Identify the odd word out: plodded, galloped, scrambled, trudged.",
+"answer":"'Galloped' is the odd word because it means moving very fast, while the others describe slow, difficult walking.",
+"keywords":[
+"galloped",
+"odd word",
+"fast movement",
+"slow movement"
+],
+"explanation":"Plodded, scrambled, and trudged imply heavy, slow, or arduous movement, whereas galloped signifies rapid running. This is covered on page 166 of the textbook.",
+"page_number":"166"
+},
+{
+"id":22,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Why were there very few fruit trees in the Himalayan foothills where Rakesh lived?",
+"answer":"There were few fruit trees because the mountain soil was stony and dry, cold winds stunted plant growth. Only hardy oak and deodar trees flourished on sheltered slopes.",
+"keywords":[
+"stony soil",
+"cold winds",
+"stunted growth",
+"oak and deodar"
+],
+"explanation":"The harsh Himalayan environment featured rocky soil and bitter winds that checked the development of tender fruit trees. This ecological background is presented on page 156 of the textbook.",
+"page_number":"156"
+},
+{
+"id":23,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What philosophical advice did Grandfather give Rakesh regarding luck when Rakesh wanted to keep the seed?",
+"answer":"Grandfather advised that nothing is lucky if it is kept hidden away. He explained that to receive luck, one must put the seed to purposeful use by planting it.",
+"keywords":[
+"nothing is lucky",
+"put it away",
+"put it to use",
+"plant it"
+],
+"explanation":"Grandfather taught Rakesh that passive possession yields nothing and that effort is required to unlock potential. This exchange is recorded on page 157 of the textbook.",
+"page_number":"157"
+},
+{
+"id":24,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"How did Rakesh and Grandfather spend their winter evenings together?",
+"answer":"They sat warmly beside a charcoal fire. Grandfather narrated imaginative folk tales about ghosts and magical creatures, while Rakesh read aloud the daily newspaper to assist Grandfather's weak eyesight.",
+"keywords":[
+"charcoal fire",
+"stories",
+"read newspaper",
+"weak eyesight"
+],
+"explanation":"Their winter routine combined traditional oral storytelling by the elder with modern reading by the grandson. This warm domestic picture appears on pages 157-158 of the textbook.",
+"page_number":"157"
+},
+{
+"id":25,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What sign in nature alerted Rakesh to the arrival of spring?",
+"answer":"Rakesh knew spring had arrived when he saw wild ducks flying northward to Siberia in a neat V-shaped formation, their clear calls ringing through the crisp mountain air.",
+"keywords":[
+"spring",
+"wild ducks",
+"V-shaped formation",
+"Siberia"
+],
+"explanation":"The seasonal migration of waterfowl toward northern breeding grounds signaled the departure of winter. This visual imagery is described on page 158 of the textbook.",
+"page_number":"158"
+},
+{
+"id":26,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"How did Grandfather reassure Rakesh when the goat ate the leaves of the cherry tree?",
+"answer":"Seeing that Rakesh was deeply upset, Grandfather comforted him by saying cherry trees are tough and resilient, assuring him that the sapling would recover and sprout new leaves.",
+"keywords":[
+"never mind",
+"tough",
+"grow again",
+"reassured"
+],
+"explanation":"Grandfather provided steady encouragement during moments of distress, demonstrating his faith in nature's biological resilience. This is highlighted on page 159 of the textbook.",
+"page_number":"159"
+},
+{
+"id":27,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"What damage did the grass-cutter woman cause to the cherry tree?",
+"answer":"While scrambling down the hillside cutting grass, a woman swung her sharp scythe recklessly through the foliage, slicing the young cherry tree cleanly in two.",
+"keywords":[
+"grass-cutter",
+"scythe",
+"cut in two",
+"damage"
+],
+"explanation":"The woman's careless swing split the trunk in half, threatening the sapling's survival and angering Grandfather. This incident is detailed on page 160 of the textbook.",
+"page_number":"160"
+},
+{
+"id":28,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"How did the cherry tree demonstrate its resilience after being cut in two?",
+"answer":"The cherry tree refused to die; by the arrival of the next summer season, it had sent out several healthy new shoots bearing tender, vibrant green leaves.",
+"keywords":[
+"no intention of dying",
+"new shoots",
+"tender green leaves",
+"resilience"
+],
+"explanation":"Despite suffering a severe cut, the root system survived and generated fresh branches. This biological response is depicted on page 160 of the textbook.",
+"page_number":"160"
+},
+{
+"id":29,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Why did Rakesh pour water on the cherry tree even when it was raining?",
+"answer":"Rakesh watered the tree during rainy weather because he felt a strong personal affection for it and wanted the tree to feel his presence and care.",
+"keywords":[
+"water in rain",
+"know that he was there",
+"affection",
+"care"
+],
+"explanation":"Watering was not merely a physical chore but a tender gesture of emotional attachment and companionship. This behavior is noted on page 161 of the textbook.",
+"page_number":"161"
+},
+{
+"id":30,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":42
+},
+"question":"Why did Rakesh remove the hairy caterpillar gently instead of killing it?",
+"answer":"Rakesh had developed deep compassion for nature. He wanted to protect his tree's foliage, but also respected life, gently relocating the caterpillar to dry leaves so it could transform into a butterfly.",
+"keywords":[
+"caterpillar",
+"heap of dry leaves",
+"butterfly",
+"compassion"
+],
+"explanation":"Rakesh balanced the preservation of his tree with mercy toward other creatures, anticipating its metamorphosis. This is reflected on page 161 of the textbook.",
+"page_number":"161"
+},
+{
+"id":31,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":42
+},
+"question":"How did the severe winter affect Grandfather's temperament and storytelling?",
+"answer":"The blocked roads prevented the arrival of newspapers, leaving Grandfather isolated and grumpy. As a result of his irritation, the stories he narrated in the evenings began to take on unhappy endings.",
+"keywords":[
+"grumpy",
+"no newspaper",
+"blocked road",
+"unhappy endings"
+],
+"explanation":"Grandfather relied on the daily news for stimulation; losing it sourly influenced his mood and evening narratives. This is described on page 161 of the textbook.",
+"page_number":"161"
+},
+{
+"id":32,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":42
+},
+"question":"Why did Grandfather call Rakesh urgently when he spotted the first blossom?",
+"answer":"Grandfather called Rakesh to run out quickly before the delicate blossom fell, gazing at the solitary pale pink flower in awe as though the tree had performed a true miracle.",
+"keywords":[
+"come quickly",
+"before it falls",
+"pale pink blossom",
+"miracle"
+],
+"explanation":"The solitary bloom was delicate and transient, making it an extraordinary milestone after years of patient care. This emotional event is described on page 161 of the textbook.",
+"page_number":"161"
+},
+{
+"id":33,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Why did Grandfather like sitting in a cane chair under the cherry tree?",
+"answer":"Grandfather liked sitting there because the tree provided the perfect balance of refreshing shade, and he found peaceful pleasure in watching its graceful leaves dance in the mountain breeze.",
+"keywords":[
+"right amount of shade",
+"cane chair",
+"leaves dance",
+"pleasure"
+],
+"explanation":"The cherry tree grew large enough to offer practical shade and aesthetic beauty to Grandfather. This tranquil scene is described on page 162 of the textbook.",
+"page_number":"162"
+},
+{
+"id":34,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":18,
+"max":35
+},
+"question":"Fill in the blanks with the correct past tense forms of the verbs: \"Rakesh _____ [water] the cherry tree when it _____ [start] raining.\"",
+"answer":"Rakesh was watering the cherry tree when it started raining.",
+"keywords":[
+"was watering",
+"started",
+"Past Continuous",
+"Simple Past"
+],
+"explanation":"An ongoing past background action takes the Past Continuous tense ('was watering'), interrupted by a single completed event in Simple Past ('started'). This grammar rule appears on page 1 of Worksheet Level A.",
+"page_number":"Worksheet A p.1"
+},
+{
+"id":35,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Rearrange the jumbled words to form a correct sentence: \"tree / the / grew / slowly/ steadily/but/\".",
+"answer":"The tree grew slowly but steadily.",
+"keywords":[
+"tree grew slowly",
+"steadily",
+"rearrange"
+],
+"explanation":"Rearranging the subject, verb, and adverbs connected by the conjunction 'but' produces a grammatically sound sentence. This activity is on page 2 of Worksheet Level B.",
+"page_number":"Worksheet B p.2"
+},
+{
+"id":36,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Rearrange these jumbled words into a meaningful sentence: \"Grandfather / story / evening / every / a / told\".",
+"answer":"Grandfather told a story every evening.",
+"keywords":[
+"Grandfather told",
+"story every evening",
+"grammatically correct"
+],
+"explanation":"Putting the subject ('Grandfather') followed by the verb ('told') and object phrase produces a coherent statement. This exercise is found on page 77 of the textbook.",
+"page_number":"77"
+},
+{
+"id":37,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":45
+},
+"question":"Why do migratory wild ducks fly in a V-shaped formation?",
+"answer":"Ducks fly in a V-formation by positioning themselves behind and beside the bird ahead. This synchronizes their wingbeats to catch uplifting wind currents, conserving energy over long migratory distances.",
+"keywords":[
+"V-shaped formation",
+"wing beats",
+"uplifting wind currents",
+"save energy"
+],
+"explanation":"Aerodynamic uplift created by leading birds reduces wind resistance for those trailing behind. This scientific fact is explained on page 172 of the textbook.",
+"page_number":"172"
+},
+{
+"id":38,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":45
+},
+"question":"What monumental environmental achievement earned Jadav Payeng the title 'The Forest Man of India'?",
+"answer":"Jadav Payeng planted nearly forty million trees single-handedly over thirty years in Assam, transforming one thousand acres of barren land into a lush wildlife forest.",
+"keywords":[
+"Jadav Payeng",
+"Forest Man of India",
+"forty million trees",
+"barren land"
+],
+"explanation":"His dedicated individual effort over three decades established an entire ecosystem for wildlife and earned him the Padma Shri. This profile is given on page 202 of the textbook.",
+"page_number":"202"
+},
+{
+"id":39,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Who is Saalumarada Thimakka and what remarkable conservation work did she perform?",
+"answer":"Saalumarada Thimakka is an Indian environmentalist and Padma Shri recipient who has planted and nurtured more than 8,000 trees around her rural Karnataka village since 1948.",
+"keywords":[
+"Saalumarada Thimakka",
+"Padma Shri",
+"8000 trees",
+"environmentalist"
+],
+"explanation":"Her lifelong personal commitment to greening arid rural roadsides makes her a celebrated environmental icon. This is discussed on pages 201-202 of the textbook.",
+"page_number":"201-202"
+},
+{
+"id":40,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":45
+},
+"question":"What distinction does the Thimmamma Marrimanu tree hold in world records?",
+"answer":"Located in Anantapur district of Andhra Pradesh, Thimmamma Marrimanu is a gigantic banyan tree recognized in the 1989 Guinness Book of World Records as the largest tree specimen globally.",
+"keywords":[
+"Thimmamma Marrimanu",
+"Guinness Book of World Records",
+"largest tree specimen",
+"Anantapur"
+],
+"explanation":"This historical banyan canopy covers an immense area and is preserved as a unique natural wonder. This fact is presented on page 172 of the textbook.",
+"page_number":"172"
+},
+{
+"id":41,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Identify and explain the personification used to describe the cherry tree's leaves.",
+"answer":"The author personifies the leaves by describing them as \"always ready to dance, if there's a breeze,\" attributing the lively human action of dancing to tree foliage.",
+"keywords":[
+"personification",
+"ready to dance",
+"breeze",
+"human action"
+],
+"explanation":"By giving the inanimate leaves a cheerful, dancing personality, Ruskin Bond enlivens the tree's natural vitality. This literary technique is analyzed on slide 10 and textbook page 162.",
+"page_number":"162"
+},
+{
+"id":42,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":18,
+"max":35
+},
+"question":"Classify these four adjectives into their correct sensory categories: tangy, smooth, bright, and tender.",
+"answer":"'Tangy' belongs to the sense of taste; 'smooth' and 'tender' belong to the sense of touch; and 'bright' belongs to the sense of sight.",
+"keywords":[
+"tangy - taste",
+"smooth - touch",
+"tender - touch",
+"bright - sight"
+],
+"explanation":"Sensory words describe impressions gathered through our five senses: taste buds, tactile feeling, and vision. This classification appears on page 76 and Answer Key page 1.",
+"page_number":"76"
+},
+{
+"id":43,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":75
+},
+"question":"Describe how Rakesh selected the spot and planted the cherry seed in the garden.",
+"answer":"After Grandfather advised him to put the lucky seed to use, Rakesh initially began digging up a mustard bed. Grandfather redirected him to a shady, undisturbed corner. Because the mountain earth in that section was soft and yielding, Rakesh did not need any tools; he simply pressed the cherry seed deep into the soil with his thumb.",
+"keywords":[
+"shady corner",
+"not disturbed",
+"soft and yielding",
+"pressed with thumb",
+"planted"
+],
+"explanation":"Rakesh followed his grandfather's direction to locate an undisturbed spot with pliable soil. The simple act of pressing the seed in with his thumb initiated the tree's life cycle. This sequence is found on page 157 of the textbook.",
+"page_number":"157"
+},
+{
+"id":44,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Detail the three major setbacks the young cherry tree survived before reaching maturity.",
+"answer":"The cherry tree overcame three critical threats during its early years. First, when it was two feet high, an intruding goat ate all its leaves, leaving only a bare stem. Second, towards the end of the monsoon, a grass-cutter woman accidentally sliced the sapling clean in two with her scythe. Finally, harsh Himalayan winters brought heavy snow and freezing winds that bent the tree low, yet it persevered through each challenge.",
+"keywords":[
+"goat ate leaves",
+"grass-cutter",
+"scythe cut in two",
+"snow and cold winds",
+"resilience"
+],
+"explanation":"The narrative emphasizes resilience by showing how the tree actively recovered from biological, human, and environmental threats. These setbacks are covered across pages 159-161 of the textbook and slide 7.",
+"page_number":"159-161"
+},
+{
+"id":45,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":80
+},
+"question":"Why was this particular cherry tree so precious to Rakesh and Grandfather despite the presence of thousands of forest trees nearby?",
+"answer":"Although the nearby slopes were covered with dense forests of oak and deodar, the cherry tree held a unique place in their hearts because they had planted and nurtured it themselves. Watching an ordinary seed endure setbacks and develop into a blooming, fruit-bearing tree through their personal care created a profound emotional bond of ownership and pride.",
+"keywords":[
+"planted it ourselves",
+"special",
+"emotional bond",
+"forest trees",
+"nurtured"
+],
+"explanation":"Grandfather highlights that human care and personal investment transform an ordinary plant into an intimate companion. This realization occurs on page 163 of the textbook.",
+"page_number":"163"
+},
+{
+"id":46,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Explain Grandfather's philosophy: \"Nothing is lucky if you put it away. If you want luck, you must put it to some use.\"",
+"answer":"Grandfather taught Rakesh that passive possession or superstitious hoarding brings no real fortune. Luck remains dormant and meaningless unless it is paired with purposeful human effort. By encouraging Rakesh to sow the seed into the ground instead of keeping it in his pocket, Grandfather demonstrated that active labor and nurturing turn mere potential into living, tangible success.",
+"keywords":[
+"nothing is lucky",
+"put it to use",
+"purposeful effort",
+"potential into life",
+"planting"
+],
+"explanation":"This thematic core establishes that fortune favors meaningful action rather than idle superstition. Grandfather's guidance serves as the catalyst for the entire story. This philosophy is elaborated on page 157 and slide 4.",
+"page_number":"157"
+},
+{
+"id":47,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":80
+},
+"question":"How did the Himalayan monsoon climate facilitate the growth of the cherry tree and surrounding plant life?",
+"answer":"The arrival of the early monsoon transformed the dry mountain foothills into a lush habitat. Heavy rains drenched the soil, causing ferns to sprout from tree trunks and unusual lilies to emerge in tall grass. The consistent moisture, dripping foliage, and valley mist stimulated rapid growth in the young cherry tree, enabling it to shoot up to a height of two feet.",
+"keywords":[
+"monsoon rains",
+"ferns and lilies",
+"moisture",
+"grew quickly",
+"two feet high"
+],
+"explanation":"The monsoon provided the vital biological nourishment needed to overcome the otherwise stony, arid mountain terrain. This seasonal change is described on page 159 of the textbook.",
+"page_number":"159"
+},
+{
+"id":48,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Describe the thriving micro-ecosystem that gathered around the cherry tree as it grew.",
+"answer":"As the cherry tree matured, it became an active habitat for diverse wildlife. Its first visitor was a bright green praying-mantis, followed by a hairy caterpillar. Later, sweet blossoms attracted buzzing bees seeking nectar, while small birds fed on flower petals. When fruit developed, birds like bulbuls and scarlet minivets frequently flitted among its leaves to feast on the cherries.",
+"keywords":[
+"micro-ecosystem",
+"praying-mantis",
+"caterpillar",
+"bees and nectar",
+"bulbuls and minivets"
+],
+"explanation":"The solitary tree integrated into the wider ecology, supporting pollinators, herbivores, and birds, showing its ecological value beyond human use. This is presented on pages 161-162 and slide 9.",
+"page_number":"161-162"
+},
+{
+"id":49,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Discuss the parallel development between Rakesh and the cherry tree throughout the narrative.",
+"answer":"The author closely aligns Rakesh's growth with the tree's life cycle. At six, a small boy plants a fragile seed. At age eight, as Rakesh grows sturdy with curly hair and 'blackberry eyes' while learning farm work, the cut tree produces hardy new shoots reaching his chest. By age nine, Rakesh is running, reading, and climbing, while the tree blossoms and stands taller than both him and his grandfather.",
+"keywords":[
+"parallel growth",
+"six years old",
+"sturdy at eight",
+"chest-high",
+"nine years old",
+"taller than Rakesh"
+],
+"explanation":"Rakesh's emotional and physical coming-of-age mirrors the tree's resilience and maturity. This thematic parallel is mapped on pages 160-161 and slide 8.",
+"page_number":"160-161"
+},
+{
+"id":50,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":80
+},
+"question":"How did Rakesh's attitude toward the cherry plant change from the time he planted it to when it began growing?",
+"answer":"Initially, Rakesh forgot all about the seed right after burying it and ran off to play cricket. However, once the green sprout emerged, he developed deep attentiveness. He checked it eagerly every morning, learned patience when growth appeared slow, protected it with pebbles, and watered it faithfully—even during rains—showing genuine love and devotion.",
+"keywords":[
+"forgot about seed",
+"eagerly checked",
+"learned patience",
+"pebbles",
+"watered faithfully"
+],
+"explanation":"Rakesh progressed from childlike indifference to responsible stewardship as he developed an emotional bond with the plant. This evolution is traced on pages 157-159 of the textbook.",
+"page_number":"157-159"
+},
+{
+"id":51,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"What did Rakesh mean when he whispered at the end of the story, \"Is this what it feels to be God?\"",
+"answer":"Rakesh was not claiming divine supremacy; instead, he was experiencing the awe and fulfillment of creating and sustaining life. Having planted a tiny seed and patiently guarded it against goats, scythes, and snow into a towering, fruit-bearing organism that supported insects and birds, Rakesh felt the profound joy of participating in nature's miraculous creative power.",
+"keywords":[
+"feels to be God",
+"awe and wonder",
+"creating life",
+"nurturing",
+"creative power"
+],
+"explanation":"The quote encapsulates the story's emotional climax, illustrating how caring for a living entity elevates the human soul. This interpretation is highlighted on page 163 and slide 12.",
+"page_number":"163"
+},
+{
+"id":52,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Identify two character traits exhibited by Grandfather, supporting each with textual evidence.",
+"answer":"First, Grandfather is wise: when Rakesh wants to keep the cherry seed, he imparts practical wisdom, saying, \"If you want luck, you must put it to some use.\" Second, he is optimistic and encouraging: after a goat strips the tree of all its leaves and Rakesh is heartbroken, Grandfather comforts him with cheerful confidence, saying, \"It will grow again, cherry trees are tough.\"",
+"keywords":[
+"wise",
+"put it to use",
+"encouraging",
+"cherry trees are tough",
+"comforts"
+],
+"explanation":"Grandfather consistently acts as a mentor who guides Rakesh with patience, faith in nature, and sound life lessons. This character analysis is detailed on Answer Key page 3.",
+"page_number":"Answer Key p.3"
+},
+{
+"id":53,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Identify two character traits demonstrated by Rakesh, citing evidence from the text for each.",
+"answer":"First, Rakesh displays a caring nature: when he finds a caterpillar eating the leaves, he does not harm it, but gently drops it on dry leaves, telling it to return as a butterfly. Second, he demonstrates patience: after realizing the tree would not shoot up overnight, he waits through changing seasons and years, continuing to look after it until it blossoms.",
+"keywords":[
+"caring",
+"relocated caterpillar",
+"patient",
+"waited years",
+"nurtured"
+],
+"explanation":"Rakesh's empathy toward small creatures and his ability to wait patiently for long-term growth mark his emotional maturity. This is confirmed on Answer Key page 3.",
+"page_number":"Answer Key p.3"
+},
+{
+"id":54,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Describe the intergenerational relationship between Rakesh and his grandfather.",
+"answer":"The relationship between Rakesh and his grandfather is rooted in mutual affection, respect, and shared companionship. Grandfather guides Rakesh with traditional wisdom and storytelling, while Rakesh supports his grandfather by reading him the news. They work together in the garden, share quiet moments under the tree at dusk, and jointly marvel at nature's miracles as equal partners in contemplation.",
+"keywords":[
+"intergenerational bond",
+"affection",
+"mutual respect",
+"storytelling",
+"companionship"
+],
+"explanation":"Bond portrays a tender family dynamic where the elder's wisdom and the child's energy enrich each other. This theme is analyzed on slide 2 and throughout pages 156-163.",
+"page_number":"156-163"
+},
+{
+"id":55,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":30,
+"max":60
+},
+"question":"Rewrite the following unpunctuated dialogue using proper capitalization and punctuation marks:\nrakesh: look dada the tiny tree has grown another inch\ngrandfather: yes it has but remember dont overwater it",
+"answer":"Rakesh: \"Look, Dada! The tiny tree has grown another inch.\"\nGrandfather: \"Yes it has, but remember, don't overwater it.\"",
+"keywords":[
+"punctuation",
+"quotation marks",
+"capitalization",
+"Dada!",
+"don't"
+],
+"explanation":"Direct speech requires quotation marks, appropriate commas, exclamation marks for excitement, and apostrophes in contractions ('don't'). This exercise is found on page 77 and Answer Key page 1.",
+"page_number":"77"
+},
+{
+"id":56,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":70
+},
+"question":"Arrange these three events in chronological order and rewrite each sentence in the indicated tense:\n(a) A goat eats all the leaves. [Past Perfect]\n(b) Rakesh presses the cherry seed into the soil. [Simple Past]\n(c) A woman accidentally cuts the tree in two. [Simple Past]",
+"answer":"1. (Simple Past) Rakesh pressed the cherry seed into the soil.\n2. (Past Perfect) A goat had eaten all the leaves.\n3. (Simple Past) A woman accidentally cut the tree in two.",
+"keywords":[
+"pressed",
+"had eaten",
+"cut",
+"chronological order",
+"tenses"
+],
+"explanation":"The seed was planted first, followed by the goat eating leaves, and later the scythe incident. Verbs must reflect the designated tenses correctly. This task is on page 78 and Answer Key page 2.",
+"page_number":"78"
+},
+{
+"id":57,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"Fill in the blanks with the correct past tense forms of the verbs given in brackets:\nAs we (i) _____ [talk], I (ii) _____ [realise] how much wisdom they (iii) _____ [impart] to me over the years.",
+"answer":"As we (i) were talking, I (ii) realised how much wisdom they (iii) had imparted to me over the years.",
+"keywords":[
+"were talking",
+"realised",
+"had imparted",
+"Past Progressive",
+"Past Perfect"
+],
+"explanation":"'Were talking' expresses ongoing past action (Past Progressive), 'realised' denotes a momentary completed past event (Simple Past), and 'had imparted' describes prior actions (Past Perfect). This appears on page 168 of the textbook.",
+"page_number":"168"
+},
+{
+"id":58,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":90
+},
+"question":"How does Ruskin Bond employ sensory imagery to enrich the reader's experience in 'The Cherry Tree'? Give three examples.",
+"answer":"Bond uses vivid sensory imagery spanning multiple senses: for taste, he depicts the cherries as \"a little sweet, a little sour\" with a sharp tang; for sound, he describes the cold winter wind howling \"whoo-whoo-whoo\" and the grass-cutter's scythe \"swishing\"; for sight, he contrasts the bright pink blossom against the vibrant blue mountain sky, allowing readers to vividly feel the mountain setting.",
+"keywords":[
+"sensory imagery",
+"tang",
+"whoo-whoo-whoo",
+"swishing",
+"pale pink blossom"
+],
+"explanation":"Sensory language transports the reader directly into the sounds, sights, and flavors of the Garhwal Himalayas. This literary craft is analyzed on slide 10 and in exercises on page 167.",
+"page_number":"167"
+},
+{
+"id":59,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":90
+},
+"question":"Discuss how the story exemplifies the core educational value of 'Compassion for Earth'.",
+"answer":"'The Cherry Tree' illustrates that caring for nature fundamentally changes the person who cares. Rakesh begins with mere curiosity, but as he tends the plant, builds stone borders, shelters it during rains, and gently relocates caterpillars, he develops a protective stewardship. The story teaches that fostering life instills patience, humility, and an enduring respect for the interconnected natural world.",
+"keywords":[
+"Compassion for Earth",
+"changes the carer",
+"stewardship",
+"patience",
+"respect for nature"
+],
+"explanation":"The curriculum emphasizes that active environmental care fosters deep moral sensitivity and ecological responsibility. This core theme is detailed on page 82 and Answer Key page 4.",
+"page_number":"82"
+},
+{
+"id":60,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"What was the Chipko Movement, and how did it inspire the Appiko Movement in southern India?",
+"answer":"The Chipko Movement originated in the northern hills where villagers hugged forest trees to physically prevent commercial loggers from cutting them down. Inspired by Chipko's remarkable community success, villagers in Karnataka launched the Appiko Movement ('appiko' meaning hugging in Kannada), where people embraced trees to protect Western Ghat forests and actively regenerated destroyed woodland.",
+"keywords":[
+"Chipko Movement",
+"hugging trees",
+"Appiko Movement",
+"Karnataka",
+"Western Ghats"
+],
+"explanation":"Both historical movements demonstrate how grassroots citizen action can successfully preserve vital forest ecosystems. This history is covered in the listening transcript on page 201.",
+"page_number":"201"
+},
+{
+"id":61,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Highlight the contributions of Kailash Sankhala to Indian wildlife conservation.",
+"answer":"Kailash Sankhala, renowned as 'The Tiger Man of India', was a pioneering biologist and conservationist. In 1971, he conducted India's first comprehensive scientific census of the tiger population. Recognizing the grave threat of extinction, he was appointed the founding director of Project Tiger, spearheading nationwide tiger protection initiatives and earning the prestigious Padma Shri in 1992.",
+"keywords":[
+"Kailash Sankhala",
+"Tiger Man of India",
+"census of tigers 1971",
+"Project Tiger",
+"Padma Shri"
+],
+"explanation":"Sankhala's research and leadership laid the foundation for modern tiger conservation programs in India. This biographical profile appears on page 172 of the textbook.",
+"page_number":"172"
+},
+{
+"id":62,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":80
+},
+"question":"State the purpose of the poster 'One Small Seed Matters'. Provide two appropriate slogans and two key messages for it.",
+"answer":"The poster aims to motivate individuals to plant and conserve trees.\nSlogans: \"Plant today, breathe tomorrow\" and \"One seed, one tree, one better Earth.\"\nKey Messages:\n1. Planting even a single tree purifies the air and prevents soil erosion.\n2. Trees provide essential food, shade, and shelter for birds and insects.",
+"keywords":[
+"One Small Seed Matters",
+"slogans",
+"plant today breathe tomorrow",
+"key messages",
+"purifies air"
+],
+"explanation":"The poster assignment teaches students how to combine persuasive headings, catchy slogans, and clear environmental facts. This composition task is found on page 81 and Answer Key page 3.",
+"page_number":"81"
+},
+{
+"id":63,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":90
+},
+"question":"Outline the standard four-paragraph layout required for writing a school magazine article on 'Trees—Our Lifeline'.",
+"answer":"An article requires a clear heading and author byline, organized into four distinct paragraphs:\nParagraph 1: Introduce the topic and state why trees are essential to planetary survival.\nParagraph 2: Present facts highlighting benefits like oxygen release, carbon absorption, and food provision.\nParagraph 3: Outline adverse consequences of deforestation, including barren land and severe pollution.\nParagraph 4: Provide actionable conservation suggestions and conclude with an inspiring call to action.",
+"keywords":[
+"heading and byline",
+"introduction",
+"facts and advantages",
+"consequences",
+"call to action"
+],
+"explanation":"CBSE writing format guidelines require a structured, logical progression from introduction to factual elaboration and final appeal. This format is outlined on page 171 of the textbook.",
+"page_number":"171"
+},
+{
+"id":64,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Differentiate between Simple Past, Past Progressive, and Past Perfect tenses, providing an example of each from the story.",
+"answer":"Simple Past expresses a completed past action (e.g., \"Rakesh bought the cherries\"). Past Progressive indicates an ongoing action happening at a specific time in the past (e.g., \"Rakesh was looking for Grandfather\"). Past Perfect denotes an action completed prior to another past event or viewpoint (e.g., \"as though it had performed a miracle\").",
+"keywords":[
+"Simple Past",
+"Past Progressive",
+"Past Perfect",
+"completed action",
+"action in progress",
+"earlier completed action"
+],
+"explanation":"These three tenses denote different time relationships and aspects in narrative storytelling. This grammar framework is detailed on page 167 and slide 11.",
+"page_number":"167"
+},
+{
+"id":65,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Explain the deeper meaning of the statement: \"The tree integrates into a lively natural community, showing its value far beyond just human use.\"",
+"answer":"This insight emphasizes that trees are not merely economic commodities for humans to harvest for wood, shade, or fruit. By welcoming praying-mantises, caterpillars, nectar-gathering bees, and fruit-eating bulbuls, the cherry tree demonstrates that every plant functions as an indispensable sanctuary and food source within an interconnected ecological web.",
+"keywords":[
+"natural community",
+"beyond human use",
+"ecological web",
+"sanctuary",
+"interconnected"
+],
+"explanation":"The narrative highlights biocentric ecological value over narrow anthropocentric utility. This concept is explored on slide 9 and textbook pages 161-163.",
+"page_number":"161-163"
+},
+{
+"id":66,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"How did the physical geography and climate of the Himalayan foothills shape the narrative in 'The Cherry Tree'?",
+"answer":"The setting in the Mussoorie foothills created genuine adversity for plant life due to stony soil, stunted vegetation, bitter winds, and deep winter snows. These demanding environmental conditions heightened the narrative tension, demonstrating that the cherry tree's survival was a hard-fought victory of natural resilience rather than an effortless occurrence.",
+"keywords":[
+"geography",
+"Himalayan foothills",
+"stony soil",
+"bitter winds",
+"resilience against adversity"
+],
+"explanation":"The realistic geographic setting establishes the environmental challenges that test the tree's resilience. This context is examined on slide 3 and page 156.",
+"page_number":"156"
+},
+{
+"id":67,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"What does the comparison between Rakesh's age and the cherry tree's age symbolize in the text?",
+"answer":"Comparing Rakesh's age (nine years) to the tree's age (four years) symbolizes their mirrored growth and shared journey of resilience. As Rakesh develops physical strength, assists his parents in farming, and matures intellectually, the tree recovers from severe physical trauma to stand tall and blossom, showing that both child and tree grow through overcoming challenges.",
+"keywords":[
+"symbolism",
+"nine years old",
+"four years",
+"mirrored growth",
+"overcoming challenges"
+],
+"explanation":"The text links human growth directly with organic botanical development, symbolizing mutual maturation. This is highlighted on page 166 and slide 8.",
+"page_number":"166"
+},
+{
+"id":68,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":80
+},
+"question":"What cautionary advice did Grandfather offer when Rakesh brought a bucket of water for the tiny sapling, and what does it reveal about plant care?",
+"answer":"When Rakesh rushed out with a full bucket of water, Grandfather warned, \"Don't drown it!\" and advised him to water it only \"now and then.\" This teaches that excessive, overzealous care can be just as fatal to a young plant as neglect, emphasizing that true nurturing requires moderation, balance, and patience.",
+"keywords":[
+"Don't drown it",
+"water now and then",
+"moderation",
+"balance",
+"overwatering"
+],
+"explanation":"Grandfather provides practical horticultural wisdom, teaching Rakesh that plants need measured assistance rather than smothering attention. This interaction occurs on page 158 of the textbook.",
+"page_number":"158"
+},
+{
+"id":69,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":85
+},
+"question":"Why did Grandfather grow grumpy during the peak winter season, and what does this reveal about his character?",
+"answer":"Heavy snow blocked mountain roads from the valley, preventing the delivery of newspapers for several days. This isolation made Grandfather unusually grumpy and caused his evening folk tales to end unhappily. This reveals that despite his tranquil rural life, Grandfather deeply craved intellectual engagement, news of the outside world, and daily mental stimulation.",
+"keywords":[
+"grumpy",
+"newspaper blocked",
+"unhappy endings",
+"intellectual stimulation",
+"isolation"
+],
+"explanation":"Grandfather's grumpiness highlights his reliance on daily reading and connection to wider human affairs. This character nuance is described on page 161 of the textbook.",
+"page_number":"161"
+},
+{
+"id":70,
+"subject":"English",
+"chapter":"The Cherry Tree-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":90
+},
+"question":"Trace how Rakesh's relationship with nature evolves from passive consumption to deep spiritual reverence.",
+"answer":"At the beginning, Rakesh views nature merely as a source of consumption, eating cherries for their sweet taste and casually rolling the seed. When prompted by Grandfather to plant it, his interest shifts to curiosity and protective care. Over years of guarding the tree against threats, his protective responsibility transforms into profound emotional attachment and finally spiritual reverence, where he touches its bark with awe, wondering what it feels like to create life.",
+"keywords":[
+"consumption",
+"curiosity",
+"protective care",
+"attachment",
+"spiritual reverence"
+],
+"explanation":"The central emotional journey of the narrative traces the transition from casual exploitation of nature to sacred communion and stewardship. This overarching arc is synthesized on slides 2, 12, and 15.",
+"page_number":"156-163"
+}
+]
