@@ -1,0 +1,1617 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "In which ancient Indian text did the mathematician Baudhāyana describe the relationship between the sides of a right triangle?",
+    "options": [
+      "Śulba-Sūtra",
+      "Surya Siddhanta",
+      "Aryabhatiya",
+      "Lilāvatī"
+    ],
+    "answer": "Śulba-Sūtra",
+    "explanation": "More than two thousand years ago, the Indian mathematician Baudhāyana described the relationship between the sides of a right triangle in the Śulba-Sūtra. This description appeared long before it became known as the Pythagorean Theorem in the Western world. It forms the historical foundation of right-triangle geometry in India (Page 23).",
+    "page_number": "23"
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What happens to the area of a square if its side length is doubled?",
+    "options": [
+      "The area is doubled",
+      "The area becomes four times the original area",
+      "The area becomes three times the original area",
+      "The area remains unchanged"
+    ],
+    "answer": "The area becomes four times the original area",
+    "explanation": "The area of a square is calculated as side multiplied by side, or s². If the side length is doubled to 2s, the new area becomes (2s)² = 4s². Therefore, simply doubling the side length multiplies the total area by four rather than doubling it (Page 24).",
+    "page_number": "24"
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "A square has a side length of 8 cm. What is its area?",
+    "options": [
+      "16 cm²",
+      "32 cm²",
+      "64 cm²",
+      "128 cm²"
+    ],
+    "answer": "64 cm²",
+    "explanation": "The area of any square is determined by squaring its side length (side × side). For a square with side length 8 cm, the area is 8 cm × 8 cm = 64 cm². This foundational calculation is essential for understanding geometric square constructions (Page 24).",
+    "page_number": "24"
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "According to Baudhāyana, how can a square with exactly double the area of a given square be constructed?",
+    "options": [
+      "By doubling the side length of the original square",
+      "By using the diagonal of the original square as the side of the new square",
+      "By joining the midpoints of the sides of the original square",
+      "By tripling the side length of the original square"
+    ],
+    "answer": "By using the diagonal of the original square as the side of the new square",
+    "explanation": "Baudhāyana showed that a square with double the area is constructed by using the diagonal of the original square as the new side. The original square consists of two congruent right triangles, whereas the square built on the diagonal contains four of the exact same congruent triangles. Thus, the new area is exactly twice the original (Page 25).",
+    "page_number": "25"
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "How can a square with half the area of a given square be constructed geometrically?",
+    "options": [
+      "By halving each side of the original square",
+      "By joining the midpoints of the four sides of the original square",
+      "By constructing a square on the diagonal of the original square",
+      "By drawing two parallel lines across the square"
+    ],
+    "answer": "By joining the midpoints of the four sides of the original square",
+    "explanation": "A square with half the area of a given square is constructed by joining the midpoints of its four sides. Folding the outer corners inward along these creases creates an inner tilted square of half area. In contrast, halving the side length would reduce the area to one-fourth (Page 25).",
+    "page_number": "25"
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "In a right-angled triangle, what is the side opposite to the right angle called?",
+    "options": [
+      "Leg",
+      "Hypotenuse",
+      "Base",
+      "Altitude"
+    ],
+    "answer": "Hypotenuse",
+    "explanation": "By definition, the hypotenuse is the side lying directly opposite the 90-degree right angle in a right triangle. It is always the longest side in the triangle. Its square equals the sum of the squares of the two perpendicular legs (Page 25).",
+    "page_number": "25"
+  },
+  {
+    "id": 7,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "If 'a' is the length of each equal side of an isosceles right triangle and 'c' is the hypotenuse, which equation represents their relationship?",
+    "options": [
+      "c² = a²",
+      "c² = 2a²",
+      "c² = 4a²",
+      "c = 2a"
+    ],
+    "answer": "c² = 2a²",
+    "explanation": "In an isosceles right triangle, both perpendicular legs are equal to a. Applying the theorem gives c² = a² + a² = 2a². Taking the square root on both sides yields the direct relation c = a√2 (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 8,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the length of the diagonal of a unit square having side length 1 unit?",
+    "options": [
+      "1 unit",
+      "√2 units",
+      "2 units",
+      "√3 units"
+    ],
+    "answer": "√2 units",
+    "explanation": "A unit square has perpendicular sides of length 1 unit each. Using the relation c² = 1² + 1² = 2, solving for the diagonal c gives √2 units. This geometric construction provides the concrete geometric representation of √2 (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 9,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Between which two consecutive whole numbers does the value of √2 lie?",
+    "options": [
+      "0 and 1",
+      "1 and 2",
+      "2 and 3",
+      "3 and 4"
+    ],
+    "answer": "1 and 2",
+    "explanation": "Since 1² = 1 and 2² = 4, the number 2 lies strictly between 1² and 2². Taking square roots indicates that 1 < √2 < 2. Evaluating decimals further shows that √2 is approximately 1.414, confirming it lies between 1 and 2 (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 10,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which of the following is an approximation of √2 correct to three decimal places?",
+    "options": [
+      "1.414",
+      "1.732",
+      "1.618",
+      "1.424"
+    ],
+    "answer": "1.414",
+    "explanation": "Squaring 1.414 gives 1.999396, while squaring 1.415 gives 2.002225. Because 2 lies between these two squares, 1.414 < √2 < 1.415. Hence, 1.414 is the correct three-decimal-place approximation of √2 (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 11,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which algebraic equation represents the Baudhāyana–Pythagoras Theorem for a right triangle with legs 'a', 'b' and hypotenuse 'c'?",
+    "options": [
+      "a + b = c",
+      "a² + b² = c²",
+      "a² - b² = c²",
+      "2a + b = c"
+    ],
+    "answer": "a² + b² = c²",
+    "explanation": "The theorem states that the area of the square constructed on the hypotenuse is equal to the sum of the areas of the squares on the other two perpendicular sides. In algebraic notation, this is expressed as a² + b² = c². This equation holds strictly for all right-angled triangles (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 12,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Why is the hypotenuse always the longest side of a right triangle?",
+    "options": [
+      "Because c² is the sum of two positive square numbers a² and b²",
+      "Because it is drawn horizontally in standard diagrams",
+      "Because it is equal to the sum of legs a and b",
+      "Because it is adjacent to the smallest acute angle"
+    ],
+    "answer": "Because c² is the sum of two positive square numbers a² and b²",
+    "explanation": "According to the theorem, c² = a² + b². Since the lengths a and b are positive real numbers, both a² and b² are strictly positive, ensuring that c² > a² and c² > b². Taking positive square roots proves that c > a and c > b, making the hypotenuse the longest side (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 13,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is a set of three positive integers (a, b, c) that satisfies the relation a² + b² = c² called?",
+    "options": [
+      "A Baudhāyana triple",
+      "An arithmetic progression",
+      "A geometric triple",
+      "A quadratic pair"
+    ],
+    "answer": "A Baudhāyana triple",
+    "explanation": "Sets of three whole numbers (a, b, c) that satisfy the relationship a² + b² = c² are called Baudhāyana triples (or Pythagorean triples). Familiar integer examples include (3, 4, 5) and (5, 12, 13). They represent right triangles with integer side lengths (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which of the following integer sets is a primitive Baudhāyana triple?",
+    "options": [
+      "(6, 8, 10)",
+      "(9, 12, 15)",
+      "(8, 15, 17)",
+      "(12, 16, 20)"
+    ],
+    "answer": "(8, 15, 17)",
+    "explanation": "A primitive Baudhāyana triple has no common factor greater than 1 among its three integers. For (8, 15, 17), 8² + 15² = 64 + 225 = 289 = 17², and gcd(8, 15, 17) = 1. The other options are multiples of the primitive triple (3, 4, 5) and are scaled triples (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the defining condition for a Baudhāyana triple to be considered primitive?",
+    "options": [
+      "The three numbers have no common factor greater than 1",
+      "All three numbers must be prime numbers",
+      "The hypotenuse must be an even integer",
+      "The sum of the two legs must equal the hypotenuse"
+    ],
+    "answer": "The three numbers have no common factor greater than 1",
+    "explanation": "A primitive Baudhāyana triple is one in which the highest common factor of all three numbers is 1. If the triple shares a common factor k > 1, it is classified as a scaled (non-primitive) triple. Triples like (3, 4, 5) are primitive, whereas (6, 8, 10) is scaled (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "If the primitive triple (3, 4, 5) is multiplied by 2, which scaled triple is formed?",
+    "options": [
+      "(6, 8, 10)",
+      "(5, 6, 7)",
+      "(6, 8, 12)",
+      "(9, 12, 15)"
+    ],
+    "answer": "(6, 8, 10)",
+    "explanation": "Multiplying each term in the triple (3, 4, 5) by the integer 2 yields (2 × 3, 2 × 4, 2 × 5) = (6, 8, 10). Verifying the theorem confirms that 6² + 8² = 36 + 64 = 100 = 10². Hence, (6, 8, 10) is a valid scaled triple (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "How is the integer triple (9, 12, 15) classified?",
+    "options": [
+      "Primitive Baudhāyana triple",
+      "Scaled Baudhāyana triple",
+      "Non-Baudhāyana triple",
+      "Fractional triple"
+    ],
+    "answer": "Scaled Baudhāyana triple",
+    "explanation": "The numbers 9, 12, and 15 satisfy 9² + 12² = 81 + 144 = 225 = 15². However, they share a common divisor of 3, as (9, 12, 15) = 3 × (3, 4, 5). Because they have a common factor greater than 1, it is classified as a scaled triple (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Who finally proved Fermat's Last Theorem in the 1990s after more than 300 years of attempts?",
+    "options": [
+      "Andrew Wiles",
+      "Baudhāyana",
+      "Bhāskarāchārya",
+      "Pythagoras"
+    ],
+    "answer": "Andrew Wiles",
+    "explanation": "Fermat proposed in the 17th century that no positive integers satisfy xⁿ + yⁿ = zⁿ for n > 2. This became famous as Fermat's Last Theorem and remained unproven for over three centuries. English mathematician Andrew Wiles successfully proved it in 1994 (Page 31).",
+    "page_number": "31"
+  },
+  {
+    "id": 19,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "For which powers 'n' does Fermat's Last Theorem state there are no positive integer solutions to xⁿ + yⁿ = zⁿ?",
+    "options": [
+      "n = 1",
+      "n = 2",
+      "n > 2",
+      "n ≤ 2"
+    ],
+    "answer": "n > 2",
+    "explanation": "For n = 2, there exist infinitely many integer solutions called Baudhāyana triples (such as 3² + 4² = 5²). Fermat proposed that for any integer power n strictly greater than 2, no positive integer solutions exist. This statement is known as Fermat's Last Theorem (Page 31).",
+    "page_number": "31"
+  },
+  {
+    "id": 20,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "The classical problem of finding the depth of a lake using a wind-blown lotus flower appears in which mathematical text?",
+    "options": [
+      "Līlāvatī by Bhāskarāchārya",
+      "Śulba-Sūtra by Baudhāyana",
+      "Aryabhatiya by Aryabhata",
+      "Brahmasphutasiddhanta by Brahmagupta"
+    ],
+    "answer": "Līlāvatī by Bhāskarāchārya",
+    "explanation": "A classical problem demonstrating the practical application of the Baudhāyana–Pythagoras Theorem comes from Bhāskarāchārya's famous mathematical text Līlāvatī. The problem models a lotus flower whose stalk bends under the breeze until touching the water surface (Page 31).",
+    "page_number": "31"
+  },
+  {
+    "id": 21,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "An isosceles right triangle has equal legs of 9 cm each. What is the length of its hypotenuse?",
+    "options": [
+      "9 cm",
+      "18 cm",
+      "9√2 cm",
+      "18√2 cm"
+    ],
+    "answer": "9√2 cm",
+    "explanation": "In an isosceles right triangle with equal sides of length a, the hypotenuse c is given by c = a√2. Substituting a = 9 cm yields c = 9√2 cm. Using c² = 9² + 9² = 162 gives c = √162 = 9√2 cm (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 22,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "The side of a square is 6 cm. What is the length of its diagonal?",
+    "options": [
+      "6√2 cm",
+      "12 cm",
+      "3√2 cm",
+      "18 cm"
+    ],
+    "answer": "6√2 cm",
+    "explanation": "The diagonal of a square divides it into two congruent isosceles right triangles with legs equal to the square's side length. For side s = 6 cm, the diagonal is d = s√2 = 6√2 cm. Alternatively, d² = 6² + 6² = 72, so d = √72 = 6√2 cm (Page 35).",
+    "page_number": "35"
+  },
+  {
+    "id": 23,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which of the following correctly describes the decimal expansion of √2?",
+    "options": [
+      "Terminating",
+      "Non-terminating and repeating",
+      "Non-terminating and non-repeating",
+      "A whole number"
+    ],
+    "answer": "Non-terminating and non-repeating",
+    "explanation": "The square root of 2 is an irrational number and cannot be written as a fraction of two counting numbers m/n. Its decimal expansion (1.41421356...) continues endlessly without terminating and without any repeating pattern. Hence, it is non-terminating and non-repeating (Page 36).",
+    "page_number": "36"
+  },
+  {
+    "id": 24,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "A right triangle has legs measuring 5 cm and 12 cm. What is its hypotenuse?",
+    "options": [
+      "11 cm",
+      "12 cm",
+      "13 cm",
+      "17 cm"
+    ],
+    "answer": "13 cm",
+    "explanation": "Applying the theorem gives c² = a² + b² = 5² + 12² = 25 + 144 = 169. Taking the positive square root gives c = √169 = 13 cm. Thus, (5, 12, 13) forms a primitive Baudhāyana triple (Page 35).",
+    "page_number": "35"
+  },
+  {
+    "id": 25,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Can the Baudhāyana–Pythagoras Theorem be applied to an acute-angled triangle?",
+    "options": [
+      "Yes, it applies to all types of triangles",
+      "No, it can only be applied to right-angled triangles",
+      "Yes, but only if all three sides are equal",
+      "Yes, provided all three angles are acute"
+    ],
+    "answer": "No, it can only be applied to right-angled triangles",
+    "explanation": "A common mistake highlighted in the chapter is applying the theorem to triangles that are not right-angled. The relation a² + b² = c² holds strictly and solely for right-angled triangles where c is the hypotenuse opposite the right angle (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 26,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question": "When calculating the hypotenuse 'c' using c² = a² + b², what step must be completed after adding a² and b²?",
+    "options": [
+      "Multiply the sum by 2",
+      "Take the positive square root of the sum",
+      "Divide the sum by 2",
+      "Square the resulting sum"
+    ],
+    "answer": "Take the positive square root of the sum",
+    "explanation": "Adding a² and b² gives the square of the hypotenuse, c². A common error is stopping after computing c² and forgetting to take the square root. To find the actual length c, one must take the positive square root: c = √(a² + b²) (Page 35).",
+    "page_number": "35"
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The diagonal of a square is longer than its side.\nReason (R): The diagonal of a square is equal to the side multiplied by √2, and √2 is greater than 1.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "By the Baudhāyana–Pythagoras Theorem, the diagonal d of a square of side s satisfies d² = s² + s² = 2s², giving d = s√2. Since √2 is approximately 1.414, which is greater than 1, s√2 is strictly greater than s. Thus, both statements are true and Reason R correctly explains Assertion A (Page 38).",
+    "page_number": "38"
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The Baudhāyana–Pythagoras Theorem can be applied to find side lengths in any triangle.\nReason (R): The Baudhāyana–Pythagoras Theorem applies only to right-angled triangles.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "The theorem holds exclusively for triangles containing a 90-degree right angle. Applying it to acute, obtuse, or general triangles without a right angle is an identified conceptual error. Therefore, Assertion A is false, while Reason R is a true statement (Page 34).",
+    "page_number": "34"
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A square constructed on the diagonal of a square of area 25 cm² has an area of 50 cm².\nReason (R): The square constructed on the diagonal of any square has twice the area of the original square.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "As Baudhāyana demonstrated, a square built on the diagonal of an original square has exactly twice the original square's area. Here, multiplying 25 cm² by 2 yields 50 cm². Because the reason provides the exact geometric principle that explains the assertion, both are true and R explains A (Page 25).",
+    "page_number": "25"
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The integer triple (6, 8, 10) is a primitive Baudhāyana triple.\nReason (R): A primitive Baudhāyana triple consists of three positive integers satisfying a² + b² = c² that share no common factor greater than 1.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Although 6² + 8² = 10² is valid, 6, 8, and 10 share a common factor of 2, making (6, 8, 10) a scaled triple rather than a primitive one. Reason R accurately defines a primitive triple. Thus, Assertion A is false and Reason R is true (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "An isosceles right triangle has equal sides of length 6√2 cm each. What is the length of its hypotenuse?",
+    "options": [
+      "12 cm",
+      "12√2 cm",
+      "24 cm",
+      "6 cm"
+    ],
+    "answer": "12 cm",
+    "explanation": "Using the relationship c² = 2a², we have c² = 2 × (6√2)² = 2 × (36 × 2) = 2 × 72 = 144. Taking the square root gives c = √144 = 12 cm. Therefore, the hypotenuse is exactly 12 cm (Page 27).",
+    "page_number": "27"
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "The hypotenuse of an isosceles right triangle is 14 cm. What is the length of each equal side?",
+    "options": [
+      "7 cm",
+      "7√2 cm",
+      "14√2 cm",
+      "10 cm"
+    ],
+    "answer": "7√2 cm",
+    "explanation": "Using c² = 2a² with c = 14 cm gives 14² = 2a², so 196 = 2a². Dividing by 2 yields a² = 98. Therefore, a = √98 = √(49 × 2) = 7√2 cm (Page 27).",
+    "page_number": "27"
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A ladder is placed against a wall. The foot of the ladder is 9 m away from the wall, and the top reaches 12 m up the wall. What is the length of the ladder?",
+    "options": [
+      "13 m",
+      "14 m",
+      "15 m",
+      "21 m"
+    ],
+    "answer": "15 m",
+    "explanation": "The wall, ground, and ladder form a right triangle where base a = 9 m and height b = 12 m. By the theorem, c² = 9² + 12² = 81 + 144 = 225. Taking the square root gives ladder length c = √225 = 15 m (Page 29).",
+    "page_number": "29"
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A right triangle has legs measuring 9 cm and 40 cm. What is the length of its hypotenuse?",
+    "options": [
+      "41 cm",
+      "49 cm",
+      "50 cm",
+      "39 cm"
+    ],
+    "answer": "41 cm",
+    "explanation": "Applying the theorem, c² = 9² + 40² = 81 + 1600 = 1681. Taking the square root, c = √1681 = 41 cm. The side lengths (9, 40, 41) form a well-known primitive Baudhāyana triple (Page 29).",
+    "page_number": "29"
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "The hypotenuse of a right triangle is 13 cm and one leg is 5 cm. What is the length of the other leg?",
+    "options": [
+      "8 cm",
+      "10 cm",
+      "12 cm",
+      "14 cm"
+    ],
+    "answer": "12 cm",
+    "explanation": "When the hypotenuse c and one leg a are known, the missing leg b is found using b = √(c² - a²). Here, b = √(13² - 5²) = √(169 - 25) = √144 = 12 cm (Page 29).",
+    "page_number": "29"
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "An isosceles right triangle has equal sides of length 10 cm. What is the length of its hypotenuse?",
+    "options": [
+      "20 cm",
+      "10√2 cm",
+      "5√2 cm",
+      "10 cm"
+    ],
+    "answer": "10√2 cm",
+    "explanation": "Using the relation c = a√2 for an isosceles right triangle with equal legs a = 10 cm, we find c = 10√2 cm. Alternatively, c² = 10² + 10² = 200, which simplifies to c = √200 = 10√2 cm (Page 29).",
+    "page_number": "29"
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A square has a diagonal of 20 cm. What is its area?",
+    "options": [
+      "100 cm²",
+      "200 cm²",
+      "400 cm²",
+      "200√2 cm²"
+    ],
+    "answer": "200 cm²",
+    "explanation": "For a square of side s and diagonal d, we know d² = 2s². Since the area of the square is Area = s², Area = d² / 2. Given d = 20 cm, Area = 20² / 2 = 400 / 2 = 200 cm² (Page 29).",
+    "page_number": "29"
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A rectangular garden measures 24 m by 32 m. A sprinkler is placed at one corner. Can a hose of length 35 m reach the diagonally opposite corner?",
+    "options": [
+      "Yes, because the diagonal is 30 m",
+      "Yes, because the diagonal is 35 m",
+      "No, because the diagonal is 40 m",
+      "No, because the diagonal is 56 m"
+    ],
+    "answer": "No, because the diagonal is 40 m",
+    "explanation": "The distance between opposite corners is the diagonal d = √(24² + 32²) = √(576 + 1024) = √1600 = 40 m. Since the hose is only 35 m long, 35 m < 40 m, so it cannot reach the opposite corner (Page 29).",
+    "page_number": "29"
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Using the equation (n - 1)² + (2n - 1) = n², which Baudhāyana triple is generated when 2n - 1 = 7² = 49?",
+    "options": [
+      "(7, 24, 25)",
+      "(7, 12, 13)",
+      "(7, 48, 49)",
+      "(7, 20, 21)"
+    ],
+    "answer": "(7, 24, 25)",
+    "explanation": "Setting 2n - 1 = 49 gives 2n = 50, so n = 25. Substituting into the formula: (25 - 1)² + 49 = 25², which simplifies to 24² + 7² = 25². Hence, the generated triple is (7, 24, 25) (Page 31).",
+    "page_number": "31"
+  },
+  {
+    "id": 40,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Generate a Baudhāyana triple containing 13 using the odd square pattern (n - 1)² + (2n - 1) = n² with 2n - 1 = 13² = 169.",
+    "options": [
+      "(13, 84, 85)",
+      "(13, 85, 86)",
+      "(13, 60, 61)",
+      "(13, 24, 25)"
+    ],
+    "answer": "(13, 84, 85)",
+    "explanation": "With 2n - 1 = 169, solving for n gives 2n = 170, so n = 85. Then (n - 1) = 84. The equation becomes 84² + 13² = 85² (since 7056 + 169 = 7225 = 85²). Thus, the generated triple is (13, 84, 85) (Page 32).",
+    "page_number": "32"
+  },
+  {
+    "id": 41,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A lotus flower in a lake has its tip 1 unit above the water surface. Bown by a breeze, it bends so its tip touches the surface 3 units away from the vertical. What is the lake's depth?",
+    "options": [
+      "3 units",
+      "4 units",
+      "5 units",
+      "8 units"
+    ],
+    "answer": "4 units",
+    "explanation": "Let depth be x. The total stem length is (x + 1). Applying the theorem to the right triangle formed gives x² + 3² = (x + 1)². Expanding gives x² + 9 = x² + 2x + 1, so 2x = 8 and x = 4 units (Page 32).",
+    "page_number": "32"
+  },
+  {
+    "id": 42,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which of the following sets of numbers is NOT a Baudhāyana triple?",
+    "options": [
+      "(7, 24, 25)",
+      "(8, 15, 17)",
+      "(7, 8, 10)",
+      "(9, 40, 41)"
+    ],
+    "answer": "(7, 8, 10)",
+    "explanation": "Testing (7, 8, 10): 7² + 8² = 49 + 64 = 113, whereas 10² = 100. Because 113 ≠ 100, the condition a² + b² = c² is not satisfied. The other three choices are valid Baudhāyana triples (Page 32).",
+    "page_number": "32"
+  },
+  {
+    "id": 43,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A tree is 20 m tall. A rope is tied from the top of the tree to a point on the ground 21 m away from its base. What is the length of the rope?",
+    "options": [
+      "29 m",
+      "31 m",
+      "41 m",
+      "25 m"
+    ],
+    "answer": "29 m",
+    "explanation": "The vertical tree, horizontal ground, and rope form a right triangle. Rope length c = √(20² + 21²) = √(400 + 441) = √841 = 29 m. Hence, the required length of the rope is 29 m (Page 33).",
+    "page_number": "33"
+  },
+  {
+    "id": 44,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A rectangular park is 24 m long and 7 m wide. What is the shortest path between opposite corners?",
+    "options": [
+      "31 m",
+      "25 m",
+      "26 m",
+      "17 m"
+    ],
+    "answer": "25 m",
+    "explanation": "The shortest path between opposite corners is along the straight-line diagonal. Using the theorem, d = √(24² + 7²) = √(576 + 49) = √625 = 25 m. Therefore, the shortest path is 25 m (Page 33).",
+    "page_number": "33"
+  },
+  {
+    "id": 45,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A kite is flying with a taut string of length 65 m. The horizontal distance from the person holding it to the point directly below the kite is 33 m. What is the vertical height of the kite?",
+    "options": [
+      "56 m",
+      "52 m",
+      "60 m",
+      "48 m"
+    ],
+    "answer": "56 m",
+    "explanation": "Let vertical height be h. Using the theorem, h² + 33² = 65², so h² = 65² - 33² = 4225 - 1089 = 3136. Taking the square root gives h = √3136 = 56 m (Page 33).",
+    "page_number": "33"
+  },
+  {
+    "id": 46,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A square has an area of 72 cm². A second square is constructed using the diagonal of the first square as its side. What is the area of the second square?",
+    "options": [
+      "144 cm²",
+      "288 cm²",
+      "36 cm²",
+      "108 cm²"
+    ],
+    "answer": "144 cm²",
+    "explanation": "A square built on the diagonal of another square has an area equal to d² = 2s² = 2 × (Area of original). Since the original area is 72 cm², the area of the second square is 2 × 72 cm² = 144 cm² (Page 25).",
+    "page_number": "25"
+  },
+  {
+    "id": 47,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A square has side length 14 cm. The midpoints of its four sides are joined to form a smaller square. What is the area of the smaller square?",
+    "options": [
+      "49 cm²",
+      "98 cm²",
+      "196 cm²",
+      "14 cm²"
+    ],
+    "answer": "98 cm²",
+    "explanation": "The original square has area = 14 cm × 14 cm = 196 cm². Joining the midpoints of the sides produces an inner square whose area is exactly half of the original square's area: 196 / 2 = 98 cm² (Page 25).",
+    "page_number": "25"
+  },
+  {
+    "id": 48,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "The hypotenuse of an isosceles right triangle is 18√2 cm. What is the length of each equal side?",
+    "options": [
+      "18 cm",
+      "9 cm",
+      "36 cm",
+      "9√2 cm"
+    ],
+    "answer": "18 cm",
+    "explanation": "For an isosceles right triangle with equal sides a, the hypotenuse is c = a√2. Given c = 18√2 cm, equating gives a√2 = 18√2, which immediately gives a = 18 cm (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 49,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Two squares have side lengths 11 cm and 60 cm. They are combined to form a single square whose area equals the sum of their areas. What is the side length of the new square?",
+    "options": [
+      "61 cm",
+      "71 cm",
+      "59 cm",
+      "65 cm"
+    ],
+    "answer": "61 cm",
+    "explanation": "The area of the new square is 11² + 60² = 121 + 3600 = 3721 cm². The side length of the new square is the hypotenuse of the corresponding right triangle: √3721 = 61 cm (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 50,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A right triangle has hypotenuse 34 cm and one perpendicular side 16 cm. What is the length of the other perpendicular side?",
+    "options": [
+      "30 cm",
+      "28 cm",
+      "25 cm",
+      "18 cm"
+    ],
+    "answer": "30 cm",
+    "explanation": "Using b = √(c² - a²), we calculate b = √(34² - 16²) = √(1156 - 256) = √900 = 30 cm. Notice that (16, 30, 34) is a scaled triple obtained by doubling the primitive triple (8, 15, 17) (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "The triple (20, 48, 52) is a scaled Baudhāyana triple. Which primitive triple is it obtained from?",
+    "options": [
+      "(5, 12, 13)",
+      "(3, 4, 5)",
+      "(10, 24, 26)",
+      "(8, 15, 17)"
+    ],
+    "answer": "(5, 12, 13)",
+    "explanation": "To find the primitive triple, divide each number by their greatest common divisor. Here, gcd(20, 48, 52) = 4. Dividing each term by 4 gives (20/4, 48/4, 52/4) = (5, 12, 13), which is primitive (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which of the following correctly describes the integer triple (28, 45, 53)?",
+    "options": [
+      "It is a primitive Baudhāyana triple",
+      "It is a scaled Baudhāyana triple with common factor 3",
+      "It is not a valid Baudhāyana triple because 28² + 45² ≠ 53²",
+      "It forms an equilateral triangle"
+    ],
+    "answer": "It is a primitive Baudhāyana triple",
+    "explanation": "Calculating 28² + 45² = 784 + 2025 = 2809. Since 53² = 2809, the equation holds. Furthermore, 28 = 2² × 7, 45 = 3² × 5, and 53 is prime, so gcd(28, 45, 53) = 1. Therefore, it is a primitive Baudhāyana triple (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A square courtyard has side 15 m. What is the length of a straight path joining two opposite corners?",
+    "options": [
+      "15√2 m",
+      "30 m",
+      "22.5 m",
+      "30√2 m"
+    ],
+    "answer": "15√2 m",
+    "explanation": "The straight path joining opposite corners of a square is its diagonal. For a square with side length s = 15 m, diagonal d = s√2 = 15√2 m. Alternatively, d = √(15² + 15²) = √450 = 15√2 m (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A square notice board has diagonal 24 cm. What is the length of each side?",
+    "options": [
+      "12√2 cm",
+      "12 cm",
+      "24√2 cm",
+      "6 cm"
+    ],
+    "answer": "12√2 cm",
+    "explanation": "From d = s√2, the side length is s = d / √2. For d = 24 cm, s = 24 / √2 = (24√2) / 2 = 12√2 cm. Alternatively, 2s² = 24² = 576, so s² = 288 and s = √288 = 12√2 cm (Page 27).",
+    "page_number": "27"
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Two square tiles have areas 81 cm² and 144 cm². A single square tile is made with area equal to their combined area. What is its side length?",
+    "options": [
+      "15 cm",
+      "225 cm",
+      "21 cm",
+      "13 cm"
+    ],
+    "answer": "15 cm",
+    "explanation": "The combined area of the single tile is 81 cm² + 144 cm² = 225 cm². The side length of this new square tile is √225 = 15 cm. This corresponds to the sides of a right triangle with legs 9 cm and 12 cm (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A rectangular field measures 20 m by 99 m. What is the shortest distance between opposite corners?",
+    "options": [
+      "101 m",
+      "119 m",
+      "100 m",
+      "95 m"
+    ],
+    "answer": "101 m",
+    "explanation": "The shortest distance between opposite corners is the diagonal d = √(20² + 99²) = √(400 + 9801) = √10201. Since 101 × 101 = 10201, the diagonal length is exactly 101 m (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A 24 m high vertical pole is supported by a wire fixed to the ground 10 m from its base. What is the length of the wire?",
+    "options": [
+      "26 m",
+      "34 m",
+      "28 m",
+      "25 m"
+    ],
+    "answer": "26 m",
+    "explanation": "The pole, ground, and wire form a right-angled triangle with legs 24 m and 10 m. The length of the wire is c = √(24² + 10²) = √(576 + 100) = √676 = 26 m (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A 20 m rescue ladder reaches a window. If its foot is 12 m away from the wall on level ground, how high above the ground is the window?",
+    "options": [
+      "16 m",
+      "18 m",
+      "15 m",
+      "8 m"
+    ],
+    "answer": "16 m",
+    "explanation": "Let the height of the window be h. By the theorem, h² + 12² = 20², so h² = 20² - 12² = 400 - 144 = 256. Taking the square root gives h = √256 = 16 m (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "The diagonals of a rhombus measure 30 cm and 40 cm. What is the length of each side of the rhombus?",
+    "options": [
+      "25 cm",
+      "50 cm",
+      "35 cm",
+      "20 cm"
+    ],
+    "answer": "25 cm",
+    "explanation": "The diagonals of a rhombus bisect each other perpendicularly, creating four congruent right triangles. The legs of each triangle are 30/2 = 15 cm and 40/2 = 20 cm. Each side of the rhombus is the hypotenuse: √(15² + 20²) = √(225 + 400) = √625 = 25 cm (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A square running area has a side length of 25 m. If a student runs diagonally from one corner to the opposite corner, how far does the student run?",
+    "options": [
+      "25√2 m",
+      "50 m",
+      "35 m",
+      "50√2 m"
+    ],
+    "answer": "25√2 m",
+    "explanation": "The direct diagonal path across a square of side s is given by d = s√2. For s = 25 m, the student runs a distance of 25√2 m. This is derived directly from d² = 25² + 25² = 1250, so d = √1250 = 25√2 m (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A square floor has an area of 288 m². What is the length of its diagonal?",
+    "options": [
+      "24 m",
+      "12 m",
+      "12√2 m",
+      "18 m"
+    ],
+    "answer": "24 m",
+    "explanation": "For a square of side s, Area = s² = 288 m². The diagonal d satisfies d² = 2s². Therefore, d² = 2 × 288 = 576. Taking the square root gives d = √576 = 24 m (Page 25).",
+    "page_number": "25"
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "An isosceles right triangular piece of cloth has an area of 64 cm². What is the length of its hypotenuse?",
+    "options": [
+      "16 cm",
+      "16√2 cm",
+      "8 cm",
+      "8√2 cm"
+    ],
+    "answer": "16 cm",
+    "explanation": "The area of an isosceles right triangle with equal legs a is (1/2)a² = 64 cm², so a² = 128. By the theorem, the square of the hypotenuse is c² = 2a² = 2 × 128 = 256. Taking the square root gives c = √256 = 16 cm (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In a rescue operation, a rope is stretched from an observation platform at height 15 m to an anchor on the ground 8 m from the base. What minimum length of rope is required?",
+    "options": [
+      "17 m",
+      "23 m",
+      "19 m",
+      "20 m"
+    ],
+    "answer": "17 m",
+    "explanation": "The tower, ground, and rope form a right triangle with perpendicular sides 15 m and 8 m. The rope forms the hypotenuse: c = √(15² + 8²) = √(225 + 64) = √289 = 17 m. Hence, 17 m of rope is needed (Page 36).",
+    "page_number": "36"
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A rectangular emergency zone measuring 12 m by 16 m is secured by stretching warning tape along its diagonal. What is the length of this warning tape?",
+    "options": [
+      "20 m",
+      "28 m",
+      "24 m",
+      "25 m"
+    ],
+    "answer": "20 m",
+    "explanation": "The warning tape lies along the diagonal of the rectangle. Applying the theorem, d = √(12² + 16²) = √(144 + 256) = √400 = 20 m. Therefore, 20 m of warning tape is needed (Page 36).",
+    "page_number": "36"
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Doubling the side length of a square doubles its area.\nReason (R): The area of a square is given by the square of its side length (side × side).",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "If the side length s is doubled to 2s, the area becomes (2s)² = 4s², which is four times the original area, not double. Reason R is mathematically true and explains why Assertion A is false. Thus, A is false and R is true (Page 38).",
+    "page_number": "38"
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Multiplying every member of a primitive Baudhāyana triple by a positive integer k > 1 creates a scaled triple.\nReason (R): In the resulting triple (ka, kb, kc), each term shares the common factor k, so the greatest common divisor is at least k.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "A primitive triple has gcd(a, b, c) = 1. When every term is multiplied by an integer k > 1, the new triple (ka, kb, kc) has a common divisor k > 1. By definition, a triple with a common factor greater than 1 is a scaled triple. Hence, R correctly explains A (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The square constructed on the diagonal of a square has twice the area of the original square.\nReason (R): The diagonal divides the original square into two congruent right triangles, and the new square contains four congruent right triangles of the exact same size.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Baudhāyana showed that the square on the diagonal consists of four congruent right isosceles triangles, whereas the initial square consists of two such triangles. Because 4 is twice 2, the new square's area is exactly twice that of the original square. Thus, R correctly explains A (Page 39).",
+    "page_number": "39"
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The set of numbers (10, 24, 26) is a scaled Baudhāyana triple.\nReason (R): The triple (10, 24, 26) is formed by multiplying each member of the primitive triple (5, 12, 13) by 2.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Multiplying the primitive triple (5, 12, 13) by 2 yields (10, 24, 26). Since 10² + 24² = 100 + 576 = 676 = 26², it satisfies the theorem and has a common factor of 2. Thus, it is a scaled triple, and R correctly explains A (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A triangle with side lengths 20 cm, 21 cm, and 29 cm is a right-angled triangle.\nReason (R): 20² + 21² = 400 + 441 = 841, and 29² = 841, so the side lengths satisfy a² + b² = c².",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "By the converse of the Baudhāyana-Pythagoras theorem, if the square of the longest side equals the sum of the squares of the other two sides, the triangle must be a right-angled triangle. Here, 20² + 21² = 29² = 841. Thus, both A and R are true, and R explains A (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): In a right-angled triangle with perpendicular legs 7 cm and 24 cm, the hypotenuse is 25 cm.\nReason (R): The hypotenuse of a right triangle is calculated by taking the square root of the difference between the squares of the two legs.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "Assertion A is true because √(7² + 24²) = √(49 + 576) = √625 = 25 cm. However, Reason R is false because the hypotenuse is found by taking the square root of the sum of the squares of the legs, not the difference. Hence, A is true and R is false (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 71,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Can a square with a positive integer side length have an integer diagonal? Justify using the nature of √2.",
+    "options": [
+      "Yes, whenever the integer side length is an even number",
+      "No, because the diagonal is s√2, and if s and d were both integers, √2 = d/s would be a fraction of counting numbers, which is impossible",
+      "Yes, if the side length is a multiple of 5",
+      "Yes, because any integer squared produces a rational diagonal"
+    ],
+    "answer": "No, because the diagonal is s√2, and if s and d were both integers, √2 = d/s would be a fraction of counting numbers, which is impossible",
+    "explanation": "The diagonal of a square with side s is d = s√2. If both s and d were integers, then √2 could be expressed as d/s, a quotient of counting numbers. But √2 is proven to be an irrational number that cannot be written in the form m/n. Thus, an integer-sided square cannot have an integer diagonal (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 72,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A square has area 18 cm². A new square is constructed on its diagonal, and then another square is constructed on the diagonal of that new square. What are the area and side length of the final square?",
+    "options": [
+      "Area = 72 cm², Side = 6√2 cm",
+      "Area = 36 cm², Side = 6 cm",
+      "Area = 72 cm², Side = 8 cm",
+      "Area = 54 cm², Side = 3√6 cm"
+    ],
+    "answer": "Area = 72 cm², Side = 6√2 cm",
+    "explanation": "Constructing a square on the diagonal doubles the area. The first new square has area 2 × 18 = 36 cm². Constructing another square on this new diagonal doubles the area again: 2 × 36 = 72 cm². The side length of the final square is √72 = √(36 × 2) = 6√2 cm (Page 25).",
+    "page_number": "25"
+  },
+  {
+    "id": 73,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "The midpoints of a square are joined to form a smaller square. A new square is then constructed on the diagonal of this smaller square. How does the area of the final square compare with the original square?",
+    "options": [
+      "The final square has half the area of the original square",
+      "The final square has twice the area of the original square",
+      "The final square has exactly the same area as the original square",
+      "The final square has one-fourth the area of the original square"
+    ],
+    "answer": "The final square has exactly the same area as the original square",
+    "explanation": "Joining the midpoints forms an inner square with area equal to (1/2) × Area(original). Constructing a square on the diagonal of this smaller square doubles its area: 2 × [(1/2) × Area(original)] = Area(original). Therefore, the final square has exactly the same area as the original square (Page 25).",
+    "page_number": "25"
+  },
+  {
+    "id": 74,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Two squares have side lengths 28 cm and 45 cm. They are combined into a square of equal total area. What is the side of the new square, and is the resulting triple primitive?",
+    "options": [
+      "Side = 53 cm; Yes, it is a primitive Baudhāyana triple",
+      "Side = 53 cm; No, it is a scaled Baudhāyana triple",
+      "Side = 51 cm; Yes, it is a primitive Baudhāyana triple",
+      "Side = 73 cm; No, it does not form a Baudhāyana triple"
+    ],
+    "answer": "Side = 53 cm; Yes, it is a primitive Baudhāyana triple",
+    "explanation": "The area of the combined square is 28² + 45² = 784 + 2025 = 2809 cm². The new side is √2809 = 53 cm. Checking prime factors: 28 = 2² × 7, 45 = 3² × 5, and 53 is prime. Because gcd(28, 45, 53) = 1, it is a primitive Baudhāyana triple (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 75,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A right triangle has hypotenuse 65 cm and one perpendicular side 16 cm. What is the other side, and is the resulting triple primitive?",
+    "options": [
+      "Other side = 63 cm; Yes, the triple (16, 63, 65) is primitive",
+      "Other side = 63 cm; No, the triple is scaled",
+      "Other side = 61 cm; Yes, the triple is primitive",
+      "Other side = 55 cm; No, the triple is scaled"
+    ],
+    "answer": "Other side = 63 cm; Yes, the triple (16, 63, 65) is primitive",
+    "explanation": "Using b = √(65² - 16²) = √(4225 - 256) = √3969 = 63 cm. The triple is (16, 63, 65). Since 16 = 2⁴, 63 = 3² × 7, and 65 = 5 × 13, no factor greater than 1 is shared across all three numbers. Therefore, it is a primitive Baudhāyana triple (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 76,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A Baudhāyana triple is enlarged by a scale factor of 3. By what factor do (a) its perimeter and (b) the area of the corresponding right triangle change?",
+    "options": [
+      "Perimeter increases by a factor of 3; Area increases by a factor of 9",
+      "Perimeter increases by a factor of 3; Area increases by a factor of 3",
+      "Perimeter increases by a factor of 9; Area increases by a factor of 27",
+      "Perimeter increases by a factor of 6; Area increases by a factor of 9"
+    ],
+    "answer": "Perimeter increases by a factor of 3; Area increases by a factor of 9",
+    "explanation": "When lengths (a, b, c) are scaled by k = 3 to (3a, 3b, 3c), the perimeter 3a + 3b + 3c = 3(a + b + c), which changes by a factor of 3. The area (1/2)(3a)(3b) = 9 × [(1/2)ab], which changes by a factor of 3² = 9 (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 77,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "The diagonal of a square is tripled while the shape remains a square. By what factor does its area change, without first finding the side lengths?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "27"
+    ],
+    "answer": "9",
+    "explanation": "The area of a square expressed directly in terms of its diagonal d is Area = d² / 2. If the diagonal is tripled to 3d, the new area becomes (3d)² / 2 = 9d² / 2 = 9 × (original area). Thus, the area increases by a factor of 9 directly from the square of the scale factor (Page 25).",
+    "page_number": "25"
+  },
+  {
+    "id": 78,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Two squares have side lengths differing by 4 cm. The sum of their areas is 400 cm². What are their side lengths and the side length of the single square formed by combining their areas?",
+    "options": [
+      "Side lengths: 12 cm and 16 cm; Combined side length: 20 cm",
+      "Side lengths: 10 cm and 14 cm; Combined side length: 20 cm",
+      "Side lengths: 8 cm and 12 cm; Combined side length: 15 cm",
+      "Side lengths: 14 cm and 18 cm; Combined side length: 20 cm"
+    ],
+    "answer": "Side lengths: 12 cm and 16 cm; Combined side length: 20 cm",
+    "explanation": "Let side lengths be x and x + 4. Then x² + (x + 4)² = 400, expanding to 2x² + 8x + 16 = 400, or x² + 4x - 192 = 0. Factoring gives (x + 16)(x - 12) = 0, so x = 12 cm and the other side is 16 cm. The combined square side is √400 = 20 cm (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 79,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A 25 m bamboo pole breaks at a point above the ground. The top remains attached and touches the ground 7 m from the base. At what height above the ground did the pole break?",
+    "options": [
+      "11.52 m",
+      "12 m",
+      "13 m",
+      "10.5 m"
+    ],
+    "answer": "11.52 m",
+    "explanation": "Let the height of the break be x. The broken upper part (hypotenuse) is (25 - x). By the theorem, x² + 7² = (25 - x)², so x² + 49 = 625 - 50x + x². Simplifying yields 50x = 625 - 49 = 576, which gives x = 576 / 50 = 11.52 m (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 80,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "An isosceles right triangle has an area of 98 cm². What are the lengths of its equal sides and its hypotenuse?",
+    "options": [
+      "Equal sides = 14 cm each, Hypotenuse = 14√2 cm",
+      "Equal sides = 7 cm each, Hypotenuse = 7√2 cm",
+      "Equal sides = 14√2 cm each, Hypotenuse = 28 cm",
+      "Equal sides = 14 cm each, Hypotenuse = 20 cm"
+    ],
+    "answer": "Equal sides = 14 cm each, Hypotenuse = 14√2 cm",
+    "explanation": "The area of an isosceles right triangle with equal sides a is (1/2)a² = 98 cm². Thus, a² = 196 and a = √196 = 14 cm. The hypotenuse is c = a√2 = 14√2 cm (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 81,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A square science exhibition platform has side 8 m. Between which two consecutive whole numbers does the length of its diagonal lie?",
+    "options": [
+      "11 and 12",
+      "10 and 11",
+      "12 and 13",
+      "9 and 10"
+    ],
+    "answer": "11 and 12",
+    "explanation": "The diagonal of a square with side 8 m is d = 8√2 = √128 m. Since 11² = 121 and 12² = 144, 128 lies between 121 and 144. Taking square roots gives 11 < √128 < 12, so the diagonal length lies between 11 and 12 (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 82,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A tall bamboo pole standing vertically at 18 m breaks during a storm and bends over like a hinge. Its tip touches the ground 6 m from the base. At what height 'x' above the ground did the pole break?",
+    "options": [
+      "8 m",
+      "10 m",
+      "7.5 m",
+      "9 m"
+    ],
+    "answer": "8 m",
+    "explanation": "The standing part has height x, and the broken upper part has length (18 - x). By the theorem, x² + 6² = (18 - x)², so x² + 36 = 324 - 36x + x². This simplifies to 36x = 288, yielding x = 8 m (Page 28).",
+    "page_number": "28"
+  },
+  {
+    "id": 83,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "In the storm-broken bamboo problem with height x = 8 m, base = 6 m, and hypotenuse = 10 m, what type of Baudhāyana triple is formed?",
+    "options": [
+      "A scaled Baudhāyana triple obtained by multiplying (3, 4, 5) by 2",
+      "A primitive Baudhāyana triple",
+      "A scaled Baudhāyana triple obtained from (5, 12, 13)",
+      "A non-integer triple"
+    ],
+    "answer": "A scaled Baudhāyana triple obtained by multiplying (3, 4, 5) by 2",
+    "explanation": "The three lengths are 6 m, 8 m, and 10 m. They satisfy 6² + 8² = 36 + 64 = 100 = 10². Since they share a common divisor of 2, (6, 8, 10) is a scaled triple derived from the primitive triple (3, 4, 5) (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 84,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "The perimeter of an isosceles right triangle is 20 + 10√2 cm. What are the lengths of all three sides?",
+    "options": [
+      "Equal sides: 10 cm each; Hypotenuse: 10√2 cm",
+      "Equal sides: 5√2 cm each; Hypotenuse: 10 cm",
+      "Equal sides: 20 cm each; Hypotenuse: 10√2 cm",
+      "Equal sides: 10 cm each; Hypotenuse: 20 cm"
+    ],
+    "answer": "Equal sides: 10 cm each; Hypotenuse: 10√2 cm",
+    "explanation": "Let the equal legs be a. The hypotenuse is a√2. The perimeter is a + a + a√2 = 2a + a√2 = a(2 + √2). Given perimeter = 20 + 10√2 = 10(2 + √2). Equating gives a = 10 cm, and the hypotenuse is 10√2 cm (Page 37).",
+    "page_number": "37"
+  },
+  {
+    "id": 85,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "The hypotenuse of a right triangle is twice its shorter leg. What is the ratio of the other leg to the shorter leg?",
+    "options": [
+      "√3 : 1",
+      "√2 : 1",
+      "2 : 1",
+      "3 : 1"
+    ],
+    "answer": "√3 : 1",
+    "explanation": "Let the shorter leg be a. Then the hypotenuse is c = 2a. The other leg b is given by b = √((2a)² - a²) = √(4a² - a²) = √(3a²) = a√3. Therefore, the ratio of the other leg to the shorter leg is a√3 / a = √3 : 1 (Page 38).",
+    "page_number": "38"
+  },
+  {
+    "id": 86,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Two right triangles have the same hypotenuse of 25 cm. One triangle has legs 15 cm and 20 cm. What is another possible pair of integer leg lengths for this hypotenuse?",
+    "options": [
+      "7 cm and 24 cm",
+      "10 cm and 22 cm",
+      "9 cm and 24 cm",
+      "8 cm and 24 cm"
+    ],
+    "answer": "7 cm and 24 cm",
+    "explanation": "The hypotenuse 25 can belong to a scaled triple 5 × (3, 4, 5) = (15, 20, 25) or to the primitive Baudhāyana triple (7, 24, 25). Checking 7² + 24² = 49 + 576 = 625 = 25² confirms that 7 cm and 24 cm is another valid pair of integer leg lengths (Page 38).",
+    "page_number": "38"
+  },
+  {
+    "id": 87,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "The side of a square is increased by 50%. By what percentage does its diagonal increase?",
+    "options": [
+      "50%",
+      "25%",
+      "100%",
+      "125%"
+    ],
+    "answer": "50%",
+    "explanation": "The diagonal d of a square is directly proportional to its side length s, since d = s√2. If s increases by 50% to 1.5s, the new diagonal becomes 1.5s√2 = 1.5d, which is also an increase of exactly 50% (Page 38).",
+    "page_number": "38"
+  },
+  {
+    "id": 88,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A right triangle has integer side lengths and an area of 6 cm². What are the side lengths of this triangle?",
+    "options": [
+      "3 cm, 4 cm, 5 cm",
+      "2 cm, 6 cm, √40 cm",
+      "1 cm, 12 cm, 13 cm",
+      "4 cm, 5 cm, 6 cm"
+    ],
+    "answer": "3 cm, 4 cm, 5 cm",
+    "explanation": "The area of a right triangle with legs a and b is (1/2)ab = 6 cm², so ab = 12. For integer side lengths, possible integer factor pairs of 12 are (1, 12), (2, 6), and (3, 4). Testing (3, 4): c = √(3² + 4²) = √25 = 5 cm, which is an integer. Thus, the sides are 3 cm, 4 cm, and 5 cm (Page 38).",
+    "page_number": "38"
+  },
+  {
+    "id": 89,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "The side lengths of a right triangle are three consecutive integers. Which of the following is the only possible set?",
+    "options": [
+      "3, 4, 5",
+      "4, 5, 6",
+      "5, 6, 7",
+      "23, 24, 25"
+    ],
+    "answer": "3, 4, 5",
+    "explanation": "Let consecutive integers be x, x + 1, and x + 2. By the theorem, x² + (x + 1)² = (x + 2)², so x² + x² + 2x + 1 = x² + 4x + 4. This simplifies to x² - 2x - 3 = 0, giving (x - 3)(x + 1) = 0. Since side length must be positive, x = 3, giving sides 3, 4, 5 (Page 36).",
+    "page_number": "36"
+  },
+  {
+    "id": 90,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Which of the following statements about Baudhāyana triples is mathematically true?",
+    "options": [
+      "Multiplying every member of a Baudhāyana triple by the same positive integer gives another Baudhāyana triple",
+      "Every Baudhāyana triple is primitive",
+      "Multiplying a primitive Baudhāyana triple by 2 gives another primitive triple",
+      "Every right triangle has integer side lengths"
+    ],
+    "answer": "Multiplying every member of a Baudhāyana triple by the same positive integer gives another Baudhāyana triple",
+    "explanation": "If (a, b, c) is a Baudhāyana triple satisfying a² + b² = c², then multiplying each by k yields (ka)² + (kb)² = k²a² + k²b² = k²(a² + b²) = k²c² = (kc)². Hence (ka, kb, kc) is always a valid triple (Page 36).",
+    "page_number": "36"
+  },
+  {
+    "id": 91,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "What does Fermat's Last Theorem state about the equation xⁿ + yⁿ = zⁿ?",
+    "options": [
+      "There are no positive integer solutions for x, y, and z for any integer n > 2",
+      "There are infinitely many integer solutions for every integer n",
+      "Solutions exist only when n is an even integer greater than 2",
+      "Solutions exist only when x, y, and z are all prime numbers"
+    ],
+    "answer": "There are no positive integer solutions for x, y, and z for any integer n > 2",
+    "explanation": "Inspired by Baudhāyana triples where n = 2, Pierre de Fermat stated that for any integer power n strictly greater than 2, there are no positive integers x, y, and z that satisfy xⁿ + yⁿ = zⁿ. This was proven centuries later by Andrew Wiles (Page 31).",
+    "page_number": "31"
+  },
+  {
+    "id": 92,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "In Bhāskarāchārya's lotus problem, if the lotus tip rises 'h' units above water and touches the surface at distance 'd' from its original position, which general formula gives the water depth 'x'?",
+    "options": [
+      "x = (d² - h²) / (2h)",
+      "x = (d² + h²) / (2h)",
+      "x = √(d² + h²)",
+      "x = (d + h) / 2"
+    ],
+    "answer": "x = (d² - h²) / (2h)",
+    "explanation": "The depth is x and total stem length is x + h. The right triangle has vertical leg x, horizontal leg d, and hypotenuse x + h. By the theorem, x² + d² = (x + h)² = x² + 2xh + h². Subtracting x² gives 2xh = d² - h², so x = (d² - h²) / (2h) (Page 32).",
+    "page_number": "32"
+  },
+  {
+    "id": 93,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Using the triple-generating equation (n - 1)² + (2n - 1) = n², if 2n - 1 = 81 (which is 9²), what is the primitive Baudhāyana triple generated?",
+    "options": [
+      "(9, 40, 41)",
+      "(9, 80, 81)",
+      "(9, 41, 42)",
+      "(9, 12, 15)"
+    ],
+    "answer": "(9, 40, 41)",
+    "explanation": "From 2n - 1 = 81, we get 2n = 82, so n = 41. Then n - 1 = 40. Substituting into the relation yields 40² + 9² = 41² (1600 + 81 = 1681 = 41²). Therefore, the primitive triple generated is (9, 40, 41) (Page 30).",
+    "page_number": "30"
+  },
+  {
+    "id": 94,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A village plans to build a wheelchair ramp to an entrance of height 1.5 m with a ground run of 2 m. Using the Baudhāyana–Pythagoras Theorem, what is the length of the ramp?",
+    "options": [
+      "2.5 m",
+      "3.5 m",
+      "2.8 m",
+      "3.0 m"
+    ],
+    "answer": "2.5 m",
+    "explanation": "The vertical rise of 1.5 m and horizontal run of 2 m form the perpendicular sides of a right triangle. Ramp length c = √(1.5² + 2²) = √(2.25 + 4) = √6.25 = 2.5 m. This ensures safe and accurate ramp construction (Page 39).",
+    "page_number": "39"
+  },
+  {
+    "id": 95,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question": "If an isosceles right triangle has hypotenuse 'c', what is its area in terms of 'c'?",
+    "options": [
+      "c² / 4",
+      "c² / 2",
+      "c²",
+      "c² / 8"
+    ],
+    "answer": "c² / 4",
+    "explanation": "For an isosceles right triangle with equal legs a, c² = 2a², which means a² = c² / 2. The area of the triangle is Area = (1/2) × base × height = (1/2) × a × a = (1/2)a². Substituting a² = c² / 2 yields Area = (1/2)(c² / 2) = c² / 4 (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 96,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The cubic equation x³ + y³ = z³ has no solution in positive integers.\nReason (R): Fermat's Last Theorem states that xⁿ + yⁿ = zⁿ has no positive integer solutions for any integer exponent n > 2.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Fermat's Last Theorem applies to all integer exponents n strictly greater than 2. For n = 3, this implies that no positive integers x, y, and z can satisfy x³ + y³ = z³. Because Reason R states the general theorem that directly proves Assertion A, both are true and R explains A (Page 31).",
+    "page_number": "31"
+  },
+  {
+    "id": 97,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): It is impossible for a square with an integer side length to have an integer diagonal.\nReason (R): The ratio of the diagonal to the side of a square is √2, which is an irrational number that cannot be written as a fraction of two counting numbers.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "For any square, diagonal / side = √2. If both the diagonal and the side were integers, their ratio would be a rational fraction of counting numbers, contradicting the proven fact that √2 cannot be written as m/n. Hence, Reason R is true and correctly explains Assertion A (Page 26).",
+    "page_number": "26"
+  },
+  {
+    "id": 98,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Every primitive Baudhāyana triple has no common factor greater than 1 among its three members.\nReason (R): Multiplying every member of a primitive Baudhāyana triple by the same positive integer k > 1 gives another primitive triple.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is true, R is false.",
+    "explanation": "Assertion A is true by definition of primitive triples. Reason R is false because multiplying a primitive triple by an integer k > 1 introduces a common factor k into all three terms, yielding a scaled (non-primitive) triple. Thus, A is true and R is false (Page 39).",
+    "page_number": "39"
+  },
+  {
+    "id": 99,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The hypotenuse of an isosceles right triangle is y√2, where 'y' is the length of each equal side.\nReason (R): The Baudhāyana–Pythagoras Theorem applies to every right triangle, giving c² = y² + y² = 2y².",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "By applying the theorem to an isosceles right triangle with equal legs y, the hypotenuse squared is c² = y² + y² = 2y². Taking the square root gives c = y√2. Therefore, both statements are true and Reason R provides the exact algebraic justification for Assertion A (Page 39).",
+    "page_number": "39"
+  },
+  {
+    "id": 100,
+    "subject": "Mathematics",
+    "chapter": "The Baudhāyana–Pythagoras Theorem-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The side lengths 1, 2, and √5 form a Baudhāyana triple.\nReason (R): A Baudhāyana triple consists strictly of three positive integers (whole numbers) satisfying a² + b² = c².",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Although 1² + 2² = 1 + 4 = 5 = (√5)², √5 is an irrational number and not an integer. Baudhāyana triples are strictly defined as sets of three positive integers satisfying a² + b² = c². Hence, (1, 2, √5) is not a Baudhāyana triple, making Assertion A false and Reason R true (Page 30).",
+    "page_number": "30"
+  }
+]
