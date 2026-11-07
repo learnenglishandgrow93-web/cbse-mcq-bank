@@ -1,0 +1,1702 @@
+[
+{
+"id": 1,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "The word 'per cent' is derived from which Latin phrase meaning 'by the hundred' or 'out of hundred'?",
+"options": [
+"Per annum",
+"Per centum",
+"Per capita",
+"Per diem"
+],
+"answer": "Per centum",
+"explanation": "The textbook explains that the word 'per cent' is derived from the Latin phrase 'per centum'. This phrase literally translates to 'by the hundred' or 'out of hundred'. It forms the mathematical basis for expressing parts out of a whole of 100 (Page 1).",
+"page_number": "1"
+},
+{
+"id": 2,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "What is the fraction 3/5 expressed as a percentage?",
+"options": [
+"35%",
+"50%",
+"60%",
+"75%"
+],
+"answer": "60%",
+"explanation": "To express any fraction as a percentage, multiply the fraction by 100. Here, (3/5) * 100 = 3 * 20 = 60%. Alternatively, convert the fraction to an equivalent denominator of 100: (3 * 20)/(5 * 20) = 60/100 = 60% (Page 3).",
+"page_number": "3"
+},
+{
+"id": 3,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "Which percentage is equivalent to the fraction 7/14?",
+"options": [
+"7%",
+"14%",
+"50%",
+"70%"
+],
+"answer": "50%",
+"explanation": "Simplifying the fraction 7/14 gives 1/2. Converting 1/2 to a percentage by multiplying by 100 yields (1/2) * 100 = 50%. Thus, 7/14 represents exactly half of the whole, or 50% (Page 3).",
+"page_number": "3"
+},
+{
+"id": 4,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "What is the fraction 9/20 expressed as a percentage?",
+"options": [
+"45%",
+"40%",
+"18%",
+"9%"
+],
+"answer": "45%",
+"explanation": "To convert 9/20 to a percentage, multiply by 100: (9/20) * 100 = 9 * 5 = 45%. We can also find an equivalent fraction with denominator 100 by multiplying numerator and denominator by 5, giving 45/100, which is 45% (Page 3).",
+"page_number": "3"
+},
+{
+"id": 5,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "When 24% is expressed as a fraction in its simplest form, what is the result?",
+"options": [
+"12/50",
+"24/100",
+"6/25",
+"3/20"
+],
+"answer": "6/25",
+"explanation": "A percentage can be written as a fraction by placing it over 100, so 24% = 24/100. Dividing both numerator and denominator by their greatest common divisor, 4, gives 6/25. Therefore, the simplest fractional form of 24% is 6/25 (Page 3).",
+"page_number": "3"
+},
+{
+"id": 6,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "Nandini has 25 marbles, of which 15 are white. What percentage of her marbles are white?",
+"options": [
+"15%",
+"25%",
+"40%",
+"60%"
+],
+"answer": "60%",
+"explanation": "The fraction of white marbles is 15 out of 25, which is 15/25. Multiplying this fraction by 100 gives (15/25) * 100 = 15 * 4 = 60%. Therefore, 60% of Nandini's marbles are white (Page 3).",
+"page_number": "3"
+},
+{
+"id": 7,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "What is the decimal 0.4 expressed as a fraction in simplest form?",
+"options": [
+"4/100",
+"4/10",
+"2/5",
+"1/4"
+],
+"answer": "2/5",
+"explanation": "The decimal 0.4 represents 4 tenths, which can be written as the fraction 4/10. Dividing both the numerator and the denominator by their common factor of 2 results in 2/5. Hence, the simplest form of 0.4 is 2/5 (Page 2).",
+"page_number": "2"
+},
+{
+"id": 8,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "What is the decimal 0.75 expressed as a fraction in simplest form?",
+"options": [
+"3/4",
+"75/10",
+"7/5",
+"1/3"
+],
+"answer": "3/4",
+"explanation": "The decimal 0.75 represents 75 hundredths, written as 75/100. Dividing both the numerator and denominator by 25 simplifies the fraction to 3/4. Therefore, 0.75 in simplest fraction form is 3/4 (Page 2).",
+"page_number": "2"
+},
+{
+"id": 9,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "Which percentage represents 1/4 of a whole quantity?",
+"options": [
+"14%",
+"25%",
+"40%",
+"75%"
+],
+"answer": "25%",
+"explanation": "A quarter of 100 is 25, meaning 1/4 is equal to 25/100. When converted to percentage by multiplying by 100, (1/4) * 100 = 25%. Thus, 1/4 represents 25% of any quantity (Page 1).",
+"page_number": "1"
+},
+{
+"id": 10,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "What is 50% of 24?",
+"options": [
+"10",
+"12",
+"14",
+"18"
+],
+"answer": "12",
+"explanation": "Since 50% equals the unit fraction 1/2 or the decimal 0.5, 50% of 24 is calculated as (1/2) * 24. Multiplying gives 12. Alternatively, 0.5 * 24 = 12 (Page 8).",
+"page_number": "8"
+},
+{
+"id": 11,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "To find 10% of a quantity directly, by what decimal value should the quantity be multiplied?",
+"options": [
+"0.01",
+"0.1",
+"1.0",
+"0.5"
+],
+"answer": "0.1",
+"explanation": "The percentage 10% corresponds to 10/100, which simplifies to 1/10. Converting 1/10 into decimal notation gives 0.1. Therefore, finding 10% of any value is accomplished by multiplying it by 0.1 (Page 8).",
+"page_number": "8"
+},
+{
+"id": 12,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "What is 25% of 160?",
+"options": [
+"32",
+"40",
+"45",
+"50"
+],
+"answer": "40",
+"explanation": "Because 25% is equal to 1/4, finding 25% of 160 is identical to calculating 1/4 of 160. Dividing 160 by 4 gives 40. Thus, 25% of 160 is 40 (Page 13).",
+"page_number": "13"
+},
+{
+"id": 13,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "What is the value of 140% of 40?",
+"options": [
+"48",
+"54",
+"56",
+"64"
+],
+"answer": "56",
+"explanation": "To calculate 140% of 40, multiply (140/100) * 40. This simplifies to 1.4 * 40 = 56. Since 140% is greater than 100%, the result must be greater than the original value of 40 (Page 13).",
+"page_number": "13"
+},
+{
+"id": 14,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "Fill in the blank: 3 is _____ % of 300.",
+"options": [
+"1",
+"3",
+"10",
+"30"
+],
+"answer": "1",
+"explanation": "To find what percentage 3 is of 300, divide 3 by 300 and multiply by 100: (3/300) * 100 = 3/3 = 1%. Thus, 3 is 1% of 300 (Page 13).",
+"page_number": "13"
+},
+{
+"id": 15,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "Fill in the blank: _____ is 40% of 4.",
+"options": [
+"0.16",
+"1.6",
+"0.4",
+"16"
+],
+"answer": "1.6",
+"explanation": "To calculate 40% of 4, multiply (40/100) * 4 = 0.4 * 4 = 1.6. Therefore, 1.6 is 40% of 4 (Page 13).",
+"page_number": "13"
+},
+{
+"id": 16,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "Fill in the blank: 40 is 80% of _____.",
+"options": [
+"32",
+"48",
+"50",
+"60"
+],
+"answer": "50",
+"explanation": "Let the unknown number be x. The statement translates to (80/100) * x = 40. Solving for x yields x = 40 * (100/80) = 40 * (5/4) = 50 (Page 13).",
+"page_number": "13"
+},
+{
+"id": 17,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "Surya made 60 ml of deep orange paint. How much red paint did he use if red paint made up 3/4 of the deep orange paint?",
+"options": [
+"35 ml",
+"40 ml",
+"45 ml",
+"50 ml"
+],
+"answer": "45 ml",
+"explanation": "The quantity of red paint is given by 3/4 of the total volume of 60 ml. Multiplying (3/4) * 60 gives 3 * 15 = 45 ml. Therefore, Surya used 45 ml of red paint (Page 13).",
+"page_number": "13"
+},
+{
+"id": 18,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "According to the textbook, the human body is, on average, about what percentage water by weight?",
+"options": [
+"40%",
+"50%",
+"60%",
+"75%"
+],
+"answer": "60%",
+"explanation": "In the section 'Percentages Around Us', the textbook highlights interesting facts involving percentages. It states explicitly that the human body, on average, is about 60% water by weight (Page 5).",
+"page_number": "5"
+},
+{
+"id": 19,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "What percentage of the mass of the Solar System is contained in the Sun?",
+"options": [
+"90.5%",
+"95.8%",
+"98.4%",
+"99.86%"
+],
+"answer": "99.86%",
+"explanation": "The textbook notes that almost all of the mass of the entire Solar System is concentrated in the Sun. Specifically, about 99.86% of the Solar System's mass is contained in the Sun (Page 5).",
+"page_number": "5"
+},
+{
+"id": 20,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "When selling price (SP) is greater than cost price (CP), which formula correctly defines profit?",
+"options": [
+"Profit = CP - SP",
+"Profit = SP - CP",
+"Profit = SP + CP",
+"Profit = MP - SP"
+],
+"answer": "Profit = SP - CP",
+"explanation": "When an item is sold for more than its purchase price, a profit is made. The profit amount is calculated by subtracting the cost price from the selling price: Profit = SP - CP (Page 16).",
+"page_number": "16"
+},
+{
+"id": 21,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "When selling price (SP) is less than cost price (CP), what is the formula to calculate the loss incurred?",
+"options": [
+"Loss = SP - CP",
+"Loss = CP - SP",
+"Loss = MP - CP",
+"Loss = CP - MP"
+],
+"answer": "Loss = CP - SP",
+"explanation": "A loss occurs whenever the selling price falls below the cost price. The amount of loss is found by deducting the selling price from the cost price: Loss = CP - SP (Page 16).",
+"page_number": "16"
+},
+{
+"id": 22,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "What does the abbreviation 'p.a.' stand for when stating an interest rate like '10% p.a.'?",
+"options": [
+"Per action",
+"Per annum",
+"Per amount",
+"Per account"
+],
+"answer": "Per annum",
+"explanation": "The text explains that 'p.a.' is the abbreviation for the Latin phrase 'per annum'. This means 'for every year', indicating the rate at which interest accumulates annually (Page 21).",
+"page_number": "21"
+},
+{
+"id": 23,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "A school bus has 50 seats and 90% are occupied. How many seats are occupied?",
+"options": [
+"40",
+"42",
+"45",
+"48"
+],
+"answer": "45",
+"explanation": "To determine the number of occupied seats, find 90% of 50. Multiplying 0.90 * 50 gives 45. Hence, exactly 45 seats are occupied by passengers (Page 2).",
+"page_number": "2"
+},
+{
+"id": 24,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "A shopkeeper buys a toy for ₹400 and sells it for ₹460. What is the amount of profit made?",
+"options": [
+"₹40",
+"₹50",
+"₹60",
+"₹70"
+],
+"answer": "₹60",
+"explanation": "Profit is the difference between the selling price and the cost price: Profit = SP - CP. Here, SP = ₹460 and CP = ₹400, so Profit = 460 - 400 = ₹60 (Page 19).",
+"page_number": "19"
+},
+{
+"id": 25,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "A bag with a marked price of ₹2,000 is sold for ₹1,700. What is the discount amount?",
+"options": [
+"₹200",
+"₹300",
+"₹350",
+"₹400"
+],
+"answer": "₹300",
+"explanation": "Discount is the reduction offered on the marked price: Discount = MP - SP. Here, MP = ₹2,000 and SP = ₹1,700. Thus, Discount = 2000 - 1700 = ₹300 (Page 19).",
+"page_number": "19"
+},
+{
+"id": 26,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "What is the value of 25% of 80?",
+"options": [
+"15",
+"20",
+"25",
+"30"
+],
+"answer": "20",
+"explanation": "Since 25% equals 1/4, 25% of 80 is (1/4) * 80 = 20. Alternatively, in decimal form, 0.25 * 80 = 20. Both methods quickly yield 20 (Page 6).",
+"page_number": "6"
+},
+{
+"id": 27,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "mcq",
+"question": "Which fraction directly represents 33%?",
+"options": [
+"33/10",
+"33/100",
+"3/10",
+"1/3"
+],
+"answer": "33/100",
+"explanation": "By definition, a percentage is a fraction where the denominator is 100. Thus, 33% translates directly into the fraction 33/100 (Page 1).",
+"page_number": "1"
+},
+{
+"id": 28,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "assertion_reason",
+"question": "Assertion (A): 50% of a quantity s is equal to 0.5s.\nReason (R): 50% means 50 parts out of 100, which simplifies to the fraction 1/2 or the decimal 0.5.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "By definition, 50% represents 50/100, which simplifies to 1/2 or 0.5 in decimal form. When applied to a quantity s, 50% of s equals (50/100) * s = 0.5s. Therefore, both statements are true and Reason R correctly explains Assertion A (Page 1).",
+"page_number": "1"
+},
+{
+"id": 29,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "assertion_reason",
+"question": "Assertion (A): To express any fraction as a percentage, we can multiply the fraction by 100.\nReason (R): A fraction represents a part of a unit whole, whereas a percentage represents parts per 100.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "A fraction measures parts relative to 1 unit, while a percentage measures parts relative to a standard base of 100. Multiplying a unit fraction by 100 scales it to the required base of 100. Hence, Reason R is true and correctly explains Assertion A (Page 3).",
+"page_number": "3"
+},
+{
+"id": 30,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "easy",
+"question_type": "assertion_reason",
+"question": "Assertion (A): In commercial transactions, profit percentage is standardly calculated with respect to the selling price.\nReason (R): The cost price represents the actual investment made by the trader to purchase the goods.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "Profit percentage is standardly calculated on the cost price (CP), not the selling price, because it measures the return relative to what was invested. The cost price does indeed represent the money invested in buying the goods. Thus, Assertion A is false and Reason R is true (Page 18).",
+"page_number": "18"
+},
+{
+"id": 31,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "What is the fraction 72/150 expressed as a percentage?",
+"options": [
+"45%",
+"48%",
+"52%",
+"54%"
+],
+"answer": "48%",
+"explanation": "To convert 72/150 into a percentage, multiply by 100: (72/150) * 100 = (72 * 2)/3 = 144/3 = 48%. Thus, 72/150 is equivalent to 48% (Page 3).",
+"page_number": "3"
+},
+{
+"id": 32,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "What is the fraction 5/11 expressed as a percentage?",
+"options": [
+"45.45%",
+"51.11%",
+"55.55%",
+"44.44%"
+],
+"answer": "45.45%",
+"explanation": "Converting 5/11 to a percentage involves multiplying by 100: (5/11) * 100 = 500/11%. Dividing 500 by 11 gives 45.4545...%, which rounds to 45.45% (Page 3).",
+"page_number": "3"
+},
+{
+"id": 33,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "In a school, 15 out of 80 students walk to school. What percentage of the students walk to school?",
+"options": [
+"15.5%",
+"17.25%",
+"18.75%",
+"20%"
+],
+"answer": "18.75%",
+"explanation": "The fraction of students who walk is 15/80, which reduces to 3/16. Converting to a percentage gives (3/16) * 100 = 300/16 = 75/4 = 18.75%. Therefore, 18.75% of the students walk to school (Page 4).",
+"page_number": "4"
+},
+{
+"id": 34,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "Sugar makes up 9/34 of Variety 1 biscuits and 13/45 of Variety 2 biscuits. When converted to percentages, which variety is more sugary?",
+"options": [
+"Variety 1, because 26.47% > 28.88%",
+"Variety 2, because 28.88% > 26.47%",
+"Both varieties have identical sugar content",
+"Variety 1, because 9/34 > 13/45"
+],
+"answer": "Variety 2, because 28.88% > 26.47%",
+"explanation": "Converting both fractions to percentages: 9/34 ≈ 26.47% and 13/45 ≈ 28.88%. Comparing these percentages shows that Variety 2 has a higher proportion of sugar than Variety 1 (Page 4).",
+"page_number": "4"
+},
+{
+"id": 35,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "In Kautilya’s Arthashastra, what rate of interest per month per cent was prescribed among sea traders?",
+"options": [
+"One pana and a quarter",
+"Five panas",
+"Ten panas",
+"Twenty panas"
+],
+"answer": "Twenty panas",
+"explanation": "Kautilya's Arthashastra mentions varied interest rates: 1.25 panas for just interest, 5 panas for commercial interest, 10 panas in forests, and 'Twenty panas per month per cent prevails among sea traders' due to high risk (Page 5).",
+"page_number": "5"
+},
+{
+"id": 36,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "Madhu ate 120 g of biscuits containing 25% sugar, while Madhav ate 95 g of biscuits containing 35% sugar. Who consumed more sugar and by how much?",
+"options": [
+"Madhu consumed 2.5 g more",
+"Madhav consumed 3.25 g more",
+"Madhav consumed 5 g more",
+"Both consumed exactly the same amount"
+],
+"answer": "Madhav consumed 3.25 g more",
+"explanation": "Madhu consumed 25% of 120 g = 0.25 * 120 = 30 g of sugar. Madhav consumed 35% of 95 g = 0.35 * 95 = 33.25 g of sugar. Comparing the two values: 33.25 - 30 = 3.25 g. Thus, Madhav consumed 3.25 g more sugar (Page 6).",
+"page_number": "6"
+},
+{
+"id": 37,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "What is the value of 16% of 250?",
+"options": [
+"36",
+"40",
+"44",
+"48"
+],
+"answer": "40",
+"explanation": "To calculate 16% of 250, compute (16/100) * 250 = 16 * 2.5 = 40. Alternatively, using the commutative property of percentages, 16% of 250 is equal to 250% of 16 = 2.5 * 16 = 40 (Page 13).",
+"page_number": "13"
+},
+{
+"id": 38,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "What is 62% of 360?",
+"options": [
+"216.0",
+"223.2",
+"225.4",
+"232.0"
+],
+"answer": "223.2",
+"explanation": "To find 62% of 360, multiply (62/100) * 360 = 0.62 * 360. Calculating 62 * 3.6 yields 223.2. Therefore, 62% of 360 is 223.2 (Page 13).",
+"page_number": "13"
+},
+{
+"id": 39,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "What is 1% of 1 hour expressed in seconds?",
+"options": [
+"6 seconds",
+"36 seconds",
+"60 seconds",
+"360 seconds"
+],
+"answer": "36 seconds",
+"explanation": "There are 60 minutes in an hour, and 60 seconds in a minute, totaling 3600 seconds in 1 hour. Finding 1% of 3600 seconds gives (1/100) * 3600 = 36 seconds (Page 13).",
+"page_number": "13"
+},
+{
+"id": 40,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "What is 7% of 10 kg expressed in grams?",
+"options": [
+"70 g",
+"700 g",
+"750 g",
+"7000 g"
+],
+"answer": "700 g",
+"explanation": "Since 1 kg equals 1000 grams, 10 kg equals 10,000 grams. Calculating 7% of 10,000 grams gives (7/100) * 10,000 = 7 * 100 = 700 g (Page 13).",
+"page_number": "13"
+},
+{
+"id": 41,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "If 30% of k is 70, what is the value of 120% of k?",
+"options": [
+"140",
+"210",
+"280",
+"350"
+],
+"answer": "280",
+"explanation": "Notice that 120% is exactly 4 times 30% (120/30 = 4). Therefore, 120% of k must be 4 times 30% of k: 4 * 70 = 280 (Page 13).",
+"page_number": "13"
+},
+{
+"id": 42,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "If 100% of m is 215, what is the value of 6% of m?",
+"options": [
+"12.9",
+"13.5",
+"14.2",
+"15.0"
+],
+"answer": "12.9",
+"explanation": "Since 100% of m is 215, m = 215. Then 1% of m is 215/100 = 2.15. Therefore, 6% of m is 6 * 2.15 = 12.90 (Page 13).",
+"page_number": "13"
+},
+{
+"id": 43,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "If 90% of n is 270, what is 18% of n?",
+"options": [
+"27",
+"36",
+"54",
+"72"
+],
+"answer": "54",
+"explanation": "Since 18% is one-fifth of 90% (90% / 5 = 18%), 18% of n is simply 270 divided by 5. Calculating 270 / 5 gives 54 (Page 13).",
+"page_number": "13"
+},
+{
+"id": 44,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "Is 10% of a day longer than 1% of a week, and by how much?",
+"options": [
+"No, 1% of a week is longer by 0.24 hours",
+"Yes, 10% of a day is longer by 0.72 hours (43.2 minutes)",
+"No, both durations are exactly equal",
+"Yes, 10% of a day is longer by 1.2 hours"
+],
+"answer": "Yes, 10% of a day is longer by 0.72 hours (43.2 minutes)",
+"explanation": "10% of a day (24 hours) is 0.10 * 24 = 2.4 hours. A week has 7 * 24 = 168 hours, so 1% of a week is 0.01 * 168 = 1.68 hours. Comparing them, 2.4 - 1.68 = 0.72 hours = 43.2 minutes longer (Page 13).",
+"page_number": "13"
+},
+{
+"id": 45,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "In a recipe for millet kanji, the ratio of millet to water is 2 : 7. What percentage of the mixture does the millet constitute?",
+"options": [
+"20%",
+"22.22%",
+"28.57%",
+"35%"
+],
+"answer": "22.22%",
+"explanation": "The total units in the mixture are 2 + 7 = 9 units. Millet accounts for 2 out of 9 units, which is 2/9. Converting to a percentage: (2/9) * 100 = 200/9% ≈ 22.22% (Page 9).",
+"page_number": "9"
+},
+{
+"id": 46,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "If 500 ml of millet kanji is prepared with 22.22% millet, approximately how much millet is used?",
+"options": [
+"100 ml",
+"111.1 ml",
+"125.5 ml",
+"140 ml"
+],
+"answer": "111.1 ml",
+"explanation": "Since 100 ml contains 22.22 ml of millet, 500 ml will contain 5 times that amount: 5 * 22.22 ml = 111.1 ml. Using exact fractions, (2/9) * 500 ml = 1000/9 ml ≈ 111.1 ml (Page 9).",
+"page_number": "9"
+},
+{
+"id": 47,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "A cyclist completes 40% of his journey from Delhi to Agra, covering 92 km. How many more kilometres does he need to travel to reach Agra?",
+"options": [
+"92 km",
+"120 km",
+"138 km",
+"145 km"
+],
+"answer": "138 km",
+"explanation": "If 40% corresponds to 92 km, then 20% corresponds to 92 / 2 = 46 km. The remaining distance is 100% - 40% = 60%. Therefore, 60% = 40% + 20% = 92 + 46 = 138 km (Page 10).",
+"page_number": "10"
+},
+{
+"id": 48,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "What is the total distance between Delhi and Agra if 40% of the journey is 92 km?",
+"options": [
+"210 km",
+"220 km",
+"230 km",
+"240 km"
+],
+"answer": "230 km",
+"explanation": "Let the total distance be d. We know that 40% of d is 92 km: (40/100) * d = 92. Solving for d gives d = 92 * (100/40) = 92 * 2.5 = 230 km (Page 10).",
+"page_number": "10"
+},
+{
+"id": 49,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "Kishanlal has a daily sales target of ₹5,000. On Day 4, his sales reached ₹6,000. What percentage of his target did he achieve?",
+"options": [
+"110%",
+"115%",
+"120%",
+"125%"
+],
+"answer": "120%",
+"explanation": "Percentage of target achieved = (Actual sales / Target) * 100 = (6000 / 5000) * 100. This simplifies to (6/5) * 100 = 1.2 * 100 = 120%. He exceeded his target by 20% (Page 11).",
+"page_number": "11"
+},
+{
+"id": 50,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "Kishanlal's daily sales target is ₹5,000. On Day 5, his sales were ₹7,800. What percentage of the target did he achieve?",
+"options": [
+"146%",
+"152%",
+"156%",
+"160%"
+],
+"answer": "156%",
+"explanation": "The percentage achieved is given by (7800 / 5000) * 100. Simplifying: 7800 / 50 = 156%. This indicates that his sales were 56% above his targeted amount (Page 11).",
+"page_number": "11"
+},
+{
+"id": 51,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "On Day 7, Kishanlal achieved 150% of his ₹5,000 daily sales target. What were his total sales on that day?",
+"options": [
+"₹6,500",
+"₹7,000",
+"₹7,500",
+"₹8,000"
+],
+"answer": "₹7,500",
+"explanation": "To find the sales made, calculate 150% of ₹5,000. This is 1.50 * 5000 = ₹7,500. He achieved ₹2,500 more than his reference target (Page 12).",
+"page_number": "12"
+},
+{
+"id": 52,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "A farmer harvested 260 kg of wheat last year and 650 kg this year. What percentage of last year's harvest is this year's harvest?",
+"options": [
+"220%",
+"240%",
+"250%",
+"260%"
+],
+"answer": "250%",
+"explanation": "This year's harvest as a percentage of last year's is calculated as (650 / 260) * 100. Dividing 650 by 260 gives 2.5. Multiplying by 100 gives 250% (Page 12).",
+"page_number": "12"
+},
+{
+"id": 53,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "A fruit drink contains orange juice, apple juice, and water in the ratio 3 : 2 : 5. What is the percentage of apple juice in the drink?",
+"options": [
+"15%",
+"20%",
+"25%",
+"30%"
+],
+"answer": "20%",
+"explanation": "The total number of parts is 3 + 2 + 5 = 10 parts. Apple juice accounts for 2 parts out of 10, which corresponds to the fraction 2/10. Multiplying by 100 gives (2/10) * 100 = 20% (Page 2).",
+"page_number": "2"
+},
+{
+"id": 54,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "In an election, 1600 people voted and the winning candidate received 500 votes. What percentage of the total votes did the winner receive?",
+"options": [
+"28.5%",
+"30.0%",
+"31.25%",
+"32.5%"
+],
+"answer": "31.25%",
+"explanation": "The percentage of total votes received is (500 / 1600) * 100. Simplifying: 50 / 16 = 25 / 8 = 3.125 * 10 = 31.25%. Thus, the winner secured 31.25% of the total votes (Page 20).",
+"page_number": "20"
+},
+{
+"id": 55,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "The price of 1 kg of rice was ₹38 in 2024 and increased to ₹42 in 2025. What is the approximate rate of inflation?",
+"options": [
+"9.52%",
+"10.53%",
+"11.11%",
+"12.00%"
+],
+"answer": "10.53%",
+"explanation": "Inflation is the percentage increase based on the original price. The increase is 42 - 38 = ₹4. Rate of inflation = (4 / 38) * 100 = 400 / 38 ≈ 10.53% (Page 20).",
+"page_number": "20"
+},
+{
+"id": 56,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "A number increased by 20% becomes 90. What was the original number?",
+"options": [
+"70",
+"72",
+"75",
+"80"
+],
+"answer": "75",
+"explanation": "Let the original number be x. An increase of 20% means x * 1.20 = 90. Solving for x gives x = 90 / 1.20 = 900 / 12 = 75. Therefore, the original number was 75 (Page 20).",
+"page_number": "20"
+},
+{
+"id": 57,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "Shambhavi procures notebooks at ₹36 per book and sells them with a profit margin of 20%. What is her selling price?",
+"options": [
+"₹41.20",
+"₹42.50",
+"₹43.20",
+"₹44.00"
+],
+"answer": "₹43.20",
+"explanation": "Profit amount = 20% of ₹36 = 0.20 * 36 = ₹7.20. Adding the profit to the cost price gives the selling price: SP = 36 + 7.20 = ₹43.20 (Page 17).",
+"page_number": "17"
+},
+{
+"id": 58,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "Shambhavi sells crayon boxes at ₹50 per box with a profit margin of 25%. At what price did she buy each box from the wholesaler?",
+"options": [
+"₹37.50",
+"₹40.00",
+"₹42.00",
+"₹45.00"
+],
+"answer": "₹40.00",
+"explanation": "Selling price equals cost price plus 25% profit: SP = CP * 1.25. Given SP = ₹50, we solve for CP = 50 / 1.25 = 5000 / 125 = ₹40. Thus, she bought them for ₹40 each (Page 17).",
+"page_number": "17"
+},
+{
+"id": 59,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "Raghu bought 10 kg of rice at ₹35 per kg and sold the entire 10 kg lot for ₹300 to clear old stock. What was his percentage loss?",
+"options": [
+"12.50%",
+"14.28%",
+"15.00%",
+"16.67%"
+],
+"answer": "14.28%",
+"explanation": "Total cost price = 10 * 35 = ₹350. Total selling price = ₹300. Loss = 350 - 300 = ₹50. Percentage loss = (50 / 350) * 100 = (1/7) * 100 ≈ 14.28% (Page 17).",
+"page_number": "17"
+},
+{
+"id": 60,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "A pressure cooker with an MRP of ₹1,800 is sold at a 35% discount. If the shopkeeper's cost price was ₹900, what profit percentage was made?",
+"options": [
+"25%",
+"28%",
+"30%",
+"35%"
+],
+"answer": "30%",
+"explanation": "Discount = 35% of 1800 = 0.35 * 1800 = ₹630. Selling price = 1800 - 630 = ₹1170. Profit = SP - CP = 1170 - 900 = ₹270. Profit percentage = (270 / 900) * 100 = 30% (Page 18).",
+"page_number": "18"
+},
+{
+"id": 61,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "The petrol price in 2015 was ₹60 and rose to ₹100 in 2025. What is the percentage increase in the price?",
+"options": [
+"40%",
+"60%",
+"66.66%",
+"166.66%"
+],
+"answer": "66.66%",
+"explanation": "Increase in price = 100 - 60 = ₹40. Percentage increase is calculated using the original base price: (40 / 60) * 100 = (2/3) * 100 ≈ 66.66% (Page 19).",
+"page_number": "19"
+},
+{
+"id": 62,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "A clothing store offers a 25% discount on all shirts. If the original price of a shirt is ₹300, how much will Anwar pay?",
+"options": [
+"₹215",
+"₹225",
+"₹240",
+"₹250"
+],
+"answer": "225",
+"explanation": "Discount amount = 25% of ₹300 = (1/4) * 300 = ₹75. Price payable after discount = 300 - 75 = ₹225. Alternatively, Anwar pays 75% of 300: 0.75 * 300 = ₹225 (Page 19).",
+"page_number": "19"
+},
+{
+"id": 63,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "mcq",
+"question": "A refrigerator costs ₹30,000 before tax. An 18% GST is added to the price. What is the total amount payable?",
+"options": [
+"₹34,800",
+"₹35,400",
+"₹36,000",
+"₹36,200"
+],
+"answer": "₹35,400",
+"explanation": "GST amount = 18% of 30,000 = 0.18 * 30,000 = ₹5,400. Total amount payable = Price + GST = 30,000 + 5,400 = ₹35,400. Alternatively, 30,000 * 1.18 = ₹35,400 (Page 12).",
+"page_number": "12"
+},
+{
+"id": 64,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Achieving 120% of a production target means the factory produced more than its original target.\nReason (R): Percentages greater than 100% represent values that exceed the original reference or target value.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "When a target is considered 100%, achieving 120% corresponds to 1.2 times the reference amount, which is an excess of 20%. Any percentage over 100% indicates that the final value exceeds the base whole. Thus, Reason R correctly explains Assertion A (Page 21).",
+"page_number": "21"
+},
+{
+"id": 65,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): The percentage increase when a price changes from ₹80 to ₹100 is 20%.\nReason (R): Percentage increase is always calculated by taking the original starting value as the denominator.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "The increase in price is 100 - 80 = ₹20. Since the original price is ₹80, the percentage increase is (20 / 80) * 100 = 25%, not 20%. Reason R is a true principle, making Assertion A false and Reason R true (Page 22).",
+"page_number": "22"
+},
+{
+"id": 66,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): For the same principal and positive interest rate, annual compounding yields a higher total amount than simple interest for periods exceeding one year.\nReason (R): Under annual compounding, interest earned in each period is added to the principal to form the new principal for subsequent periods.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "Compounding reinvests interest back into the principal, so subsequent interest is earned on both original principal and accumulated interest. Simple interest calculates returns strictly on the initial principal. Hence, compounding yields a strictly higher amount after year one, and Reason R correctly explains Assertion A (Page 22).",
+"page_number": "22"
+},
+{
+"id": 67,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): An asset depreciating at 10% per year loses exactly 20% of its initial value after two years.\nReason (R): In yearly depreciation, the percentage reduction is applied each year to the depreciated value at the beginning of that year.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "After year one, the value becomes 90% of original. In year two, 10% of 90% is 9%, making the final value 81% of original, which is a net loss of 19%, not 20%. Reason R correctly defines depreciation compounding, so Assertion A is false and Reason R is true (Page 22).",
+"page_number": "22"
+},
+{
+"id": 68,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Two shops offering a 20% discount on identical items with the same marked price will charge the exact same selling price.\nReason (R): The absolute discount amount depends directly on the marked price of the product.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "Discount is given by (Discount % / 100) * Marked Price. If both the percentage discount and marked price are identical, the discount amount is identical, resulting in identical selling prices. Therefore, both statements are true and Reason R provides the exact explanation for Assertion A (Page 22).",
+"page_number": "22"
+},
+{
+"id": 69,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Offering successive discounts of 30% and 20% on an item gives the customer an effective discount of 50%.\nReason (R): Successive discounts compound because the second percentage discount is calculated on the reduced price, not on the original marked price.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "A 30% discount reduces an item of ₹100 to ₹70. A further 20% discount on ₹70 removes ₹14, leaving the price at ₹56, which corresponds to an effective discount of 44%, not 50%. Reason R correctly explains how successive discounts work, making Assertion A false and Reason R true (Page 26).",
+"page_number": "26"
+},
+{
+"id": 70,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "medium",
+"question_type": "assertion_reason",
+"question": "Assertion (A): If an elephant population p increases by 5% over a decade, the new population is represented by p * 1.05.\nReason (R): An increase of 5% on p means adding (5/100) * p to p, which factors as p * (1 + 0.05) = p * 1.05.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "When an initial population p increases by 5%, the increment is 0.05p. The new total is p + 0.05p = 1.05p. Reason R provides the precise algebraic derivation of this expression, making both statements true and Reason R the correct explanation of Assertion A (Page 20).",
+"page_number": "20"
+},
+{
+"id": 71,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "In a room of 100 people, 99% are left-handed. How many left-handed people must leave the room to bring the percentage of left-handed people down to 98%?",
+"options": [
+"1",
+"2",
+"49",
+"50"
+],
+"answer": "50",
+"explanation": "Initially, there are 99 left-handed people and 1 right-handed person out of 100 people. If x left-handed people leave, the number of right-handed people remains 1. For left-handed people to comprise 98%, the 1 right-handed person must comprise 2% of the new total: 0.02 * (100 - x) = 1, giving 100 - x = 50, so x = 50 (Page 30).",
+"page_number": "30"
+},
+{
+"id": 72,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "Workers in a coffee plantation take 18 days to pick berries in 20% of the plantation. Assuming the work rate remains constant, how many days will they take to complete the picking work for the entire plantation?",
+"options": [
+"72 days",
+"80 days",
+"90 days",
+"100 days"
+],
+"answer": "90 days",
+"explanation": "The entire plantation represents 100% of the work. Since 20% of the work takes 18 days, the total work is 5 times 20% (100% / 20% = 5). Total time required = 18 * 5 = 90 days. This assumption requires the rate of work and workforce to stay consistent (Page 14).",
+"page_number": "14"
+},
+{
+"id": 73,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "A shopkeeper sells pencils at a price such that the selling price of 3 pencils equals the cost price of 5 pencils. What is his profit percentage?",
+"options": [
+"40%",
+"60%",
+"66.67%",
+"75%"
+],
+"answer": "66.67%",
+"explanation": "Let the CP of 1 pencil be ₹1. Then CP of 3 pencils = ₹3. The SP of 3 pencils equals the CP of 5 pencils = ₹5. Profit on 3 pencils = SP - CP = 5 - 3 = ₹2. Profit percentage = (Profit / CP) * 100 = (2 / 3) * 100 = 66.67% (Page 29).",
+"page_number": "29"
+},
+{
+"id": 74,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "Bus fares were increased by 3% last year and by 4% this year. What is the overall percentage increase in bus fares over the two years?",
+"options": [
+"7.00%",
+"7.12%",
+"7.24%",
+"12.00%"
+],
+"answer": "7.12%",
+"explanation": "Let the original fare be 100. After a 3% increase, the fare becomes 100 * 1.03 = 103. After a subsequent 4% increase, the fare becomes 103 * 1.04 = 107.12. The overall increase from the original 100 is 107.12 - 100 = 7.12% (Page 29).",
+"page_number": "29"
+},
+{
+"id": 75,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "If the length of a rectangle is increased by 10% while its area remains unchanged, by what percentage does its breadth decrease?",
+"options": [
+"9.09%",
+"10.00%",
+"11.11%",
+"8.50%"
+],
+"answer": "9.09%",
+"explanation": "Let original dimensions be L and B, area = L * B. The new length is 1.10L. For area to remain constant, (1.10L) * B' = L * B, which implies B' = B / 1.10 = (10/11)B. The fractional decrease is 1 - 10/11 = 1/11. Expressed as a percentage, (1/11) * 100 ≈ 9.09% (Page 29).",
+"page_number": "29"
+},
+{
+"id": 76,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "Cakely offers a successive discount of '30% + 20%' on a ₹200 cake, while Cakify offers a flat 50% discount on the same cake. Which bakery offers the cheaper price and by how much?",
+"options": [
+"Cakely is cheaper by ₹12",
+"Cakify is cheaper by ₹12",
+"Cakify is cheaper by ₹20",
+"Both bakeries offer the exact same price"
+],
+"answer": "Cakify is cheaper by ₹12",
+"explanation": "At Cakely, ₹200 discounted by 30% becomes ₹140; discounted further by 20% on ₹140 gives 140 - 28 = ₹112. At Cakify, 50% off ₹200 gives ₹100. Comparing the two, Cakify is cheaper by 112 - 100 = ₹12 (Page 26).",
+"page_number": "26"
+},
+{
+"id": 77,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "Surbhi added a 50% profit margin to goods bought at cost x, setting the price at 1.5x. Later, she offered a 50% clearance discount on this marked price. What was her overall profit or loss percentage?",
+"options": [
+"No profit, no loss (0%)",
+"25% profit",
+"25% loss",
+"15% loss"
+],
+"answer": "25% loss",
+"explanation": "The marked price is 1.5x. A 50% discount reduces the price to 0.5 * 1.5x = 0.75x. Since the selling price 0.75x is less than the cost price x, she incurs a loss of x - 0.75x = 0.25x. As a percentage of cost, this is (0.25x / x) * 100 = 25% loss (Page 27).",
+"page_number": "27"
+},
+{
+"id": 78,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "If goods are marked up by 50% above cost price, what percentage discount must be offered on the marked price so that the seller breaks even (zero profit, zero loss)?",
+"options": [
+"25%",
+"30%",
+"33.33%",
+"50%"
+],
+"answer": "33.33%",
+"explanation": "Cost price is x, marked price is 1.5x. To break even, the selling price after discount fraction d must equal x: 1.5x * (1 - d) = x. This simplifies to 1 - d = 1 / 1.5 = 2/3, which gives d = 1 - 2/3 = 1/3 ≈ 33.33% (Page 27).",
+"page_number": "27"
+},
+{
+"id": 79,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "A milkman sold two buffaloes for ₹80,000 each. On one he made a 5% profit and on the other a 10% loss. What was his overall result?",
+"options": [
+"Overall profit of ₹1,200",
+"Overall loss of ₹5,079.36",
+"Overall profit of ₹4,000",
+"He broke even"
+],
+"answer": "Overall loss of ₹5,079.36",
+"explanation": "For the first buffalo: CP1 = 80,000 / 1.05 ≈ ₹76,190.48. For the second buffalo: CP2 = 80,000 / 0.90 ≈ ₹88,888.89. Total cost price = 76,190.48 + 88,888.89 = ₹165,079.37. Total selling price = 2 * 80,000 = ₹160,000. Net loss = 165,079.37 - 160,000 = ₹5,079.37 (Page 20).",
+"page_number": "20"
+},
+{
+"id": 80,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "A deposit of ₹20,000 is placed in a bank at 10% p.a. for 2 years. How much more money is received at maturity with annual compounding compared to without compounding?",
+"options": [
+"₹100",
+"₹200",
+"₹400",
+"₹600"
+],
+"answer": "₹200",
+"explanation": "Without compounding: Total amount = 20,000 * (1 + 0.10 * 2) = 20,000 * 1.20 = ₹24,000. With compounding: Total amount = 20,000 * (1.10)^2 = 20,000 * 1.21 = ₹24,200. The difference is 24,200 - 24,000 = ₹200 more with compounding (Page 22).",
+"page_number": "22"
+},
+{
+"id": 81,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "A sum of ₹50,000 is invested at 7% p.a. for 3 years. How much more interest is earned if interest is compounded annually rather than without compounding?",
+"options": [
+"₹525.00",
+"₹680.50",
+"₹752.15",
+"₹820.00"
+],
+"answer": "₹752.15",
+"explanation": "Without compounding, interest = 50,000 * 0.07 * 3 = ₹10,500. With compounding, compound amount = 50,000 * (1.07)^3 = 50,000 * 1.225043 = ₹61,252.15, giving compound interest = ₹11,252.15. The difference is 11,252.15 - 10,500 = ₹752.15 (Page 24).",
+"page_number": "24"
+},
+{
+"id": 82,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "Giridhar borrows ₹12,500 at 12% p.a. for 3 years without compounding, while Raghava borrows the same amount for 3 years at 10% p.a. compounded annually. Who pays more interest and by how much?",
+"options": [
+"Raghava pays ₹245.50 more",
+"Giridhar pays ₹362.50 more",
+"Giridhar pays ₹500.00 more",
+"Both pay the exact same interest"
+],
+"answer": "Giridhar pays ₹362.50 more",
+"explanation": "Giridhar's interest = 12,500 * 0.12 * 3 = ₹4,500. Raghava's interest = 12,500 * [(1.10)^3 - 1] = 12,500 * (1.331 - 1) = 12,500 * 0.331 = ₹4,137.50. Comparing the two, Giridhar pays 4500 - 4137.50 = ₹362.50 more (Page 24).",
+"page_number": "24"
+},
+{
+"id": 83,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "Consider an investment growing at 10% p.a. How long will it take for the principal to double if compounding is NOT done?",
+"options": [
+"7.27 years",
+"8.5 years",
+"10 years",
+"12 years"
+],
+"answer": "10 years",
+"explanation": "Without compounding, the total amount is given by A = P * (1 + rt). For the amount to double, A = 2P, which means 1 + rt = 2, so rt = 1. With r = 10% = 0.10, t = 1 / 0.10 = 10 years (Page 24).",
+"page_number": "24"
+},
+{
+"id": 84,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "In a laboratory experiment, the bacteria count increases at the rate of 2.5% per hour. If the initial count was 5,06,000, what will be the count at the end of 2 hours?",
+"options": [
+"5,18,650",
+"5,25,000",
+"5,31,616",
+"5,35,420"
+],
+"answer": "5,31,616",
+"explanation": "Growth compounds hourly: Count = Initial * (1 + r)^t = 5,06,000 * (1 + 0.025)^2 = 5,06,000 * (1.025)^2 = 5,06,000 * 1.050625 = 531,616.25. Rounding gives approximately 5,31,616 bacteria (Page 24).",
+"page_number": "24"
+},
+{
+"id": 85,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "A village population of 1250 decreases by 10% each decade. What is the expected population after 3 decades?",
+"options": [
+"875",
+"911",
+"950",
+"1000"
+],
+"answer": "911",
+"explanation": "Each decade, the population multiplies by (1 - 0.10) = 0.9. After 3 decades, the population is 1250 * (0.9)^3 = 1250 * 0.729 = 911.25. Rounding off gives approximately 911 (or around 910) (Page 25).",
+"page_number": "25"
+},
+{
+"id": 86,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "A shopkeeper sets the price of an article with a 35% profit margin above cost. Later, he offers a 30% discount on that price. Will he make a profit or a loss, and by what percentage?",
+"options": [
+"5% profit",
+"5.5% profit",
+"5.5% loss",
+"4.5% loss"
+],
+"answer": "5.5% loss",
+"explanation": "Let cost price be 100. Price with 35% margin = 100 * 1.35 = 135. Offering a 30% discount on 135 gives selling price = 135 * (1 - 0.30) = 135 * 0.70 = 94.5. Since 94.5 < 100, he incurs a loss of 100 - 94.5 = 5.5% (Page 28).",
+"page_number": "28"
+},
+{
+"id": 87,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "The monthly percentage change in mice population in a lab is +5% in Month 1, -2% in Month 2, and -3% in Month 3. If the initial population was p, which expression correctly represents the population after three months?",
+"options": [
+"p * 0.05 * 0.02 * 0.03",
+"p + 0.05 - 0.02 - 0.03",
+"p * 1.05 * 0.98 * 0.97",
+"p * (1 + 0.05 - 0.02 - 0.03)"
+],
+"answer": "p * 1.05 * 0.98 * 0.97",
+"explanation": "Percentage changes apply successively to the changing population. A +5% change corresponds to a multiplier of 1.05, a -2% change to 0.98, and a -3% change to 0.97. Multiplying sequentially gives p * 1.05 * 0.98 * 0.97 (Page 28).",
+"page_number": "28"
+},
+{
+"id": 88,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "A tablet with marked price ₹24,000 receives a 15% discount, followed by an additional 10% coupon discount on the reduced price. An 18% GST is then applied to the final discounted price. What is the total amount payable?",
+"options": [
+"₹20,400.00",
+"₹21,664.80",
+"₹22,150.00",
+"₹22,400.00"
+],
+"answer": "₹21,664.80",
+"explanation": "Price after 15% discount = 24,000 * 0.85 = ₹20,400. Price after 10% coupon = 20,400 * 0.90 = ₹18,360. Adding 18% GST gives total payable = 18,360 * 1.18 = ₹21,664.80 (Case Study 1, Page 1).",
+"page_number": "1"
+},
+{
+"id": 89,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "Martin buys an electric bicycle for ₹50,000 that depreciates by 10% annually. Simultaneously, he invests ₹50,000 in a bank account growing at 8% per year compounded annually. After two years, by how much does the bank investment exceed the bicycle's value?",
+"options": [
+"₹15,400",
+"₹17,820",
+"₹18,320",
+"₹19,000"
+],
+"answer": "₹17,820",
+"explanation": "Value of bicycle after 2 years = 50,000 * (0.90)^2 = 50,000 * 0.81 = ₹40,500. Value of investment after 2 years = 50,000 * (1.08)^2 = 50,000 * 1.1664 = ₹58,320. The difference is 58,320 - 40,500 = ₹17,820 (Case Study 2, Page 2).",
+"page_number": "2"
+},
+{
+"id": 90,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "A bus carries 36 passengers, which represents 75% of its total seating capacity. How many passengers can the bus accommodate at full capacity?",
+"options": [
+"44",
+"46",
+"48",
+"50"
+],
+"answer": "48",
+"explanation": "Let total capacity be x. Given 75% of x = 36, we write (75/100) * x = 36. Solving for x yields x = 36 * (100/75) = 36 * (4/3) = 12 * 4 = 48 passengers (Page 20).",
+"page_number": "20"
+},
+{
+"id": 91,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "A water tank was 80% full in the morning. During the day, 25% of the water present was consumed. What percentage of the tank's total capacity is filled now?",
+"options": [
+"55%",
+"60%",
+"65%",
+"70%"
+],
+"answer": "60%",
+"explanation": "The amount used was 25% of the water present, not 25% of the total tank. Water used = 25% of 80% = 0.25 * 80% = 20% of tank capacity. Water remaining = 80% - 20% = 60% of tank capacity (Page 20).",
+"page_number": "20"
+},
+{
+"id": 92,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "An office has 800 employees, 25% of whom are men and the rest are women. If 40% of the men and 20% of the women belong to the sports club, what percentage of all employees are sports club members?",
+"options": [
+"22.5%",
+"25.0%",
+"27.5%",
+"30.0%"
+],
+"answer": "25.0%",
+"explanation": "Men = 25% of 800 = 200; women = 800 - 200 = 600. Men in club = 40% of 200 = 80. Women in club = 20% of 600 = 120. Total club members = 80 + 120 = 200. Overall percentage = (200 / 800) * 100 = 25% (Page 21).",
+"page_number": "21"
+},
+{
+"id": 93,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "Raju buys a laptop for ₹32,000 and sells it to Ritu at a 20% loss. Ritu sells it to Meera at a 30% loss. At what price did Meera buy the laptop?",
+"options": [
+"₹16,000",
+"₹17,450",
+"₹17,920",
+"₹18,200"
+],
+"answer": "₹17,920",
+"explanation": "Price paid by Ritu = 80% of 32,000 = 0.80 * 32,000 = ₹25,600. Price paid by Meera = 70% of 25,600 = 0.70 * 25,600 = ₹17,920. Therefore, Meera bought the laptop for ₹17,920 (Page 21).",
+"page_number": "21"
+},
+{
+"id": 94,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "Manu and Vijay each invest a sum P for 2 years at 8% per annum. Manu chooses compound interest while Vijay chooses simple interest. If the difference in interest earned between them is ₹112, what is the sum P?",
+"options": [
+"₹15,000",
+"₹16,500",
+"₹17,500",
+"₹18,000"
+],
+"answer": "₹17,500",
+"explanation": "Difference between CI and SI for 2 years is P * (r/100)^2. Here, P * (0.08)^2 = 0.0064P. Given 0.0064P = 112, solving gives P = 112 / 0.0064 = ₹17,500 (Page 21).",
+"page_number": "21"
+},
+{
+"id": 95,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "mcq",
+"question": "Samson bought a car for ₹4,40,000 after receiving a 15% discount on the original price. What was the original price of the car (to the nearest rupee)?",
+"options": [
+"₹5,06,000",
+"₹5,17,647",
+"₹5,20,000",
+"₹5,28,400"
+],
+"answer": "₹5,17,647",
+"explanation": "Let original price be P. After a 15% discount, the customer pays 85% of P: 0.85 * P = 4,40,000. Solving for P gives P = 4,40,000 / 0.85 ≈ ₹5,17,647.06, which rounds to ₹5,17,647 (Page 20).",
+"page_number": "20"
+},
+{
+"id": 96,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Increasing the price of an article by 5% and subsequently decreasing the resulting price by 5% results in an overall net decrease of 0.25% from the original price.\nReason (R): The 5% decrease is applied to a higher base value than the initial price, causing the absolute reduction to exceed the absolute initial increase.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "Taking an initial price of 100, a 5% increase gives 105. A 5% decrease on 105 reduces the price by 5.25, resulting in 99.75. The net change is a decrease of 0.25%. Reason R correctly explains why the values do not cancel out, making both true and R the correct explanation (Page 8).",
+"page_number": "8"
+},
+{
+"id": 97,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Setting the marked price 50% above cost price and then offering a 50% discount on marked price produces a net loss of 25%.\nReason (R): Profit markup percentage and discount percentage operate on different bases, with the discount operating on a larger base than the markup.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "If CP = 100, a 50% markup sets MP = 150. A 50% discount on 150 cuts ₹75, leaving SP = ₹75, which is 25% below CP. Reason R correctly explains that the discount base (MP) is greater than the markup base (CP). Thus, both are true and R explains A (Page 27).",
+"page_number": "27"
+},
+{
+"id": 98,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): If a customer has a total budget of ₹50,000 including 18% GST to purchase a laptop, the maximum pre-GST price is exactly ₹41,000.\nReason (R): The pre-GST price is determined by dividing the total budget by (1 + GST rate in decimal), which is 1.18.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "Using the relationship Pre-GST price * 1.18 = 50,000, we find Pre-GST price = 50,000 / 1.18 ≈ ₹42,372.88, not ₹41,000. Hence Assertion A is incorrect. Reason R correctly describes the mathematical formula. Therefore, A is false and R is true (Page 4).",
+"page_number": "4"
+},
+{
+"id": 99,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): 15% of 60 is strictly greater than 60% of 15.\nReason (R): By the commutative property of multiplication, x% of y is mathematically identical to y% of x for any positive numbers x and y.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "A is false, R is true.",
+"explanation": "Calculating both values: 15% of 60 = (15 * 60)/100 = 9, and 60% of 15 = (60 * 15)/100 = 9. They are exactly equal, making Assertion A false. Reason R correctly states the algebraic commutative property (x * y)/100 = (y * x)/100. Thus, A is false and R is true (Page 29).",
+"page_number": "29"
+},
+{
+"id": 100,
+"subject": "Mathematics",
+"chapter": "Fractions in Disguise-MCQ-v1",
+"difficulty": "hard",
+"question_type": "assertion_reason",
+"question": "Assertion (A): Under a 'Buy 2 and get 1 free' retail offer, the effective percentage discount on the items received is 33.33%.\nReason (R): The discount percentage in multi-buy deals is calculated by taking the ratio of free items to the total number of items received and multiplying by 100.",
+"options": [
+"Both A and R are true, and R is the correct explanation of A.",
+"Both A and R are true, but R is not the correct explanation of A.",
+"A is true, R is false.",
+"A is false, R is true."
+],
+"answer": "Both A and R are true, and R is the correct explanation of A.",
+"explanation": "In 'Buy 2 and get 1 free', the customer takes home 2 + 1 = 3 items while paying for only 2 items. The 1 free item out of 3 total items represents a fraction of 1/3, which equals 33.33% discount. Reason R states the exact formula for computing this discount. Thus, both are true and R explains A (Page 29).",
+"page_number": "29"
+}
+]
