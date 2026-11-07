@@ -1,0 +1,1601 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What is the origin and literal meaning of the word 'per cent'?",
+    "answer": "The word 'per cent' is derived from the Latin phrase 'per centum', which means 'by the hundred' or 'out of hundred'.",
+    "keywords": [
+      "per centum",
+      "Latin",
+      "by the hundred",
+      "out of hundred"
+    ],
+    "explanation": "The term percentage has historical roots in Latin commerce where calculations were referenced to hundredths. It signifies comparing any part against a base whole of 100. This concept is introduced on page 1 of the textbook.",
+    "page_number": "1"
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Convert the fraction 3/5 into a percentage.",
+    "answer": "To convert 3/5 into a percentage, multiply by 100%: (3/5) * 100% = 60%.",
+    "keywords": [
+      "fraction",
+      "multiply by 100",
+      "60%"
+    ],
+    "explanation": "Any fraction is converted to a percentage by multiplying the fraction by 100 or expressing it with an equivalent denominator of 100. Thus, 3/5 equals 60%. This is discussed on page 3 of the textbook and worksheet 1.",
+    "page_number": "3"
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What does it mean when a shop achieves 125% of its sales target?",
+    "answer": "It means the shop has surpassed its target and achieved 1.25 times the target, which is 25% more than the set target.",
+    "keywords": [
+      "surpassed target",
+      "125%",
+      "25% more",
+      "1.25 times"
+    ],
+    "explanation": "A percentage above 100% indicates that the quantity exceeds the baseline reference value. Achieving 125% means reaching 100% plus an additional 20% or 25% over the goal. This concept is explained on page 11 of the textbook.",
+    "page_number": "11"
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Why is it useful to convert fractions or ratios to percentages when comparing quantities with different totals?",
+    "answer": "Converting to percentages standardizes all quantities to a common base of 100, allowing a direct, fair, and meaningful comparison.",
+    "keywords": [
+      "standardizes",
+      "common base",
+      "100",
+      "fair comparison"
+    ],
+    "explanation": "When wholes are unequal, absolute numbers or raw fractions cannot be compared directly at a glance. Percentages equalize the base to 100. This is discussed on page 4 and page 8 of the textbook.",
+    "page_number": "4"
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What does a GST rate of 18% mean on an item priced before tax?",
+    "answer": "It means an additional tax of ₹18 is charged by the government for every ₹100 of the item's price.",
+    "keywords": [
+      "GST",
+      "18 rupees",
+      "every 100 rupees",
+      "tax"
+    ],
+    "explanation": "GST is calculated as a specified percentage of the taxable base price and added to give the total bill amount. An 18% tax adds ₹18 per ₹100. This is discussed on page 19 of the textbook.",
+    "page_number": "19"
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Nandini has 25 marbles, of which 15 are white. What percentage of her marbles are white?",
+    "answer": "Percentage of white marbles = (15 / 25) * 100 = 60%.",
+    "keywords": [
+      "15 out of 25",
+      "60%",
+      "percentage"
+    ],
+    "explanation": "Dividing the part (15) by the whole (25) yields 3/5, which upon multiplying by 100 gives 60%. This question appears on page 3 of the textbook.",
+    "page_number": "3"
+  },
+  {
+    "id": 7,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "In a school, 15 out of 80 students walk to school. What percentage of the students walk to school?",
+    "answer": "Percentage of walking students = (15 / 80) * 100 = 18.75%.",
+    "keywords": [
+      "15/80",
+      "18.75%",
+      "percentage walking"
+    ],
+    "explanation": "Calculating part over whole gives 15/80 = 3/16. Multiplying 3/16 by 100 yields 18.75%. This problem is from page 4 of the textbook.",
+    "page_number": "4"
+  },
+  {
+    "id": 8,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "What decimal value should be multiplied with a quantity to find 10% of that quantity?",
+    "answer": "To find 10% of a quantity, multiply it by the decimal value 0.1 (or 0.10).",
+    "keywords": [
+      "decimal",
+      "0.1",
+      "10%",
+      "multiply"
+    ],
+    "explanation": "Converting 10% into fraction form gives 10/100, which in decimal representation is 0.1. Multiplying any base by 0.1 calculates 10%. This concept is presented on page 8 of the textbook.",
+    "page_number": "8"
+  },
+  {
+    "id": 9,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Calculate 35% of 240.",
+    "answer": "35% of 240 = (35 / 100) * 240 = 0.35 * 240 = 84.",
+    "keywords": [
+      "35%",
+      "240",
+      "84",
+      "percentage calculation"
+    ],
+    "explanation": "Multiplying 240 by 35/100 or 7/20 gives 12 * 7 = 84. This problem is found on page 19 of the student resource document.",
+    "page_number": "19"
+  },
+  {
+    "id": 10,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "The price of a pen increased from ₹40 to ₹50. Find the percentage increase.",
+    "answer": "Increase = ₹50 - ₹40 = ₹10. Percentage increase = (10 / 40) * 100 = 25%.",
+    "keywords": [
+      "increase",
+      "original price",
+      "25%",
+      "percentage increase"
+    ],
+    "explanation": "Percentage change is always calculated with respect to the initial value: (10 / 40) * 100 = 25%. This question is on page 19 of the student resource document.",
+    "page_number": "19"
+  },
+  {
+    "id": 11,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "During a cleanliness drive, 30 out of 150 students volunteered. What percentage of the students volunteered?",
+    "answer": "Percentage volunteered = (30 / 150) * 100 = (1 / 5) * 100 = 20%.",
+    "keywords": [
+      "volunteered",
+      "30/150",
+      "20%",
+      "cleanliness drive"
+    ],
+    "explanation": "The ratio of volunteers to total students is 30/150 = 1/5. Converting 1/5 into percentage gives 20%. This is from Exercise 1.1 on page 5 of the textbook.",
+    "page_number": "5"
+  },
+  {
+    "id": 12,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "A bottle contains 2 L of juice. Priya drinks 35% of it. What amount of juice does she drink in millilitres?",
+    "answer": "2 L = 2000 ml. Amount consumed = 35% of 2000 ml = (35 / 100) * 2000 = 700 ml.",
+    "keywords": [
+      "2000 ml",
+      "35%",
+      "700 ml",
+      "juice"
+    ],
+    "explanation": "Converting 2 litres to 2000 ml and calculating 35% gives (35 * 2000) / 100 = 700 ml. This problem appears on page 5 of the textbook and page 1 of the learning key.",
+    "page_number": "5"
+  },
+  {
+    "id": 13,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "A bus has 50 seats and 90% are occupied. How many seats are occupied?",
+    "answer": "Occupied seats = 90% of 50 = (90 / 100) * 50 = 45 seats.",
+    "keywords": [
+      "occupied seats",
+      "90%",
+      "45 seats",
+      "50"
+    ],
+    "explanation": "Multiplying total seats by the fraction 90/100 gives 0.9 * 50 = 45 seats occupied. This is from Worksheet Level 2 on page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "A fruit drink contains orange juice, apple juice, and water in the ratio 3 : 2 : 5. Find the percentage of apple juice.",
+    "answer": "Total parts = 3 + 2 + 5 = 10. Percentage of apple juice = (2 / 10) * 100 = 20%.",
+    "keywords": [
+      "ratio",
+      "total parts",
+      "2/10",
+      "20%"
+    ],
+    "explanation": "Apple juice comprises 2 parts out of a total sum of 10 parts. 2/10 expressed as a percentage is 20%. This is from Worksheet Level 2 on page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "A shop had a daily sales target of ₹8,000 and achieved 140% of it. Find the actual sales.",
+    "answer": "Actual sales = 140% of ₹8,000 = (140 / 100) * 8000 = ₹11,200.",
+    "keywords": [
+      "sales target",
+      "140%",
+      "₹11,200",
+      "actual sales"
+    ],
+    "explanation": "Multiplying the base target of ₹8,000 by 1.4 yields ₹11,200 in actual sales. This problem is from Worksheet Level 2 on page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "State the formula for finding the maturity amount under growth without compounding for principal 'p', rate 'r' (in decimal), and time 't' years.",
+    "answer": "The formula for maturity amount without compounding is A = p(1 + rt).",
+    "keywords": [
+      "formula",
+      "without compounding",
+      "A = p(1 + rt)",
+      "principal"
+    ],
+    "explanation": "Under simple growth, interest earned each year is p * r. Across t years, total interest is prt, making the amount A = p + prt = p(1 + rt). This formula is found on page 23 of the textbook.",
+    "page_number": "23"
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "State the formula for calculating total amount under growth with annual compounding for principal 'p', rate 'r' (in decimal), and time 't' years.",
+    "answer": "The formula for total amount with annual compounding is A = p(1 + r)^t.",
+    "keywords": [
+      "compounding",
+      "formula",
+      "A = p(1 + r)^t",
+      "exponential"
+    ],
+    "explanation": "Because interest is added back to principal each year, the multiplier (1 + r) is applied t times, giving exponential growth. This is detailed on page 23 of the textbook.",
+    "page_number": "23"
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "A number increased by 20% becomes 90. Find the original number.",
+    "answer": "Let the number be x. Then 1.20x = 90 => x = 90 / 1.20 = 75.",
+    "keywords": [
+      "original number",
+      "1.20x",
+      "75",
+      "increased by 20%"
+    ],
+    "explanation": "An increase of 20% means the new value is 120% of the original. Solving x * 1.2 = 90 gives x = 75. This problem is on page 20 of the textbook.",
+    "page_number": "20"
+  },
+  {
+    "id": 19,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Is 10% of a day longer than 1% of a week? Justify briefly.",
+    "answer": "Yes. 10% of a day is 2.4 hours, whereas 1% of a week (168 hours) is 1.68 hours. Since 2.4 > 1.68, it is longer.",
+    "keywords": [
+      "2.4 hours",
+      "1.68 hours",
+      "longer",
+      "day vs week"
+    ],
+    "explanation": "A day has 24 hours (10% = 2.4 h). A week has 7 * 24 = 168 hours (1% = 1.68 h). Therefore, 10% of a day is longer. This question is on page 13 of the textbook.",
+    "page_number": "13"
+  },
+  {
+    "id": 20,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "If 30% of a quantity k is 70, find the values of 60% of k and 120% of k.",
+    "answer": "60% of k is double of 30%, which is 140. 120% of k is four times 30%, which is 280.",
+    "keywords": [
+      "proportionality",
+      "140",
+      "280",
+      "benchmark percentage"
+    ],
+    "explanation": "Since percentages are proportional, doubling the percentage doubles the value (60% = 2 * 70 = 140), and 120% is four times 70 = 280. This appears on page 13 of the textbook.",
+    "page_number": "13"
+  },
+  {
+    "id": 21,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "very_short_answer",
+    "marks": 1,
+    "expected_word_count": {
+      "min": 15,
+      "max": 30
+    },
+    "question": "Calculate 1% of 1 hour in minutes and seconds.",
+    "answer": "1 hour = 60 minutes = 3600 seconds. 1% of 1 hour = 0.6 minutes or 36 seconds.",
+    "keywords": [
+      "1% of 1 hour",
+      "0.6 minutes",
+      "36 seconds"
+    ],
+    "explanation": "1% of 60 minutes is 60/100 = 0.6 minutes. In seconds, 0.6 * 60 = 36 seconds (or 1/100 of 3600 seconds = 36 seconds). This is on page 13 of the textbook.",
+    "page_number": "13"
+  },
+  {
+    "id": 22,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "Convert 72% into: (a) a fraction in simplest form, and (b) a decimal.",
+    "answer": "(a) Fraction in simplest form: 72% = 72/100 = 18/25.\n(b) Decimal: 72% = 72/100 = 0.72.",
+    "keywords": [
+      "simplest form",
+      "18/25",
+      "decimal",
+      "0.72"
+    ],
+    "explanation": "Writing 72 over 100 and dividing numerator and denominator by 4 yields the simplified fraction 18/25. Moving the decimal point two places left gives 0.72. This is from Worksheet Level 1, question 6.",
+    "page_number": "1"
+  },
+  {
+    "id": 23,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Define Cost Price (CP), Marked Price (MP), and Selling Price (SP).",
+    "answer": "Cost Price (CP) is the price paid to acquire or manufacture an item. Marked Price (MP) is the list price quoted before discount. Selling Price (SP) is the actual amount a buyer pays after any discount.",
+    "keywords": [
+      "Cost Price",
+      "Marked Price",
+      "Selling Price",
+      "discount",
+      "list price"
+    ],
+    "explanation": "In retail transactions, CP represents dealer investment, MP is the sticker price displayed to buyers, and SP represents the final transaction value. This is explained on page 16 of the textbook.",
+    "page_number": "16"
+  },
+  {
+    "id": 24,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "A shopkeeper buys a school bag for ₹800 and sells it for ₹920. Find the profit and profit percentage.",
+    "answer": "Profit = SP - CP = ₹920 - ₹800 = ₹120.\nProfit percentage = (Profit / CP) * 100 = (120 / 800) * 100 = 15%.",
+    "keywords": [
+      "Profit",
+      "₹120",
+      "Profit percentage",
+      "15%",
+      "CP"
+    ],
+    "explanation": "Since SP exceeds CP, there is a profit of ₹120. Dividing ₹120 by the base CP (₹800) and multiplying by 100 gives 15%. This problem is from Worksheet Level 2 on page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 25,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 45
+    },
+    "question": "A toy is bought for ₹500 and sold at a loss of 12%. Find its selling price.",
+    "answer": "Loss amount = 12% of ₹500 = (12 / 100) * 500 = ₹60.\nSelling Price (SP) = CP - Loss = ₹500 - ₹60 = ₹440.",
+    "keywords": [
+      "loss amount",
+      "₹60",
+      "Selling Price",
+      "₹440"
+    ],
+    "explanation": "A 12% loss on ₹500 equals ₹60. Subtracting the loss from the cost price leaves an SP of ₹440 (or 88% of 500). This problem is from Worksheet Level 2, question 5.",
+    "page_number": "1"
+  },
+  {
+    "id": 26,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "A jacket has a marked price of ₹2,400 and is sold at a 25% discount. Find the discount amount and the selling price.",
+    "answer": "Discount = 25% of ₹2,400 = (25 / 100) * 2400 = ₹600.\nSelling Price = Marked Price - Discount = ₹2,400 - ₹600 = ₹1,800.",
+    "keywords": [
+      "discount amount",
+      "₹600",
+      "Selling Price",
+      "₹1,800"
+    ],
+    "explanation": "The discount is 25% (or 1/4) of ₹2,400, which is ₹600. Subtracting ₹600 from the marked price yields ₹1,800. This is given in Solved Example 6 on page 11 of the textbook.",
+    "page_number": "11"
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Explain the difference between gross profit and net profit in a business context.",
+    "answer": "Gross profit is the difference between total sales revenue and the direct purchase cost of goods. Net profit is what remains after deducting additional operational expenses (such as rent, electricity, and salaries) from gross profit.",
+    "keywords": [
+      "Gross profit",
+      "Net profit",
+      "sales revenue",
+      "operational expenses",
+      "purchase cost"
+    ],
+    "explanation": "Gross profit reflects the basic trading margin (Sales - Cost of Goods). Net profit reflects true earnings after paying all running costs. This distinction is highlighted on pages 18 and 19 of the textbook.",
+    "page_number": "18"
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "easy",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "Why is profit or loss percentage calculated using cost price rather than selling price?",
+    "answer": "Profit or loss percentage is calculated on cost price because cost price represents the original capital invested to acquire the goods. It shows the return earned or lost relative to that initial investment.",
+    "keywords": [
+      "cost price",
+      "original investment",
+      "return",
+      "capital invested",
+      "base value"
+    ],
+    "explanation": "Financial performance measures return on capital outlay. Using selling price would misrepresent how well the invested funds performed. This concept is highlighted on page 18 of the textbook and worksheet 1.",
+    "page_number": "18"
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "Explain the difference between growth without compounding and growth with compounding.",
+    "answer": "In growth without compounding, the principal remains constant and interest earned each year is equal, resulting in linear growth. In growth with compounding, interest is added to the principal each term, earning interest on interest and creating exponential growth.",
+    "keywords": [
+      "without compounding",
+      "with compounding",
+      "constant principal",
+      "exponential growth",
+      "linear growth"
+    ],
+    "explanation": "Compounding grows much faster over time because new interest accumulates on top of previously earned interest. Simple growth only yields returns on the baseline sum. This is explained on pages 22-23 of the textbook.",
+    "page_number": "22"
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "What is depreciation? Why is the amount of depreciation usually different each year when a fixed percentage rate is used?",
+    "answer": "Depreciation is the decline in an item's value over time due to wear, tear, and age. Even with a fixed percentage rate, the rupee depreciation decreases each year because the percentage is applied to a successively smaller remaining value.",
+    "keywords": [
+      "depreciation",
+      "decline in value",
+      "fixed percentage",
+      "smaller remaining value",
+      "wear and tear"
+    ],
+    "explanation": "Because depreciation applies to the depreciated book value at the start of each period, a constant rate produces diminishing reductions in absolute value each year. This concept is detailed on page 24 of the textbook.",
+    "page_number": "24"
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "Why are successive discounts of 30% and 20% not equivalent to a single discount of 50%?",
+    "answer": "In successive discounts, the second discount (20%) is calculated on the already reduced price, not on the original price. For a ₹100 item, 30% off leaves ₹70, and 20% off ₹70 reduces it by ₹14 to ₹56, giving an effective discount of 44%, not 50%.",
+    "keywords": [
+      "successive discounts",
+      "reduced price",
+      "44%",
+      "original price",
+      "not 50%"
+    ],
+    "explanation": "Successive discounts compound sequentially on diminishing bases. Therefore, 30% followed by 20% equals 1 - (0.7 * 0.8) = 0.44 or 44% overall discount. This is discussed on page 26 of the textbook.",
+    "page_number": "26"
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "A recipe uses milk and water in the ratio 2 : 3. What percentage of the mixture is milk?",
+    "answer": "Total parts = 2 + 3 = 5.\nFraction of milk = 2/5.\nPercentage of milk = (2 / 5) * 100 = 40%.",
+    "keywords": [
+      "ratio",
+      "total parts",
+      "2/5",
+      "40%",
+      "milk"
+    ],
+    "explanation": "To convert a ratio to a percentage, divide the given part by the total parts and multiply by 100%. Here, 2 out of 5 parts equals 40%. This is from Exercise 1.2 on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "Which is greater: 150% of 20 or 90% of 40? Show calculations.",
+    "answer": "150% of 20 = (150 / 100) * 20 = 30.\n90% of 40 = (90 / 100) * 40 = 36.\nSince 36 > 30, 90% of 40 is greater.",
+    "keywords": [
+      "150% of 20",
+      "30",
+      "90% of 40",
+      "36",
+      "greater"
+    ],
+    "explanation": "Evaluating each expression gives 30 and 36 respectively. Comparing the two products shows that 90% of 40 exceeds 150% of 20. This is from Exercise 1.2, question 3 on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 20,
+      "max": 40
+    },
+    "question": "A factory has a daily production target of 800 toys. It produced 920 toys in a day. What percentage of the target was achieved?",
+    "answer": "Percentage achieved = (Actual production / Target) * 100 = (920 / 800) * 100 = 115%.",
+    "keywords": [
+      "daily target",
+      "actual production",
+      "920/800",
+      "115%"
+    ],
+    "explanation": "Dividing 920 by 800 gives 1.15, which corresponds to 115%. This shows the factory achieved 15% above its target. This problem is from Exercise 1.2 on page 7.",
+    "page_number": "7"
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "The price of petrol increased from ₹96 per litre to ₹108 per litre. Find the percentage increase in the price.",
+    "answer": "Increase = ₹108 - ₹96 = ₹12.\nPercentage increase = (Increase / Original Price) * 100 = (12 / 96) * 100 = 12.5%.",
+    "keywords": [
+      "increase",
+      "₹12",
+      "original price",
+      "₹96",
+      "12.5%"
+    ],
+    "explanation": "The change is ₹12 relative to the base value ₹96. 12/96 reduces to 1/8, which equals 12.5%. This is Solved Example 4 on page 9 of the textbook.",
+    "page_number": "9"
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "A carpenter makes chairs with a material cost of ₹475 per chair. If he wants a profit margin of 50%, at what price should he sell each chair?",
+    "answer": "Profit = 50% of ₹475 = 0.50 * 475 = ₹237.50.\nSelling Price = CP + Profit = ₹475 + ₹237.50 = ₹712.50.",
+    "keywords": [
+      "material cost",
+      "profit margin",
+      "50%",
+      "₹712.50",
+      "selling price"
+    ],
+    "explanation": "A 50% profit adds half the cost price (₹237.50) to the original ₹475, yielding a selling price of ₹712.50. This question is on page 19 of the textbook.",
+    "page_number": "19"
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 50
+    },
+    "question": "Bus fares were increased by 3% last year and by 4% this year. What is the overall percentage price increase in the last 2 years?",
+    "answer": "Let original fare be 100. After year 1: 100 * 1.03 = 103. After year 2: 103 * 1.04 = 107.12. Overall increase = 107.12 - 100 = 7.12%.",
+    "keywords": [
+      "overall percentage increase",
+      "successive increase",
+      "1.03",
+      "1.04",
+      "7.12%"
+    ],
+    "explanation": "Successive percentage increases compound: 1.03 * 1.04 = 1.0712, which represents a total increase of 7.12% rather than a simple sum of 7%. This problem is on page 29 of the textbook.",
+    "page_number": "29"
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 50
+    },
+    "question": "A car worth ₹8,00,000 depreciates by 10% per year, while another car worth ₹6,50,000 depreciates by 14% per year. Which car loses more value in the first year and by how much?",
+    "answer": "First car loss = 10% of 8,00,000 = ₹80,000.\nSecond car loss = 14% of 6,50,000 = ₹91,000.\nThe second car loses more value by ₹91,000 - ₹80,000 = ₹11,000.",
+    "keywords": [
+      "depreciation",
+      "₹80,000",
+      "₹91,000",
+      "₹11,000",
+      "second car"
+    ],
+    "explanation": "Calculating the individual first-year losses reveals that 14% of ₹6.5 lakh (₹91,000) exceeds 10% of ₹8 lakh (₹80,000) by ₹11,000. This is from Exercise 1.4 on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "A shopkeeper sells pencils at a price such that the selling price of 3 pencils equals the cost price of 5 pencils. Does he make a profit or loss, and what is the percentage?",
+    "answer": "Let CP of 1 pencil = ₹1. Then CP of 3 pencils = ₹3. SP of 3 pencils = CP of 5 pencils = ₹5. Profit = ₹5 - ₹3 = ₹2. Profit percentage = (2 / 3) * 100 = 66.67%.",
+    "keywords": [
+      "SP of 3 pencils",
+      "CP of 5 pencils",
+      "profit",
+      "66.67%",
+      "2/3"
+    ],
+    "explanation": "Because revenue from selling 3 items recoups the cost of 5, the trader gains 2 units on every 3 units sold. Hence, profit is (2/3) * 100 = 66.67%. This is found on page 29 of the textbook.",
+    "page_number": "29"
+  },
+  {
+    "id": 40,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "If the length of a rectangle is increased by 10% and the area remains unchanged, by what percentage does the breadth decrease?",
+    "answer": "Let initial area = L * B. New length = 1.10L. For area to remain constant, new breadth B' = (L * B) / (1.10L) = B / 1.1 = (10/11)B. Decrease = 1 - 10/11 = 1/11 = 9.09% (or 9 1/11%).",
+    "keywords": [
+      "area unchanged",
+      "1.10L",
+      "10/11",
+      "9.09%",
+      "breadth decrease"
+    ],
+    "explanation": "Area equals length times breadth. Since length is multiplied by 11/10, breadth must be multiplied by 10/11 to keep area constant, representing a reduction of 1/11 or 9.09%. This appears on page 29 of the textbook.",
+    "page_number": "29"
+  },
+  {
+    "id": 41,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 30,
+      "max": 55
+    },
+    "question": "In a room of 100 people, 99% are left-handed. How many left-handed people must leave the room to bring that percentage down to 98%?",
+    "answer": "Initially, there are 99 left-handed people and 1 right-handed person. For 1 person to become 2% (100% - 98%) of the new total, the new total must be 1 / 0.02 = 50 people. Therefore, 100 - 50 = 50 left-handed people must leave.",
+    "keywords": [
+      "left-handed",
+      "1 right-handed",
+      "2% of total",
+      "50 people leave",
+      "new total 50"
+    ],
+    "explanation": "The number of right-handed individuals remains strictly 1. When 1 represents 2% of the room, the total occupants must be 50. Thus, 50 left-handed people leave. This counter-intuitive problem is on page 30 of the textbook.",
+    "page_number": "30"
+  },
+  {
+    "id": 42,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "short_answer",
+    "marks": 2,
+    "expected_word_count": {
+      "min": 25,
+      "max": 45
+    },
+    "question": "A bus carries 36 passengers, which is 75% of its total seating capacity. How many passengers can the bus accommodate?",
+    "answer": "Let total capacity be x. Then 75% of x = 36 => (75 / 100) * x = 36 => x = 36 * (100 / 75) = 48 passengers.",
+    "keywords": [
+      "seating capacity",
+      "75%",
+      "36 passengers",
+      "48 people"
+    ],
+    "explanation": "75% corresponds to 3/4 of the capacity. If 3 parts equal 36, then 1 part equals 12, and 4 parts equal 48 passengers. This is from Competency-based Question 1 on page 20.",
+    "page_number": "20"
+  },
+  {
+    "id": 43,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "A store offers two deals on a 2 kg rice packet costing ₹200: Offer A gives 20% extra rice free; Offer B gives ₹40 off the price. Which offer gives a greater financial benefit? Justify.",
+    "answer": "Cost of rice per kg = ₹200 / 2 = ₹100/kg.\nOffer A: 20% extra rice = 0.20 * 2 = 0.4 kg free. Value of free rice = 0.4 * ₹100 = ₹40 benefit.\nOffer B: ₹40 direct cash discount = ₹40 benefit.\nConclusion: Both offers provide an equal monetary benefit of ₹40.",
+    "keywords": [
+      "Offer A",
+      "Offer B",
+      "20% extra rice",
+      "0.4 kg",
+      "equal benefit",
+      "₹40"
+    ],
+    "explanation": "Calculating the value of 0.4 kg of bonus rice shows it is worth ₹40 at ₹100/kg. Since Offer B also saves exactly ₹40 cash, both deals deliver identical value. This problem is from Exercise 1.1 on page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 44,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 70
+    },
+    "question": "A school has 800 students. 40% play football, 25% play basketball, and the remaining students play neither sport. Find the percentage and number of students who play neither sport.",
+    "answer": "Percentage playing either sport = 40% + 25% = 65%.\nPercentage playing neither sport = 100% - 65% = 35%.\nNumber of students playing neither = 35% of 800 = (35 / 100) * 800 = 280 students.",
+    "keywords": [
+      "football",
+      "basketball",
+      "neither sport",
+      "35%",
+      "280 students"
+    ],
+    "explanation": "Subtracting combined sports participation (65%) from total student population (100%) gives 35% non-participants. 35% of 800 equals 280. This is from Exercise 1.1, question 4 on page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 45,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Class VIII A has 48 students with 75% participating in the Eco Club. Class VIII B has 60 students with 60% participating. Which class has more Eco Club members? Explain.",
+    "answer": "Members in Class VIII A = 75% of 48 = (75 / 100) * 48 = (3 / 4) * 48 = 36 students.\nMembers in Class VIII B = 60% of 60 = (60 / 100) * 60 = 36 students.\nConclusion: Both classes have an equal number of Eco Club members (36 students each).",
+    "keywords": [
+      "Class VIII A",
+      "Class VIII B",
+      "75% of 48",
+      "60% of 60",
+      "36 members",
+      "equal"
+    ],
+    "explanation": "Although the participation percentages and class strengths differ, their products yield identical absolute numbers: 36 members in each class. This problem is from Exercise 1.1, question 5 on page 5.",
+    "page_number": "5"
+  },
+  {
+    "id": 46,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "In a cleanliness drive, School A had 144 out of 180 students participate, while School B had 180 out of 240 students participate. Which school had a higher participation rate? Justify.",
+    "answer": "Participation percentage for School A = (144 / 180) * 100 = (4 / 5) * 100 = 80%.\nParticipation percentage for School B = (180 / 240) * 100 = (3 / 4) * 100 = 75%.\nConclusion: Since 80% > 75%, School A had a higher percentage of student participation.",
+    "keywords": [
+      "School A",
+      "School B",
+      "80%",
+      "75%",
+      "higher participation"
+    ],
+    "explanation": "Because total student enrollments differ, participation must be standardized to percentages. School A's 80% outperforms School B's 75%. This is from Exercise 1.3, question 1 on page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 47,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "The price of a bicycle increased by 5% in one year and decreased by 5% the following year. Is the final price equal to the original price? Explain with calculations.",
+    "answer": "No, it is not equal. Let original price = ₹100.\nPrice after 5% increase = 100 * 1.05 = ₹105.\nPrice after 5% decrease = 105 * 0.95 = ₹99.75.\nOverall change = 100 - 99.75 = ₹0.25 decrease (0.25% lower).\nThe final price is less than the original because the decrease is calculated on a larger base.",
+    "keywords": [
+      "not equal",
+      "5% increase",
+      "5% decrease",
+      "₹99.75",
+      "0.25% lower",
+      "base value"
+    ],
+    "explanation": "When a percentage decrease follows an equal percentage increase, it operates on the inflated price. This always leads to a net reduction of (x/10)^2 % = 0.25%. This is from Exercise 1.3, question 2 on page 12.",
+    "page_number": "12"
+  },
+  {
+    "id": 48,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "A shopkeeper bought two watches for ₹2,000 each. He sold one at a 15% profit and the other at a 15% loss. Did he make an overall profit, loss, or break even? Justify.",
+    "answer": "Total Cost Price = ₹2,000 + ₹2,000 = ₹4,000.\nSP of first watch (15% profit) = 2000 * 1.15 = ₹2,300.\nSP of second watch (15% loss) = 2000 * 0.85 = ₹1,700.\nTotal Selling Price = ₹2,300 + ₹1,700 = ₹4,000.\nSince total SP equals total CP, the shopkeeper broke even (no profit, no loss).",
+    "keywords": [
+      "two watches",
+      "Total CP",
+      "Total SP",
+      "₹4,000",
+      "broke even",
+      "no profit no loss"
+    ],
+    "explanation": "Because the cost prices are identical, the profit amount of +₹300 on one watch perfectly offsets the loss of -₹300 on the other. This problem is from Exercise 1.3, question 3 on page 13.",
+    "page_number": "13"
+  },
+  {
+    "id": 49,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "A shirt costs ₹1,800. Shop A offers a single 20% discount. Shop B offers a 10% discount followed by another 10% discount. Which shop offers a better deal and by how much?",
+    "answer": "Shop A price = ₹1,800 * (1 - 0.20) = 1800 * 0.80 = ₹1,440.\nShop B price: First discount = 1800 * 0.90 = ₹1,620; Second discount = 1620 * 0.90 = ₹1,458.\nDifference = ₹1,458 - ₹1,440 = ₹18.\nConclusion: Shop A offers the better deal because its final price is ₹18 lower.",
+    "keywords": [
+      "Shop A",
+      "Shop B",
+      "₹1,440",
+      "₹1,458",
+      "₹18 lower",
+      "better deal"
+    ],
+    "explanation": "A direct 20% discount is more favorable than successive 10% discounts because the second 10% discount is applied only to the reduced balance. This is from Exercise 1.3, question 4 on page 13.",
+    "page_number": "13"
+  },
+  {
+    "id": 50,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 70
+    },
+    "question": "A customer has a budget of ₹50,000, which includes 18% GST, to purchase a laptop. What is the maximum pre-GST price of the laptop?",
+    "answer": "Let the pre-GST price be P.\nTotal price = P + 18% of P = 1.18P = ₹50,000.\nP = 50,000 / 1.18 ≈ ₹42,372.88.\nTherefore, the maximum pre-GST price of the laptop is approximately ₹42,372.88.",
+    "keywords": [
+      "pre-GST price",
+      "1.18P",
+      "₹50,000",
+      "₹42,372.88",
+      "budget"
+    ],
+    "explanation": "GST is added onto the base price, meaning the gross bill represents 118% of base cost. Dividing ₹50,000 by 1.18 isolates the base price. This is from Exercise 1.3, question 5 on page 13.",
+    "page_number": "13"
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "Raman invests ₹25,000 for 2 years. Scheme A offers 9% p.a. without compounding. Scheme B offers 8.5% p.a. with annual compounding. Which scheme gives more money at maturity and by how much?",
+    "answer": "Scheme A: Maturity amount = 25,000 * (1 + 0.09 * 2) = 25,000 * 1.18 = ₹29,500.\nScheme B: Maturity amount = 25,000 * (1 + 0.085)^2 = 25,000 * (1.085)^2 = 25,000 * 1.177225 = ₹29,430.63.\nDifference = ₹29,500 - ₹29,430.63 = ₹69.37.\nConclusion: Scheme A yields ₹69.37 more at maturity.",
+    "keywords": [
+      "Scheme A",
+      "Scheme B",
+      "₹29,500",
+      "₹29,430.63",
+      "₹69.37",
+      "maturity"
+    ],
+    "explanation": "Although Scheme B compounds annually, its lower rate of 8.5% fails to overcome the 9% simple interest rate over a short duration of 2 years. This is from Exercise 1.4, question 1 on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 35,
+      "max": 70
+    },
+    "question": "A television worth ₹48,000 depreciates by 8% every year. Calculate its value at the end of 4 years.",
+    "answer": "Value after 4 years = Original Value * (1 - r)^t\n= ₹48,000 * (1 - 0.08)^4\n= ₹48,000 * (0.92)^4\n= ₹48,000 * 0.71639296 ≈ ₹34,386.86.\nTherefore, the television is worth approximately ₹34,386.86 after 4 years.",
+    "keywords": [
+      "television",
+      "depreciation",
+      "(0.92)^4",
+      "₹34,386.86",
+      "4 years"
+    ],
+    "explanation": "Annual 8% depreciation implies the television retains 92% of its value each year. Multiplying ₹48,000 by 0.92 four times gives ₹34,386.86. This problem is from Exercise 1.4, question 3 on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "medium",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 80
+    },
+    "question": "A car purchased for ₹10,00,000 depreciates by 5% every year. Calculate: (a) its value after 1 year, (b) its value after 3 years, and (c) the total depreciation over the 3 years.",
+    "answer": "(a) Value after 1 year = 10,00,000 * 0.95 = ₹9,50,000.\n(b) Value after 3 years = 10,00,000 * (0.95)^3 = 10,00,000 * 0.857375 = ₹8,57,375.\n(c) Total depreciation over 3 years = ₹10,00,000 - ₹8,57,375 = ₹1,42,625.",
+    "keywords": [
+      "₹9,50,000",
+      "₹8,57,375",
+      "total depreciation",
+      "₹1,42,625",
+      "5% depreciation"
+    ],
+    "explanation": "Multiplying the initial price by 0.95 yields year 1 value, and by 0.95^3 yields year 3 value. Subtracting final value from initial gives total loss. This is from Exercise 1.4, question 5 on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "A water tank was 80% full in the morning. During the day, 25% of the water present was used. What percentage of the tank is filled now? Explain your reasoning.",
+    "answer": "Initial water content = 80% of total capacity.\nWater consumed = 25% of the water present = 25% of 80% = (25 / 100) * 80% = 20% of tank capacity.\nWater remaining = 80% - 20% = 60% of total tank capacity.\nTherefore, the tank is now 60% full.",
+    "keywords": [
+      "80% full",
+      "25% of water present",
+      "20% used",
+      "60% remaining",
+      "tank capacity"
+    ],
+    "explanation": "A common mistake is directly subtracting 25% from 80%. However, 25% refers to the water available, which equals 0.25 * 80% = 20% of the entire tank. This is from Competency-based Question 2 on page 20.",
+    "page_number": "20"
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "In an office of 800 employees, 25% are men and the rest are women. If 40% of the men and 20% of the women are sports club members, find the total number and overall percentage of sports club members.",
+    "answer": "Number of men = 25% of 800 = 200; Number of women = 800 - 200 = 600.\nMen in sports club = 40% of 200 = 80.\nWomen in sports club = 20% of 600 = 120.\nTotal sports club members = 80 + 120 = 200.\nOverall percentage = (200 / 800) * 100 = 25%.",
+    "keywords": [
+      "800 employees",
+      "200 men",
+      "600 women",
+      "sports club",
+      "200 members",
+      "25%"
+    ],
+    "explanation": "First, the employee count is split into 200 men and 600 women. Then subgroup percentages are calculated (80 men, 120 women), totaling 200 members or 25% of the workforce. This is Competency-based Question 3 on page 21.",
+    "page_number": "21"
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "Raju buys a laptop for ₹32,000 and sells it to Ritu at a loss of 20%. Ritu then sells it to Meera at a loss of 30%. At what price did Meera buy the laptop?",
+    "answer": "Raju's selling price to Ritu = 80% of ₹32,000 = 0.80 * 32,000 = ₹25,600.\nRitu's selling price to Meera = 70% of ₹25,600 = 0.70 * 25,600 = ₹17,920.\nTherefore, Meera bought the laptop for ₹17,920.",
+    "keywords": [
+      "Raju",
+      "Ritu",
+      "Meera",
+      "20% loss",
+      "30% loss",
+      "₹25,600",
+      "₹17,920"
+    ],
+    "explanation": "This represents a sequential chain of losses: first 32,000 * 0.80 = ₹25,600, followed by 25,600 * 0.70 = ₹17,920. This problem is Competency-based Question 4 on page 21.",
+    "page_number": "21"
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Manu and Vijay each invest the same principal P for 2 years at 8% per annum. Manu chooses compound interest (annually) while Vijay chooses simple interest. If the difference between their interest earnings is ₹112, find P.",
+    "answer": "Simple interest (Vijay) = P * 0.08 * 2 = 0.16P.\nCompound interest (Manu) = P[(1.08)^2 - 1] = P[1.1664 - 1] = 0.1664P.\nDifference = 0.1664P - 0.16P = 0.0064P.\nGiven 0.0064P = 112 => P = 112 / 0.0064 = ₹17,500.\nTherefore, the sum invested by each is ₹17,500.",
+    "keywords": [
+      "compound interest",
+      "simple interest",
+      "0.1664P",
+      "0.16P",
+      "0.0064P",
+      "₹17,500"
+    ],
+    "explanation": "The 2-year difference between CI and SI equals P * r^2. Here, P * (0.08)^2 = 0.0064P = 112, which gives P = ₹17,500. This is Competency-based Question 5 on page 21.",
+    "page_number": "21"
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "A tablet has a marked price of ₹24,000. It is offered at a 15% discount, followed by a 10% coupon discount on the reduced price. Finally, 18% GST is added. Can Nisha buy it within her budget of ₹22,000?",
+    "answer": "Price after 15% discount = 24,000 * 0.85 = ₹20,400.\nPrice after 10% coupon = 20,400 * 0.90 = ₹18,360.\nAmount payable including 18% GST = 18,360 * 1.18 = ₹21,664.80.\nConclusion: Since ₹21,664.80 is less than her budget of ₹22,000, Nisha can successfully buy the tablet.",
+    "keywords": [
+      "marked price",
+      "15% discount",
+      "10% coupon",
+      "₹18,360",
+      "18% GST",
+      "₹21,664.80",
+      "within budget"
+    ],
+    "explanation": "Applying the successive discounts gives ₹20,400 then ₹18,360. Adding 18% GST brings the total to ₹21,664.80, which falls within Nisha's ₹22,000 limit. This is from Case Study Worksheet 1 on page 1.",
+    "page_number": "1"
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Martin buys an electric bicycle for ₹50,000 that depreciates by 10% per year. Concurrently, he invests ₹50,000 in a bank account offering 8% annual compounding. After 2 years, by how much does the bank investment exceed the bicycle's value?",
+    "answer": "Value of bicycle after 2 years = 50,000 * (1 - 0.10)^2 = 50,000 * 0.81 = ₹40,500.\nValue of bank investment after 2 years = 50,000 * (1 + 0.08)^2 = 50,000 * 1.1664 = ₹58,320.\nDifference = ₹58,320 - ₹40,500 = ₹17,820.\nTherefore, the investment exceeds the bicycle's value by ₹17,820.",
+    "keywords": [
+      "electric bicycle",
+      "depreciation",
+      "₹40,500",
+      "bank investment",
+      "compound interest",
+      "₹58,320",
+      "₹17,820"
+    ],
+    "explanation": "The bicycle loses value via (0.90)^2 while the deposit grows via (1.08)^2. Comparing ₹58,320 and ₹40,500 shows the investment is higher by ₹17,820. This is from Case Study Worksheet 2 on page 2.",
+    "page_number": "2"
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "At a school book fair, a book with a marked price of ₹600 was sold at a 15% discount, plus 5% GST on the discounted price. Find: (a) the selling price before GST, (b) the GST paid, and (c) the percentage achieved if the school aimed for ₹50,000 but achieved ₹57,500.",
+    "answer": "(a) Selling price before GST = 600 - (15% of 600) = 600 - 90 = ₹510.\n(b) GST paid = 5% of ₹510 = 0.05 * 510 = ₹25.50.\n(c) Percentage of target achieved = (57,500 / 50,000) * 100 = 115% (surpassed by 15%).",
+    "keywords": [
+      "₹510",
+      "₹25.50",
+      "115%",
+      "sales target",
+      "discount",
+      "GST"
+    ],
+    "explanation": "A 15% discount reduces ₹600 to ₹510. 5% GST on ₹510 equals ₹25.50. Dividing ₹57,500 by the target ₹50,000 gives 115% achievement. This problem is from the Case Study on page 20 of the textbook.",
+    "page_number": "20"
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "A shopkeeper bought 100 notebooks at ₹80 each. He sold 60 notebooks at ₹92 each and the remaining 40 at ₹72 each. Calculate the profit or loss percentage in each case and the overall profit percentage.",
+    "answer": "First batch: CP = ₹80, SP = ₹92 => Profit = ₹12. Profit % = (12 / 80) * 100 = 15%.\nSecond batch: CP = ₹80, SP = ₹72 => Loss = ₹8. Loss % = (8 / 80) * 100 = 10%.\nOverall: Total CP = 100 * 80 = ₹8,000. Total SP = (60 * 92) + (40 * 72) = 5520 + 2880 = ₹8,400.\nOverall Profit = 8400 - 8000 = ₹400. Overall profit % = (400 / 8000) * 100 = 5%.",
+    "keywords": [
+      "15% profit",
+      "10% loss",
+      "Total CP ₹8000",
+      "Total SP ₹8400",
+      "5% overall profit"
+    ],
+    "explanation": "Even though a 10% loss was incurred on 40 notebooks, selling a larger quantity (60) at a 15% profit produced a net overall profit of ₹400 (5%). This is Solved Example 5 on pages 10-11.",
+    "page_number": "10"
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "A cyclist completes 40% of his journey from Delhi to Agra, covering 92 km. Find the total distance between Delhi and Agra, and the remaining distance to be covered.",
+    "answer": "Let total distance be d.\n40% of d = 92 km => (40 / 100) * d = 92 => d = 92 * (100 / 40) = 230 km.\nRemaining distance = 60% of 230 km = 230 - 92 = 138 km.\nTherefore, the total distance is 230 km and the remaining distance is 138 km.",
+    "keywords": [
+      "cyclist",
+      "40%",
+      "92 km",
+      "total distance 230 km",
+      "remaining distance 138 km"
+    ],
+    "explanation": "If 40% represents 92 km, then 20% equals 46 km. The total 100% distance is 5 * 46 = 230 km, leaving 230 - 92 = 138 km. This is Solved Example 5 on page 10 of the textbook.",
+    "page_number": "10"
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 80
+    },
+    "question": "To prepare millet porridge, the ratio of millet to water is 2 : 7. Find the percentage of millet in the mixture. Also, determine how much millet is needed to prepare 500 ml of porridge.",
+    "answer": "Total parts = 2 + 7 = 9.\nFraction of millet = 2/9.\nPercentage of millet = (2 / 9) * 100 ≈ 22.22%.\nAmount of millet in 500 ml = (2 / 9) * 500 = 1000 / 9 ≈ 111.11 ml.\nTherefore, millet makes up 22.22% of the mixture, requiring approximately 111.1 ml.",
+    "keywords": [
+      "ratio 2:7",
+      "2/9",
+      "22.22%",
+      "500 ml",
+      "111.1 ml"
+    ],
+    "explanation": "Millet constitutes 2 parts out of 9 total parts (22.22%). Taking 2/9 of 500 ml yields 111.11 ml of millet. This is Solved Example 4 on page 9 of the textbook.",
+    "page_number": "9"
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Rohan deposits ₹80,000 at 9% annual compounding. On the same day, he buys a motorcycle for ₹80,000 that depreciates by 9% per year. After 4 years, which asset's value has changed more from ₹80,000 and by how much?",
+    "answer": "Investment after 4 years = 80,000 * (1.09)^4 ≈ ₹1,12,926.53 (increase of ₹32,926.53).\nMotorcycle value after 4 years = 80,000 * (0.91)^4 ≈ ₹54,859.97 (decrease of ₹25,140.03).\nDifference in change = ₹32,926.53 - ₹25,140.03 = ₹7,786.50.\nConclusion: The investment changed more from its original value, by ₹7,786.50.",
+    "keywords": [
+      "₹1,12,926.53",
+      "₹54,859.97",
+      "investment change",
+      "motorcycle depreciation",
+      "₹7,786.50"
+    ],
+    "explanation": "Compounded growth on expanding balances outpaces depreciation on diminishing balances. Thus, the investment value changes by ₹32,926.53 while motorcycle value changes by ₹25,140.03. This is from Exercise 1.4, question 2 on page 15.",
+    "page_number": "15"
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "A milkman sold two buffaloes for ₹80,000 each. On one he made a profit of 5% and on the other a loss of 10%. Find his overall profit or loss amount.",
+    "answer": "CP of first buffalo = 80,000 / 1.05 ≈ ₹76,190.48.\nCP of second buffalo = 80,000 / 0.90 ≈ ₹88,888.89.\nTotal Cost Price = 76,190.48 + 88,888.89 = ₹1,65,079.37.\nTotal Selling Price = 80,000 + 80,000 = ₹1,60,000.\nOverall Loss = ₹1,65,079.37 - ₹1,60,000 = ₹5,079.37.",
+    "keywords": [
+      "two buffaloes",
+      "₹80,000 each",
+      "CP1 ₹76,190.48",
+      "CP2 ₹88,888.89",
+      "overall loss",
+      "₹5,079.37"
+    ],
+    "explanation": "Because selling prices are equal rather than cost prices, the 10% loss operates on a significantly larger base (CP2) than the 5% profit (CP1), creating a net overall loss of ₹5,079.37. This is on page 20 of the textbook.",
+    "page_number": "20"
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Giridhar borrows ₹12,500 at 12% p.a. simple interest for 3 years. Raghava borrows ₹12,500 at 10% p.a. compounded annually for 3 years. Who pays more interest and by how much?",
+    "answer": "Giridhar's SI = P * r * t = 12,500 * 0.12 * 3 = ₹4,500.\nRaghava's CI: Total amount = 12,500 * (1.10)^3 = 12,500 * 1.331 = ₹16,637.50.\nCI = 16,637.50 - 12,500 = ₹4,137.50.\nDifference = ₹4,500 - ₹4,137.50 = ₹362.50.\nConclusion: Giridhar pays more interest, by ₹362.50.",
+    "keywords": [
+      "Giridhar",
+      "Raghava",
+      "SI ₹4,500",
+      "CI ₹4,137.50",
+      "₹362.50",
+      "more interest"
+    ],
+    "explanation": "Giridhar's higher interest rate (12%) results in ₹4,500 interest, exceeding Raghava's compounded interest at 10% (₹4,137.50) by ₹362.50. This problem is from page 24 of the textbook.",
+    "page_number": "24"
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "A contest offers two deposit choices: Option A: Deposit ₹100 and receive ₹300. Option B: Deposit ₹1000 and receive ₹1500. Calculate the percentage gain for each option and explain which option is preferable from different perspectives.",
+    "answer": "Option A: Gain = 300 - 100 = ₹200. Percentage gain = (200 / 100) * 100 = 200%.\nOption B: Gain = 1500 - 1000 = ₹500. Percentage gain = (500 / 1000) * 100 = 50%.\nPerspective: Option A gives a much higher percentage rate of return (200% vs 50%). However, Option B yields a higher absolute profit (₹500 vs ₹200).",
+    "keywords": [
+      "Option A",
+      "Option B",
+      "200% gain",
+      "50% gain",
+      "absolute profit",
+      "rate of return"
+    ],
+    "explanation": "Percentage return measures efficiency of capital (Option A is superior), while absolute gain measures total wealth created (Option B is superior). This critical thinking exercise is on page 25 of the textbook.",
+    "page_number": "25"
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Surbhi marks her cookware at a 50% profit margin over cost price x, then offers a 50% discount to clear stock. (a) What is her net percentage loss? (b) If goods were sold for ₹12,000 after discount, find her cash loss. (c) What discount percentage should she have offered to break even?",
+    "answer": "(a) Cost = x. Marked price = 1.5x. SP after 50% discount = 0.5 * 1.5x = 0.75x. This is a 25% loss.\n(b) If 0.75x = 12,000, then x = ₹16,000. Loss = 16,000 - 12,000 = ₹4,000.\n(c) To break even (SP = x): 1.5x(1 - d) = x => 1 - d = 1/1.5 = 2/3 => d = 1/3 ≈ 33.33% discount.",
+    "keywords": [
+      "25% loss",
+      "₹4,000 loss",
+      "33.33% discount",
+      "break even",
+      "markup"
+    ],
+    "explanation": "A 50% discount on a 150% marked price brings the price to 75% of cost, resulting in a 25% loss. To return from 1.5x to x, the discount must be 0.5x / 1.5x = 1/3 or 33.33%. This is Example 13 on page 27.",
+    "page_number": "27"
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 45,
+      "max": 85
+    },
+    "question": "Three shops offer different promotional deals: Shop A: 'Buy 1 Get 1 Free', Shop B: 'Buy 2 Get 1 Free', Shop C: 'Buy 3 Get 1 Free'. (a) Calculate the percentage discount for each shop. (b) If you need 4 items (each priced at ₹100), which shop should you choose and why?",
+    "answer": "(a) Percentage discount:\nShop A: 1 free out of 2 = (1/2) * 100 = 50%.\nShop B: 1 free out of 3 = (1/3) * 100 = 33.33%.\nShop C: 1 free out of 4 = (1/4) * 100 = 25%.\n(b) For 4 items: Shop A requires buying 2 and getting 2 free, costing 2 * 100 = ₹200. Shop B requires buying 3 + 1 = ₹300. Choose Shop A as it is the cheapest (₹200 total).",
+    "keywords": [
+      "Buy 1 Get 1",
+      "50% discount",
+      "33.33% discount",
+      "25% discount",
+      "4 items",
+      "Shop A ₹200"
+    ],
+    "explanation": "Discount is calculated as (free items / total items received) * 100. Shop A offers 50% discount, making 4 items cost only ₹200, which is the most economical choice. This problem is on page 29 of the textbook.",
+    "page_number": "29"
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "chapter": "Fractions in Disguise-QA-v1",
+    "difficulty": "hard",
+    "question_type": "long_answer",
+    "marks": 3,
+    "expected_word_count": {
+      "min": 40,
+      "max": 75
+    },
+    "question": "Is x% of y always equal to y% of x? Prove this algebraically and verify with an example.",
+    "answer": "Yes, they are always equal.\nProof:\nx% of y = (x / 100) * y = (x * y) / 100.\ny% of x = (y / 100) * x = (y * x) / 100.\nSince multiplication of real numbers is commutative (x * y = y * x), (x * y) / 100 = (y * x) / 100.\nExample: 5% of 40 = 0.05 * 40 = 2, and 40% of 5 = 0.40 * 5 = 2. Both equal 2.",
+    "keywords": [
+      "x% of y",
+      "y% of x",
+      "commutative property",
+      "(x * y) / 100",
+      "algebraic proof"
+    ],
+    "explanation": "Because multiplication is commutative, swapping the percentage and the quantity does not alter the product. This algebraic property is introduced on page 29 of the textbook.",
+    "page_number": "29"
+  }
+]
