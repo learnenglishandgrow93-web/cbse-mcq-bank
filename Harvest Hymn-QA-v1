@@ -1,0 +1,1596 @@
+[
+{
+"id":1,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":6,
+"max":15
+},
+"question":"Who is the poet of the poem 'Harvest Hymn'?",
+"answer":"The poet of the poem 'Harvest Hymn' is Sarojini Naidu.",
+"keywords":[
+"Sarojini Naidu",
+"poet",
+"Harvest Hymn"
+],
+"explanation":"Sarojini Naidu wrote the poem 'Harvest Hymn' celebrating the Indian agricultural cycle. Her name appears at the end of the poem. This is mentioned on page 3 (NCERT page 175) of the textbook PDF.",
+"page_number":"3 (NCERT p. 175)"
+},
+{
+"id":2,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":18
+},
+"question":"What does the word 'hymn' mean in the context of the lesson?",
+"answer":"A hymn is a sacred song of praise, devotion, or thanksgiving.",
+"keywords":[
+"song of praise",
+"devotion",
+"thanksgiving",
+"sacred"
+],
+"explanation":"In the poem, a hymn turns everyday agricultural labour into a sacred expression of gratitude. It expresses reverence towards nature and the divine. This is explained on page 1 (NCERT p. 173) and page 2 of the Visual Guide PDF.",
+"page_number":"1 (NCERT p. 173)"
+},
+{
+"id":3,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":18
+},
+"question":"Which two deities do the men praise in the first two stanzas of 'Harvest Hymn'?",
+"answer":"The men praise Surya, the Sun God, and Varuna, the God of rain.",
+"keywords":[
+"Surya",
+"Varuna",
+"Sun God",
+"God of rain"
+],
+"explanation":"In the first stanza, men praise Surya for sunlight and warmth. In the second stanza, they praise Varuna for sending rain and dewfall. This appears on page 2 (NCERT p. 174) of the textbook PDF.",
+"page_number":"2 (NCERT p. 174)"
+},
+{
+"id":4,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":18
+},
+"question":"Whom do the women address and praise in the third stanza?",
+"answer":"The women address and praise Prithvi, the Earth, calling her sweet and omnipotent mother.",
+"keywords":[
+"Prithvi",
+"Earth",
+"omnipotent mother",
+"women"
+],
+"explanation":"The third stanza is spoken by women's voices who honour the Earth as a nurturing mother. They thank her for providing fertile soil and abundant crops. This is found on page 3 (NCERT p. 175) of the textbook PDF.",
+"page_number":"3 (NCERT p. 175)"
+},
+{
+"id":5,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":18
+},
+"question":"Who is praised by 'All Voices' in the final stanza of the poem?",
+"answer":"'All Voices' praise Bramha, the Lord of the Universe and Father eternal.",
+"keywords":[
+"Bramha",
+"Lord of the Universe",
+"Father eternal",
+"All Voices"
+],
+"explanation":"In the concluding stanza, both men and women unite to worship Bramha as the creator and sustainer of all life. They seek his guidance, care, and help. This is on page 3 (NCERT p. 175) of the textbook PDF.",
+"page_number":"3 (NCERT p. 175)"
+},
+{
+"id":6,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":18
+},
+"question":"Write the modern English equivalents for the archaic words 'thou' and 'thee'.",
+"answer":"In modern English, 'thou' means 'you' as a subject, and 'thee' means 'you' as an object.",
+"keywords":[
+"thou",
+"thee",
+"you subject",
+"you object"
+],
+"explanation":"Poets often use archaic pronouns like 'thou' and 'thee' to create a reverent tone. 'Thou' replaces 'you' when doing the action, while 'thee' replaces 'you' when receiving the action. This is shown on page 1 (NCERT p. 173).",
+"page_number":"1 (NCERT p. 173)"
+},
+{
+"id":7,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":16
+},
+"question":"What do the archaic words 'thy' and 'thine' mean in modern English?",
+"answer":"In modern English, 'thy' means 'your', and 'thine' means 'yours'.",
+"keywords":[
+"thy",
+"thine",
+"your",
+"yours"
+],
+"explanation":"'Thy' and 'thine' are archaic possessive forms used throughout 'Harvest Hymn' to address the deities respectfully. They correspond directly to 'your' and 'yours' today. This is listed on page 1 (NCERT p. 173).",
+"page_number":"1 (NCERT p. 173)"
+},
+{
+"id":8,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"What is a sickle and what is it used for in farming?",
+"answer":"A sickle is a hand-held tool with a curved blade on a short handle used for harvesting crops.",
+"keywords":[
+"sickle",
+"curved blade",
+"short handle",
+"harvesting crops"
+],
+"explanation":"Farmers hold the short wooden handle of the sickle to cut mature grain stalks closely during harvest time. It is one of the primary traditional farming implements shown in the lesson. This is described on page 8 (NCERT p. 180).",
+"page_number":"8 (NCERT p. 180)"
+},
+{
+"id":9,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":18
+},
+"question":"What is the common Indian name and scientific name of Pearl Millet?",
+"answer":"The common Indian name of Pearl Millet is Bajra, and its scientific name is Pennisetum glaucum.",
+"keywords":[
+"Bajra",
+"Pennisetum glaucum",
+"Pearl Millet",
+"scientific name"
+],
+"explanation":"Pearl Millet is a highly nutritious grain widely cultivated across India after rice and wheat. Its common and botanical details are presented in the 'Let us explore' section. This is found on page 12 (NCERT p. 184).",
+"page_number":"12 (NCERT p. 184)"
+},
+{
+"id":10,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":18
+},
+"question":"Identify the poetic device used in the line 'Bright and munificent lord of the morn!'.",
+"answer":"The poetic device used in this line is alliteration, shown by the repetition of the 'm' sound in 'munificent' and 'morn'.",
+"keywords":[
+"alliteration",
+"munificent",
+"morn",
+"repetition of sound"
+],
+"explanation":"Alliteration is the repetition of initial consonant sounds in words placed close together. Here, the repeated 'm' sound gives the line a rhythmic, chanting quality. This exercise appears on page 5 (NCERT p. 177).",
+"page_number":"5 (NCERT p. 177)"
+},
+{
+"id":11,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":16
+},
+"question":"Give the meanings of the words 'munificent' and 'beneficent' as used in the lesson.",
+"answer":"'Munificent' means generous, and 'beneficent' means kind or caring.",
+"keywords":[
+"munificent",
+"generous",
+"beneficent",
+"kind"
+],
+"explanation":"In the poem, Surya is described as munificent for generously giving light, and Varuna as beneficent for kindly sending rain. These synonyms are practiced in the vocabulary exercises. This is covered on page 8 (NCERT p. 180).",
+"page_number":"8 (NCERT p. 180)"
+},
+{
+"id":12,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"What does the word 'gold' symbolise in the phrases 'the gold of our fields' and 'the gold of our fruit'?",
+"answer":"The word 'gold' symbolises the richness, ripeness, and prosperity brought by the abundant harvest of crops and fruits.",
+"keywords":[
+"richness",
+"ripeness",
+"prosperity",
+"abundant harvest"
+],
+"explanation":"Literally, ripe wheat and grains appear golden yellow under the sun, while figuratively, gold represents priceless wealth and sustenance for the villagers. This symbolism is explored on page 6 (NCERT p. 178) and Visual Guide page 6.",
+"page_number":"6 (NCERT p. 178)"
+},
+{
+"id":13,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"Which musical instruments do the men play while praising Surya and Varuna?",
+"answer":"The men praise Surya with cymbal and flute, and they praise Varuna with cymbal and pipe.",
+"keywords":[
+"cymbal",
+"flute",
+"pipe",
+"musical instruments"
+],
+"explanation":"Musical references in the poem establish a celebratory and joyful harvest atmosphere. The specific instruments used by each group of voices are summarised in the poem and matrix. This is on page 2 (NCERT p. 174) and Visual Guide page 11.",
+"page_number":"2 (NCERT p. 174)"
+},
+{
+"id":14,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"What is being referred to as the 'wealth of our valleys' in the second stanza?",
+"answer":"The newly harvested and ripe grains grown in the valleys are referred to as the 'wealth of our valleys'.",
+"keywords":[
+"newly harvested",
+"ripe grains",
+"valleys",
+"crops"
+],
+"explanation":"After Varuna sends rain and dewfall, the fields flourish and yield mature crops. These ripe, new-garnered grains are treated as precious wealth by the farmers. This is discussed on page 2 (NCERT p. 174) and page 7 (NCERT p. 179).",
+"page_number":"2 (NCERT p. 174)"
+},
+{
+"id":15,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":18
+},
+"question":"Write the noun forms of the words 'radiant', 'prosper', and 'merciful'.",
+"answer":"The noun forms are 'radiance' for radiant, 'prosperity' for prosper, and 'mercy' for merciful.",
+"keywords":[
+"radiance",
+"prosperity",
+"mercy",
+"noun forms"
+],
+"explanation":"Words from the poem such as radiant (adjective), prosper (verb), and merciful (adjective) can be transformed into abstract nouns. This grammar exercise tests word formation. It is given on page 1 of Worksheet Level B.",
+"page_number":"1 (Worksheet Level B)"
+},
+{
+"id":16,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":18
+},
+"question":"What are the modern English meanings of the archaic words 'hither' and 'quoth'?",
+"answer":"In modern English, 'hither' means 'here' or 'to this place', and 'quoth' means 'said'.",
+"keywords":[
+"hither",
+"here",
+"quoth",
+"said"
+],
+"explanation":"'Hither' and 'quoth' are old-fashioned English words no longer common in everyday speech. Identifying their modern equivalents helps students understand older literary texts. This is practiced on page 9 (NCERT p. 181) and Workbook page 84.",
+"page_number":"9 (NCERT p. 181)"
+},
+{
+"id":17,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Which letter is silent in the words 'hymn', 'column', and 'autumn', and when does this rule apply?",
+"answer":"The letter 'n' is silent in these words because it appears immediately after 'm' at the end of a word.",
+"keywords":[
+"silent letter n",
+"after m",
+"end of word",
+"pronunciation"
+],
+"explanation":"English spelling contains silent letters that are written but not pronounced. When 'n' follows 'm' at the end of words like hymn or solemn, the 'n' remains silent. This pronunciation rule is taught on page 10 (NCERT p. 182).",
+"page_number":"10 (NCERT p. 182)"
+},
+{
+"id":18,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Why is 'puddling' considered the most important step in preparing soil for paddy cultivation?",
+"answer":"Puddling is important because it soaks the fertile soil with plenty of water, helping it retain moisture needed for rice.",
+"keywords":[
+"puddling",
+"soak soil",
+"plenty of water",
+"paddy cultivation"
+],
+"explanation":"Rice grows best in flooded, water-retentive soil. After ploughing, puddling ensures the field holds enough water before seeds or seedlings are placed. This is explained in the listening transcript on page 13 (NCERT p. 203).",
+"page_number":"13 (NCERT p. 203)"
+},
+{
+"id":19,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Why is it essential to dry separated rice grains after threshing?",
+"answer":"Drying rice grains reduces their moisture content so that they can be stored for longer and processed further.",
+"keywords":[
+"reduce moisture",
+"store longer",
+"threshing",
+"processed"
+],
+"explanation":"After threshing separates the seeds from the plant, excess moisture can spoil the grains. Drying preserves the harvest safely until milling. This is asked on page 10 (NCERT p. 182) and explained on page 13 (NCERT p. 203).",
+"page_number":"13 (NCERT p. 203)"
+},
+{
+"id":20,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"What does the phrase 'ineffable Om' convey about the divine in the fourth stanza?",
+"answer":"It conveys that the divine is sacred and beyond human comprehension or description in ordinary words.",
+"keywords":[
+"beyond comprehension",
+"indescribable",
+"sacred",
+"divine"
+],
+"explanation":"'Ineffable' means too great or sacred to be expressed in words. Calling Bramha 'ineffable Om' highlights the limitless nature of the universe's creator. This is tested on page 7 (NCERT p. 179) and page 9 (NCERT p. 181).",
+"page_number":"7 (NCERT p. 179)"
+},
+{
+"id":21,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Identify the silent letter in 'womb', 'climb', and 'comb' and state the spelling rule it follows.",
+"answer":"The letter 'b' is silent in these words because it appears alongside the letter 'm'.",
+"keywords":[
+"silent letter b",
+"appears with m",
+"womb",
+"climb"
+],
+"explanation":"In many English words ending in '-mb', the final 'b' is not pronounced when spoken aloud. Learning this rule helps students pronounce words like 'womb' from the poem accurately. This is covered on page 10 (NCERT p. 182).",
+"page_number":"10 (NCERT p. 182)"
+},
+{
+"id":22,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":35
+},
+"question":"Why do the farmers hail Surya as the 'giver of mellowing radiance'?",
+"answer":"Farmers hail Surya as the giver of mellowing radiance because his gentle sunlight and warmth nourish young corn, help crops grow, and ripen fruits and grains into golden harvests.",
+"keywords":[
+"sunlight",
+"warmth",
+"ripen",
+"crops grow",
+"golden harvests"
+],
+"explanation":"Surya's light and heat are essential throughout the sowing and ripening phases. Without gentle radiance, fields would not mature into golden grains. This is explained on page 2 (NCERT p. 174), page 6 (NCERT p. 178), and Visual Guide page 5.",
+"page_number":"6 (NCERT p. 178)"
+},
+{
+"id":23,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":38
+},
+"question":"How do the men express their gratitude to Varuna, the God of rain?",
+"answer":"The men praise Varuna for his mercy in sending rain and dewfall that nourished their furrows and grain. They offer their thanks, garlands, and newly harvested crops while playing the cymbal and pipe.",
+"keywords":[
+"rain and dewfall",
+"cherished furrows",
+"garlands",
+"thanks",
+"cymbal and pipe"
+],
+"explanation":"Varuna is honoured for providing water, which is vital for farming and sustenance. The villagers bring ripe produce and joyful music as tribute for his kindness. This is described in the second stanza on page 2 (NCERT p. 174).",
+"page_number":"2 (NCERT p. 174)"
+},
+{
+"id":24,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":18,
+"max":32
+},
+"question":"Give the meanings of the words 'succour', 'counsel', 'radiance', and 'ineffable'.",
+"answer":"'Succour' means help or support, 'counsel' means wise advice, 'radiance' means brightness or glow, and 'ineffable' means indescribable.",
+"keywords":[
+"help",
+"advice",
+"brightness",
+"indescribable"
+],
+"explanation":"These vocabulary words appear in the poem and pre-reading activities. Understanding their exact meanings helps students grasp the villagers' prayers for guidance and warmth. They are covered on page 1 (NCERT p. 173) and pages 8–9 (NCERT pp. 180–181).",
+"page_number":"8 (NCERT p. 180)"
+},
+{
+"id":25,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":18,
+"max":30
+},
+"question":"Rewrite the following archaic sentences in modern English: (a) 'Thou art the giver of warmth to our fields.' (b) 'We seek thy wisdom in difficult times.'",
+"answer":"(a) You are the giver of warmth to our fields. (b) We seek your wisdom in difficult times.",
+"keywords":[
+"You are",
+"your",
+"modern English",
+"archaic"
+],
+"explanation":"Replacing 'thou art' with 'you are' and 'thy' with 'your' converts archaic poetic phrasing into standard modern English without changing the meaning. This exercise is found on page 1 of the Workbook PDF (page 83).",
+"page_number":"1 (Workbook p. 83)"
+},
+{
+"id":26,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":38
+},
+"question":"How is a plough different from a trowel in agricultural work?",
+"answer":"A plough is a large implement pulled by oxen to turn over soil in the field so seeds can be sown, whereas a trowel is a small hand-held tool used for digging and making shallow furrows.",
+"keywords":[
+"plough",
+"pulled by oxen",
+"trowel",
+"small hand tool",
+"shallow furrows"
+],
+"explanation":"Both tools prepare soil for planting, but they differ greatly in scale and method of use. The plough handles heavy field preparation, while the trowel is used for small-scale digging. This is shown on page 8 (NCERT p. 180).",
+"page_number":"8 (NCERT p. 180)"
+},
+{
+"id":27,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":38
+},
+"question":"What are the structure and uses of a scythe and a spade in farming?",
+"answer":"A scythe has a long-curved blade attached to a long handle and is used for cutting tall grass. A spade has a flat rectangular blade on a long wooden handle and is used for digging soil.",
+"keywords":[
+"scythe",
+"cutting tall grass",
+"spade",
+"rectangular blade",
+"digging soil"
+],
+"explanation":"Traditional farm implements are designed for specific tasks on the farm. Distinguishing their blade shapes and handle lengths helps identify their roles in cultivation. This is detailed on page 8 (NCERT p. 180) and Visual Guide page 8.",
+"page_number":"8 (NCERT p. 180)"
+},
+{
+"id":28,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":38
+},
+"question":"Name any four states in India where Pearl Millet (Bajra) is widely cultivated, along with two of its vernacular names.",
+"answer":"Pearl Millet is widely cultivated in Rajasthan, Maharashtra, Gujarat, Uttar Pradesh, and Haryana. Two of its vernacular names are Bajree (in Gujarati and Marathi) and Sajje (in Kannada) or Kambu (in Tamil).",
+"keywords":[
+"Rajasthan",
+"Maharashtra",
+"Gujarat",
+"Bajree",
+"Sajje"
+],
+"explanation":"Pearl Millet thrives in dry regions of western and northern India and is known by regional names across the country, including Sajja in Telugu. These cultivation details are provided on page 12 (NCERT p. 184).",
+"page_number":"12 (NCERT p. 184)"
+},
+{
+"id":29,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":40
+},
+"question":"State two reasons why the women refer to Prithvi as a 'source of manifold gladness'.",
+"answer":"First, Prithvi feeds everyone through her fertile soil like a plentiful bosom. Second, crops and agricultural riches are born from her womb, bringing abundant joy and prosperity to the community.",
+"keywords":[
+"fertile soil",
+"feeds us",
+"riches have birth",
+"abundant joy"
+],
+"explanation":"Women's voices compare the Earth to an all-powerful, caring mother who nurtures every seed into food. Because she sustains life and brings rich harvests, she brings many kinds of happiness. This is on page 3 (NCERT p. 175) and page 7 (NCERT p. 179).",
+"page_number":"3 (NCERT p. 175)"
+},
+{
+"id":30,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":40
+},
+"question":"Why does everyone in the poem offer their 'lives and our labours for tribute' to Bramha?",
+"answer":"Everyone offers their lives and labours because they recognise Bramha as the Lord of their entire being and the source of all creation. Dedicating their work shows humility, devotion, and gratitude for his care.",
+"keywords":[
+"Lord of our being",
+"gratitude",
+"humility",
+"source of creation"
+],
+"explanation":"In the final stanza, villagers realise that even their physical strength and daily toil are guided by the Creator. Offering their work as tribute turns farming into a spiritual act. This is on page 3 (NCERT p. 175) and page 7 (NCERT p. 179).",
+"page_number":"7 (NCERT p. 179)"
+},
+{
+"id":31,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":38
+},
+"question":"Why is the letter 'H' capitalised in 'Hands', 'Heart', and 'Home' in the fourth stanza?",
+"answer":"The letter 'H' is capitalised in 'Hands', 'Heart', and 'Home' to show that God resides within the villagers' physical work, their deepest emotions, and their dwellings.",
+"keywords":[
+"God resides",
+"labour",
+"emotions",
+"dwellings",
+"capitalised"
+],
+"explanation":"Capitalising ordinary nouns elevates them to sacred status. It emphasises that the divine presence is not separate from daily human life, feelings, and family homes. This is explained on page 4 (NCERT p. 176) and Visual Guide page 9.",
+"page_number":"4 (NCERT p. 176)"
+},
+{
+"id":32,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":40
+},
+"question":"What is the poet's purpose in using repetition in 'Harvest Hymn'? Give one example from the poem.",
+"answer":"The poet uses repetition to emphasise deep gratitude, create a musical chanting rhythm, and make the hymn easy to recite together. An example is 'The gold of our fields and the gold of our fruit'.",
+"keywords":[
+"gratitude",
+"chanting rhythm",
+"recite collectively",
+"gold of our fields"
+],
+"explanation":"Repeated structures like 'Thine is the bounty...' and 'Lord of the...' give the poem the feel of a traditional choral prayer. This encourages collective participation during harvest celebrations. This is discussed on page 5 (NCERT p. 177) and Visual Guide page 6.",
+"page_number":"5 (NCERT p. 177)"
+},
+{
+"id":33,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":38
+},
+"question":"Identify the poetic device in 'The wealth of our valleys, new-garnered and ripe' and explain its effect.",
+"answer":"The poetic device used is imagery. It creates a vivid, clear picture of fertile valleys filled with freshly gathered, mature crops, appealing to the reader's senses.",
+"keywords":[
+"imagery",
+"vivid description",
+"appeals to senses",
+"ripe crops"
+],
+"explanation":"By describing the harvest as 'new-garnered and ripe', the poet lets the reader visualise the abundance of the fields. Imagery helps convey the richness and reward of hard work. This is matched on page 5 (NCERT p. 177).",
+"page_number":"5 (NCERT p. 177)"
+},
+{
+"id":34,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":18,
+"max":35
+},
+"question":"Explain the meaning of the archaic words 'morrow', 'betwixt', and 'yonder'.",
+"answer":"'Morrow' means the next day or tomorrow, 'betwixt' means between two things, and 'yonder' refers to something over there at a distance.",
+"keywords":[
+"morrow",
+"tomorrow",
+"betwixt",
+"between",
+"yonder"
+],
+"explanation":"Students are asked to use a dictionary to discover commonly used synonyms for these older words. Knowing them builds vocabulary for reading classic poetry. This exercise appears on page 9 (NCERT p. 181).",
+"page_number":"9 (NCERT p. 181)"
+},
+{
+"id":35,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":40
+},
+"question":"Identify the gerunds in 'Harvesting brought joy to the farmers' and 'Planting seeds takes time', and state their grammatical function.",
+"answer":"The gerunds are 'Harvesting' in the first sentence and 'Planting' in the second sentence. Both function as nouns acting as the subjects of their respective sentences.",
+"keywords":[
+"Harvesting",
+"Planting",
+"gerund",
+"noun",
+"subject"
+],
+"explanation":"A gerund is the '-ing' form of a verb that works as a noun in a sentence. Here, 'Harvesting' and 'Planting' name activities and serve as subjects before the verbs 'brought' and 'takes'. These examples appear on page 1 of Worksheets Level A and B.",
+"page_number":"1 (Worksheet Level A & B)"
+},
+{
+"id":36,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":38
+},
+"question":"Identify the participle phrase in 'The farmers, tired after work, rested happily' and explain which word it describes.",
+"answer":"The participle phrase is 'tired after work'. It functions as an adjective and describes the noun 'farmers', explaining their condition before resting.",
+"keywords":[
+"tired after work",
+"participle phrase",
+"describes farmers",
+"adjective"
+],
+"explanation":"A participle phrase begins with a participle and adds descriptive detail about a noun. In this sentence, 'tired' is a past participle modifying 'the farmers'. This grammar question is on page 1 of Worksheet Level A.",
+"page_number":"1 (Worksheet Level A)"
+},
+{
+"id":37,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"Explain what happens during the 'transplanting' and 'milling' stages of paddy cultivation.",
+"answer":"During transplanting, 4 to 5 week old rice seedlings grown in a nursery bed are uprooted and planted into a flooded field. During milling, the outer husk or covering is removed from the rice grain.",
+"keywords":[
+"transplanting",
+"seedlings",
+"flooded field",
+"milling",
+"outer covering"
+],
+"explanation":"Transplanting gives young rice plants space and water to mature over 120 days, while milling prepares the harvested grain for cooking. Both steps are key parts of rice farming. This is described on page 13 (NCERT p. 203) and Visual Guide page 12.",
+"page_number":"13 (NCERT p. 203)"
+},
+{
+"id":38,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":38
+},
+"question":"How does the mention of 'cymbal and flute' in the first stanza reflect the mood of the villagers?",
+"answer":"The mention of 'cymbal and flute' signifies joy, festivity, and celebration. It shows that the villagers are praising Surya happily through music and community singing rather than silent fear.",
+"keywords":[
+"joy",
+"celebration",
+"festive mood",
+"music"
+],
+"explanation":"Traditional instruments add vibrancy to harvest rituals and show heartfelt gratitude. The contrast between joyful celebration and quiet meditation is specifically highlighted in the reflection questions. This is on page 6 (NCERT p. 178) and Visual Guide page 6.",
+"page_number":"6 (NCERT p. 178)"
+},
+{
+"id":39,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"Rewrite the metaphor 'The sun is a golden chariot rolling across the sky' using personification, and the simile 'Soft rain fell like silver threads over the waiting fields' using alliteration.",
+"answer":"Personification: The sun smiled warmly as it marched proudly across the sky. Alliteration: Soft silver showers silently soaked the sleeping soil.",
+"keywords":[
+"personification",
+"human qualities",
+"alliteration",
+"repeated consonant"
+],
+"explanation":"Personification gives the sun human actions like smiling or marching, whereas alliteration repeats the initial 's' sound across words like soft, silver, showers, and soaked. This transformation exercise is on page 4 of the Workbook PDF (page 86).",
+"page_number":"4 (Workbook p. 86)"
+},
+{
+"id":40,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":24,
+"max":44
+},
+"question":"Why is Pearl Millet called a resilient superfood and an 'ultimate survivor' in the lesson?",
+"answer":"Pearl Millet is called an 'ultimate survivor' because it has the highest drought tolerance potential among all millets, growing well in tough climates. It is a superfood because it is rich in protein, dietary fibre, niacin, and minerals.",
+"keywords":[
+"drought tolerance",
+"difficult climates",
+"dietary fibre",
+"protein",
+"niacin"
+],
+"explanation":"Unlike crops that need abundant water, Bajra partners well with limited rain and soil while providing high nutrition, including 347 Kcal energy per 100g. This is covered on page 12 (NCERT p. 184) and Visual Guide page 13.",
+"page_number":"12 (NCERT p. 184)"
+},
+{
+"id":41,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"How does honouring nature in 'Harvest Hymn' remind us to care for Earth in our daily lives?",
+"answer":"By revering the sun, rain, and Earth as life-givers, the poem teaches us compassion and gratitude toward nature. This reminds us to conserve water, protect soil, avoid pollution, and live sustainably every day.",
+"keywords":[
+"compassion for Earth",
+"life-givers",
+"conserve water",
+"protect soil"
+],
+"explanation":"When nature is treated as sacred rather than merely a resource to exploit, people naturally act responsibly. The 'Living the Value' section connects the poem's gratitude to everyday environmental care. This is on page 9 of the Workbook PDF (page 91).",
+"page_number":"9 (Workbook p. 91)"
+},
+{
+"id":42,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":18,
+"max":34
+},
+"question":"Give one synonym and one antonym each for the words 'abundant' and 'patience' based on the worksheets.",
+"answer":"For 'abundant', a synonym is 'plentiful' and an antonym is 'scarce'. For 'patience', a synonym is 'calmness' and an antonym is 'haste'.",
+"keywords":[
+"plentiful",
+"scarce",
+"calmness",
+"haste"
+],
+"explanation":"Understanding synonyms and antonyms strengthens vocabulary related to harvest themes, such as plentiful crops and patient farming labour. These specific word pairs are tested in sections I.A and I.B on page 1 of Worksheet Level A.",
+"page_number":"1 (Worksheet Level A)"
+},
+{
+"id":43,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"Describe the setting and overall tone of Sarojini Naidu's poem 'Harvest Hymn'.",
+"answer":"The setting of 'Harvest Hymn' is a vibrant rural Indian landscape during a harvest festival, surrounded by ripe valleys and golden fields. The overall tone is deeply respectful, grateful, devotional, and celebratory. The villagers come together to praise nature and the Creator with songs, flowers, fruits, and traditional musical instruments for blessing their hard work.",
+"keywords":[
+"rural landscape",
+"harvest festival",
+"respectful",
+"grateful",
+"celebratory"
+],
+"explanation":"The poem portrays farmers rejoicing after reaping their crops without taking nature's blessings for granted. Every stanza balances joy over the harvest with humble reverence toward the divine. This is discussed on page 4 (NCERT p. 176).",
+"page_number":"4 (NCERT p. 176)"
+},
+{
+"id":44,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"List five health benefits of Pearl Millet (Bajra) and four traditional Indian dishes prepared from it.",
+"answer":"Five health benefits of Pearl Millet are: it reduces cholesterol, promotes bone health, helps treat stomach ulcers, promotes heart health, and aids in weight loss. Four traditional Indian dishes prepared using Pearl Millet are Khichdi, Roti, Upma, and Idli (as well as Khakhra and Parathas).",
+"keywords":[
+"reduces cholesterol",
+"bone health",
+"heart health",
+"weight loss",
+"Khichdi",
+"Roti"
+],
+"explanation":"Pearl Millet has been part of Indian cuisine for generations and is now recognised globally as a superfood. Its high fibre and mineral content make it both wholesome and versatile in cooking. These facts are listed on page 12 (NCERT p. 184).",
+"page_number":"12 (NCERT p. 184)"
+},
+{
+"id":45,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":65
+},
+"question":"Draft two creative, concise slogans to express gratitude to farmers on a school notice board, and mention two guidelines for writing effective slogans.",
+"answer":"Two creative slogans are: 'From Seed to Plate, Farmers Make Our Nation Great!' and 'Honour the Hands That Feed the Land!'. Two important guidelines for writing effective slogans are: first, focus clearly on the main message to be expressed; second, use simple, memorable language and keep it concise with only a few words.",
+"keywords":[
+"creative slogans",
+"gratitude to farmers",
+"main idea",
+"simple language",
+"concise"
+],
+"explanation":"Creative slogans quickly capture a reader's attention on a notice board and spread meaningful appreciation. Keeping the wording brief and focused makes the message impactful. This writing task is given on pages 11–12 (NCERT pp. 183–184).",
+"page_number":"11 (NCERT p. 183)"
+},
+{
+"id":46,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":70
+},
+"question":"How does Sarojini Naidu create a joyous and festive atmosphere of rural India at harvesting time?",
+"answer":"Sarojini Naidu creates a joyous atmosphere through rich sensory imagery of golden fields, ripe fruits, gourd-flowers, and abundant valleys. She shows the entire village gathering in unison to offer fragrant garlands, fresh crops, and heartfelt songs. The lively sounds of cymbals, flutes, pipes, and drums fill the air, turning the harvest into a colourful community festival.",
+"keywords":[
+"golden fields",
+"garlands",
+"songs",
+"cymbals",
+"flutes",
+"community celebration"
+],
+"explanation":"Rather than describing farming as tiring labour alone, the poet highlights the celebration that follows a successful yield. Music, offerings, and shared gratitude bring rural India vividly to life. This is covered on pages 2–3 (NCERT pp. 174–175) and page 7 (NCERT p. 179).",
+"page_number":"7 (NCERT p. 179)"
+},
+{
+"id":47,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Explain why Sarojini Naidu structured the poem into 'Men's Voices', 'Women's Voices', and 'All Voices', and state whom each group praises.",
+"answer":"Sarojini Naidu divided the poem into three voices to represent how the whole community participates together in thanking different forces of nature. 'Men's Voices' praise the sky elements—Surya for sunlight and Varuna for rain. 'Women's Voices' praise Prithvi, the Earth, for fertile soil and nourishment. Finally, 'All Voices' unite to praise Bramha, the universal Creator.",
+"keywords":[
+"Men's Voices",
+"Women's Voices",
+"All Voices",
+"Surya and Varuna",
+"Prithvi",
+"Bramha"
+],
+"explanation":"This three-part structure mirrors both social harmony and the cooperation of sky, earth, and divine energy required for agriculture. Everyone has an equal voice in offering thanksgiving. This is illustrated on page 4 and page 11 of the Visual Guide PDF.",
+"page_number":"4 (Visual Guide)"
+},
+{
+"id":48,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Explain the symbolism of Surya, Varuna, and Prithvi as presented in 'Harvest Hymn'.",
+"answer":"In the poem, Surya (the Sun) symbolises light, energy, and warmth, which bring ripening and prosperity to the fields. Varuna (Rain) symbolises mercy and nourishment, providing essential water and dewfall for crops to survive. Prithvi (the Earth) symbolises motherhood, fertile land, and nurturing care, acting as the sacred womb from which all life and food take birth.",
+"keywords":[
+"Surya",
+"light and energy",
+"Varuna",
+"mercy and nourishment",
+"Prithvi",
+"motherhood and fertility"
+],
+"explanation":"The poet uses Indian deities as symbols of vital natural elements necessary for farming. Together, they show that sunlight, rainfall, and fertile soil must work in balance to sustain humanity. This symbolism table appears on page 5 (NCERT p. 177).",
+"page_number":"5 (NCERT p. 177)"
+},
+{
+"id":49,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":70
+},
+"question":"Rewrite these symbolic lines into literal language: (a) 'Surya pours strength into every growing grain.' (b) 'Varuna opens the gates of mercy upon the thirsty land.' (c) 'Prithvi holds the wealth of valleys in her generous hands.'",
+"answer":"(a) Sunlight provides the warmth and energy needed for grains to grow strong and mature. (b) Rain falls abundantly onto dry soil, giving essential water to crops. (c) Fertile land supports healthy plant growth, producing rich crops across the valleys.",
+"keywords":[
+"sunlight",
+"warmth and energy",
+"rain",
+"dry soil",
+"fertile land"
+],
+"explanation":"Converting figurative language into literal statements checks whether students understand the real agricultural processes behind poetic metaphors. Each deity corresponds directly to sun, rain, and soil. This exercise is on page 4 of the Workbook PDF (page 86).",
+"page_number":"4 (Workbook p. 86)"
+},
+{
+"id":50,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"Describe the complete step-by-step process of paddy cultivation from preparing the soil to reaching the market.",
+"answer":"Paddy cultivation begins with ploughing the soil to prepare the field, followed by puddling, where the land is soaked with plenty of water. Seeds are planted in a nursery bed and grow into seedlings over 4 to 5 weeks while fields stay irrigated. Next, seedlings are transplanted into flooded fields. After about 120 days, mature crops are harvested, threshed to separate grains, dried to remove moisture, and milled to remove husks before reaching the market.",
+"keywords":[
+"ploughing",
+"puddling",
+"transplanting",
+"irrigating",
+"harvesting",
+"threshing",
+"milling"
+],
+"explanation":"Rice is actually a type of grass whose edible seed requires careful water management and timed steps. Each stage ensures healthy crop growth and long-term grain storage. This sequence is taught on page 13 (NCERT p. 203) and Visual Guide page 12.",
+"page_number":"13 (NCERT p. 203)"
+},
+{
+"id":51,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":70
+},
+"question":"Why are farmers vital to society, and how do the poem and worksheets highlight their contribution?",
+"answer":"Farmers are vital because they labour patiently throughout the year to cultivate crops and put food on everyone's plate. In 'Harvest Hymn', their dedication is honoured as sacred service when they offer their lives and labours in harmony with nature. The worksheets and writing activities also remind students to show deep gratitude and respect toward farmers for sustaining society.",
+"keywords":[
+"food on plates",
+"patient labour",
+"harmony with nature",
+"gratitude",
+"sustain society"
+],
+"explanation":"Without farmers' skill in ploughing, sowing, irrigating, and harvesting, communities could not survive. Recognising their hard work fosters humility and respect for food. This theme appears on page 11 (NCERT p. 183) and page 2 of Worksheet Level B.",
+"page_number":"2 (Worksheet Level B)"
+},
+{
+"id":52,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Write a short paragraph describing how a harvest festival is celebrated in an Indian village based on the ideas in the lesson.",
+"answer":"During the harvest festival in a village, the air is filled with excitement and gratitude as golden crops are reaped. Families clean and decorate their homes, wear festive clothes, and prepare delicious traditional dishes like khichdi, roti, or sweet pongal from newly harvested grains. Villagers gather together in the open to offer flowers, garlands, and prayers to the sun, rain, and Earth, celebrating joyfully with folk songs, flutes, and drums.",
+"keywords":[
+"golden crops",
+"traditional dishes",
+"garlands",
+"prayers",
+"folk songs",
+"drums"
+],
+"explanation":"Harvest festivals unite entire village communities after months of hard agricultural toil. Sharing regional foods and musical performances celebrates both nature's bounty and cultural heritage. This creative writing prompt is on page 3 of Worksheet Level A and page 10 (NCERT p. 182).",
+"page_number":"3 (Worksheet Level A)"
+},
+{
+"id":53,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Describe Korea's Chuseok harvest festival as presented in the workbook, focusing on its purpose, foods, and key rituals.",
+"answer":"Chuseok is one of Korea's most important harvest festivals, celebrated to give thanks for an abundant harvest and honour ancestors. Families travel to their hometowns to reunite and share traditional foods like songpyeon (rice cakes), fresh fruits, and seasonal dishes. A major ritual is 'charye', an ancestral memorial ceremony offering food in remembrance, alongside visiting and cleaning ancestral graves, performing the 'ganggangsullae' folk dance, and playing traditional games.",
+"keywords":[
+"Chuseok",
+"honour ancestors",
+"songpyeon",
+"charye",
+"ganggangsullae",
+"family reunions"
+],
+"explanation":"Chuseok blends gratitude for nature's harvest with strong family bonding and cultural remembrance. Studying it helps students see how harvest thanksgiving is shared across global cultures. This passage appears on pages 7–8 of the Workbook PDF (pages 89–90).",
+"page_number":"7 (Workbook p. 89)"
+},
+{
+"id":54,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Identify the symbols represented by these descriptions and explain what each suggests: (a) 'The fields glowed warmly as the day slowly awakened.' (b) 'The soil opened gently to receive the blessing that would help seeds sprout.' (c) 'The steady rhythm from the sky renewed the hope of farmers waiting for months.'",
+"answer":"(a) Represents Surya (the Sun), suggesting warmth, morning light, and energy that awaken and ripen crops. (b) Represents Prithvi (the Earth), suggesting fertile, nurturing soil that receives and shelters seeds. (c) Represents Varuna (Rain), suggesting life-giving water and mercy that revive parched fields and restore farmers' hope.",
+"keywords":[
+"Surya",
+"warmth and light",
+"Prithvi",
+"fertile soil",
+"Varuna",
+"life-giving rain"
+],
+"explanation":"Each description hints at one of the three natural forces praised in the first three stanzas of 'Harvest Hymn'. Recognising these cues strengthens understanding of poetic symbolism. This activity is on page 2 of the Workbook PDF (page 84).",
+"page_number":"2 (Workbook p. 84)"
+},
+{
+"id":55,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Explain the nutritional profile of Pearl Millet (Bajra) per 100 grams and why it is valued compared to other cereals.",
+"answer":"Per 100 grams, Pearl Millet provides 347 Kcal of energy, 10.9g of protein, 5.43g of fat, 61.8g of carbohydrate, 27.4mg of calcium, 6.4mg of iron, and 36.1 micrograms of folic acid. It has the highest niacin content among all cereals and contains more dietary fibre and minerals than ordinary cereals, making it a highly nutritious traditional grain.",
+"keywords":[
+"347 Kcal",
+"protein",
+"niacin",
+"dietary fibre",
+"minerals",
+"calcium and iron"
+],
+"explanation":"Millets are small-seeded grasses packed with essential micronutrients. Because Pearl Millet combines rich energy, protein, and minerals while needing little water, it is valued worldwide as a healthy superfood. These figures are given on page 12 (NCERT p. 184).",
+"page_number":"12 (NCERT p. 184)"
+},
+{
+"id":56,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"Explain the meaning and philosophical significance of 'Thou art the Seed and the Scythe of our harvests' in the cycle of life.",
+"answer":"In this metaphor, the 'Seed' symbolises creation, potential, and the beginning of life, while the 'Scythe' symbolises reaping, fulfillment, and the end of the harvest cycle. By addressing Bramha as both the Seed and the Scythe, the villagers acknowledge that the divine is present at every stage of existence—from initial growth to final completion—preparing the ground anew for future cycles.",
+"keywords":[
+"Seed",
+"beginning and creation",
+"Scythe",
+"end and fulfillment",
+"cycle of life",
+"Bramha"
+],
+"explanation":"Agriculture follows a continuous loop of sowing, nurturing, and harvesting. Calling God both the Seed and the Scythe reveals a spiritual view where creation and completion belong to one eternal cycle. This is explained on page 7 (NCERT p. 179) and Visual Guide page 10.",
+"page_number":"7 (NCERT p. 179)"
+},
+{
+"id":57,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"How does 'Harvest Hymn' demonstrate the interconnectedness between nature's gifts, human labour, and divine blessing?",
+"answer":"The poem shows that a golden harvest is impossible in isolation and requires three forces working in harmony. First, nature provides gifts through Surya's sunlight, Varuna's rain, and Prithvi's fertile soil. Second, humans contribute physical effort using ploughs and sickles to sow and reap. Third, Bramha's divine blessing sustains the cycle of seed and scythe, uniting soil, sky, labour, and spirit.",
+"keywords":[
+"interconnectedness",
+"nature's gifts",
+"human effort",
+"divine blessing",
+"harmonious cooperation"
+],
+"explanation":"Sarojini Naidu's hymn goes beyond celebrating farming tools or weather alone; it connects human work directly with natural elements and spiritual gratitude. Each element relies on the others to produce food. This core message is summarised on pages 2 and 14 of the Visual Guide PDF.",
+"page_number":"14 (Visual Guide)"
+},
+{
+"id":58,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"Why is the poem presented in the form of a hymn, and how does the use of archaic language enhance this form?",
+"answer":"The poem is presented as a hymn—a song of praise and thanksgiving—because the villagers view a bountiful harvest as a sacred blessing rather than mere luck. Archaic words like 'Thou', 'Thee', 'Thy', 'Thine', and 'Art' elevate the tone above everyday speech, giving farming chores the solemn reverence, dignity, and timeless weight of a religious prayer.",
+"keywords":[
+"hymn",
+"thanksgiving",
+"sacred",
+"archaic language",
+"reverence",
+"elevated tone"
+],
+"explanation":"Ordinary modern words might make the poem sound like a simple folk song about crops. Using formal archaic pronouns reinforces the spiritual devotion of the speakers toward nature and the Creator. This is discussed on page 7 (NCERT p. 179) and Visual Guide pages 2–3.",
+"page_number":"3 (Visual Guide)"
+},
+{
+"id":59,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"Analyse the shifts in dominant tone across all four stanzas of 'Harvest Hymn', supporting your answer with words or phrases from the text.",
+"answer":"Stanzas 1 and 2 have a grateful and celebratory tone, seen in phrases like 'we hail thee', 'we praise thee', and 'bring thee our thanks' while celebrating ripe fields. Stanza 3 shifts to a nurturing and affectionate tone as women call Earth 'sweet and omnipotent mother' and bring 'our love'. Stanza 4 takes a reverent, unified, and devotional tone as 'All Voices' offer 'lives and our labours' with 'prayer'.",
+"keywords":[
+"grateful",
+"celebratory",
+"nurturing",
+"affectionate",
+"reverent",
+"devotional"
+],
+"explanation":"While gratitude runs through the whole poem, each stanza adjusts its emotional shade to suit the deity addressed—from bright sky elements to maternal Earth and finally the universal Creator. This tone analysis task is on pages 5–6 of the Workbook PDF (pages 87–88).",
+"page_number":"5 (Workbook p. 87)"
+},
+{
+"id":60,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":48,
+"max":78
+},
+"question":"Explain the 'Mother Metaphor' used for Prithvi in the third stanza, citing imagery from the poem.",
+"answer":"In the third stanza, women praise Prithvi as a 'Sweet and omnipotent mother', comparing the Earth directly to a caring parent. Phrases like 'plentiful bosom that feeds us' and 'womb where our riches have birth' depict fertile soil as a mother's body that shelters seeds and nourishes all living beings, inspiring deep love and respect from her children.",
+"keywords":[
+"Mother Metaphor",
+"omnipotent mother",
+"plentiful bosom",
+"womb",
+"nurtures life"
+],
+"explanation":"Viewing the Earth as a mother encourages humans to feel affectionate responsibility rather than greed toward the land. Just as a mother sustains her family, fertile soil gives birth to food and wealth. This metaphor is highlighted on page 3 (NCERT p. 175) and Visual Guide page 7.",
+"page_number":"7 (Visual Guide)"
+},
+{
+"id":61,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"If one natural element praised in the poem (sun, rain, or land) suddenly stopped fulfilling its role, how would the relationship between humans and nature change?",
+"answer":"If sun, rain, or fertile land stopped functioning, crops would wither, leading to severe food shortages and crop failure. Instead of joyful celebration and hymns of thanks, the human-nature relationship would turn into anxiety, struggle, and desperation. Humans would quickly realise how helpless they are without nature's balance and how urgent it is to protect rather than exploit natural resources.",
+"keywords":[
+"crop failure",
+"food shortages",
+"anxiety",
+"helplessness",
+"natural balance"
+],
+"explanation":"The poem celebrates nature working smoothly, which makes it easy to forget how fragile agricultural cycles are. Imagining the loss of one element highlights humanity's complete dependence on the environment. This critical-thinking question is on page 7 of the Workbook PDF (page 89).",
+"page_number":"7 (Workbook p. 89)"
+},
+{
+"id":62,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"The poem depicts harmony between human labour and natural forces. Do technological advancements strengthen or weaken this harmony? Justify your view.",
+"answer":"Technological advancements can both strengthen and weaken harmony with nature depending on how they are used. Sustainable tools like efficient irrigation, weather forecasting, and drought-resistant millet varieties strengthen harmony by reducing crop failure and easing farmers' toil. However, excessive chemical fertilisers, groundwater overuse, and heavy pollution weaken this bond by damaging soil fertility and making people forget respect for Earth's natural rhythm.",
+"keywords":[
+"technological advancements",
+"strengthen",
+"weaken",
+"sustainable",
+"soil fertility",
+"natural rhythm"
+],
+"explanation":"Modern farming does not have to oppose nature if technology respects ecological limits. Balancing scientific innovation with the poem's reverence for soil, sun, and water keeps agriculture sustainable. This reflection question appears on page 7 of the Workbook PDF (page 89).",
+"page_number":"7 (Workbook p. 89)"
+},
+{
+"id":63,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"Imagine a fifth stanza spoken by 'Children's Voices'. What perspective would children bring to a harvest hymn, and what would they value most?",
+"answer":"A stanza spoken by 'Children's Voices' would bring innocent wonder, playful energy, and fresh curiosity to the harvest hymn. Rather than focusing only on hard labour, children would value the magic of tiny seeds growing into tall golden plants, the sweetness of fresh fruits and festive sweets, joyful games in the village, and learning from elders how to love and protect the Earth for tomorrow.",
+"keywords":[
+"Children's Voices",
+"innocent wonder",
+"playful energy",
+"fresh fruits",
+"future care"
+],
+"explanation":"Including children completes the community circle alongside men and women. Their perspective reminds adults to preserve a healthy environment and pass down gratitude to the next generation. This creative prompt is on page 7 of the Workbook PDF (page 89).",
+"page_number":"7 (Workbook p. 89)"
+},
+{
+"id":64,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"If 'Harvest Hymn' were rewritten in a contemporary setting, what new symbols or environmental concerns might be included and why?",
+"answer":"In a contemporary setting, new symbols might include solar panels representing clean sun energy, drip irrigation pipes conserving water, and resilient millets like Bajra symbolising climate adaptation. Environmental concerns such as irregular monsoons, soil degradation, water scarcity, and pollution would also appear because modern farmers face climate challenges that require urgent care and conservation alongside gratitude.",
+"keywords":[
+"contemporary setting",
+"solar energy",
+"water conservation",
+"climate change",
+"soil degradation"
+],
+"explanation":"While ancient and traditional hymns focus purely on natural abundance, today's agriculture deals with environmental stress. Updating the symbols keeps the poem's message of gratitude relevant to modern ecological needs. This question is on page 7 of the Workbook PDF (page 89).",
+"page_number":"7 (Workbook p. 89)"
+},
+{
+"id":65,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"Compare Korea's Chuseok harvest festival with an Indian harvest festival (such as Pongal), highlighting similarities and differences in rituals, foods, and community participation.",
+"answer":"Both Chuseok in Korea and Pongal in India celebrate a plentiful harvest, bring families home together, and express gratitude through traditional foods and folk celebrations. A similarity is sharing harvest delicacies—'songpyeon' rice cakes during Chuseok and sweet rice pongal during Pongal—alongside regional dances and games. A difference is that Chuseok centres on the 'charye' ancestral memorial ceremony and visiting graves, whereas Pongal focuses on thanking the Sun God, nature, and cattle.",
+"keywords":[
+"Chuseok",
+"Pongal",
+"gratitude",
+"songpyeon",
+"charye",
+"similarities and differences"
+],
+"explanation":"Comparing harvest festivals reveals universal human thankfulness for food and family ties across cultures, even when specific rituals differ. Students use the planning table to organise these comparisons clearly. This task is on pages 7–8 of the Workbook PDF (pages 89–90).",
+"page_number":"8 (Workbook p. 90)"
+},
+{
+"id":66,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":48,
+"max":78
+},
+"question":"Explain why the 'Sequential Dance of Cultivation' requires following a strict order and how changing the order disrupts natural rhythm.",
+"answer":"Cultivation follows a strict interconnected sequence because each farming step prepares the exact conditions needed for the next stage. For instance, soil must be ploughed and puddled before seeds sprout, seedlings need 4 to 5 weeks before transplanting, and crops require consistent irrigation for 120 days before harvesting, threshing, and milling. Changing this order prevents seeds from taking root or grains from maturing, disrupting Earth's natural rhythm.",
+"keywords":[
+"strict sequence",
+"ploughing and puddling",
+"transplanting",
+"120 days",
+"natural rhythm"
+],
+"explanation":"Farming cannot be hurried out of order because plant biology depends on timed moisture, light, and soil preparation. Respecting this sequence reflects patience and harmony with nature. This concept is presented on Visual Guide page 12 and page 13 (NCERT p. 203).",
+"page_number":"12 (Visual Guide)"
+},
+{
+"id":67,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"Describe how the four poetic devices—alliteration, imagery, personification, and metaphor—are used in 'Harvest Hymn' with one example of each.",
+"answer":"Alliteration repeats initial consonant sounds to create rhythm, as in 'Bright and munificent lord of the morn!'. Imagery appeals to the senses to picture abundant fields, as in 'The wealth of our valleys, new-garnered and ripe'. Personification gives human traits to the Earth in 'sweet and omnipotent mother'. Metaphor makes an implied comparison between the divine and the agricultural cycle in 'Thou art the Seed and the Scythe'.",
+"keywords":[
+"alliteration",
+"imagery",
+"personification",
+"metaphor",
+"Seed and Scythe"
+],
+"explanation":"Sarojini Naidu weaves multiple poetic devices together so the hymn sounds musical while conveying deep spiritual ideas. Identifying each device shows how form and meaning reinforce each other. These examples are analysed on page 5 (NCERT p. 177) and Visual Guide page 6.",
+"page_number":"5 (NCERT p. 177)"
+},
+{
+"id":68,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"How do the human tributes and musical instruments differ across Men's Voices, Women's Voices, and All Voices in the poem?",
+"answer":"In Men's Voices, villagers offer songs, thanks, garlands, the gold of fields and fruit, and valley wealth, accompanied by cymbal, flute, and pipe. In Women's Voices, they offer love, garlands, and gifts of Earth's opulent giving, accompanied by cymbal and drum. Finally, All Voices offer their very lives, labours, and prayers, accompanied by cymbal and prayer, showing an escalation from material harvests to complete self-dedication.",
+"keywords":[
+"tributes",
+"instruments",
+"gold of fields",
+"love and opulent gifts",
+"lives and labours",
+"cymbal"
+],
+"explanation":"Noticeably, the cymbal remains common to all three sections, uniting the community's music, while the offerings deepen from crops to personal devotion. This progression is mapped in the 'Voices of the Harvest Matrix'. This is on pages 2–3 (NCERT pp. 174–175) and Visual Guide page 11.",
+"page_number":"11 (Visual Guide)"
+},
+{
+"id":69,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":80
+},
+"question":"Rewrite these lines in modern English and explain their deeper meaning: (a) 'We bring thee our lives and our labours for tribute,' (b) 'Grant us thy succour, thy counsel, thy care.'",
+"answer":"Modern English: (a) 'We bring you our lives and our hard work as a mark of respect and gratitude.' (b) 'Grant us your help, your wise advice, and your loving care.' Deeper meaning: These lines show complete humility before the Creator, dedicating everyday existence and work to God while asking for strength, wisdom, and protection to continue living well.",
+"keywords":[
+"lives and hard work",
+"help and advice",
+"humility",
+"dedication",
+"wisdom and protection"
+],
+"explanation":"By translating 'thee', 'thy', 'labours', 'succour', and 'counsel' into modern words, the prayerful intention of the final stanza becomes clear. Villagers recognise that human effort needs divine support. This draws on page 3 (NCERT p. 175) and page 1 (Workbook p. 83).",
+"page_number":"3 (NCERT p. 175)"
+},
+{
+"id":70,
+"subject":"English",
+"chapter":"Harvest Hymn-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"Explain how a group presentation on a traditional Indian harvest dish should be structured using the textbook guidelines, including key details to cover.",
+"answer":"According to the textbook, a group presentation should begin by greeting the audience and introducing all group members and the topic. Next, speakers should outline the presentation structure, share details in sequence, conclude by summarising, and thank the audience. Key details to cover include the dish's name and regional names, ingredients, preparation method, how it is served, its taste, related harvest rituals, and a personal memory.",
+"keywords":[
+"greet audience",
+"introduce members",
+"structure",
+"ingredients and preparation",
+"rituals",
+"summarise and thank"
+],
+"explanation":"Following a clear speaking framework helps every group member contribute smoothly and keeps listeners engaged. Sharing cultural rituals and personal memories connects harvest food to family heritage. These presentation steps are detailed on pages 10–11 (NCERT pp. 182–183).",
+"page_number":"11 (NCERT p. 183)"
+}
+]
