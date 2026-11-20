@@ -1,0 +1,1583 @@
+[
+{
+"id":1,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"Define pressure and write its mathematical formula.",
+"answer":"Pressure is defined as the force acting per unit area on a surface. Its formula is Pressure = Force / Area.",
+"keywords":[
+"pressure",
+"force",
+"unit area",
+"Force / Area"
+],
+"explanation":"When a force acts perpendicular to a surface, its effect depends on the area over which it is spread. Dividing the applied force by the area gives the pressure. This concept is discussed on page 2 of the NCERT Chapter 6 PDF.",
+"page_number":"2"
+},
+{
+"id":2,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Name the SI unit of pressure and write its symbol.",
+"answer":"The SI unit of pressure is newton per square metre (N/m²), which is also called a pascal, denoted by the symbol Pa.",
+"keywords":[
+"SI unit",
+"newton per square metre",
+"pascal",
+"Pa"
+],
+"explanation":"Since force is measured in newton and area in square metre, the SI unit of pressure is N/m². It is given the special name pascal with symbol Pa. This is discussed on page 3 of the NCERT Chapter 6 PDF.",
+"page_number":"3"
+},
+{
+"id":3,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"What is atmospheric pressure?",
+"answer":"The pressure exerted by the envelope of air surrounding the Earth on all objects is called atmospheric pressure.",
+"keywords":[
+"atmospheric pressure",
+"envelope of air",
+"Earth",
+"all objects"
+],
+"explanation":"The Earth is surrounded by a layer of air called the atmosphere. Because air has mass and weight, it pushes against everything around us from all directions. This is discussed on page 7 of the NCERT Chapter 6 PDF.",
+"page_number":"7"
+},
+{
+"id":4,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":20
+},
+"question":"What is wind?",
+"answer":"Wind is moving air that flows from one place to another due to differences in air pressure.",
+"keywords":[
+"wind",
+"moving air",
+"differences",
+"air pressure"
+],
+"explanation":"Air pressure is not the same everywhere on Earth. Whenever a pressure difference exists between two regions, air starts moving, which we experience as wind. This is discussed on page 6 of the Chapter 5 Learning Resource PDF.",
+"page_number":"6"
+},
+{
+"id":5,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":20
+},
+"question":"In which direction does air always flow with respect to air pressure?",
+"answer":"Air always moves from a region of high air pressure to a region of low air pressure.",
+"keywords":[
+"high air pressure",
+"low air pressure",
+"air moves"
+],
+"explanation":"When two connected regions have unequal air pressure, air rushes out of the higher-pressure region into the lower-pressure region until the pressures equalize. This fundamental principle is discussed on page 9 of the NCERT Chapter 6 PDF.",
+"page_number":"9"
+},
+{
+"id":6,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":20
+},
+"question":"What is a storm?",
+"answer":"Strong winds accompanied by rain, hail, or snow are called a storm.",
+"keywords":[
+"strong winds",
+"rain",
+"storm"
+],
+"explanation":"When warm moist air rises and cools, moisture condenses into clouds and falls as rain, hail, or snow along with strong winds. Storms are frequent in hot, humid tropical regions like India. This is discussed on page 11 of the NCERT Chapter 6 PDF.",
+"page_number":"11"
+},
+{
+"id":7,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":18
+},
+"question":"Define a thunderstorm.",
+"answer":"A storm accompanied by lightning and thunder is called a thunderstorm.",
+"keywords":[
+"storm",
+"lightning",
+"thunder",
+"thunderstorm"
+],
+"explanation":"During severe storms, strong upward and downward winds generate static electric charges in clouds. When these charges discharge, they produce lightning and thunder, forming a thunderstorm. This is discussed on page 12 of the NCERT Chapter 6 PDF.",
+"page_number":"12"
+},
+{
+"id":8,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"What is the eye of a cyclone?",
+"answer":"The eye of a cyclone is the calm region of lowest pressure located at the centre of the cyclone.",
+"keywords":[
+"eye",
+"calm",
+"lowest pressure",
+"centre"
+],
+"explanation":"A cyclone consists of spiralling winds around a central region. At the very centre lies the eye, which has the lowest air pressure and relatively calm winds. This is discussed on page 13 of the NCERT Chapter 6 PDF.",
+"page_number":"13"
+},
+{
+"id":9,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Name the two types of lightning and state which one is more dangerous.",
+"answer":"The two types of lightning are cloud-to-cloud lightning and cloud-to-ground lightning. Cloud-to-ground lightning is more dangerous.",
+"keywords":[
+"cloud-to-cloud",
+"cloud-to-ground",
+"more dangerous"
+],
+"explanation":"Lightning occurs between two charged clouds or between a charged cloud and the Earth. Cloud-to-ground lightning poses direct danger to life, trees, and buildings on Earth. This is discussed on page 11 of the Chapter 5 Learning Resource PDF.",
+"page_number":"11"
+},
+{
+"id":10,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Which department in India constantly monitors cyclones and thunderstorms and issues periodic alerts?",
+"answer":"The India Meteorological Department (IMD) constantly monitors cyclones and thunderstorms in India and issues weather alerts and warnings.",
+"keywords":[
+"India Meteorological Department",
+"IMD",
+"monitors",
+"alerts"
+],
+"explanation":"The IMD tracks storms using weather monitoring satellites and predicts cyclone paths. Its timely alerts help coastal communities prepare and evacuate safely. This is discussed on page 14 and page 15 of the NCERT Chapter 6 PDF.",
+"page_number":"14"
+},
+{
+"id":11,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Name any two regional pre-monsoon thunderstorms in India and the regions where they occur.",
+"answer":"Kalboishakhi occurs in West Bengal, Bihar, and Jharkhand, while Bordoisila occurs in Assam.",
+"keywords":[
+"Kalboishakhi",
+"Bordoisila",
+"West Bengal",
+"Assam"
+],
+"explanation":"Isolated, localised pre-monsoon thunderstorms occur in different parts of India under regional names. They bring early rainfall that supports the growth of kharif crops. This is discussed on page 12 of the NCERT Chapter 6 PDF.",
+"page_number":"12"
+},
+{
+"id":12,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"What is a lightning conductor?",
+"answer":"A lightning conductor is a metallic rod installed along a building to safely transfer electric charges from lightning into the ground.",
+"keywords":[
+"lightning conductor",
+"metallic rod",
+"electric charges",
+"ground"
+],
+"explanation":"Fixed higher than the tallest point of a building and buried deep in the ground, a lightning conductor provides an easy path for lightning charges. This prevents damage and fire in buildings. This is discussed on page 13 of the NCERT Chapter 6 PDF.",
+"page_number":"13"
+},
+{
+"id":13,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":12,
+"max":25
+},
+"question":"Name the two practical units used to express air pressure and state their value in pascals.",
+"answer":"The practical units of air pressure are millibar (mb) and hectopascal (hPa), and each is equal to 100 pascals (Pa).",
+"keywords":[
+"millibar",
+"hectopascal",
+"100 Pa",
+"practical units"
+],
+"explanation":"Although the SI unit of pressure is pascal, meteorologists commonly use millibars and hectopascals in weather studies. Both units are equivalent to 100 Pa. This is discussed on page 8 of the NCERT Chapter 6 PDF.",
+"page_number":"8"
+},
+{
+"id":14,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"How does atmospheric pressure change as we move to higher altitudes, and why?",
+"answer":"Atmospheric pressure decreases with height because there is less air above us and air density decreases at higher altitudes.",
+"keywords":[
+"decreases",
+"height",
+"less air",
+"altitude"
+],
+"explanation":"Atmospheric pressure is greatest at sea level where the air column above is largest. As we climb mountains or go higher, the air column above shrinks and air density drops. This is discussed on page 5 of the Chapter 5 Learning Resource PDF.",
+"page_number":"5"
+},
+{
+"id":15,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":12,
+"max":25
+},
+"question":"State one factor on which the pressure exerted by a water column depends, and one factor on which it does not depend.",
+"answer":"Liquid pressure depends on the height of the water column, and it does not depend on the diameter of the pipe or total volume of water.",
+"keywords":[
+"height of water column",
+"depends",
+"diameter",
+"volume"
+],
+"explanation":"Activities with narrow and wide pipes filled to equal levels show equal balloon bulges. Thus, liquid pressure is determined by depth or height rather than container width or water weight. This is discussed on page 4 of the NCERT Chapter 6 PDF.",
+"page_number":"4"
+},
+{
+"id":16,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"How does the speed of moving air depend on the pressure difference between two regions?",
+"answer":"The speed of the moving air is higher when the pressure difference between the two regions is greater.",
+"keywords":[
+"speed of air",
+"higher",
+"pressure difference"
+],
+"explanation":"Winds are caused by differences in air pressure. A steeper difference between high-pressure and low-pressure regions pushes air faster, resulting in stronger winds. This is discussed on page 10 of the NCERT Chapter 6 PDF.",
+"page_number":"10"
+},
+{
+"id":17,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Which part of a cyclone contains the strongest winds and heaviest rainfall?",
+"answer":"The eyewall, made of dense clouds immediately surrounding the eye of the cyclone, contains the strongest winds and heaviest rain.",
+"keywords":[
+"eyewall",
+"dense clouds",
+"strongest winds",
+"heaviest rain"
+],
+"explanation":"While the eye at the centre of a cyclone is calm, it is surrounded by a ring of thick clouds called the eyewall. The eyewall is the most violent and destructive part of the storm. This is discussed on page 12 of the Chapter 5 Learning Resource PDF.",
+"page_number":"12"
+},
+{
+"id":18,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"How are 'mango showers' useful to farmers in Kerala, Karnataka, and Tamil Nadu?",
+"answer":"Mango showers are local pre-monsoon thunderstorms that support the ripening of mangoes and help the growth of coffee plants in Karnataka.",
+"keywords":[
+"mango showers",
+"ripening of mangoes",
+"coffee plants",
+"Karnataka"
+],
+"explanation":"Regional pre-monsoon thunderstorms in southern India bring beneficial early rain. They aid fruit ripening and support plantation crops before the main monsoon arrives. This is discussed on page 12 of the NCERT Chapter 6 PDF.",
+"page_number":"12"
+},
+{
+"id":19,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":12,
+"max":25
+},
+"question":"Why does a balloon burst when it is overfilled with air?",
+"answer":"When overfilled, the increasing internal air pressure pushes harder on the rubber walls until it exceeds what the stretched rubber can withstand, causing it to burst.",
+"keywords":[
+"overfilled",
+"air pressure",
+"rubber walls",
+"bursts"
+],
+"explanation":"Adding more air packs more air particles inside, increasing pressure against the walls in all directions. Once this outward force overcomes the strength of the stretched rubber, the balloon ruptures. This is discussed on page 6 of the Learning Resource Key PDF.",
+"page_number":"6"
+},
+{
+"id":20,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":12,
+"max":25
+},
+"question":"A perpendicular force of 100 N is applied on a cardboard sheet of area 2 m². Calculate the pressure applied on the cardboard.",
+"answer":"Pressure = Force / Area = 100 N / 2 m² = 50 N/m² (or 50 Pa).",
+"keywords":[
+"Force / Area",
+"100 N",
+"2 m²",
+"50 N/m²",
+"50 Pa"
+],
+"explanation":"Using the formula Pressure = Force / Area, we divide 100 N by 2 m² to obtain 50 N/m². Since 1 N/m² equals 1 pascal, the pressure is 50 Pa. This calculation is shown on page 3 of the NCERT Chapter 6 PDF.",
+"page_number":"3"
+},
+{
+"id":21,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":12,
+"max":25
+},
+"question":"When an inflated balloon and an uninflated balloon are connected by a straw, why does the airflow stop after both balloons reach nearly the same size?",
+"answer":"The flow of air stops because the air pressure in both balloons becomes equal, removing the pressure difference needed for air movement.",
+"keywords":[
+"air pressure",
+"equal",
+"airflow stops",
+"same size"
+],
+"explanation":"Air flows from the high-pressure inflated balloon to the low-pressure uninflated balloon. Once both attain equal pressure, there is no longer a pressure difference to drive the flow. This is discussed on page 9 of the NCERT Chapter 6 PDF.",
+"page_number":"9"
+},
+{
+"id":22,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Why does a school bag with broad straps feel more comfortable on the shoulders than a bag of the same weight with narrow straps?",
+"answer":"The weight of the bag acts as a downward force on our shoulders. Broad straps spread this weight over a larger area, which reduces the pressure on the shoulders and makes it comfortable. Narrow straps concentrate the same weight on a smaller area, causing high pressure and pain.",
+"keywords":[
+"weight",
+"larger area",
+"reduces pressure",
+"smaller area",
+"high pressure"
+],
+"explanation":"Since Pressure = Force / Area, increasing the contact area for the same weight lowers the pressure. Broad straps distribute the load over more shoulder area, preventing discomfort. This example is discussed on page 2 and page 3 of the NCERT Chapter 6 PDF.",
+"page_number":"2"
+},
+{
+"id":23,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Why does the pointed end of an iron nail enter wood much more easily than its flat head?",
+"answer":"The pointed end of a nail has a very small surface area. When hammered, the applied force acts on this tiny area and produces very high pressure, helping it penetrate the wood easily. The flat head has a larger area, which spreads the force and produces less pressure.",
+"keywords":[
+"pointed end",
+"smaller area",
+"high pressure",
+"flat head",
+"larger area"
+],
+"explanation":"Pressure is inversely proportional to the area over which a force acts. A sharp tip concentrates the hammering force onto a tiny area to generate enough pressure to pierce wood. This is discussed on page 3 and page 4 of the NCERT Chapter 6 PDF.",
+"page_number":"4"
+},
+{
+"id":24,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"Why are overhead water tanks always placed at a height?",
+"answer":"The pressure exerted by a liquid increases with the height of its column. Placing overhead water tanks at a height increases the height of the water column, which creates greater water pressure at the taps and ensures a strong, steady stream of water.",
+"keywords":[
+"height",
+"water column",
+"greater water pressure",
+"stronger flow"
+],
+"explanation":"Water pressure at any point depends directly on the vertical height of the water column above it. Elevating the tank boosts pressure throughout the pipes down to the taps. This is discussed on page 4 and page 5 of the NCERT Chapter 6 PDF.",
+"page_number":"5"
+},
+{
+"id":25,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Explain why the base of a dam is constructed much broader than its top.",
+"answer":"Water pressure increases with depth, so the stored water exerts very large horizontal pressure near the bottom of the dam. A broader base gives the dam enough strength and stability to withstand this high horizontal water pressure safely without collapsing.",
+"keywords":[
+"depth",
+"horizontal water pressure",
+"broader base",
+"strength",
+"stability"
+],
+"explanation":"Stored water pushes horizontally on dam walls and vertically on the floor. Because horizontal pressure is highest at the deepest level, engineers build dams widest at the bottom. This is discussed on page 6 of the NCERT Chapter 6 PDF.",
+"page_number":"6"
+},
+{
+"id":26,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"Why do people place a round piece of cloth on their head before carrying heavy loads like pots or vegetable baskets?",
+"answer":"Placing a round piece of cloth increases the area of contact between the heavy load and the head. Because the same weight is spread over a larger area, the pressure on the head decreases, reducing pain and making the load easier to carry.",
+"keywords":[
+"round cloth",
+"increases area",
+"same weight",
+"reduces pressure"
+],
+"explanation":"A pot or basket resting directly on the head has a small contact area, resulting in high pressure and discomfort. A cloth pad widens the supporting area to lower the pressure. This is discussed on page 3 of the NCERT Chapter 6 PDF.",
+"page_number":"3"
+},
+{
+"id":27,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Mention two destructive effects caused by a cyclone in coastal regions.",
+"answer":"First, extremely high-speed winds during a cyclone uproot trees and knock down houses and electric poles. Second, strong winds push seawater toward the shore as a storm surge, flooding coastal areas, damaging roads and buildings, and disrupting daily life.",
+"keywords":[
+"high-speed winds",
+"uproot trees",
+"storm surge",
+"flooding"
+],
+"explanation":"Cyclones combine violent winds with heavy rainfall and surging ocean water. These forces destroy infrastructure, block roads with debris, and cause prolonged power outages. This is discussed on page 13 of the Chapter 5 Learning Resource PDF and page 14 of the NCERT Chapter 6 PDF.",
+"page_number":"14"
+},
+{
+"id":28,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Do liquids exert pressure only at the bottom of a container? Explain with an observation from the plastic bottle activity.",
+"answer":"No, liquids do not exert pressure only at the bottom; they exert pressure in all directions, including on the side walls. When small holes are made near the bottom around the sides of a water-filled plastic bottle, water flows out through all the side holes.",
+"keywords":[
+"all directions",
+"side walls",
+"plastic bottle",
+"water flows out"
+],
+"explanation":"Making holes around the circumference of a water-filled bottle demonstrates sideways liquid pressure. Water spurting out of leaking pipe joints also shows that liquids push against container walls. This is discussed on page 5 and page 6 of the NCERT Chapter 6 PDF.",
+"page_number":"6"
+},
+{
+"id":29,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Why does a rubber sucker stick firmly when pressed hard against a smooth flat surface?",
+"answer":"When a rubber sucker is pressed against a smooth flat surface, most of the air between its cup and the surface is pushed out, reducing the air pressure inside. The higher atmospheric air pressure outside pushes the sucker firmly against the surface.",
+"keywords":[
+"air pushed out",
+"reduced air pressure",
+"higher atmospheric pressure",
+"sticks firmly"
+],
+"explanation":"Pulling the sucker off requires applying enough force to overcome the difference between outside atmospheric pressure and the low pressure trapped inside the cup. This activity is discussed on page 8 of the NCERT Chapter 6 PDF.",
+"page_number":"8"
+},
+{
+"id":30,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":48
+},
+"question":"If the atmospheric air column exerts a huge force equivalent to 225 kg on a 15 cm × 15 cm area, why are we not crushed under it?",
+"answer":"We are not crushed under the weight of atmospheric pressure because the pressure inside our bodies is equal to the external atmospheric pressure. This internal pressure, caused by the movement of fluids and gases in our tissues and organs, balances the outside pressure.",
+"keywords":[
+"internal pressure",
+"equal",
+"atmospheric pressure",
+"balances",
+"fluids and gases"
+],
+"explanation":"Human bodies exist in pressure equilibrium with the surrounding air. Because outward internal pressure from body fluids and gases cancels inward atmospheric pressure, we do not feel crushed. This is discussed on page 8 of the NCERT Chapter 6 PDF.",
+"page_number":"8"
+},
+{
+"id":31,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":48
+},
+"question":"Explain how a sea breeze is formed during the daytime in coastal areas.",
+"answer":"During the day, land heats up faster than seawater, so the air above the land becomes warmer, lighter, and rises, creating a low-pressure area. Cooler air from the high-pressure region over the sea blows toward the land to take its place, forming a sea breeze.",
+"keywords":[
+"land heats faster",
+"warm air rises",
+"low-pressure area",
+"high-pressure",
+"sea breeze"
+],
+"explanation":"Uneven heating between land and ocean creates a local pressure difference. Air constantly moves from the cooler, high-pressure sea surface toward the warmer, low-pressure land surface during the day. This is discussed on page 9 and page 10 of the NCERT Chapter 6 PDF.",
+"page_number":"10"
+},
+{
+"id":32,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":48
+},
+"question":"Explain why land breeze blows from the land toward the sea at night.",
+"answer":"At night, land cools down faster than seawater, leaving the air above the sea warmer. This warmer air over the sea rises and creates a low-pressure area. Cooler air from the high-pressure region over the land then flows toward the sea as a land breeze.",
+"keywords":[
+"land cools faster",
+"sea warmer",
+"low-pressure",
+"land to sea",
+"land breeze"
+],
+"explanation":"Because water retains heat longer than land, the temperature and pressure gradient reverses at night. Air flows from the cooler land (high pressure) toward the warmer sea (low pressure). This is discussed on page 10 of the NCERT Chapter 6 PDF.",
+"page_number":"10"
+},
+{
+"id":33,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":48
+},
+"question":"What happens when air is blown into the narrow space between two hanging balloons? Give the reason.",
+"answer":"When air is blown between two hanging balloons, they move toward each other. Blowing high-speed air between them creates a low-pressure area in the gap, and the higher air pressure on the outer sides pushes the balloons inward toward each other.",
+"keywords":[
+"move toward each other",
+"high-speed air",
+"low-pressure area",
+"higher air pressure"
+],
+"explanation":"This activity demonstrates that high-speed winds are accompanied by reduced air pressure. Blowing harder lowers the pressure between the balloons further, making them approach each other faster. This is discussed on page 10 of the NCERT Chapter 6 PDF.",
+"page_number":"10"
+},
+{
+"id":34,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Why is it unsafe to stand under a tall isolated tree during a thunderstorm?",
+"answer":"Tall isolated trees are closer to charged clouds and provide an easy path for lightning to reach the ground. If lightning strikes the tree, the electric current can pass through the tree or nearby ground and cause severe injury or death.",
+"keywords":[
+"tall trees",
+"closer to clouds",
+"easy path",
+"electric current",
+"lightning"
+],
+"explanation":"Lightning seeks the easiest path to reach the ground, making tall structures prime targets. Seeking a safe enclosed shelter or crouching in an open low spot is much safer. This is discussed on page 2 and page 6 of the Learning Resource Key PDF.",
+"page_number":"2"
+},
+{
+"id":35,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":45
+},
+"question":"Why should metal objects such as umbrellas with metallic rods or metal fences be avoided during lightning?",
+"answer":"Metals are good conductors of electricity. During lightning, holding an umbrella with a metallic rod or standing near metal fences or poles can provide an easy path for electric charges to pass through our body and cause serious injury.",
+"keywords":[
+"metals",
+"conduct electricity",
+"electric charges",
+"path",
+"injury"
+],
+"explanation":"Because electric discharges from clouds travel readily through conducting materials, metallic objects increase the risk of being struck. Staying away from metal items and water is an essential lightning precaution. This is discussed on page 12 of the NCERT Chapter 6 PDF and page 4 of the Learning Resource Key PDF.",
+"page_number":"12"
+},
+{
+"id":36,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":48
+},
+"question":"What is a storm surge and how high can it reach during a severe cyclone?",
+"answer":"A storm surge is a massive rise of seawater pushed toward the coast by strong cyclone winds, forming a wall of water 3 to 12 metres high. It floods coastal areas and even inland regions, damaging houses, roads, and crops.",
+"keywords":[
+"storm surge",
+"seawater",
+"wall of water",
+"3 to 12 metres",
+"floods"
+],
+"explanation":"Powerful spiralling winds drive ocean water onto the shore ahead of and during a cyclone's landfall. This wall of seawater is one of the deadliest and most destructive features of a cyclone. This is discussed on page 14 of the NCERT Chapter 6 PDF.",
+"page_number":"14"
+},
+{
+"id":37,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Why does a cyclone gradually weaken after crossing the coastline and moving over land?",
+"answer":"A cyclone gets its energy from warm, moist ocean air. Once it reaches land, this supply of warm, moist air is cut off, and the rough land surface creates greater friction, causing the spiralling winds to gradually lose strength.",
+"keywords":[
+"warm moist air",
+"cut off",
+"landfall",
+"friction",
+"lose strength"
+],
+"explanation":"Without warm ocean water to supply water vapour and release heat through condensation, the cyclone's low-pressure engine slows down. However, remaining cloud moisture can still bring heavy rain and flooding. This is discussed on page 13 of the NCERT Chapter 6 PDF and page 2 of the Learning Resource Key PDF.",
+"page_number":"13"
+},
+{
+"id":38,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":50
+},
+"question":"An elephant weighing 20000 N stands on four feet. If the area covered by one foot is 0.25 m², calculate the pressure exerted by the elephant on the ground.",
+"answer":"Area of one foot = 0.25 m². Total area of four feet = 4 × 0.25 m² = 1 m². Force (weight) = 20000 N. Therefore, Pressure = Force / Area = 20000 N / 1 m² = 20000 N/m² (or 20000 Pa).",
+"keywords":[
+"total area",
+"1 m²",
+"20000 N",
+"20000 N/m²",
+"20000 Pa"
+],
+"explanation":"Since the elephant stands on all four feet, its weight is distributed over four times the area of a single foot. Dividing the total weight of 20000 N by the total contact area of 1 m² yields 20000 Pa. This numerical problem is on page 16 of the NCERT Chapter 6 PDF.",
+"page_number":"16"
+},
+{
+"id":39,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":48
+},
+"question":"A rubber sucker M is pressed on a flat smooth surface, and an identical sucker N is pressed on a rough surface. Which sucker will stick and why?",
+"answer":"Sucker M will stick to the flat smooth surface, while sucker N will not stick to the rough surface. On a smooth surface, air is expelled and cannot leak back in, so higher outside air pressure holds M; on a rough surface, air leaks through gaps.",
+"keywords":[
+"M will stick",
+"N will not stick",
+"smooth surface",
+"rough surface",
+"air pressure"
+],
+"explanation":"A rubber sucker relies on maintaining lower air pressure inside the cup than the atmospheric pressure outside. A rough surface prevents an airtight seal, letting outside air enter and equalize the pressure. This question is on page 15 of the NCERT Chapter 6 PDF.",
+"page_number":"15"
+},
+{
+"id":40,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":48
+},
+"question":"You live on the second floor of a three-storeyed building and your friend lives on the first floor, while the overhead tank is on the top floor. Who will get a more powerful stream of tap water and why?",
+"answer":"Your friend on the first floor will receive a more powerful stream of tap water. Because the first floor is farther below the overhead tank, the height of the water column above the first-floor taps is greater, producing higher water pressure.",
+"keywords":[
+"first floor",
+"more powerful stream",
+"greater height",
+"water column",
+"higher pressure"
+],
+"explanation":"Liquid pressure increases directly with the vertical depth below the free water surface in the tank. Since the first-floor tap sits deeper below the rooftop tank than the second-floor tap, water flows out with greater force there. This is discussed on page 5 of the NCERT Chapter 6 PDF.",
+"page_number":"5"
+},
+{
+"id":41,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"What happens when air is sucked out of an empty plastic bottle and its mouth is immediately closed? Explain why.",
+"answer":"The plastic bottle gets crushed or caves inwards. When air is sucked out, the air pressure inside the bottle becomes much lower than the atmospheric pressure outside, so the greater outside air pressure pushes the bottle walls inward.",
+"keywords":[
+"crushed",
+"caves inwards",
+"less pressure inside",
+"outside atmospheric pressure"
+],
+"explanation":"Normally, equal air pressure inside and outside an open bottle keeps its shape intact. Removing air from inside creates a pressure imbalance that allows external atmospheric pressure to push the plastic inward. This is discussed on page 1 of the Learning Resource Key PDF.",
+"page_number":"1"
+},
+{
+"id":42,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":48
+},
+"question":"Why are holes often made in large banners and hoardings put up outdoors?",
+"answer":"Holes allow strong winds to pass easily through banners and hoardings instead of pushing against a solid surface. This reduces the wind pressure acting on the banner and lowers the risk of the banner tearing or its frame collapsing in strong winds.",
+"keywords":[
+"holes",
+"wind passes through",
+"reduces wind pressure",
+"prevent tearing"
+],
+"explanation":"Moving air exerts force and pressure on obstacles in its path. Providing openings lets air flow through, preventing a large pressure build-up against the surface of the hoarding. This question is on page 17 of the NCERT Chapter 6 PDF.",
+"page_number":"17"
+},
+{
+"id":43,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"List three safety precautions people should follow if they are outdoors or travelling during lightning.",
+"answer":"During lightning, people should stay away from tall objects like trees and poles, and move out of water bodies. If no indoor shelter is available, they should find a low-lying open spot and crouch down with minimal ground contact instead of lying flat. If travelling in a closed car or bus, they should remain inside.",
+"keywords":[
+"tall objects",
+"crouch down",
+"not lie flat",
+"closed car",
+"get out of water"
+],
+"explanation":"Taking proper precautions reduces the chance of being struck directly or injured by ground currents during a thunderstorm. Enclosed vehicles act as safe enclosures, while crouching minimizes both height and ground contact. These safety rules are discussed on page 12 of the NCERT Chapter 6 PDF.",
+"page_number":"12"
+},
+{
+"id":44,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Name and describe the three main structural parts of a cyclone.",
+"answer":"The three main parts of a cyclone are the eye, the eyewall, and the spiral rainbands. The eye is the calm centre of lowest pressure with light winds and clear skies. Around it lies the eyewall, a ring of dense clouds with the strongest winds and heaviest rain, surrounded by swirling spiral rainbands of clouds.",
+"keywords":[
+"eye",
+"eyewall",
+"spiral rainbands",
+"calm centre",
+"strongest winds"
+],
+"explanation":"A mature cyclone is an organized spiral storm system. Understanding its three distinct zones explains why calm weather at the centre is immediately preceded and followed by violent eyewall winds. This is discussed on page 12 and page 13 of the Chapter 5 Learning Resource PDF.",
+"page_number":"12"
+},
+{
+"id":45,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"How do weather monitoring satellites and warnings from the India Meteorological Department (IMD) help protect people during cyclones?",
+"answer":"Weather monitoring satellites help track cyclones and predict their path in advance. Based on this data, the IMD issues timely alerts and warnings, giving people time to avoid going into the sea, prepare an emergency kit, and move to designated cyclone shelters, thereby saving lives and reducing damage.",
+"keywords":[
+"satellites",
+"predict path",
+"IMD",
+"emergency kit",
+"cyclone shelters"
+],
+"explanation":"Modern forecasting and disaster preparedness depend on continuous monitoring of wind speed, air pressure, and humidity. Early alerts enable fishermen to stay ashore and residents in low-lying coastal areas to evacuate safely. This is discussed on page 14 of the NCERT Chapter 6 PDF.",
+"page_number":"14"
+},
+{
+"id":46,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Describe an activity using two transparent pipes of different diameters to show that liquid pressure depends on the height of the water column and not on the weight or volume of water.",
+"answer":"Take two transparent pipes of equal length but different diameters (one narrow and one wide) and attach a rubber balloon to one end of each. Fill both pipes with water to the exact same height. Both balloons bulge to the same extent even though the wider pipe holds more water. Adding more water to increase the height makes the balloon bulge more, proving pressure depends on height.",
+"keywords":[
+"different diameters",
+"same level",
+"bulge equally",
+"height of water column",
+"not weight"
+],
+"explanation":"If the total weight or volume of water controlled the pressure, the balloon on the wider pipe would bulge more. Observing equal bulges at equal water heights proves that only vertical column height governs liquid pressure. This activity is described on page 4 and page 5 of the NCERT Chapter 6 PDF.",
+"page_number":"4"
+},
+{
+"id":47,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Describe the inverted paper plate and chart paper activity to show that air exerts pressure on objects.",
+"answer":"Place an inverted paper plate attached to a stick on a flat surface. First cover it with a folded chart paper sheet and lift it using the stick; it rises easily. Then replace it with an identical unfolded chart paper sheet of the same weight and lift again; much more effort is needed because the larger area experiences greater downward atmospheric force.",
+"keywords":[
+"inverted paper plate",
+"folded chart paper",
+"unfolded sheet",
+"same weight",
+"greater force"
+],
+"explanation":"Since both chart papers have identical weight, the extra effort required to lift the unfolded sheet cannot come from gravity. Instead, atmospheric air pushes down across the larger surface area, demonstrating air pressure. This activity is described on page 6 and page 7 of the NCERT Chapter 6 PDF.",
+"page_number":"7"
+},
+{
+"id":48,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"How does uneven heating between the Equator and the Poles create large-scale wind currents on Earth?",
+"answer":"Regions near the Equator receive more direct sunlight than the Poles, so warm air near the Equator rises and creates a low-pressure belt while moving toward the poles. Meanwhile, cooler, denser air at the Poles sinks to create high-pressure regions and flows toward the Equator, establishing continuous global wind circulation.",
+"keywords":[
+"Equator",
+"more sunlight",
+"warm air rises",
+"low pressure",
+"cool air sinks"
+],
+"explanation":"Because the Sun's rays hit nearly straight on at the Equator and at an angle near high latitudes, Earth's surface heats unevenly. This temperature contrast drives global pressure belts and wind patterns. This is discussed on page 7 and page 8 of the Chapter 5 Learning Resource PDF.",
+"page_number":"8"
+},
+{
+"id":49,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Describe an activity using two balloons and a drinking straw to demonstrate that air moves from a high-pressure region to a low-pressure region.",
+"answer":"Take two similar thin rubber balloons and a drinking straw. Secure one end of the straw into an uninflated balloon using a thread or rubber band. Inflate the second balloon, hold its neck so air does not escape, and secure the free end of the straw into it. Air moves from the inflated high-pressure balloon to the uninflated low-pressure balloon until both become nearly equal in size.",
+"keywords":[
+"two balloons",
+"drinking straw",
+"inflated",
+"high pressure",
+"low pressure"
+],
+"explanation":"The stretched inflated balloon contains air at higher pressure than the uninflated one. Connecting them allows air to rush down the pressure gradient until equilibrium is reached. This activity is described on page 9 of the NCERT Chapter 6 PDF.",
+"page_number":"9"
+},
+{
+"id":50,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Why can weak roofs of houses get blown away during high-speed wind storms, and why is keeping doors and windows open safer?",
+"answer":"High-speed winds blowing over a roof reduce the air pressure above it, creating a low-pressure area, while the still air inside the house remains at higher pressure and pushes the roof upward. If the roof is weak, it lifts off. Keeping doors and windows open lets wind flow through the house, balancing inside and outside pressures.",
+"keywords":[
+"high-speed winds",
+"low pressure above",
+"higher pressure inside",
+"doors and windows open",
+"balancing pressure"
+],
+"explanation":"As demonstrated by high-speed air lowering air pressure, fast winds over a house create an upward lifting force across the roof. Equalizing pressure through open windows reduces this upward push. This is discussed on page 11 of the NCERT Chapter 6 PDF.",
+"page_number":"11"
+},
+{
+"id":51,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Explain step by step how a thunderstorm develops in hot and humid tropical regions.",
+"answer":"When land gets heated, warm moist air rises and creates a low-pressure area, and cooler surrounding air rushes in and also heats up and rises, forming continuous wind circulation. As the rising air expands and cools, moisture condenses into water droplets and ice particles at great heights. Strong upward and downward winds rub them together, generating lightning and thunder with heavy rain.",
+"keywords":[
+"warm moist air",
+"low-pressure area",
+"condenses",
+"upward and downward winds",
+"lightning and thunder"
+],
+"explanation":"Thunderstorms require moisture and strong vertical winds, both common in tropical regions like India. Continuous convection carries water droplets high enough to freeze and collide, building storm clouds and electrical charges. This process is discussed on page 11 and page 12 of the NCERT Chapter 6 PDF.",
+"page_number":"11"
+},
+{
+"id":52,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Explain the process by which static electric charges form, separate, and cause lightning during a thunderstorm.",
+"answer":"Strong upward and downward winds inside clouds cause water droplets and ice particles to rub against each other, developing static electric charges. Lighter positively charged ice particles rise to the upper part of the cloud, while heavier negatively charged water droplets stay at the bottom. When charge buildup becomes huge, air loses its insulating property and a sudden electric discharge occurs as lightning.",
+"keywords":[
+"rubbing",
+"positively charged",
+"negatively charged",
+"charge separation",
+"electric discharge"
+],
+"explanation":"The negatively charged lower cloud also induces positive charges on the ground, trees, and buildings below. Once the charge grows large enough to break down the insulating air, lightning flashes within clouds, between clouds, or to the ground. This is discussed on page 12 of the NCERT Chapter 6 PDF.",
+"page_number":"12"
+},
+{
+"id":53,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"How is thunder produced during a lightning strike? Explain the role of air in this process.",
+"answer":"Normally, air acts as an electrical insulator and prevents opposite charges from meeting. When charge buildup in clouds becomes very large, air breaks down and allows a sudden flow of electric charges as lightning. This lightning rapidly heats up the surrounding air, causing it to expand suddenly and produce a loud sound called thunder.",
+"keywords":[
+"insulator",
+"air breaks down",
+"rapidly heats",
+"expand",
+"thunder"
+],
+"explanation":"Thunder is not caused by cooling, nor by clouds physically crashing; rather, it is the sound of air expanding violently due to intense, sudden heating from an electric discharge. This is discussed on page 12 of the NCERT Chapter 6 PDF and page 5 of the Learning Resource Key PDF.",
+"page_number":"12"
+},
+{
+"id":54,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"Describe the construction and working of a lightning conductor in protecting a building.",
+"answer":"A lightning conductor is a metallic rod, usually made of copper or aluminium, installed along the walls of a building during construction. Its pointed upper end is kept higher than the highest point of the building, while its lower end is connected by a thick wire buried deep in the ground. When lightning strikes, the rod safely carries the electric charge into the ground.",
+"keywords":[
+"metallic rod",
+"pointed end",
+"highest point",
+"buried in ground",
+"safe path"
+],
+"explanation":"Because lightning takes the easiest conducting path to Earth, the tall pointed metal rod intercepts the discharge before it hits the building structure. Routing the current into the Earth prevents structural damage or fire. This is discussed on page 13 of the NCERT Chapter 6 PDF and page 11 of the Chapter 5 Learning Resource PDF.",
+"page_number":"13"
+},
+{
+"id":55,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Explain step by step how a cyclone forms over warm ocean waters.",
+"answer":"Warm, moist air above heated ocean water rises, and its water vapour condenses into raindrops, releasing heat back into the atmosphere. This released heat warms the rising air further, making it rise higher and creating a very low-pressure area at the centre. Surrounding air rushes in and begins spinning due to the Earth's rotation, repeating into a spiralling cyclone.",
+"keywords":[
+"warm ocean",
+"condenses",
+"releases heat",
+"low-pressure area",
+"Earth's rotation"
+],
+"explanation":"During evaporation water absorbs heat, and during condensation that heat returns to fuel upward air movement. Combined with Earth's rotation, this continuous heat-driven cycle builds high-speed winds revolving around a low-pressure eye. This is discussed on page 13 of the NCERT Chapter 6 PDF.",
+"page_number":"13"
+},
+{
+"id":56,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"Describe three ways in which flooding and seawater intrusion caused by a cyclone harm coastal communities even after it moves inland.",
+"answer":"First, seawater pushed inland contaminates freshwater drinking sources. Second, salt in the seawater makes farmland soil less fertile, damaging crops. Third, heavy accompanying rainfall causes rivers to overflow and triggers landslides, while fallen trees and debris block roads and cause days-long power outages that disrupt emergency services.",
+"keywords":[
+"contaminates drinking water",
+"soil less fertile",
+"rivers overflow",
+"landslides",
+"power outages"
+],
+"explanation":"Even as wind speeds drop over land, the moisture carried by cyclone clouds causes prolonged heavy rain. Together with coastal saltwater intrusion, recovery of water supplies, agriculture, and infrastructure can take months or years. This is discussed on page 14 of the NCERT Chapter 6 PDF.",
+"page_number":"14"
+},
+{
+"id":57,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":78
+},
+"question":"There are two boats, A and B. Boat A has a base area of 7 m² with 5 persons seated in it, while Boat B has a base area of 3.5 m² with 3 persons seated in it. If each person weighs 700 N, find which boat experiences more pressure on its base and by how much.",
+"answer":"For Boat A: Total force = 5 × 700 N = 3500 N, Area = 7 m², so Pressure = 3500 / 7 = 500 N/m² (Pa). For Boat B: Total force = 3 × 700 N = 2100 N, Area = 3.5 m², so Pressure = 2100 / 3.5 = 600 N/m² (Pa). Boat B experiences more pressure by 600 - 500 = 100 Pa.",
+"keywords":[
+"3500 N",
+"500 Pa",
+"2100 N",
+"600 Pa",
+"Boat B by 100 Pa"
+],
+"explanation":"Although Boat A carries more total weight, its base area is twice as large as Boat B's. Computing Force / Area for each boat shows that Boat B has 100 N/m² (100 Pa) greater pressure on its base. This problem is on page 17 of the NCERT Chapter 6 PDF.",
+"page_number":"17"
+},
+{
+"id":58,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Two vessels A and B contain water up to the same level, where vessel B has a wider base than vessel A. Compare the pressure at the bottom of the vessels (PA and PB) and the force exerted by water at their bottoms (FA and FB). Give reasons.",
+"answer":"The pressures at the bottom are equal (PA = PB) because liquid pressure depends only on the height of the water column, which is the same in both vessels. However, since Force = Pressure × Area and vessel B has a larger base area than vessel A, the force exerted at the bottom of A is less than that of B (FA < FB).",
+"keywords":[
+"PA = PB",
+"same height",
+"Force = Pressure × Area",
+"larger base area",
+"FA < FB"
+],
+"explanation":"Pressure depends solely on the vertical depth of the water, whereas total force equals pressure multiplied by the bottom surface area. Thus, equal water heights give equal pressures but unequal total forces when base areas differ. This question is on page 16 of the NCERT Chapter 6 PDF.",
+"page_number":"16"
+},
+{
+"id":59,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"Three vessels P, Q, and R of different shapes and widths are connected at the bottom, and water is poured into vessel R until pouring stops. What will be the level of water in all three vessels, and why?",
+"answer":"The level of water will be equal in all three vessels P, Q, and R. Liquid pressure depends only on the height of the liquid column and not on the shape or volume of the container. Therefore, water flows between the connected vessels until the height and pressure at the bottom of all three become equal.",
+"keywords":[
+"equal in all three",
+"height of liquid column",
+"not shape or volume",
+"same pressure"
+],
+"explanation":"If one vessel held a taller water column, it would exert greater pressure at the base and push water into the others. Equilibrium is reached only when every connected vessel stands at the exact same water level. This question is on page 15 of the NCERT Chapter 6 PDF.",
+"page_number":"15"
+},
+{
+"id":60,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"Two identical balloons A and B are attached to side tubes placed at the same height near the bottom of a plastic bottle. When water is filled into the bottle up to a certain height, will both balloons bulge, and will they bulge equally? Explain.",
+"answer":"Yes, both balloons A and B will bulge, and they will bulge equally. Liquids exert pressure on the side walls of a container in all directions, not just at the bottom. Because both balloons are attached at the same height from the bottom, the depth of the water column above them is identical, so they experience equal water pressure.",
+"keywords":[
+"both bulge",
+"bulge equally",
+"pressure on side walls",
+"same height",
+"equal pressure"
+],
+"explanation":"Side outlets demonstrate sideways liquid pressure, while identical heights ensure identical water column pressure on both balloons. Neither balloon receives more pressure because liquid pressure acts equally in all directions at a given depth. This question is on page 17 of the NCERT Chapter 6 PDF.",
+"page_number":"17"
+},
+{
+"id":61,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"A boy first lies horizontally on a loose sand bed and then stands vertically on the same sand bed. In which case does he sink more into the sand? Explain using pressure.",
+"answer":"The boy sinks more into the sand when standing vertically. Although his body weight (force) remains the same in both positions, standing concentrates his entire weight onto the small area of his feet, creating much higher pressure. Lying horizontally spreads the same weight over a larger area, reducing pressure.",
+"keywords":[
+"standing vertically",
+"same weight",
+"smaller area",
+"higher pressure",
+"larger area"
+],
+"explanation":"Because Pressure = Force / Area, a smaller contact area produces greater downward pressure for the same body weight. That higher pressure pushes the loose sand grains aside more deeply under his feet. This question is on page 16 of the NCERT Chapter 6 PDF and page 1 of the Level 3 Worksheet PDF.",
+"page_number":"16"
+},
+{
+"id":62,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"Two small holes are made at different heights on the side of a water-filled plastic bottle. From which hole does water come out faster, and what does this show about liquid pressure?",
+"answer":"Water comes out faster from the lower hole than from the upper hole. This happens because the height of the water column above the lower hole is greater, resulting in higher sideways water pressure there. This shows that liquid pressure acts on container walls and increases with depth.",
+"keywords":[
+"lower hole",
+"faster",
+"greater water column",
+"higher pressure",
+"increases with depth"
+],
+"explanation":"As depth below the water surface increases, the liquid pushes outward against the bottle walls with greater force. Consequently, water jets out farther and faster from the deeper opening. This concept is covered on page 5 and page 6 of the NCERT Chapter 6 PDF and page 1 of the Level 3 Worksheet PDF.",
+"page_number":"5"
+},
+{
+"id":63,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"Would lightning occur in the same way if air and clouds were very good conductors of electricity? Give reasons for your answer.",
+"answer":"No, lightning would not occur in the same way if air and clouds were very good conductors of electricity. Normally, air acts as an insulator that allows huge static charges to build up and separate until air breaks down suddenly. If air and clouds were good conductors, charges would flow continuously and neutralize immediately without building up for a sudden lightning discharge.",
+"keywords":[
+"no",
+"insulator",
+"charge buildup",
+"continuous flow",
+"neutralize"
+],
+"explanation":"Lightning requires a massive separation and buildup of opposite charges before an abrupt electrical breakdown occurs. Good conductivity would prevent charge separation by letting opposite charges meet freely as soon as they form. This question is on page 17 of the NCERT Chapter 6 PDF and page 2 of the Level 3 Worksheet PDF.",
+"page_number":"17"
+},
+{
+"id":64,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"Why is the eye of a cyclone calm with light winds, whereas the region immediately surrounding it is extremely dangerous?",
+"answer":"At the eye of a cyclone, air pressure is lowest and winds are calm with relatively clear skies. Surrounding the eye is the eyewall, where air rushes inward toward the central low pressure, rises rapidly, and spirals violently due to Earth's rotation, forming dense clouds with the strongest winds and heaviest rainfall.",
+"keywords":[
+"eye",
+"lowest pressure",
+"calm",
+"eyewall",
+"strongest winds",
+"heavy rainfall"
+],
+"explanation":"Because surrounding high-pressure air spirals inward rapidly toward the centre and ascends in the eyewall before reaching the core, the fiercest winds and storm clouds encircle the calm eye. This contrast makes the eyewall the most hazardous region. This is discussed on page 13 of the NCERT Chapter 6 PDF and page 12 of the Chapter 5 Learning Resource PDF.",
+"page_number":"13"
+},
+{
+"id":65,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"On a summer afternoon along the sea coast, trees are seen bending inland due to winds blowing from the sea toward the land. Explain why the wind blows in this direction.",
+"answer":"During a summer afternoon, the land heats up much faster than the nearby sea. The warm air above the land rises and creates a low-pressure area, while the air over the cooler sea remains at higher pressure. Consequently, cooler air rushes from the sea toward the land as a sea breeze, bending coastal trees inland.",
+"keywords":[
+"summer afternoon",
+"land heats faster",
+"low-pressure area",
+"high pressure over sea",
+"sea breeze"
+],
+"explanation":"The direction in which coastal trees bend reveals the direction of the daytime sea breeze. Air always moves from the higher pressure above the cooler ocean toward the lower pressure above the heated land. This concept is shown in Fig. 6.25 on page 17 and explained on page 10 of the NCERT Chapter 6 PDF.",
+"page_number":"17"
+},
+{
+"id":66,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"How does a storm develop into a cyclone over warm ocean water, and what role does Earth's rotation play in this process?",
+"answer":"Over warm ocean water, warm moist air rises and water vapour condenses, releasing heat that warms the air further and creates a very low-pressure centre. Air from surrounding high-pressure regions rushes in and rises continuously. Earth's rotation causes this inward-moving air to spin, turning the storm into a revolving system of clouds, winds, and rain called a cyclone.",
+"keywords":[
+"warm ocean",
+"condenses",
+"releases heat",
+"low-pressure",
+"Earth's rotation",
+"spin"
+],
+"explanation":"Heat released during condensation sustains strong upward drafts and deepens the central low pressure, while Earth's rotation imparts the spinning motion. Without rotation, the rushing air would not spin into a cyclone structure. This is discussed on page 1 and page 13 of the NCERT Chapter 6 PDF.",
+"page_number":"13"
+},
+{
+"id":67,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"What will you observe if you hold a narrow strip of paper (18 cm long and 2 cm wide) so that it hangs freely and blow over its top surface? Explain why.",
+"answer":"When you blow over the hanging strip of paper, the paper rises upward instead of being pushed down. Blowing fast-moving air over the top reduces the air pressure above the strip, while the still air beneath remains at higher pressure and pushes the paper strip upward.",
+"keywords":[
+"paper rises",
+"fast-moving air",
+"lower pressure above",
+"higher pressure below",
+"pushes upward"
+],
+"explanation":"This simple activity demonstrates that high-speed winds are accompanied by reduced air pressure. The pressure difference between the underside and the top creates an upward lift, similar to how storm winds lift roofs. This activity is on page 18 and the principle is on page 10 of the NCERT Chapter 6 PDF.",
+"page_number":"18"
+},
+{
+"id":68,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"How can a safer roof be designed to withstand severe storms, and what should occupants do with doors and windows during high-speed winds?",
+"answer":"A storm-safe roof should be made of strong materials with no loose sheets, fixed firmly to the walls using bolts or straps, and built with a proper slope and bracing to reduce wind damage. During a storm, occupants should keep doors and windows open as advised to let air flow through and balance inside and outside pressures.",
+"keywords":[
+"bolts or straps",
+"strong materials",
+"no loose sheets",
+"proper slope",
+"balance pressure"
+],
+"explanation":"Strong fastening prevents roofs from tearing away when high winds create low pressure above them. Allowing air to pass through open doors and windows further minimizes the upward pressure difference acting on the roof. This is discussed on page 6 of the Learning Resource Key PDF and page 7 of the Chapter 5 Learning Resource PDF.",
+"page_number":"6"
+},
+{
+"id":69,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Compare the role of surface area in cutting an apple with a sharp knife versus lifting a water-filled bucket with a broad handle.",
+"answer":"Both actions depend on how area affects pressure for a given force. A sharp knife edge has a tiny area, so applying a moderate force creates very high pressure that easily cuts the apple. In contrast, a broad bucket handle spreads the heavy weight of water over a larger area of the hand, lowering pressure and making it comfortable to hold.",
+"keywords":[
+"sharp knife",
+"smaller area",
+"high pressure",
+"broad handle",
+"larger area",
+"lower pressure"
+],
+"explanation":"Depending on the task, we either minimize area to maximize pressure for cutting or maximize area to reduce pressure for comfort. Both applications directly follow the relationship Pressure = Force / Area. This is discussed on page 3 of the NCERT Chapter 6 PDF and page 3 of the Chapter 5 Learning Resource PDF.",
+"page_number":"3"
+},
+{
+"id":70,
+"subject":"Science",
+"chapter":"Pressure, Winds, Storms, and Cyclones-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Why is a closed car safer than standing near a tall tree during lightning, and what exact posture should a person adopt if caught in an open field with no shelter?",
+"answer":"Inside a closed car or bus, the vehicle acts as a safe enclosure during lightning, whereas standing near a tall tree is dangerous because tall objects are likely to be struck and conduct current through the tree or nearby ground. If caught in an open field, one should find a low-lying open area and crouch down with feet together, minimizing contact with the ground without lying flat.",
+"keywords":[
+"closed car",
+"safe enclosure",
+"tall tree",
+"low-lying open area",
+"crouch down",
+"not lie flat"
+],
+"explanation":"Lying flat increases body contact with the ground, raising danger from ground currents if lightning strikes nearby. Crouching low in an open area makes a person less likely to be the tallest target while keeping ground contact minimal. This is discussed on page 12 of the NCERT Chapter 6 PDF and page 3 of the Case Study Worksheet PDF.",
+"page_number":"12"
+}
+]
