@@ -1,0 +1,1635 @@
+[
+{
+"id":1,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"What is a habitat? Give one example from the chapter.",
+"answer":"A habitat is the natural place where an organism lives and survives. Examples include a pond, forest, or tree bark.",
+"keywords":[
+"habitat",
+"organism lives",
+"pond",
+"forest",
+"tree bark"
+],
+"explanation":"A habitat provides the right living conditions for plants and animals to survive and grow. It can be large like a forest or small like the bark of a tree. This concept is discussed on page 2 of the NCERT chapter PDF.",
+"page_number":"2"
+},
+{
+"id":2,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"What are biotic components of a habitat? Give two examples.",
+"answer":"Biotic components are the living organisms present in a habitat. Examples include fish, frogs, trees, grass, and microorganisms.",
+"keywords":[
+"biotic components",
+"living organisms",
+"plants",
+"animals",
+"microorganisms"
+],
+"explanation":"All living beings in a habitat, including plants, animals, and microbes, are called biotic components. They interact with each other and their surroundings to survive. This concept is discussed on page 3 of the NCERT chapter PDF.",
+"page_number":"3"
+},
+{
+"id":3,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"What are abiotic components of a habitat? Give two examples.",
+"answer":"Abiotic components are the non-living physical things in a habitat. Examples include air, water, soil, sunlight, and temperature.",
+"keywords":[
+"abiotic components",
+"non-living",
+"water",
+"soil",
+"sunlight"
+],
+"explanation":"Abiotic components form the physical conditions of a habitat that living organisms depend on. They include air, sunlight, water, temperature, and soil. This concept is discussed on page 3 of the NCERT chapter PDF.",
+"page_number":"3"
+},
+{
+"id":4,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Define the term population with respect to a habitat.",
+"answer":"A population is a group of organisms of the same kind living together in a habitat at a given time.",
+"keywords":[
+"population",
+"same kind",
+"habitat",
+"given time"
+],
+"explanation":"When many individuals of the same species live in the same area at a particular time, they form a population. For example, all fish of one kind in a pond form a population. This concept is discussed on page 4 and page 5 of the NCERT chapter PDF.",
+"page_number":"5"
+},
+{
+"id":5,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"What is a community in an ecosystem?",
+"answer":"A community consists of different populations of plants, animals, and microorganisms sharing and interacting within the same habitat.",
+"keywords":[
+"community",
+"different populations",
+"same habitat",
+"interact"
+],
+"explanation":"A habitat is shared by many different species rather than just one. All the biotic populations living and depending on each other in one habitat form a community. This concept is discussed on page 5 of the NCERT chapter PDF.",
+"page_number":"5"
+},
+{
+"id":6,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"What is pollination? Name any two agents that help in pollination.",
+"answer":"Pollination is the transfer of pollen grains from stamens to carpels of flowers. Insects, birds, wind, and water help in pollination.",
+"keywords":[
+"pollination",
+"pollen grains",
+"stamens",
+"carpels",
+"insects"
+],
+"explanation":"Pollination occurs when pollen moves from the male part to the female part of a flower. It is essential for the formation of fruits and seeds. This concept is discussed on page 5 of the NCERT chapter PDF.",
+"page_number":"5"
+},
+{
+"id":7,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Why are plants called producers or autotrophs?",
+"answer":"Plants are called producers or autotrophs because they make their own food through the process of photosynthesis.",
+"keywords":[
+"producers",
+"autotrophs",
+"own food",
+"photosynthesis"
+],
+"explanation":"The word autotroph means self-food, where auto means self and troph means food. Plants use sunlight, water, and carbon dioxide to prepare food on their own. This concept is discussed on page 9 of the NCERT chapter PDF.",
+"page_number":"9"
+},
+{
+"id":8,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"What are consumers or heterotrophs? Give one example.",
+"answer":"Consumers or heterotrophs are organisms that cannot make their own food and depend on other organisms for food, such as deer.",
+"keywords":[
+"consumers",
+"heterotrophs",
+"cannot make food",
+"depend on others"
+],
+"explanation":"Hetero means other and troph means food. Organisms like deer, leopards, and mice rely on plants or other animals for nutrition. This concept is discussed on page 9 of the NCERT chapter PDF.",
+"page_number":"9"
+},
+{
+"id":9,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Define a food chain and give one example.",
+"answer":"A food chain is a simple linear sequence showing who eats whom in an ecosystem, such as grass, hare, and leopard.",
+"keywords":[
+"food chain",
+"linear sequence",
+"who eats whom",
+"ecosystem"
+],
+"explanation":"Feeding relationships between organisms in an ecosystem can be represented in a linear order. Each organism in the chain serves as food for the next one. This concept is discussed on page 10 of the NCERT chapter PDF.",
+"page_number":"10"
+},
+{
+"id":10,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":8,
+"max":20
+},
+"question":"What is meant by a trophic level in a food chain?",
+"answer":"A trophic level is the specific feeding position occupied by an organism within a food chain.",
+"keywords":[
+"trophic level",
+"specific position",
+"food chain",
+"feeding"
+],
+"explanation":"In a food chain, organisms are arranged in steps based on how they obtain food, starting with producers at the first level. Each step is called a trophic level. This concept is discussed on page 10 of the NCERT chapter PDF.",
+"page_number":"10"
+},
+{
+"id":11,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":24
+},
+"question":"What are saprotrophs? Give two examples.",
+"answer":"Saprotrophs or decomposers are organisms that break down dead plants, animals, and waste into simpler substances. Examples are fungi and bacteria.",
+"keywords":[
+"saprotrophs",
+"decomposers",
+"dead matter",
+"fungi",
+"bacteria"
+],
+"explanation":"Sapro means rotten and trophs means food. Microorganisms like mushrooms and bacteria feed on dead organic matter and recycle nutrients back into the soil. This concept is discussed on page 11 and page 12 of the NCERT chapter PDF.",
+"page_number":"12"
+},
+{
+"id":12,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Define mutualism and give one example from the chapter.",
+"answer":"Mutualism is an interaction where both organisms benefit from each other. An example is honeybees and flowers.",
+"keywords":[
+"mutualism",
+"both benefit",
+"honeybees",
+"flowers"
+],
+"explanation":"In mutualism, each participating organism gains an advantage. Honeybees get nectar for food from flowers, while flowers get pollinated in return. This concept is discussed on page 14 of the NCERT chapter PDF.",
+"page_number":"14"
+},
+{
+"id":13,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":24
+},
+"question":"Name the two reproductive parts of a flower and state which one is male and which is female.",
+"answer":"The two reproductive parts of a flower are stamens and carpels. Stamens are the male parts and carpels are the female parts.",
+"keywords":[
+"stamens",
+"male",
+"carpels",
+"female",
+"reproductive parts"
+],
+"explanation":"Along with sepals and petals, flowers have reproductive structures for making seeds. Stamens release pollen grains, which are carried to the carpels during pollination. This concept is discussed on page 5 of the NCERT chapter PDF.",
+"page_number":"5"
+},
+{
+"id":14,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":24
+},
+"question":"Give one example of a human-made ecosystem and state how it differs from a natural ecosystem.",
+"answer":"Farmland or a park is a human-made ecosystem. Unlike natural ecosystems, human-made ecosystems require regular human care and management.",
+"keywords":[
+"human-made ecosystem",
+"farmland",
+"parks",
+"human care",
+"management"
+],
+"explanation":"Humans build artificial ecosystems like fish ponds, farms, and parks to fulfil their needs. Because they are artificial, they cannot sustain themselves without human maintenance. This concept is discussed on page 16 of the NCERT chapter PDF.",
+"page_number":"16"
+},
+{
+"id":15,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"What is a food web?",
+"answer":"A food web is a network of many interlinked food chains formed when organisms are eaten by two or more types of organisms.",
+"keywords":[
+"food web",
+"network",
+"interlinked",
+"food chains"
+],
+"explanation":"In an ecosystem, feeding relationships are rarely isolated into single chains. Multiple food chains connect together because animals feed on more than one source, forming a food web. This concept is discussed on page 11 of the NCERT chapter PDF.",
+"page_number":"11"
+},
+{
+"id":16,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"Why do migratory birds travel thousands of miles to reach India during winter?",
+"answer":"Migratory birds travel to India from different parts of the world to avoid harsh climates and to search for food.",
+"keywords":[
+"migratory birds",
+"harsh climate",
+"search for food",
+"winter"
+],
+"explanation":"During winter, birds such as the Demoiselle Crane migrate to Indian habitats like Khichan village in Jodhpur district. They seek favourable weather and sufficient food resources. This concept is discussed on page 12 of the NCERT chapter PDF.",
+"page_number":"12"
+},
+{
+"id":17,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":12,
+"max":25
+},
+"question":"State the main difference between commensalism and parasitism.",
+"answer":"In commensalism, one organism benefits while the other is unaffected, whereas in parasitism, one organism benefits while the other is harmed.",
+"keywords":[
+"commensalism",
+"unaffected",
+"parasitism",
+"harmed",
+"benefits"
+],
+"explanation":"Both are relationships where one organism gains an advantage. However, the second organism stays unharmed in commensalism, such as a tree supporting an orchid, while it suffers in parasitism, like a dog bitten by a tick. This concept is discussed on page 14 of the NCERT chapter PDF.",
+"page_number":"14"
+},
+{
+"id":18,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"What is monoculture, and mention one harmful effect of practising it?",
+"answer":"Monoculture is the practice of growing the same crop repeatedly on the same land. It reduces biodiversity and affects pollinators.",
+"keywords":[
+"monoculture",
+"same crop repeatedly",
+"reduces biodiversity",
+"pollinators"
+],
+"explanation":"When farmers grow only one crop year after year for commercial gain, it causes soil degradation and reduces plant and animal diversity. It also negatively impacts pollinators needed for food production. This concept is discussed on page 16 and page 17 of the NCERT chapter PDF.",
+"page_number":"17"
+},
+{
+"id":19,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":24
+},
+"question":"What is Kunapa Jala mentioned in the ancient text Vrikshayurveda?",
+"answer":"Kunapa Jala is an organic liquid fertiliser made by fermenting animal and plant waste to break complex substances into simpler ones.",
+"keywords":[
+"Kunapa Jala",
+"liquid fertiliser",
+"fermentation",
+"animal and plant waste",
+"Vrikshayurveda"
+],
+"explanation":"The ancient Indian text Vrikshayurveda stresses continuous soil nourishment using compost and organic manures. Kunapa Jala provides nutrients to soil naturally without synthetic chemicals. This concept is discussed on page 17 of the NCERT chapter PDF.",
+"page_number":"17"
+},
+{
+"id":20,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":12,
+"max":26
+},
+"question":"Why did the Government of India ban the export of frog legs in the 1980s?",
+"answer":"The ban was imposed to prevent further ecological damage after frog harvesting caused an increase in farm pests and excessive pesticide use.",
+"keywords":[
+"frog legs",
+"ban",
+"ecological damage",
+"pests",
+"pesticides"
+],
+"explanation":"Large-scale harvesting of Indian bullfrogs reduced frog populations that naturally controlled insects. This forced farmers to use harmful synthetic pesticides, prompting the government ban. This concept is discussed on page 13 of the NCERT chapter PDF.",
+"page_number":"13"
+},
+{
+"id":21,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":12,
+"max":24
+},
+"question":"Explain why the relationship between an orchid and a tree branch is classified as commensalism.",
+"answer":"The orchid benefits by getting physical support from the tree branch, while the tree remains completely unaffected, making it commensalism.",
+"keywords":[
+"orchid",
+"tree branch",
+"physical support",
+"unaffected",
+"commensalism"
+],
+"explanation":"In commensalism, only one partner benefits and the other neither gains nor loses anything. The orchid sits on the branch for support without harming or helping the tree. This concept is discussed on page 14 of the NCERT chapter PDF.",
+"page_number":"14"
+},
+{
+"id":22,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":38
+},
+"question":"How do fish obtain both their biotic and abiotic needs in a pond habitat?",
+"answer":"A pond provides essential survival conditions for fish. Fish obtain their biotic needs, such as food, by eating small plants and animals in the pond, and their abiotic needs, such as dissolved oxygen, from the pond water.",
+"keywords":[
+"biotic needs",
+"food",
+"small plants and animals",
+"abiotic needs",
+"oxygen from water"
+],
+"explanation":"Fish depend on both living and non-living parts of the pond to survive. Besides food and oxygen, the pond also provides shelter and space for them to grow. This concept is discussed on page 3 of the NCERT chapter PDF.",
+"page_number":"3"
+},
+{
+"id":23,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":38
+},
+"question":"Differentiate between herbivores and carnivores with one example of each from the chapter.",
+"answer":"Herbivores are consumers that eat only plants and plant products, such as deer and hares. Carnivores are consumers that eat only other animals, such as leopards, tigers, and vultures.",
+"keywords":[
+"herbivores",
+"eat only plants",
+"deer",
+"carnivores",
+"eat only animals",
+"leopard"
+],
+"explanation":"Consumers are grouped based on their eating habits. Herbivores feed directly on producers, whereas carnivores feed on other animals to get their energy. This concept is discussed on page 9 and page 11 of the NCERT chapter PDF.",
+"page_number":"9"
+},
+{
+"id":24,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":36
+},
+"question":"What are omnivores? Give any two examples mentioned in the chapter.",
+"answer":"Omnivores are consumers that eat both plants and animals for their food. Examples of omnivores mentioned in the chapter include crows, foxes, and mice.",
+"keywords":[
+"omnivores",
+"both plants and animals",
+"crows",
+"foxes",
+"mice"
+],
+"explanation":"Unlike strict herbivores or carnivores, omnivores have a varied diet consisting of both plant and animal matter. This helps them adapt to multiple food sources in a food web. This concept is discussed on page 9 of the NCERT chapter PDF.",
+"page_number":"9"
+},
+{
+"id":25,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Give two examples of interactions between two abiotic components in a pond habitat.",
+"answer":"First, bright sunlight increases the day temperature and causes pond water to evaporate faster. Second, blowing air currents push against the pond water surface to create gentle waves.",
+"keywords":[
+"abiotic components",
+"sunlight",
+"temperature",
+"water evaporation",
+"air currents",
+"waves"
+],
+"explanation":"Non-living factors constantly affect each other and shape the physical conditions of a habitat. Sunlight warms the water and speeds up evaporation, while wind creates waves and moist soil surrounds the pond. This concept is discussed on page 7 of the NCERT chapter PDF.",
+"page_number":"7"
+},
+{
+"id":26,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":38
+},
+"question":"Name the two main types of natural ecosystems and give two examples of each.",
+"answer":"The two main types of natural ecosystems are aquatic ecosystems and terrestrial ecosystems. Examples of aquatic ecosystems are ponds, rivers, and lakes, while examples of terrestrial ecosystems are forests, grasslands, and deserts.",
+"keywords":[
+"aquatic ecosystems",
+"ponds",
+"rivers",
+"terrestrial ecosystems",
+"forests",
+"grasslands"
+],
+"explanation":"Natural ecosystems are broadly divided based on whether organisms live in water or on land. Even a large tree like a banyan, mango, or pilkhan can form a small terrestrial ecosystem. This concept is discussed on page 8 and page 18 of the NCERT chapter PDF.",
+"page_number":"8"
+},
+{
+"id":27,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":18,
+"max":36
+},
+"question":"Name any four protected areas in India along with their states or regions.",
+"answer":"Four protected areas in India are Jim Corbett National Park in Uttarakhand, Manas National Park in Assam, Chilika Lake in Odisha, and Keibul Lamjao National Park in Manipur.",
+"keywords":[
+"protected areas",
+"Jim Corbett",
+"Manas",
+"Chilika Lake",
+"Keibul Lamjao"
+],
+"explanation":"India has established national parks, wildlife sanctuaries, and biosphere reserves to protect habitats and endangered wildlife. Other examples include Nilgiri Biosphere Reserve, Eaglenest, Hemis, and Pirotan Island. This concept is discussed on page 15 of the NCERT chapter PDF.",
+"page_number":"15"
+},
+{
+"id":28,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"How do a snake and a rodent coexist in harmony in the same forest habitat?",
+"answer":"Different organisms in the same habitat use resources in different ways. A forest is warm during the day and cool at night. A rodent is active during the day while a snake comes out at night, allowing both to share the habitat harmoniously.",
+"keywords":[
+"coexist in harmony",
+"snake",
+"rodent",
+"day",
+"night",
+"different conditions"
+],
+"explanation":"Even though they live in the same forest, animals active at different times face different physical conditions and avoid direct conflict. This division of time and resources helps organisms live together peacefully. This concept is discussed on page 4 of the NCERT chapter PDF.",
+"page_number":"4"
+},
+{
+"id":29,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":40
+},
+"question":"Why is it not possible for a habitat to contain only one type of living organism?",
+"answer":"If a habitat had only one type of organism, every individual would have the exact same needs for food, water, and space. This would cause intense competition and scarcity of resources, making survival difficult.",
+"keywords":[
+"one type",
+"same requirements",
+"food water space",
+"competition",
+"scarcity"
+],
+"explanation":"A habitat needs different populations because varied organisms play different roles and use different resources. Having only one species would quickly exhaust shared resources and leave no interactions for survival. This concept is discussed on page 5 of the NCERT chapter PDF.",
+"page_number":"5"
+},
+{
+"id":30,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"How do biotic components influence abiotic components in an ecosystem? Give two examples.",
+"answer":"Biotic components actively shape the abiotic environment. For example, plants release oxygen into the air during photosynthesis, and plant roots hold soil particles in place to prevent soil erosion, retain soil moisture, and cool the atmosphere.",
+"keywords":[
+"biotic influence abiotic",
+"release oxygen",
+"photosynthesis",
+"prevent erosion",
+"soil moisture"
+],
+"explanation":"Interactions in an ecosystem work in both directions. Just as living beings depend on non-living things, plants improve air quality, stabilise soil, and moderate temperature. This concept is discussed on page 8 of the NCERT chapter PDF.",
+"page_number":"8"
+},
+{
+"id":31,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":24,
+"max":44
+},
+"question":"Differentiate between a food chain and a food web.",
+"answer":"A food chain is a single linear sequence showing who eats whom in an ecosystem, such as grass eaten by a hare and then a leopard. A food web is a complex network of many interlinked food chains where organisms have multiple feeding links.",
+"keywords":[
+"food chain",
+"linear sequence",
+"food web",
+"network",
+"interlinked"
+],
+"explanation":"A food chain traces only one path of feeding relationships, whereas a food web shows how different chains connect because each organism may be eaten by two or more predators. This concept is discussed on page 10 and page 11 of the NCERT chapter PDF.",
+"page_number":"11"
+},
+{
+"id":32,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"Explain why decomposers are important for plant growth in an ecosystem.",
+"answer":"Decomposers such as fungi and bacteria break down complex substances in dead plants, animals, and waste into simpler forms. This process returns essential nutrients back to the soil, which plants absorb to grow properly.",
+"keywords":[
+"decomposers",
+"fungi and bacteria",
+"break down",
+"nutrients to soil",
+"plant growth"
+],
+"explanation":"Without decomposers, nutrients locked inside dead bodies and wastes would remain unusable. Decomposition continuously replenishes soil fertility so new plants can thrive. This concept is discussed on page 11 and page 12 of the NCERT chapter PDF.",
+"page_number":"12"
+},
+{
+"id":33,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"How do tiny insects like beetles and flies contribute to decomposition in nature?",
+"answer":"Tiny insects such as beetles and flies live on animal droppings like elephant dung. They help break down the droppings into simpler forms and recycle nutrients back into the environment so nothing is wasted.",
+"keywords":[
+"beetles and flies",
+"animal droppings",
+"elephant dung",
+"break down",
+"recycle nutrients"
+],
+"explanation":"Along with microorganisms like fungi and bacteria, small insects act as decomposers of animal waste. Their activity ensures organic waste does not pile up and enriches the surrounding soil. This concept is discussed on page 12 of the NCERT chapter PDF.",
+"page_number":"12"
+},
+{
+"id":34,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"How do migratory birds help maintain ecosystem balance and support farmers?",
+"answer":"Migratory birds act as pollinators and seed dispersers along their migration paths, linking different habitats. They also act as predators of insect pests, helping farmers control pest populations and grow healthy crops.",
+"keywords":[
+"migratory birds",
+"pollinators",
+"seed dispersers",
+"predators of pests",
+"healthy crops"
+],
+"explanation":"Besides adding natural beauty to habitats, migratory birds perform key ecological roles across regions. By eating crop pests and helping plants reproduce, they maintain balance and aid agriculture. This concept is discussed on page 12 of the NCERT chapter PDF.",
+"page_number":"12"
+},
+{
+"id":35,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"What keeps an ecosystem in balance, and why is this balance described as dynamic?",
+"answer":"An ecosystem stays in balance when interactions among organisms and their environment keep populations and resources stable. This balance is dynamic because it is not fixed and constantly adjusts, though it can be disrupted by natural or human changes.",
+"keywords":[
+"ecosystem balance",
+"interactions",
+"stable populations",
+"dynamic",
+"not fixed"
+],
+"explanation":"Populations in nature naturally rise and fall slightly while adjusting to resources and interactions. However, severe disturbances like pollution or habitat loss can break this delicate stability. This concept is discussed on page 13 of the NCERT chapter PDF.",
+"page_number":"13"
+},
+{
+"id":36,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"What was the major finding of Indian wildlife biologist A.J.T. Johnsingh's research in Bandipur National Park?",
+"answer":"Using modern tracking systems in Bandipur National Park, A.J.T. Johnsingh showed how predators like tigers and leopards depend on prey like deer and wild boar. He proved that a healthy prey population is key to predator survival.",
+"keywords":[
+"A.J.T. Johnsingh",
+"Bandipur National Park",
+"predators",
+"prey population",
+"predator survival"
+],
+"explanation":"A.J.T. Johnsingh helped people understand forest ecosystems from the viewpoint of wild animals. His work highlighted that protecting carnivores requires protecting their prey and forest biodiversity. This concept is discussed on page 14 of the NCERT chapter PDF.",
+"page_number":"14"
+},
+{
+"id":37,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":40
+},
+"question":"State four benefits that humans obtain from forest and aquatic ecosystems.",
+"answer":"Forest ecosystems provide humans with fresh air, fertile soil, food, fibres, timber, and medicines. Aquatic ecosystems supply water and food, while both types of ecosystems also offer aesthetic beauty and recreational value.",
+"keywords":[
+"fresh air",
+"fertile soil",
+"timber and medicines",
+"water and food",
+"recreational value"
+],
+"explanation":"Human survival and well-being are closely tied to healthy ecosystems. Overusing or misusing these resources disturbs nature's balance and reduces these essential benefits. This concept is discussed on page 14 of the NCERT chapter PDF.",
+"page_number":"14"
+},
+{
+"id":38,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"In the pond study, why did Pond A with fish have fewer dragonflies than Pond B without fish?",
+"answer":"Fish feed directly on dragonfly larvae living in the pond water. Because Pond A contained fish, many dragonfly larvae were eaten before growing into adults, resulting in fewer dragonflies compared to Pond B which had no fish.",
+"keywords":[
+"Pond A",
+"fish",
+"eat dragonfly larvae",
+"fewer dragonflies",
+"Pond B"
+],
+"explanation":"Dragonflies spend their larval stage in pond water before becoming flying adults. When fish are present, they prey on these larvae and reduce the adult dragonfly population. This concept is discussed on page 6 of the NCERT chapter PDF.",
+"page_number":"6"
+},
+{
+"id":39,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":24,
+"max":45
+},
+"question":"Why is it not possible to have an ecosystem with only producers and no consumers or decomposers?",
+"answer":"Without decomposers, dead plants and waste would pile up and nutrients would never return to the soil for new plants to grow. Without consumers, plant populations would grow unchecked without natural balance, causing the ecosystem to collapse.",
+"keywords":[
+"only producers",
+"no decomposers",
+"nutrients not recycled",
+"waste pile up",
+"no consumers"
+],
+"explanation":"An ecosystem depends on continuous nutrient cycling and balanced populations. Producers rely on nutrients released by decomposers, while consumers regulate plant growth and form feeding links. This concept is discussed on page 11, 12, and 19 of the NCERT chapter PDF.",
+"page_number":"19"
+},
+{
+"id":40,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":24,
+"max":45
+},
+"question":"In the food chain Grass -> Grasshopper -> Frog -> Snake, what will happen to grasshoppers and snakes if frogs disappear?",
+"answer":"If frogs disappear, the grasshopper population will increase rapidly because frogs are no longer eating them. Meanwhile, the snake population will decrease because snakes lose their food source of frogs.",
+"keywords":[
+"frogs disappear",
+"grasshoppers increase",
+"no predators",
+"snakes decrease",
+"lack of food"
+],
+"explanation":"Removing one link in a food chain affects organisms both below and above it. Prey species multiply without predators, while higher-level predators starve due to food shortage. This concept is discussed on page 19 of the NCERT chapter PDF.",
+"page_number":"19"
+},
+{
+"id":41,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"Explain how the overuse of synthetic fertilisers can make agricultural soil prone to erosion.",
+"answer":"Overuse of synthetic fertilisers decreases friendly microorganisms in the soil and lowers organic matter called humus. Since humus helps bind soil particles together, losing enough humus makes the soil loose and prone to erosion.",
+"keywords":[
+"synthetic fertilisers",
+"friendly microorganisms",
+"humus",
+"bind soil particles",
+"soil erosion"
+],
+"explanation":"Healthy soil relies on organic humus and soil microbes to keep its structure stable. Long-term chemical overuse reduces both soil fertility and its ability to stay intact against wind or water. This concept is discussed on page 17 of the NCERT chapter PDF.",
+"page_number":"17"
+},
+{
+"id":42,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"What are wildlife corridors, and how do they help reduce conflict between elephants and human settlements?",
+"answer":"Wildlife corridors are strips of habitat identified and marked by ecologists to connect large forest areas. They allow elephants and other wildlife to travel safely in search of food and water without entering human farms or villages.",
+"keywords":[
+"wildlife corridors",
+"connect forest habitats",
+"safe movement",
+"elephants",
+"avoid human settlements"
+],
+"explanation":"When forests shrink or dry up, elephants need to move to other forest patches for survival. Marked corridors guide them safely between forests, protecting both crops and people. This concept is discussed on page 2 of the NCERT chapter PDF.",
+"page_number":"2"
+},
+{
+"id":43,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Explain the relationship among an individual organism, a population, a community, and an ecosystem.",
+"answer":"An individual is a single living organism, such as one fish or hare. Many individuals of the same kind living together in a habitat at a given time form a population. Different populations of plants, animals, and microbes sharing that habitat interact to form a community. When biotic communities interact with abiotic components like air, water, and soil, they form an ecosystem.",
+"keywords":[
+"individual",
+"population",
+"same kind",
+"community",
+"different populations",
+"ecosystem",
+"abiotic components"
+],
+"explanation":"Nature is organised in increasing levels of complexity from a single organism up to an ecosystem. Each level builds upon the previous one, showing that a population is part of a community and a community is part of an ecosystem. This concept is discussed on page 4, 5, 8, and 18 of the NCERT chapter PDF.",
+"page_number":"8"
+},
+{
+"id":44,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Describe the four trophic levels in a food chain with one example of an organism for each level.",
+"answer":"Every organism occupies a specific feeding position called a trophic level in a food chain. Producers such as green plants occupy the first trophic level. Herbivores like hares and deer occupy the second level. Small carnivores like frogs occupy the third level, and large carnivores such as tigers or vultures occupy the fourth or next level.",
+"keywords":[
+"trophic level",
+"first level producers",
+"second level herbivores",
+"third level small carnivores",
+"fourth level large carnivores"
+],
+"explanation":"Trophic levels show the step-by-step order in which food energy passes through a food chain. Green plants form the base level, followed by plant-eaters and meat-eaters at higher levels. This concept is discussed on page 10 and page 11 of the NCERT chapter PDF.",
+"page_number":"11"
+},
+{
+"id":45,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"easy",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"Explain mutualism, commensalism, and parasitism with one example of each from the chapter.",
+"answer":"Mutualism is an interaction where both organisms benefit, such as honeybees getting nectar while flowers get pollinated. Commensalism is a relationship where one organism benefits and the other is unaffected, such as orchids getting physical support on tree branches. Parasitism is an interaction where one organism benefits while the other is harmed, such as ticks feeding on dog blood and causing skin irritation.",
+"keywords":[
+"mutualism",
+"honeybees and flowers",
+"commensalism",
+"orchids on trees",
+"parasitism",
+"ticks on dogs"
+],
+"explanation":"Besides feeding and competing, organisms form close living relationships that shape the web of life. Whether both benefit, one stays neutral, or one is harmed distinguishes these three interactions. This concept is discussed on page 14 of the NCERT chapter PDF.",
+"page_number":"14"
+},
+{
+"id":46,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":78
+},
+"question":"Explain the causes that force elephants to enter human farms and villages in states like Odisha, Jharkhand, and Assam.",
+"answer":"Changes in rainfall and temperature negatively affect forest vegetation, while cutting down trees for roads and buildings makes the problem worse. These changes cause forests to shrink and dry up, making vegetation scarce and drying up waterholes. Because elephants struggle to find food and water in their natural habitat, they wander into nearby farms for crops like bananas and sugarcane, damaging crops and harming people.",
+"keywords":[
+"rainfall and temperature",
+"cutting down trees",
+"drying waterholes",
+"scarce vegetation",
+"bananas and sugarcane",
+"loss of habitat"
+],
+"explanation":"Human activities and climate changes disrupt natural forest habitats in states like Odisha, Jharkhand, West Bengal, Assam, and Chhattisgarh. Loss of food and water drives elephants toward human settlements. This concept is discussed on page 2 of the NCERT chapter PDF.",
+"page_number":"2"
+},
+{
+"id":47,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":75
+},
+"question":"Describe how biotic components depend on abiotic components in an ecosystem, giving three clear examples.",
+"answer":"Living organisms rely directly on non-living components for survival and growth. First, plants need sunlight, carbon dioxide, and water to produce food through photosynthesis. Second, soil provides a medium and essential minerals for plant growth, while earthworms live in moist soil. Third, air provides oxygen for respiration in land plants and animals, and water provides dissolved oxygen and egg-laying space for aquatic organisms like fish.",
+"keywords":[
+"sunlight carbon dioxide water",
+"photosynthesis",
+"soil nutrients",
+"oxygen for respiration",
+"water for fish"
+],
+"explanation":"Without abiotic factors, no biotic community can carry out life processes like nutrition, respiration, or reproduction. Each abiotic element supports specific needs of plants, animals, and microbes. This concept is discussed on page 7 and page 8 of the NCERT chapter PDF.",
+"page_number":"8"
+},
+{
+"id":48,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":75
+},
+"question":"Explain three different types of interactions among biotic components in a pond habitat.",
+"answer":"In a pond habitat, living organisms interact continuously for food, survival, and reproduction. First, predator-prey feeding occurs when a frog eats insects or a water snake eats fish. Second, competition occurs when frogs and fish compete for the same food such as small insect larvae. Third, protective interactions occur when a fish lays eggs near aquatic vegetation to protect them from predators like frogs or other fish.",
+"keywords":[
+"biotic interactions",
+"frog eats insects",
+"water snake eats fish",
+"competition for larvae",
+"eggs near vegetation"
+],
+"explanation":"Interactions among living beings control resource availability and help organisms survive and reproduce. Table 12.3 highlights feeding, competition, and protection as key biotic interactions in a pond. This concept is discussed on page 7 of the NCERT chapter PDF.",
+"page_number":"7"
+},
+{
+"id":49,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":75
+},
+"question":"Explain what is meant by an overlap of ecosystems with the help of an example from the chapter.",
+"answer":"Ecosystems in nature are not completely isolated; terrestrial and aquatic ecosystems often overlap and interact with each other. For example, a small river, which is an aquatic ecosystem, can flow alongside mountains, forests, grasslands, and human-made farmlands, which are terrestrial ecosystems. All these adjacent ecosystems continuously influence and interact with each other at any given point.",
+"keywords":[
+"overlap of ecosystems",
+"terrestrial and aquatic",
+"river",
+"forests and farmland",
+"interact"
+],
+"explanation":"Natural boundaries between ecosystems are open, allowing organisms, water, and nutrients to move across them. Figure 12.6 illustrates how rivers, forests, grasslands, and farmlands coexist and interact together. This concept is discussed on page 8 of the NCERT chapter PDF.",
+"page_number":"8"
+},
+{
+"id":50,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":75
+},
+"question":"Explain how a food chain of millet, mouse, and eagle in a crop field forms a pyramid shape.",
+"answer":"In a crop field containing millets, mice, and eagles, the number of organisms decreases at each higher feeding level. Millets are producers and have the highest number, so they form the wide base of the pyramid. Mice, which eat millets, are fewer in number and occupy the middle level. Eagles are the fewest in number and occupy the narrow top of the pyramid.",
+"keywords":[
+"pyramid",
+"millet",
+"mouse",
+"eagle",
+"highest number at base",
+"lowest at top"
+],
+"explanation":"When organisms in a food chain are counted and arranged from the largest number at the bottom to the smallest at the top, they form a pyramid. This shows that many producers are needed to support fewer consumers. This concept is discussed on page 10 and page 11 of the NCERT chapter PDF.",
+"page_number":"10"
+},
+{
+"id":51,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":78
+},
+"question":"How does nature ensure that nothing is wasted? Explain the role of decomposers in this process.",
+"answer":"Living organisms produce waste and eventually die, creating dead organic matter. Microorganisms like fungi and bacteria, along with tiny insects like beetles and flies, act as decomposers to break down complex substances in dead plants, dead animals, and animal droppings into simpler substances. This decomposition process returns important nutrients to the soil, which plants reuse to grow, ensuring nothing in nature goes to waste.",
+"keywords":[
+"nothing is wasted",
+"fungi and bacteria",
+"beetles and flies",
+"break down complex substances",
+"recycle nutrients",
+"reused by plants"
+],
+"explanation":"Decomposers act as nature's recyclers by cleaning up dead matter and animal dung. By turning waste back into fertile soil nutrients, they keep ecosystems clean and continuously productive. This concept is discussed on page 11 and page 12 of the NCERT chapter PDF.",
+"page_number":"12"
+},
+{
+"id":52,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":75
+},
+"question":"What is competition among organisms, and how does it help maintain balance in an ecosystem?",
+"answer":"Competition happens when organisms in a community strive for common limited resources such as food, water, physical space, or sunlight. This interaction helps control the population size of different species. Without competition, a single species could multiply too rapidly and use up resources, causing a severe imbalance in the ecosystem.",
+"keywords":[
+"competition",
+"common resources",
+"food water space sunlight",
+"control population size",
+"prevent imbalance"
+],
+"explanation":"Although competition sounds harmful, it plays a vital role in keeping ecosystems stable. By limiting how much any one species can grow, it ensures resources remain available for a variety of organisms. This concept is discussed on page 13 of the NCERT chapter PDF.",
+"page_number":"13"
+},
+{
+"id":53,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":75
+},
+"question":"Describe the major human-induced threats currently damaging ecosystems across India.",
+"answer":"Many ecosystems across India, including forests, rivers, scrublands, wetlands, grasslands, and coastal areas, are under threat due to human actions. Major problems include deforestation, overuse of natural resources, and unsustainable land use. Additionally, the spread of invasive species and pollution from industrial waste and untreated sewage severely damage water, habitats, and wildlife.",
+"keywords":[
+"deforestation",
+"overuse of resources",
+"invasive species",
+"unsustainable land use",
+"pollution",
+"industrial waste"
+],
+"explanation":"Unsustainable human activities disrupt the natural functioning of diverse Indian habitats. Protecting these ecosystems requires reducing pollution, stopping illegal hunting, and using resources responsibly. This concept is discussed on page 15 of the NCERT chapter PDF.",
+"page_number":"15"
+},
+{
+"id":54,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":75
+},
+"question":"What are protected areas? Explain their importance and name three types of protected areas established in India.",
+"answer":"Protected areas are parts of land or water specially set aside to conserve wildlife and their natural habitats. They are important because they safeguard entire ecosystems, protect endangered animals, birds, and rare plants, and save nature for future generations. Types of protected areas in India include national parks, wildlife sanctuaries, biosphere reserves, and community conserved areas.",
+"keywords":[
+"protected areas",
+"conserve wildlife",
+"endangered species",
+"future generations",
+"national parks",
+"wildlife sanctuaries",
+"biosphere reserves"
+],
+"explanation":"Establishing protected areas is a vital conservation strategy in India. Well-known examples such as Jim Corbett National Park and Nilgiri Biosphere Reserve help preserve biodiversity intact. This concept is discussed on page 15 of the NCERT chapter PDF.",
+"page_number":"15"
+},
+{
+"id":55,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":75
+},
+"question":"Differentiate between natural ecosystems and human-made ecosystems with examples and benefits of well-designed artificial ecosystems.",
+"answer":"Natural ecosystems like forests, rivers, and ponds develop naturally and sustain themselves through natural cycles. Human-made ecosystems like farms, fish ponds, and parks are created by humans to meet their needs and require regular human care and management. When well designed, human-made ecosystems can reduce pollution, support biodiversity, and provide recreational spaces for people.",
+"keywords":[
+"natural ecosystems",
+"human-made ecosystems",
+"farms and parks",
+"human care",
+"reduce pollution",
+"support biodiversity"
+],
+"explanation":"While natural ecosystems maintain their own balance, artificial ecosystems rely on human planning and upkeep. Designing artificial spaces thoughtfully allows humans to meet needs without harming biodiversity. This concept is discussed on page 8 and page 16 of the NCERT chapter PDF.",
+"page_number":"16"
+},
+{
+"id":56,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":78
+},
+"question":"What was the Green Revolution, and why are those intensive farming methods now considered unsustainable?",
+"answer":"Between 1950 and 1965, India faced a food crisis due to low crop yields. In response, the Green Revolution introduced tractors, machines, synthetic fertilisers, and pesticides to boost food production. However, these methods are now seen as unsustainable because they caused overuse of synthetic chemicals, excessive groundwater extraction, and repeated monoculture, harming soil health, the environment, and human health.",
+"keywords":[
+"Green Revolution",
+"food crisis",
+"synthetic fertilisers",
+"pesticides",
+"unsustainable",
+"groundwater extraction",
+"monoculture"
+],
+"explanation":"Although the Green Revolution helped India achieve food security, long-term dependence on heavy chemicals and single-crop farming degraded the soil. Scientists now encourage sustainable farming to protect future harvests. This concept is discussed on page 16 of the NCERT chapter PDF.",
+"page_number":"16"
+},
+{
+"id":57,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":48,
+"max":82
+},
+"question":"Explain step by step how the presence of fish in a pond indirectly increases seed production in nearby flowering plants.",
+"answer":"Fish in a pond feed directly on dragonfly larvae, which reduces the number of adult dragonflies around the pond. Since dragonflies eat flying insects like bees, flies, and butterflies, having fewer dragonflies allows more of these pollinating insects to survive. These bees and butterflies visit nearby flowers and transfer pollen from one flower to another, increasing pollination and resulting in greater seed production in the flowering plants.",
+"keywords":[
+"fish eat dragonfly larvae",
+"fewer dragonflies",
+"more bees and butterflies",
+"pollination",
+"more seeds",
+"indirect effect"
+],
+"explanation":"This case study demonstrates how organisms that never directly interact, such as fish and flowers, strongly influence one another. Through a chain of direct and indirect effects, aquatic life supports terrestrial plant reproduction. This concept is discussed on page 5 and page 6 of the NCERT chapter PDF.",
+"page_number":"6"
+},
+{
+"id":58,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":48,
+"max":80
+},
+"question":"How can overfishing by humans disturb the balance of a pond ecosystem and harm nearby flowering plants?",
+"answer":"If humans catch too many fish from a pond, fewer predators remain to eat dragonfly larvae, causing the dragonfly population to increase rapidly. More dragonflies eat a larger number of bees, flies, and butterflies around the pond. With fewer pollinators left, flowers near the pond receive less pollination, which reduces seed production and eventually decreases the flowering plant population.",
+"keywords":[
+"overfishing",
+"dragonfly larvae increase",
+"pollinators decrease",
+"less pollination",
+"fewer seeds",
+"ecosystem balance"
+],
+"explanation":"Removing a single species like fish triggers a chain reaction across both water and land habitats. Overfishing upsets predator control and harms plant reproduction in the surrounding area. This concept is discussed on page 6 of the NCERT chapter PDF and page 13 of the Chapter 3 notes PDF.",
+"page_number":"6"
+},
+{
+"id":59,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":48,
+"max":82
+},
+"question":"Trace the chain of events showing how water pollution in a pond can eventually compel farmers to use pesticides on nearby farmlands.",
+"answer":"When pollution kills many plants in a pond, less oxygen is produced in the water, causing a drop in the fish population. With fewer fish as consumers in the pond, aquatic insects increase rapidly in number. These abundant insects spread from the pond to nearby farmlands and damage crops as pests, compelling farmers to spray chemical pesticides, which further harms the environment.",
+"keywords":[
+"pollution",
+"plants die",
+"less oxygen",
+"fish die",
+"insects increase",
+"damage crops",
+"pesticides"
+],
+"explanation":"One small environmental disturbance can trigger cascading effects throughout an ecosystem and human farms. Figure 12.13 illustrates this domino effect from dying pond plants to crop damage. This concept is discussed on page 12 and page 13 of the NCERT chapter PDF.",
+"page_number":"13"
+},
+{
+"id":60,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":48,
+"max":82
+},
+"question":"Describe how the large-scale harvesting of Indian bullfrogs in the 1980s disrupted the ecosystem and affected human health.",
+"answer":"In the 1980s, India exported large quantities of frog legs, particularly from the Indian bullfrog, leading to a sharp decline in frog populations. Because frogs naturally eat insects, fewer frogs resulted in a huge rise in agricultural pests on farms. To control these pests, farmers used more synthetic pesticides, which polluted soil and water and harmed both environmental and human health until the government banned frog leg exports.",
+"keywords":[
+"Indian bullfrog",
+"decline in frogs",
+"rise in pests",
+"synthetic pesticides",
+"soil and water quality",
+"human health",
+"ban"
+],
+"explanation":"Human interference with one species often creates unexpected ecological and health problems. Removing frogs removed natural pest control, forcing chemical dependence before the ban stopped further damage. This concept is discussed on page 13 of the NCERT chapter PDF.",
+"page_number":"13"
+},
+{
+"id":61,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":48,
+"max":82
+},
+"question":"What changes would occur in a forest ecosystem if all decomposers suddenly disappeared? Explain why decomposers are essential.",
+"answer":"If all decomposers disappeared from a forest, dead trees, fallen leaves, dead animals, and animal droppings would not break down and would pile up everywhere. Nutrients trapped in this dead matter would never return to the soil, causing soil fertility to drop sharply. Consequently, plants would struggle to grow, starving herbivores and carnivores, and collapsing the entire forest food web.",
+"keywords":[
+"decomposers disappear",
+"dead matter pile up",
+"nutrients not recycled",
+"soil fertility drops",
+"plants struggle",
+"food web collapses"
+],
+"explanation":"Decomposers are essential because they clean up organic waste and replenish soil nutrients like nitrogen and humus. Without them, nutrient cycling stops and life cannot continue in the forest. This concept is discussed on page 11, 12, and 18 of the NCERT chapter PDF.",
+"page_number":"18"
+},
+{
+"id":62,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"Analyse how the Sundarbans mangrove forest benefits humans and nature, and state three serious threats it faces today.",
+"answer":"Located where the Ganges and Brahmaputra rivers meet between India and Bangladesh, the Sundarbans is the largest mangrove forest in the world and a UNESCO World Heritage Site. It supports diverse endangered flora and fauna, slows strong winds and waves during storms and floods, and absorbs carbon dioxide while releasing oxygen. Today, it is threatened by cutting mangrove trees for fuelwood and farming, illegal hunting and overuse of resources, and river pollution from industrial waste and untreated sewage.",
+"keywords":[
+"Sundarbans",
+"largest mangrove forest",
+"storms and floods",
+"carbon dioxide and oxygen",
+"fuelwood and farming",
+"illegal hunting",
+"industrial waste and sewage"
+],
+"explanation":"The Sundarbans acts as both a rich biodiversity refuge and a natural coastal shield. Protecting this ecosystem from deforestation, poaching, and water pollution is essential for both wildlife and local communities. This concept is discussed on page 15 of the NCERT chapter PDF.",
+"page_number":"15"
+},
+{
+"id":63,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":78
+},
+"question":"How did mangrove forests help protect Selvam's village in Cuddalore district during the 2004 Tsunami compared to nearby villages?",
+"answer":"Mangrove forests act as strong natural coastal barriers against extreme weather and ocean events. During the 2004 Tsunami, the dense mangrove roots and trees near Selvam's village in Cuddalore district, Tamil Nadu, slowed down the force of strong ocean waves and winds. As a result, the destructive impact on his village was much lower than on nearby villages without mangrove cover.",
+"keywords":[
+"mangrove forests",
+"Cuddalore",
+"2004 Tsunami",
+"slow down waves",
+"strong winds",
+"natural barrier"
+],
+"explanation":"Mangroves protect coastal human settlements just as they do in the Sundarbans by absorbing wave energy and reducing flood damage. Preserving coastal ecosystems directly saves human lives and property during natural disasters. This concept is discussed on page 15 and page 18 of the NCERT chapter PDF.",
+"page_number":"18"
+},
+{
+"id":64,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":50,
+"max":85
+},
+"question":"Explain three ways in which long-term overuse of synthetic fertilisers and pesticides harms soil health and natural pest control.",
+"answer":"First, overuse of synthetic fertilisers kills friendly soil microorganisms and lowers humus, reducing soil fertility and making soil prone to erosion. Second, chemical pesticides kill natural predators like beetles that feed on pests, as well as helpful soil organisms like earthworms and snails, which disturbs ecological balance. Third, repeated pesticide use causes some pests to develop resistance, making them harder to control and leading to higher pest numbers.",
+"keywords":[
+"friendly microorganisms",
+"humus and erosion",
+"natural predators",
+"earthworms",
+"pesticide resistance",
+"pest increase"
+],
+"explanation":"While synthetic chemicals boosted short-term yields, their long-term use damages the biological life inside farm soils. Losing natural predators and soil organisms creates a cycle where pests grow harder to manage. This concept is discussed on page 17 of the NCERT chapter PDF.",
+"page_number":"17"
+},
+{
+"id":65,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":48,
+"max":82
+},
+"question":"Why is monoculture harmful to biodiversity and crop production, and how do organic and natural farming methods help overcome this?",
+"answer":"Growing the same crop repeatedly, known as monoculture, reduces plant and animal biodiversity on farmland and negatively affects pollinators that are essential for food production. Organic and natural farming methods address these issues by reducing synthetic fertilisers and pesticides, encouraging natural pest control, and causing minimal interference in natural ecosystems. These sustainable practices protect soil health, pollinators, and long-term food security.",
+"keywords":[
+"monoculture",
+"reduces biodiversity",
+"pollinators",
+"organic and natural farming",
+"reduce synthetic fertilisers",
+"minimal interference"
+],
+"explanation":"Healthy farms function best when they work in harmony with natural ecological processes rather than relying solely on one crop and heavy chemicals. Organic farming preserves pollinators and soil organisms for future harvests. This concept is discussed on page 17 of the NCERT chapter PDF.",
+"page_number":"17"
+},
+{
+"id":66,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":78
+},
+"question":"In the grassland food web shown in Figure 12.20, how would a sharp drop in the Indian hare population due to disease affect other organisms?",
+"answer":"If the Indian hare population drops sharply, foxes that feed on hares will face a food shortage and their population may decline or they will have to depend more on other prey. Meanwhile, grass and plants normally eaten by hares may grow more abundantly, unless deer consume the extra plants. With more plants available, the deer population may increase, which in turn provides more food for eagles.",
+"keywords":[
+"Indian hare",
+"foxes decrease",
+"grass and plants increase",
+"deer",
+"food web",
+"indirect effects"
+],
+"explanation":"In a food web, a change in one population creates ripple effects across both predators and competitors. Figure 12.20 shows hares and deer eating grass while foxes and eagles act as predators. This concept is discussed on page 19 of the NCERT chapter PDF.",
+"page_number":"19"
+},
+{
+"id":67,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":78
+},
+"question":"What could cause fewer butterflies to visit a school garden, and what steps can students take to bring more butterflies back?",
+"answer":"Fewer butterflies in a school garden could be caused by a reduction in flowering plants, the use of chemical pesticides, lack of diverse native plants, or an increase in predators like dragonflies. To attract more butterflies back, students can plant a variety of brightly coloured flowering plants that provide nectar, avoid using synthetic pesticides, and maintain clean, natural green spaces on campus.",
+"keywords":[
+"fewer butterflies",
+"fewer flowering plants",
+"pesticides",
+"plant flowering plants",
+"avoid pesticides",
+"nectar"
+],
+"explanation":"Butterflies are pollinators that rely on healthy flowering plants for nectar and safe chemical-free habitats. By improving plant diversity and removing harmful sprays, students support pollinators in their school ecosystem. This concept is discussed on page 5, 17, and 19 of the NCERT chapter PDF.",
+"page_number":"19"
+},
+{
+"id":68,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":48,
+"max":82
+},
+"question":"Explain how producers, consumers, and decomposers work together to maintain the smooth functioning of an ecosystem.",
+"answer":"Producers, such as green plants, capture sunlight to make food through photosynthesis and form the base of every food chain. Consumers, including herbivores, carnivores, and omnivores, transfer energy through feeding relationships and help control populations so no species grows unchecked. Finally, decomposers like fungi and bacteria break down dead matter and waste from both producers and consumers, returning essential nutrients to the soil for new producers to grow.",
+"keywords":[
+"producers",
+"photosynthesis",
+"consumers",
+"control populations",
+"decomposers",
+"recycle nutrients"
+],
+"explanation":"Together, these three groups keep both energy flowing and nutrients cycling continuously within an ecosystem. Each group depends on the other two to sustain life and stability. This concept is discussed on page 9, 10, 11, and 12 of the NCERT chapter PDF.",
+"page_number":"12"
+},
+{
+"id":69,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":48,
+"max":82
+},
+"question":"Why is the statement 'Human-made ecosystems like agricultural fields are necessary, but they must be made sustainable' true?",
+"answer":"Agricultural fields are human-made ecosystems necessary to grow enough food for a growing human population. However, unsustainable practices like heavy synthetic fertilisers, excessive pesticides, groundwater overuse, and monoculture degrade soil humus, kill helpful earthworms and pollinators, and pollute water. Making farms sustainable through organic manure and natural pest control protects soil fertility, biodiversity, and long-term food security.",
+"keywords":[
+"agricultural fields",
+"food production",
+"soil degradation",
+"sustainable",
+"organic farming",
+"food security"
+],
+"explanation":"Human survival depends on farming, yet farming itself depends on healthy soil, water, and pollinators. Shifting away from chemical-heavy methods ensures agricultural ecosystems stay productive for future generations. This concept is discussed on page 16, 17, and 19 of the NCERT chapter PDF.",
+"page_number":"19"
+},
+{
+"id":70,
+"subject":"Science",
+"chapter":"How Nature Works in Harmony-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":48,
+"max":82
+},
+"question":"Explain with examples from the chapter how ancient Indian knowledge and indigenous tribal traditions support ecosystem conservation.",
+"answer":"Ancient Indian texts like Vrikshayurveda emphasise continuous soil nourishment using organic composts and fermented liquid manures like Kunapa Jala, avoiding chemical soil damage. Similarly, indigenous Indian tribes protect wildlife through sacred beliefs; for instance, the Nyishi and Mishmi tribes in Arunachal Pradesh treat the tiger as sacred, and the Baiga tribe in Chhattisgarh worships Bagesur Dev, considering the tiger the protector of the forest.",
+"keywords":[
+"Vrikshayurveda",
+"Kunapa Jala",
+"Nyishi and Mishmi",
+"Baiga tribe",
+"tiger sacred",
+"conservation"
+],
+"explanation":"Traditional Indian farming wisdom and cultural reverence for nature encourage living in harmony with ecosystems. These practices naturally conserve soil health, forests, and endangered wildlife. This concept is discussed on page 17 and page 19 of the NCERT chapter PDF.",
+"page_number":"19"
+}
+]
