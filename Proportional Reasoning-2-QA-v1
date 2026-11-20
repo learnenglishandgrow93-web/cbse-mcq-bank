@@ -1,0 +1,1137 @@
+[
+{
+"id":1,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What are the terms of a ratio, and what does a ratio of the form a : b represent?",
+"answer":"In a ratio a : b, the numbers a and b are called the terms of the ratio. It means that for every a units of the first quantity, there are b units of the second quantity.",
+"keywords":[
+"terms",
+"ratio",
+"a : b",
+"first quantity",
+"second quantity"
+],
+"explanation":"A ratio compares two quantities by division. The two numbers forming the ratio are called its terms, showing how many units of the second quantity correspond to the first. This concept is explained on page 3 of the Proportional Reasoning-1 PDF.",
+"page_number":"3"
+},
+{
+"id":2,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":12,
+"max":25
+},
+"question":"Express the ratio 18 : 30 : 42 in its simplest form.",
+"answer":"The HCF of 18, 30, and 42 is 6. Dividing each term by 6 gives 3 : 5 : 7 as the simplest form.",
+"keywords":[
+"HCF",
+"6",
+"simplest form",
+"3 : 5 : 7"
+],
+"explanation":"To reduce a ratio to its simplest form, divide all its terms by their highest common factor (HCF). Dividing 18, 30, and 42 by 6 yields 3 : 5 : 7. This question appears on page 1 of the Level 1 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":3,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"State the cross-multiplication condition for two ratios a : b and c : d to be proportional.",
+"answer":"Two ratios a : b and c : d are proportional if the product of a and d equals the product of b and c, that is, a × d = b × c.",
+"keywords":[
+"proportional",
+"cross-multiplication",
+"a × d = b × c",
+"equal products"
+],
+"explanation":"Cross-multiplication checks whether two ratios have the same value when simplified. If a × d equals b × c, then the ratios are in proportion. This rule is shown on page 2 of the Proportional Reasoning-2 Slides PDF.",
+"page_number":"2"
+},
+{
+"id":4,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"The ratios 6 : 10 and 15 : 25 describe two mixtures. Show whether the two mixtures are proportional.",
+"answer":"Using cross-multiplication, 6 × 25 = 150 and 10 × 15 = 150. Since both products are equal, the two mixtures are proportional.",
+"keywords":[
+"cross-multiplication",
+"150",
+"equal",
+"proportional"
+],
+"explanation":"To check proportionality, multiply the outer terms (6 × 25) and the inner terms (10 × 15). Both equal 150, and both ratios simplify to 3 : 5, so they are proportional. This problem is on page 1 of the Level 1 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":5,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"What does a Representative Fraction (RF) of 1 : 60,00,000 on a map mean?",
+"answer":"An RF of 1 : 60,00,000 means that 1 cm measured on the map represents an actual distance of 60,00,000 cm, or 60 km, on the ground.",
+"keywords":[
+"Representative Fraction",
+"1 cm",
+"60,00,000 cm",
+"60 km",
+"ground"
+],
+"explanation":"Representative Fraction compares map distance to actual geographical distance in the same unit. Since 1,00,000 cm equals 1 km, 60,00,000 cm equals 60 km. This example is on page 3 of the Proportional Reasoning-2 Slides PDF.",
+"page_number":"3"
+},
+{
+"id":6,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":12,
+"max":25
+},
+"question":"A drawing uses the scale 1 : 200. If a wall is 3 cm long in the drawing, find its actual length in metres.",
+"answer":"The actual length of the wall is 3 × 200 = 600 cm. Converting to metres, 600 ÷ 100 = 6 m.",
+"keywords":[
+"scale",
+"600 cm",
+"6 m",
+"actual length"
+],
+"explanation":"Multiply the drawing length by the scale factor 200 to get the actual length in centimetres (600 cm), then divide by 100 to convert centimetres into metres (6 m). This question is on page 1 of the Level 1 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":7,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"A sector in a pie chart represents 1/5 of the whole. Find its central angle.",
+"answer":"Since a complete circle has 360°, the central angle of the sector is (1/5) × 360° = 72°.",
+"keywords":[
+"pie chart",
+"360°",
+"1/5",
+"72°",
+"central angle"
+],
+"explanation":"A pie chart divides a total angle of 360° in proportion to each category's share of the whole. Multiplying the fraction 1/5 by 360° gives 72°. This question is on page 1 of the Level 1 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":8,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":25
+},
+"question":"The number of identical pens and their total cost are directly proportional. If 5 pens cost ₹90, find the constant cost per pen.",
+"answer":"In direct proportion, the ratio of total cost to the number of pens is constant. Thus, the cost per pen is 90 ÷ 5 = ₹18.",
+"keywords":[
+"direct proportion",
+"constant ratio",
+"90 ÷ 5",
+"₹18"
+],
+"explanation":"When two quantities are in direct proportion, dividing one by the other gives a constant rate. Dividing ₹90 by 5 pens gives ₹18 per pen. This problem is on page 1 of the Level 1 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":9,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"For two directly proportional quantities x and y, y/x = 7. Find the value of y when x = 9.",
+"answer":"Given y/x = 7 and x = 9, we get y/9 = 7. Therefore, y = 7 × 9 = 63.",
+"keywords":[
+"directly proportional",
+"y/x = 7",
+"63"
+],
+"explanation":"For directly proportional quantities, the quotient y/x stays constant. Substituting x = 9 into y/x = 7 gives y = 7 × 9 = 63. This question is on page 1 of the Level 1 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":10,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"easy",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":10,
+"max":22
+},
+"question":"For two inversely proportional quantities p and q, pq = 96. Find the value of q when p = 12.",
+"answer":"Given pq = 96 and p = 12, we have 12 × q = 96. Therefore, q = 96 ÷ 12 = 8.",
+"keywords":[
+"inversely proportional",
+"pq = 96",
+"8"
+],
+"explanation":"When two quantities are inversely proportional, their product remains constant. Dividing the constant product 96 by p = 12 gives q = 8. This question is on page 1 of the Level 1 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":11,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":18,
+"max":35
+},
+"question":"Why does a 40 mm × 20 mm rectangular image look distorted compared to a 60 mm × 40 mm image, even though both width and height decreased by 20 mm?",
+"answer":"Images appear similar only when width and height change by the same multiplicative factor, not by subtracting the same amount. Here, height became half, whereas width did not become half.",
+"keywords":[
+"similar",
+"same factor",
+"multiplication",
+"subtraction",
+"distorted"
+],
+"explanation":"Proportionality depends on multiplicative scaling rather than equal additive or subtractive differences. Because 40 : 20 simplifies to 2 : 1 while 60 : 40 simplifies to 3 : 2, the images are not similar. This concept is on page 2 of the Proportional Reasoning-1 PDF.",
+"page_number":"2"
+},
+{
+"id":12,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":18,
+"max":35
+},
+"question":"In Āryabhaṭa’s Rule of Three (Trairasika), how is the fourth unknown quantity (ichchhāphala) calculated from pramāṇa, phala, and ichchhā?",
+"answer":"According to Āryabhaṭa’s Rule of Three, the ichchhāphala is found by multiplying phala by ichchhā and dividing the product by pramāṇa: ichchhāphala = (phala × ichchhā) / pramāṇa.",
+"keywords":[
+"Rule of Three",
+"Trairasika",
+"ichchhāphala",
+"phala",
+"ichchhā",
+"pramāṇa"
+],
+"explanation":"In ancient India, Āryabhaṭa solved proportion problems of the form pramāṇa : phala :: ichchhā : ichchhāphala using cross-multiplication. Multiplying phala by ichchhā and dividing by pramāṇa gives the unknown yield. This is discussed on pages 10 and 11 of the Proportional Reasoning-1 PDF.",
+"page_number":"10"
+},
+{
+"id":13,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":15,
+"max":30
+},
+"question":"Explain why the ratio of two people's ages does not stay the same as the years pass.",
+"answer":"As years pass, the same number is added to both ages. Adding the same number to both terms of a ratio changes the ratio, so it is no longer proportional to the original ratio.",
+"keywords":[
+"same number",
+"added",
+"ratio changes",
+"not proportional"
+],
+"explanation":"A ratio remains proportional only when its terms are multiplied or divided by the same factor. Adding the same number of years to both terms alters the simplified ratio. This is illustrated on page 6 of the Proportional Reasoning-1 PDF.",
+"page_number":"6"
+},
+{
+"id":14,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":12,
+"max":25
+},
+"question":"A map has RF 1 : 75,000. Express the actual distance represented by 1 cm on the map in metres.",
+"answer":"An RF of 1 : 75,000 means 1 cm on the map represents 75,000 cm on the ground. Dividing by 100 gives 75,000 ÷ 100 = 750 m.",
+"keywords":[
+"RF",
+"75,000 cm",
+"100",
+"750 m"
+],
+"explanation":"An RF uses identical units on both sides of the ratio, so 1 cm corresponds to 75,000 cm. Since 1 m equals 100 cm, dividing 75,000 by 100 converts the ground distance to 750 m. This problem is on page 1 of the Level 1 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":15,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"medium",
+"question_type":"very_short_answer",
+"marks":1,
+"expected_word_count":{
+"min":16,
+"max":32
+},
+"question":"State whether the number of identical pumps and the time taken to fill the same tank are in direct or inverse proportion, giving a reason.",
+"answer":"They are in inverse proportion because when more identical pumps work together, the time required to fill the tank decreases by the same factor, keeping their product constant.",
+"keywords":[
+"inverse proportion",
+"more pumps",
+"less time",
+"product constant"
+],
+"explanation":"In inverse proportion, two quantities change in opposite directions while their product stays constant. Doubling the number of pumps halves the filling time for the same tank. This is shown on pages 8 and 9 of the Proportional Reasoning-2 Slides PDF.",
+"page_number":"8"
+},
+{
+"id":16,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Divide ₹4,500 into two parts in the ratio 2 : 3.",
+"answer":"Total number of parts = 2 + 3 = 5. Value of one part = 4,500 ÷ 5 = ₹900. First part = 2 × 900 = ₹1,800, and second part = 3 × 900 = ₹2,700.",
+"keywords":[
+"total parts",
+"5",
+"₹900",
+"₹1,800",
+"₹2,700"
+],
+"explanation":"To divide a whole in a given ratio, add the ratio terms to find the total parts (5), divide the total amount by 5 to find one part (₹900), and multiply by each term. This question is on page 17 of the Proportional Reasoning-1 PDF.",
+"page_number":"17"
+},
+{
+"id":17,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"In a science lab, acid and water are mixed in the ratio 1 : 5 to make a solution. How much acid and water does a 240 mL bottle of this solution contain?",
+"answer":"Total parts = 1 + 5 = 6. Quantity of acid = (1/6) × 240 = 40 mL. Quantity of water = (5/6) × 240 = 200 mL.",
+"keywords":[
+"total parts",
+"6",
+"acid",
+"40 mL",
+"water",
+"200 mL"
+],
+"explanation":"The 240 mL solution is divided into 1 + 5 = 6 equal parts, each equal to 40 mL. Acid takes 1 part (40 mL) and water takes 5 parts (200 mL). This problem is on page 17 of the Proportional Reasoning-1 PDF.",
+"page_number":"17"
+},
+{
+"id":18,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"Four categories are in the ratio 3 : 2 : 4 : 1. Find the central angle of each sector in a pie chart.",
+"answer":"Total parts = 3 + 2 + 4 + 1 = 10. Angle per part = 360° ÷ 10 = 36°. The sector angles are 3 × 36° = 108°, 2 × 36° = 72°, 4 × 36° = 144°, and 1 × 36° = 36°.",
+"keywords":[
+"total parts",
+"10",
+"360°",
+"108°",
+"72°",
+"144°",
+"36°"
+],
+"explanation":"A complete pie chart measures 360°. Dividing 360° by the sum of the ratio terms (10) gives 36° per part, which is multiplied by 3, 2, 4, and 1 to get the four angles. This problem is on page 1 of the Level 1 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":19,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"A 96 m ribbon is cut into three pieces in the ratio 5 : 4 : 3. Find the length of each piece.",
+"answer":"Total parts = 5 + 4 + 3 = 12. Length of one part = 96 ÷ 12 = 8 m. The lengths of the three pieces are 5 × 8 = 40 m, 4 × 8 = 32 m, and 3 × 8 = 24 m.",
+"keywords":[
+"total parts",
+"12",
+"8 m",
+"40 m",
+"32 m",
+"24 m"
+],
+"explanation":"Add the terms 5 + 4 + 3 to get 12 equal parts. Dividing 96 m by 12 gives 8 m per part, and multiplying by 5, 4, and 3 gives 40 m, 32 m, and 24 m. This question is on page 1 of the Level 2 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":20,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"easy",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"Seven identical notebooks cost ₹196. Find the cost of 15 notebooks, assuming the cost is directly proportional to the number bought.",
+"answer":"Let the cost of 15 notebooks be x. By direct proportion, 7 : 196 :: 15 : x. Thus, x = (15 × 196) ÷ 7 = 15 × 28 = ₹420.",
+"keywords":[
+"direct proportion",
+"7 : 196 :: 15 : x",
+"₹28",
+"₹420"
+],
+"explanation":"Since cost and quantity are directly proportional, the cost of one notebook is 196 ÷ 7 = ₹28. Multiplying ₹28 by 15 gives ₹420. This question is on page 1 of the Level 2 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":21,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Nitin builds a 60 ft wall using 3 bags of cement, while Hari builds a 40 ft wall using 2 bags of cement. Show whether both walls are equally strong by comparing their ratios.",
+"answer":"For Nitin, the ratio of wall length to cement bags is 60 : 3, which simplifies to 20 : 1. For Hari, the ratio is 40 : 2, which also simplifies to 20 : 1. Since both ratios are proportional, both walls are equally strong.",
+"keywords":[
+"60 : 3",
+"40 : 2",
+"20 : 1",
+"simplest form",
+"proportional",
+"equally strong"
+],
+"explanation":"Strength depends on the ratio of wall length to cement used, not on the absolute amount of cement alone. Both 60 : 3 and 40 : 2 reduce to 20 : 1, proving they are proportional. This example is on page 5 of the Proportional Reasoning-1 PDF.",
+"page_number":"5"
+},
+{
+"id":22,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"A car travels 90 km in 150 minutes at a constant speed. What distance will it cover in 4 hours?",
+"answer":"First convert 4 hours into minutes: 4 × 60 = 240 minutes. Let the distance covered be x km. Then 150 : 90 :: 240 : x. By cross-multiplication, x = (240 × 90) ÷ 150 = 144 km.",
+"keywords":[
+"240 minutes",
+"150 : 90 :: 240 : x",
+"cross-multiplication",
+"144 km"
+],
+"explanation":"Before setting up the proportion, both times must be expressed in the same unit (minutes). Solving 150 : 90 :: 240 : x via cross-multiplication gives 144 km. This solved example is on page 11 of the Proportional Reasoning-1 PDF.",
+"page_number":"11"
+},
+{
+"id":23,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":28,
+"max":50
+},
+"question":"In Himachal Pradesh, a 200 g packet of tea costs ₹200, while in Meghalaya, a 1 kg packet costs ₹800. Are the weight-to-price ratios proportional? Which tea is more expensive?",
+"answer":"Converting 1 kg to 1,000 g, the Meghalaya weight-to-price ratio is 1,000 : 800 = 5 : 4, whereas Himachal's ratio is 200 : 200 = 1 : 1. Since the simplest forms differ, they are not proportional. For 1 kg, Himachal tea costs 5 × ₹200 = ₹1,000, so Himachal Pradesh tea is more expensive.",
+"keywords":[
+"1,000 g",
+"1 : 1",
+"5 : 4",
+"not proportional",
+"₹1,000",
+"Himachal Pradesh"
+],
+"explanation":"Comparing ratios requires converting weights to the same unit (grams). Simplifying 200 : 200 gives 1 : 1 and 1,000 : 800 gives 5 : 4, showing they are not proportional and Himachal tea costs ₹1,000 per kg versus ₹800 per kg. This example is on pages 11 and 12 of the Proportional Reasoning-1 PDF.",
+"page_number":"12"
+},
+{
+"id":24,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"Find the missing numbers in the following ratios so that they are proportional to 14 : 21: (a) ___ : 42 and (b) 6 : ___.",
+"answer":"(a) The second term 42 is 2 times 21, so the first term is 2 × 14 = 28, giving 28 : 42. (b) To scale 14 to 6, the factor is 6/14 = 3/7. Multiplying 21 by 3/7 gives 9, so the ratio is 6 : 9.",
+"keywords":[
+"factor",
+"28 : 42",
+"3/7",
+"6 : 9"
+],
+"explanation":"In proportional ratios, both terms must be multiplied by the same factor. For 42, the factor is 2; for 6, the fractional factor is 6/14 = 3/7. This example is on page 6 of the Proportional Reasoning-1 PDF.",
+"page_number":"6"
+},
+{
+"id":25,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"A tap takes 15 seconds to fill a 500 mL mug of water. How much time will the same tap take to fill a 10-litre bucket?",
+"answer":"Convert 10 litres to millilitres: 10 × 1,000 = 10,000 mL. Using the proportion 500 : 15 :: 10,000 : t, we get t = (10,000 × 15) ÷ 500 = 300 seconds, which equals 5 minutes.",
+"keywords":[
+"10,000 mL",
+"500 : 15 :: 10,000 : t",
+"300 seconds",
+"5 minutes"
+],
+"explanation":"Using the conversion 1 litre = 1,000 mL, a 10-litre bucket holds 10,000 mL, which is 20 times 500 mL. Multiplying 15 seconds by 20 gives 300 seconds or 5 minutes. This question is on page 19 of the Proportional Reasoning-1 PDF.",
+"page_number":"19"
+},
+{
+"id":26,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":20,
+"max":40
+},
+"question":"On a plan, a 24 m long playground is represented by a line 8 cm long. Find the Representative Fraction (RF) of the plan.",
+"answer":"Convert 24 m to centimetres: 24 × 100 = 2,400 cm. The RF is the ratio of plan length to actual length, which is 8 : 2,400. Dividing both terms by 8 gives RF = 1 : 300.",
+"keywords":[
+"2,400 cm",
+"8 : 2,400",
+"Representative Fraction",
+"1 : 300"
+],
+"explanation":"To calculate RF, both map and actual lengths must be in the same unit. Converting 24 m to 2,400 cm and simplifying 8 : 2,400 gives 1 : 300. This question is on page 1 of the Level 2 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":27,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"A fruit drink is prepared in the ratio orange : pineapple : water = 5 : 3 : 4. If 15 cups of orange juice are used, find the amounts of pineapple juice and water required.",
+"answer":"Here, 5 parts of orange juice = 15 cups, so 1 part = 15 ÷ 5 = 3 cups. Therefore, pineapple juice = 3 × 3 = 9 cups, and water = 4 × 3 = 12 cups.",
+"keywords":[
+"5 parts",
+"1 part = 3",
+"9 cups",
+"12 cups"
+],
+"explanation":"In a multi-term ratio, all terms scale by the same factor. Since 5 parts correspond to 15 cups, the scaling factor is 3, giving 9 cups of pineapple juice and 12 cups of water. This problem is on page 1 of the Level 2 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":28,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":25,
+"max":45
+},
+"question":"A pie chart shows 144° for reading, 90° for games, 54° for music, and the rest for art. Find the angle for art and the simplest ratio reading : art.",
+"answer":"The sum of the given angles is 144° + 90° + 54° = 288°. Since total angles equal 360°, the angle for art is 360° − 288° = 72°. The ratio reading : art is 144 : 72 = 2 : 1.",
+"keywords":[
+"360°",
+"72°",
+"144 : 72",
+"2 : 1"
+],
+"explanation":"All central angles in a pie chart add up to 360°, so subtracting the known angles (288°) gives 72° for art. Simplifying 144 : 72 by dividing by 72 yields 2 : 1. This problem is on page 1 of the Level 2 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":29,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":22,
+"max":42
+},
+"question":"Eight machines complete a fixed job in 15 hours. How long will 12 identical machines take to complete the same job at the same rate?",
+"answer":"The number of machines and time taken are inversely proportional. Using x1y1 = x2y2, we get 8 × 15 = 12 × t, so 120 = 12t, which gives t = 10 hours.",
+"keywords":[
+"inversely proportional",
+"8 × 15 = 12 × t",
+"120",
+"10 hours"
+],
+"explanation":"More machines working at the same rate finish a fixed job in less time, so the product of machines and hours stays constant (120). Dividing 120 by 12 gives 10 hours. This question is on page 1 of the Level 2 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":30,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"medium",
+"question_type":"short_answer",
+"marks":2,
+"expected_word_count":{
+"min":28,
+"max":50
+},
+"question":"On a plan with RF 1 : 1,000, a rectangular eco-park measures 8 cm by 5 cm. Find its actual dimensions in metres, and find its dimensions on a new map where 1 cm represents 5 m.",
+"answer":"Actual length = 8 × 1,000 cm = 8,000 cm = 80 m, and actual breadth = 5 × 1,000 cm = 5,000 cm = 50 m. On the new map where 1 cm = 5 m, the length is 80 ÷ 5 = 16 cm and the breadth is 50 ÷ 5 = 10 cm.",
+"keywords":[
+"80 m",
+"50 m",
+"1 cm = 5 m",
+"16 cm",
+"10 cm"
+],
+"explanation":"First multiply the plan dimensions by 1,000 and divide by 100 to obtain actual measurements in metres (80 m by 50 m). Then divide each actual measurement by 5 m to get the new map dimensions (16 cm by 10 cm). This case study is on page 1 of the Case Study Worksheet Key PDF.",
+"page_number":"1"
+},
+{
+"id":31,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"Blue and yellow paints are mixed in the ratio 3 : 5 to produce 40 mL of green paint. Find the quantity of each colour needed. If 20 mL of yellow paint is added to make a lighter shade, what is the new ratio of blue to yellow?",
+"answer":"Total parts = 3 + 5 = 8. Blue paint = (3/8) × 40 = 15 mL, and yellow paint = (5/8) × 40 = 25 mL. After adding 20 mL of yellow paint, the new amount of yellow paint is 25 + 20 = 45 mL, while blue remains 15 mL. Thus, the new ratio of blue to yellow is 15 : 45 = 1 : 3.",
+"keywords":[
+"15 mL",
+"25 mL",
+"45 mL",
+"15 : 45",
+"1 : 3"
+],
+"explanation":"First divide 40 mL in the ratio 3 : 5 to find the initial quantities (15 mL blue and 25 mL yellow). Adding 20 mL of yellow increases yellow to 45 mL, changing the simplified ratio to 1 : 3. This problem is on page 17 of the Proportional Reasoning-1 PDF.",
+"page_number":"17"
+},
+{
+"id":32,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":60
+},
+"question":"Using the temperature conversion formulas, convert 25°C into Fahrenheit and 95°F into Celsius.",
+"answer":"To convert Celsius to Fahrenheit: Fahrenheit = (9/5) × Celsius + 32 = (9/5) × 25 + 32 = 45 + 32 = 77°F. To convert Fahrenheit to Celsius: Celsius = (5/9) × (Fahrenheit − 32) = (5/9) × (95 − 32) = (5/9) × 63 = 35°C.",
+"keywords":[
+"9/5",
+"5/9",
+"77°F",
+"35°C",
+"32"
+],
+"explanation":"Temperature conversion uses linear formulas rather than direct multiplication alone because 0°C equals 32°F. Applying the two conversion formulas gives 77°F for 25°C and 35°C for 95°F. These formulas are given on page 18 of the Proportional Reasoning-1 PDF.",
+"page_number":"18"
+},
+{
+"id":33,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"The area of Delhi is 1,484 sq. km with a population of about 30 million, while Mumbai has an area of 550 sq. km and a population of about 20 million. Calculate the approximate number of persons per sq. km for both cities and state which city is more crowded.",
+"answer":"In Delhi, persons per sq. km = 3,00,00,000 ÷ 1,484 ≈ 20,216. In Mumbai, persons per sq. km = 2,00,00,000 ÷ 550 ≈ 36,364. Since Mumbai has more people living per square kilometre than Delhi, Mumbai is more crowded.",
+"keywords":[
+"20,216",
+"36,364",
+"per sq. km",
+"Mumbai",
+"more crowded"
+],
+"explanation":"Crowdedness is measured by population density (population divided by area) so both cities are compared on a common 1 sq. km basis. Comparing 36,364 to 20,216 shows Mumbai is more crowded. This problem and solution are on pages 18 and 28 of the Proportional Reasoning-1 PDF.",
+"page_number":"18"
+},
+{
+"id":34,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"A survey records 18 students choosing music, 12 choosing dance, and 30 choosing sports. Find the central angle of each sector to represent this data in a pie chart.",
+"answer":"Total number of students = 18 + 12 + 30 = 60. Angle for music = (18/60) × 360° = 108°. Angle for dance = (12/60) × 360° = 72°. Angle for sports = (30/60) × 360° = 180°.",
+"keywords":[
+"total = 60",
+"108°",
+"72°",
+"180°",
+"360°"
+],
+"explanation":"First find the total frequency (60), then compute each sector's angle using (category value / total value) × 360°. The three angles 108°, 72°, and 180° add up to 360°. This question is on page 1 of the Level 2 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":35,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"medium",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":35,
+"max":65
+},
+"question":"The angles of a triangle are in the ratio 3 : 5 : 7. Find the measure of each angle and state whether the triangle is acute, right-angled, or obtuse.",
+"answer":"The sum of the angles in a triangle is 180°. Total parts = 3 + 5 + 7 = 15. One part = 180° ÷ 15 = 12°. Thus, the angles are 3 × 12° = 36°, 5 × 12° = 60°, and 7 × 12° = 84°. Since all three angles are less than 90°, it is an acute-angled triangle.",
+"keywords":[
+"180°",
+"15 parts",
+"36°",
+"60°",
+"84°",
+"acute"
+],
+"explanation":"Divide the angle sum of a triangle (180°) by the sum of ratio terms (15) to find one part (12°). Multiplying by 3, 5, and 7 gives 36°, 60°, and 84°, all under 90°. This exercise is on page 8 of the Chapter 3 Textbook PDF.",
+"page_number":"8"
+},
+{
+"id":36,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"It is good farming practice to apply 10 tonnes of cow manure for 1 acre of land. A farmer wants to grow tomatoes in a rectangular plot of size 200 ft by 500 ft. Using 1 acre = 43,560 sq. ft, calculate how much manure (in kg) he should buy.",
+"answer":"Area of the plot = 200 × 500 = 1,00,000 sq. ft. Since 1 tonne = 1,000 kg, 10 tonnes = 10,000 kg. Let x kg of manure be needed for 1,00,000 sq. ft. Then x : 1,00,000 :: 10,000 : 43,560. Therefore, x = (1,00,000 × 10,000) ÷ 43,560 ≈ 22,956.8 kg (or about 22.96 tonnes).",
+"keywords":[
+"1,00,000 sq. ft",
+"43,560 sq. ft",
+"10,000 kg",
+"22,956.8 kg"
+],
+"explanation":"Convert both area and manure into consistent units (sq. ft and kg) before setting up the direct proportion. Solving the proportion yields approximately 22,956.8 kg of manure. This problem and its solution are on pages 19 and 29 of the Proportional Reasoning-1 PDF.",
+"page_number":"19"
+},
+{
+"id":37,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"In an ancient problem from Līlāvatī, 2½ palas of saffron cost 3/7 niskas. Find the quantity of saffron that can be bought for 9 niskas.",
+"answer":"Here, 2½ palas = 5/2 palas cost 3/7 niskas. Let x palas be bought for 9 niskas. Setting up the proportion (3/7) : (5/2) :: 9 : x, we get x = (9 × 5/2) ÷ (3/7) = (45/2) × (7/3) = 105/2 = 52.5 palas.",
+"keywords":[
+"5/2 palas",
+"3/7 niskas",
+"52.5 palas",
+"proportion"
+],
+"explanation":"The cost in niskas and weight in palas are directly proportional. Using the Rule of Three (cross-multiplication) with fractions gives (9 × 5/2) ÷ (3/7) = 52.5 palas. This problem is on pages 18, 19, and 28 of the Proportional Reasoning-1 PDF.",
+"page_number":"19"
+},
+{
+"id":38,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":80
+},
+"question":"A ₹10 coin of mass 7.74 g is made of an alloy of copper and nickel mixed in the ratio 3 : 1. If copper costs ₹906 per kg and nickel costs ₹1,341 per kg, find the cost of these metals in one ₹10 coin.",
+"answer":"Total parts = 3 + 1 = 4. Mass of copper = (3/4) × 7.74 = 5.805 g = 0.005805 kg, so its cost = 0.005805 × 906 ≈ ₹5.26. Mass of nickel = (1/4) × 7.74 = 1.935 g = 0.001935 kg, so its cost = 0.001935 × 1,341 ≈ ₹2.59. Total metal cost = ₹5.26 + ₹2.59 = ₹7.85.",
+"keywords":[
+"5.805 g",
+"1.935 g",
+"₹5.26",
+"₹2.59",
+"₹7.85"
+],
+"explanation":"Divide 7.74 g in the ratio 3 : 1 to find the masses of copper and nickel in grams, convert each mass to kilograms by dividing by 1,000, and multiply by the respective per-kg rate. This problem is on pages 19 and 30 of the Proportional Reasoning-1 PDF.",
+"page_number":"19"
+},
+{
+"id":39,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"A tractor can plough the same area of a field 4 times faster than a pair of oxen. A pair of oxen takes 6 hours to plough 1 acre of land. How much time will a pair of oxen take to plough a 20-acre field, and how much time will a tractor take instead?",
+"answer":"Time taken by a pair of oxen to plough 20 acres = 20 × 6 = 120 hours. Since the tractor is 4 times faster, it takes 6 ÷ 4 = 1.5 hours to plough 1 acre. Therefore, time taken by the tractor for 20 acres = 20 × 1.5 = 30 hours.",
+"keywords":[
+"120 hours",
+"1.5 hours",
+"4 times faster",
+"30 hours"
+],
+"explanation":"Area and ploughing time are directly proportional for a fixed ploughing method, while speed and time for a fixed area are inversely proportional. Dividing the oxen time by 4 gives 30 hours for the tractor. This problem is on pages 19 and 30 of the Proportional Reasoning-1 PDF.",
+"page_number":"19"
+},
+{
+"id":40,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Harmain is a 1-year-old girl and her elder brother is 5 years old. After how many years will the ratio of Harmain’s age to her brother’s age be 1 : 2, and what will Harmain’s age be then?",
+"answer":"Let the required number of years be x. After x years, Harmain’s age will be (1 + x) and her brother’s age will be (5 + x). Setting (1 + x) / (5 + x) = 1/2 gives 2(1 + x) = 5 + x, so 2 + 2x = 5 + x, which yields x = 3 years. Harmain’s age will be 1 + 3 = 4 years.",
+"keywords":[
+"1 + x",
+"5 + x",
+"1/2",
+"x = 3",
+"4 years"
+],
+"explanation":"Adding the same number of years x to both ages changes their ratio. Solving the proportional equation (1 + x) : (5 + x) :: 1 : 2 via cross-multiplication finds x = 3 years, making Harmain 4 years old. This problem is on pages 19, 28, and 29 of the Proportional Reasoning-1 PDF.",
+"page_number":"19"
+},
+{
+"id":41,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":75
+},
+"question":"A mixture of 40 kg contains sand and cement in the ratio 3 : 1. How much cement should be added to the mixture to make the ratio of sand to cement 5 : 2?",
+"answer":"In the 40 kg mixture, total parts = 3 + 1 = 4. Weight of sand = (3/4) × 40 = 30 kg, and weight of cement = (1/4) × 40 = 10 kg. Since no sand is added, sand remains 30 kg in the new mixture. For the ratio 5 : 2, 5 : 2 :: 30 : c, so c = (2/5) × 30 = 12 kg. Thus, cement to be added = 12 − 10 = 2 kg.",
+"keywords":[
+"30 kg sand",
+"10 kg cement",
+"5 : 2 :: 30 : c",
+"12 kg",
+"2 kg"
+],
+"explanation":"Because only cement is added, the 30 kg mass of sand stays constant. Setting 30 kg equal to 5 parts in the new ratio 5 : 2 shows the new cement total must be 12 kg, requiring 2 kg more cement. This solved example is on pages 16 and 17 of the Proportional Reasoning-1 PDF.",
+"page_number":"17"
+},
+{
+"id":42,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"I have one bucket of orange paint made by mixing red and yellow paints in the ratio 3 : 5. If I add another identical full bucket of yellow paint to this mixture, what is the ratio of red paint to yellow paint in the new mixture?",
+"answer":"In the original bucket, total parts = 3 + 5 = 8. So the fraction of red paint is 3/8 of a bucket, and yellow paint is 5/8 of a bucket. After adding 1 full bucket of yellow paint, the yellow paint becomes 5/8 + 1 = 13/8 buckets. Therefore, the new ratio of red to yellow paint is 3/8 : 13/8 = 3 : 13.",
+"keywords":[
+"3/8",
+"5/8",
+"13/8",
+"3 : 13"
+],
+"explanation":"Represent each colour as a fraction of one bucket before adding the extra bucket of pure yellow paint. Adding 1 (or 8/8) to 5/8 gives 13/8, producing the ratio 3 : 13. This problem is on pages 17 and 27 of the Proportional Reasoning-1 PDF.",
+"page_number":"17"
+},
+{
+"id":43,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"Two maps show the same road. On Map P, the road measures 9 cm at an RF of 1 : 60,000. On Map Q, the same road measures 6 cm. Find the RF of Map Q.",
+"answer":"On Map P, 1 cm represents 60,000 cm, so 9 cm represents an actual road length of 9 × 60,000 = 5,40,000 cm. On Map Q, 6 cm represents this same actual length of 5,40,000 cm. Therefore, 1 cm on Map Q represents 5,40,000 ÷ 6 = 90,000 cm, making the RF of Map Q 1 : 90,000.",
+"keywords":[
+"5,40,000 cm",
+"actual length",
+"6 cm",
+"90,000",
+"1 : 90,000"
+],
+"explanation":"Both maps depict the identical actual distance, so find the ground length from Map P first (5,40,000 cm). Dividing this actual distance by Map Q's measurement (6 cm) gives Map Q's scale as 1 : 90,000. This question is on page 1 of the Level 3 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":44,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"A mixture has red : blue : white paint = 3 : 5 : 4. After 6 L of red paint is added, the ratio becomes 5 : 5 : 4. Find the original amount of each colour.",
+"answer":"Notice that blue and white parts remain unchanged at 5 parts and 4 parts, while red increases from 3 parts to 5 parts. This increase of 5 − 3 = 2 parts corresponds to 6 L, so 1 part = 6 ÷ 2 = 3 L. Thus, the original amounts are: red = 3 × 3 = 9 L, blue = 5 × 3 = 15 L, and white = 4 × 3 = 12 L.",
+"keywords":[
+"2 parts = 6 L",
+"1 part = 3 L",
+"9 L",
+"15 L",
+"12 L"
+],
+"explanation":"Because blue and white quantities do not change and already have the same ratio terms (5 and 4) in both ratios, the 2-part increase in red directly equals 6 L. Multiplying 3 L by 3, 5, and 4 gives the original volumes. This problem is on page 1 of the Level 3 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":45,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":38,
+"max":68
+},
+"question":"A sum of money is divided among A, B, and C in the ratio 2 : 4 : 7. If C receives ₹1,500 more than A, find the total sum.",
+"answer":"The difference between C’s share and A’s share in terms of ratio parts is 7 − 2 = 5 parts. Given that 5 parts = ₹1,500, 1 part = 1,500 ÷ 5 = ₹300. Total parts = 2 + 4 + 7 = 13 parts. Therefore, the total sum = 13 × 300 = ₹3,900.",
+"keywords":[
+"5 parts",
+"₹1,500",
+"1 part = ₹300",
+"13 parts",
+"₹3,900"
+],
+"explanation":"Equating the difference in ratio parts between C and A (7 − 2 = 5) to ₹1,500 reveals that each part equals ₹300. Multiplying ₹300 by the sum of all parts (13) gives the total sum ₹3,900. This problem is on page 1 of the Level 3 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":46,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"A pie chart has four sectors in the ratio 2 : 3 : 4 : 6. One sector has an angle of 48°. Identify which ratio part it represents and find all four sector angles.",
+"answer":"Total ratio parts = 2 + 3 + 4 + 6 = 15. Angle per part = 360° ÷ 15 = 24°. Since 48° ÷ 24° = 2, the 48° sector represents the ratio part 2. The four sector angles are 2 × 24° = 48°, 3 × 24° = 72°, 4 × 24° = 96°, and 6 × 24° = 144°.",
+"keywords":[
+"15 parts",
+"24°",
+"ratio part 2",
+"48°",
+"72°",
+"96°",
+"144°"
+],
+"explanation":"Dividing 360° by the sum of the ratio terms (15) shows each part equals 24°. Dividing 48° by 24° identifies it as the 2-part sector, and multiplying 24° by each term gives all four angles. This problem is on page 1 of the Level 3 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":47,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":40,
+"max":70
+},
+"question":"A quantity of money is divided in the ratio 3 : 5 : 7. If ₹600 is moved from the largest share to the smallest share, the smallest and middle shares become equal. Find the original total quantity.",
+"answer":"Let the three shares be 3x, 5x, and 7x. After ₹600 is added to the smallest share, it becomes 3x + 600. Since this equals the middle share 5x, we have 3x + 600 = 5x, so 2x = 600 and x = 300. Total parts = 3 + 5 + 7 = 15, so the original total quantity is 15 × 300 = ₹4,500.",
+"keywords":[
+"3x + 600 = 5x",
+"x = 300",
+"15 parts",
+"₹4,500"
+],
+"explanation":"Representing the shares as 3x, 5x, and 7x allows us to equate the updated smallest share (3x + 600) to the unchanged middle share (5x). Solving gives x = 300, making the total 15 × 300 = ₹4,500. This question is on page 1 of the Level 3 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":48,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":72
+},
+"question":"The original plan was for 18 workers to finish a whole job in 20 days. After 8 days, the number of workers increases from 18 to 24. How many more days are needed after the extra workers join?",
+"answer":"After 8 days of work, the remaining job would take the original 18 workers 20 − 8 = 12 days to complete. Now, 24 workers work on this remaining job. By inverse proportion, 18 × 12 = 24 × d, so 216 = 24d, which gives d = 9 days.",
+"keywords":[
+"12 days remaining",
+"24 workers",
+"inverse proportion",
+"18 × 12 = 24 × d",
+"9 days"
+],
+"explanation":"For the uncompleted portion of the job, the product of workers and remaining days stays constant. Equating 18 workers × 12 days to 24 workers × d days shows the remaining work takes 9 days. This question is on page 1 of the Level 3 Worksheet PDF.",
+"page_number":"1"
+},
+{
+"id":49,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":45,
+"max":80
+},
+"question":"Six volunteers working at the same rate can pack 240 relief kits in 4 hours. How many kits can 9 volunteers pack in 4 hours, and how long will 8 volunteers take to pack 480 kits?",
+"answer":"For a fixed time of 4 hours, kits packed are directly proportional to volunteers: 6 : 240 :: 9 : k, so k = (9 × 240) ÷ 6 = 360 kits. For 480 kits (double 240), 6 volunteers would take 4 × 2 = 8 hours. By inverse proportion for 8 volunteers packing 480 kits, 6 × 8 = 8 × t, giving t = 6 hours.",
+"keywords":[
+"360 kits",
+"direct proportion",
+"480 kits",
+"inverse proportion",
+"6 hours"
+],
+"explanation":"When time is fixed, volunteers and kits are directly proportional; when kits are fixed, volunteers and time are inversely proportional. Using both relationships gives 360 kits for 9 volunteers in 4 hours, and 6 hours for 8 volunteers to pack 480 kits. This case study is on page 2 of the Case Study Worksheet Key PDF.",
+"page_number":"2"
+},
+{
+"id":50,
+"subject":"Mathematics",
+"chapter":"Proportional Reasoning-2-QA-v1",
+"difficulty":"hard",
+"question_type":"long_answer",
+"marks":3,
+"expected_word_count":{
+"min":42,
+"max":75
+},
+"question":"A fixed journey is planned at 64 km/h for 5 hours. After travelling for 2 hours, the speed for the remaining distance is increased to 96 km/h. Find the total journey time.",
+"answer":"Total planned distance = 64 × 5 = 320 km. Distance covered in the first 2 hours = 64 × 2 = 128 km. Remaining distance = 320 − 128 = 192 km. Time taken for the remaining distance at 96 km/h = 192 ÷ 96 = 2 hours. Thus, total journey time = 2 + 2 = 4 hours.",
+"keywords":[
+"320 km",
+"128 km",
+"192 km",
+"96 km/h",
+"4 hours"
+],
+"explanation":"Calculate the total fixed distance (320 km) and subtract the distance covered in 2 hours (128 km) to find the remaining distance (192 km). Dividing 192 km by the higher speed (96 km/h) adds 2 hours, making the total time 4 hours. This question is on page 1 of the Level 3 Worksheet PDF.",
+"page_number":"1"
+}
+]
