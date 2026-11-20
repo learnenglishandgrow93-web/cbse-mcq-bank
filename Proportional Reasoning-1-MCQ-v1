@@ -1,0 +1,1617 @@
+[
+  {
+    "id": 1,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "In a ratio expressed in the form a : b, what are the numbers 'a' and 'b' called?",
+    "options": [
+      "Factors of the ratio",
+      "Terms of the ratio",
+      "Multiples of the ratio",
+      "Products of the ratio"
+    ],
+    "answer": "Terms of the ratio",
+    "explanation": "A ratio compares two quantities using the notation a : b, which means for every 'a' units of the first quantity there are 'b' units of the second quantity. The individual numbers 'a' and 'b' in this expression are defined as the terms of the ratio. This foundational concept is introduced on page 3 of the Proportional Reasoning-1 PDF (book page 161).",
+    "page_number": "3 (Book page 161)"
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What is the ratio 60 : 40 expressed in its simplest form?",
+    "options": [
+      "6 : 4",
+      "2 : 3",
+      "3 : 2",
+      "15 : 10"
+    ],
+    "answer": "3 : 2",
+    "explanation": "To reduce a ratio to its simplest form, divide both terms by their highest common factor (HCF). The HCF of 60 and 40 is 20, so dividing both terms by 20 gives 3 : 2. This example is worked out on page 3 of the Proportional Reasoning-1 PDF (book page 161).",
+    "page_number": "3 (Book page 161)"
+  },
+  {
+    "id": 3,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "Simplify the ratio 18 : 30 : 42 to its simplest form.",
+    "options": [
+      "3 : 5 : 7",
+      "6 : 10 : 14",
+      "9 : 15 : 21",
+      "2 : 5 : 7"
+    ],
+    "answer": "3 : 5 : 7",
+    "explanation": "To simplify a three-term ratio, divide every term by the highest common factor (HCF) of all three numbers. The HCF of 18, 30, and 42 is 6, and dividing each term by 6 yields 3 : 5 : 7. This question appears as Question 4 on page 1 of the Level 1 Worksheet PDF.",
+    "page_number": "1 (Level 1 Worksheet)"
+  },
+  {
+    "id": 4,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "What is the simplest form of the ratio 24 : 36?",
+    "options": [
+      "4 : 6",
+      "2 : 3",
+      "3 : 2",
+      "12 : 18"
+    ],
+    "answer": "2 : 3",
+    "explanation": "To find the simplest form of 24 : 36, divide both terms by their HCF, which is 12. Dividing 24 by 12 gives 2, and dividing 36 by 12 gives 3, resulting in 2 : 3. This recall problem is given on page 2 of the Chapter 3 Proportional Reasoning-2 PDF (book page 41).",
+    "page_number": "2 (Book page 41)"
+  },
+  {
+    "id": 5,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Which symbol is used between two ratios a : b and c : d to indicate that they are proportional?",
+    "options": [
+      "=",
+      "::",
+      ":",
+      "//"
+    ],
+    "answer": "::",
+    "explanation": "When two ratios have the same simplest form, they are said to be in proportion or proportional. Mathematics uses the double colon symbol '::' written as a : b :: c : d to indicate proportionality. This notation is explained on page 4 of the Proportional Reasoning-1 PDF (book page 162).",
+    "page_number": "4 (Book page 162)"
+  },
+  {
+    "id": 6,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "If two ratios a : b and c : d are proportional (a : b :: c : d), which relation holds true by cross multiplication?",
+    "options": [
+      "a × b = c × d",
+      "a × c = b × d",
+      "a × d = b × c",
+      "a + d = b + c"
+    ],
+    "answer": "a × d = b × c",
+    "explanation": "When a : b :: c : d, the fractions c/a and d/b are equal, and multiplying both sides by ab yields ad = bc. This rule, known as cross multiplication, checks proportionality and finds unknown terms. It is derived on page 10 of the Proportional Reasoning-1 PDF (book page 168) and shown on page 2 of the Chapter 3 PDF (book page 41).",
+    "page_number": "10 (Book page 168)"
+  },
+  {
+    "id": 7,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What did ancient Indian mathematician Aryabhata (199 CE) call proportionality problems where three quantities are known and a fourth must be found?",
+    "options": [
+      "Binairo",
+      "Trairasika (Rule of Three)",
+      "Representative Fraction",
+      "Inverse Variation"
+    ],
+    "answer": "Trairasika (Rule of Three)",
+    "explanation": "In ancient India, Aryabhata and other scholars called proportionality problems with three given numbers and one unknown quantity 'Trairasika' or the Rule of Three. They used this method to solve practical problems involving proportional quantities. This historical context is presented on pages 9 and 10 of the Proportional Reasoning-1 PDF (book pages 167–168).",
+    "page_number": "10 (Book page 168)"
+  },
+  {
+    "id": 8,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "In Aryabhata's Rule of Three (pramana : phala :: ichchha : ichchhaphala), what term denotes the fourth unknown quantity (yield)?",
+    "options": [
+      "Pramana",
+      "Phala",
+      "Ichchha",
+      "Ichchhaphala"
+    ],
+    "answer": "Ichchhaphala",
+    "explanation": "In Aryabhata's terminology, 'pramana' is the measure, 'phala' is the fruit, and 'ichchha' is the requisition. The fourth unknown quantity to be calculated—the yield—is called 'ichchhaphala' and is obtained by multiplying phala by ichchha and dividing by pramana. This is detailed on page 10 of the Proportional Reasoning-1 PDF (book page 168).",
+    "page_number": "10 (Book page 168)"
+  },
+  {
+    "id": 9,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "In map reading, what does the abbreviation 'RF' stand for?",
+    "options": [
+      "Relative Factor",
+      "Representative Fraction",
+      "Ratio Formula",
+      "Reduced Frequency"
+    ],
+    "answer": "Representative Fraction",
+    "explanation": "Maps use a Representative Fraction (RF) to show the ratio between a distance measured on the map and the corresponding actual distance on the ground. It helps convert small map measurements into real geographical distances. This definition is given on page 3 of the Presentation Slides PDF and page 3 of the Chapter 3 PDF (book page 42).",
+    "page_number": "3 (Book page 42)"
+  },
+  {
+    "id": 10,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "A drawing uses the scale 1 : 200. If a wall is 3 cm long in the drawing, what is its actual length in metres?",
+    "options": [
+      "6 m",
+      "60 m",
+      "600 m",
+      "0.6 m"
+    ],
+    "answer": "6 m",
+    "explanation": "At a scale of 1 : 200, every 1 cm on the drawing represents 200 cm in reality. Therefore, a 3 cm line represents 3 × 200 = 600 cm, which equals 6 metres (since 100 cm = 1 m). This question is given as Question 2 on page 1 of the Level 1 Worksheet PDF.",
+    "page_number": "1 (Level 1 Worksheet)"
+  },
+  {
+    "id": 11,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "A map has a Representative Fraction (RF) of 1 : 75,000. Express the actual distance represented by 1 cm on the map in metres.",
+    "options": [
+      "75 m",
+      "750 m",
+      "7,500 m",
+      "7.5 m"
+    ],
+    "answer": "750 m",
+    "explanation": "An RF of 1 : 75,000 means 1 cm on the map equals 75,000 cm on the ground. Dividing 75,000 cm by 100 converts the distance into 750 metres. This problem appears as Question 3 on page 1 of the Level 1 Worksheet PDF.",
+    "page_number": "1 (Level 1 Worksheet)"
+  },
+  {
+    "id": 12,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "What is the sum of the central angles of all sectors in a complete pie chart?",
+    "options": [
+      "90°",
+      "180°",
+      "270°",
+      "360°"
+    ],
+    "answer": "360°",
+    "explanation": "A pie chart is a circular graph representing parts of a whole, where the entire circle is divided among categories. Because a complete circle measures 360°, the central angles of all sectors must always add up to 360°. This is stated on page 6 of the Presentation Slides PDF and Question 7 on page 14 of the Chapter 3 PDF (book page 53).",
+    "page_number": "14 (Book page 53)"
+  },
+  {
+    "id": 13,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "A pie chart sector represents 1/5 of the whole data. What is its central angle?",
+    "options": [
+      "36°",
+      "60°",
+      "72°",
+      "90°"
+    ],
+    "answer": "72°",
+    "explanation": "To convert a fraction of the whole into a central angle in a pie chart, multiply the fraction by 360°. Multiplying (1/5) × 360° gives 72°. This problem is included as Question 6 on page 1 of the Level 1 Worksheet PDF.",
+    "page_number": "1 (Level 1 Worksheet)"
+  },
+  {
+    "id": 14,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "A circle is divided into 4 equal parts to form a pie chart. What is the measure of the central angle of each part?",
+    "options": [
+      "45°",
+      "60°",
+      "90°",
+      "120°"
+    ],
+    "answer": "90°",
+    "explanation": "A complete circle has a total angle of 360° around its centre. Dividing 360° equally into 4 parts gives 360° ÷ 4 = 90° for each part. This recall question is featured on page 2 of the Chapter 3 Proportional Reasoning-2 PDF (book page 41).",
+    "page_number": "2 (Book page 41)"
+  },
+  {
+    "id": 15,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "Anagh mixes 600 mL of orange juice with 900 mL of apple juice to make a fruit drink. What is the ratio of orange juice to apple juice in its simplest form?",
+    "options": [
+      "3 : 2",
+      "2 : 3",
+      "6 : 9",
+      "1 : 2"
+    ],
+    "answer": "2 : 3",
+    "explanation": "The ratio of orange juice to apple juice is 600 : 900. Dividing both terms by their HCF of 300 reduces the ratio to its simplest form of 2 : 3. This problem and its solution appear on pages 18 and 27 of the Proportional Reasoning-1 PDF (book page 176, key page 5).",
+    "page_number": "18 (Book page 176)"
+  },
+  {
+    "id": 16,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "According to the volume unit conversions table, 1 litre is equal to:",
+    "options": [
+      "100 mL or 100 cc",
+      "500 mL or 500 cc",
+      "1,000 mL or 1,000 cc",
+      "10,000 mL or 10,000 cc"
+    ],
+    "answer": "1,000 mL or 1,000 cc",
+    "explanation": "In standard volume conversions, 1 millilitre (mL) equals 1 cubic centimetre (cc). Since 1 litre contains 1,000 millilitres, it is also equal to 1,000 cubic centimetres (cc). These conversions are listed on page 18 of the Proportional Reasoning-1 PDF (book page 176).",
+    "page_number": "18 (Book page 176)"
+  },
+  {
+    "id": 17,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "How many square metres are there in 1 hectare?",
+    "options": [
+      "1,000 square metres",
+      "10,000 square metres",
+      "43,560 square metres",
+      "100 square metres"
+    ],
+    "answer": "10,000 square metres",
+    "explanation": "The reference list of area unit conversions states that 1 hectare equals 10,000 square metres (and approximately 2.471 acres). Knowing these conversions is essential before setting up proportions with mixed units. This conversion appears on page 18 of the Proportional Reasoning-1 PDF (book page 176).",
+    "page_number": "18 (Book page 176)"
+  },
+  {
+    "id": 18,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "What temperature on the Fahrenheit scale corresponds to 0°C?",
+    "options": [
+      "0°F",
+      "25°F",
+      "32°F",
+      "77°F"
+    ],
+    "answer": "32°F",
+    "explanation": "Using the temperature conversion formula Fahrenheit = (9/5) × Celsius + 32, substituting 0 for Celsius gives (9/5) × 0 + 32 = 32°F. Therefore, 0°C is equal to 32°F. This is explicitly noted on page 18 of the Proportional Reasoning-1 PDF (book page 176).",
+    "page_number": "18 (Book page 176)"
+  },
+  {
+    "id": 19,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "To make soft idlis, rice and urad dal are mixed in the ratio 2 : 1. How many cups of rice and urad dal are needed to make 6 cups of this mixture?",
+    "options": [
+      "3 cups of rice and 3 cups of urad dal",
+      "4 cups of rice and 2 cups of urad dal",
+      "2 cups of rice and 4 cups of urad dal",
+      "5 cups of rice and 1 cup of urad dal"
+    ],
+    "answer": "4 cups of rice and 2 cups of urad dal",
+    "explanation": "The ratio 2 : 1 has 2 + 1 = 3 total parts. Dividing 6 cups by 3 parts gives 2 cups per part, so rice is 2 × 2 = 4 cups and urad dal is 1 × 2 = 2 cups. This exercise and answer are on pages 17 and 27 of the Proportional Reasoning-1 PDF (book page 175, key page 5).",
+    "page_number": "17 (Book page 175)"
+  },
+  {
+    "id": 20,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "The number of identical pens and their total cost are directly proportional. If 5 pens cost ₹90, what is the constant cost per pen?",
+    "options": [
+      "₹15",
+      "₹16",
+      "₹18",
+      "₹20"
+    ],
+    "answer": "₹18",
+    "explanation": "In a direct proportion, the ratio of total cost to the number of pens remains constant. Dividing the total cost of ₹90 by 5 pens gives ₹18 per pen. This problem is Question 7 on page 1 of the Level 1 Worksheet PDF.",
+    "page_number": "1 (Level 1 Worksheet)"
+  },
+  {
+    "id": 21,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "For two directly proportional quantities x and y, the ratio y / x = 7. What is the value of y when x = 9?",
+    "options": [
+      "16",
+      "56",
+      "63",
+      "72"
+    ],
+    "answer": "63",
+    "explanation": "Since y / x = 7 is constant for directly proportional quantities, substituting x = 9 gives y / 9 = 7. Multiplying both sides by 9 yields y = 7 × 9 = 63. This problem is Question 8 on page 1 of the Level 1 Worksheet PDF.",
+    "page_number": "1 (Level 1 Worksheet)"
+  },
+  {
+    "id": 22,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "For two inversely proportional quantities p and q, their product pq = 96. Find the value of q when p = 12.",
+    "options": [
+      "6",
+      "8",
+      "12",
+      "84"
+    ],
+    "answer": "8",
+    "explanation": "When two quantities are inversely proportional, their product remains constant (pq = 96). Substituting p = 12 gives 12 × q = 96, so dividing 96 by 12 gives q = 8. This question appears as Question 9 on page 1 of the Level 1 Worksheet PDF.",
+    "page_number": "1 (Level 1 Worksheet)"
+  },
+  {
+    "id": 23,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "Four pens cost ₹60. Assuming cost is directly proportional to quantity, what is the cost of 10 pens?",
+    "options": [
+      "₹120",
+      "₹150",
+      "₹180",
+      "₹200"
+    ],
+    "answer": "₹150",
+    "explanation": "If 4 pens cost ₹60, the unit cost of 1 pen is 60 ÷ 4 = ₹15. Multiplying this unit cost by 10 pens gives 10 × 15 = ₹150. This multiple-choice question is Question 2 on page 13 of the Chapter 3 Proportional Reasoning-2 PDF (book page 52).",
+    "page_number": "13 (Book page 52)"
+  },
+  {
+    "id": 24,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "If the number of workers assigned to a task is doubled (all working at the same rate), the time required to complete the same work becomes:",
+    "options": [
+      "double",
+      "four times",
+      "half",
+      "unchanged"
+    ],
+    "answer": "half",
+    "explanation": "The number of workers and the time required to finish a fixed job are inversely proportional, so their product stays constant. Therefore, multiplying the number of workers by 2 divides the required time by 2, making it half. This is Question 10 on page 14 of the Chapter 3 PDF (book page 53).",
+    "page_number": "14 (Book page 53)"
+  },
+  {
+    "id": 25,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "Which of the following pairs of quantities is in direct proportion?",
+    "options": [
+      "Number of workers and time to complete the same work",
+      "Speed and time to travel a fixed distance",
+      "Number of chairs and their total cost",
+      "Number of taps and time to fill the same tank"
+    ],
+    "answer": "Number of chairs and their total cost",
+    "explanation": "At a fixed price per chair, buying more chairs increases the total cost by the same factor, keeping the cost-to-quantity ratio constant. The other three pairs involve inverse proportions where one quantity increases as the other decreases. This is Question 8 on page 14 of the Chapter 3 PDF (book page 53).",
+    "page_number": "14 (Book page 53)"
+  },
+  {
+    "id": 26,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question": "Which pair of quantities is in inverse proportion?",
+    "options": [
+      "Distance travelled and time (at constant speed)",
+      "Cost and number of items of same unit price",
+      "Number of machines and time taken to complete the same task",
+      "Radius of a circle and its diameter"
+    ],
+    "answer": "Number of machines and time taken to complete the same task",
+    "explanation": "When more identical machines work together on the same task, the time required decreases in the same proportion so that (machines × time) remains constant. In all other options, both quantities increase or decrease together in direct proportion. This is Question 9 on page 14 of the Chapter 3 PDF (book page 53).",
+    "page_number": "14 (Book page 53)"
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "easy",
+    "question": "In a Binairo (Takuzu) logic puzzle played on a square grid with horizontal and vertical lines, what is the rule regarding adjacent identical symbols?",
+    "options": [
+      "No two identical lines can be adjacent",
+      "More than two horizontal or vertical lines cannot be adjacent",
+      "Up to three identical lines can be adjacent",
+      "Adjacent lines must always alternate"
+    ],
+    "answer": "More than two horizontal or vertical lines cannot be adjacent",
+    "explanation": "The three rules of Binairo state that each row and column must have an equal number of horizontal and vertical lines, each row and column must be unique, and more than two identical lines cannot be placed next to each other. These puzzle rules are explained on page 20 of the Proportional Reasoning-1 PDF (book page 178).",
+    "page_number": "20 (Book page 178)"
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The ratios 2 : 4 : 6 and 3 : 6 : 9 are proportional.\nReason (R): Each corresponding term is multiplied by the same factor.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Each term of 2 : 4 : 6 when multiplied by 1.5 (or 3/2) gives 3 : 6 : 9, and both ratios simplify to 1 : 2 : 3. Because all corresponding terms change by the same multiplicative factor, the ratios are proportional. This is Assertion and Reason Question 1 on page 16 of the Chapter 3 PDF (book page 55).",
+    "page_number": "16 (Book page 55)"
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): The total cost of the same type of notebooks is directly proportional to the number of notebooks.\nReason (R): The ratio of the total cost to the number of notebooks remains constant.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "For identical notebooks, each notebook has the same fixed price, so the ratio of total cost to the number of notebooks is always constant. By definition, two quantities whose ratio stays constant are directly proportional, so R correctly explains A. This is Assertion and Reason Question 2 on page 16 of the Chapter 3 PDF (book page 55).",
+    "page_number": "16 (Book page 55)"
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "easy",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): A map's Representative Fraction (RF) always gives the exact road distance between two cities.\nReason (R): Map scale gives straight-line geographical distance on the ground, not necessarily road distance.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Assertion (A) is false because roads curve and wind around terrain, so map scale measurements do not directly measure road distance. Reason (R) is true because RF measures straight-line geographical distance between locations on the ground. This reminder is highlighted on page 3 of the Presentation Slides PDF and page 3 of the Chapter 3 PDF (book page 42).",
+    "page_number": "3 (Book page 42)"
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Image A is 60 mm wide and 40 mm high. Image B is 40 mm wide and 20 mm high. Why does the tiger in Image B look distorted compared to Image A?",
+    "options": [
+      "Both dimensions were multiplied by 2",
+      "Both dimensions decreased by 20 mm rather than changing by the same multiplicative factor",
+      "The ratio 40 : 20 is equal to 60 : 40",
+      "Image B is a square while Image A is a rectangle"
+    ],
+    "answer": "Both dimensions decreased by 20 mm rather than changing by the same multiplicative factor",
+    "explanation": "Although both width and height of Image B are 20 mm less than Image A, subtracting the same number does not keep a ratio proportional. The height halved (factor 1/2), whereas the width changed by a factor of 2/3 (40/60), causing distortion. This concept is explained on page 2 of the Proportional Reasoning-1 PDF (book page 160).",
+    "page_number": "2 (Book page 160)"
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Which of the following statements of proportion is TRUE?",
+    "options": [
+      "8 : 3 :: 24 : 6",
+      "7 : 12 :: 12 : 7",
+      "21 : 6 :: 35 : 10",
+      "12 : 18 :: 28 : 12"
+    ],
+    "answer": "21 : 6 :: 35 : 10",
+    "explanation": "Checking cross-products or simplest forms: 21 : 6 simplifies (dividing by 3) to 7 : 2, and 35 : 10 simplifies (dividing by 5) to 7 : 2. Also, 21 × 10 = 210 and 6 × 35 = 210, confirming they are proportional while the other pairs are not. This is part (iv) of Figure it Out Question 1 on page 7 of the Proportional Reasoning-1 PDF (book page 165).",
+    "page_number": "7 (Book page 165)"
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Find the missing number in the proportion 18 : 24 :: 20 : ____.",
+    "options": [
+      "26",
+      "27",
+      "80/3",
+      "30"
+    ],
+    "answer": "80/3",
+    "explanation": "First, simplify 18 : 24 by dividing both terms by 6 to get 3 : 4. Using cross multiplication on 3 : 4 :: 20 : x gives 3x = 4 × 20 = 80, so x = 80/3. This problem and its exact fractional answer appear on pages 7 and 23 of the Proportional Reasoning-1 PDF (book page 165, key page 1).",
+    "page_number": "23 (Key page 1)"
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Kesang made 6 glasses of lemonade using 10 spoons of sugar. How many spoons of sugar should she use to make 18 glasses of lemonade with the same sweetness?",
+    "options": [
+      "22 spoons",
+      "28 spoons",
+      "30 spoons",
+      "36 spoons"
+    ],
+    "answer": "30 spoons",
+    "explanation": "To preserve the sweetness, the ratio must satisfy 6 : 10 :: 18 : x. Since 18 is 3 times 6, the number of spoons of sugar must also increase by a factor of 3, giving 10 × 3 = 30 spoons. This is Example 2 on pages 4–5 of the Proportional Reasoning-1 PDF (book pages 162–163).",
+    "page_number": "5 (Book page 163)"
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Nitin built a 60 ft wall using 3 bags of cement, while Hari built a 40 ft wall using 2 bags of cement. Which statement is correct about the strength of the walls?",
+    "options": [
+      "Nitin's wall is stronger because he used more cement",
+      "Hari's wall is stronger because it is shorter",
+      "Both walls are equally strong because 60 : 3 and 40 : 2 are proportional",
+      "Neither wall is proportional"
+    ],
+    "answer": "Both walls are equally strong because 60 : 3 and 40 : 2 are proportional",
+    "explanation": "Comparing the ratio of wall length to bags of cement, Nitin's ratio is 60 : 3 = 20 : 1 and Hari's ratio is 40 : 2 = 20 : 1. Since both ratios reduce to 20 : 1 in simplest form, the cement concentration per foot is identical and both walls are equally strong. This is Example 3 on page 5 of the Proportional Reasoning-1 PDF (book page 163).",
+    "page_number": "5 (Book page 163)"
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "When Neelima was 3 years old, her mother's age was 10 times hers (30 years). What will be the simplest ratio of Neelima's age to her mother's age when Neelima is 12 years old?",
+    "options": [
+      "1 : 10",
+      "4 : 13",
+      "12 : 40",
+      "3 : 10"
+    ],
+    "answer": "4 : 13",
+    "explanation": "Nine years later, when Neelima is 3 + 9 = 12 years old, her mother will be 30 + 9 = 39 years old. The ratio of their ages becomes 12 : 39, which simplifies (dividing both terms by 3) to 4 : 13, showing that adding the same number changes a ratio. This is Example 6 on page 6 of the Proportional Reasoning-1 PDF (book page 164).",
+    "page_number": "6 (Book page 164)"
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Manjunath's regular filter coffee has 15 mL of coffee decoction to 35 mL of milk. Which of the following mixtures is STRONGER than his regular coffee?",
+    "options": [
+      "150 mL decoction and 500 mL milk",
+      "300 mL decoction and 600 mL milk",
+      "24 mL decoction and 56 mL milk",
+      "100 mL decoction and 300 mL milk"
+    ],
+    "answer": "300 mL decoction and 600 mL milk",
+    "explanation": "Regular coffee has a decoction-to-milk ratio of 15 : 35, or 3 : 7 (30% decoction of total volume). Mixing 300 mL decoction with 600 mL milk gives a ratio of 1 : 2 (33.3% decoction), which has a higher proportion of coffee decoction and is therefore stronger. This comparison table appears on pages 6–7 of the Proportional Reasoning-1 PDF (book pages 164–165).",
+    "page_number": "7 (Book page 165)"
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In brick wall pattern (a), each repeating block consists of 9 grey bricks and 6 red bricks. What is the ratio of grey bricks to coloured bricks in its simplest form?",
+    "options": [
+      "2 : 3",
+      "3 : 2",
+      "4 : 3",
+      "9 : 6"
+    ],
+    "answer": "3 : 2",
+    "explanation": "Each repeating unit of wall (a) contains 2 + 3 + 4 = 9 grey bricks and 3 + 2 + 1 = 6 coloured (red) bricks. Dividing both numbers in 9 : 6 by their HCF of 3 gives the simplest ratio 3 : 2. This problem and solution are on pages 8 and 25 of the Proportional Reasoning-1 PDF (book page 166, key page 3).",
+    "page_number": "25 (Key page 3)"
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In brick wall pattern (b), one repeating block contains 16 grey bricks and 12 coloured bricks. What is the simplest ratio of grey bricks to coloured bricks?",
+    "options": [
+      "4 : 3",
+      "3 : 4",
+      "8 : 6",
+      "16 : 12"
+    ],
+    "answer": "4 : 3",
+    "explanation": "Counting the bricks in one full block of wall (b) yields 16 grey bricks and 12 coloured bricks, giving a ratio of 16 : 12. Dividing both terms by their HCF of 4 simplifies the ratio to 4 : 3. This is part (b) of Question 6 on pages 8 and 25 of the Proportional Reasoning-1 PDF (book page 166, key page 3).",
+    "page_number": "25 (Key page 3)"
+  },
+  {
+    "id": 40,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A car travels 90 km in 150 minutes. Continuing at the same speed, what distance will it cover in 4 hours?",
+    "options": [
+      "120 km",
+      "135 km",
+      "144 km",
+      "160 km"
+    ],
+    "answer": "144 km",
+    "explanation": "First convert 4 hours to 240 minutes so both times use the same unit. Setting up the proportion 150 : 90 :: 240 : x gives x = (240 × 90) / 150 = 144 km. This is Example 9 on page 11 of the Proportional Reasoning-1 PDF (book page 169).",
+    "page_number": "11 (Book page 169)"
+  },
+  {
+    "id": 41,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A farmer in Himachal Pradesh sells 200 g of tea for ₹200, while an estate in Meghalaya sells 1 kg of tea for ₹800. Which statement is true?",
+    "options": [
+      "Their weight-to-price ratios are proportional",
+      "Meghalaya tea is more expensive at ₹1,000 per kg",
+      "Himachal tea is more expensive at ₹1,000 per kg",
+      "Both teas cost ₹800 per kg"
+    ],
+    "answer": "Himachal tea is more expensive at ₹1,000 per kg",
+    "explanation": "Since 200 g is 1/5 of 1 kg, 1 kg of Himachal tea costs 5 × ₹200 = ₹1,000, whereas 1 kg of Meghalaya tea costs ₹800. Their weight-to-price ratios (1 : 1 and 5 : 4) are not proportional, and Himachal tea is more expensive. This is Example 10 on pages 11–12 of the Proportional Reasoning-1 PDF (book pages 169–170).",
+    "page_number": "12 (Book page 170)"
+  },
+  {
+    "id": 42,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Prashanti invested ₹75,000 and Bhuvan invested ₹25,000 in a food cart business. If they share a ₹4,000 profit in the ratio of their investments, what is Prashanti's share?",
+    "options": [
+      "₹1,000",
+      "₹2,000",
+      "₹3,000",
+      "₹3,500"
+    ],
+    "answer": "₹3,000",
+    "explanation": "The investment ratio 75,000 : 25,000 simplifies to 3 : 1, making 3 + 1 = 4 total parts. Dividing ₹4,000 by 4 gives ₹1,000 per part, so Prashanti gets 3 × ₹1,000 = ₹3,000. This is Example 11 on page 16 of the Proportional Reasoning-1 PDF (book page 174).",
+    "page_number": "16 (Book page 174)"
+  },
+  {
+    "id": 43,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Divide ₹4,500 into two parts in the ratio 2 : 3.",
+    "options": [
+      "₹1,500 and ₹3,000",
+      "₹1,800 and ₹2,700",
+      "₹2,000 and ₹2,500",
+      "₹1,600 and ₹2,900"
+    ],
+    "answer": "₹1,800 and ₹2,700",
+    "explanation": "The sum of the ratio parts is 2 + 3 = 5. Each part equals 4,500 ÷ 5 = ₹900, so the two parts are 2 × 900 = ₹1,800 and 3 × 900 = ₹2,700. This problem is Question 1 on pages 17 and 26 of the Proportional Reasoning-1 PDF (book page 175, key page 4).",
+    "page_number": "26 (Key page 4)"
+  },
+  {
+    "id": 44,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "In a science lab, acid and water are mixed in the ratio 1 : 5. How much acid and water are in a 240 mL bottle of this solution?",
+    "options": [
+      "40 mL acid and 200 mL water",
+      "48 mL acid and 192 mL water",
+      "30 mL acid and 210 mL water",
+      "60 mL acid and 180 mL water"
+    ],
+    "answer": "40 mL acid and 200 mL water",
+    "explanation": "The total number of parts in the ratio 1 : 5 is 1 + 5 = 6. Dividing 240 mL by 6 gives 40 mL per part, so the solution contains 1 × 40 = 40 mL of acid and 5 × 40 = 200 mL of water. This is Question 2 on pages 17 and 26 of the Proportional Reasoning-1 PDF (book page 175, key page 4).",
+    "page_number": "26 (Key page 4)"
+  },
+  {
+    "id": 45,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Last year, 3 full buses carried 162 students and teachers. This year there are 204 people. How many buses are needed and how many seats will remain vacant?",
+    "options": [
+      "4 buses, 12 seats vacant",
+      "4 buses, 8 seats vacant",
+      "3 buses, 42 seats vacant",
+      "5 buses, 66 seats vacant"
+    ],
+    "answer": "4 buses, 12 seats vacant",
+    "explanation": "One bus holds 162 ÷ 3 = 54 people. For 204 people, 204 ÷ 54 = 3.77..., so 4 buses are needed; 4 buses provide 4 × 54 = 216 seats, leaving 216 − 204 = 12 vacant seats. This is Question 2 on pages 18, 27, and 28 of the Proportional Reasoning-1 PDF (book page 176, key page 6).",
+    "page_number": "28 (Key page 6)"
+  },
+  {
+    "id": 46,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Delhi has an area of 1,484 sq. km and a population of 30 million, while Mumbai has an area of 550 sq. km and a population of 20 million. Which city is more crowded?",
+    "options": [
+      "Delhi, because its total population is larger",
+      "Mumbai, because it has about 36,364 persons per sq. km compared to 20,216 in Delhi",
+      "Both are equally crowded",
+      "Delhi, because its area is larger"
+    ],
+    "answer": "Mumbai, because it has about 36,364 persons per sq. km compared to 20,216 in Delhi",
+    "explanation": "Crowdedness is measured by population density (persons per sq. km). Delhi has 30,000,000 ÷ 1,484 ≈ 20,216 persons/sq. km, whereas Mumbai has 20,000,000 ÷ 550 ≈ 36,364 persons/sq. km, making Mumbai more crowded. This is Question 3 on pages 18 and 28 of the Proportional Reasoning-1 PDF (book page 176, key page 6).",
+    "page_number": "28 (Key page 6)"
+  },
+  {
+    "id": 47,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "Using the formula Fahrenheit = (9/5) × Celsius + 32, convert 25°C into degrees Fahrenheit.",
+    "options": [
+      "67°F",
+      "75°F",
+      "77°F",
+      "81°F"
+    ],
+    "answer": "77°F",
+    "explanation": "Substituting Celsius = 25 into the formula gives Fahrenheit = (9/5) × 25 + 32. Since (9/5) × 25 = 45, adding 32 gives 77°F. This worked example is provided on page 18 of the Proportional Reasoning-1 PDF (book page 176).",
+    "page_number": "18 (Book page 176)"
+  },
+  {
+    "id": 48,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "The masses of equal volumes of gold and water are in the ratio 37 : 2. If 1 litre of water has a mass of 1 kg, what is the mass of 1 litre of gold?",
+    "options": [
+      "18.5 kg",
+      "19.5 kg",
+      "37 kg",
+      "74 kg"
+    ],
+    "answer": "18.5 kg",
+    "explanation": "For equal volumes (1 litre), the ratio of the mass of gold to water is 37 : 2 :: x : 1. By cross multiplication, 2x = 37 × 1, which gives x = 37 ÷ 2 = 18.5 kg. This is Question 7 on pages 19 and 29 of the Proportional Reasoning-1 PDF (book page 177, key page 7).",
+    "page_number": "29 (Key page 7)"
+  },
+  {
+    "id": 49,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A tap takes 15 seconds to fill a 500 mL mug. At the same rate, how much time will it take to fill a 10-litre bucket?",
+    "options": [
+      "3 minutes",
+      "4 minutes",
+      "5 minutes",
+      "10 minutes"
+    ],
+    "answer": "5 minutes",
+    "explanation": "Convert 10 litres to 10,000 mL, which is 10,000 ÷ 500 = 20 mugs. Multiplying 20 mugs by 15 seconds per mug gives 300 seconds, which equals 300 ÷ 60 = 5 minutes. This is Question 9 on pages 19 and 29 of the Proportional Reasoning-1 PDF (book page 177, key page 7).",
+    "page_number": "29 (Key page 7)"
+  },
+  {
+    "id": 50,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question": "A tractor ploughs 4 times faster than a pair of oxen. If a pair of oxen takes 6 hours to plough 1 acre, how long will the tractor take to plough a 20-acre field?",
+    "options": [
+      "15 hours",
+      "24 hours",
+      "30 hours",
+      "120 hours"
+    ],
+    "answer": "30 hours",
+    "explanation": "Being 4 times faster, the tractor takes 6 ÷ 4 = 1.5 hours to plough 1 acre. Therefore, to plough 20 acres, the tractor will take 20 × 1.5 = 30 hours. This is Question 11 on pages 19 and 30 of the Proportional Reasoning-1 PDF (book page 177, key page 8).",
+    "page_number": "30 (Key page 8)"
+  },
+  {
+    "id": 51,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "On a plan, a 24 m long playground is represented by a line 8 cm long. What is the Representative Fraction (RF) of the plan?",
+    "options": [
+      "1 : 3",
+      "1 : 30",
+      "1 : 300",
+      "1 : 3,000"
+    ],
+    "answer": "1 : 300",
+    "explanation": "Convert both lengths to centimetres: 24 m = 2,400 cm. The ratio of plan length to actual length is 8 : 2,400, which simplifies (dividing by 8) to 1 : 300. This problem is Question 1 on page 1 of the Level 2 Worksheet PDF.",
+    "page_number": "1 (Level 2 Worksheet)"
+  },
+  {
+    "id": 52,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "A fruit drink is prepared in the ratio orange : pineapple : water = 5 : 3 : 4. If 15 cups of orange juice are used, find the amounts of pineapple juice and water needed.",
+    "options": [
+      "9 cups of pineapple juice and 12 cups of water",
+      "6 cups of pineapple juice and 8 cups of water",
+      "12 cups of pineapple juice and 16 cups of water",
+      "10 cups of pineapple juice and 15 cups of water"
+    ],
+    "answer": "9 cups of pineapple juice and 12 cups of water",
+    "explanation": "Five parts of orange juice equal 15 cups, so 1 part equals 15 ÷ 5 = 3 cups. Multiplying the other ratio terms by 3 gives 3 × 3 = 9 cups of pineapple juice and 4 × 3 = 12 cups of water. This is Question 2 on page 1 of the Level 2 Worksheet PDF.",
+    "page_number": "1 (Level 2 Worksheet)"
+  },
+  {
+    "id": 53,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "₹7,200 is shared among three clubs in the ratio 4 : 3 : 5. Find each club's share.",
+    "options": [
+      "₹2,000, ₹1,800, ₹3,400",
+      "₹2,400, ₹1,800, ₹3,000",
+      "₹2,400, ₹2,000, ₹2,800",
+      "₹1,800, ₹2,400, ₹3,000"
+    ],
+    "answer": "₹2,400, ₹1,800, ₹3,000",
+    "explanation": "The total number of parts is 4 + 3 + 5 = 12. One part equals 7,200 ÷ 12 = ₹600, so the three clubs receive 4 × 600 = ₹2,400, 3 × 600 = ₹1,800, and 5 × 600 = ₹3,000 respectively. This is Question 3 on page 1 of the Level 2 Worksheet PDF.",
+    "page_number": "1 (Level 2 Worksheet)"
+  },
+  {
+    "id": 54,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "A 96 m ribbon is cut into three pieces in the ratio 5 : 4 : 3. What is the length of each piece?",
+    "options": [
+      "45 m, 30 m, 21 m",
+      "40 m, 32 m, 24 m",
+      "36 m, 32 m, 28 m",
+      "42 m, 32 m, 22 m"
+    ],
+    "answer": "40 m, 32 m, 24 m",
+    "explanation": "Adding the ratio terms gives 5 + 4 + 3 = 12 total parts. Each part measures 96 ÷ 12 = 8 m, yielding piece lengths of 5 × 8 = 40 m, 4 × 8 = 32 m, and 3 × 8 = 24 m. This is Question 4 on page 1 of the Level 2 Worksheet PDF.",
+    "page_number": "1 (Level 2 Worksheet)"
+  },
+  {
+    "id": 55,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "A pie chart shows 144° for reading, 90° for games, 54° for music, and the rest for art. Find the angle for art and the simplest ratio reading : art.",
+    "options": [
+      "72° and 2 : 1",
+      "72° and 1 : 2",
+      "68° and 3 : 2",
+      "82° and 9 : 5"
+    ],
+    "answer": "72° and 2 : 1",
+    "explanation": "Since all angles in a pie chart add up to 360°, the angle for art is 360° − (144° + 90° + 54°) = 360° − 288° = 72°. The ratio of reading to art is 144 : 72, which simplifies to 2 : 1. This is Question 5 on page 1 of the Level 2 Worksheet PDF.",
+    "page_number": "1 (Level 2 Worksheet)"
+  },
+  {
+    "id": 56,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "A car covers 156 km in 3 hours at a constant speed. How far will it travel in 7.5 hours at the same speed?",
+    "options": [
+      "360 km",
+      "375 km",
+      "390 km",
+      "420 km"
+    ],
+    "answer": "390 km",
+    "explanation": "At constant speed, distance is directly proportional to time. The car's speed is 156 ÷ 3 = 52 km/h, so in 7.5 hours it will cover 52 × 7.5 = 390 km. This problem is Question 8 on page 1 of the Level 2 Worksheet PDF.",
+    "page_number": "1 (Level 2 Worksheet)"
+  },
+  {
+    "id": 57,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "Eight machines complete a fixed job in 15 hours. How long will 12 identical machines take, working at the same rate?",
+    "options": [
+      "8 hours",
+      "10 hours",
+      "12 hours",
+      "22.5 hours"
+    ],
+    "answer": "10 hours",
+    "explanation": "The number of machines and the time taken are inversely proportional, so x1 × y1 = x2 × y2. Setting 8 × 15 = 12 × t gives 120 = 12t, so t = 10 hours. This is Question 9 on page 1 of the Level 2 Worksheet PDF.",
+    "page_number": "1 (Level 2 Worksheet)"
+  },
+  {
+    "id": 58,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "A survey records 18 students choosing music, 12 choosing dance, and 30 choosing sports. What are the sector angles for music, dance, and sports in a pie chart?",
+    "options": [
+      "100°, 80°, 180°",
+      "108°, 72°, 180°",
+      "120°, 60°, 180°",
+      "90°, 90°, 180°"
+    ],
+    "answer": "108°, 72°, 180°",
+    "explanation": "The total number of students is 18 + 12 + 30 = 60, so each student corresponds to 360° ÷ 60 = 6°. Thus, music is 18 × 6° = 108°, dance is 12 × 6° = 72°, and sports is 30 × 6° = 180°. This is Question 10 on page 1 of the Level 2 Worksheet PDF.",
+    "page_number": "1 (Level 2 Worksheet)"
+  },
+  {
+    "id": 59,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "On a map with RF 1 : 50,00,000, the distance between two cities is 4.2 cm. What is the actual geographical distance?",
+    "options": [
+      "21 km",
+      "210 km",
+      "2,100 km",
+      "420 km"
+    ],
+    "answer": "210 km",
+    "explanation": "An RF of 1 : 50,00,000 means 1 cm on the map represents 50,00,000 cm = 50 km on the ground. Multiplying 4.2 cm by 50 km gives an actual geographical distance of 210 km. This is Question 3 of Exercise 3.1 on page 4 of the Chapter 3 PDF (book page 43).",
+    "page_number": "4 (Book page 43)"
+  },
+  {
+    "id": 60,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "Two towns are 180 km apart. If a map has an RF of 1 : 30,00,000, what will be the distance between the towns on the map?",
+    "options": [
+      "4 cm",
+      "5 cm",
+      "6 cm",
+      "9 cm"
+    ],
+    "answer": "6 cm",
+    "explanation": "At RF 1 : 30,00,000, 1 cm on the map equals 30,00,000 cm = 30 km in reality. Dividing the actual distance of 180 km by 30 km per cm gives 6 cm on the map. This is Question 4 of Exercise 3.1 on page 4 of the Chapter 3 PDF (book page 43).",
+    "page_number": "4 (Book page 43)"
+  },
+  {
+    "id": 61,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "The angles of a triangle are in the ratio 3 : 5 : 7. Find the measure of each angle and classify the triangle.",
+    "options": [
+      "36°, 60°, 84°; acute-angled triangle",
+      "30°, 60°, 90°; right-angled triangle",
+      "24°, 60°, 96°; obtuse-angled triangle",
+      "36°, 54°, 90°; right-angled triangle"
+    ],
+    "answer": "36°, 60°, 84°; acute-angled triangle",
+    "explanation": "The sum of angles in a triangle is 180°, and the ratio parts add up to 3 + 5 + 7 = 15. One part equals 180° ÷ 15 = 12°, giving angles of 36°, 60°, and 84°, all of which are less than 90°, making it an acute-angled triangle. This is Question 2 of Exercise 3.2 on page 8 of the Chapter 3 PDF (book page 47).",
+    "page_number": "8 (Book page 47)"
+  },
+  {
+    "id": 62,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "A pie chart represents a school's annual budget of ₹40,00,000, with Infrastructure shown as 126°. Find the amount spent on Infrastructure.",
+    "options": [
+      "₹12,00,000",
+      "₹14,00,000",
+      "₹16,00,000",
+      "₹10,00,000"
+    ],
+    "answer": "₹14,00,000",
+    "explanation": "The budget for a category is proportional to its central angle out of 360°. Calculating (126° / 360°) × ₹40,00,000 gives (7/20) × ₹40,00,000 = ₹14,00,000. This is part of Question 4 of Exercise 3.2 on page 8 of the Chapter 3 PDF (book page 47).",
+    "page_number": "8 (Book page 47)"
+  },
+  {
+    "id": 63,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "A train travelling at 72 km/h reaches its destination in 5 hours. If it must arrive 1 hour earlier, what speed should it maintain?",
+    "options": [
+      "80 km/h",
+      "85 km/h",
+      "90 km/h",
+      "96 km/h"
+    ],
+    "answer": "90 km/h",
+    "explanation": "Arriving 1 hour earlier means completing the journey in 5 − 1 = 4 hours. Because speed and time are inversely proportional for a fixed distance, 72 × 5 = v × 4, giving v = 360 ÷ 4 = 90 km/h. This is Question 4 of Exercise 3.3 on page 11 of the Chapter 3 PDF (book page 50).",
+    "page_number": "11 (Book page 50)"
+  },
+  {
+    "id": 64,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question": "A farmer has enough fodder for 18 cows for 25 days. If he buys 12 more cows, for how many days will the fodder last?",
+    "options": [
+      "12 days",
+      "15 days",
+      "18 days",
+      "20 days"
+    ],
+    "answer": "15 days",
+    "explanation": "Buying 12 more cows brings the total to 18 + 12 = 30 cows. Since the number of cows and the number of days the fodder lasts are inversely proportional, 18 × 25 = 30 × d, giving d = 450 ÷ 30 = 15 days. This is Question 5 of Exercise 3.3 on page 11 of the Chapter 3 PDF (book page 50).",
+    "page_number": "11 (Book page 50)"
+  },
+  {
+    "id": 65,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If the map scale is 1 : 50,00,000, then 4 cm on the map represents 200 km.\nReason (R): The actual geographical distance represented by a map is proportional to the distance measured on the map for a fixed scale.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "At a scale of 1 : 50,00,000, 1 cm equals 50 km, so 4 cm represents 4 × 50 = 200 km because map distance and ground distance are directly proportional for a fixed scale. Thus both A and R are true, and R explains A. This is Assertion and Reason Question 3 on page 16 of the Chapter 3 PDF (book page 55).",
+    "page_number": "16 (Book page 55)"
+  },
+  {
+    "id": 66,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If the number of workers increases, the time taken to complete the same work decreases.\nReason (R): For the same amount of work and equal work rates, the product of the number of workers and the time taken remains constant.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "For a fixed task with uniform work rates, total work equals (number of workers) × (time taken), which is constant. Consequently, increasing one factor forces the other to decrease in inverse proportion, so R explains A. This is Assertion and Reason Question 4 on page 17 of the Chapter 3 PDF (book page 56).",
+    "page_number": "17 (Book page 56)"
+  },
+  {
+    "id": 67,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Adding the same positive number to both terms of a ratio of unequal numbers always yields a ratio proportional to the original ratio.\nReason (R): Two ratios are proportional when both terms are multiplied or divided by the same non-zero factor.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "As demonstrated in the age problem (3 : 30 changing to 12 : 39 after 9 years), adding the same number to unequal terms alters the ratio so it is no longer proportional. Proportionality requires multiplying or dividing both terms by the same factor, making A false and R true. This concept is on page 6 of the Proportional Reasoning-1 PDF (book page 164).",
+    "page_number": "6 (Book page 164)"
+  },
+  {
+    "id": 68,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If Puneeth's father rides from Lucknow to Kanpur in 2 hours at 50 km/h, he will take 3 hours to cover the same distance at 75 km/h.\nReason (R): Speed and time for a fixed distance are inversely proportional, so increasing speed reduces travel time.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Assertion (A) wrongly applies direct proportion (50 : 2 :: 75 : 3); in reality, at 75 km/h over 100 km, he will take less time (1 hour 20 minutes). Reason (R) accurately states that speed and time are inversely proportional for a fixed distance. This counterexample is discussed on page 13 of the Proportional Reasoning-1 PDF (book page 171).",
+    "page_number": "13 (Book page 171)"
+  },
+  {
+    "id": 69,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): In a pie chart, the central angle of each slice is directly proportional to the value or frequency of its category.\nReason (R): A pie chart divides 360° according to the ratio of the categories.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "Each sector angle in a pie chart is computed as (Category Value / Total Value) × 360°, which maintains a constant ratio between angle and frequency. Because 360° is shared in the exact ratio of category values, R directly explains A. This is shown on page 6 of the Presentation Slides PDF and page 6 of the Chapter 3 PDF (book page 45).",
+    "page_number": "6 (Book page 45)"
+  },
+  {
+    "id": 70,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "medium",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): To find the value of one part when dividing a whole in a given ratio, you should divide the total quantity by the first term of the ratio.\nReason (R): Adding all the ratio terms gives the total number of parts by which the total quantity must be divided to find the value of one part.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "Dividing the total quantity by only one term of the ratio instead of the sum of all terms is a common error listed in the chapter. To find one part accurately, you must first add all ratio terms and divide the whole by that sum. This common error and correction are detailed on page 12 of the Chapter 3 PDF (book page 51).",
+    "page_number": "12 (Book page 51)"
+  },
+  {
+    "id": 71,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "A map with RF 1 : 120,000 is enlarged so that every map length becomes 1.5 times the original. What is the RF of the enlarged map?",
+    "options": [
+      "1 : 180,000",
+      "1 : 80,000",
+      "1 : 60,000",
+      "1 : 90,000"
+    ],
+    "answer": "1 : 80,000",
+    "explanation": "Originally, 1 cm on the map represents 120,000 cm on the ground. After enlargement, that same ground distance of 120,000 cm is shown as 1.5 cm on the map, giving RF = 1.5 : 120,000 = 1 : (120,000 ÷ 1.5) = 1 : 80,000. This problem is Question 1 on page 1 of the Level 3 Worksheet PDF.",
+    "page_number": "1 (Level 3 Worksheet)"
+  },
+  {
+    "id": 72,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "Two maps show the same road. On Map P, the road measures 9 cm at RF 1 : 60,000. On Map Q, the same road measures 6 cm. Find the RF of Map Q.",
+    "options": [
+      "1 : 40,000",
+      "1 : 80,000",
+      "1 : 90,000",
+      "1 : 120,000"
+    ],
+    "answer": "1 : 90,000",
+    "explanation": "First calculate the actual road length using Map P: 9 cm × 60,000 = 540,000 cm. On Map Q, 6 cm represents this actual length of 540,000 cm, so the RF is 6 : 540,000, which simplifies to 1 : 90,000. This problem appears as Question 2 on page 1 of the Level 3 Worksheet PDF.",
+    "page_number": "1 (Level 3 Worksheet)"
+  },
+  {
+    "id": 73,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "Two maps show the same village. On Map A (RF 1 : 25,000), the distance between the school and hospital is 8 cm. On Map B, the same distance is 4 cm. What is the RF of Map B?",
+    "options": [
+      "1 : 12,500",
+      "1 : 50,000",
+      "1 : 100,000",
+      "1 : 200,000"
+    ],
+    "answer": "1 : 50,000",
+    "explanation": "Using Map A, the actual ground distance is 8 × 25,000 = 200,000 cm. On Map B, 4 cm represents 200,000 cm, so dividing both terms by 4 gives an RF of 1 : 50,000 (because halving map length doubles the RF denominator). This is Competency-based Question 1 on page 15 of the Chapter 3 PDF (book page 54).",
+    "page_number": "15 (Book page 54)"
+  },
+  {
+    "id": 74,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "A paint mixture has red : blue : white = 3 : 5 : 4. After 6 L of red paint is added, the ratio becomes 5 : 5 : 4. Find the original amount of each colour.",
+    "options": [
+      "6 L red, 10 L blue, 8 L white",
+      "9 L red, 15 L blue, 12 L white",
+      "12 L red, 20 L blue, 16 L white",
+      "15 L red, 25 L blue, 20 L white"
+    ],
+    "answer": "9 L red, 15 L blue, 12 L white",
+    "explanation": "Because blue and white quantities are unchanged and remain 5 and 4 parts, the increase in red from 3 parts to 5 parts (a difference of 2 parts) corresponds to the 6 L added. Hence, 1 part = 3 L, making the original amounts 9 L red, 15 L blue, and 12 L white. This is Question 3 on page 1 of the Level 3 Worksheet PDF.",
+    "page_number": "1 (Level 3 Worksheet)"
+  },
+  {
+    "id": 75,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Blue and yellow paints are mixed in the ratio 3 : 5 to produce 40 mL of green paint. If 20 mL of yellow paint is then added to the mixture, what is the new ratio of blue to yellow paint?",
+    "options": [
+      "3 : 7",
+      "1 : 3",
+      "3 : 5",
+      "2 : 5"
+    ],
+    "answer": "1 : 3",
+    "explanation": "In 40 mL mixed in 3 : 5 (total 8 parts, 5 mL per part), there are 15 mL of blue and 25 mL of yellow. Adding 20 mL of yellow gives 25 + 20 = 45 mL of yellow while blue stays 15 mL, making the new ratio 15 : 45 = 1 : 3. This is Question 3 on pages 17 and 27 of the Proportional Reasoning-1 PDF (book page 175, key page 5).",
+    "page_number": "27 (Key page 5)"
+  },
+  {
+    "id": 76,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "One bucket of orange paint is made by mixing red and yellow paints in the ratio 3 : 5. Another full bucket of yellow paint (same bucket size) is added to this mixture. What is the ratio of red to yellow paint in the new mixture?",
+    "options": [
+      "3 : 6",
+      "3 : 10",
+      "3 : 13",
+      "8 : 13"
+    ],
+    "answer": "3 : 13",
+    "explanation": "In the original 1 bucket, red paint is 3/8 of a bucket and yellow paint is 5/8 of a bucket. Adding 1 full bucket of yellow makes the yellow paint 5/8 + 1 = 13/8 buckets, so the ratio of red to yellow is (3/8) : (13/8) = 3 : 13. This is Question 5 on pages 17 and 27 of the Proportional Reasoning-1 PDF (book page 175, key page 5).",
+    "page_number": "27 (Key page 5)"
+  },
+  {
+    "id": 77,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "A sum of money is divided among A, B, and C in the ratio 2 : 4 : 7. If C receives ₹1,500 more than A, what is the total sum?",
+    "options": [
+      "₹3,000",
+      "₹3,600",
+      "₹3,900",
+      "₹4,500"
+    ],
+    "answer": "₹3,900",
+    "explanation": "The difference between C's share (7 parts) and A's share (2 parts) is 5 parts, which equals ₹1,500. Thus 1 part = 1,500 ÷ 5 = ₹300, and the total sum across all 2 + 4 + 7 = 13 parts is 13 × ₹300 = ₹3,900. This is Question 4 on page 1 of the Level 3 Worksheet PDF.",
+    "page_number": "1 (Level 3 Worksheet)"
+  },
+  {
+    "id": 78,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "A pie chart has four sectors in the ratio 2 : 3 : 4 : 6. If one sector measures 48°, which ratio part does it represent and what are all four sector angles?",
+    "options": [
+      "Represents part 2; angles are 48°, 72°, 96°, 144°",
+      "Represents part 3; angles are 32°, 48°, 64°, 96°",
+      "Represents part 4; angles are 24°, 36°, 48°, 72°",
+      "Represents part 2; angles are 48°, 60°, 96°, 156°"
+    ],
+    "answer": "Represents part 2; angles are 48°, 72°, 96°, 144°",
+    "explanation": "The sum of the ratio parts is 2 + 3 + 4 + 6 = 15, so each part in the pie chart equals 360° ÷ 15 = 24°. Therefore, the 48° sector corresponds to 48° ÷ 24° = 2 parts, and the four angles are 48°, 72°, 96°, and 144°. This is Question 5 on page 1 of the Level 3 Worksheet PDF.",
+    "page_number": "1 (Level 3 Worksheet)"
+  },
+  {
+    "id": 79,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "In a pie chart, category A is twice category B, category C is three times category B, and category D equals categories A and B together. Find the sector angles for A, B, C, and D respectively.",
+    "options": [
+      "60°, 30°, 90°, 180°",
+      "80°, 40°, 120°, 120°",
+      "72°, 36°, 108°, 144°",
+      "90°, 45°, 135°, 90°"
+    ],
+    "answer": "80°, 40°, 120°, 120°",
+    "explanation": "Let B = 1 part; then A = 2 parts, C = 3 parts, and D = 2 + 1 = 3 parts, giving a total of 2 + 1 + 3 + 3 = 9 parts. Each part equals 360° ÷ 9 = 40°, so the sector angles are A = 80°, B = 40°, C = 120°, and D = 120°. This is Question 6 on page 1 of the Level 3 Worksheet PDF.",
+    "page_number": "1 (Level 3 Worksheet)"
+  },
+  {
+    "id": 80,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "A quantity is divided in the ratio 3 : 5 : 7. If ₹600 is moved from the largest share to the smallest share, the smallest and middle shares become equal. Find the original total quantity.",
+    "options": [
+      "₹3,000",
+      "₹3,600",
+      "₹4,500",
+      "₹6,000"
+    ],
+    "answer": "₹4,500",
+    "explanation": "Let the shares be 3x, 5x, and 7x. Moving ₹600 to the smallest share makes it equal to the middle share: 3x + 600 = 5x, which gives 2x = 600 and x = 300. Hence, the original total quantity across 3 + 5 + 7 = 15 parts is 15 × ₹300 = ₹4,500. This is Question 7 on page 1 of the Level 3 Worksheet PDF.",
+    "page_number": "1 (Level 3 Worksheet)"
+  },
+  {
+    "id": 81,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "Three water tanks contain water in the ratio 5 : 4 : 3. If 12 L is transferred from the first tank to the third tank, all three tanks contain equal amounts. Find the initial quantity of water in each tank.",
+    "options": [
+      "50 L, 40 L, 30 L",
+      "60 L, 48 L, 36 L",
+      "75 L, 60 L, 45 L",
+      "45 L, 36 L, 27 L"
+    ],
+    "answer": "60 L, 48 L, 36 L",
+    "explanation": "Let the initial amounts be 5x, 4x, and 3x litres. After transferring 12 L from the first to the third, the first tank has 5x − 12 and equals the middle tank 4x, so 5x − 12 = 4x, giving x = 12 L. Thus, the initial quantities are 60 L, 48 L, and 36 L. This is Competency-based Question 3 on page 15 of the Chapter 3 PDF (book page 54).",
+    "page_number": "15 (Book page 54)"
+  },
+  {
+    "id": 82,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "The number of workers on a job increases from 18 to 24 after 8 days. The original plan was for 18 workers to finish the whole job in 20 days. How many more days are needed after the extra workers join?",
+    "options": [
+      "6 days",
+      "8 days",
+      "9 days",
+      "12 days"
+    ],
+    "answer": "9 days",
+    "explanation": "After 8 days, the remaining work for 18 workers would take 20 − 8 = 12 days, representing 18 × 12 = 216 worker-days. With 24 workers now working at the same rate, the remaining work takes 216 ÷ 24 = 9 more days. This is Question 8 on page 1 of the Level 3 Worksheet PDF.",
+    "page_number": "1 (Level 3 Worksheet)"
+  },
+  {
+    "id": 83,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "Twelve workers can complete a project in 25 days. After working for 10 days, 3 more workers join them. Assuming all work at the same rate, how many more days will the remaining work take?",
+    "options": [
+      "10 days",
+      "12 days",
+      "14 days",
+      "15 days"
+    ],
+    "answer": "12 days",
+    "explanation": "After 10 days, 12 workers would still need 25 − 10 = 15 days to finish, which equals 12 × 15 = 180 worker-days of remaining work. With 12 + 3 = 15 workers now sharing the work, they will finish in 180 ÷ 15 = 12 more days. This is Competency-based Question 4 on page 15 of the Chapter 3 PDF (book page 54).",
+    "page_number": "15 (Book page 54)"
+  },
+  {
+    "id": 84,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "A tank can be filled by 6 identical pipes in 10 hours. After 4 hours, 2 pipes are closed. How much more time is needed to fill the remaining part of the tank?",
+    "options": [
+      "6 hours",
+      "8 hours",
+      "9 hours",
+      "10 hours"
+    ],
+    "answer": "9 hours",
+    "explanation": "In 4 hours, 6 pipes complete 4/10 of the tank, leaving 6 hours of work for 6 pipes (6 × 6 = 36 pipe-hours). After 2 pipes are closed, 4 pipes remain, so they will take 36 ÷ 4 = 9 more hours to fill the tank. This is Question 9 on page 1 of the Level 3 Worksheet PDF.",
+    "page_number": "1 (Level 3 Worksheet)"
+  },
+  {
+    "id": 85,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "A fixed journey is planned at 64 km/h for 5 hours. After travelling for 2 hours, the speed for the remaining distance is increased to 96 km/h. Find the total journey time.",
+    "options": [
+      "3.5 hours",
+      "4 hours",
+      "4.5 hours",
+      "5 hours"
+    ],
+    "answer": "4 hours",
+    "explanation": "The total planned distance is 64 × 5 = 320 km, and in the first 2 hours the distance covered is 64 × 2 = 128 km. The remaining 320 − 128 = 192 km covered at 96 km/h takes 192 ÷ 96 = 2 hours, making the total journey time 2 + 2 = 4 hours. This is Question 10 on page 1 of the Level 3 Worksheet PDF.",
+    "page_number": "1 (Level 3 Worksheet)"
+  },
+  {
+    "id": 86,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "A jar of honey fills 4 big cans and 6 small cans. If filled only in small cans, 12 small cans are needed. If only big cans are used, how many big cans are needed?",
+    "options": [
+      "6 big cans",
+      "8 big cans",
+      "9 big cans",
+      "10 big cans"
+    ],
+    "answer": "8 big cans",
+    "explanation": "Since 12 small cans equal 4 big cans + 6 small cans, subtracting 6 small cans from both sides shows that 6 small cans equal 4 big cans. Therefore, the total honey (12 small cans) equals 2 × 4 = 8 big cans. This is Competency-based Question 5 on page 16 of the Chapter 3 PDF (book page 55).",
+    "page_number": "16 (Book page 55)"
+  },
+  {
+    "id": 87,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "On a plan with RF 1 : 1,000, a rectangular eco-park measures 8 cm by 5 cm. If the map is redrawn so that 1 cm represents 5 m, what will be the dimensions of the park on the new map?",
+    "options": [
+      "4 cm by 2.5 cm",
+      "12 cm by 7.5 cm",
+      "16 cm by 10 cm",
+      "20 cm by 12.5 cm"
+    ],
+    "answer": "16 cm by 10 cm",
+    "explanation": "At RF 1 : 1,000 (1 cm = 10 m), the actual park dimensions are 8 × 10 = 80 m by 5 × 10 = 50 m. On the new map where 1 cm represents 5 m, the dimensions become 80 ÷ 5 = 16 cm by 50 ÷ 5 = 10 cm. This is part (d) of Case Study 1 on page 1 of the Case Study Worksheet Key PDF.",
+    "page_number": "1 (Case Study Worksheet Key)"
+  },
+  {
+    "id": 88,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question": "Six volunteers working at the same rate can pack 240 relief kits in 4 hours. How long will 8 volunteers take to pack 480 kits at the same rate?",
+    "options": [
+      "4 hours",
+      "5 hours",
+      "6 hours",
+      "8 hours"
+    ],
+    "answer": "6 hours",
+    "explanation": "Each volunteer packs 240 ÷ (6 × 4) = 10 kits per hour. Thus, 8 volunteers together pack 8 × 10 = 80 kits per hour, so packing 480 kits will take 480 ÷ 80 = 6 hours. This is part (c) of Case Study 2 on page 2 of the Case Study Worksheet Key PDF.",
+    "page_number": "2 (Case Study Worksheet Key)"
+  },
+  {
+    "id": 89,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A mason needs approximately 1,450 bricks to build a 10-foot wall. For the house plan whose outer and inner walls have a total length of 108 ft (all of the same height and thickness), how many bricks are needed?",
+    "options": [
+      "14,500 bricks",
+      "15,225 bricks",
+      "15,660 bricks",
+      "16,000 bricks"
+    ],
+    "answer": "15,660 bricks",
+    "explanation": "Summing all wall segments in the diagram gives 12 + 12 + 12 + 15 + 9 + 15 + 9 + 9 + 9 + 6 = 108 ft. Setting up the proportion 10 : 1,450 :: 108 : x yields x = (1,450 × 108) ÷ 10 = 15,660 bricks. This problem and its solution are on pages 12–13 and 26 of the Proportional Reasoning-1 PDF (book pages 170–171, key page 4).",
+    "page_number": "26 (Key page 4)"
+  },
+  {
+    "id": 90,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "In an ancient problem from Lilavati: If 2 1/2 palas of saffron costs 3/7 niskas, what quantity of saffron can be bought for 9 niskas?",
+    "options": [
+      "35.5 palas",
+      "45 palas",
+      "52.5 palas",
+      "63 palas"
+    ],
+    "answer": "52.5 palas",
+    "explanation": "Using the Rule of Three (3/7 : 2.5 :: 9 : x), multiply 2.5 by 9 to get 22.5 and divide by 3/7. Calculating 22.5 × (7/3) = 7.5 × 7 = 52.5 palas. This classical problem and answer appear on pages 18–19 and 28 of the Proportional Reasoning-1 PDF (book pages 176–177, key page 6).",
+    "page_number": "28 (Key page 6)"
+  },
+  {
+    "id": 91,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "Harmain is 1 year old and her elder brother is 5 years old. What will be Harmain's age when the ratio of her age to her brother's age becomes 1 : 2?",
+    "options": [
+      "3 years",
+      "4 years",
+      "5 years",
+      "6 years"
+    ],
+    "answer": "4 years",
+    "explanation": "Let x be the number of years later when the ratio is 1 : 2, so (1 + x) / (5 + x) = 1 / 2. Cross-multiplying gives 2(1 + x) = 5 + x, so 2 + 2x = 5 + x and x = 3 years; hence Harmain's age will be 1 + 3 = 4 years. This is Question 6 on pages 19 and 28–29 of the Proportional Reasoning-1 PDF (book page 177, key page 7).",
+    "page_number": "29 (Key page 7)"
+  },
+  {
+    "id": 92,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "It is good farming practice to apply 10 tonnes of cow manure per 1 acre (43,560 sq. ft). Approximately how much manure should a farmer buy for a plot measuring 200 ft by 500 ft?",
+    "options": [
+      "10,000 kg",
+      "20,000 kg",
+      "22,957 kg",
+      "25,400 kg"
+    ],
+    "answer": "22,957 kg",
+    "explanation": "The plot area is 200 × 500 = 100,000 sq. ft, and 10 tonnes equals 10,000 kg. Using the proportion x : 100,000 :: 10,000 : 43,560 gives x = (100,000 × 10,000) ÷ 43,560 ≈ 22,956.8 kg (about 22,957 kg or 22.96 tonnes). This is Question 8 on pages 19 and 29 of the Proportional Reasoning-1 PDF (book page 177, key page 7).",
+    "page_number": "29 (Key page 7)"
+  },
+  {
+    "id": 93,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "One acre (43,560 sq. ft) of land costs ₹15,00,000. What is the approximate cost of 2,400 square feet of the same land?",
+    "options": [
+      "₹72,500",
+      "₹82,645",
+      "₹90,000",
+      "₹96,450"
+    ],
+    "answer": "₹82,645",
+    "explanation": "Since 1 acre equals 43,560 sq. ft, the cost of 2,400 sq. ft is proportional to its area: (2,400 ÷ 43,560) × ₹15,00,000. Computing 3,60,00,00,000 ÷ 43,560 gives approximately ₹82,645. This is Question 10 on pages 19 and 29 of the Proportional Reasoning-1 PDF (book page 177, key page 7).",
+    "page_number": "29 (Key page 7)"
+  },
+  {
+    "id": 94,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "hard",
+    "question": "A ₹10 coin of mass 7.74 g is made of copper and nickel in the ratio 3 : 1. If copper costs ₹906 per kg and nickel costs ₹1,341 per kg, what is the total cost of these metals in one ₹10 coin?",
+    "options": [
+      "₹6.85",
+      "₹7.25",
+      "₹7.85",
+      "₹8.45"
+    ],
+    "answer": "₹7.85",
+    "explanation": "Dividing 7.74 g in the ratio 3 : 1 gives 5.805 g of copper and 1.935 g of nickel. Copper costs (5.805 ÷ 1,000) × 906 ≈ ₹5.26 and nickel costs (1.935 ÷ 1,000) × 1,341 ≈ ₹2.59, making the total metal cost ₹5.26 + ₹2.59 = ₹7.85. This is Question 12 on pages 19 and 30 of the Proportional Reasoning-1 PDF (book page 177, key page 8).",
+    "page_number": "30 (Key page 8)"
+  },
+  {
+    "id": 95,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): If the number of identical pumps filling a tank is doubled, the time taken to fill the tank is halved.\nReason (R): The product of the number of pumps and the time taken remains constant for the same tank.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "For a given tank, identical pumps fill at an inverse proportion to time, meaning (pumps × time) = constant. When the number of pumps is multiplied by 2, the time must be divided by 2 to keep the product unchanged, so R explains A. This is Assertion and Reason Question 5 on page 17 of the Chapter 3 PDF (book page 56).",
+    "page_number": "17 (Book page 56)"
+  },
+  {
+    "id": 96,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): In the market, the price of a 1,000 mL shampoo bottle is strictly proportional to the price of a 6 mL sachet of the same shampoo.\nReason (R): Companies often price larger containers lower per millilitre than small sachets, so the ratio of volume to price may not remain constant.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "In Activity 2's sample market table, a 6 mL sachet costs ₹2 (₹0.33/mL) while a 1,000 mL bottle costs ₹540 (₹0.54/mL), and a 180 mL bottle costs ₹154, proving the ratios 6 : 180 and 2 : 154 are not proportional. Thus prices across pack sizes are generally not proportional, making A false and R true. This activity appears on pages 13–14 of the Proportional Reasoning-1 PDF (book pages 171–172).",
+    "page_number": "14 (Book page 172)"
+  },
+  {
+    "id": 97,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): When a map is enlarged so that every length on the map doubles, the denominator of its Representative Fraction (1 : D) also doubles.\nReason (R): Representative Fraction is the ratio of map distance to actual ground distance, and the actual ground distance stays unchanged.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "A is false, R is true.",
+    "explanation": "When map lengths double while ground distance stays fixed, 2 cm on the new map represents the same D cm on the ground, so the new RF is 2 : D = 1 : (D/2), meaning the denominator halves rather than doubles. Hence A is false and R is true. This principle relates to map enlargement on page 1 of the Level 3 Worksheet PDF and page 3 of the Chapter 3 PDF (book page 42).",
+    "page_number": "1 (Level 3 Worksheet)"
+  },
+  {
+    "id": 98,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-2",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): For a fixed working time, doubling the number of volunteers doubles the number of relief kits packed, whereas for a fixed number of kits, doubling the volunteers halves the time taken.\nReason (R): Total kits packed equals (number of volunteers) × (working time) × (packing rate per volunteer per hour).",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "From the relation Kits = Volunteers × Time × Rate, when Time and Rate are fixed, Kits is directly proportional to Volunteers (doubling volunteers doubles kits). When Kits and Rate are fixed, Volunteers × Time is constant, so doubling volunteers halves the time, meaning R explains A. This concept is tested in Case Study 2 on page 2 of the Case Study Worksheet Key PDF.",
+    "page_number": "2 (Case Study Worksheet Key)"
+  },
+  {
+    "id": 99,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): Adding 2 kg of cement to a 40 kg mixture of sand and cement (initially in the ratio 3 : 1) changes the ratio of sand to cement to 5 : 2.\nReason (R): Adding cement increases only the quantity of cement from 10 kg to 12 kg while the quantity of sand remains constant at 30 kg.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "In the 40 kg mixture (ratio 3 : 1), sand is 30 kg and cement is 10 kg. Adding 2 kg of cement increases cement to 12 kg while sand stays 30 kg, yielding a new ratio of 30 : 12, which simplifies to 5 : 2. This is Example 12 on pages 16–17 of the Proportional Reasoning-1 PDF (book pages 174–175).",
+    "page_number": "17 (Book page 175)"
+  },
+  {
+    "id": 100,
+    "subject": "Mathematics",
+    "chapter": "Proportional Reasoning-1-MCQ-v1",
+    "difficulty": "hard",
+    "question_type": "assertion_reason",
+    "question": "Assertion (A): In a house construction where all walls have uniform height and thickness, the number of bricks required is directly proportional to the total length of the walls.\nReason (R): Because height and thickness do not vary, doubling the wall length doubles the wall volume and requires twice as many bricks.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, R is false.",
+      "A is false, R is true."
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A.",
+    "explanation": "With constant wall height and thickness, the number of bricks per foot of wall remains constant, creating a direct proportion between wall length and total bricks needed. Therefore, both A and R are true and R correctly explains A. This problem is found on pages 12–13 and 26 of the Proportional Reasoning-1 PDF (book pages 170–171, key page 4).",
+    "page_number": "13 (Book page 171)"
+  }
+]
